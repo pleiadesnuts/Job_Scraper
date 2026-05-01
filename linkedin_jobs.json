@@ -1,100 +1,44 @@
 {
-  "scraped_at": "2026-05-01 16:59 UTC",
-  "total": 12,
+  "scraped_at": "2026-05-01 20:05 UTC",
+  "total": 5,
   "jobs": [
     {
+      "company": "SoFi",
+      "title": "Intern, Data Scientist, Money",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4407233134/",
+      "date_posted": "2026-05-01",
+      "ats": "LinkedIn"
+    },
+    {
       "company": "Whatnot",
-      "title": "Machine Learning Engineer, Content and Navigation",
+      "title": "Data Scientist, Finance",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4368266817/",
+      "url": "https://www.linkedin.com/jobs/view/4407964096/",
       "date_posted": "2026-05-01",
       "ats": "LinkedIn"
     },
     {
-      "company": "Enigma Search",
-      "title": "Machine Learning Engineer - Drug Discovery",
-      "location": "South San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4396052883/",
+      "company": "TetraMem - Accelerate The World",
+      "title": "Mid-Level Machine Learning Engineer",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4403636486/",
       "date_posted": "2026-05-01",
       "ats": "LinkedIn"
     },
     {
-      "company": "Bedrock Robotics",
-      "title": "Machine Learning Engineer: Evaluation",
+      "company": "myGwork - LGBTQ+ Business Community",
+      "title": "Sr. Applied Scientist, Prime Video - Personalization and Discovery Science",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4406470548/",
+      "date_posted": "2026-05-01",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "LABUR",
+      "title": "Agentic AI Engineer",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4367573059/",
-      "date_posted": "2026-05-01",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Gridware",
-      "title": "Senior Data Scientist, Fleet Performance Optimization",
-      "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4385700423/",
-      "date_posted": "2026-05-01",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Google",
-      "title": "Data Scientist III, Research",
-      "location": "Mountain View, CA",
-      "url": "https://www.linkedin.com/jobs/view/4407943393/",
-      "date_posted": "2026-05-01",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Okta",
-      "title": "Staff Data Scientist",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4385491119/",
-      "date_posted": "2026-05-01",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Tata Consultancy Services",
-      "title": "Senior Data Scientist",
-      "location": "Pleasanton, CA",
-      "url": "https://www.linkedin.com/jobs/view/4407939636/",
-      "date_posted": "2026-05-01",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Mindlance",
-      "title": "Data Scientist",
-      "location": "Concord, CA",
-      "url": "https://www.linkedin.com/jobs/view/4409408504/",
-      "date_posted": "2026-05-01",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Workato",
-      "title": "Intern, AI Engineering",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4400379081/",
-      "date_posted": "2026-05-01",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Pinterest",
-      "title": "Sr. Data Scientist, tvScientific",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4378073429/",
-      "date_posted": "2026-05-01",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Grindr",
-      "title": "Senior Staff MLOps Engineer",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4345838900/",
-      "date_posted": "2026-05-01",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Kickmaker",
-      "title": "AI Engineer",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4387393753/",
+      "url": "https://www.linkedin.com/jobs/view/4409471278/",
       "date_posted": "2026-05-01",
       "ats": "LinkedIn"
     }
