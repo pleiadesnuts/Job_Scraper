@@ -1,37 +1,21 @@
 {
-  "scraped_at": "2026-04-30 22:55 UTC",
-  "total": 4,
+  "scraped_at": "2026-05-01 04:51 UTC",
+  "total": 2,
   "jobs": [
     {
-      "company": "Buck Institute for Research on Aging",
-      "title": "Data Scientist / AI Scientist \u2013 AI for Aging Research \u2013 Zhou lab",
-      "location": "Novato, CA",
-      "url": "https://www.linkedin.com/jobs/view/4404543004/",
-      "date_posted": "2026-04-30",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Walmart",
-      "title": "Staff, Data Scientist",
+      "company": "Uber",
+      "title": "Staff Machine Learning Engineer, Rider Pricing & Incentives",
       "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4406750198/",
-      "date_posted": "2026-04-30",
+      "url": "https://www.linkedin.com/jobs/view/4409141654/",
+      "date_posted": "2026-05-01",
       "ats": "LinkedIn"
     },
     {
-      "company": "Roche",
-      "title": "Principal Data Scientist",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4409088512/",
-      "date_posted": "2026-04-30",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "scalr",
-      "title": "AI Engineer",
-      "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4406716918/",
-      "date_posted": "2026-04-30",
+      "company": "BioSpace",
+      "title": "Scientific Lead - Forward Deployed AI Engineer, Applied Intelligence for Discovery",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4408730011/",
+      "date_posted": "2026-05-01",
       "ats": "LinkedIn"
     }
   ]
