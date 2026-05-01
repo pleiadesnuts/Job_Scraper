@@ -1,20 +1,100 @@
 {
-  "scraped_at": "2026-05-01 04:51 UTC",
-  "total": 2,
+  "scraped_at": "2026-05-01 16:59 UTC",
+  "total": 12,
   "jobs": [
     {
-      "company": "Uber",
-      "title": "Staff Machine Learning Engineer, Rider Pricing & Incentives",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4409141654/",
+      "company": "Whatnot",
+      "title": "Machine Learning Engineer, Content and Navigation",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4368266817/",
       "date_posted": "2026-05-01",
       "ats": "LinkedIn"
     },
     {
-      "company": "BioSpace",
-      "title": "Scientific Lead - Forward Deployed AI Engineer, Applied Intelligence for Discovery",
+      "company": "Enigma Search",
+      "title": "Machine Learning Engineer - Drug Discovery",
+      "location": "South San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4396052883/",
+      "date_posted": "2026-05-01",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Bedrock Robotics",
+      "title": "Machine Learning Engineer: Evaluation",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4408730011/",
+      "url": "https://www.linkedin.com/jobs/view/4367573059/",
+      "date_posted": "2026-05-01",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Gridware",
+      "title": "Senior Data Scientist, Fleet Performance Optimization",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4385700423/",
+      "date_posted": "2026-05-01",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Google",
+      "title": "Data Scientist III, Research",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4407943393/",
+      "date_posted": "2026-05-01",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Okta",
+      "title": "Staff Data Scientist",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4385491119/",
+      "date_posted": "2026-05-01",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Tata Consultancy Services",
+      "title": "Senior Data Scientist",
+      "location": "Pleasanton, CA",
+      "url": "https://www.linkedin.com/jobs/view/4407939636/",
+      "date_posted": "2026-05-01",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Mindlance",
+      "title": "Data Scientist",
+      "location": "Concord, CA",
+      "url": "https://www.linkedin.com/jobs/view/4409408504/",
+      "date_posted": "2026-05-01",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Workato",
+      "title": "Intern, AI Engineering",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4400379081/",
+      "date_posted": "2026-05-01",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Pinterest",
+      "title": "Sr. Data Scientist, tvScientific",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4378073429/",
+      "date_posted": "2026-05-01",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Grindr",
+      "title": "Senior Staff MLOps Engineer",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4345838900/",
+      "date_posted": "2026-05-01",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Kickmaker",
+      "title": "AI Engineer",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4387393753/",
       "date_posted": "2026-05-01",
       "ats": "LinkedIn"
     }
