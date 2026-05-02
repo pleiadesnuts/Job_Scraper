@@ -1,60 +1,20 @@
 {
-  "scraped_at": "2026-05-02 19:54 UTC",
-  "total": 7,
+  "scraped_at": "2026-05-02 22:45 UTC",
+  "total": 2,
   "jobs": [
     {
-      "company": "Jobs via Dice",
-      "title": "Machine Learning Engineer",
-      "location": "Menlo Park, CA",
-      "url": "https://www.linkedin.com/jobs/view/4406566974/",
-      "date_posted": "2026-05-02",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Jobs via Dice",
-      "title": "Data Scientist",
-      "location": "Menlo Park, CA",
-      "url": "https://www.linkedin.com/jobs/view/4406574912/",
-      "date_posted": "2026-05-02",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "SAP",
-      "title": "Senior AI/ML Applied Scientist - Generative AI",
-      "location": "Palo Alto, CA",
-      "url": "https://www.linkedin.com/jobs/view/4306692101/",
-      "date_posted": "2026-05-02",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "BlackRock",
-      "title": "Applied AI Engineer - Fundamental Equity Tech Investing Team",
+      "company": "Uber",
+      "title": "Staff Machine Learning Engineer - Pricing & Incentives",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4409829110/",
+      "url": "https://www.linkedin.com/jobs/view/4409814759/",
       "date_posted": "2026-05-02",
       "ats": "LinkedIn"
     },
     {
-      "company": "Capital One",
-      "title": "Lead AI Engineer",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4388724160/",
-      "date_posted": "2026-05-02",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Capital One",
-      "title": "Lead AI Engineer (Gen AI Platform, Agentic AI & LLM Infrastructure & Orchestration)",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4388522733/",
-      "date_posted": "2026-05-02",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Capital One",
-      "title": "Distinguished AI Engineer (Agentic AI Platform)",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4362442865/",
+      "company": "Jobright.ai",
+      "title": "AI Engineer (Agents)",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4408331945/",
       "date_posted": "2026-05-02",
       "ats": "LinkedIn"
     }
