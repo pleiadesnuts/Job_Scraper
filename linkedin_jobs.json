@@ -1,60 +1,84 @@
 {
-  "scraped_at": "2026-05-05 04:17 UTC",
-  "total": 7,
+  "scraped_at": "2026-05-05 17:26 UTC",
+  "total": 10,
   "jobs": [
     {
-      "company": "XPENG",
-      "title": "Machine Learning Engineer - LLM, AI & Robotics",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4410290826/",
-      "date_posted": "2026-05-05",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Experis",
-      "title": "AI/ML Engineer 2",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4408954783/",
-      "date_posted": "2026-05-05",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Cursor",
-      "title": "Data Scientist, Performance and Reliability",
+      "company": "Samba TV",
+      "title": "Data Scientist",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4410512018/",
+      "url": "https://www.linkedin.com/jobs/view/4401794091/",
       "date_posted": "2026-05-05",
       "ats": "LinkedIn"
     },
     {
-      "company": "Target",
-      "title": "Lead ML Engineer - Personalization and Item Recommendations",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4410282938/",
+      "company": "Hire Feed",
+      "title": "Machine Learning Engineer (Remote)",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4410708983/",
       "date_posted": "2026-05-05",
       "ats": "LinkedIn"
     },
     {
-      "company": "XPENG",
-      "title": "Senior Staff AI Engineer",
+      "company": "Hire Feed",
+      "title": "Data Scientist (Remote)",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4410724316/",
+      "date_posted": "2026-05-05",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Applied Materials",
+      "title": "Data Scientist II",
       "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4410284915/",
+      "url": "https://www.linkedin.com/jobs/view/4408414925/",
       "date_posted": "2026-05-05",
       "ats": "LinkedIn"
     },
     {
-      "company": "Parallel Web Systems",
-      "title": "Early Career Research Engineer",
-      "location": "Palo Alto, CA",
-      "url": "https://www.linkedin.com/jobs/view/4410507137/",
+      "company": "Hire Feed",
+      "title": "Senior Data Scientist (Remote)",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4410733342/",
       "date_posted": "2026-05-05",
       "ats": "LinkedIn"
     },
     {
-      "company": "General Motors",
-      "title": "Machine Learning Engineer, AI Inference Solutions (University Grad)",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4410286892/",
+      "company": "The RealReal",
+      "title": "Staff Applied Scientist",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4389431188/",
+      "date_posted": "2026-05-05",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "San Jos\u00e9 State University",
+      "title": "Department of Applied Data Science Lecturer Pool",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4158336551/",
+      "date_posted": "2026-05-05",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Williams-Sonoma, Inc.",
+      "title": "Research Engineering Internship - AI, Computer Vision, & Visualization",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4279104491/",
+      "date_posted": "2026-05-05",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Google",
+      "title": "Product Data Scientist, Education",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4409363646/",
+      "date_posted": "2026-05-05",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Hire Feed",
+      "title": "AI Engineer (Remote)",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4410712995/",
       "date_posted": "2026-05-05",
       "ats": "LinkedIn"
     }
