@@ -1,84 +1,60 @@
 {
-  "scraped_at": "2026-05-05 17:26 UTC",
-  "total": 10,
+  "scraped_at": "2026-05-05 20:09 UTC",
+  "total": 7,
   "jobs": [
     {
-      "company": "Samba TV",
-      "title": "Data Scientist",
+      "company": "Strativ Group",
+      "title": "Machine Learning Engineer - LLMs",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4379085295/",
+      "date_posted": "2026-05-05",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Jobs via Dice",
+      "title": "Senior Data Scientist",
+      "location": "Pleasanton, CA",
+      "url": "https://www.linkedin.com/jobs/view/4409390748/",
+      "date_posted": "2026-05-05",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Decagon",
+      "title": "Research Engineer, Agents",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4401794091/",
-      "date_posted": "2026-05-05",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Hire Feed",
-      "title": "Machine Learning Engineer (Remote)",
-      "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4410708983/",
-      "date_posted": "2026-05-05",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Hire Feed",
-      "title": "Data Scientist (Remote)",
-      "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4410724316/",
-      "date_posted": "2026-05-05",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Applied Materials",
-      "title": "Data Scientist II",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4408414925/",
-      "date_posted": "2026-05-05",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Hire Feed",
-      "title": "Senior Data Scientist (Remote)",
-      "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4410733342/",
-      "date_posted": "2026-05-05",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "The RealReal",
-      "title": "Staff Applied Scientist",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4389431188/",
-      "date_posted": "2026-05-05",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "San Jos\u00e9 State University",
-      "title": "Department of Applied Data Science Lecturer Pool",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4158336551/",
-      "date_posted": "2026-05-05",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Williams-Sonoma, Inc.",
-      "title": "Research Engineering Internship - AI, Computer Vision, & Visualization",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4279104491/",
+      "url": "https://www.linkedin.com/jobs/view/4410756915/",
       "date_posted": "2026-05-05",
       "ats": "LinkedIn"
     },
     {
       "company": "Google",
-      "title": "Product Data Scientist, Education",
+      "title": "Senior Product Data Scientist, Google Home Quality and Intelligence",
       "location": "Mountain View, CA",
-      "url": "https://www.linkedin.com/jobs/view/4409363646/",
+      "url": "https://www.linkedin.com/jobs/view/4409387705/",
       "date_posted": "2026-05-05",
       "ats": "LinkedIn"
     },
     {
-      "company": "Hire Feed",
-      "title": "AI Engineer (Remote)",
-      "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4410712995/",
+      "company": "Jobs via Dice",
+      "title": "Data Scientist II",
+      "location": "South San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4409392666/",
+      "date_posted": "2026-05-05",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Alterion",
+      "title": "Senior Applied AI Engineer",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4410769430/",
+      "date_posted": "2026-05-05",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Jobs via Dice",
+      "title": "AI Engineer",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4409381945/",
       "date_posted": "2026-05-05",
       "ats": "LinkedIn"
     }

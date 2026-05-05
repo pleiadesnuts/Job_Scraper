@@ -1,44 +1,32 @@
 # 🔥 LinkedIn — Last Hour MLE / DS Roles (SF Bay Area)
-*Last updated: 2026-05-05 17:26 UTC*
+*Last updated: 2026-05-05 20:09 UTC*
 
-**10 role(s) posted in the last hour**
+**7 role(s) posted in the last hour**
 
-### [Data Scientist](https://www.linkedin.com/jobs/view/4401794091/) — Samba TV
+### [Machine Learning Engineer - LLMs](https://www.linkedin.com/jobs/view/4379085295/) — Strativ Group
+- 📍 **Location:** Palo Alto, CA
+- 🕒 **Posted:** 2026-05-05
+
+### [Senior Data Scientist](https://www.linkedin.com/jobs/view/4409390748/) — Jobs via Dice
+- 📍 **Location:** Pleasanton, CA
+- 🕒 **Posted:** 2026-05-05
+
+### [Research Engineer, Agents](https://www.linkedin.com/jobs/view/4410756915/) — Decagon
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-05-05
 
-### [Machine Learning Engineer (Remote)](https://www.linkedin.com/jobs/view/4410708983/) — Hire Feed
-- 📍 **Location:** San Francisco Bay Area
-- 🕒 **Posted:** 2026-05-05
-
-### [Data Scientist (Remote)](https://www.linkedin.com/jobs/view/4410724316/) — Hire Feed
-- 📍 **Location:** San Francisco Bay Area
-- 🕒 **Posted:** 2026-05-05
-
-### [Data Scientist II](https://www.linkedin.com/jobs/view/4408414925/) — Applied Materials
-- 📍 **Location:** Santa Clara, CA
-- 🕒 **Posted:** 2026-05-05
-
-### [Senior Data Scientist (Remote)](https://www.linkedin.com/jobs/view/4410733342/) — Hire Feed
-- 📍 **Location:** San Francisco Bay Area
-- 🕒 **Posted:** 2026-05-05
-
-### [Staff Applied Scientist](https://www.linkedin.com/jobs/view/4389431188/) — The RealReal
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-05-05
-
-### [Department of Applied Data Science Lecturer Pool](https://www.linkedin.com/jobs/view/4158336551/) — San José State University
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-05-05
-
-### [Research Engineering Internship - AI, Computer Vision, & Visualization](https://www.linkedin.com/jobs/view/4279104491/) — Williams-Sonoma, Inc.
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-05-05
-
-### [Product Data Scientist, Education](https://www.linkedin.com/jobs/view/4409363646/) — Google
+### [Senior Product Data Scientist, Google Home Quality and Intelligence](https://www.linkedin.com/jobs/view/4409387705/) — Google
 - 📍 **Location:** Mountain View, CA
 - 🕒 **Posted:** 2026-05-05
 
-### [AI Engineer (Remote)](https://www.linkedin.com/jobs/view/4410712995/) — Hire Feed
-- 📍 **Location:** San Francisco Bay Area
+### [Data Scientist II](https://www.linkedin.com/jobs/view/4409392666/) — Jobs via Dice
+- 📍 **Location:** South San Francisco, CA
+- 🕒 **Posted:** 2026-05-05
+
+### [Senior Applied AI Engineer](https://www.linkedin.com/jobs/view/4410769430/) — Alterion
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-05-05
+
+### [AI Engineer](https://www.linkedin.com/jobs/view/4409381945/) — Jobs via Dice
+- 📍 **Location:** Mountain View, CA
 - 🕒 **Posted:** 2026-05-05
