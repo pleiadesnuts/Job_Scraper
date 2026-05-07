@@ -1,116 +1,52 @@
 {
-  "scraped_at": "2026-05-07 20:16 UTC",
-  "total": 14,
+  "scraped_at": "2026-05-07 23:02 UTC",
+  "total": 6,
   "jobs": [
     {
-      "company": "MPower Plus",
-      "title": "Data Scientist",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4411688731/",
-      "date_posted": "2026-05-07",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "ServiceNow",
-      "title": "Machine Learning Engineer, GAI Search Platform - Moveworks",
-      "location": "Mountain View, CA",
-      "url": "https://www.linkedin.com/jobs/view/4411693179/",
-      "date_posted": "2026-05-07",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Buck Institute for Research on Aging",
-      "title": "Data Scientist / AI Scientist \u2013 AI for Aging Research \u2013 Zhou lab",
-      "location": "Novato, CA",
-      "url": "https://www.linkedin.com/jobs/view/4404543004/",
-      "date_posted": "2026-05-07",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Yoh, A Day & Zimmermann Company",
-      "title": "Machine Learning / Agentic AI Engineer - Mexico",
+      "company": "Tessera Data",
+      "title": "Machine Learning Engineer",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4411694648/",
+      "url": "https://www.linkedin.com/jobs/view/4411810698/",
       "date_posted": "2026-05-07",
       "ats": "LinkedIn"
     },
     {
-      "company": "Uber",
-      "title": "Data Scientist II, Insurance",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4411802058/",
+      "company": "Open Talent",
+      "title": "Founding AI/ML Engineer / $500k / Remote",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4409624511/",
       "date_posted": "2026-05-07",
       "ats": "LinkedIn"
     },
     {
-      "company": "Anthropic",
-      "title": "Data Scientist, Supply",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4410837539/",
-      "date_posted": "2026-05-07",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Jobs via Dice",
-      "title": "Senior AI Data Scientist (Internal AI & Infrastructure)",
+      "company": "Adobe",
+      "title": "2026 Intern - Applied Science/Machine Learning Engineer",
       "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4410853339/",
+      "url": "https://www.linkedin.com/jobs/view/4410878026/",
       "date_posted": "2026-05-07",
       "ats": "LinkedIn"
     },
     {
-      "company": "Anthropic",
-      "title": "Data Scientist, Product",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4410847470/",
-      "date_posted": "2026-05-07",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Fiddler AI",
-      "title": "Staff AI Scientist",
+      "company": "Harmonic",
+      "title": "Research Engineer, Training & Inference",
       "location": "Palo Alto, CA",
-      "url": "https://www.linkedin.com/jobs/view/4411802258/",
+      "url": "https://www.linkedin.com/jobs/view/4410871057/",
       "date_posted": "2026-05-07",
       "ats": "LinkedIn"
     },
     {
-      "company": "adaption",
-      "title": "Applied Scientist",
+      "company": "AppFolio",
+      "title": "Sr. Machine Learning Engineer",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4411685792/",
+      "url": "https://www.linkedin.com/jobs/view/4411815585/",
       "date_posted": "2026-05-07",
       "ats": "LinkedIn"
     },
     {
-      "company": "adaption",
-      "title": "Applied Scientist",
-      "location": "Redwood City, CA",
-      "url": "https://www.linkedin.com/jobs/view/4411692726/",
-      "date_posted": "2026-05-07",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Jerry",
-      "title": "Lead Data Scientist",
+      "company": "Harmonic",
+      "title": "Research Engineer, Technical Lead",
       "location": "Palo Alto, CA",
-      "url": "https://www.linkedin.com/jobs/view/4409606827/",
-      "date_posted": "2026-05-07",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Jack & Jill",
-      "title": "Applied AI Engineer ($170K\u2013$230K + Equity) at $35M Sequoia-backed healthtech startup",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4410850358/",
-      "date_posted": "2026-05-07",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Jack & Jill",
-      "title": "Founding AI Engineer Intern at San Francisco AI agent startup",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4410843436/",
+      "url": "https://www.linkedin.com/jobs/view/4330408820/",
       "date_posted": "2026-05-07",
       "ats": "LinkedIn"
     }
