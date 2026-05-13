@@ -1,311 +1,71 @@
 {
-  "scraped_at": "2026-05-13 17:16 UTC",
-  "total": 19,
-  "new_count": 19,
+  "scraped_at": "2026-05-13 21:11 UTC",
+  "total": 4,
+  "new_count": 4,
   "jobs": [
     {
-      "company": "Uber",
-      "title": "Machine Learning Engineer II",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4414215587/",
+      "company": "Shields Group Search",
+      "title": "Machine Learning Engineer",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4408335861/",
       "date_posted": "2026-05-13",
       "ats": "LinkedIn"
     },
     {
-      "company": "Avance Consulting",
-      "title": "AI/ML Engineer",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4414133758/",
+      "company": "Theron Solutions",
+      "title": "Data Scientist",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4414282166/",
       "date_posted": "2026-05-13",
       "ats": "LinkedIn"
     },
     {
-      "company": "Glean",
-      "title": "Machine Learning Engineer, Enterprise Brain",
-      "location": "Mountain View, CA",
-      "url": "https://www.linkedin.com/jobs/view/4324842782/",
+      "company": "Philo",
+      "title": "Sr. Machine Learning Engineer (Recommendation Systems)",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4302123397/",
       "date_posted": "2026-05-13",
       "ats": "LinkedIn"
     },
     {
-      "company": "Glean",
-      "title": "Machine Learning Engineer, Search Quality",
-      "location": "Mountain View, CA",
-      "url": "https://www.linkedin.com/jobs/view/4195257196/",
-      "date_posted": "2026-05-13",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Amazon Web Services (AWS)",
-      "title": "Data Scientist, AWS Quick Data",
+      "company": "AMD",
+      "title": "Staff AI Research Engineer",
       "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4394630077/",
-      "date_posted": "2026-05-13",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "QuinStreet",
-      "title": "Senior Machine Learning Engineer - Ranking",
-      "location": "Foster City, CA",
-      "url": "https://www.linkedin.com/jobs/view/4404438285/",
-      "date_posted": "2026-05-13",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Unity",
-      "title": "Staff Machine Learning Engineer, CVR",
-      "location": "Mountain View, CA",
-      "url": "https://www.linkedin.com/jobs/view/4414226040/",
-      "date_posted": "2026-05-13",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Unity South APAC (SEA, ANZ, IND Subcont.)",
-      "title": "Staff Machine Learning Engineer, CVR",
-      "location": "Mountain View, CA",
-      "url": "https://www.linkedin.com/jobs/view/4410636184/",
-      "date_posted": "2026-05-13",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Palo Alto Networks",
-      "title": "Principal Machine Learning Engineer (Internet Security LLMs, NLP, Deep Learning))",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4396166256/",
-      "date_posted": "2026-05-13",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Wayve",
-      "title": "Senior Data Scientist",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4396167255/",
-      "date_posted": "2026-05-13",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Grindr",
-      "title": "Senior Data Scientist",
-      "location": "Palo Alto, CA",
-      "url": "https://www.linkedin.com/jobs/view/4267540849/",
-      "date_posted": "2026-05-13",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Lila Sciences",
-      "title": "Sr. Principal / Distinguished ML Scientist, Autonomous Science for Cell Biology",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4414202953/",
-      "date_posted": "2026-05-13",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Coupang",
-      "title": "Staff Data Scientist",
-      "location": "Mountain View, CA",
-      "url": "https://www.linkedin.com/jobs/view/4392812200/",
-      "date_posted": "2026-05-13",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Unity",
-      "title": "Applied Scientist, Vector AI",
-      "location": "Mountain View, CA",
-      "url": "https://www.linkedin.com/jobs/view/4414229077/",
-      "date_posted": "2026-05-13",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "SoFi",
-      "title": "Senior Manager Marketing Data Scientist, AI Enablement",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4393274253/",
-      "date_posted": "2026-05-13",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Unity South APAC (SEA, ANZ, IND Subcont.)",
-      "title": "Applied Scientist, Vector AI",
-      "location": "Mountain View, CA",
-      "url": "https://www.linkedin.com/jobs/view/4410630182/",
-      "date_posted": "2026-05-13",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Zeta Global",
-      "title": "Senior Agentic AI Engineer",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4414125816/",
-      "date_posted": "2026-05-13",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Jobright.ai",
-      "title": "AI Engineer (Agents)",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4414148055/",
-      "date_posted": "2026-05-13",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Heartflow",
-      "title": "Staff Data Scientist",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4407662579/",
+      "url": "https://www.linkedin.com/jobs/view/4410641531/",
       "date_posted": "2026-05-13",
       "ats": "LinkedIn"
     }
   ],
   "new_jobs": [
     {
-      "company": "Uber",
-      "title": "Machine Learning Engineer II",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4414215587/",
+      "company": "Shields Group Search",
+      "title": "Machine Learning Engineer",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4408335861/",
       "date_posted": "2026-05-13",
       "ats": "LinkedIn"
     },
     {
-      "company": "Avance Consulting",
-      "title": "AI/ML Engineer",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4414133758/",
+      "company": "Theron Solutions",
+      "title": "Data Scientist",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4414282166/",
       "date_posted": "2026-05-13",
       "ats": "LinkedIn"
     },
     {
-      "company": "Glean",
-      "title": "Machine Learning Engineer, Enterprise Brain",
-      "location": "Mountain View, CA",
-      "url": "https://www.linkedin.com/jobs/view/4324842782/",
+      "company": "Philo",
+      "title": "Sr. Machine Learning Engineer (Recommendation Systems)",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4302123397/",
       "date_posted": "2026-05-13",
       "ats": "LinkedIn"
     },
     {
-      "company": "Glean",
-      "title": "Machine Learning Engineer, Search Quality",
-      "location": "Mountain View, CA",
-      "url": "https://www.linkedin.com/jobs/view/4195257196/",
-      "date_posted": "2026-05-13",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Amazon Web Services (AWS)",
-      "title": "Data Scientist, AWS Quick Data",
+      "company": "AMD",
+      "title": "Staff AI Research Engineer",
       "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4394630077/",
-      "date_posted": "2026-05-13",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "QuinStreet",
-      "title": "Senior Machine Learning Engineer - Ranking",
-      "location": "Foster City, CA",
-      "url": "https://www.linkedin.com/jobs/view/4404438285/",
-      "date_posted": "2026-05-13",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Unity",
-      "title": "Staff Machine Learning Engineer, CVR",
-      "location": "Mountain View, CA",
-      "url": "https://www.linkedin.com/jobs/view/4414226040/",
-      "date_posted": "2026-05-13",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Unity South APAC (SEA, ANZ, IND Subcont.)",
-      "title": "Staff Machine Learning Engineer, CVR",
-      "location": "Mountain View, CA",
-      "url": "https://www.linkedin.com/jobs/view/4410636184/",
-      "date_posted": "2026-05-13",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Palo Alto Networks",
-      "title": "Principal Machine Learning Engineer (Internet Security LLMs, NLP, Deep Learning))",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4396166256/",
-      "date_posted": "2026-05-13",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Wayve",
-      "title": "Senior Data Scientist",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4396167255/",
-      "date_posted": "2026-05-13",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Grindr",
-      "title": "Senior Data Scientist",
-      "location": "Palo Alto, CA",
-      "url": "https://www.linkedin.com/jobs/view/4267540849/",
-      "date_posted": "2026-05-13",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Lila Sciences",
-      "title": "Sr. Principal / Distinguished ML Scientist, Autonomous Science for Cell Biology",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4414202953/",
-      "date_posted": "2026-05-13",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Coupang",
-      "title": "Staff Data Scientist",
-      "location": "Mountain View, CA",
-      "url": "https://www.linkedin.com/jobs/view/4392812200/",
-      "date_posted": "2026-05-13",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Unity",
-      "title": "Applied Scientist, Vector AI",
-      "location": "Mountain View, CA",
-      "url": "https://www.linkedin.com/jobs/view/4414229077/",
-      "date_posted": "2026-05-13",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "SoFi",
-      "title": "Senior Manager Marketing Data Scientist, AI Enablement",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4393274253/",
-      "date_posted": "2026-05-13",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Unity South APAC (SEA, ANZ, IND Subcont.)",
-      "title": "Applied Scientist, Vector AI",
-      "location": "Mountain View, CA",
-      "url": "https://www.linkedin.com/jobs/view/4410630182/",
-      "date_posted": "2026-05-13",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Zeta Global",
-      "title": "Senior Agentic AI Engineer",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4414125816/",
-      "date_posted": "2026-05-13",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Jobright.ai",
-      "title": "AI Engineer (Agents)",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4414148055/",
-      "date_posted": "2026-05-13",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Heartflow",
-      "title": "Staff Data Scientist",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4407662579/",
+      "url": "https://www.linkedin.com/jobs/view/4410641531/",
       "date_posted": "2026-05-13",
       "ats": "LinkedIn"
     }
