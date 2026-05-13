@@ -1,5 +1,5 @@
 # 🧬 Biotech LinkedIn — MLE / DS Roles
-*Last updated: 2026-05-12 06:13 UTC*
+*Last updated: 2026-05-13 06:25 UTC*
 
 **0 new role(s)** since last run · 0 total in last 24h
 
