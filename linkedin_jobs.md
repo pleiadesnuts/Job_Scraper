@@ -1,40 +1,48 @@
 # 🔥 LinkedIn — MLE / DS Roles (SF Bay Area)
-*Last updated: 2026-05-12 23:59 UTC*
+*Last updated: 2026-05-13 04:43 UTC*
 
-**9 new role(s)** since last run · 14 total in last 2h
+**11 new role(s)** since last run · 11 total in last 2h
 
-### [Machine Learning Engineer](https://www.linkedin.com/jobs/view/4413750071/) — SPECTRAFORCE
-- 📍 **Location:** Mountain View, CA
-- 🕒 **Posted:** 2026-05-12
-
-### [Machine Learning Engineer, LLM Evals & Observability](https://www.linkedin.com/jobs/view/4413847154/) — Glean
-- 📍 **Location:** Mountain View, CA
-- 🕒 **Posted:** 2026-05-12
-
-### [Associate Data Scientist](https://www.linkedin.com/jobs/view/4413758519/) — Visa
-- 📍 **Location:** Foster City, CA
-- 🕒 **Posted:** 2026-05-12
-
-### [Founding AI/ML Engineer / $500k / Remote](https://www.linkedin.com/jobs/view/4409624511/) — Open Talent
-- 📍 **Location:** Palo Alto, CA
-- 🕒 **Posted:** 2026-05-12
-
-### [Machine Learning Engineer](https://www.linkedin.com/jobs/view/4413758032/) — LeanData
-- 📍 **Location:** Santa Clara, CA
-- 🕒 **Posted:** 2026-05-12
-
-### [Senior ML Engineer](https://www.linkedin.com/jobs/view/4413757085/) — Uber
+### [Machine Learning Engineer II](https://www.linkedin.com/jobs/view/4410355312/) — Uber
 - 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-05-12
+- 🕒 **Posted:** 2026-05-13
 
-### [Staff Machine Learning Engineer, AI Agent](https://www.linkedin.com/jobs/view/4410315801/) — Zendesk
+### [Machine Learning Engineer, Foundation Models (Prescient / AI for Drug Discovery)](https://www.linkedin.com/jobs/view/4413772840/) — Genentech
+- 📍 **Location:** South San Francisco, CA
+- 🕒 **Posted:** 2026-05-13
+
+### [Staff Machine Learning Engineer – (ADAS/Autonomous Driving)](https://www.linkedin.com/jobs/view/4205914517/) — Lucid Motors
+- 📍 **Location:** Newark, CA
+- 🕒 **Posted:** 2026-05-13
+
+### [Senior Data Scientist IRC294475](https://www.linkedin.com/jobs/view/4410348000/) — GlobalLogic
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-05-13
+
+### [AI/ML Engineer](https://www.linkedin.com/jobs/view/4413848681/) — Jobs via Dice
 - 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-05-12
+- 🕒 **Posted:** 2026-05-13
 
-### [LATAM - Data Science Engineer](https://www.linkedin.com/jobs/view/4410316897/) — Playsaurus Inc.
-- 📍 **Location:** Alameda, CA
-- 🕒 **Posted:** 2026-05-12
+### [Senior Applied AI Engineer](https://www.linkedin.com/jobs/view/4413798874/) — Mayfield
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-05-13
 
-### [AI Engineer](https://www.linkedin.com/jobs/view/4410310798/) — Vagaro
+### [Growth Data Scientist, Social Marketing](https://www.linkedin.com/jobs/view/4413859396/) — Adobe
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-05-13
+
+### [Principal Data Scientist-(with GIS exp) Local to CA (w2 contract)](https://www.linkedin.com/jobs/view/4412117303/) — SPECTRAFORCE
+- 📍 **Location:** Dublin, CA
+- 🕒 **Posted:** 2026-05-13
+
+### [Senior Data Scientist, Growth Marketing](https://www.linkedin.com/jobs/view/4413847765/) — Adobe
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-05-13
+
+### [Applied AI Engineer — Contrario](https://www.linkedin.com/jobs/view/4410324620/) — David Joseph & Company
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-05-13
+
+### [Principal Bioinformatics Scientist II](https://www.linkedin.com/jobs/view/4413918248/) — Roche
 - 📍 **Location:** Pleasanton, CA
-- 🕒 **Posted:** 2026-05-12
+- 🕒 **Posted:** 2026-05-13
