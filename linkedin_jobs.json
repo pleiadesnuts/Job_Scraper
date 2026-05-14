@@ -1,247 +1,439 @@
 {
-  "scraped_at": "2026-05-14 22:04 UTC",
-  "total": 15,
-  "new_count": 15,
+  "scraped_at": "2026-05-14 23:50 UTC",
+  "total": 27,
+  "new_count": 27,
   "jobs": [
     {
-      "company": "TalentOla",
-      "title": "AI/ML Engineer",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4414764430/",
-      "date_posted": "2026-05-14",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Mercor",
-      "title": "Machine Learning Engineer - AI Trainer",
+      "company": "Uber",
+      "title": "Data Scientist II, Identity",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4414755751/",
+      "url": "https://www.linkedin.com/jobs/view/4414966091/",
       "date_posted": "2026-05-14",
       "ats": "LinkedIn"
     },
     {
-      "company": "TalentOLA",
-      "title": "AI/ML Engineering Engineer",
+      "company": "Jobs via Dice",
+      "title": "Senior AI/ML Engineer",
       "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4414768344/",
+      "url": "https://www.linkedin.com/jobs/view/4414736396/",
       "date_posted": "2026-05-14",
       "ats": "LinkedIn"
     },
     {
-      "company": "General Motors",
-      "title": "Senior AI/ML Engineer, Build Platform",
-      "location": "Mountain View, CA",
-      "url": "https://www.linkedin.com/jobs/view/4414948440/",
+      "company": "Jobs via Dice",
+      "title": "Senior Machine Learning Engineer",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4414744356/",
       "date_posted": "2026-05-14",
       "ats": "LinkedIn"
     },
     {
-      "company": "General Motors",
+      "company": "Jobs via Dice",
       "title": "Staff AI/ML Engineer - AI Research",
       "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4414948438/",
+      "url": "https://www.linkedin.com/jobs/view/4414756008/",
       "date_posted": "2026-05-14",
       "ats": "LinkedIn"
     },
     {
-      "company": "General Motors",
-      "title": "Senior ML Engineer, ML compute",
+      "company": "Jobs via Dice",
+      "title": "Staff AI/ML Engineer - AV ML Infra",
       "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4414947468/",
+      "url": "https://www.linkedin.com/jobs/view/4414735414/",
       "date_posted": "2026-05-14",
       "ats": "LinkedIn"
     },
     {
-      "company": "General Motors",
-      "title": "Staff ML Engineer - Embodied AI Onboard Autonomy",
-      "location": "Mountain View, CA",
-      "url": "https://www.linkedin.com/jobs/view/4414937788/",
-      "date_posted": "2026-05-14",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "scalr",
-      "title": "Research Engineer",
-      "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4411539485/",
-      "date_posted": "2026-05-14",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "General Motors",
-      "title": "Principal Machine Learning Engineer",
+      "company": "Jobs via Dice",
+      "title": "Staff ML Engineer, Inference Platform",
       "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4414934836/",
+      "url": "https://www.linkedin.com/jobs/view/4414740382/",
       "date_posted": "2026-05-14",
       "ats": "LinkedIn"
     },
     {
-      "company": "Amazon Science",
-      "title": "Applied Scientist, SSG Science",
+      "company": "Jobs via Dice",
+      "title": "Senior ML Engineer - Embodied AI Onboard Autonomy",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4414745398/",
+      "date_posted": "2026-05-14",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Jobs via Dice",
+      "title": "Senior AI/ML Engineer - AV Infra",
       "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4411540477/",
+      "url": "https://www.linkedin.com/jobs/view/4414744348/",
       "date_posted": "2026-05-14",
       "ats": "LinkedIn"
     },
     {
-      "company": "General Motors",
-      "title": "Staff AI / ML Engineer - Embodied AI",
-      "location": "Mountain View, CA",
-      "url": "https://www.linkedin.com/jobs/view/4414938751/",
+      "company": "Jobs via Dice",
+      "title": "Staff Machine Learning Engineer, Compute",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4414733703/",
       "date_posted": "2026-05-14",
       "ats": "LinkedIn"
     },
     {
-      "company": "General Motors",
-      "title": "Senior AI / ML Engineer - Embodied AI",
-      "location": "Mountain View, CA",
-      "url": "https://www.linkedin.com/jobs/view/4414933892/",
+      "company": "Jobs via Dice",
+      "title": "Data Scientist",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4414744418/",
       "date_posted": "2026-05-14",
       "ats": "LinkedIn"
     },
     {
-      "company": "Philo",
-      "title": "Sr. Machine Learning Engineer (Recommendation Systems)",
+      "company": "Jobs via Dice",
+      "title": "Senior Systems Data Scientist, Behavior Validation",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4414756004/",
+      "date_posted": "2026-05-14",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Jobs via Dice",
+      "title": "GenAI Engineer",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4414739409/",
+      "date_posted": "2026-05-14",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Uber",
+      "title": "Marketing Applied Scientist II",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4302123397/",
+      "url": "https://www.linkedin.com/jobs/view/4414961301/",
       "date_posted": "2026-05-14",
       "ats": "LinkedIn"
     },
     {
-      "company": "General Motors",
-      "title": "Senior Machine Learning Engineer \u2013 Perception & Embodied AI",
+      "company": "Recruiting from Scratch",
+      "title": "Founding ML Engineer",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4414770487/",
+      "date_posted": "2026-05-14",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Jobs via Dice",
+      "title": "Staff AI/ML Engineer, Developer Productivity",
       "location": "Mountain View, CA",
-      "url": "https://www.linkedin.com/jobs/view/4414947463/",
+      "url": "https://www.linkedin.com/jobs/view/4414735467/",
       "date_posted": "2026-05-14",
       "ats": "LinkedIn"
     },
     {
-      "company": "General Motors",
+      "company": "Jobs via Dice",
       "title": "Principal AI / ML Engineer - Embodied AI",
       "location": "Mountain View, CA",
-      "url": "https://www.linkedin.com/jobs/view/4414933890/",
+      "url": "https://www.linkedin.com/jobs/view/4414754227/",
+      "date_posted": "2026-05-14",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Jobs via Dice",
+      "title": "Staff ML Engineer - Embodied AI Offboard Perception",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4414747364/",
+      "date_posted": "2026-05-14",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Jobs via Dice",
+      "title": "Senior ML Engineer, ML compute",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4414737406/",
+      "date_posted": "2026-05-14",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Jobs via Dice",
+      "title": "Senior AI/ML Engineer, AV Pipelines & Lineage",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4414746342/",
+      "date_posted": "2026-05-14",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Jobs via Dice",
+      "title": "Principal Staff AI/ML Engineer - AV ML Infra",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4414755034/",
+      "date_posted": "2026-05-14",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Jobs via Dice",
+      "title": "Senior AI/ML Engineer, Build Platform",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4414753222/",
+      "date_posted": "2026-05-14",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Standout (YC P26)",
+      "title": "Founding AI Engineer ($150k - $300k + equity) at Kinro (YC P26)",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4414776682/",
+      "date_posted": "2026-05-14",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Netic",
+      "title": "Applied AI Research Engineer",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4354022361/",
+      "date_posted": "2026-05-14",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Jecona",
+      "title": "Founding AI Engineer",
+      "location": "San Mateo, CA",
+      "url": "https://www.linkedin.com/jobs/view/4414946929/",
+      "date_posted": "2026-05-14",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "ChatGPT Jobs",
+      "title": "Applied AI Engineer -- Contrario",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4411543669/",
+      "date_posted": "2026-05-14",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Jobright.ai",
+      "title": "AI Engineer (Agents)",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4414775492/",
+      "date_posted": "2026-05-14",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Jobs via Dice",
+      "title": "Principal Machine Learning Engineer",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4414733733/",
       "date_posted": "2026-05-14",
       "ats": "LinkedIn"
     }
   ],
   "new_jobs": [
     {
-      "company": "TalentOla",
-      "title": "AI/ML Engineer",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4414764430/",
-      "date_posted": "2026-05-14",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Mercor",
-      "title": "Machine Learning Engineer - AI Trainer",
+      "company": "Uber",
+      "title": "Data Scientist II, Identity",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4414755751/",
+      "url": "https://www.linkedin.com/jobs/view/4414966091/",
       "date_posted": "2026-05-14",
       "ats": "LinkedIn"
     },
     {
-      "company": "TalentOLA",
-      "title": "AI/ML Engineering Engineer",
+      "company": "Jobs via Dice",
+      "title": "Senior AI/ML Engineer",
       "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4414768344/",
+      "url": "https://www.linkedin.com/jobs/view/4414736396/",
       "date_posted": "2026-05-14",
       "ats": "LinkedIn"
     },
     {
-      "company": "General Motors",
-      "title": "Senior AI/ML Engineer, Build Platform",
-      "location": "Mountain View, CA",
-      "url": "https://www.linkedin.com/jobs/view/4414948440/",
+      "company": "Jobs via Dice",
+      "title": "Senior Machine Learning Engineer",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4414744356/",
       "date_posted": "2026-05-14",
       "ats": "LinkedIn"
     },
     {
-      "company": "General Motors",
+      "company": "Jobs via Dice",
       "title": "Staff AI/ML Engineer - AI Research",
       "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4414948438/",
+      "url": "https://www.linkedin.com/jobs/view/4414756008/",
       "date_posted": "2026-05-14",
       "ats": "LinkedIn"
     },
     {
-      "company": "General Motors",
-      "title": "Senior ML Engineer, ML compute",
+      "company": "Jobs via Dice",
+      "title": "Staff AI/ML Engineer - AV ML Infra",
       "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4414947468/",
+      "url": "https://www.linkedin.com/jobs/view/4414735414/",
       "date_posted": "2026-05-14",
       "ats": "LinkedIn"
     },
     {
-      "company": "General Motors",
-      "title": "Staff ML Engineer - Embodied AI Onboard Autonomy",
-      "location": "Mountain View, CA",
-      "url": "https://www.linkedin.com/jobs/view/4414937788/",
-      "date_posted": "2026-05-14",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "scalr",
-      "title": "Research Engineer",
-      "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4411539485/",
-      "date_posted": "2026-05-14",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "General Motors",
-      "title": "Principal Machine Learning Engineer",
+      "company": "Jobs via Dice",
+      "title": "Staff ML Engineer, Inference Platform",
       "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4414934836/",
+      "url": "https://www.linkedin.com/jobs/view/4414740382/",
       "date_posted": "2026-05-14",
       "ats": "LinkedIn"
     },
     {
-      "company": "Amazon Science",
-      "title": "Applied Scientist, SSG Science",
+      "company": "Jobs via Dice",
+      "title": "Senior ML Engineer - Embodied AI Onboard Autonomy",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4414745398/",
+      "date_posted": "2026-05-14",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Jobs via Dice",
+      "title": "Senior AI/ML Engineer - AV Infra",
       "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4411540477/",
+      "url": "https://www.linkedin.com/jobs/view/4414744348/",
       "date_posted": "2026-05-14",
       "ats": "LinkedIn"
     },
     {
-      "company": "General Motors",
-      "title": "Staff AI / ML Engineer - Embodied AI",
-      "location": "Mountain View, CA",
-      "url": "https://www.linkedin.com/jobs/view/4414938751/",
+      "company": "Jobs via Dice",
+      "title": "Staff Machine Learning Engineer, Compute",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4414733703/",
       "date_posted": "2026-05-14",
       "ats": "LinkedIn"
     },
     {
-      "company": "General Motors",
-      "title": "Senior AI / ML Engineer - Embodied AI",
-      "location": "Mountain View, CA",
-      "url": "https://www.linkedin.com/jobs/view/4414933892/",
+      "company": "Jobs via Dice",
+      "title": "Data Scientist",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4414744418/",
       "date_posted": "2026-05-14",
       "ats": "LinkedIn"
     },
     {
-      "company": "Philo",
-      "title": "Sr. Machine Learning Engineer (Recommendation Systems)",
+      "company": "Jobs via Dice",
+      "title": "Senior Systems Data Scientist, Behavior Validation",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4414756004/",
+      "date_posted": "2026-05-14",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Jobs via Dice",
+      "title": "GenAI Engineer",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4414739409/",
+      "date_posted": "2026-05-14",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Uber",
+      "title": "Marketing Applied Scientist II",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4302123397/",
+      "url": "https://www.linkedin.com/jobs/view/4414961301/",
       "date_posted": "2026-05-14",
       "ats": "LinkedIn"
     },
     {
-      "company": "General Motors",
-      "title": "Senior Machine Learning Engineer \u2013 Perception & Embodied AI",
+      "company": "Recruiting from Scratch",
+      "title": "Founding ML Engineer",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4414770487/",
+      "date_posted": "2026-05-14",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Jobs via Dice",
+      "title": "Staff AI/ML Engineer, Developer Productivity",
       "location": "Mountain View, CA",
-      "url": "https://www.linkedin.com/jobs/view/4414947463/",
+      "url": "https://www.linkedin.com/jobs/view/4414735467/",
       "date_posted": "2026-05-14",
       "ats": "LinkedIn"
     },
     {
-      "company": "General Motors",
+      "company": "Jobs via Dice",
       "title": "Principal AI / ML Engineer - Embodied AI",
       "location": "Mountain View, CA",
-      "url": "https://www.linkedin.com/jobs/view/4414933890/",
+      "url": "https://www.linkedin.com/jobs/view/4414754227/",
+      "date_posted": "2026-05-14",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Jobs via Dice",
+      "title": "Staff ML Engineer - Embodied AI Offboard Perception",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4414747364/",
+      "date_posted": "2026-05-14",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Jobs via Dice",
+      "title": "Senior ML Engineer, ML compute",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4414737406/",
+      "date_posted": "2026-05-14",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Jobs via Dice",
+      "title": "Senior AI/ML Engineer, AV Pipelines & Lineage",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4414746342/",
+      "date_posted": "2026-05-14",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Jobs via Dice",
+      "title": "Principal Staff AI/ML Engineer - AV ML Infra",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4414755034/",
+      "date_posted": "2026-05-14",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Jobs via Dice",
+      "title": "Senior AI/ML Engineer, Build Platform",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4414753222/",
+      "date_posted": "2026-05-14",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Standout (YC P26)",
+      "title": "Founding AI Engineer ($150k - $300k + equity) at Kinro (YC P26)",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4414776682/",
+      "date_posted": "2026-05-14",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Netic",
+      "title": "Applied AI Research Engineer",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4354022361/",
+      "date_posted": "2026-05-14",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Jecona",
+      "title": "Founding AI Engineer",
+      "location": "San Mateo, CA",
+      "url": "https://www.linkedin.com/jobs/view/4414946929/",
+      "date_posted": "2026-05-14",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "ChatGPT Jobs",
+      "title": "Applied AI Engineer -- Contrario",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4411543669/",
+      "date_posted": "2026-05-14",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Jobright.ai",
+      "title": "AI Engineer (Agents)",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4414775492/",
+      "date_posted": "2026-05-14",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Jobs via Dice",
+      "title": "Principal Machine Learning Engineer",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4414733733/",
       "date_posted": "2026-05-14",
       "ats": "LinkedIn"
     }
