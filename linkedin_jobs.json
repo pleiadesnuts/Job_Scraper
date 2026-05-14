@@ -1,55 +1,343 @@
 {
-  "scraped_at": "2026-05-14 04:38 UTC",
-  "total": 3,
-  "new_count": 3,
+  "scraped_at": "2026-05-14 16:57 UTC",
+  "total": 21,
+  "new_count": 21,
   "jobs": [
     {
-      "company": "TalentAlly",
-      "title": "Senior AI Engineer",
-      "location": "Dublin, CA",
-      "url": "https://www.linkedin.com/jobs/view/4413505381/",
+      "company": "Innoventrics",
+      "title": "AI ML Engineer",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4414499242/",
       "date_posted": "2026-05-14",
       "ats": "LinkedIn"
     },
     {
-      "company": "TalentAlly",
-      "title": "Principal AI Engineer",
-      "location": "Dublin, CA",
-      "url": "https://www.linkedin.com/jobs/view/4413508259/",
+      "company": "Gridware",
+      "title": "Senior ML Engineer, Multi-Sensor Modeling",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4381735899/",
       "date_posted": "2026-05-14",
       "ats": "LinkedIn"
     },
     {
-      "company": "TalentAlly",
-      "title": "Principal AI Engineer",
-      "location": "Dublin, CA",
-      "url": "https://www.linkedin.com/jobs/view/4413516019/",
+      "company": "Enigma",
+      "title": "Machine Learning Engineer | Python | Pytorch | Distributed Training | Optimisation | GPU | Hybrid, San Jose, CA",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4414499717/",
+      "date_posted": "2026-05-14",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Mulligan Funding, LLC",
+      "title": "Staff Data Scientist, Funnel Analytics & Optimization",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4414632502/",
+      "date_posted": "2026-05-14",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Mulligan Funding, LLC",
+      "title": "Staff Data Scientist, Credit Strategy",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4414626681/",
+      "date_posted": "2026-05-14",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Tencent",
+      "title": "Data Science Intern",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4414641729/",
+      "date_posted": "2026-05-14",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Cohere",
+      "title": "Lead Data Scientist",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4393063318/",
+      "date_posted": "2026-05-14",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Crusoe",
+      "title": "Senior Data Scientist",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4384382908/",
+      "date_posted": "2026-05-14",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Shipt",
+      "title": "Senior Data Scientist, Marketplace Product",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4414633837/",
+      "date_posted": "2026-05-14",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Research Engineer / Scientist, Societal Impacts",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4366405617/",
+      "date_posted": "2026-05-14",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Zendesk",
+      "title": "Staff Machine Learning Engineer, AI Agent",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4411197707/",
+      "date_posted": "2026-05-14",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Amazon",
+      "title": "Sr. Applied Scientist, Ads AI Core Infrastructure",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4393975851/",
+      "date_posted": "2026-05-14",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Amazon",
+      "title": "Applied Scientist, Rufus Experience Science",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4405459780/",
+      "date_posted": "2026-05-14",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Microsoft AI",
+      "title": "Principal Applied Scientist",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4393975919/",
+      "date_posted": "2026-05-14",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Mulligan Funding, LLC",
+      "title": "Staff Data Scientist, Credit Strategy",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4414628674/",
+      "date_posted": "2026-05-14",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Roblox",
+      "title": "Principal Machine Learning Engineer, Content Safety",
+      "location": "San Mateo, CA",
+      "url": "https://www.linkedin.com/jobs/view/4373042128/",
+      "date_posted": "2026-05-14",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Fidelis Companies",
+      "title": "Applied AI Engineer",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4414706280/",
+      "date_posted": "2026-05-14",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "BayOne Solutions",
+      "title": "Full-Stack AI Engineer",
+      "location": "Pleasanton, CA",
+      "url": "https://www.linkedin.com/jobs/view/4414488820/",
+      "date_posted": "2026-05-14",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Roblox",
+      "title": "Principal Machine Learning Engineer, Alt Defense",
+      "location": "San Mateo, CA",
+      "url": "https://www.linkedin.com/jobs/view/4365916910/",
+      "date_posted": "2026-05-14",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Cadence",
+      "title": "Principal Applied ML Engineer",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4414490802/",
+      "date_posted": "2026-05-14",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Research Engineer, Economic Research",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4382863007/",
       "date_posted": "2026-05-14",
       "ats": "LinkedIn"
     }
   ],
   "new_jobs": [
     {
-      "company": "TalentAlly",
-      "title": "Senior AI Engineer",
-      "location": "Dublin, CA",
-      "url": "https://www.linkedin.com/jobs/view/4413505381/",
+      "company": "Innoventrics",
+      "title": "AI ML Engineer",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4414499242/",
       "date_posted": "2026-05-14",
       "ats": "LinkedIn"
     },
     {
-      "company": "TalentAlly",
-      "title": "Principal AI Engineer",
-      "location": "Dublin, CA",
-      "url": "https://www.linkedin.com/jobs/view/4413508259/",
+      "company": "Gridware",
+      "title": "Senior ML Engineer, Multi-Sensor Modeling",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4381735899/",
       "date_posted": "2026-05-14",
       "ats": "LinkedIn"
     },
     {
-      "company": "TalentAlly",
-      "title": "Principal AI Engineer",
-      "location": "Dublin, CA",
-      "url": "https://www.linkedin.com/jobs/view/4413516019/",
+      "company": "Enigma",
+      "title": "Machine Learning Engineer | Python | Pytorch | Distributed Training | Optimisation | GPU | Hybrid, San Jose, CA",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4414499717/",
+      "date_posted": "2026-05-14",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Mulligan Funding, LLC",
+      "title": "Staff Data Scientist, Funnel Analytics & Optimization",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4414632502/",
+      "date_posted": "2026-05-14",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Mulligan Funding, LLC",
+      "title": "Staff Data Scientist, Credit Strategy",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4414626681/",
+      "date_posted": "2026-05-14",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Tencent",
+      "title": "Data Science Intern",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4414641729/",
+      "date_posted": "2026-05-14",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Cohere",
+      "title": "Lead Data Scientist",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4393063318/",
+      "date_posted": "2026-05-14",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Crusoe",
+      "title": "Senior Data Scientist",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4384382908/",
+      "date_posted": "2026-05-14",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Shipt",
+      "title": "Senior Data Scientist, Marketplace Product",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4414633837/",
+      "date_posted": "2026-05-14",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Research Engineer / Scientist, Societal Impacts",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4366405617/",
+      "date_posted": "2026-05-14",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Zendesk",
+      "title": "Staff Machine Learning Engineer, AI Agent",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4411197707/",
+      "date_posted": "2026-05-14",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Amazon",
+      "title": "Sr. Applied Scientist, Ads AI Core Infrastructure",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4393975851/",
+      "date_posted": "2026-05-14",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Amazon",
+      "title": "Applied Scientist, Rufus Experience Science",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4405459780/",
+      "date_posted": "2026-05-14",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Microsoft AI",
+      "title": "Principal Applied Scientist",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4393975919/",
+      "date_posted": "2026-05-14",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Mulligan Funding, LLC",
+      "title": "Staff Data Scientist, Credit Strategy",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4414628674/",
+      "date_posted": "2026-05-14",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Roblox",
+      "title": "Principal Machine Learning Engineer, Content Safety",
+      "location": "San Mateo, CA",
+      "url": "https://www.linkedin.com/jobs/view/4373042128/",
+      "date_posted": "2026-05-14",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Fidelis Companies",
+      "title": "Applied AI Engineer",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4414706280/",
+      "date_posted": "2026-05-14",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "BayOne Solutions",
+      "title": "Full-Stack AI Engineer",
+      "location": "Pleasanton, CA",
+      "url": "https://www.linkedin.com/jobs/view/4414488820/",
+      "date_posted": "2026-05-14",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Roblox",
+      "title": "Principal Machine Learning Engineer, Alt Defense",
+      "location": "San Mateo, CA",
+      "url": "https://www.linkedin.com/jobs/view/4365916910/",
+      "date_posted": "2026-05-14",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Cadence",
+      "title": "Principal Applied ML Engineer",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4414490802/",
+      "date_posted": "2026-05-14",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Research Engineer, Economic Research",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4382863007/",
       "date_posted": "2026-05-14",
       "ats": "LinkedIn"
     }
