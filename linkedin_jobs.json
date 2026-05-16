@@ -1,103 +1,39 @@
 {
-  "scraped_at": "2026-05-16 02:13 UTC",
-  "total": 6,
-  "new_count": 6,
+  "scraped_at": "2026-05-16 05:48 UTC",
+  "total": 2,
+  "new_count": 2,
   "jobs": [
     {
-      "company": "Neo.Tax",
-      "title": "Senior Data Scientist + Machine Learning Engineer",
-      "location": "Palo Alto, CA",
-      "url": "https://www.linkedin.com/jobs/view/4415806373/",
-      "date_posted": "2026-05-16",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Google",
-      "title": "Staff Data Scientist, Product",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4415153180/",
-      "date_posted": "2026-05-16",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Jobs via Dice",
-      "title": "W2 || Data Scientist",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4415162057/",
-      "date_posted": "2026-05-16",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Genentech",
-      "title": "Expert Data Scientist, Early Clinical Development",
+      "company": "Sharp Decisions",
+      "title": "Senior Data Scientist II",
       "location": "South San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4415817169/",
+      "url": "https://www.linkedin.com/jobs/view/4414522100/",
       "date_posted": "2026-05-16",
       "ats": "LinkedIn"
     },
     {
-      "company": "Fluency",
-      "title": "AI Engineer",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4415595848/",
-      "date_posted": "2026-05-16",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Salesforce",
-      "title": "Adversarial AI & Research Engineer",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4415589859/",
+      "company": "BioSpace",
+      "title": "Data Scientist 2",
+      "location": "Novato, CA",
+      "url": "https://www.linkedin.com/jobs/view/4415303701/",
       "date_posted": "2026-05-16",
       "ats": "LinkedIn"
     }
   ],
   "new_jobs": [
     {
-      "company": "Neo.Tax",
-      "title": "Senior Data Scientist + Machine Learning Engineer",
-      "location": "Palo Alto, CA",
-      "url": "https://www.linkedin.com/jobs/view/4415806373/",
-      "date_posted": "2026-05-16",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Google",
-      "title": "Staff Data Scientist, Product",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4415153180/",
-      "date_posted": "2026-05-16",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Jobs via Dice",
-      "title": "W2 || Data Scientist",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4415162057/",
-      "date_posted": "2026-05-16",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Genentech",
-      "title": "Expert Data Scientist, Early Clinical Development",
+      "company": "Sharp Decisions",
+      "title": "Senior Data Scientist II",
       "location": "South San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4415817169/",
+      "url": "https://www.linkedin.com/jobs/view/4414522100/",
       "date_posted": "2026-05-16",
       "ats": "LinkedIn"
     },
     {
-      "company": "Fluency",
-      "title": "AI Engineer",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4415595848/",
-      "date_posted": "2026-05-16",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Salesforce",
-      "title": "Adversarial AI & Research Engineer",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4415589859/",
+      "company": "BioSpace",
+      "title": "Data Scientist 2",
+      "location": "Novato, CA",
+      "url": "https://www.linkedin.com/jobs/view/4415303701/",
       "date_posted": "2026-05-16",
       "ats": "LinkedIn"
     }
