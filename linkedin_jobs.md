@@ -1,6 +1,16 @@
 # 🔥 LinkedIn — MLE / DS Roles (SF Bay Area)
-*Last updated: 2026-05-17 18:58 UTC*
+*Last updated: 2026-05-17 20:04 UTC*
 
-**0 new role(s)** since last run · 2 total in last 1h
+**3 new role(s)** since last run · 3 total in last 1h
 
-No new roles since the last run.
+### [Staff AI / ML Engineer](https://www.linkedin.com/jobs/view/4416059384/) — AACI Group
+- 📍 **Location:** Walnut Creek, CA
+- 🕒 **Posted:** 2026-05-17
+
+### [AI Research Engineer (Applied AI)](https://www.linkedin.com/jobs/view/4416056428/) — Bright Vision Technologies
+- 📍 **Location:** Fremont, CA
+- 🕒 **Posted:** 2026-05-17
+
+### [Edge AI Engineer](https://www.linkedin.com/jobs/view/4416057413/) — Bright Vision Technologies
+- 📍 **Location:** Fremont, CA
+- 🕒 **Posted:** 2026-05-17
