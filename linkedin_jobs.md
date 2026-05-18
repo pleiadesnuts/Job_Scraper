@@ -1,16 +1,12 @@
 # 🔥 LinkedIn — MLE / DS Roles (SF Bay Area)
-*Last updated: 2026-05-17 23:52 UTC*
+*Last updated: 2026-05-18 02:38 UTC*
 
-**3 new role(s)** since last run · 3 total in last 1h
+**2 new role(s)** since last run · 2 total in last 1h
 
-### [LATAM - Data Science Engineer](https://www.linkedin.com/jobs/view/4412238697/) — Playsaurus Inc.
-- 📍 **Location:** Alameda, CA
-- 🕒 **Posted:** 2026-05-17
-
-### [Research Engineer](https://www.linkedin.com/jobs/view/4416060736/) — talentpluto
+### [Senior AI Research Engineer](https://www.linkedin.com/jobs/view/4416068341/) — Zero RFI
 - 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-05-17
+- 🕒 **Posted:** 2026-05-18
 
-### [AI Engineer, Agent Product (Full-time/Part-time)](https://www.linkedin.com/jobs/view/4415465909/) — Jobright.ai
-- 📍 **Location:** Santa Clara, CA
-- 🕒 **Posted:** 2026-05-17
+### [Part-Time Bioinformatics Scientist (Contract/Consultant)](https://www.linkedin.com/jobs/view/4415484414/) — El Capitan Biosciences
+- 📍 **Location:** Pleasanton, CA
+- 🕒 **Posted:** 2026-05-18

@@ -1,56 +1,40 @@
 {
-  "scraped_at": "2026-05-17 23:52 UTC",
-  "total": 3,
-  "new_count": 3,
+  "scraped_at": "2026-05-18 02:38 UTC",
+  "total": 2,
+  "new_count": 2,
   "jobs": [
     {
-      "company": "Playsaurus Inc.",
-      "title": "LATAM - Data Science Engineer",
-      "location": "Alameda, CA",
-      "url": "https://www.linkedin.com/jobs/view/4412238697/",
-      "date_posted": "2026-05-17",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "talentpluto",
-      "title": "Research Engineer",
+      "company": "Zero RFI",
+      "title": "Senior AI Research Engineer",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4416060736/",
-      "date_posted": "2026-05-17",
+      "url": "https://www.linkedin.com/jobs/view/4416068341/",
+      "date_posted": "2026-05-18",
       "ats": "LinkedIn"
     },
     {
-      "company": "Jobright.ai",
-      "title": "AI Engineer, Agent Product (Full-time/Part-time)",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4415465909/",
-      "date_posted": "2026-05-17",
+      "company": "El Capitan Biosciences",
+      "title": "Part-Time Bioinformatics Scientist (Contract/Consultant)",
+      "location": "Pleasanton, CA",
+      "url": "https://www.linkedin.com/jobs/view/4415484414/",
+      "date_posted": "2026-05-18",
       "ats": "LinkedIn"
     }
   ],
   "new_jobs": [
     {
-      "company": "Playsaurus Inc.",
-      "title": "LATAM - Data Science Engineer",
-      "location": "Alameda, CA",
-      "url": "https://www.linkedin.com/jobs/view/4412238697/",
-      "date_posted": "2026-05-17",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "talentpluto",
-      "title": "Research Engineer",
+      "company": "Zero RFI",
+      "title": "Senior AI Research Engineer",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4416060736/",
-      "date_posted": "2026-05-17",
+      "url": "https://www.linkedin.com/jobs/view/4416068341/",
+      "date_posted": "2026-05-18",
       "ats": "LinkedIn"
     },
     {
-      "company": "Jobright.ai",
-      "title": "AI Engineer, Agent Product (Full-time/Part-time)",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4415465909/",
-      "date_posted": "2026-05-17",
+      "company": "El Capitan Biosciences",
+      "title": "Part-Time Bioinformatics Scientist (Contract/Consultant)",
+      "location": "Pleasanton, CA",
+      "url": "https://www.linkedin.com/jobs/view/4415484414/",
+      "date_posted": "2026-05-18",
       "ats": "LinkedIn"
     }
   ]
