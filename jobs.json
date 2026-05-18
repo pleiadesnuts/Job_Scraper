@@ -1,14 +1,14 @@
 {
-  "scraped_at": "2026-05-17 06:21 UTC",
-  "total": 6,
-  "new_count": 0,
+  "scraped_at": "2026-05-18 06:55 UTC",
+  "total": 8,
+  "new_count": 2,
   "jobs": [
     {
       "company": "10x Genomics",
-      "title": "Staff Data Scientist, Commercial Analytics",
+      "title": "Staff Data Scientist, Sales Analytics",
       "location": "Pleasanton, California, USA HQ",
       "url": "https://boards.greenhouse.io/10xgenomics/jobs/7922933?gh_jid=7922933",
-      "date_posted": "2026-05-14",
+      "date_posted": "2026-05-17",
       "ats": "Greenhouse"
     },
     {
@@ -50,7 +50,40 @@
       "url": "https://job-boards.greenhouse.io/altoslabs/jobs/5709084004",
       "date_posted": "2026-03-31",
       "ats": "Greenhouse"
+    },
+    {
+      "company": "Tempus AI",
+      "title": "Data Scientist II, Real World Evidence (RWE), Pharma R&D",
+      "location": "Redwood City, CA",
+      "url": "https://www.linkedin.com/jobs/view/4344874654/",
+      "date_posted": "2026-05-17",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Calico Life Sciences",
+      "title": "Senior Machine Learning Software Engineer (MLOps)",
+      "location": "South San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4385128288/",
+      "date_posted": "2026-05-17",
+      "ats": "LinkedIn"
     }
   ],
-  "new_jobs": []
+  "new_jobs": [
+    {
+      "company": "Tempus AI",
+      "title": "Data Scientist II, Real World Evidence (RWE), Pharma R&D",
+      "location": "Redwood City, CA",
+      "url": "https://www.linkedin.com/jobs/view/4344874654/",
+      "date_posted": "2026-05-17",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Calico Life Sciences",
+      "title": "Senior Machine Learning Software Engineer (MLOps)",
+      "location": "South San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4385128288/",
+      "date_posted": "2026-05-17",
+      "ats": "LinkedIn"
+    }
+  ]
 }
