@@ -1,32 +1,52 @@
 # 🔥 LinkedIn — MLE / DS Roles (SF Bay Area)
-*Last updated: 2026-05-19 19:45 UTC*
+*Last updated: 2026-05-19 21:38 UTC*
 
-**7 new role(s)** since last run · 7 total in last 1h
+**12 new role(s)** since last run · 12 total in last 1h
 
-### [Senior Data Scientist - Web Analytics](https://www.linkedin.com/jobs/view/4415937617/) — Fractal
+### [Product Data Scientist – A/B Testing & Causal Inference](https://www.linkedin.com/jobs/view/4415951526/) — LatentView Analytics
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-05-19
+
+### [AI Architect / Data Scientist || Only US Citizen and Green Card Required](https://www.linkedin.com/jobs/view/4414176514/) — Ampstek
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-05-19
+
+### [Staff Data Scientist - Product Analytics](https://www.linkedin.com/jobs/view/4416970190/) — Ironclad
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-05-19
+
+### [Data Scientist Coach (Director+)](https://www.linkedin.com/jobs/view/4416953060/) — Mento
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-05-19
+
+### [Senior Staff Data Scientist - AI](https://www.linkedin.com/jobs/view/4416966228/) — Ironclad
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-05-19
+
+### [MLE/MLOps/Full-stack DL engineer](https://www.linkedin.com/jobs/view/4416959017/) — Merge Labs
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-05-19
+
+### [Sr. Staff ll, Machine Learning Engineer - Search (Tech Lead)](https://www.linkedin.com/jobs/view/4405036559/) — Coupang
 - 📍 **Location:** San Francisco Bay Area
 - 🕒 **Posted:** 2026-05-19
 
-### [Distinguished ML Data Scientist](https://www.linkedin.com/jobs/view/4394489827/) — AVEVA
-- 📍 **Location:** San Leandro, CA
+### [AI Engineer](https://www.linkedin.com/jobs/view/4415966129/) — True Classic
+- 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-05-19
 
-### [Research Engineer](https://www.linkedin.com/jobs/view/4410567885/) — Harrison Clarke
-- 📍 **Location:** San Francisco Bay Area
+### [AI Engineer](https://www.linkedin.com/jobs/view/4416954057/) — Mento
+- 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-05-19
 
-### [Research Engineer](https://www.linkedin.com/jobs/view/4407824859/) — Harrison Clarke
-- 📍 **Location:** San Francisco Bay Area
+### [AI Engineer](https://www.linkedin.com/jobs/view/4416948645/) — Ironclad
+- 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-05-19
 
-### [Research Engineer - Training Platform](https://www.linkedin.com/jobs/view/4415955223/) — Gigascale Capital
-- 📍 **Location:** Palo Alto, CA
+### [GTM AI Engineer, Marketing](https://www.linkedin.com/jobs/view/4416955293/) — Ironclad
+- 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-05-19
 
-### [Platform Fullstack AI Engineer](https://www.linkedin.com/jobs/view/4416938106/) — VLink Inc
-- 📍 **Location:** Palo Alto, CA
-- 🕒 **Posted:** 2026-05-19
-
-### [Platform Fullstack AI Engineer - Need local to Palo Alto CA](https://www.linkedin.com/jobs/view/4416923742/) — Galactic Minds INC
-- 📍 **Location:** Palo Alto, CA
+### [Senior Software Development Engineer - AI / Data Science](https://www.linkedin.com/jobs/view/4413352881/) — IBM
+- 📍 **Location:** San Jose, CA
 - 🕒 **Posted:** 2026-05-19
