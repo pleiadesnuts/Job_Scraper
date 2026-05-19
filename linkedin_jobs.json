@@ -1,13 +1,29 @@
 {
-  "scraped_at": "2026-05-19 21:38 UTC",
-  "total": 12,
-  "new_count": 12,
+  "scraped_at": "2026-05-19 21:45 UTC",
+  "total": 14,
+  "new_count": 3,
   "jobs": [
+    {
+      "company": "Shields Group Search",
+      "title": "Machine Learning Engineer",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4408335861/",
+      "date_posted": "2026-05-19",
+      "ats": "LinkedIn"
+    },
     {
       "company": "LatentView Analytics",
       "title": "Product Data Scientist \u2013 A/B Testing & Causal Inference",
       "location": "San Jose, CA",
       "url": "https://www.linkedin.com/jobs/view/4415951526/",
+      "date_posted": "2026-05-19",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Coupang",
+      "title": "Sr. Staff ll, Machine Learning Engineer - Search (Tech Lead)",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4405036559/",
       "date_posted": "2026-05-19",
       "ats": "LinkedIn"
     },
@@ -52,14 +68,6 @@
       "ats": "LinkedIn"
     },
     {
-      "company": "Coupang",
-      "title": "Sr. Staff ll, Machine Learning Engineer - Search (Tech Lead)",
-      "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4405036559/",
-      "date_posted": "2026-05-19",
-      "ats": "LinkedIn"
-    },
-    {
       "company": "True Classic",
       "title": "AI Engineer",
       "location": "San Francisco, CA",
@@ -92,108 +100,44 @@
       "ats": "LinkedIn"
     },
     {
-      "company": "IBM",
-      "title": "Senior Software Development Engineer - AI / Data Science",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4413352881/",
+      "company": "Genentech",
+      "title": "ML Engineering Director, AI for Drug Discovery",
+      "location": "South San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4416968009/",
+      "date_posted": "2026-05-19",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Amazon Science",
+      "title": "Sr Applied Scientist, Device Connectivity",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4413364236/",
       "date_posted": "2026-05-19",
       "ats": "LinkedIn"
     }
   ],
   "new_jobs": [
     {
-      "company": "LatentView Analytics",
-      "title": "Product Data Scientist \u2013 A/B Testing & Causal Inference",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4415951526/",
-      "date_posted": "2026-05-19",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Ampstek",
-      "title": "AI Architect / Data Scientist || Only US Citizen and Green Card Required",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4414176514/",
-      "date_posted": "2026-05-19",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Ironclad",
-      "title": "Staff Data Scientist - Product Analytics",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4416970190/",
-      "date_posted": "2026-05-19",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Mento",
-      "title": "Data Scientist Coach (Director+)",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4416953060/",
-      "date_posted": "2026-05-19",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Ironclad",
-      "title": "Senior Staff Data Scientist - AI",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4416966228/",
-      "date_posted": "2026-05-19",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Merge Labs",
-      "title": "MLE/MLOps/Full-stack DL engineer",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4416959017/",
-      "date_posted": "2026-05-19",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Coupang",
-      "title": "Sr. Staff ll, Machine Learning Engineer - Search (Tech Lead)",
+      "company": "Shields Group Search",
+      "title": "Machine Learning Engineer",
       "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4405036559/",
+      "url": "https://www.linkedin.com/jobs/view/4408335861/",
       "date_posted": "2026-05-19",
       "ats": "LinkedIn"
     },
     {
-      "company": "True Classic",
-      "title": "AI Engineer",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4415966129/",
+      "company": "Genentech",
+      "title": "ML Engineering Director, AI for Drug Discovery",
+      "location": "South San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4416968009/",
       "date_posted": "2026-05-19",
       "ats": "LinkedIn"
     },
     {
-      "company": "Mento",
-      "title": "AI Engineer",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4416954057/",
-      "date_posted": "2026-05-19",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Ironclad",
-      "title": "AI Engineer",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4416948645/",
-      "date_posted": "2026-05-19",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Ironclad",
-      "title": "GTM AI Engineer, Marketing",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4416955293/",
-      "date_posted": "2026-05-19",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "IBM",
-      "title": "Senior Software Development Engineer - AI / Data Science",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4413352881/",
+      "company": "Amazon Science",
+      "title": "Sr Applied Scientist, Device Connectivity",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4413364236/",
       "date_posted": "2026-05-19",
       "ats": "LinkedIn"
     }
