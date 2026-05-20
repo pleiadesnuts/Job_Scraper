@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-05-20 22:55 UTC",
-  "total": 12,
-  "new_count": 6,
+  "scraped_at": "2026-05-20 23:17 UTC",
+  "total": 7,
+  "new_count": 3,
   "jobs": [
     {
       "company": "Data Capital Incorporation",
@@ -12,6 +12,14 @@
       "ats": "LinkedIn"
     },
     {
+      "company": "Saturn Search",
+      "title": "Senior Data Scientist - Series B Startup",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4413649779/",
+      "date_posted": "2026-05-20",
+      "ats": "LinkedIn"
+    },
+    {
       "company": "Uber",
       "title": "Staff Machine Learning Engineer - Ranking & Recommendations (Generative AI)",
       "location": "Sunnyvale, CA",
@@ -28,62 +36,6 @@
       "ats": "LinkedIn"
     },
     {
-      "company": "Weights & Biases",
-      "title": "Senior Data Scientist, Strategy- Weights & Biases",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4413641532/",
-      "date_posted": "2026-05-20",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "ektello",
-      "title": "Sr. Product Data Scientist",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4417387462/",
-      "date_posted": "2026-05-20",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "LiveRamp",
-      "title": "Intern, Data Science",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4417407075/",
-      "date_posted": "2026-05-20",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "LiveRamp",
-      "title": "Intern, Data Science",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4417406100/",
-      "date_posted": "2026-05-20",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Weights & Biases",
-      "title": "Senior Data Scientist, Strategy- Weights & Biases",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4413638630/",
-      "date_posted": "2026-05-20",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Amazon Science",
-      "title": "Applied Scientist, Full-funnel Agentic Intelligence and Models",
-      "location": "Palo Alto, CA",
-      "url": "https://www.linkedin.com/jobs/view/4413639735/",
-      "date_posted": "2026-05-20",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Autodesk",
-      "title": "Principal Data Scientist",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4416335161/",
-      "date_posted": "2026-05-20",
-      "ats": "LinkedIn"
-    },
-    {
       "company": "Uber",
       "title": "Staff Machine Learning Engineer - Ranking & Recommendations (Generative AI)",
       "location": "San Francisco, CA",
@@ -92,60 +44,44 @@
       "ats": "LinkedIn"
     },
     {
-      "company": "UnitX",
-      "title": "Embodied AI Engineer",
-      "location": "Milpitas, CA",
-      "url": "https://www.linkedin.com/jobs/view/4400303737/",
+      "company": "Salient",
+      "title": "Applied AI Engineer",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4417410569/",
+      "date_posted": "2026-05-20",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Manhattan Labs",
+      "title": "Founding AI Engineer - Manhattan Labs",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4417401857/",
       "date_posted": "2026-05-20",
       "ats": "LinkedIn"
     }
   ],
   "new_jobs": [
     {
-      "company": "Data Capital Incorporation",
-      "title": "Senior Data Scientist",
-      "location": "San Bruno, CA",
-      "url": "https://www.linkedin.com/jobs/view/4416338224/",
-      "date_posted": "2026-05-20",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Uber",
-      "title": "Staff Machine Learning Engineer - Ranking & Recommendations (Generative AI)",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4417400633/",
-      "date_posted": "2026-05-20",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "UCSF Health",
-      "title": "AI Engineer (AI Accelerator Program)",
+      "company": "Saturn Search",
+      "title": "Senior Data Scientist - Series B Startup",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4414957295/",
+      "url": "https://www.linkedin.com/jobs/view/4413649779/",
       "date_posted": "2026-05-20",
       "ats": "LinkedIn"
     },
     {
-      "company": "Autodesk",
-      "title": "Principal Data Scientist",
+      "company": "Salient",
+      "title": "Applied AI Engineer",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4416335161/",
+      "url": "https://www.linkedin.com/jobs/view/4417410569/",
       "date_posted": "2026-05-20",
       "ats": "LinkedIn"
     },
     {
-      "company": "Uber",
-      "title": "Staff Machine Learning Engineer - Ranking & Recommendations (Generative AI)",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4417412107/",
-      "date_posted": "2026-05-20",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "UnitX",
-      "title": "Embodied AI Engineer",
-      "location": "Milpitas, CA",
-      "url": "https://www.linkedin.com/jobs/view/4400303737/",
+      "company": "Manhattan Labs",
+      "title": "Founding AI Engineer - Manhattan Labs",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4417401857/",
       "date_posted": "2026-05-20",
       "ats": "LinkedIn"
     }
