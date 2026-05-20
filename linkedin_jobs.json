@@ -1,7 +1,41 @@
 {
-  "scraped_at": "2026-05-20 04:35 UTC",
-  "total": 0,
-  "new_count": 0,
-  "jobs": [],
-  "new_jobs": []
+  "scraped_at": "2026-05-20 05:49 UTC",
+  "total": 2,
+  "new_count": 2,
+  "jobs": [
+    {
+      "company": "Allogene Therapeutics",
+      "title": "Associate Director, Data Science",
+      "location": "South San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4413398332/",
+      "date_posted": "2026-05-20",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Hewlett Packard Enterprise",
+      "title": "HPE Labs - Research Engineer",
+      "location": "Milpitas, CA",
+      "url": "https://www.linkedin.com/jobs/view/4417019861/",
+      "date_posted": "2026-05-20",
+      "ats": "LinkedIn"
+    }
+  ],
+  "new_jobs": [
+    {
+      "company": "Allogene Therapeutics",
+      "title": "Associate Director, Data Science",
+      "location": "South San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4413398332/",
+      "date_posted": "2026-05-20",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Hewlett Packard Enterprise",
+      "title": "HPE Labs - Research Engineer",
+      "location": "Milpitas, CA",
+      "url": "https://www.linkedin.com/jobs/view/4417019861/",
+      "date_posted": "2026-05-20",
+      "ats": "LinkedIn"
+    }
+  ]
 }
