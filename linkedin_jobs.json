@@ -1,101 +1,53 @@
 {
-  "scraped_at": "2026-05-21 23:17 UTC",
-  "total": 16,
-  "new_count": 16,
+  "scraped_at": "2026-05-22 00:17 UTC",
+  "total": 8,
+  "new_count": 7,
   "jobs": [
     {
-      "company": "Greylock Partners",
-      "title": "Machine Learning Infrastructure Engineers (Multiple Opportunities)",
-      "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4320754623/",
-      "date_posted": "2026-05-21",
+      "company": "NVIDIA",
+      "title": "Principal Machine Learning Engineer, Accelerated Apache Spark",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4416721797/",
+      "date_posted": "2026-05-22",
       "ats": "LinkedIn"
     },
     {
-      "company": "Greylock Partners",
-      "title": "Founding ML Engineer \u2013 Search & Agents",
+      "company": "Amazon",
+      "title": "Applied Scientist II, Amazon - Vertical Ads",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4418036830/",
+      "date_posted": "2026-05-22",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Amazon",
+      "title": "Data Science Manager, PXT Central Science",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4368901221/",
-      "date_posted": "2026-05-21",
+      "url": "https://www.linkedin.com/jobs/view/4418049474/",
+      "date_posted": "2026-05-22",
       "ats": "LinkedIn"
     },
     {
-      "company": "Greylock Partners",
-      "title": "Founding Machine Learning Engineer",
-      "location": "Redwood City, CA",
-      "url": "https://www.linkedin.com/jobs/view/4321144312/",
-      "date_posted": "2026-05-21",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Greylock Partners",
-      "title": "Founding Research ML Engineer",
-      "location": "Redwood City, CA",
-      "url": "https://www.linkedin.com/jobs/view/4321124397/",
-      "date_posted": "2026-05-21",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Adobe",
-      "title": "Machine Learning Engineer -4 \u2013 Agentic AI & Personalization",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4416733324/",
-      "date_posted": "2026-05-21",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Greylock Partners",
-      "title": "Machine Learning Infrastructure Engineer",
+      "company": "Rippling",
+      "title": "Data Scientist - Financial Analytics",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4359013409/",
+      "url": "https://www.linkedin.com/jobs/view/4418032734/",
       "date_posted": "2026-05-21",
       "ats": "LinkedIn"
     },
     {
-      "company": "Greylock Partners",
-      "title": "Machine Learning Infrastructure Engineer",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4280349879/",
+      "company": "Playsaurus Inc.",
+      "title": "LATAM - Data Science Engineer",
+      "location": "Alameda, CA",
+      "url": "https://www.linkedin.com/jobs/view/4414054278/",
       "date_posted": "2026-05-21",
       "ats": "LinkedIn"
     },
     {
-      "company": "Greylock",
-      "title": "Founding ML Scientist",
-      "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4310985019/",
-      "date_posted": "2026-05-21",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Greylock Partners",
-      "title": "Founding Applied Scientist (LLM)",
-      "location": "Redwood City, CA",
-      "url": "https://www.linkedin.com/jobs/view/4288084700/",
-      "date_posted": "2026-05-21",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Percept AI",
-      "title": "Research Engineer, Vision-Language Models",
-      "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4416739340/",
-      "date_posted": "2026-05-21",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Google DeepMind",
-      "title": "Research Engineer, Gemmaverse Variants Research, DeepMind",
+      "company": "Unity",
+      "title": "Principal Machine Learning Engineer, Mobile AI Inference Optimization",
       "location": "Mountain View, CA",
-      "url": "https://www.linkedin.com/jobs/view/4416732307/",
-      "date_posted": "2026-05-21",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Greylock",
-      "title": "Founding AI Scientist (Agents)",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4373387753/",
+      "url": "https://www.linkedin.com/jobs/view/4418029861/",
       "date_posted": "2026-05-21",
       "ats": "LinkedIn"
     },
@@ -111,129 +63,57 @@
       "company": "Open Talent",
       "title": "Founding AI Engineer | LLM Systems | $500k+ & Equity | Hybrid | SF",
       "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4412012549/",
-      "date_posted": "2026-05-21",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "FullStack",
-      "title": "Full Stack AI Engineer (Agentic Systems) - Remote - USA",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4418035351/",
-      "date_posted": "2026-05-21",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Adobe",
-      "title": "Senior Machine Learning Engineer",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4416721383/",
+      "url": "https://www.linkedin.com/jobs/view/4414055269/",
       "date_posted": "2026-05-21",
       "ats": "LinkedIn"
     }
   ],
   "new_jobs": [
     {
-      "company": "Greylock Partners",
-      "title": "Machine Learning Infrastructure Engineers (Multiple Opportunities)",
-      "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4320754623/",
-      "date_posted": "2026-05-21",
+      "company": "NVIDIA",
+      "title": "Principal Machine Learning Engineer, Accelerated Apache Spark",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4416721797/",
+      "date_posted": "2026-05-22",
       "ats": "LinkedIn"
     },
     {
-      "company": "Greylock Partners",
-      "title": "Founding ML Engineer \u2013 Search & Agents",
+      "company": "Amazon",
+      "title": "Applied Scientist II, Amazon - Vertical Ads",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4418036830/",
+      "date_posted": "2026-05-22",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Amazon",
+      "title": "Data Science Manager, PXT Central Science",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4368901221/",
-      "date_posted": "2026-05-21",
+      "url": "https://www.linkedin.com/jobs/view/4418049474/",
+      "date_posted": "2026-05-22",
       "ats": "LinkedIn"
     },
     {
-      "company": "Greylock Partners",
-      "title": "Founding Machine Learning Engineer",
-      "location": "Redwood City, CA",
-      "url": "https://www.linkedin.com/jobs/view/4321144312/",
-      "date_posted": "2026-05-21",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Greylock Partners",
-      "title": "Founding Research ML Engineer",
-      "location": "Redwood City, CA",
-      "url": "https://www.linkedin.com/jobs/view/4321124397/",
-      "date_posted": "2026-05-21",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Adobe",
-      "title": "Machine Learning Engineer -4 \u2013 Agentic AI & Personalization",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4416733324/",
-      "date_posted": "2026-05-21",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Greylock Partners",
-      "title": "Machine Learning Infrastructure Engineer",
+      "company": "Rippling",
+      "title": "Data Scientist - Financial Analytics",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4359013409/",
+      "url": "https://www.linkedin.com/jobs/view/4418032734/",
       "date_posted": "2026-05-21",
       "ats": "LinkedIn"
     },
     {
-      "company": "Greylock Partners",
-      "title": "Machine Learning Infrastructure Engineer",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4280349879/",
+      "company": "Playsaurus Inc.",
+      "title": "LATAM - Data Science Engineer",
+      "location": "Alameda, CA",
+      "url": "https://www.linkedin.com/jobs/view/4414054278/",
       "date_posted": "2026-05-21",
       "ats": "LinkedIn"
     },
     {
-      "company": "Greylock",
-      "title": "Founding ML Scientist",
-      "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4310985019/",
-      "date_posted": "2026-05-21",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Greylock Partners",
-      "title": "Founding Applied Scientist (LLM)",
-      "location": "Redwood City, CA",
-      "url": "https://www.linkedin.com/jobs/view/4288084700/",
-      "date_posted": "2026-05-21",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Percept AI",
-      "title": "Research Engineer, Vision-Language Models",
-      "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4416739340/",
-      "date_posted": "2026-05-21",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Google DeepMind",
-      "title": "Research Engineer, Gemmaverse Variants Research, DeepMind",
+      "company": "Unity",
+      "title": "Principal Machine Learning Engineer, Mobile AI Inference Optimization",
       "location": "Mountain View, CA",
-      "url": "https://www.linkedin.com/jobs/view/4416732307/",
-      "date_posted": "2026-05-21",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Greylock",
-      "title": "Founding AI Scientist (Agents)",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4373387753/",
-      "date_posted": "2026-05-21",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Greylock Partners",
-      "title": "Applied AI Engineer \u2014 Greylock Investment Team",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4368746773/",
+      "url": "https://www.linkedin.com/jobs/view/4418029861/",
       "date_posted": "2026-05-21",
       "ats": "LinkedIn"
     },
@@ -241,23 +121,7 @@
       "company": "Open Talent",
       "title": "Founding AI Engineer | LLM Systems | $500k+ & Equity | Hybrid | SF",
       "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4412012549/",
-      "date_posted": "2026-05-21",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "FullStack",
-      "title": "Full Stack AI Engineer (Agentic Systems) - Remote - USA",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4418035351/",
-      "date_posted": "2026-05-21",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Adobe",
-      "title": "Senior Machine Learning Engineer",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4416721383/",
+      "url": "https://www.linkedin.com/jobs/view/4414055269/",
       "date_posted": "2026-05-21",
       "ats": "LinkedIn"
     }

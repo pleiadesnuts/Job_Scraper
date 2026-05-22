@@ -1,68 +1,32 @@
 # 🔥 LinkedIn — MLE / DS Roles (SF Bay Area)
-*Last updated: 2026-05-21 23:17 UTC*
+*Last updated: 2026-05-22 00:17 UTC*
 
-**16 new role(s)** since last run · 16 total in last 1h
+**7 new role(s)** since last run · 8 total in last 1h
 
-### [Machine Learning Infrastructure Engineers (Multiple Opportunities)](https://www.linkedin.com/jobs/view/4320754623/) — Greylock Partners
-- 📍 **Location:** San Francisco Bay Area
-- 🕒 **Posted:** 2026-05-21
+### [Principal Machine Learning Engineer, Accelerated Apache Spark](https://www.linkedin.com/jobs/view/4416721797/) — NVIDIA
+- 📍 **Location:** Santa Clara, CA
+- 🕒 **Posted:** 2026-05-22
 
-### [Founding ML Engineer – Search & Agents](https://www.linkedin.com/jobs/view/4368901221/) — Greylock Partners
+### [Applied Scientist II, Amazon - Vertical Ads](https://www.linkedin.com/jobs/view/4418036830/) — Amazon
+- 📍 **Location:** Palo Alto, CA
+- 🕒 **Posted:** 2026-05-22
+
+### [Data Science Manager, PXT Central Science](https://www.linkedin.com/jobs/view/4418049474/) — Amazon
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-05-22
+
+### [Data Scientist - Financial Analytics](https://www.linkedin.com/jobs/view/4418032734/) — Rippling
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-05-21
 
-### [Founding Machine Learning Engineer](https://www.linkedin.com/jobs/view/4321144312/) — Greylock Partners
-- 📍 **Location:** Redwood City, CA
+### [LATAM - Data Science Engineer](https://www.linkedin.com/jobs/view/4414054278/) — Playsaurus Inc.
+- 📍 **Location:** Alameda, CA
 - 🕒 **Posted:** 2026-05-21
 
-### [Founding Research ML Engineer](https://www.linkedin.com/jobs/view/4321124397/) — Greylock Partners
-- 📍 **Location:** Redwood City, CA
-- 🕒 **Posted:** 2026-05-21
-
-### [Machine Learning Engineer -4 – Agentic AI & Personalization](https://www.linkedin.com/jobs/view/4416733324/) — Adobe
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-05-21
-
-### [Machine Learning Infrastructure Engineer](https://www.linkedin.com/jobs/view/4359013409/) — Greylock Partners
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-05-21
-
-### [Machine Learning Infrastructure Engineer](https://www.linkedin.com/jobs/view/4280349879/) — Greylock Partners
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-05-21
-
-### [Founding ML Scientist](https://www.linkedin.com/jobs/view/4310985019/) — Greylock
-- 📍 **Location:** San Francisco Bay Area
-- 🕒 **Posted:** 2026-05-21
-
-### [Founding Applied Scientist (LLM)](https://www.linkedin.com/jobs/view/4288084700/) — Greylock Partners
-- 📍 **Location:** Redwood City, CA
-- 🕒 **Posted:** 2026-05-21
-
-### [Research Engineer, Vision-Language Models](https://www.linkedin.com/jobs/view/4416739340/) — Percept AI
-- 📍 **Location:** San Francisco Bay Area
-- 🕒 **Posted:** 2026-05-21
-
-### [Research Engineer, Gemmaverse Variants Research, DeepMind](https://www.linkedin.com/jobs/view/4416732307/) — Google DeepMind
+### [Principal Machine Learning Engineer, Mobile AI Inference Optimization](https://www.linkedin.com/jobs/view/4418029861/) — Unity
 - 📍 **Location:** Mountain View, CA
 - 🕒 **Posted:** 2026-05-21
 
-### [Founding AI Scientist (Agents)](https://www.linkedin.com/jobs/view/4373387753/) — Greylock
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-05-21
-
-### [Applied AI Engineer — Greylock Investment Team](https://www.linkedin.com/jobs/view/4368746773/) — Greylock Partners
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-05-21
-
-### [Founding AI Engineer | LLM Systems | $500k+ & Equity | Hybrid | SF](https://www.linkedin.com/jobs/view/4412012549/) — Open Talent
+### [Founding AI Engineer | LLM Systems | $500k+ & Equity | Hybrid | SF](https://www.linkedin.com/jobs/view/4414055269/) — Open Talent
 - 📍 **Location:** San Francisco Bay Area
-- 🕒 **Posted:** 2026-05-21
-
-### [Full Stack AI Engineer (Agentic Systems) - Remote - USA](https://www.linkedin.com/jobs/view/4418035351/) — FullStack
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-05-21
-
-### [Senior Machine Learning Engineer](https://www.linkedin.com/jobs/view/4416721383/) — Adobe
-- 📍 **Location:** San Jose, CA
 - 🕒 **Posted:** 2026-05-21
