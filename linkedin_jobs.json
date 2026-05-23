@@ -1,135 +1,23 @@
 {
-  "scraped_at": "2026-05-23 01:17 UTC",
-  "total": 14,
-  "new_count": 2,
+  "scraped_at": "2026-05-23 02:17 UTC",
+  "total": 1,
+  "new_count": 1,
   "jobs": [
     {
-      "company": "Guidewire Software",
-      "title": "Senior Machine Learning Engineer - AI/ML",
-      "location": "San Mateo, CA",
-      "url": "https://www.linkedin.com/jobs/view/4416267040/",
-      "date_posted": "2026-05-23",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Amazon Web Services (AWS)",
-      "title": "Applied Scientist, AWS Quick",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4418444360/",
-      "date_posted": "2026-05-23",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Andiamo",
-      "title": "Data Scientist - Global Tech Leader",
+      "company": "Code Metal",
+      "title": "Research Engineer - Formal Methods",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4380634455/",
-      "date_posted": "2026-05-23",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Amazon Web Services (AWS)",
-      "title": "Applied Scientist, AWS Quick",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4418452068/",
-      "date_posted": "2026-05-23",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Jobright.ai",
-      "title": "Machine Learning Engineer, Speech LLM Training",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4417521351/",
-      "date_posted": "2026-05-23",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Amazon Business",
-      "title": "Applied Scientist II, Amazon, Amazon",
-      "location": "Palo Alto, CA",
-      "url": "https://www.linkedin.com/jobs/view/4418453120/",
-      "date_posted": "2026-05-23",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Pinterest",
-      "title": "Staff Machine Learning Engineer, Ads Conversion",
-      "location": "Palo Alto, CA",
-      "url": "https://www.linkedin.com/jobs/view/4418455008/",
-      "date_posted": "2026-05-23",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Pinterest",
-      "title": "Staff Machine Learning Engineer, Ads Conversion",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4418443418/",
-      "date_posted": "2026-05-23",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Amazon Web Services (AWS)",
-      "title": "Senior Applied Scientist, AWS Quick",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4418441580/",
-      "date_posted": "2026-05-23",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Amazon",
-      "title": "Applied Scientist, Shopping Convo Foundations - Pre-purchases Science",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4418434997/",
-      "date_posted": "2026-05-23",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Amazon",
-      "title": "Applied Scientist, Shopping Convo Foundations - Pre-purchases Science",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4418433990/",
-      "date_posted": "2026-05-23",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Amazon Web Services (AWS)",
-      "title": "Sr. Applied Scientist, AWS Just-Walk-Out Science Team",
-      "location": "East Palo Alto, CA",
-      "url": "https://www.linkedin.com/jobs/view/4418455035/",
-      "date_posted": "2026-05-23",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Pinterest",
-      "title": "Sr. Staff Machine Learning Engineer, Content Ecosystem",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4418454017/",
-      "date_posted": "2026-05-23",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "NVIDIA",
-      "title": "Senior High Performance AI Engineer",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4417507933/",
+      "url": "https://www.linkedin.com/jobs/view/4418462452/",
       "date_posted": "2026-05-23",
       "ats": "LinkedIn"
     }
   ],
   "new_jobs": [
     {
-      "company": "Guidewire Software",
-      "title": "Senior Machine Learning Engineer - AI/ML",
-      "location": "San Mateo, CA",
-      "url": "https://www.linkedin.com/jobs/view/4416267040/",
-      "date_posted": "2026-05-23",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Amazon Web Services (AWS)",
-      "title": "Sr. Applied Scientist, AWS Just-Walk-Out Science Team",
-      "location": "East Palo Alto, CA",
-      "url": "https://www.linkedin.com/jobs/view/4418455035/",
+      "company": "Code Metal",
+      "title": "Research Engineer - Formal Methods",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4418462452/",
       "date_posted": "2026-05-23",
       "ats": "LinkedIn"
     }
