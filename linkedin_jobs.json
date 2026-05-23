@@ -1,31 +1,39 @@
 {
-  "scraped_at": "2026-05-23 20:17 UTC",
+  "scraped_at": "2026-05-23 21:17 UTC",
   "total": 2,
-  "new_count": 1,
+  "new_count": 2,
   "jobs": [
     {
-      "company": "Jobs via Dice",
-      "title": "Machine Learning Engineer - LLM Evaluation & Automation",
-      "location": "Cupertino, CA",
-      "url": "https://www.linkedin.com/jobs/view/4416715626/",
+      "company": "Open Talent",
+      "title": "Founding AI Engineer | LLM Systems | $500k+ & Equity | Hybrid | SF",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4414055269/",
       "date_posted": "2026-05-23",
       "ats": "LinkedIn"
     },
     {
-      "company": "Mechanize, Inc.",
-      "title": "Research Engineer, Alignment",
-      "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4417562605/",
+      "company": "Jobright.ai",
+      "title": "AI Engineer, Agent Product (Full-time/Part-time)",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4417567606/",
       "date_posted": "2026-05-23",
       "ats": "LinkedIn"
     }
   ],
   "new_jobs": [
     {
-      "company": "Jobs via Dice",
-      "title": "Machine Learning Engineer - LLM Evaluation & Automation",
-      "location": "Cupertino, CA",
-      "url": "https://www.linkedin.com/jobs/view/4416715626/",
+      "company": "Open Talent",
+      "title": "Founding AI Engineer | LLM Systems | $500k+ & Equity | Hybrid | SF",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4414055269/",
+      "date_posted": "2026-05-23",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Jobright.ai",
+      "title": "AI Engineer, Agent Product (Full-time/Part-time)",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4417567606/",
       "date_posted": "2026-05-23",
       "ats": "LinkedIn"
     }
