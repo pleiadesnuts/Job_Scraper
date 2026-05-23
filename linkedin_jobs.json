@@ -1,39 +1,31 @@
 {
-  "scraped_at": "2026-05-23 19:17 UTC",
+  "scraped_at": "2026-05-23 20:17 UTC",
   "total": 2,
-  "new_count": 2,
+  "new_count": 1,
   "jobs": [
+    {
+      "company": "Jobs via Dice",
+      "title": "Machine Learning Engineer - LLM Evaluation & Automation",
+      "location": "Cupertino, CA",
+      "url": "https://www.linkedin.com/jobs/view/4416715626/",
+      "date_posted": "2026-05-23",
+      "ats": "LinkedIn"
+    },
     {
       "company": "Mechanize, Inc.",
       "title": "Research Engineer, Alignment",
       "location": "San Francisco Bay Area",
       "url": "https://www.linkedin.com/jobs/view/4417562605/",
-      "date_posted": "2026-05-23",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "NVIDIA",
-      "title": "Senior Research Engineer - AI Coding Tools",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4407975272/",
       "date_posted": "2026-05-23",
       "ats": "LinkedIn"
     }
   ],
   "new_jobs": [
     {
-      "company": "Mechanize, Inc.",
-      "title": "Research Engineer, Alignment",
-      "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4417562605/",
-      "date_posted": "2026-05-23",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "NVIDIA",
-      "title": "Senior Research Engineer - AI Coding Tools",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4407975272/",
+      "company": "Jobs via Dice",
+      "title": "Machine Learning Engineer - LLM Evaluation & Automation",
+      "location": "Cupertino, CA",
+      "url": "https://www.linkedin.com/jobs/view/4416715626/",
       "date_posted": "2026-05-23",
       "ats": "LinkedIn"
     }
