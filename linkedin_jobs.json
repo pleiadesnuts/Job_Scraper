@@ -1,135 +1,103 @@
 {
-  "scraped_at": "2026-05-23 05:10 UTC",
-  "total": 8,
-  "new_count": 8,
+  "scraped_at": "2026-05-23 16:17 UTC",
+  "total": 6,
+  "new_count": 6,
   "jobs": [
     {
-      "company": "UCSF Health",
-      "title": "Data Scientist",
+      "company": "Whatnot",
+      "title": "Data Scientist, Finance",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4415570518/",
+      "url": "https://www.linkedin.com/jobs/view/4407964096/",
       "date_posted": "2026-05-23",
       "ats": "LinkedIn"
     },
     {
-      "company": "Linktree",
-      "title": "Staff Applied AI Engineer, AI Experiences & Agents",
+      "company": "Anthropic",
+      "title": "Research Engineer / Scientist, Alignment Science",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4417544239/",
+      "url": "https://www.linkedin.com/jobs/view/4322241769/",
       "date_posted": "2026-05-23",
       "ats": "LinkedIn"
     },
     {
-      "company": "Benchling",
-      "title": "Agentic AI Engineer",
+      "company": "SAP",
+      "title": "Principal Machine Learning Engineer",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4376492318/",
+      "date_posted": "2026-05-23",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Kikoff",
+      "title": "Senior Data Scientist",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4418470446/",
+      "url": "https://www.linkedin.com/jobs/view/4400685486/",
       "date_posted": "2026-05-23",
       "ats": "LinkedIn"
     },
     {
-      "company": "Walmart",
-      "title": "Senior, Data Scientist (Pricing)",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4414384546/",
+      "company": "Hippocratic AI",
+      "title": "Applied Scientist",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4398097882/",
       "date_posted": "2026-05-23",
       "ats": "LinkedIn"
     },
     {
-      "company": "Walmart",
-      "title": "Distinguished, Data Scientist",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4414803329/",
-      "date_posted": "2026-05-23",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Unity South APAC (SEA, ANZ, IND Subcont.)",
-      "title": "Machine Learning Engineer, User Understanding (Entry-Level / New Grad)",
-      "location": "Mountain View, CA",
-      "url": "https://www.linkedin.com/jobs/view/4414399559/",
-      "date_posted": "2026-05-23",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Unity South APAC (SEA, ANZ, IND Subcont.)",
-      "title": "Senior Machine Learning Engineer, Vector Bidding Science",
-      "location": "Mountain View, CA",
-      "url": "https://www.linkedin.com/jobs/view/4414389587/",
-      "date_posted": "2026-05-23",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Unity South APAC (SEA, ANZ, IND Subcont.)",
-      "title": "Staff Machine Learning Engineer, Vector Bidding Science",
-      "location": "Mountain View, CA",
-      "url": "https://www.linkedin.com/jobs/view/4414382682/",
+      "company": "GlobalLogic",
+      "title": "Physical AI Engineering Intern (Onsite in Santa Clara, CA) IRC293762",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4408305065/",
       "date_posted": "2026-05-23",
       "ats": "LinkedIn"
     }
   ],
   "new_jobs": [
     {
-      "company": "UCSF Health",
-      "title": "Data Scientist",
+      "company": "Whatnot",
+      "title": "Data Scientist, Finance",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4415570518/",
+      "url": "https://www.linkedin.com/jobs/view/4407964096/",
       "date_posted": "2026-05-23",
       "ats": "LinkedIn"
     },
     {
-      "company": "Linktree",
-      "title": "Staff Applied AI Engineer, AI Experiences & Agents",
+      "company": "Anthropic",
+      "title": "Research Engineer / Scientist, Alignment Science",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4417544239/",
+      "url": "https://www.linkedin.com/jobs/view/4322241769/",
       "date_posted": "2026-05-23",
       "ats": "LinkedIn"
     },
     {
-      "company": "Benchling",
-      "title": "Agentic AI Engineer",
+      "company": "SAP",
+      "title": "Principal Machine Learning Engineer",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4376492318/",
+      "date_posted": "2026-05-23",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Kikoff",
+      "title": "Senior Data Scientist",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4418470446/",
+      "url": "https://www.linkedin.com/jobs/view/4400685486/",
       "date_posted": "2026-05-23",
       "ats": "LinkedIn"
     },
     {
-      "company": "Walmart",
-      "title": "Senior, Data Scientist (Pricing)",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4414384546/",
+      "company": "Hippocratic AI",
+      "title": "Applied Scientist",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4398097882/",
       "date_posted": "2026-05-23",
       "ats": "LinkedIn"
     },
     {
-      "company": "Walmart",
-      "title": "Distinguished, Data Scientist",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4414803329/",
-      "date_posted": "2026-05-23",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Unity South APAC (SEA, ANZ, IND Subcont.)",
-      "title": "Machine Learning Engineer, User Understanding (Entry-Level / New Grad)",
-      "location": "Mountain View, CA",
-      "url": "https://www.linkedin.com/jobs/view/4414399559/",
-      "date_posted": "2026-05-23",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Unity South APAC (SEA, ANZ, IND Subcont.)",
-      "title": "Senior Machine Learning Engineer, Vector Bidding Science",
-      "location": "Mountain View, CA",
-      "url": "https://www.linkedin.com/jobs/view/4414389587/",
-      "date_posted": "2026-05-23",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Unity South APAC (SEA, ANZ, IND Subcont.)",
-      "title": "Staff Machine Learning Engineer, Vector Bidding Science",
-      "location": "Mountain View, CA",
-      "url": "https://www.linkedin.com/jobs/view/4414382682/",
+      "company": "GlobalLogic",
+      "title": "Physical AI Engineering Intern (Onsite in Santa Clara, CA) IRC293762",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4408305065/",
       "date_posted": "2026-05-23",
       "ats": "LinkedIn"
     }
