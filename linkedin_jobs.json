@@ -1,21 +1,13 @@
 {
-  "scraped_at": "2026-05-24 17:17 UTC",
-  "total": 5,
-  "new_count": 4,
+  "scraped_at": "2026-05-24 18:17 UTC",
+  "total": 4,
+  "new_count": 1,
   "jobs": [
     {
-      "company": "5V Tech",
-      "title": "Audio Machine Learning Engineer",
-      "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4413038601/",
-      "date_posted": "2026-05-24",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Palo Alto Networks",
-      "title": "Senior IT AI/ML Engineer - Data Analytics",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4386113259/",
+      "company": "Wayve",
+      "title": "Machine Learning Engineer, App SW",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4375950910/",
       "date_posted": "2026-05-24",
       "ats": "LinkedIn"
     },
@@ -46,34 +38,10 @@
   ],
   "new_jobs": [
     {
-      "company": "5V Tech",
-      "title": "Audio Machine Learning Engineer",
-      "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4413038601/",
-      "date_posted": "2026-05-24",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Jobright.ai",
-      "title": "Machine Learning Engineer, Speech LLM Training",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4417832057/",
-      "date_posted": "2026-05-24",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Palo Alto Networks Unit 42",
-      "title": "Sr Principal AI-Data Scientist (ADEM)",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4414857696/",
-      "date_posted": "2026-05-24",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Palo Alto Networks Unit 42",
-      "title": "Sr Principal AI-Data Scientist (ADEM)",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4414850997/",
+      "company": "Wayve",
+      "title": "Machine Learning Engineer, App SW",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4375950910/",
       "date_posted": "2026-05-24",
       "ats": "LinkedIn"
     }
