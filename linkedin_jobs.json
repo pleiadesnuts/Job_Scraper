@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-05-24 21:17 UTC",
+  "scraped_at": "2026-05-24 22:17 UTC",
   "total": 1,
-  "new_count": 1,
+  "new_count": 0,
   "jobs": [
     {
       "company": "Jobright.ai",
@@ -12,14 +12,5 @@
       "ats": "LinkedIn"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Jobright.ai",
-      "title": "AI Engineer, Agent Product (Full-time/Part-time)",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4417841258/",
-      "date_posted": "2026-05-24",
-      "ats": "LinkedIn"
-    }
-  ]
+  "new_jobs": []
 }
