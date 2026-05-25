@@ -1,13 +1,13 @@
 {
-  "scraped_at": "2026-05-25 21:17 UTC",
-  "total": 2,
+  "scraped_at": "2026-05-25 22:17 UTC",
+  "total": 3,
   "new_count": 2,
   "jobs": [
     {
-      "company": "Liquid AI",
-      "title": "Member of Technical Staff - ML Research Engineer, Data",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4418224014/",
+      "company": "Jobright.ai",
+      "title": "AI Engineer, Agent Product (Full-time/Part-time)",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4418222219/",
       "date_posted": "2026-05-25",
       "ats": "LinkedIn"
     },
@@ -16,24 +16,32 @@
       "title": "AI/ML Engineer ($250k\u2013$400k + Equity) at $10M Seed consumer AI dating startup",
       "location": "San Francisco, CA",
       "url": "https://www.linkedin.com/jobs/view/4405083386/",
+      "date_posted": "2026-05-25",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "NativeAds.ai",
+      "title": "AI/ML Research Engineer Intern \u2013 Advertising Optimization",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4418220045/",
       "date_posted": "2026-05-25",
       "ats": "LinkedIn"
     }
   ],
   "new_jobs": [
     {
-      "company": "Liquid AI",
-      "title": "Member of Technical Staff - ML Research Engineer, Data",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4418224014/",
+      "company": "Jobright.ai",
+      "title": "AI Engineer, Agent Product (Full-time/Part-time)",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4418222219/",
       "date_posted": "2026-05-25",
       "ats": "LinkedIn"
     },
     {
-      "company": "Jack & Jill",
-      "title": "AI/ML Engineer ($250k\u2013$400k + Equity) at $10M Seed consumer AI dating startup",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4405083386/",
+      "company": "NativeAds.ai",
+      "title": "AI/ML Research Engineer Intern \u2013 Advertising Optimization",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4418220045/",
       "date_posted": "2026-05-25",
       "ats": "LinkedIn"
     }
