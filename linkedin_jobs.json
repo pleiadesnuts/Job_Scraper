@@ -1,95 +1,71 @@
 {
-  "scraped_at": "2026-05-26 19:17 UTC",
-  "total": 7,
+  "scraped_at": "2026-05-26 20:17 UTC",
+  "total": 4,
   "new_count": 4,
   "jobs": [
     {
-      "company": "Zeta Global",
-      "title": "Principal AI/ML Engineer - AdTech",
+      "company": "Thomson Reuters",
+      "title": "Senior Data Scientist \u2013 Election & News Products",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4418281524/",
+      "url": "https://www.linkedin.com/jobs/view/4418501474/",
       "date_posted": "2026-05-26",
       "ats": "LinkedIn"
     },
     {
-      "company": "NGV Talent",
-      "title": "Staff Machine Learning Engineer",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4418278827/",
+      "company": "Capital One",
+      "title": "Senior Data Scientist, AI Foundations",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4419498552/",
       "date_posted": "2026-05-26",
       "ats": "LinkedIn"
     },
     {
-      "company": "Snap Inc.",
-      "title": "Staff Machine Learning Engineer, Search Ranking",
-      "location": "Palo Alto, CA",
-      "url": "https://www.linkedin.com/jobs/view/4419480558/",
-      "date_posted": "2026-05-26",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Snap Inc.",
-      "title": "Staff Machine Learning Engineer, Search Ranking",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4419463813/",
-      "date_posted": "2026-05-26",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Wipro",
-      "title": "MLOPS Engineer",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4418296427/",
-      "date_posted": "2026-05-26",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Tokyo Electron US",
-      "title": "Senior Autonomy/AI Research Engineer",
+      "company": "PlusAI",
+      "title": "Research Engineer Intern",
       "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4341558625/",
+      "url": "https://www.linkedin.com/jobs/view/4416852559/",
       "date_posted": "2026-05-26",
       "ats": "LinkedIn"
     },
     {
-      "company": "Cohesity",
-      "title": "Principal AI Engineer, HR Automation",
-      "location": "Santa Clara County, CA",
-      "url": "https://www.linkedin.com/jobs/view/4419474986/",
+      "company": "PlusAI",
+      "title": "Machine Learning Infrastructure Engineer Intern",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4412847585/",
       "date_posted": "2026-05-26",
       "ats": "LinkedIn"
     }
   ],
   "new_jobs": [
     {
-      "company": "NGV Talent",
-      "title": "Staff Machine Learning Engineer",
+      "company": "Thomson Reuters",
+      "title": "Senior Data Scientist \u2013 Election & News Products",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4418278827/",
+      "url": "https://www.linkedin.com/jobs/view/4418501474/",
       "date_posted": "2026-05-26",
       "ats": "LinkedIn"
     },
     {
-      "company": "Wipro",
-      "title": "MLOPS Engineer",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4418296427/",
+      "company": "Capital One",
+      "title": "Senior Data Scientist, AI Foundations",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4419498552/",
       "date_posted": "2026-05-26",
       "ats": "LinkedIn"
     },
     {
-      "company": "Tokyo Electron US",
-      "title": "Senior Autonomy/AI Research Engineer",
+      "company": "PlusAI",
+      "title": "Research Engineer Intern",
       "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4341558625/",
+      "url": "https://www.linkedin.com/jobs/view/4416852559/",
       "date_posted": "2026-05-26",
       "ats": "LinkedIn"
     },
     {
-      "company": "Cohesity",
-      "title": "Principal AI Engineer, HR Automation",
-      "location": "Santa Clara County, CA",
-      "url": "https://www.linkedin.com/jobs/view/4419474986/",
+      "company": "PlusAI",
+      "title": "Machine Learning Infrastructure Engineer Intern",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4412847585/",
       "date_posted": "2026-05-26",
       "ats": "LinkedIn"
     }
