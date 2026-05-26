@@ -1,21 +1,21 @@
 {
-  "scraped_at": "2026-05-26 20:17 UTC",
-  "total": 4,
-  "new_count": 4,
+  "scraped_at": "2026-05-26 21:17 UTC",
+  "total": 10,
+  "new_count": 7,
   "jobs": [
     {
-      "company": "Thomson Reuters",
-      "title": "Senior Data Scientist \u2013 Election & News Products",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4418501474/",
+      "company": "PlusAI",
+      "title": "Machine Learning Infrastructure Engineer Intern",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4412847585/",
       "date_posted": "2026-05-26",
       "ats": "LinkedIn"
     },
     {
-      "company": "Capital One",
-      "title": "Senior Data Scientist, AI Foundations",
+      "company": "TikTok USDS Joint Venture",
+      "title": "Senior Machine Learning Engineer - Ads Pangle - USDS",
       "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4419498552/",
+      "url": "https://www.linkedin.com/jobs/view/4402091358/",
       "date_posted": "2026-05-26",
       "ats": "LinkedIn"
     },
@@ -28,44 +28,116 @@
       "ats": "LinkedIn"
     },
     {
-      "company": "PlusAI",
-      "title": "Machine Learning Infrastructure Engineer Intern",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4412847585/",
+      "company": "Thomson Reuters",
+      "title": "Senior Data Scientist \u2013 Election & News Products",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4418501474/",
+      "date_posted": "2026-05-26",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Combinely",
+      "title": "Founding AI Engineer (US)",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4419522176/",
+      "date_posted": "2026-05-26",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Genesys",
+      "title": "Principal Applied AI Engineer, Finance",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4415962405/",
+      "date_posted": "2026-05-26",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Tatari",
+      "title": "Data Science Manager",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4380025313/",
+      "date_posted": "2026-05-26",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Genesys",
+      "title": "Principal Applied AI Engineer, Finance",
+      "location": "Menlo Park, CA",
+      "url": "https://www.linkedin.com/jobs/view/4415967253/",
+      "date_posted": "2026-05-26",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Genesys",
+      "title": "Principal Applied AI Engineer, Finance",
+      "location": "Menlo Park, CA",
+      "url": "https://www.linkedin.com/jobs/view/4415960666/",
+      "date_posted": "2026-05-26",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "KPI Partners",
+      "title": "Gen AI Engineer",
+      "location": "Fremont, CA",
+      "url": "https://www.linkedin.com/jobs/view/4416851674/",
       "date_posted": "2026-05-26",
       "ats": "LinkedIn"
     }
   ],
   "new_jobs": [
     {
-      "company": "Thomson Reuters",
-      "title": "Senior Data Scientist \u2013 Election & News Products",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4418501474/",
-      "date_posted": "2026-05-26",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Capital One",
-      "title": "Senior Data Scientist, AI Foundations",
+      "company": "TikTok USDS Joint Venture",
+      "title": "Senior Machine Learning Engineer - Ads Pangle - USDS",
       "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4419498552/",
+      "url": "https://www.linkedin.com/jobs/view/4402091358/",
       "date_posted": "2026-05-26",
       "ats": "LinkedIn"
     },
     {
-      "company": "PlusAI",
-      "title": "Research Engineer Intern",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4416852559/",
+      "company": "Combinely",
+      "title": "Founding AI Engineer (US)",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4419522176/",
       "date_posted": "2026-05-26",
       "ats": "LinkedIn"
     },
     {
-      "company": "PlusAI",
-      "title": "Machine Learning Infrastructure Engineer Intern",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4412847585/",
+      "company": "Genesys",
+      "title": "Principal Applied AI Engineer, Finance",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4415962405/",
+      "date_posted": "2026-05-26",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Tatari",
+      "title": "Data Science Manager",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4380025313/",
+      "date_posted": "2026-05-26",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Genesys",
+      "title": "Principal Applied AI Engineer, Finance",
+      "location": "Menlo Park, CA",
+      "url": "https://www.linkedin.com/jobs/view/4415967253/",
+      "date_posted": "2026-05-26",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Genesys",
+      "title": "Principal Applied AI Engineer, Finance",
+      "location": "Menlo Park, CA",
+      "url": "https://www.linkedin.com/jobs/view/4415960666/",
+      "date_posted": "2026-05-26",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "KPI Partners",
+      "title": "Gen AI Engineer",
+      "location": "Fremont, CA",
+      "url": "https://www.linkedin.com/jobs/view/4416851674/",
       "date_posted": "2026-05-26",
       "ats": "LinkedIn"
     }
