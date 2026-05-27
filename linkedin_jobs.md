@@ -1,40 +1,32 @@
 # 🔥 LinkedIn — MLE / DS Roles (SF Bay Area)
-*Last updated: 2026-05-27 00:17 UTC*
+*Last updated: 2026-05-27 01:17 UTC*
 
-**9 new role(s)** since last run · 10 total in last 1h
+**7 new role(s)** since last run · 14 total in last 1h
 
-### [Research Engineer/Scientist (all levels), Efficient Models](https://www.linkedin.com/jobs/view/4418544019/) — TikTok
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-05-27
-
-### [Machine Learning Engineer, Speech LLM Training](https://www.linkedin.com/jobs/view/4418533260/) — Jobright.ai
+### [Machine Learning Research Engineer](https://www.linkedin.com/jobs/view/4418527731/) — Roboflow
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-05-27
 
-### [Data Scientist, Marketing](https://www.linkedin.com/jobs/view/4419540853/) — Scopely
-- 📍 **Location:** San Francisco Bay Area
+### [Machine Learning Research Engineer](https://www.linkedin.com/jobs/view/4418547075/) — Roboflow
+- 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-05-27
 
-### [Data Scientist, Marketing](https://www.linkedin.com/jobs/view/4419539902/) — Scopely
-- 📍 **Location:** Sunnyvale, CA
+### [Data Scientist](https://www.linkedin.com/jobs/view/4419566276/) — Parafin
+- 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-05-27
 
-### [Senior Applied Scientist, Last Mile Delivery](https://www.linkedin.com/jobs/view/4419569017/) — Amazon
-- 📍 **Location:** Santa Clara, CA
+### [Staff Machine Learning Engineer Document Intelligence](https://www.linkedin.com/jobs/view/4418543176/) — GEICO
+- 📍 **Location:** Palo Alto, CA
 - 🕒 **Posted:** 2026-05-27
 
-### [Associate AI Engineer](https://www.linkedin.com/jobs/view/4419564135/) — Cornerstone OnDemand
-- 📍 **Location:** Dublin, CA
+### [Senior Data Scientist](https://www.linkedin.com/jobs/view/4419571464/) — ServiceNow
+- 📍 **Location:** Mountain View, CA
 - 🕒 **Posted:** 2026-05-27
 
-### [Associate AI Engineer](https://www.linkedin.com/jobs/view/4419554415/) — Cornerstone OnDemand
-- 📍 **Location:** Dublin, CA
+### [Senior Data Scientist](https://www.linkedin.com/jobs/view/4419556662/) — ServiceNow
+- 📍 **Location:** Mountain View, CA
 - 🕒 **Posted:** 2026-05-27
 
-### [LATAM - Data Science Engineer](https://www.linkedin.com/jobs/view/4416857428/) — Playsaurus Inc.
-- 📍 **Location:** Alameda, CA
-- 🕒 **Posted:** 2026-05-26
-
-### [Principal Applied Scientist](https://www.linkedin.com/jobs/view/4419548813/) — Microsoft AI
-- 📍 **Location:** Sunnyvale, CA
-- 🕒 **Posted:** 2026-05-26
+### [Principal Scientist, Biomarker Data Sciences](https://www.linkedin.com/jobs/view/4418531377/) — Biogen
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-05-27
