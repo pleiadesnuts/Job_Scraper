@@ -1,527 +1,263 @@
 {
-  "scraped_at": "2026-05-28 02:17 UTC",
-  "total": 34,
-  "new_count": 31,
+  "scraped_at": "2026-05-28 03:17 UTC",
+  "total": 16,
+  "new_count": 16,
   "jobs": [
     {
-      "company": "Pelica Health",
-      "title": "Machine Learning Engineer",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4418871558/",
-      "date_posted": "2026-05-28",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Jack & Jill",
-      "title": "AI/ML Engineer ($250k\u2013$400k + Equity) at $10M Seed consumer AI dating startup",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4418868833/",
-      "date_posted": "2026-05-28",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Tesla",
-      "title": "AI Engineer, ML Inference Optimization, Tesla AI",
-      "location": "Palo Alto, CA",
-      "url": "https://www.linkedin.com/jobs/view/4420222395/",
-      "date_posted": "2026-05-28",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Tesla",
-      "title": "AI Engineer, Data Scaling, Self-Driving",
-      "location": "Palo Alto, CA",
-      "url": "https://www.linkedin.com/jobs/view/4420212671/",
-      "date_posted": "2026-05-28",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Tesla",
-      "title": "Software Engineer, MLOps, Manufacturing Quality",
-      "location": "Fremont, CA",
-      "url": "https://www.linkedin.com/jobs/view/4420215565/",
-      "date_posted": "2026-05-28",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Tesla",
-      "title": "Sr. Software & Machine Learning Engineer, Energy Optimization",
-      "location": "Palo Alto, CA",
-      "url": "https://www.linkedin.com/jobs/view/4420203966/",
-      "date_posted": "2026-05-28",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Jack & Jill",
-      "title": "Founding Machine Learning Engineer ($180K \u2013 $220K + Equity) at $60M Series B AI-native insurance platform",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4418883212/",
-      "date_posted": "2026-05-28",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Jack & Jill",
-      "title": "Machine Learning Engineer at YC-backed AI startup for clean energy discovery",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4418868840/",
-      "date_posted": "2026-05-28",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Uber",
-      "title": "Staff ML Engineer, Generative AI",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4420208847/",
-      "date_posted": "2026-05-28",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "NewsBreak",
-      "title": "AI Engineer, Agent Platform",
-      "location": "Mountain View, CA",
-      "url": "https://www.linkedin.com/jobs/view/4420208695/",
-      "date_posted": "2026-05-28",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "DoorDash",
-      "title": "Staff Machine Learning Engineer, Fulfillment Planning",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4417280353/",
-      "date_posted": "2026-05-28",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "DoorDash",
-      "title": "Staff Machine Learning Engineer, Fulfillment Planning",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4417276456/",
-      "date_posted": "2026-05-28",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Jobs via Dice",
-      "title": "AI/ML Engineer",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4418878335/",
-      "date_posted": "2026-05-28",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Databricks",
-      "title": "Senior Data Scientist",
-      "location": "Mountain View, CA",
-      "url": "https://www.linkedin.com/jobs/view/4417279264/",
-      "date_posted": "2026-05-28",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Jack & Jill",
-      "title": "Senior Machine Learning Engineer ($250k + $100k/year Equity) at $13.7M Seed CRV-backed industrial AI startup",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4418876388/",
-      "date_posted": "2026-05-28",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Lightspeed",
-      "title": "Senior Data Scientist",
-      "location": "Mountain View, CA",
-      "url": "https://www.linkedin.com/jobs/view/4418871542/",
-      "date_posted": "2026-05-28",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Jobs via Dice",
-      "title": "Data Scientist",
+      "company": "Blue River Technology",
+      "title": "ML Engineer, End-to-End Autonomy",
       "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4418879317/",
+      "url": "https://www.linkedin.com/jobs/view/4420233360/",
       "date_posted": "2026-05-28",
       "ats": "LinkedIn"
     },
     {
-      "company": "Jack & Jill",
-      "title": "Founding Applied AI Engineer at Moveworks-founded stealth enterprise AI startup",
-      "location": "Palo Alto, CA",
-      "url": "https://www.linkedin.com/jobs/view/4418867841/",
-      "date_posted": "2026-05-28",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Uber",
-      "title": "Applied Scientist, Policy",
+      "company": "Stripe",
+      "title": "Machine Learning Engineer, Capital Underwriting",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4420212788/",
+      "url": "https://www.linkedin.com/jobs/view/4420226497/",
       "date_posted": "2026-05-28",
       "ats": "LinkedIn"
     },
     {
-      "company": "Tesla",
-      "title": "AI Engineer, Computer Use Agents, Digital Optimus",
-      "location": "Palo Alto, CA",
-      "url": "https://www.linkedin.com/jobs/view/4420206854/",
-      "date_posted": "2026-05-28",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Jack & Jill",
-      "title": "Applied AI Engineer at Innovative AI simulation startup",
+      "company": "American Arbitration Association",
+      "title": "Data Scientist",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4418870731/",
+      "url": "https://www.linkedin.com/jobs/view/4420234396/",
       "date_posted": "2026-05-28",
       "ats": "LinkedIn"
     },
     {
-      "company": "Tesla",
-      "title": "AI Engineer, Geometric Vision, Tesla AI",
+      "company": "Xage Security",
+      "title": "Software Engineer in Test",
       "location": "Palo Alto, CA",
-      "url": "https://www.linkedin.com/jobs/view/4420224111/",
+      "url": "https://www.linkedin.com/jobs/view/4418873808/",
       "date_posted": "2026-05-28",
       "ats": "LinkedIn"
     },
     {
-      "company": "Tesla",
-      "title": "AI Engineer, Manipulation, Optimus",
-      "location": "Palo Alto, CA",
-      "url": "https://www.linkedin.com/jobs/view/4420212685/",
-      "date_posted": "2026-05-28",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Jack & Jill",
-      "title": "AI Engineer ($180K \u2013 $250K + Equity) at Index Ventures-backed agentic AI startup",
+      "company": "Clever Inc.",
+      "title": "Software Engineer (Mid or Senior), School Integrations",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4418868841/",
+      "url": "https://www.linkedin.com/jobs/view/4420233357/",
       "date_posted": "2026-05-28",
       "ats": "LinkedIn"
     },
     {
-      "company": "Tesla",
-      "title": "AI Engineer, Reinforcement Learning, Self-Driving",
-      "location": "Palo Alto, CA",
-      "url": "https://www.linkedin.com/jobs/view/4420213689/",
-      "date_posted": "2026-05-28",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Tesla",
-      "title": "AI Engineer, World Modeling & Video Generation, Tesla AI",
-      "location": "Palo Alto, CA",
-      "url": "https://www.linkedin.com/jobs/view/4420214692/",
-      "date_posted": "2026-05-28",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Tesla",
-      "title": "Fullstack Machine Learning Engineer, Infrastructure",
-      "location": "Palo Alto, CA",
-      "url": "https://www.linkedin.com/jobs/view/4420214687/",
-      "date_posted": "2026-05-28",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Jack & Jill",
-      "title": "Founding AI Engineer Intern at San Francisco AI agent startup",
+      "company": "San Francisco Compute Company",
+      "title": "Software Engineer - Cloud",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4418867878/",
+      "url": "https://www.linkedin.com/jobs/view/4418867123/",
       "date_posted": "2026-05-28",
       "ats": "LinkedIn"
     },
     {
-      "company": "Tesla",
-      "title": "Full Stack AI Engineer, Electronic Systems",
-      "location": "Palo Alto, CA",
-      "url": "https://www.linkedin.com/jobs/view/4420224144/",
-      "date_posted": "2026-05-28",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Tesla",
-      "title": "Staff Machine Learning Engineer, Energy & Charging",
-      "location": "Palo Alto, CA",
-      "url": "https://www.linkedin.com/jobs/view/4420215687/",
-      "date_posted": "2026-05-28",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Jack & Jill",
-      "title": "AI Engineer at Bay Area AI hardware startup",
+      "company": "San Francisco Compute Company",
+      "title": "Software Engineer - Product",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4418870756/",
+      "url": "https://www.linkedin.com/jobs/view/4418852599/",
       "date_posted": "2026-05-28",
       "ats": "LinkedIn"
     },
     {
-      "company": "Jack & Jill",
-      "title": "Founding AI/ML Research Engineer (+ Equity) at YC W26 enterprise AI startup",
+      "company": "Atomic Machines",
+      "title": "Robotics Software Engineer, Reliability",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4417600324/",
+      "date_posted": "2026-05-28",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "San Francisco Compute Company",
+      "title": "Software Engineer, Hermetic Build",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4418886105/",
+      "url": "https://www.linkedin.com/jobs/view/4418860450/",
       "date_posted": "2026-05-28",
       "ats": "LinkedIn"
     },
     {
-      "company": "Tesla",
-      "title": "Machine Learning Infrastructure Simulation Engineer, Optimus",
-      "location": "Palo Alto, CA",
-      "url": "https://www.linkedin.com/jobs/view/4420223196/",
+      "company": "Hover",
+      "title": "Staff Software Engineer",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4418874693/",
       "date_posted": "2026-05-28",
       "ats": "LinkedIn"
     },
     {
-      "company": "Tesla",
-      "title": "Applied AI Engineer, AI Hardware",
-      "location": "Palo Alto, CA",
-      "url": "https://www.linkedin.com/jobs/view/4420210782/",
+      "company": "Samsung Research America (SRA)",
+      "title": "Senior Staff Research Engineer, Robot Intelligence",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4417282305/",
+      "date_posted": "2026-05-28",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Absurd Ventures",
+      "title": "Senior AI Engineer",
+      "location": "San Rafael, CA",
+      "url": "https://www.linkedin.com/jobs/view/4420223774/",
+      "date_posted": "2026-05-28",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Govra",
+      "title": "Senior/Staff Full Stack Engineer",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4420201620/",
+      "date_posted": "2026-05-28",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Science",
+      "title": "DevOps Engineer",
+      "location": "Alameda, CA",
+      "url": "https://www.linkedin.com/jobs/view/4417258925/",
+      "date_posted": "2026-05-28",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Lockheed Martin",
+      "title": "Systems Engineer Associate - Entry Level",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4420231557/",
+      "date_posted": "2026-05-28",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "BetterHelp",
+      "title": "Senior Business Intelligence and Analytics Engineer",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4317497338/",
       "date_posted": "2026-05-28",
       "ats": "LinkedIn"
     }
   ],
   "new_jobs": [
     {
-      "company": "Jack & Jill",
-      "title": "AI/ML Engineer ($250k\u2013$400k + Equity) at $10M Seed consumer AI dating startup",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4418868833/",
-      "date_posted": "2026-05-28",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Tesla",
-      "title": "AI Engineer, ML Inference Optimization, Tesla AI",
-      "location": "Palo Alto, CA",
-      "url": "https://www.linkedin.com/jobs/view/4420222395/",
-      "date_posted": "2026-05-28",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Tesla",
-      "title": "AI Engineer, Data Scaling, Self-Driving",
-      "location": "Palo Alto, CA",
-      "url": "https://www.linkedin.com/jobs/view/4420212671/",
-      "date_posted": "2026-05-28",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Tesla",
-      "title": "Software Engineer, MLOps, Manufacturing Quality",
-      "location": "Fremont, CA",
-      "url": "https://www.linkedin.com/jobs/view/4420215565/",
-      "date_posted": "2026-05-28",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Tesla",
-      "title": "Sr. Software & Machine Learning Engineer, Energy Optimization",
-      "location": "Palo Alto, CA",
-      "url": "https://www.linkedin.com/jobs/view/4420203966/",
-      "date_posted": "2026-05-28",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Jack & Jill",
-      "title": "Founding Machine Learning Engineer ($180K \u2013 $220K + Equity) at $60M Series B AI-native insurance platform",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4418883212/",
-      "date_posted": "2026-05-28",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Jack & Jill",
-      "title": "Machine Learning Engineer at YC-backed AI startup for clean energy discovery",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4418868840/",
-      "date_posted": "2026-05-28",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Uber",
-      "title": "Staff ML Engineer, Generative AI",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4420208847/",
-      "date_posted": "2026-05-28",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "NewsBreak",
-      "title": "AI Engineer, Agent Platform",
-      "location": "Mountain View, CA",
-      "url": "https://www.linkedin.com/jobs/view/4420208695/",
-      "date_posted": "2026-05-28",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "DoorDash",
-      "title": "Staff Machine Learning Engineer, Fulfillment Planning",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4417280353/",
-      "date_posted": "2026-05-28",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "DoorDash",
-      "title": "Staff Machine Learning Engineer, Fulfillment Planning",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4417276456/",
-      "date_posted": "2026-05-28",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Jobs via Dice",
-      "title": "AI/ML Engineer",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4418878335/",
-      "date_posted": "2026-05-28",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Jack & Jill",
-      "title": "Senior Machine Learning Engineer ($250k + $100k/year Equity) at $13.7M Seed CRV-backed industrial AI startup",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4418876388/",
-      "date_posted": "2026-05-28",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Jobs via Dice",
-      "title": "Data Scientist",
+      "company": "Blue River Technology",
+      "title": "ML Engineer, End-to-End Autonomy",
       "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4418879317/",
+      "url": "https://www.linkedin.com/jobs/view/4420233360/",
       "date_posted": "2026-05-28",
       "ats": "LinkedIn"
     },
     {
-      "company": "Jack & Jill",
-      "title": "Founding Applied AI Engineer at Moveworks-founded stealth enterprise AI startup",
-      "location": "Palo Alto, CA",
-      "url": "https://www.linkedin.com/jobs/view/4418867841/",
-      "date_posted": "2026-05-28",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Uber",
-      "title": "Applied Scientist, Policy",
+      "company": "Stripe",
+      "title": "Machine Learning Engineer, Capital Underwriting",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4420212788/",
+      "url": "https://www.linkedin.com/jobs/view/4420226497/",
       "date_posted": "2026-05-28",
       "ats": "LinkedIn"
     },
     {
-      "company": "Tesla",
-      "title": "AI Engineer, Computer Use Agents, Digital Optimus",
-      "location": "Palo Alto, CA",
-      "url": "https://www.linkedin.com/jobs/view/4420206854/",
-      "date_posted": "2026-05-28",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Jack & Jill",
-      "title": "Applied AI Engineer at Innovative AI simulation startup",
+      "company": "American Arbitration Association",
+      "title": "Data Scientist",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4418870731/",
+      "url": "https://www.linkedin.com/jobs/view/4420234396/",
       "date_posted": "2026-05-28",
       "ats": "LinkedIn"
     },
     {
-      "company": "Tesla",
-      "title": "AI Engineer, Geometric Vision, Tesla AI",
+      "company": "Xage Security",
+      "title": "Software Engineer in Test",
       "location": "Palo Alto, CA",
-      "url": "https://www.linkedin.com/jobs/view/4420224111/",
+      "url": "https://www.linkedin.com/jobs/view/4418873808/",
       "date_posted": "2026-05-28",
       "ats": "LinkedIn"
     },
     {
-      "company": "Tesla",
-      "title": "AI Engineer, Manipulation, Optimus",
-      "location": "Palo Alto, CA",
-      "url": "https://www.linkedin.com/jobs/view/4420212685/",
-      "date_posted": "2026-05-28",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Jack & Jill",
-      "title": "AI Engineer ($180K \u2013 $250K + Equity) at Index Ventures-backed agentic AI startup",
+      "company": "Clever Inc.",
+      "title": "Software Engineer (Mid or Senior), School Integrations",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4418868841/",
+      "url": "https://www.linkedin.com/jobs/view/4420233357/",
       "date_posted": "2026-05-28",
       "ats": "LinkedIn"
     },
     {
-      "company": "Tesla",
-      "title": "AI Engineer, Reinforcement Learning, Self-Driving",
-      "location": "Palo Alto, CA",
-      "url": "https://www.linkedin.com/jobs/view/4420213689/",
-      "date_posted": "2026-05-28",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Tesla",
-      "title": "AI Engineer, World Modeling & Video Generation, Tesla AI",
-      "location": "Palo Alto, CA",
-      "url": "https://www.linkedin.com/jobs/view/4420214692/",
-      "date_posted": "2026-05-28",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Tesla",
-      "title": "Fullstack Machine Learning Engineer, Infrastructure",
-      "location": "Palo Alto, CA",
-      "url": "https://www.linkedin.com/jobs/view/4420214687/",
-      "date_posted": "2026-05-28",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Jack & Jill",
-      "title": "Founding AI Engineer Intern at San Francisco AI agent startup",
+      "company": "San Francisco Compute Company",
+      "title": "Software Engineer - Cloud",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4418867878/",
+      "url": "https://www.linkedin.com/jobs/view/4418867123/",
       "date_posted": "2026-05-28",
       "ats": "LinkedIn"
     },
     {
-      "company": "Tesla",
-      "title": "Full Stack AI Engineer, Electronic Systems",
-      "location": "Palo Alto, CA",
-      "url": "https://www.linkedin.com/jobs/view/4420224144/",
-      "date_posted": "2026-05-28",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Tesla",
-      "title": "Staff Machine Learning Engineer, Energy & Charging",
-      "location": "Palo Alto, CA",
-      "url": "https://www.linkedin.com/jobs/view/4420215687/",
-      "date_posted": "2026-05-28",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Jack & Jill",
-      "title": "AI Engineer at Bay Area AI hardware startup",
+      "company": "San Francisco Compute Company",
+      "title": "Software Engineer - Product",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4418870756/",
+      "url": "https://www.linkedin.com/jobs/view/4418852599/",
       "date_posted": "2026-05-28",
       "ats": "LinkedIn"
     },
     {
-      "company": "Jack & Jill",
-      "title": "Founding AI/ML Research Engineer (+ Equity) at YC W26 enterprise AI startup",
+      "company": "Atomic Machines",
+      "title": "Robotics Software Engineer, Reliability",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4417600324/",
+      "date_posted": "2026-05-28",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "San Francisco Compute Company",
+      "title": "Software Engineer, Hermetic Build",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4418886105/",
+      "url": "https://www.linkedin.com/jobs/view/4418860450/",
       "date_posted": "2026-05-28",
       "ats": "LinkedIn"
     },
     {
-      "company": "Tesla",
-      "title": "Machine Learning Infrastructure Simulation Engineer, Optimus",
-      "location": "Palo Alto, CA",
-      "url": "https://www.linkedin.com/jobs/view/4420223196/",
+      "company": "Hover",
+      "title": "Staff Software Engineer",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4418874693/",
       "date_posted": "2026-05-28",
       "ats": "LinkedIn"
     },
     {
-      "company": "Tesla",
-      "title": "Applied AI Engineer, AI Hardware",
-      "location": "Palo Alto, CA",
-      "url": "https://www.linkedin.com/jobs/view/4420210782/",
+      "company": "Samsung Research America (SRA)",
+      "title": "Senior Staff Research Engineer, Robot Intelligence",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4417282305/",
+      "date_posted": "2026-05-28",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Absurd Ventures",
+      "title": "Senior AI Engineer",
+      "location": "San Rafael, CA",
+      "url": "https://www.linkedin.com/jobs/view/4420223774/",
+      "date_posted": "2026-05-28",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Govra",
+      "title": "Senior/Staff Full Stack Engineer",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4420201620/",
+      "date_posted": "2026-05-28",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Science",
+      "title": "DevOps Engineer",
+      "location": "Alameda, CA",
+      "url": "https://www.linkedin.com/jobs/view/4417258925/",
+      "date_posted": "2026-05-28",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Lockheed Martin",
+      "title": "Systems Engineer Associate - Entry Level",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4420231557/",
+      "date_posted": "2026-05-28",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "BetterHelp",
+      "title": "Senior Business Intelligence and Analytics Engineer",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4317497338/",
       "date_posted": "2026-05-28",
       "ats": "LinkedIn"
     }
