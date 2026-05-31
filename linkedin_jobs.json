@@ -1,95 +1,119 @@
 {
-  "scraped_at": "2026-05-31 20:17 UTC",
-  "total": 8,
-  "new_count": 3,
+  "scraped_at": "2026-05-31 21:17 UTC",
+  "total": 7,
+  "new_count": 7,
   "jobs": [
     {
-      "company": "Differential.",
-      "title": "ML Infrastructure Engineer - RL Systems",
+      "company": "ClickHouse",
+      "title": "Data Scientist, Finance Forecasting",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4418394627/",
+      "url": "https://www.linkedin.com/jobs/view/4421633080/",
       "date_posted": "2026-05-31",
       "ats": "LinkedIn"
     },
     {
-      "company": "TikTok",
-      "title": "Senior Backend Software Engineer - AI - Asset Services",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4422565732/",
+      "company": "Jobright.ai",
+      "title": "Growth Data Engineer",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4422577880/",
       "date_posted": "2026-05-31",
       "ats": "LinkedIn"
     },
     {
-      "company": "TikTok USDS Joint Venture",
-      "title": "Endpoint Security Software Engineer, C++/PC Windows - USDS",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4421624901/",
-      "date_posted": "2026-05-31",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Frederick Fox",
-      "title": "Head of Data Science",
+      "company": "Haystack",
+      "title": "AI Engineer",
       "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4421611948/",
+      "url": "https://www.linkedin.com/jobs/view/4422575829/",
       "date_posted": "2026-05-31",
       "ats": "LinkedIn"
     },
     {
-      "company": "talentpluto",
-      "title": "Research Engineer",
+      "company": "ClickHouse",
+      "title": "Senior Analytics Engineer, Product",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4421622951/",
+      "url": "https://www.linkedin.com/jobs/view/4421648005/",
       "date_posted": "2026-05-31",
       "ats": "LinkedIn"
     },
     {
-      "company": "TikTok",
-      "title": "Backend Software Engineer - TikTok - OGC",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4422580701/",
+      "company": "Jobright.ai",
+      "title": "AI Engineer, Agent Product (Full-time/Part-time)",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4422574813/",
       "date_posted": "2026-05-31",
       "ats": "LinkedIn"
     },
     {
-      "company": "TikTok",
-      "title": "Multi-Cloud CDN Access Platform Engineer",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4422568727/",
+      "company": "git-talent",
+      "title": "Full Stack Engineer",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4422561714/",
       "date_posted": "2026-05-31",
       "ats": "LinkedIn"
     },
     {
-      "company": "TikTok",
-      "title": "Multi-Cloud CDN Scheduling Platform Engineer",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4422565717/",
+      "company": "Jobright.ai",
+      "title": "Full Stack Engineer - Growth",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4422578827/",
       "date_posted": "2026-05-31",
       "ats": "LinkedIn"
     }
   ],
   "new_jobs": [
     {
-      "company": "Differential.",
-      "title": "ML Infrastructure Engineer - RL Systems",
+      "company": "ClickHouse",
+      "title": "Data Scientist, Finance Forecasting",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4418394627/",
+      "url": "https://www.linkedin.com/jobs/view/4421633080/",
       "date_posted": "2026-05-31",
       "ats": "LinkedIn"
     },
     {
-      "company": "Frederick Fox",
-      "title": "Head of Data Science",
+      "company": "Jobright.ai",
+      "title": "Growth Data Engineer",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4422577880/",
+      "date_posted": "2026-05-31",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Haystack",
+      "title": "AI Engineer",
       "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4421611948/",
+      "url": "https://www.linkedin.com/jobs/view/4422575829/",
       "date_posted": "2026-05-31",
       "ats": "LinkedIn"
     },
     {
-      "company": "talentpluto",
-      "title": "Research Engineer",
+      "company": "ClickHouse",
+      "title": "Senior Analytics Engineer, Product",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4421622951/",
+      "url": "https://www.linkedin.com/jobs/view/4421648005/",
+      "date_posted": "2026-05-31",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Jobright.ai",
+      "title": "AI Engineer, Agent Product (Full-time/Part-time)",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4422574813/",
+      "date_posted": "2026-05-31",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "git-talent",
+      "title": "Full Stack Engineer",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4422561714/",
+      "date_posted": "2026-05-31",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Jobright.ai",
+      "title": "Full Stack Engineer - Growth",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4422578827/",
       "date_posted": "2026-05-31",
       "ats": "LinkedIn"
     }
