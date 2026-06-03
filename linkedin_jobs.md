@@ -1,88 +1,68 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area)
-*Last updated: 2026-06-03 00:17 UTC*
+*Last updated: 2026-06-03 01:17 UTC*
 
-**21 new role(s)** since last run · 29 total in last 1h
+**16 new role(s)** since last run · 34 total in last 1h
 
-### [Data Scientist](https://www.linkedin.com/jobs/view/4422647342/) — Pinterest
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-06-03
-
-### [Senior ML Software Engineer, Mapping](https://www.linkedin.com/jobs/view/4422638474/) — Lyft
-- 📍 **Location:** San Francisco County, CA
-- 🕒 **Posted:** 2026-06-03
-
-### [Software Engineer, iOS](https://www.linkedin.com/jobs/view/4422627640/) — Pinterest
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-06-03
-
-### [Software Engineer, New Grad](https://www.linkedin.com/jobs/view/4423996592/) — IXL Learning
-- 📍 **Location:** San Mateo, CA
-- 🕒 **Posted:** 2026-06-03
-
-### [Delivery Consultant- GenAI/ML & Data Science, Professional Services, AWS Industries](https://www.linkedin.com/jobs/view/4422630622/) — Amazon Web Services (AWS)
-- 📍 **Location:** Mountain View, CA
-- 🕒 **Posted:** 2026-06-03
-
-### [Data Scientist II - AMZ26888.1](https://www.linkedin.com/jobs/view/4422635466/) — Amazon Web Services (AWS)
-- 📍 **Location:** Mountain View, CA
-- 🕒 **Posted:** 2026-06-03
-
-### [Applied AI Engineer - VLSI Design](https://www.linkedin.com/jobs/view/4423995646/) — NVIDIA
-- 📍 **Location:** Santa Clara, CA
-- 🕒 **Posted:** 2026-06-03
-
-### [Staff Software Engineer - AI](https://www.linkedin.com/jobs/view/4424013267/) — Cloudera
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-06-03
-
-### [Senior ASIC AI Engineer](https://www.linkedin.com/jobs/view/4424006270/) — NVIDIA
-- 📍 **Location:** Santa Clara, CA
-- 🕒 **Posted:** 2026-06-03
-
-### [Software Engineer, Backend, Level 5](https://www.linkedin.com/jobs/view/4422634453/) — Snap Inc.
-- 📍 **Location:** Palo Alto, CA
-- 🕒 **Posted:** 2026-06-03
-
-### [Software Development Engineer, Data Platform, Prime Video Personalization & Discovery](https://www.linkedin.com/jobs/view/4422632555/) — Prime Video & Amazon MGM Studios
+### [Senior Machine Learning Engineer](https://www.linkedin.com/jobs/view/4422648621/) — Intuitive
 - 📍 **Location:** Sunnyvale, CA
 - 🕒 **Posted:** 2026-06-03
 
-### [Principal Software Engineer](https://www.linkedin.com/jobs/view/4424002333/) — Docusign
+### [Senior Data Scientist, Feed Relevance](https://www.linkedin.com/jobs/view/4390012822/) — Patreon
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-06-03
 
-### [Front-end Engineer - SDE, Vesper](https://www.linkedin.com/jobs/view/4422630624/) — Amazon
+### [Software Engineer, Data Foundation](https://www.linkedin.com/jobs/view/4422640916/) — Mixpanel
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-06-03
 
-### [Senior FPGA Prototyping Platform Engineer](https://www.linkedin.com/jobs/view/4424002339/) — NVIDIA
-- 📍 **Location:** Santa Clara, CA
+### [Embedded Software Engineer](https://www.linkedin.com/jobs/view/4423995873/) — Protingent
+- 📍 **Location:** Emeryville, CA
 - 🕒 **Posted:** 2026-06-03
 
-### [Delivery Consultant - AI/ML & Data Science, Professional Services - AWS Industries](https://www.linkedin.com/jobs/view/4422631547/) — Amazon Web Services (AWS)
-- 📍 **Location:** Mountain View, CA
+### [Software Engineer II, Backend (Capital Orchestration)](https://www.linkedin.com/jobs/view/4424012395/) — Affirm
+- 📍 **Location:** Palo Alto, CA
 - 🕒 **Posted:** 2026-06-03
 
-### [LATAM - Data Science Engineer](https://www.linkedin.com/jobs/view/4419626835/) — Playsaurus Inc.
-- 📍 **Location:** Alameda, CA
-- 🕒 **Posted:** 2026-06-02
+### [Software Engineer II, Backend (Capital Orchestration)](https://www.linkedin.com/jobs/view/4424015251/) — Affirm
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-06-03
 
-### [Software Engineer - Prism](https://www.linkedin.com/jobs/view/4422625262/) — Nutanix
+### [Senior Systems Engineer - AI Infrastructure](https://www.linkedin.com/jobs/view/4413200393/) — Clockwork Systems, Inc.
+- 📍 **Location:** Palo Alto, CA
+- 🕒 **Posted:** 2026-06-03
+
+### [Software Engineer II, Backend (Capital Orchestration)](https://www.linkedin.com/jobs/view/4424017097/) — Affirm
 - 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-06-02
+- 🕒 **Posted:** 2026-06-03
 
-### [Machine Learning Engineer, Speech LLM Training](https://www.linkedin.com/jobs/view/4424001309/) — Jobright.ai
+### [Staff Software Engineer, Backend Platform](https://www.linkedin.com/jobs/view/4403660153/) — Patreon
 - 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-06-02
+- 🕒 **Posted:** 2026-06-03
 
-### [Software Engineer, Storage](https://www.linkedin.com/jobs/view/4424011130/) — Glean
-- 📍 **Location:** Mountain View, CA
-- 🕒 **Posted:** 2026-06-02
+### [Senior Software Engineer - Full Stack](https://www.linkedin.com/jobs/view/4423997840/) — Turing Labs
+- 📍 **Location:** Palo Alto, CA
+- 🕒 **Posted:** 2026-06-03
 
-### [Senior Data Engineer](https://www.linkedin.com/jobs/view/4422645038/) — Capgemini
-- 📍 **Location:** Santa Clara, CA
-- 🕒 **Posted:** 2026-06-02
+### [Senior Software Engineer, Product Foundations](https://www.linkedin.com/jobs/view/4393809358/) — Patreon
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-06-03
 
-### [LATAM - Backend Developer](https://www.linkedin.com/jobs/view/4419639744/) — Playsaurus Inc.
-- 📍 **Location:** Alameda, CA
-- 🕒 **Posted:** 2026-06-02
+### [Full Stack Engineer](https://www.linkedin.com/jobs/view/4424008418/) — CuraFi
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-06-03
+
+### [Senior Platform Engineer](https://www.linkedin.com/jobs/view/4419632891/) — Gridware
+- 📍 **Location:** San Francisco Bay Area
+- 🕒 **Posted:** 2026-06-03
+
+### [Staff Cyber Site Reliability Engineer (SRE)](https://www.linkedin.com/jobs/view/4424015209/) — GEICO
+- 📍 **Location:** Palo Alto, CA
+- 🕒 **Posted:** 2026-06-03
+
+### [Staff Cyber Software Engineer](https://www.linkedin.com/jobs/view/4424010403/) — GEICO
+- 📍 **Location:** Palo Alto, CA
+- 🕒 **Posted:** 2026-06-03
+
+### [Bioinformatics Scientist](https://www.linkedin.com/jobs/view/4419650237/) — Discover International
+- 📍 **Location:** San Francisco Bay Area
+- 🕒 **Posted:** 2026-06-03
