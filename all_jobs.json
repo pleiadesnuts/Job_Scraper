@@ -1,6 +1,204 @@
 {
-  "updated_at": "2026-06-04 20:24 UTC",
+  "updated_at": "2026-06-04 20:36 UTC",
   "jobs": [
+    {
+      "company": "NVIDIA",
+      "title": "Senior Machine Learning Engineer, Perception - Autonomous Driving",
+      "location": "Santa Clara, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=790395acb6dab9d7",
+      "date_posted": "2026-06-04",
+      "ats": "Indeed",
+      "first_seen": "2026-06-04T20:36:58Z"
+    },
+    {
+      "company": "Salesforce",
+      "title": "Senior Manager, Software Engineering - Agentforce",
+      "location": "San Francisco, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=2ddcbcd3bdec0b97",
+      "date_posted": "2026-06-04",
+      "ats": "Indeed",
+      "first_seen": "2026-06-04T20:36:58Z"
+    },
+    {
+      "company": "Anduril",
+      "title": "Senior Software Engineer, Prototyping - Warfighter Systems",
+      "location": "San Francisco, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=e609bbccbebc1884",
+      "date_posted": "2026-06-04",
+      "ats": "Indeed",
+      "first_seen": "2026-06-04T20:36:58Z"
+    },
+    {
+      "company": "Anduril",
+      "title": "Senior Software Engineer, Prototyping - Warfighter Systems",
+      "location": "Santa Clara, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=0395391c55d16868",
+      "date_posted": "2026-06-04",
+      "ats": "Indeed",
+      "first_seen": "2026-06-04T20:36:58Z"
+    },
+    {
+      "company": "Anduril",
+      "title": "Senior Software Engineer, Prototyping - Warfighter Systems",
+      "location": "San Jose, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=3fbfebfd89f2d260",
+      "date_posted": "2026-06-04",
+      "ats": "Indeed",
+      "first_seen": "2026-06-04T20:36:58Z"
+    },
+    {
+      "company": "Anduril",
+      "title": "Senior Software Engineer, Prototyping - Warfighter Systems",
+      "location": "Sunnyvale, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=22801043b778ee1b",
+      "date_posted": "2026-06-04",
+      "ats": "Indeed",
+      "first_seen": "2026-06-04T20:36:58Z"
+    },
+    {
+      "company": "Anduril",
+      "title": "Senior Software Engineer, Prototyping - Warfighter Systems",
+      "location": "Cupertino, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=9a8ba7023317d9ea",
+      "date_posted": "2026-06-04",
+      "ats": "Indeed",
+      "first_seen": "2026-06-04T20:36:58Z"
+    },
+    {
+      "company": "Anduril",
+      "title": "Senior Software Engineer, Prototyping - Warfighter Systems",
+      "location": "Menlo Park, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=7de966750a2a447e",
+      "date_posted": "2026-06-04",
+      "ats": "Indeed",
+      "first_seen": "2026-06-04T20:36:58Z"
+    },
+    {
+      "company": "Discord",
+      "title": "Senior Software Engineer, Ads Measurement & Targeting",
+      "location": "San Francisco, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=6ecdcc07eb6f45ae",
+      "date_posted": "2026-06-04",
+      "ats": "Indeed",
+      "first_seen": "2026-06-04T20:36:58Z"
+    },
+    {
+      "company": "Discord",
+      "title": "Senior Software Engineer, Ads Measurement & Targeting",
+      "location": "San Jose, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=d934620b28f4b4be",
+      "date_posted": "2026-06-04",
+      "ats": "Indeed",
+      "first_seen": "2026-06-04T20:36:58Z"
+    },
+    {
+      "company": "Discord",
+      "title": "Senior Software Engineer, Ads Measurement & Targeting",
+      "location": "Palo Alto, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=e03ea85187d916bd",
+      "date_posted": "2026-06-04",
+      "ats": "Indeed",
+      "first_seen": "2026-06-04T20:36:58Z"
+    },
+    {
+      "company": "Discord",
+      "title": "Senior Software Engineer, Ads Measurement & Targeting",
+      "location": "Oakland, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=7a048241129e77d1",
+      "date_posted": "2026-06-04",
+      "ats": "Indeed",
+      "first_seen": "2026-06-04T20:36:58Z"
+    },
+    {
+      "company": "Discord",
+      "title": "Senior Software Engineer, Ads Measurement & Targeting",
+      "location": "San Mateo, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=0218d348d9e5f86a",
+      "date_posted": "2026-06-04",
+      "ats": "Indeed",
+      "first_seen": "2026-06-04T20:36:58Z"
+    },
+    {
+      "company": "Discord",
+      "title": "Senior Software Engineer, Ads Measurement & Targeting",
+      "location": "Menlo Park, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=e95b5a8de5f9b13d",
+      "date_posted": "2026-06-04",
+      "ats": "Indeed",
+      "first_seen": "2026-06-04T20:36:58Z"
+    },
+    {
+      "company": "Discord",
+      "title": "Senior Software Engineer, Ads Measurement & Targeting",
+      "location": "Milpitas, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=8ce4849613a1312e",
+      "date_posted": "2026-06-04",
+      "ats": "Indeed",
+      "first_seen": "2026-06-04T20:36:58Z"
+    },
+    {
+      "company": "Discord",
+      "title": "Senior Software Engineer, Ads Measurement & Targeting",
+      "location": "San Francisco Bay Area, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=f7540ec64b2ca364",
+      "date_posted": "2026-06-04",
+      "ats": "Indeed",
+      "first_seen": "2026-06-04T20:36:58Z"
+    },
+    {
+      "company": "NVIDIA",
+      "title": "Software Engineer, CAD Automation",
+      "location": "Santa Clara, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=e62a876795605543",
+      "date_posted": "2026-06-04",
+      "ats": "Indeed",
+      "first_seen": "2026-06-04T20:36:58Z"
+    },
+    {
+      "company": "Flexport",
+      "title": "Staff Software Engineer, Autonomous Freight Systems",
+      "location": "San Jose, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=49a5c86780fb197c",
+      "date_posted": "2026-06-04",
+      "ats": "Indeed",
+      "first_seen": "2026-06-04T20:36:58Z"
+    },
+    {
+      "company": "Endiatx",
+      "title": "Software Engineer",
+      "location": "Hayward, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=526fa23b708c8d1f",
+      "date_posted": "2026-06-04",
+      "ats": "Indeed",
+      "first_seen": "2026-06-04T20:36:58Z"
+    },
+    {
+      "company": "Williams-Sonoma, Inc.",
+      "title": "Lead Software Engineer",
+      "location": "San Jose, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=85e2dc0643648463",
+      "date_posted": "2026-06-04",
+      "ats": "Indeed",
+      "first_seen": "2026-06-04T20:36:58Z"
+    },
+    {
+      "company": "Waymo",
+      "title": "Senior Software Engineer, Simulator Orchestration",
+      "location": "Mountain View, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=1d5f783bd79fc0ac",
+      "date_posted": "2026-06-03",
+      "ats": "Indeed",
+      "first_seen": "2026-06-04T20:36:58Z"
+    },
+    {
+      "company": "Waymo",
+      "title": "Senior Software Engineer, Fleet Response Training",
+      "location": "Mountain View, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=7386e7b654c78a59",
+      "date_posted": "2026-06-03",
+      "ats": "Indeed",
+      "first_seen": "2026-06-04T20:36:58Z"
+    },
     {
       "company": "Andiamo",
       "title": "AI/ML Engineer - AI Design Software Leader",
