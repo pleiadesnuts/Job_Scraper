@@ -1,135 +1,31 @@
 {
-  "scraped_at": "2026-06-06 21:17 UTC",
-  "total": 14,
-  "new_count": 2,
+  "scraped_at": "2026-06-06 22:17 UTC",
+  "total": 2,
+  "new_count": 1,
   "jobs": [
+    {
+      "company": "Amazon Science",
+      "title": "Applied Scientist, Prime Video - Generative AI",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4421560798/",
+      "date_posted": "2026-06-06",
+      "ats": "LinkedIn"
+    },
     {
       "company": "Lutris Wireless",
       "title": "Senior Software Engineer",
       "location": "Berkeley, CA",
       "url": "https://www.linkedin.com/jobs/view/4422056384/",
-      "date_posted": "2026-06-06",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Tykhe Inc",
-      "title": "Machine Learning Engineer (Staff Level)",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4404212879/",
-      "date_posted": "2026-06-06",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Veeam Software",
-      "title": "Product & Application Security Engineer",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4424681503/",
-      "date_posted": "2026-06-06",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Jack & Jill",
-      "title": "Senior/Staff Software Engineer ($120k-$200k) at Venture-backed AI Mental Health Startup",
-      "location": "Foster City, CA",
-      "url": "https://www.linkedin.com/jobs/view/4424675469/",
-      "date_posted": "2026-06-06",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Jack & Jill",
-      "title": "Senior Software Engineer at YC-backed AI startup for global commodities",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4424694303/",
-      "date_posted": "2026-06-06",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Jack & Jill",
-      "title": "AI Engineer ($170k\u2013$220k + Equity) at $60M+ Series B AI-native insurance platform",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4424684456/",
-      "date_posted": "2026-06-06",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Jack & Jill",
-      "title": "Founding Full Stack Engineer (+ Equity) at HealthTech startup building the system of record for nursing excellence",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4424671897/",
-      "date_posted": "2026-06-06",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Jack & Jill",
-      "title": "Forward Deployed Engineer at $95M Series B AI data platform",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4424685469/",
-      "date_posted": "2026-06-06",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Jack & Jill",
-      "title": "Platform Engineer ($170k-$220k + Equity) at Stealth-mode Cloud Financial Data Platform",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4424679475/",
-      "date_posted": "2026-06-06",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Shrive Technologies",
-      "title": "Data Engineering -Lead",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4425142501/",
-      "date_posted": "2026-06-06",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Jack & Jill",
-      "title": "Growth Analytics Engineer at Accel-backed AI startup reaching $15M ARR in 10 weeks",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4424677525/",
-      "date_posted": "2026-06-06",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Jack & Jill",
-      "title": "Product Infrastructure Engineer ($200k-$220k + Equity) at Thomson Reuters-backed $17M Series A AI accounting startup",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4424673582/",
-      "date_posted": "2026-06-06",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Jack & Jill",
-      "title": "Software Engineer at $50M Series A AI insurance startup backed by Founders Fund",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4424683437/",
-      "date_posted": "2026-06-06",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Jack & Jill",
-      "title": "Software Engineer ($150k-$250k + Equity) at Greylock-backed AI startup for physical sciences",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4424684457/",
       "date_posted": "2026-06-06",
       "ats": "LinkedIn"
     }
   ],
   "new_jobs": [
     {
-      "company": "Lutris Wireless",
-      "title": "Senior Software Engineer",
-      "location": "Berkeley, CA",
-      "url": "https://www.linkedin.com/jobs/view/4422056384/",
-      "date_posted": "2026-06-06",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Tykhe Inc",
-      "title": "Machine Learning Engineer (Staff Level)",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4404212879/",
+      "company": "Amazon Science",
+      "title": "Applied Scientist, Prime Video - Generative AI",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4421560798/",
       "date_posted": "2026-06-06",
       "ats": "LinkedIn"
     }
