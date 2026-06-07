@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-06-07 01:40 UTC",
-  "total": 49,
-  "new_count": 1,
+  "scraped_at": "2026-06-07 06:51 UTC",
+  "total": 25,
+  "new_count": 0,
   "jobs": [
     {
       "company": "Astera Labs",
@@ -17,70 +17,6 @@
       "location": "Mountain View, CA, US",
       "url": "https://www.indeed.com/viewjob?jk=9fb6c8f748b63080",
       "date_posted": "2026-06-06",
-      "ats": "Indeed"
-    },
-    {
-      "company": "Capital One",
-      "title": "Lead Data Engineer",
-      "location": "San Francisco, CA, US",
-      "url": "https://www.indeed.com/viewjob?jk=ff0cf12b47ee9b24",
-      "date_posted": "2026-06-05",
-      "ats": "Indeed"
-    },
-    {
-      "company": "Genentech",
-      "title": "Principal Data Scientist, Predictive AI",
-      "location": "San Francisco, CA, US",
-      "url": "https://www.indeed.com/viewjob?jk=9d0bfb8582be6b22",
-      "date_posted": "2026-06-05",
-      "ats": "Indeed"
-    },
-    {
-      "company": "Skyline Eco Adventures",
-      "title": "Forward Deployed AI Engineer, Aviation Regulatory",
-      "location": "South San Francisco, CA, US",
-      "url": "https://www.indeed.com/viewjob?jk=cee1f425c2a1d46d",
-      "date_posted": "2026-06-05",
-      "ats": "Indeed"
-    },
-    {
-      "company": "Skyline Eco Adventures",
-      "title": "Forward Deployed AI Engineer, Legal Real Estate",
-      "location": "South San Francisco, CA, US",
-      "url": "https://www.indeed.com/viewjob?jk=db5a0920e6acaf13",
-      "date_posted": "2026-06-05",
-      "ats": "Indeed"
-    },
-    {
-      "company": "Skyline Eco Adventures",
-      "title": "Forward Deployed AI Engineer, Operations",
-      "location": "South San Francisco, CA, US",
-      "url": "https://www.indeed.com/viewjob?jk=e88f897e850472b4",
-      "date_posted": "2026-06-05",
-      "ats": "Indeed"
-    },
-    {
-      "company": "Genentech",
-      "title": "Principal Data Scientist, Predictive AI",
-      "location": "San Francisco, CA, US",
-      "url": "https://www.indeed.com/viewjob?jk=6e5af3f8879add74",
-      "date_posted": "2026-06-05",
-      "ats": "Indeed"
-    },
-    {
-      "company": "General Motors (GM)",
-      "title": "Staff Machine Learning Engineer - ML Training Infrastructure",
-      "location": "Sunnyvale, CA, US",
-      "url": "https://www.indeed.com/viewjob?jk=d62683f001a9abce",
-      "date_posted": "2026-06-05",
-      "ats": "Indeed"
-    },
-    {
-      "company": "NVIDIA",
-      "title": "Senior ML Platform Engineer",
-      "location": "Santa Clara, CA, US",
-      "url": "https://www.indeed.com/viewjob?jk=062cd6698cf7e079",
-      "date_posted": "2026-06-05",
       "ats": "Indeed"
     },
     {
@@ -164,14 +100,6 @@
       "ats": "Indeed"
     },
     {
-      "company": "Meta",
-      "title": "Data Scientist, Product Analytics - Entity & Actor Integrity",
-      "location": "Menlo Park, CA, US",
-      "url": "https://www.indeed.com/viewjob?jk=6e94fe1663d6200d",
-      "date_posted": "2026-06-03",
-      "ats": "Indeed"
-    },
-    {
       "company": "Astera Labs",
       "title": "Senior Embedded Software Engineer - Ethernet Retimers New",
       "location": "San Jose, CA, US",
@@ -220,30 +148,6 @@
       "ats": "Indeed"
     },
     {
-      "company": "JPMorganChase",
-      "title": "Senior Lead Site Reliability Engineer",
-      "location": "Palo Alto, CA, US",
-      "url": "https://www.indeed.com/viewjob?jk=321517d7c75de5c3",
-      "date_posted": "2026-06-05",
-      "ats": "Indeed"
-    },
-    {
-      "company": "CLERA",
-      "title": "Backend Engineer",
-      "location": "San Francisco, CA, US",
-      "url": "https://www.indeed.com/viewjob?jk=2606bad10adcfc66",
-      "date_posted": "2026-06-05",
-      "ats": "Indeed"
-    },
-    {
-      "company": "CLERA",
-      "title": "Founding Software Engineer",
-      "location": "San Francisco, CA, US",
-      "url": "https://www.indeed.com/viewjob?jk=8d7f33e0d95c0597",
-      "date_posted": "2026-06-05",
-      "ats": "Indeed"
-    },
-    {
       "company": "Apple",
       "title": "Software Engineer (Customer Success), Developer Engagement",
       "location": "Cupertino, CA, US",
@@ -276,78 +180,6 @@
       "ats": "Indeed"
     },
     {
-      "company": "Skyline Eco Adventures",
-      "title": "Embedded Software Engineer Intern (Fall 2026)",
-      "location": "South San Francisco, CA, US",
-      "url": "https://www.indeed.com/viewjob?jk=4741c7c1f98c9697",
-      "date_posted": "2026-06-05",
-      "ats": "Indeed"
-    },
-    {
-      "company": "CLERA",
-      "title": "Senior Software Engineer, Distributed Data Systems",
-      "location": "San Francisco, CA, US",
-      "url": "https://www.indeed.com/viewjob?jk=5c6ec320fc4fd573",
-      "date_posted": "2026-06-05",
-      "ats": "Indeed"
-    },
-    {
-      "company": "CLERA",
-      "title": "Senior Software Engineer",
-      "location": "San Francisco, CA, US",
-      "url": "https://www.indeed.com/viewjob?jk=c9fe2eca928ec4f2",
-      "date_posted": "2026-06-05",
-      "ats": "Indeed"
-    },
-    {
-      "company": "Samsung Electronics",
-      "title": "Sr Software Engineer, Ad experience platform",
-      "location": "Mountain View, CA, US",
-      "url": "https://www.indeed.com/viewjob?jk=c039449a924ac31a",
-      "date_posted": "2026-06-05",
-      "ats": "Indeed"
-    },
-    {
-      "company": "SoFi",
-      "title": "Senior Software Engineer, Coach",
-      "location": "San Francisco, CA, US",
-      "url": "https://www.indeed.com/viewjob?jk=3a830dfe953c6741",
-      "date_posted": "2026-06-05",
-      "ats": "Indeed"
-    },
-    {
-      "company": "Google",
-      "title": "Software Engineer, Full Stack, NotebookLM Mobile",
-      "location": "Mountain View, CA, US",
-      "url": "https://www.indeed.com/viewjob?jk=def6871768e1e6bf",
-      "date_posted": "2026-06-05",
-      "ats": "Indeed"
-    },
-    {
-      "company": "Intuitive (Intuitive Surgical)",
-      "title": "Senior Linux Platform Engineer",
-      "location": "Sunnyvale, CA, US",
-      "url": "https://www.indeed.com/viewjob?jk=359f7ead5e1256c9",
-      "date_posted": "2026-06-05",
-      "ats": "Indeed"
-    },
-    {
-      "company": "Intuitive (Intuitive Surgical)",
-      "title": "Senior Embedded Software Engineer",
-      "location": "Sunnyvale, CA, US",
-      "url": "https://www.indeed.com/viewjob?jk=74f81930b0cfa6e0",
-      "date_posted": "2026-06-05",
-      "ats": "Indeed"
-    },
-    {
-      "company": "Intuitive (Intuitive Surgical)",
-      "title": "Senior Embedded Software Engineer",
-      "location": "Sunnyvale, CA, US",
-      "url": "https://www.indeed.com/viewjob?jk=5fe43f84b26dd09d",
-      "date_posted": "2026-06-05",
-      "ats": "Indeed"
-    },
-    {
       "company": "Apple",
       "title": "Senior iOS Engineer, Apple Games",
       "location": "Cupertino, CA, US",
@@ -370,40 +202,7 @@
       "url": "https://www.indeed.com/viewjob?jk=665fd20b614a8573",
       "date_posted": "2026-01-07",
       "ats": "Indeed"
-    },
-    {
-      "company": "TikTok",
-      "title": "Senior Engineering Manager, Data Platform \u2013 USDS",
-      "location": "San Jose, CA, US",
-      "url": "https://www.indeed.com/viewjob?jk=2a33eb9a39df8955",
-      "date_posted": "2026-06-05",
-      "ats": "Indeed"
-    },
-    {
-      "company": "Levi Strauss",
-      "title": "Principal Security Engineer",
-      "location": "San Francisco, CA, US",
-      "url": "https://www.indeed.com/viewjob?jk=53565f62ecdfdb70",
-      "date_posted": "2026-06-05",
-      "ats": "Indeed"
-    },
-    {
-      "company": "Google",
-      "title": "Senior Information Security Engineer, Product Security Engineering",
-      "location": "Sunnyvale, CA, US",
-      "url": "https://www.indeed.com/viewjob?jk=5b393d0b30288369",
-      "date_posted": "2026-06-05",
-      "ats": "Indeed"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Unknown",
-      "title": "Sr. Robotics Software Engineer",
-      "location": "San Francisco, CA, US",
-      "url": "https://www.indeed.com/viewjob?jk=3aedfed04cf60864",
-      "date_posted": "2026-06-06",
-      "ats": "Indeed"
-    }
-  ]
+  "new_jobs": []
 }
