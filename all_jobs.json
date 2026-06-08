@@ -1,6 +1,177 @@
 {
-  "updated_at": "2026-06-08 17:17 UTC",
+  "updated_at": "2026-06-08 18:12 UTC",
   "jobs": [
+    {
+      "company": "Tesla",
+      "title": "Software Engineer, Generalist, AI Inference",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4425664036/",
+      "date_posted": "2026-06-08",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-08T18:12:13Z"
+    },
+    {
+      "company": "Zensar Technologies",
+      "title": "AI Data Engineer with Databricks",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4414008683/",
+      "date_posted": "2026-06-08",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-08T18:12:13Z"
+    },
+    {
+      "company": "Oho Group",
+      "title": "Software Engineer (Machine Learning)",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4425293277/",
+      "date_posted": "2026-06-08",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-08T18:12:13Z"
+    },
+    {
+      "company": "Nutanix",
+      "title": "Senior Software Engineer (Linux, Virtualization, Hypervisor)",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4425644681/",
+      "date_posted": "2026-06-08",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-08T18:12:13Z"
+    },
+    {
+      "company": "Coinbase",
+      "title": "Staff Software Engineer, Frontend (Consumer - Advanced Trading)",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4425660162/",
+      "date_posted": "2026-06-08",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-08T18:12:13Z"
+    },
+    {
+      "company": "SpanIdea Systems",
+      "title": "Senior Network Software Engineer \u2013 Ethernet Drivers & Linux",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4425273937/",
+      "date_posted": "2026-06-08",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-08T18:12:13Z"
+    },
+    {
+      "company": "Tesla",
+      "title": "Internship, Software Engineer Opticaster, Energy Engineering (Fall 2026)",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4425661068/",
+      "date_posted": "2026-06-08",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-08T18:12:13Z"
+    },
+    {
+      "company": "PracHub",
+      "title": "Software Engineer",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4425276628/",
+      "date_posted": "2026-06-08",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-08T18:12:13Z"
+    },
+    {
+      "company": "NVIDIA AI",
+      "title": "Senior Software Engineer, Agentic Engineering",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4421992022/",
+      "date_posted": "2026-06-08",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-08T18:12:13Z"
+    },
+    {
+      "company": "T3",
+      "title": "Senior AI Engineer",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4425257952/",
+      "date_posted": "2026-06-08",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-08T18:12:13Z"
+    },
+    {
+      "company": "Rise Technical",
+      "title": "Senior Backend Engineer",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4421981325/",
+      "date_posted": "2026-06-08",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-08T18:12:13Z"
+    },
+    {
+      "company": "Etched",
+      "title": "Infrastructure Software Engineer",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4385391706/",
+      "date_posted": "2026-06-08",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-08T18:12:13Z"
+    },
+    {
+      "company": "Jack",
+      "title": "Full Stack Engineer",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4425285365/",
+      "date_posted": "2026-06-08",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-08T18:12:13Z"
+    },
+    {
+      "company": "Hire Feed",
+      "title": "Full Stack Engineer",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4425668208/",
+      "date_posted": "2026-06-08",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-08T18:12:13Z"
+    },
+    {
+      "company": "Coinbase",
+      "title": "Staff Software Engineer, Backend (Consumer - Advanced Trading)",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4425661107/",
+      "date_posted": "2026-06-08",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-08T18:12:13Z"
+    },
+    {
+      "company": "Inside Higher Ed",
+      "title": "Instrument Systems Engineer (5223C), Space Sciences Laboratory - 86105",
+      "location": "Berkeley, CA",
+      "url": "https://www.linkedin.com/jobs/view/4425650329/",
+      "date_posted": "2026-06-08",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-08T18:12:13Z"
+    },
+    {
+      "company": "Aeolus",
+      "title": "DevOps Engineer",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4425295330/",
+      "date_posted": "2026-06-08",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-08T18:12:13Z"
+    },
+    {
+      "company": "Joby Aviation",
+      "title": "Software Systems Engineer, Motor Controls",
+      "location": "San Carlos, CA",
+      "url": "https://www.linkedin.com/jobs/view/4425665325/",
+      "date_posted": "2026-06-08",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-08T18:12:13Z"
+    },
+    {
+      "company": "Flexton Inc.",
+      "title": "Principal Data Engineer \u2013 Azure Databricks - W2 Only",
+      "location": "Milpitas, CA",
+      "url": "https://www.linkedin.com/jobs/view/4425649313/",
+      "date_posted": "2026-06-08",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-08T18:12:13Z"
+    },
     {
       "company": "Unity South APAC (SEA, ANZ, IND Subcont.)",
       "title": "Machine Learning Engineer, User Understanding (Entry-Level / New Grad)",
