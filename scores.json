@@ -18047,8 +18047,3617 @@
       "outreach_opener": "I'm an ML engineer with deep learning and MLOps experience (U-Net segmentation, XGBoost modeling, Kubernetes/FastAPI/Terraform). While I'm drawn to NVIDIA's work, I'm looking for roles focused on applied ML or ML platform engineering rather than general DL library infrastructure \u2014 would you have opportunities in those areas that match an early-to-mid IC profile?",
       "jd": "metadata-only",
       "scored_at": "2026-06-07 11:20 UTC"
+    },
+    "https://www.linkedin.com/jobs/view/4421914977/": {
+      "score": 72,
+      "verdict": "maybe",
+      "role_family": "ml-ai",
+      "seniority_fit": "Early-to-mid IC (MLE I/II)",
+      "why": "Strong ML-AI alignment and seniority match with proven deep learning and feature engineering chops; document intelligence fits NLP/ML product engineering, but lack of explicit JD details and no clear biotech angle prevent a strong verdict.",
+      "flags": [
+        "green: local (Pleasanton ~1hr from SF Bay)",
+        "green: ML-AI primary target",
+        "green: early-career MLE band",
+        "green: end-to-end MLOps + modeling experience",
+        "yellow: no JD provided \u2014 infer from title only",
+        "yellow: document intelligence is SaaS/product, not biotech/health (secondary target)"
+      ],
+      "outreach_opener": "I'm an ML engineer graduating June 2026 with 4 years of hands-on deep learning (U-Net medical imaging), feature engineering, and MLOps (Docker, Kubernetes, MLflow, FastAPI). I'd be interested in learning how the Document Intelligence role applies ML to Workday's product and whether it involves end-to-end model ownership.",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 12:55 UTC"
+    },
+    "https://www.linkedin.com/jobs/view/4425067904/": {
+      "score": 28,
+      "verdict": "skip",
+      "role_family": "ml-ai",
+      "seniority_fit": "too senior (Staff level vs early-to-mid IC)",
+      "why": "Staff Engineer roles typically require 8+ years and senior IC leadership; candidate is early-to-mid band with ~4 years combined experience and a master's in progress.",
+      "flags": [
+        "Staff-level seniority (hard skip for early-to-mid IC)",
+        "No JD provided \u2014 unable to assess role-family depth or agentic-AI domain fit",
+        "Geographic fit good (Redwood City, SF Bay Area)"
+      ],
+      "outreach_opener": "I'm an ML engineer with 4+ years of hands-on experience in deep learning (medical imaging) and MLOps (Docker, Kubernetes, Terraform, AWS/GCP). While this Staff role is above my current band, I'd be interested in early-career or mid-level positions in agentic AI or ML platform teams at Big Wave Digital if they open.",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 12:55 UTC"
+    },
+    "https://www.linkedin.com/jobs/view/4425078011/": {
+      "score": 15,
+      "verdict": "skip",
+      "role_family": "swe",
+      "seniority_fit": "intern-level (overqualified)",
+      "why": "Frontend engineering internship is off-target (candidate's SWE background is backend/MLOps-adjacent) and below seniority band; no ML/data science component.",
+      "flags": [
+        "off-target family: frontend SWE, not ML-adjacent",
+        "intern role vs. early-to-mid IC band",
+        "no ML, data science, or MLOps angle"
+      ],
+      "outreach_opener": "I'm an ML engineer with full-stack MLOps experience (FastAPI, Docker, Kubernetes, Terraform) and am open to backend or platform roles, but frontend development isn't aligned with my focus on machine learning and data engineering.",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 12:55 UTC"
+    },
+    "https://www.linkedin.com/jobs/view/4425073042/": {
+      "score": 35,
+      "verdict": "skip",
+      "role_family": "swe",
+      "seniority_fit": "unclear \u2014 likely mid-level SWE",
+      "why": "Generic SWE role with no job description; off-target family (swe is neutral for an ML-focused candidate) and no signal that it involves ML, MLOps, or biotech/health work.",
+      "flags": [
+        "no job description \u2014 impossible to assess fit",
+        "off-target family (swe, not ml-ai or biotech-informatics)",
+        "candidate is ML-specialized; generic SWE roles underutilize expertise"
+      ],
+      "outreach_opener": "I'm an ML engineer with 4+ years of Python/ML experience and a background in medical imaging and MLOps (Docker, Kubernetes, FastAPI, Terraform). Is this role ML-adjacent or do you have ML/data science openings I should explore instead?",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 12:55 UTC"
+    },
+    "https://www.linkedin.com/jobs/view/4421910666/": {
+      "score": 32,
+      "verdict": "skip",
+      "role_family": "robotics",
+      "seniority_fit": "too senior (Senior-level); candidate is early-to-mid IC",
+      "why": "Robotics perception is off-target for a biomedical/health ML specialist, and 'Senior' level exceeds the candidate's early-to-mid IC band.",
+      "flags": [
+        "Off-target family: robotics (not ml-ai, biotech, or data roles)",
+        "Seniority mismatch: Senior role vs. early-to-mid IC",
+        "No JD provided to assess perception stack fit"
+      ],
+      "outreach_opener": "I'm an ML engineer with deep learning experience in medical imaging and strong MLOps fundamentals, but robotics perception isn't my focus area. If Teleo has earlier-career ML or biomedical roles open, I'd be interested in learning more.",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 12:55 UTC"
+    },
+    "https://www.linkedin.com/jobs/view/4425049537/": {
+      "score": 15,
+      "verdict": "skip",
+      "role_family": "other",
+      "seniority_fit": "unclear \u2014 likely hardware/physics engineering",
+      "why": "Microwave plasma systems engineering is a hardware/physics domain with no overlap to Ernesto's ML/data-science background, skillset, or target families.",
+      "flags": [
+        "Off-target role family (hardware/physics, not ML/data/infra)",
+        "No ML, data, or software engineering content visible",
+        "Career mismatch \u2014 deep learning, tabular ML, and MLOps experience not applicable"
+      ],
+      "outreach_opener": "Not recommended for outreach \u2014 this role does not align with your machine learning and data science background.",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 12:55 UTC"
+    },
+    "https://www.linkedin.com/jobs/view/4425051269/": {
+      "score": 42,
+      "verdict": "skip",
+      "role_family": "ml-ai",
+      "seniority_fit": "Early-to-mid IC, but role unclear",
+      "why": "AI governance is off-target for a candidate whose strength is biomedical/health ML and MLOps; no JD provided to assess actual scope, seniority bar, or technical depth.",
+      "flags": [
+        "No job description \u2014 cannot assess fit beyond title",
+        "AI governance domain misaligned with biomedical/health ML focus",
+        "Stanford-born startup may skew toward research/foundational ML rather than applied engineering",
+        "Candidate's MLOps and biomedical depth unused in governance context"
+      ],
+      "outreach_opener": "Thanks for the MLE role at Jack & Jill. I'm curious whether the position involves applied ML infrastructure or governance-focused research \u2014 my background is in medical-imaging deep learning and end-to-end MLOps, and I'd want to understand how that maps to your work before exploring further.",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 12:55 UTC"
+    },
+    "https://www.linkedin.com/jobs/view/4425062266/": {
+      "score": 72,
+      "verdict": "maybe",
+      "role_family": "ml-ai",
+      "seniority_fit": "Early-to-mid IC \u2014 good fit for founding engineer role",
+      "why": "Founding AI Engineer at a well-backed seed-stage startup in SF is a natural fit for Ernesto's ML background and hands-on MLOps skills, though the lack of a job description makes it hard to assess whether the role leans biotech (strongest match) or general AI.",
+      "flags": [
+        "No JD provided \u2014 cannot assess specific role scope or whether it aligns with biotech/health focus",
+        "Founding role may demand broader IC stack (not just modeling) \u2014 Ernesto has MLOps depth, so likely OK",
+        "Seed stage and equity-heavy \u2014 suits early-career trajectory"
+      ],
+      "outreach_opener": "I'm excited about Founding AI Engineer roles that combine hands-on modeling with MLOps ownership. My experience building end-to-end ML pipelines (FastAPI, K8s, Terraform, MLflow) alongside deep learning and tabular modeling at UCSF and the CA environmental-health agency has prepared me to own both research and deployment from day one.",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 12:56 UTC"
+    },
+    "https://www.linkedin.com/jobs/view/4425052284/": {
+      "score": 28,
+      "verdict": "skip",
+      "role_family": "ml-ai",
+      "seniority_fit": "overleveled \u2014 Staff requires 8+ yrs; candidate is early-to-mid IC",
+      "why": "Staff-level role with embodied AI / robotics focus mismatches both seniority (candidate is early-to-mid IC, not Staff) and primary interests (robotics is an anti-target family; candidate's sweet spot is biotech/health ML).",
+      "flags": [
+        "Staff level \u2014 candidate is early-to-mid IC (M.S. in progress, ~4 yrs XP)",
+        "Robotics/embodied AI \u2014 anti-target family for this candidate",
+        "No JD text available \u2014 limited visibility into actual requirements"
+      ],
+      "outreach_opener": "I'm an ML engineer with deep expertise in medical imaging and MLOps, currently completing my M.S. in Data Science & AI. While I'm not a fit for the Staff-level embodied AI role, I'd be interested in learning about earlier-stage ML engineer or ML platform opportunities at your organization that align with healthcare or foundational ML infrastructure.",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 12:56 UTC"
+    },
+    "https://www.linkedin.com/jobs/view/4425053023/": {
+      "score": 62,
+      "verdict": "maybe",
+      "role_family": "ml-ai",
+      "seniority_fit": "Early-to-mid IC; role likely targets mid-level or above",
+      "why": "Strong company backing and AI-engineer fit with your ML/MLOps depth, but no JD means uncertainty on seniority band, biotech relevance, and specific skill match\u2014typical for agentic AI startups skewing toward mid-to-senior IC.",
+      "flags": [
+        "No job description\u2014can't assess seniority bar or skill priorities",
+        "Agentic AI may be systems/infra-heavy rather than ML-modeling-focused",
+        "Off your biotech/health sweet spot",
+        "Salary range suggests mid-level+; early-mid IC fit is unclear"
+      ],
+      "outreach_opener": "I'm an ML engineer with 4 years of hands-on modeling, MLOps, and cloud infrastructure experience (PyTorch, FastAPI, K8s, Terraform). Curious about the AI Engineer role at Jack & Jill\u2014could you share the full JD and team priorities so I can assess alignment with agentic systems?",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 12:56 UTC"
+    },
+    "https://www.linkedin.com/jobs/view/4425070253/": {
+      "score": 45,
+      "verdict": "skip",
+      "role_family": "ml-ai",
+      "seniority_fit": "too senior \u2014 Staff/Principal-level bar vs. early-to-mid IC",
+      "why": "Strong company and on-target ML family, but the 'Senior' title and $250k+ compensation band signal a Staff or Principal role requiring 6\u20138+ years at that level; Ernesto is early-to-mid IC (4 years combined DS/MLE experience, just finishing M.S.) and would be overmatched and likely underpaid.",
+      "flags": [
+        "Seniority mismatch: 'Senior' typically 6\u20138+ yrs in role; candidate is 4 yrs total with M.S. in progress",
+        "Compensation band ($250k+$100k equity) suggests Staff/Principal \u2014 candidate's market is ML Eng I/II",
+        "Industrial AI, not biotech/health/enviro \u2014 off-target domain"
+      ],
+      "outreach_opener": "I'm an ML engineer with 4 years in medical imaging and tabular ML, and strong MLOps experience (Docker, Kubernetes, Terraform, FastAPI). While Jack & Jill's industrial AI focus is exciting, the Senior title seems positioned for someone further along; I'd be a great fit for an ML Engineer I/II or similar early-career role if you have openings there.",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 12:56 UTC"
+    },
+    "https://www.linkedin.com/jobs/view/4425063269/": {
+      "score": 42,
+      "verdict": "skip",
+      "role_family": "swe",
+      "seniority_fit": "early-to-mid IC (candidate) vs. founding engineer (company-building role)",
+      "why": "Founding software engineer roles typically require hands-on full-stack ownership and company-building experience; Ernesto is an ML engineer with biomedical depth and early-career MLOps background, not a generalist SWE founder-track candidate, and the off-target role family (SWE vs. his primary ML-AI/biotech-informatics) and missing JD context hurt fit.",
+      "flags": [
+        "Role family mismatch: SWE vs. candidate's primary ML-AI/biotech targets",
+        "Founding engineer role implies company-building/infrastructure leadership \u2014 candidate is early-career IC",
+        "No JD available \u2014 impossible to assess if ML/MLOps focus or pure infrastructure",
+        "Industrial AI (generic) \u2014 no domain signal for biomedical/health ML strength"
+      ],
+      "outreach_opener": "Hi Jack & Jill team \u2014 I'm curious whether this founding engineer role leans toward ML infrastructure and MLOps (my sweet spot: end-to-end ML pipelines with Docker, Kubernetes, FastAPI, Terraform, and AWS) or full-stack generalist SWE. If there's an ML platform or MLOps thread, I'd love to chat about how my UCSF + OEHHA experience building production ML systems could help.",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 12:56 UTC"
+    },
+    "https://www.linkedin.com/jobs/view/4425070242/": {
+      "score": 32,
+      "verdict": "skip",
+      "role_family": "swe",
+      "seniority_fit": "early-to-mid IC, but role is founding/broad-scope",
+      "why": "Founding SWE at a hardware/wearables startup is primarily a software-engineering role outside Ernesto's target families (ml-ai, biotech-informatics); lack of JD details and no clear ML/AI depth in wearables positioning make this a poor fit.",
+      "flags": [
+        "Off-target role family (SWE, not ML-AI or biotech-informatics)",
+        "Founding role assumes broader backend/systems scope vs. his ML-focused skillset",
+        "Wearables/hardware stack not detailed; unclear if ML-platform or pure SWE",
+        "No JD available to assess ML/MLOps component"
+      ],
+      "outreach_opener": "I'm interested in the founding SWE role at Jack & Jill, but I'd like to understand the ML/AI strategy\u2014is this role centered on training or serving ML models for the wearables platform, or primarily core backend infrastructure? My background is ML engineering with end-to-end MLOps experience, so I want to make sure the scope aligns with where I can add most value.",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 12:56 UTC"
+    },
+    "https://www.linkedin.com/jobs/view/4425056268/": {
+      "score": 42,
+      "verdict": "skip",
+      "role_family": "swe",
+      "seniority_fit": "early-to-mid IC (candidate) vs. likely mid+ (role)",
+      "why": "AI Agents role is SWE-primary, not ML-AI; candidate's strength is hands-on ML modeling and MLOps, not general software engineering or agent systems architecture.",
+      "flags": [
+        "role_family mismatch: SWE vs. candidate's primary ml-ai/biotech-informatics targets",
+        "no JD details: cannot assess technical depth, agent framework, or seniority bar",
+        "strong company signal (a16z, Series B, $180K\u2013$300K) offset by off-target family"
+      ],
+      "outreach_opener": "I'm an ML engineer with deep experience in end-to-end MLOps (FastAPI, Docker, Kubernetes, Terraform) and production model serving. While 'AI Agents' suggests a systems engineering focus, if the role involves building ML pipelines or inference infrastructure for agent reasoning, I'd be interested in learning more.",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 12:56 UTC"
+    },
+    "https://www.linkedin.com/jobs/view/4425064287/": {
+      "score": 28,
+      "verdict": "skip",
+      "role_family": "swe",
+      "seniority_fit": "overleveled (Senior vs. early-to-mid IC)",
+      "why": "Senior Full-Stack Engineer role targets 8+ years and staff-level IC; Ernesto is an early-to-mid IC (4 yrs exp, M.S. student) with ML/MLOps depth, not general SWE seniority, and the role family (SWE) is neutral-to-low priority vs. his ml-ai and biotech-informatics targets.",
+      "flags": [
+        "Seniority mismatch: Senior role, candidate is early-to-mid IC",
+        "Role family mismatch: Full-Stack SWE, not ML-focused",
+        "No ML/biotech angle visible in title or description",
+        "No job description available to assess MLOps or AI/ML components"
+      ],
+      "outreach_opener": "I'm an early-career ML engineer with 4 years in health/biomedical ML and end-to-end MLOps experience (PyTorch, FastAPI, Kubernetes, Terraform). While this Senior Full-Stack role appears outside my current level, I'd be open to learning more if there's a junior or mid-level ML-focused opening on your team.",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 12:56 UTC"
+    },
+    "https://www.linkedin.com/jobs/view/4425065285/": {
+      "score": 42,
+      "verdict": "skip",
+      "role_family": "swe",
+      "seniority_fit": "overleveled (Senior vs. early-to-mid IC)",
+      "why": "Role is titled Senior Software Engineer in a non-ML commodity domain; candidate is an early-to-mid ML engineer with biotech/health depth\u2014off-target family and seniority.",
+      "flags": [
+        "Senior title\u2014candidate is early-to-mid IC",
+        "SWE family, not ML-AI or biotech\u2014off-target domain",
+        "No job description available to assess ML/MLOps angle",
+        "Commodities (not health/biotech) misaligns with candidate's sweet spot"
+      ],
+      "outreach_opener": "I'm an ML engineer with deep experience in medical imaging and tabular ML, currently finishing an M.S. in Data Science & AI. While I see Jack & Jill is building AI for commodities, I'm most energized by biotech and health-focused ML roles\u2014is there an ML or MLOps track on your team I should know about?",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 12:56 UTC"
+    },
+    "https://www.linkedin.com/jobs/view/4425047501/": {
+      "score": 32,
+      "verdict": "skip",
+      "role_family": "swe",
+      "seniority_fit": "over-leveled (Senior/Staff vs. early-to-mid IC)",
+      "why": "Role targets Senior/Staff engineers (8+ yrs implied), but candidate is early-to-mid IC with ~4 yrs experience; also off-target family (pure SWE, not ML-adjacent) despite strong technical depth.",
+      "flags": [
+        "Seniority mismatch: Senior/Staff level, candidate is IC1\u2013IC2",
+        "Role family: SWE, not ml-ai or biotech-informatics (candidate's primaries)",
+        "No ML/AI or health-tech detail in JD to confirm ML-platform fit"
+      ],
+      "outreach_opener": "I'm an ML engineer with 4 years of experience in health-tech and deep learning at UCSF and a CA state agency, plus end-to-end MLOps (FastAPI, Docker, Kubernetes, Terraform). While this Senior/Staff SWE role appears to target more experienced engineers, I'd be interested in discussing whether there's an early-career ML engineer or ML platform role that might align better with my background.",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 12:56 UTC"
+    },
+    "https://www.linkedin.com/jobs/view/4425070251/": {
+      "score": 28,
+      "verdict": "skip",
+      "role_family": "swe",
+      "seniority_fit": "overleveled (Staff IC vs. early-to-mid)",
+      "why": "Staff SWE role requires 8+ years seniority; candidate is early-to-mid IC with ~4 years experience and a Master's in progress\u2014significant gap despite strong ML/MLOps foundation.",
+      "flags": [
+        "Staff-level requirement (candidate is early-to-mid IC)",
+        "Off-target family (SWE vs. ml-ai primary)",
+        "No JD provided\u2014role family inferred from title only"
+      ],
+      "outreach_opener": "Thanks for sharing this Staff SWE role at Jack & Jill. While I'm early-to-mid IC with strong ML and MLOps experience (U-Net deep learning, XGBoost, Kubernetes, Terraform), the Staff seniority bar appears to exceed my current level\u2014I'd be a better fit for an ML Engineer or early ML Platform role if your team has openings there.",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 12:56 UTC"
+    },
+    "https://www.linkedin.com/jobs/view/4425063270/": {
+      "score": 28,
+      "verdict": "skip",
+      "role_family": "swe",
+      "seniority_fit": "overleveled for candidate",
+      "why": "Lead Backend role targets senior/staff engineers; candidate is early-to-mid IC. Aviation AI is off-target (not biotech/health/environmental ML), and no ML modeling work mentioned.",
+      "flags": [
+        "seniority mismatch: 'Lead' role likely 6\u20138+ yrs, candidate is ~4 yrs",
+        "role family off-target: SWE backend, not ML-AI or biotech-informatics",
+        "no job description: cannot assess ML depth or modeling opportunity",
+        "aviation/mobility domain: not candidate's health/biomedical focus"
+      ],
+      "outreach_opener": "I'm interested in early-to-mid-level ML or backend roles where I can apply my deep learning and MLOps experience (U-Net medical imaging, XGBoost/CatBoost modeling, Kubernetes, FastAPI). Does Jack & Jill have opportunities in applied AI or ML infrastructure that align with this background?",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 12:57 UTC"
+    },
+    "https://www.linkedin.com/jobs/view/4425049315/": {
+      "score": 28,
+      "verdict": "skip",
+      "role_family": "swe",
+      "seniority_fit": "overleveled (Senior SWE vs. early-to-mid IC)",
+      "why": "Role is titled Senior Software Engineer at a generic B2B platform with no ML/data focus\u2014off-target family and seniority band misalignment; Ernesto's strength is applied ML and biomedical/health domain work, not platform backend engineering.",
+      "flags": [
+        "off-target family (swe, not ml-ai or biotech-informatics)",
+        "seniority mismatch (Senior SWE; candidate is early-to-mid IC)",
+        "no ML/data signal in posting",
+        "generic B2B platform (no health/enviro domain leverage)"
+      ],
+      "outreach_opener": "I'm interested in roles combining software engineering with machine learning\u2014especially in health, environmental, or biomedical domains. While this Senior SWE role looks like a strong company, it seems more backend-platform focused; do you have any ML Engineer or MLOps positions on your team?",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 12:57 UTC"
+    },
+    "https://www.linkedin.com/jobs/view/4425065277/": {
+      "score": 42,
+      "verdict": "skip",
+      "role_family": "swe",
+      "seniority_fit": "overleveled \u2014 Senior IC vs. early-to-mid IC",
+      "why": "Strong company and compensation, but the role is titled Senior Software Engineer (typical 6\u20138+ YOE bar) and Ernesto is early-to-mid IC with ~4 years combined experience; additionally, the role family is SWE, not his primary targets (ml-ai, biotech-informatics).",
+      "flags": [
+        "Seniority mismatch \u2014 Senior vs. early-to-mid",
+        "Off-target role family \u2014 SWE, not ML-focused",
+        "No JD provided \u2014 hard to assess ML/AI depth within the role"
+      ],
+      "outreach_opener": "I'm drawn to Jack & Jill's AI governance mission and your SF location. My background spans medical-imaging deep learning and production MLOps (Kubernetes, Terraform, FastAPI), but I'd be a better fit for an ML Engineer or Data Scientist role on your team than a Senior SWE\u2014would you have other openings at the early-to-mid IC level?",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 12:57 UTC"
+    },
+    "https://www.linkedin.com/jobs/view/4425052286/": {
+      "score": 28,
+      "verdict": "skip",
+      "role_family": "swe",
+      "seniority_fit": "early-to-mid IC, but SWE-focused not ML-adjacent",
+      "why": "Full-stack fintech engineering is off-target: Ernesto's strength is ML/MLOps, not generic SWE infrastructure; no mention of ML/data science scope in the role.",
+      "flags": [
+        "Off-target family (SWE, not ml-ai or biotech-informatics)",
+        "Fintech infrastructure\u2014not ML-driven or health-domain",
+        "No ML/data signal in role description",
+        "Overqualified in depth (deep learning, MLOps) but under-qualified in breadth (full-stack SWE systems)"
+      ],
+      "outreach_opener": "I appreciate the full-stack fintech role at Jack & Jill, but my core strength is in machine learning engineering and MLOps\u2014particularly in health/biomedical domains\u2014rather than real-time infrastructure systems. I'd be a stronger fit for roles where ML modeling or data pipelines are central to the value proposition.",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 12:57 UTC"
+    },
+    "https://www.linkedin.com/jobs/view/4425066017/": {
+      "score": 15,
+      "verdict": "skip",
+      "role_family": "swe",
+      "seniority_fit": "early-to-mid IC (match), but wrong domain",
+      "why": "Fullstack blockchain/DeFi engineering is off-target; Ernesto's strength is ML/AI and biotech-informatics, not web3 protocol development.",
+      "flags": [
+        "Off-target role family (swe/blockchain vs. ml-ai/biotech-informatics primary)",
+        "No ML/data science component visible",
+        "DeFi protocol work requires specialized blockchain knowledge Ernesto hasn't demonstrated"
+      ],
+      "outreach_opener": "Not recommended for outreach \u2014 this role is a poor fit given your ML and biomedical-imaging background. Consider roles explicitly seeking ML engineers for health tech, medical AI, or MLOps platforms instead.",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 12:57 UTC"
+    },
+    "https://www.linkedin.com/jobs/view/4425067332/": {
+      "score": 15,
+      "verdict": "skip",
+      "role_family": "other",
+      "seniority_fit": "unknown",
+      "why": "Microwave plasma systems engineering is a hardware/physics domain with no clear overlap to Ernesto's ML/data science expertise.",
+      "flags": [
+        "Off-target domain \u2014 no ML, data, or software engineering focus visible",
+        "No job description available to assess seniority or skill fit",
+        "Hardware/physics background likely required"
+      ],
+      "outreach_opener": "Not recommended for outreach \u2014 this role appears to target hardware or physics engineers, not machine learning or data science professionals.",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 12:57 UTC"
+    },
+    "https://www.linkedin.com/jobs/view/4425070220/": {
+      "score": 28,
+      "verdict": "skip",
+      "role_family": "swe",
+      "seniority_fit": "overleveled \u2014 Senior role, candidate is early-to-mid IC",
+      "why": "Strong backend engineering chops and platform experience, but the 'Senior' bar and 'Agent Platform' focus (SWE-heavy, not ML-centric) misalign with Ernesto's ML-engineer identity and early-to-mid seniority band.",
+      "flags": [
+        "\u274c Seniority mismatch \u2014 'Senior' typically 6\u20138+ yrs; Ernesto is ~4 yrs combined",
+        "\u274c Role family off-target \u2014 SWE/platform-infra, not ml-ai or biotech-informatics",
+        "\u26a0 Agent platform suggests systems engineering depth; Ernesto's strength is ML/modeling"
+      ],
+      "outreach_opener": "I'm interested in backend and platform work, but the 'Senior' title suggests a seniority bar above my early-to-mid IC level. If Truewind has ML-platform or MLOps-focused roles that leverage my Docker/K8s/FastAPI experience in service of model deployment and monitoring, I'd love to chat.",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 12:57 UTC"
+    },
+    "https://www.indeed.com/viewjob?jk=6ba121f12561f2dc": {
+      "score": 72,
+      "verdict": "maybe",
+      "role_family": "ml-ai",
+      "seniority_fit": "Early-to-mid IC (ML Engineer I/II level)",
+      "why": "Strong role-family match and seniority alignment; Ernesto's hands-on ML modeling, feature engineering, and MLOps experience fit a document-intelligence MLE role well, though the lack of JD details prevents confidence on specific tech stack or domain depth.",
+      "flags": [
+        "green: ML Engineer title matches target seniority band",
+        "green: Bay Area location (Pleasanton ~1hr from SF) aligns with candidate flexibility",
+        "green: Document Intelligence is NLP/CV-adjacent, complementary to Ernesto's deep-learning and tabular ML background",
+        "yellow: No JD available; cannot assess specific ML stack (BERT, transformers, LLMs) or domain requirements",
+        "yellow: Workday is large enterprise; unclear if role emphasizes research, production systems, or both"
+      ],
+      "outreach_opener": "I'm interested in the Machine Learning Engineer - Document Intelligence role at Workday in Pleasanton. My experience building end-to-end ML pipelines (XGBoost, deep learning, MLflow, FastAPI, Kubernetes) and handling high-dimensional feature engineering aligns well with production document-intelligence systems, and I'd love to learn more about the team's ML stack and priorities.",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 12:57 UTC"
+    },
+    "https://www.indeed.com/viewjob?jk=92f58a25f4290379": {
+      "score": 25,
+      "verdict": "skip",
+      "role_family": "swe",
+      "seniority_fit": "early-to-mid IC",
+      "why": "Generic SWE role with no job description; off-target family for an ML engineer with biotech/health depth seeking ml-ai or biotech-informatics positions.",
+      "flags": [
+        "No JD provided \u2014 impossible to assess fit",
+        "SWE family is neutral/anti-target for this candidate",
+        "Unknown company \u2014 no signal on ML/data maturity",
+        "Generic title suggests non-ML engineering"
+      ],
+      "outreach_opener": "I'm an ML engineer with 4 years of hands-on experience in medical imaging and tabular ML, plus full-stack MLOps (PyTorch, FastAPI, Kubernetes, Terraform). Could you share the full JD? If this role involves ML infrastructure or data systems, I'd be interested in learning more.",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 12:57 UTC"
+    },
+    "https://www.indeed.com/viewjob?jk=5c7f441e6a328024": {
+      "score": 28,
+      "verdict": "skip",
+      "role_family": "swe",
+      "seniority_fit": "overleveled \u2014 Staff role requires 8+ yrs, candidate is early-to-mid IC",
+      "why": "Staff-level IC role in a general SWE family (not ML-platform or MLOps-specific) is significantly above Ernesto's seniority band and outside his primary target families; no JD details confirm ML depth.",
+      "flags": [
+        "Staff-level role (8+ yrs implied) vs. early-to-mid IC",
+        "SWE family, not ml-ai or biotech-informatics",
+        "No visible ML/MLOps specialization in title or metadata"
+      ],
+      "outreach_opener": "I'm an ML engineer with hands-on deep learning and MLOps experience (PyTorch, Kubernetes, Terraform, AWS). While the Staff SWE role is above my current level, I'd be interested in earlier-career ML engineer or MLOps positions at Cribl if they're hiring \u2014 is there a better fit for someone transitioning from medical imaging and environmental-health ML?",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 12:57 UTC"
+    },
+    "https://www.linkedin.com/jobs/view/4421908460/": {
+      "score": 42,
+      "verdict": "skip",
+      "role_family": "data-science",
+      "seniority_fit": "early-to-mid IC \u2014 likely match on band",
+      "why": "Data Science Engineer role at a gaming company (Playsaurus) is off-target for Ernesto's biomedical/health ML focus; no JD provided to assess technical depth, but gaming analytics is a weak fit against his primary ml-ai and biotech-informatics targets.",
+      "flags": [
+        "Off-target domain \u2014 gaming, not biomedical/health/environmental ML",
+        "No JD available \u2014 cannot assess tech stack or ML sophistication",
+        "Bay Area local + early-to-mid IC band is a positive, but insufficient to overcome domain mismatch"
+      ],
+      "outreach_opener": "I'm interested in learning more about the Data Science Engineer role at Playsaurus, though I should note my background is heavily weighted toward medical imaging and environmental health ML at UCSF and CA OEHHA. If the role involves building robust ML systems with strong data infrastructure, I'd love to discuss how my end-to-end MLOps experience (Docker, Kubernetes, FastAPI, MLflow) might add value.",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 12:57 UTC"
+    },
+    "https://www.linkedin.com/jobs/view/4389782681/": {
+      "score": 28,
+      "verdict": "skip",
+      "role_family": "swe",
+      "seniority_fit": "overleveled \u2014 Senior role vs. early-to-mid IC",
+      "why": "Full-stack SWE is off-target (not ML-AI or biotech-informatics), seniority is too high (Senior vs. early-to-mid IC), and no ML context visible in the title.",
+      "flags": [
+        "off-target family (SWE, not ML-AI)",
+        "seniority mismatch (Senior >> early-to-mid IC)",
+        "no ML/biotech signal in posting"
+      ],
+      "outreach_opener": "Not recommended for outreach \u2014 this role does not align with your ML/biotech focus or early-to-mid IC trajectory. Consider roles titled ML Engineer, Data Scientist, or MLOps Engineer instead.",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 12:57 UTC"
+    },
+    "https://www.linkedin.com/jobs/view/4416421169/": {
+      "score": 18,
+      "verdict": "skip",
+      "role_family": "swe",
+      "seniority_fit": "Senior (overleveled for candidate's early-to-mid IC band)",
+      "why": "Frontend engineering is far outside Ernesto's ML/data science focus; seniority level (Senior) exceeds his early-to-mid IC band; no ML/AI/data science component visible.",
+      "flags": [
+        "Off-target family: frontend SWE vs. ML-AI primary",
+        "Seniority mismatch: Senior role vs. early-to-mid IC (M.S. student, ~4 yrs experience)",
+        "No ML/data science leverage for Ernesto's core strengths"
+      ],
+      "outreach_opener": "I appreciate Talently's work in San Francisco, but my background is in machine learning engineering and data science\u2014with deep experience in medical imaging and MLOps\u2014rather than frontend development. If you have ML platform or data-science roles open, I'd love to explore those instead.",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 12:57 UTC"
+    },
+    "https://www.linkedin.com/jobs/view/4421910401/": {
+      "score": 15,
+      "verdict": "skip",
+      "role_family": "swe",
+      "seniority_fit": "early-to-mid IC (candidate) vs. backend generalist (role)",
+      "why": "Backend developer role is off-target (SWE, not ML/AI/data); no ML/data science scope visible, and candidate's strength is applied ML engineering with domain depth, not general backend infrastructure.",
+      "flags": [
+        "Off-target role family (SWE backend vs. candidate's ml-ai/biotech focus)",
+        "No job description provided \u2014 cannot assess ML/data components",
+        "Role appears to be general backend, not ML-platform or MLOps-flavored"
+      ],
+      "outreach_opener": "I saw the LATAM Backend Developer opening at Playsaurus. While I'm primarily focused on ML engineering and data science roles, I'd be happy to learn more if there's a data or ML infrastructure component to the backend work.",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 12:57 UTC"
+    },
+    "https://www.linkedin.com/jobs/view/4425069123/": {
+      "score": 42,
+      "verdict": "skip",
+      "role_family": "data-eng",
+      "seniority_fit": "early-to-mid IC (likely match), but role family mismatch",
+      "why": "Growth Data Engineer is a data-eng role focused on product analytics and business metrics; Ernesto's strength is ML modeling and MLOps, not analytics pipelines or BI tooling.",
+      "flags": [
+        "Off-target family: data-eng (secondary interest) vs. primary ml-ai/biotech-informatics",
+        "No JD available \u2014 cannot assess modeling depth, team structure, or growth-analytics vs. ML-platform balance",
+        "Growth roles typically emphasize SQL, analytics, and dashboards; Ernesto's resume shows deep ML + MLOps, not analytics-first work"
+      ],
+      "outreach_opener": "I'm an ML engineer with 4 years of hands-on DS/MLE experience and strong MLOps skills (Docker, Kubernetes, FastAPI, MLflow). While Growth Data Engineer at Jobright.ai isn't my primary target, I'm curious whether this role involves building predictive models or ML infrastructure for growth\u2014if so, I'd love to learn more.",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 12:58 UTC"
+    },
+    "https://www.linkedin.com/jobs/view/4425062101/": {
+      "score": 32,
+      "verdict": "skip",
+      "role_family": "data-eng",
+      "seniority_fit": "overleveled \u2014 Senior role, candidate is early-to-mid IC",
+      "why": "Data Engineering is a secondary target, and the Senior bar (typically 6\u20138+ years) significantly exceeds Ernesto's early-to-mid IC level with ~4 years combined experience; no JD text limits deeper fit assessment.",
+      "flags": [
+        "Senior seniority mismatch \u2014 candidate is early-to-mid IC",
+        "Data-eng is secondary target \u2014 primary targets are ml-ai and biotech-informatics",
+        "No JD available \u2014 cannot assess whether role has ML/MLOps flavor that might elevate fit"
+      ],
+      "outreach_opener": "I'm an early-to-mid ML engineer with hands-on MLOps experience (Airflow, Docker, K8s, Terraform) and a strong foundation in data pipelines from biomedical and environmental-health projects. While this Senior DE role may be above my current level, I'd be interested in learning about mid-level or ML-platform opportunities at Aircapture if they emerge.",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 12:58 UTC"
+    },
+    "https://www.linkedin.com/jobs/view/4425055146/": {
+      "score": 42,
+      "verdict": "skip",
+      "role_family": "ml-ai",
+      "seniority_fit": "early-to-mid IC (candidate) vs. likely mid+ (agent product role)",
+      "why": "Agent/product AI roles typically require 5+ years and deeper system-design experience; candidate has 4 years of applied ML in health/biomedical domains with strong fundamentals but limited agent-systems or production LLM experience.",
+      "flags": [
+        "No JD available \u2014 limited visibility into actual requirements",
+        "Agent-product roles often skew senior; candidate is early-to-mid IC",
+        "Off-target domain: candidate's strength is biomedical/health ML, not general agent systems",
+        "Limited agent/LLM production experience in resume"
+      ],
+      "outreach_opener": "I'm an ML engineer with 4 years of end-to-end applied experience (deep learning at UCSF, tabular ML + OOD detection at CA OEHHA) and solid MLOps chops (Docker, K8s, FastAPI, Terraform). I'm curious whether this role would be a fit for an early-to-mid IC with biomedical depth but limited agent-systems background \u2014 could we chat about the seniority bar and what agent experience you're looking for?",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 12:58 UTC"
+    },
+    "https://www.linkedin.com/jobs/view/4421902428/": {
+      "score": 15,
+      "verdict": "skip",
+      "role_family": "other",
+      "seniority_fit": "unclear",
+      "why": "Marketing AI Engineer is off-target (not ml-ai, biotech, or data-focused); the 4-month contract window and lack of JD details make it impossible to assess ML depth or fit against Ernesto's core strengths in biomedical/environmental ML and MLOps.",
+      "flags": [
+        "Off-target role family (marketing, not ML-core)",
+        "Short 4-month contract (early-career IC usually benefits from longer tenure)",
+        "No JD available \u2014 cannot evaluate actual technical scope",
+        "Likely product/growth-marketing focus, not research or production ML"
+      ],
+      "outreach_opener": "I'm interested in AI roles, but without a detailed job description, I can't tell if this marketing AI position aligns with my background in medical-imaging deep learning and production MLOps. Could you share more about the technical scope and whether this involves building/training models versus other AI tasks?",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 12:58 UTC"
+    },
+    "https://www.linkedin.com/jobs/view/4425063091/": {
+      "score": 28,
+      "verdict": "skip",
+      "role_family": "swe",
+      "seniority_fit": "early-to-mid IC (likely match on level, but role family mismatch)",
+      "why": "Full Stack Engineer - Growth is a general software engineering role focused on product/growth, not ML/AI or data-intensive work; Ernesto's strength is machine learning and MLOps, which this role does not emphasize.",
+      "flags": [
+        "Off-target role family: SWE growth engineering vs. candidate's primary ML/AI focus",
+        "No ML/data science signals in posting",
+        "Location match (SF Bay Area)"
+      ],
+      "outreach_opener": "I'm an ML engineer with 4+ years of hands-on deep learning and MLOps experience (PyTorch, Kubernetes, FastAPI). While I appreciate Jobright's mission, Full Stack Engineer - Growth seems more product/infra-focused than ML-driven\u2014do you have any ML Platform or ML Engineer roles where my background in medical imaging and model deployment could add value?",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 12:58 UTC"
+    },
+    "https://www.indeed.com/viewjob?jk=03d3c367eec915d4": {
+      "score": 42,
+      "verdict": "skip",
+      "role_family": "ml-ai",
+      "seniority_fit": "overleveled \u2014 Senior role vs. early-to-mid IC",
+      "why": "Strong role family match, but 'Senior' title signals 6\u20138+ years and staff-level expectations; Ernesto is early-to-mid IC with ~4 years combined experience and will complete his M.S. in June 2026, placing him at ML Engineer I/II level.",
+      "flags": [
+        "Senior-level seniority mismatch",
+        "No JD available to assess biotech/health ML fit or specific technical requirements"
+      ],
+      "outreach_opener": "I'm an ML engineer completing my M.S. in Data Science & AI (June 2026) with 4 years of hands-on experience in medical imaging deep learning and tabular ML at UCSF and CA environmental health. While this Senior role may target more experience than I currently have, I'd be interested in learning about CLERA's ML challenges and whether an early-career or mid-level ML Engineer position might be a strong fit for your team.",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 12:58 UTC"
+    },
+    "https://www.indeed.com/viewjob?jk=55a4ead95fb80215": {
+      "score": 72,
+      "verdict": "maybe",
+      "role_family": "ml-ai",
+      "seniority_fit": "early-to-mid IC; likely ML Engineer I/II level",
+      "why": "Strong role-family match and seniority alignment, but lack of JD detail prevents confident assessment of specific tech stack, domain fit, or whether biotech/health angle is present.",
+      "flags": [
+        "No job description available \u2014 cannot assess domain relevance, team structure, or tech stack depth",
+        "Title 'AI/ML Engineer' is generic; CLERA's mission/focus unknown",
+        "San Francisco location is ideal; no visa/sponsorship barrier"
+      ],
+      "outreach_opener": "I'm an ML Engineer completing my M.S. in Data Science & AI (June 2026) with hands-on deep learning and MLOps experience\u2014including U-Net medical-imaging models, tabular ML, and end-to-end deployment on AWS/GCP via Docker, Kubernetes, and Terraform. I'm based in the Bay Area and would love to learn more about the AI/ML Engineer role at CLERA and how my background aligns with your team's priorities.",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 12:58 UTC"
+    },
+    "https://www.indeed.com/viewjob?jk=aeb5dc67885229aa": {
+      "score": 55,
+      "verdict": "maybe",
+      "role_family": "ml-ai",
+      "seniority_fit": "early-to-mid IC, likely a good match",
+      "why": "Mid-level AI Engineer at a SF-based company aligns with Ernesto's seniority and primary target family, but absence of a JD makes it hard to assess role-specific fit (e.g., research vs. MLOps vs. product ML), industry focus, or technical depth.",
+      "flags": [
+        "No job description provided \u2014 unable to verify biotech/health focus or specific skill match",
+        "Company and role type unknown \u2014 CLERA not immediately identifiable",
+        "Could be a strong fit if biotech/health-focused; could be off-target if pure research or unrelated domain"
+      ],
+      "outreach_opener": "I'm an ML engineer with 4 years of hands-on experience in medical imaging and tabular ML, plus production MLOps (Docker, K8s, FastAPI, MLflow, Terraform). I'd love to learn more about CLERA's AI roadmap and how this mid-level role aligns with your team's focus.",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 12:58 UTC"
+    },
+    "https://www.indeed.com/viewjob?jk=88ffe6af103db915": {
+      "score": 28,
+      "verdict": "skip",
+      "role_family": "swe",
+      "seniority_fit": "overleveled \u2014 Senior SWE vs. early-to-mid IC",
+      "why": "Senior SWE is a 2\u20133 band jump above Ernesto's current early-to-mid IC level, and SWE is a neutral/off-target family compared to his primary ml-ai and biotech-informatics focus.",
+      "flags": [
+        "seniority mismatch (Senior vs. early-to-mid)",
+        "off-target family (SWE, not ML/biotech)",
+        "no JD available \u2014 cannot assess ML/MLOps angle"
+      ],
+      "outreach_opener": "I'm an early-to-mid IC ML engineer with 4 years of production experience in medical imaging and environmental health ML, plus hands-on MLOps (Docker, K8s, FastAPI, Terraform). If CLERA has ML or data-driven product work, I'd be interested in exploring a better-fit role.",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 12:58 UTC"
+    },
+    "https://www.indeed.com/viewjob?jk=227565ff907e053e": {
+      "score": 28,
+      "verdict": "skip",
+      "role_family": "platform-infra",
+      "seniority_fit": "overleveled \u2014 Staff/Senior vs. early-to-mid IC",
+      "why": "Platform infrastructure role at Staff/Senior level mismatches both seniority (candidate is early-to-mid IC, ~4 yrs XP) and primary target families (ml-ai, biotech-informatics); off-target unless this is ML-platform work, which the sparse JD does not indicate.",
+      "flags": [
+        "Staff/Senior level \u2014 candidate is early-to-mid IC (downrank per guidance)",
+        "Platform-infra family \u2014 anti-target unless ML-platform-specific (no evidence here)",
+        "No JD text \u2014 cannot assess ML-platform angle or actual seniority bar"
+      ],
+      "outreach_opener": "I'm an ML engineer with 4+ years in medical imaging and tabular ML, plus hands-on MLOps (Docker, K8s, Terraform, AWS/GCP). I'm interested in learning more about CLERA's platform work \u2014 if there's an early-to-mid ML or data engineering opening that could benefit from my modeling and infrastructure background, I'd love to explore it.",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 12:58 UTC"
+    },
+    "https://www.indeed.com/viewjob?jk=61cf9c135e45df64": {
+      "score": 22,
+      "verdict": "skip",
+      "role_family": "devops-sre",
+      "seniority_fit": "early-to-mid IC, but off-target family",
+      "why": "DevOps/Kubernetes role is outside Ernesto's target families (ml-ai, biotech-informatics, data-science); while he has K8s and Docker experience, this is infrastructure-focused, not ML-platform or MLOps.",
+      "flags": [
+        "off-target family (devops-sre, not ml-ai or biotech)",
+        "no ML/AI component visible in title",
+        "candidate's K8s skills are MLOps-adjacent, not core DevOps"
+      ],
+      "outreach_opener": "I have hands-on Kubernetes and Docker experience from deploying ML services (FastAPI on AWS ECS, MLflow tracking), but this DevOps role appears infrastructure-focused rather than ML-platform\u2013oriented\u2014a better fit would be a role combining Kubernetes with ML workflow orchestration or model deployment. Happy to explore if there's an MLOps or ML-platform angle.",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 12:58 UTC"
+    },
+    "https://www.indeed.com/viewjob?jk=0ab57b2869180084": {
+      "score": 15,
+      "verdict": "skip",
+      "role_family": "swe",
+      "seniority_fit": "mid-level SWE, candidate is early-mid ML-focused IC",
+      "why": "Mobile engineering (iOS/Android) is off-target for an ML engineer with deep biomedical and MLOps expertise; no ML or data science components visible in the role.",
+      "flags": [
+        "Off-target family: mobile SWE vs. candidate's ml-ai/biotech-informatics focus",
+        "No ML/data science signal in the JD",
+        "Ernesto's strength is in ML systems and healthcare applications, not mobile platforms"
+      ],
+      "outreach_opener": "I'm an ML engineer with 4+ years in medical imaging and environmental-health ML, currently finishing my M.S. in Data Science & AI. While your Senior iOS/Android role looks like a great fit for strong mobile engineers, it's outside my core focus on machine learning systems and biomedical applications\u2014I'd be a better match for roles where I can apply deep learning and MLOps expertise.",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 12:58 UTC"
+    },
+    "https://www.indeed.com/viewjob?jk=e549e788556610d9": {
+      "score": 15,
+      "verdict": "skip",
+      "role_family": "swe",
+      "seniority_fit": "early-to-mid IC (candidate) vs. frontend-specialist (role)",
+      "why": "Frontend engineering is off-target for an ML/biotech-focused candidate; no ML, data science, or MLOps signal in the posting.",
+      "flags": [
+        "Off-target role family (swe/frontend vs. ml-ai/biotech-informatics primary targets)",
+        "No ML or data-science component visible",
+        "Frontend specialization outside candidate's core expertise"
+      ],
+      "outreach_opener": "I'm an ML engineer with 4+ years in medical imaging and MLOps, and while I appreciate CLERA's work on distributed systems, frontend engineering isn't aligned with my focus on machine learning and biotech applications. If you have ML infrastructure or data platform roles, I'd be interested in exploring those.",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 12:58 UTC"
+    },
+    "https://www.indeed.com/viewjob?jk=d4c453f9608c4425": {
+      "score": 32,
+      "verdict": "skip",
+      "role_family": "swe",
+      "seniority_fit": "early-to-mid IC (candidate) vs. unspecified (likely mid-to-senior SWE)",
+      "why": "Product Engineer role is off-target (SWE family); candidate's strength is ML/AI and biotech-informatics, not core software engineering.",
+      "flags": [
+        "Off-target role family (SWE, not ML-AI or biotech-informatics)",
+        "No JD available \u2014 cannot assess ML/MLOps component or seniority bar",
+        "Product Engineer typically implies full-stack SWE, not ML-focused"
+      ],
+      "outreach_opener": "I'm an early-career ML engineer with deep expertise in medical imaging and tabular ML from UCSF and environmental health modeling at CA OEHHA. While this Product Engineer role is outside my primary ML focus, I'd be interested if there's an ML or data-systems angle I'm missing \u2014 could we chat?",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 12:58 UTC"
+    },
+    "https://www.indeed.com/viewjob?jk=b584b0cf64651c83": {
+      "score": 28,
+      "verdict": "skip",
+      "role_family": "swe",
+      "seniority_fit": "early-to-mid IC (match), but wrong domain",
+      "why": "Full-stack SWE role is off-target for an ML-focused candidate; no indication of ML, data science, or biotech/health work, and CLERA's domain is unclear from the posting.",
+      "flags": [
+        "off-target role family (SWE, not ML-AI or biotech-informatics)",
+        "no ML or data science scope visible",
+        "missing job description limits fit assessment",
+        "candidate's depth in modeling and MLOps would be underutilized"
+      ],
+      "outreach_opener": "I'm interested in full-stack opportunities at CLERA, but I'd like to learn more about whether the role involves ML/data science or if there are ML-focused positions open\u2014my background is primarily in machine learning engineering and MLOps.",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 12:59 UTC"
+    },
+    "https://www.indeed.com/viewjob?jk=4176d7e2b4d07bda": {
+      "score": 15,
+      "verdict": "skip",
+      "role_family": "platform-infra",
+      "seniority_fit": "early-to-mid IC (match), but wrong family",
+      "why": "Frontend engineering on an infrastructure OS platform is outside ML/biotech/data target families; Ernesto's strength is ML modeling and MLOps backend work, not UI/frontend systems.",
+      "flags": [
+        "Off-target family: platform-infra (frontend), not ml-ai or biotech-informatics",
+        "No ML/data/modeling component visible",
+        "Frontend expertise not on resume"
+      ],
+      "outreach_opener": "Not recommended for outreach \u2014 this role is a poor fit for Ernesto's ML engineering and MLOps background.",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 12:59 UTC"
+    },
+    "https://www.linkedin.com/jobs/view/4425047661/": {
+      "score": 42,
+      "verdict": "skip",
+      "role_family": "swe",
+      "seniority_fit": "early-to-mid IC (likely match on band, but role family is off-target)",
+      "why": "Title emphasizes 'Software Engineer' over ML/AI, suggesting a general SWE role rather than the candidate's core ML-engineering or data-science focus; no JD available to confirm AI/ML depth.",
+      "flags": [
+        "role family mismatch: SWE primary, not ML-AI or biotech-informatics",
+        "no job description provided \u2014 cannot assess actual ML/AI responsibility balance",
+        "title 'AI Agent' hints at ML but 'Software Engineer' framing suggests infrastructure/backend priority"
+      ],
+      "outreach_opener": "I'm an ML engineer with 4 years of hands-on experience building end-to-end ML systems (deep learning, feature engineering, MLOps) and would be interested in learning more about how 'AI Agent' responsibilities are weighted in this role. Could you share whether this is primarily a backend/infra engineering position or a role where I'd be designing and iterating on model logic?",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 12:59 UTC"
+    },
+    "https://www.linkedin.com/jobs/view/4425422416/": {
+      "score": 28,
+      "verdict": "skip",
+      "role_family": "ml-ai",
+      "seniority_fit": "overleveled \u2014 Sr. role vs. early-to-mid IC",
+      "why": "Sr. Data Scientist role at Amazon requires 8+ years and likely PhD-level research depth; Ernesto is an early-to-mid IC with ~4 years experience and an M.S. in progress, making him 3\u20134 bands below the seniority bar despite strong ML fundamentals and relevant skills.",
+      "flags": [
+        "Seniority mismatch: Sr. role vs. early-to-mid IC (4 yrs experience)",
+        "No JD text to confirm, but 'Sr.' typically 8+ yrs / staff level",
+        "Amazon ads/funnel likely requires depth in production ML at massive scale"
+      ],
+      "outreach_opener": "I'm an early-career ML engineer with 4 years of hands-on deep learning and MLOps experience (U-Net medical imaging, XGBoost tabular modeling, end-to-end Kubernetes + Terraform pipelines). While this Sr. role appears to target more senior candidates, I'd be interested in learning about earlier-level ML positions on the ads or agentic-intelligence teams where my Python/PyTorch/MLflow stack and AWS/GCP infrastructure work could be a stronger fit.",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 12:59 UTC"
+    },
+    "https://www.linkedin.com/jobs/view/4425049102/": {
+      "score": 28,
+      "verdict": "skip",
+      "role_family": "swe",
+      "seniority_fit": "over-leveled (Senior SWE vs. early-to-mid IC)",
+      "why": "Senior Product SWE role is off-target (swe family is neutral for this candidate) and significantly above seniority band; no ML/data signal visible in the sparse posting.",
+      "flags": [
+        "SWE role, not ML/data \u2014 off-target family",
+        "Senior-level role exceeds early-to-mid IC band",
+        "No ML/MLOps depth signaled in limited JD",
+        "Candidate's strength (biomedical/health ML) not leveraged"
+      ],
+      "outreach_opener": "I'm an ML engineer with 4 years of hands-on experience in deep learning and MLOps (PyTorch, Kubernetes, FastAPI, AWS/GCP) and am completing my M.S. in Data Science & AI. While Jobright's mission is compelling, this Senior SWE role appears focused on product engineering rather than the ML and data-intensive work where I'd add the most value\u2014I'd be a stronger fit for roles that combine backend engineering with model serving or ML infrastructure.",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 12:59 UTC"
+    },
+    "https://www.linkedin.com/jobs/view/4421914329/": {
+      "score": 32,
+      "verdict": "skip",
+      "role_family": "swe",
+      "seniority_fit": "early-to-mid IC, likely appropriate",
+      "why": "Full-stack engineer role is off Ernesto's target families (ml-ai, biotech-informatics primary); no ML/data science signal visible, and company mission unclear without JD.",
+      "flags": [
+        "Off-target role family (SWE, not ML-AI or biotech)",
+        "No ML/modeling component evident",
+        "Missing job description \u2014 cannot assess ML-platform or MLOps angle"
+      ],
+      "outreach_opener": "I'm interested in learning more about Jobright.ai's Full-Stack Engineer role. Given my background in ML engineering and MLOps (Docker, Kubernetes, FastAPI, Terraform), I'd like to understand if there's an ML-platform or data-infrastructure angle that might be a better fit for my skillset.",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 12:59 UTC"
+    },
+    "https://www.linkedin.com/jobs/view/4421594438/": {
+      "score": 72,
+      "verdict": "maybe",
+      "role_family": "ml-ai",
+      "seniority_fit": "Early-to-mid IC; likely ML Engineer I/II level",
+      "why": "Strong ML fundamentals and MLOps depth align well with ML Engineer roles; speech/LLM training is adjacent to candidate's deep-learning background, but no prior NLP/speech experience visible.",
+      "flags": [
+        "\u2713 SF-based, no relocation friction",
+        "\u2713 ML-AI primary target family",
+        "\u2713 Solid PyTorch + deep learning track record",
+        "\u2713 Production MLOps experience (Docker, K8s, Terraform, AWS)",
+        "\u26a0 No NLP or speech-domain experience mentioned; LLM training may require ramp-up",
+        "\u26a0 No JD provided; assess full role details before committing"
+      ],
+      "outreach_opener": "I'm an ML engineer graduating with an M.S. in Data Science & AI this June, with hands-on deep learning (U-Net segmentation, 0.92 Dice) and end-to-end MLOps experience (PyTorch, Airflow, Kubernetes, Terraform on AWS/GCP). I'm interested in learning more about the Speech LLM Training role and how my modeling and infrastructure background could contribute to your team.",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 12:59 UTC"
+    },
+    "https://www.linkedin.com/jobs/view/4425047376/": {
+      "score": 45,
+      "verdict": "skip",
+      "role_family": "ml-ai",
+      "seniority_fit": "early-to-mid IC, but 'founding' suggests equity/leadership expectations",
+      "why": "Founding role typically demands senior IC or co-founder equity stake; no JD provided to assess whether modeling, MLOps, or leadership is primary; company and salary are reasonable, but role clarity and seniority mismatch create risk.",
+      "flags": [
+        "No job description \u2014 cannot assess skill/family fit in detail",
+        "Founding role may imply co-founder equity or staff-level scope (candidate is early-to-mid IC)",
+        "Company (RS Global Services) is unfamiliar \u2014 no signal on biotech/health focus",
+        "On-site SF is fine, but lack of remote flexibility could be friction"
+      ],
+      "outreach_opener": "I'm interested in the Founding AI Engineer role at RS Global Services. Could you share more about the scope \u2014 whether it's primarily hands-on ML modeling, MLOps platform work, or a co-founder/equity structure \u2014 and whether my background in deep learning, tabular ML, and end-to-end MLOps would be a fit?",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 12:59 UTC"
+    },
+    "https://www.linkedin.com/jobs/view/4425411191/": {
+      "score": 15,
+      "verdict": "skip",
+      "role_family": "robotics",
+      "seniority_fit": "overleveled (Sr. role; candidate is early-to-mid IC)",
+      "why": "Robotics is an anti-target family for this candidate; Sr. title exceeds seniority band; no ML/AI or biotech depth indicated.",
+      "flags": [
+        "off-target family (robotics, not ml-ai/biotech)",
+        "seniority mismatch (Sr. role vs. early-to-mid IC)",
+        "no ML/modeling focus visible"
+      ],
+      "outreach_opener": "Not recommended for outreach \u2014 robotics engineering is outside your target ML/biotech focus, and the Sr. level doesn't align with your early-to-mid career stage.",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 12:59 UTC"
+    },
+    "https://www.linkedin.com/jobs/view/4425406328/": {
+      "score": 28,
+      "verdict": "skip",
+      "role_family": "swe",
+      "seniority_fit": "overleveled \u2014 Senior role, candidate is early-to-mid IC",
+      "why": "Senior Fullstack Engineer is a traditional SWE role misaligned with the candidate's ML/data-science trajectory; seniority bar (Senior) exceeds early-to-mid IC band; no ML or biotech signal despite Mochi Health's healthcare focus.",
+      "flags": [
+        "off-target family (swe, not ml-ai or biotech-informatics)",
+        "seniority mismatch \u2014 Senior > early-to-mid IC",
+        "fullstack web engineering, not ML/data/MLOps"
+      ],
+      "outreach_opener": "I'm an ML engineer with 4 years in healthcare ML and medical imaging at UCSF, plus end-to-end MLOps experience\u2014if Mochi Health has ML, data science, or MLOps openings, I'd love to explore those instead of the fullstack role.",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 12:59 UTC"
+    },
+    "https://www.linkedin.com/jobs/view/4425026409/": {
+      "score": 28,
+      "verdict": "skip",
+      "role_family": "platform-infra",
+      "seniority_fit": "early-to-mid IC (candidate) vs. unspecified (role)",
+      "why": "Infrastructure Engineer is platform-infra, an anti-target family for this ML-focused candidate; no MLOps/ML-platform signals in the title or location hint.",
+      "flags": [
+        "Off-target family (platform-infra, not ml-ai or biotech)",
+        "No JD available \u2014 cannot assess ML-platform flavor or seniority match",
+        "Strong ML/MLOps background underutilized in a generic infrastructure role"
+      ],
+      "outreach_opener": "I'm an ML engineer with strong hands-on MLOps experience (Docker, Kubernetes, Terraform, FastAPI, AWS/GCP) from UCSF and CA state work. If Tavus is building ML infrastructure or platform tooling, I'd be interested in learning more.",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 12:59 UTC"
+    },
+    "https://www.linkedin.com/jobs/view/4425034376/": {
+      "score": 42,
+      "verdict": "skip",
+      "role_family": "ml-ai",
+      "seniority_fit": "early-to-mid IC (candidate) vs. all levels (role)",
+      "why": "Strong ML fundamentals and MLOps depth, but 'Efficient Models' research typically demands PhD-level depth or publication track record in model compression/optimization\u2014areas where Ernesto has limited demonstrated expertise; also no JD to confirm role scope.",
+      "flags": [
+        "No job description available \u2014 hard to assess true fit",
+        "Research-heavy title suggests PhD preference or publication bar",
+        "Efficient models (compression, quantization, pruning) not in candidate's resume highlights",
+        "TikTok research roles often require 5+ yrs or PhD; candidate is early-to-mid IC with M.S. in progress"
+      ],
+      "outreach_opener": "I'm an ML engineer with hands-on experience in model optimization (XGBoost, TensorFlow, PyTorch) and end-to-end MLOps deployed on AWS/GCP. While my background centers on medical imaging and tabular modeling, I'm interested in learning more about the Efficient Models team's focus\u2014could you share the full role scope?",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 12:59 UTC"
+    },
+    "https://www.linkedin.com/jobs/view/4421902153/": {
+      "score": 42,
+      "verdict": "skip",
+      "role_family": "platform-infra",
+      "seniority_fit": "early-to-mid IC (likely match if role is junior)",
+      "why": "ML Infrastructure Engineer is platform-infra first, not ml-ai; Ernesto's strength is hands-on modeling and MLOps, not pure infrastructure. Without a JD, unclear if this is ML-platform (good fit) or general infra (poor fit).",
+      "flags": [
+        "off-target family (platform-infra vs. ml-ai primary)",
+        "no JD provided \u2014 unclear if MLOps-flavored or pure infrastructure",
+        "EWS Business Solutions is not a biotech/health/environmental company"
+      ],
+      "outreach_opener": "Hi \u2014 I'm interested in learning more about this ML Infrastructure role at EWS. I have hands-on experience building end-to-end ML pipelines with Docker, Kubernetes, FastAPI, MLflow, and Terraform; I'd love to understand whether the focus is on platform tooling for data scientists, or broader infrastructure.",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 12:59 UTC"
+    },
+    "https://www.linkedin.com/jobs/view/4383152998/": {
+      "score": 28,
+      "verdict": "skip",
+      "role_family": "swe",
+      "seniority_fit": "too senior (Staff/Principal-level implied by 'Senior')",
+      "why": "Title signals Staff+ engineering role; candidate is early-to-mid IC with ~4 years experience and a master's degree (not PhD), making the seniority bar a significant mismatch despite strong AI/ML fundamentals and Bay Area location.",
+      "flags": [
+        "Title 'Senior' typically implies 8+ years or Staff-level IC \u2014 candidate is early-to-mid",
+        "No JD available to confirm ML vs. general SWE scope",
+        "Role family is SWE (auth/platform focus) not primary ml-ai or biotech-informatics",
+        "Large enterprise (Okta) may require deeper seniority than candidate's band"
+      ],
+      "outreach_opener": "I'm an ML engineer with deep experience in medical imaging and tabular ML at UCSF and CA environmental health, plus hands-on MLOps (FastAPI, Docker, Kubernetes, Terraform). I'd be interested in learning more about the AI Agentic Experience role at Okta \u2014 are there opportunities for early-to-mid IC engineers to contribute to AI product development?",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 13:00 UTC"
+    },
+    "https://www.linkedin.com/jobs/view/4384256805/": {
+      "score": 18,
+      "verdict": "skip",
+      "role_family": "other",
+      "seniority_fit": "overleveled \u2014 Senior Manager vs. early-to-mid IC",
+      "why": "This is a senior management role (likely director/manager level) at a consulting firm, misaligned with Ernesto's early-to-mid IC band and hands-on ML engineering target.",
+      "flags": [
+        "Senior Manager title \u2014 5\u20138+ years management experience likely required",
+        "Consulting (PwC) \u2014 not a core biotech/health ML or ML-platform org",
+        "No JD available \u2014 cannot assess technical depth or ML vs. advisory split",
+        "Role family (other) \u2014 off-target against primary ml-ai/biotech-informatics families"
+      ],
+      "outreach_opener": "I'm interested in PwC's AI work, but this Senior Manager opening appears focused on leadership and consulting delivery rather than hands-on ML engineering. Would PwC have earlier-stage ML Engineer or Data Scientist roles where I could build models and systems end-to-end?",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 13:00 UTC"
+    },
+    "https://www.linkedin.com/jobs/view/4384882837/": {
+      "score": 28,
+      "verdict": "skip",
+      "role_family": "robotics",
+      "seniority_fit": "overleveled \u2014 Senior role, candidate is early-to-mid IC",
+      "why": "Autonomous vehicles (robotics) is an anti-target family for this ML engineer; the Senior title also exceeds early-to-mid IC band, and no ML/data modeling signal in the posting suggests this is systems/control-focused rather than ML-platform work.",
+      "flags": [
+        "robotics (anti-target family)",
+        "Senior-level (candidate is early-to-mid IC)",
+        "no ML/data signal in posting",
+        "AV domain mismatch \u2014 no biotech/health/enviro focus"
+      ],
+      "outreach_opener": "Not recommended for outreach \u2014 this role's focus on autonomous vehicle systems does not align with your ML/data science background and biotech/health domain expertise. If Lyft has ML-platform or MLOps roles supporting model deployment at scale, those would be a stronger fit.",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 13:00 UTC"
+    },
+    "https://www.linkedin.com/jobs/view/4374651593/": {
+      "score": 22,
+      "verdict": "skip",
+      "role_family": "swe",
+      "seniority_fit": "too senior (Staff vs. early-to-mid IC)",
+      "why": "Staff-level SWE role at a fintech company is a significant seniority mismatch for an early-to-mid IC ML engineer with biomedical depth; role family is also off-target.",
+      "flags": [
+        "Staff level \u2014 candidate is early-to-mid IC (ML Eng I/II, Data Scientist bands)",
+        "SWE family (off-target) \u2014 candidate prioritizes ml-ai, biotech-informatics, data-science",
+        "Fintech focus \u2014 no alignment with candidate's health/biomedical domain expertise"
+      ],
+      "outreach_opener": "I'm an ML engineer with 4 years of biomedical deep learning and MLOps experience, currently finishing an M.S. in Data Science & AI. While I'm very interested in fintech applications of ML, the Staff SWE level and core SWE focus seem like a stretch from my current early-to-mid IC band\u2014do you have any ML or data-science openings on your team I should know about?",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 13:00 UTC"
+    },
+    "https://www.linkedin.com/jobs/view/4385378988/": {
+      "score": 18,
+      "verdict": "skip",
+      "role_family": "platform-infra",
+      "seniority_fit": "early-to-mid IC (match), but wrong family",
+      "why": "Kernel driver engineering is a systems/infra specialty far outside ML-AI and biotech-informatics; Ernesto's strength is ML modeling and MLOps, not low-level kernel/driver work.",
+      "flags": [
+        "Off-target family: platform-infra (systems), not ml-ai or biotech-informatics",
+        "Kernel driver work requires deep C/Linux expertise; candidate is Python-first ML engineer",
+        "No ML or data-science component visible in role description"
+      ],
+      "outreach_opener": "I'm interested in Etched's work, but kernel driver engineering isn't aligned with my background in machine learning and MLOps. If you have ML infrastructure or AI acceleration roles on the team, I'd love to explore those instead.",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 13:00 UTC"
+    },
+    "https://www.linkedin.com/jobs/view/4391148501/": {
+      "score": 18,
+      "verdict": "skip",
+      "role_family": "swe",
+      "seniority_fit": "overleveled \u2014 Senior Staff vs. early-to-mid IC",
+      "why": "Scout Motors is an automotive/robotics company seeking a Senior Staff backend engineer; the role is 3\u20134 levels above Ernesto's current IC band and outside his target families (ml-ai, biotech-informatics, data-science).",
+      "flags": [
+        "Seniority mismatch \u2014 Senior Staff (8+ yrs) vs. early-to-mid IC (4 yrs + M.S. in progress)",
+        "Off-target family \u2014 automotive backend SWE, not ML/AI or biotech",
+        "No ML/AI or MLOps signal in job posting",
+        "Robotics industry \u2014 anti-target family for this candidate"
+      ],
+      "outreach_opener": "Not recommended for outreach. This role is a significant seniority and scope jump, and the backend-infrastructure focus does not align with Ernesto's primary strengths in machine learning, deep learning, and MLOps.",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 13:00 UTC"
+    },
+    "https://www.linkedin.com/jobs/view/4283317485/": {
+      "score": 62,
+      "verdict": "maybe",
+      "role_family": "platform-infra",
+      "seniority_fit": "early-to-mid IC, likely a good match",
+      "why": "AI Infrastructure at a strong search/enterprise company aligns with Ernesto's MLOps depth (Docker, K8s, Terraform, AWS), but the role family (platform-infra) is slightly off-target versus his primary ml-ai and biotech-informatics focus.",
+      "flags": [
+        "role family is platform-infra, not primary ml-ai or biotech",
+        "no JD available \u2014 can't assess team scope, hands-on modeling, or seniority bar",
+        "strong company and location (Mountain View, Bay Area); good MLOps fit"
+      ],
+      "outreach_opener": "I'm drawn to Glean's AI Infrastructure role because of my hands-on experience shipping ML systems end-to-end: I've built Docker/K8s pipelines, versioned models in MLflow, and deployed FastAPI services on AWS. My background bridging data science and infrastructure\u2014from UCSF medical imaging to production ML workflows\u2014could bring a useful perspective to your platform team.",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 13:00 UTC"
+    },
+    "https://www.linkedin.com/jobs/view/4385389611/": {
+      "score": 32,
+      "verdict": "skip",
+      "role_family": "swe",
+      "seniority_fit": "early-to-mid IC (likely fit), but off-target family",
+      "why": "Performance profiling is a systems/infrastructure SWE role \u2014 outside Ernesto's primary ML/AI and biotech-informatics targets; his ML depth and MLOps skills don't strongly align with low-level performance work.",
+      "flags": [
+        "Off-target family (swe systems focus, not ml-ai or biotech-informatics)",
+        "No ML modeling or data science scope visible",
+        "Performance profiling typically requires deep systems expertise \u2014 candidate's strength is applied ML and MLOps, not profiler tooling"
+      ],
+      "outreach_opener": "I'm an ML engineer with strong MLOps and infrastructure experience (Docker, Kubernetes, Terraform, AWS/GCP). While performance profiling isn't my primary focus, I'd be interested to learn more about Etched's broader technical challenges if there are ML-platform or model-optimization angles to the role.",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 13:00 UTC"
+    },
+    "https://www.linkedin.com/jobs/view/3982869620/": {
+      "score": 42,
+      "verdict": "skip",
+      "role_family": "data-eng",
+      "seniority_fit": "early-to-mid IC (match), but role family is secondary",
+      "why": "Distributed data systems is a data-eng / platform-infra role, not ML-adjacent; Ernesto's strength is ML modeling and MLOps, not core data infrastructure.",
+      "flags": [
+        "off-target family (data-eng primary, not ml-ai/biotech)",
+        "no ML modeling component visible",
+        "seniority fit is fine, but role family mismatch outweighs it"
+      ],
+      "outreach_opener": "I'm interested in Onehouse's work on distributed data systems, but my core strength is ML modeling and MLOps\u2014deep learning, feature engineering, and end-to-end model deployment. If you have ML platform or data infra roles that bridge to ML workflows, I'd love to chat.",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 13:00 UTC"
+    },
+    "https://www.linkedin.com/jobs/view/4385381877/": {
+      "score": 28,
+      "verdict": "skip",
+      "role_family": "swe",
+      "seniority_fit": "early-to-mid IC (candidate) \u2192 core engineer (unclear seniority, likely mid+ required)",
+      "why": "Core Software Engineer at Etched is a general SWE role, not ML/AI-focused; candidate's strength is ML engineering with MLOps depth, not core systems or general software development.",
+      "flags": [
+        "Off-target family (SWE, not ML-AI or biotech-informatics)",
+        "No JD available \u2014 cannot assess ML vs. pure systems focus",
+        "Etched builds AI infrastructure; if ML-platform work, could rerank, but title suggests general SWE"
+      ],
+      "outreach_opener": "I'm an ML engineer with 4+ years in health-tech ML and end-to-end MLOps (Docker, Kubernetes, FastAPI, Terraform, AWS/GCP). Could you share more about whether this Core Software Engineer role involves ML platform, model serving, or general systems work? I'd be interested if it's infrastructure supporting AI workloads.",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 13:00 UTC"
+    },
+    "https://www.linkedin.com/jobs/view/4425035205/": {
+      "score": 72,
+      "verdict": "maybe",
+      "role_family": "ml-ai",
+      "seniority_fit": "early-to-mid IC (ML Engineer I/II level)",
+      "why": "Core ML-engineer role with direct skill overlap (PyTorch, model training, LLMs), but speech/LLM specialization is adjacent to\u2014not central to\u2014Ernesto's biomedical deep-learning and tabular ML background; no JD details to confirm team fit or growth trajectory.",
+      "flags": [
+        "\u2713 Primary role family (ml-ai)",
+        "\u2713 SF Bay Area onsite/hybrid match",
+        "\u2713 Early-career seniority bar aligns",
+        "\u26a0 Speech/LLM domain shift from biomedical + tabular focus",
+        "\u26a0 No JD text; limited signal on modeling depth, team, or project scope"
+      ],
+      "outreach_opener": "I'm an ML engineer with hands-on PyTorch and production model-training experience (U-Net segmentation at UCSF, XGBoost/CatBoost at CA OEHHA) and strong MLOps chops (Docker, Kubernetes, FastAPI, MLflow). I'm finishing my M.S. in Data Science & AI this June and am very interested in exploring speech LLM training\u2014could we sync on what the role entails?",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 13:00 UTC"
+    },
+    "https://www.linkedin.com/jobs/view/4344835714/": {
+      "score": 0,
+      "verdict": "error",
+      "role_family": "other",
+      "seniority_fit": "",
+      "why": "model call or parse failed",
+      "flags": [],
+      "outreach_opener": "",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 13:00 UTC"
+    },
+    "https://www.linkedin.com/jobs/view/4425180893/": {
+      "score": 0,
+      "verdict": "error",
+      "role_family": "other",
+      "seniority_fit": "",
+      "why": "model call or parse failed",
+      "flags": [],
+      "outreach_opener": "",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 13:00 UTC"
+    },
+    "https://www.linkedin.com/jobs/view/4397562871/": {
+      "score": 0,
+      "verdict": "error",
+      "role_family": "other",
+      "seniority_fit": "",
+      "why": "model call or parse failed",
+      "flags": [],
+      "outreach_opener": "",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 13:00 UTC"
+    },
+    "https://www.linkedin.com/jobs/view/4356201553/": {
+      "score": 0,
+      "verdict": "error",
+      "role_family": "other",
+      "seniority_fit": "",
+      "why": "model call or parse failed",
+      "flags": [],
+      "outreach_opener": "",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 13:00 UTC"
+    },
+    "https://www.linkedin.com/jobs/view/4340805191/": {
+      "score": 0,
+      "verdict": "error",
+      "role_family": "other",
+      "seniority_fit": "",
+      "why": "model call or parse failed",
+      "flags": [],
+      "outreach_opener": "",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 13:00 UTC"
+    },
+    "https://www.linkedin.com/jobs/view/4385320061/": {
+      "score": 0,
+      "verdict": "error",
+      "role_family": "other",
+      "seniority_fit": "",
+      "why": "model call or parse failed",
+      "flags": [],
+      "outreach_opener": "",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 13:00 UTC"
+    },
+    "https://www.linkedin.com/jobs/view/4339018465/": {
+      "score": 0,
+      "verdict": "error",
+      "role_family": "other",
+      "seniority_fit": "",
+      "why": "model call or parse failed",
+      "flags": [],
+      "outreach_opener": "",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 13:00 UTC"
+    },
+    "https://www.linkedin.com/jobs/view/4344971308/": {
+      "score": 0,
+      "verdict": "error",
+      "role_family": "other",
+      "seniority_fit": "",
+      "why": "model call or parse failed",
+      "flags": [],
+      "outreach_opener": "",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 13:00 UTC"
+    },
+    "https://www.linkedin.com/jobs/view/4404110866/": {
+      "score": 0,
+      "verdict": "error",
+      "role_family": "other",
+      "seniority_fit": "",
+      "why": "model call or parse failed",
+      "flags": [],
+      "outreach_opener": "",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 13:00 UTC"
+    },
+    "https://www.linkedin.com/jobs/view/4397575212/": {
+      "score": 0,
+      "verdict": "error",
+      "role_family": "other",
+      "seniority_fit": "",
+      "why": "model call or parse failed",
+      "flags": [],
+      "outreach_opener": "",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 13:00 UTC"
+    },
+    "https://www.indeed.com/viewjob?jk=ac25c78c011c071a": {
+      "score": 0,
+      "verdict": "error",
+      "role_family": "other",
+      "seniority_fit": "",
+      "why": "model call or parse failed",
+      "flags": [],
+      "outreach_opener": "",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 13:00 UTC"
+    },
+    "https://www.linkedin.com/jobs/view/4344683557/": {
+      "score": 0,
+      "verdict": "error",
+      "role_family": "other",
+      "seniority_fit": "",
+      "why": "model call or parse failed",
+      "flags": [],
+      "outreach_opener": "",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 13:00 UTC"
+    },
+    "https://www.linkedin.com/jobs/view/4205333962/": {
+      "score": 0,
+      "verdict": "error",
+      "role_family": "other",
+      "seniority_fit": "",
+      "why": "model call or parse failed",
+      "flags": [],
+      "outreach_opener": "",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 13:00 UTC"
+    },
+    "https://www.linkedin.com/jobs/view/4384662944/": {
+      "score": 0,
+      "verdict": "error",
+      "role_family": "other",
+      "seniority_fit": "",
+      "why": "model call or parse failed",
+      "flags": [],
+      "outreach_opener": "",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 13:00 UTC"
+    },
+    "https://www.linkedin.com/jobs/view/4366434219/": {
+      "score": 0,
+      "verdict": "error",
+      "role_family": "other",
+      "seniority_fit": "",
+      "why": "model call or parse failed",
+      "flags": [],
+      "outreach_opener": "",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 13:00 UTC"
+    },
+    "https://www.linkedin.com/jobs/view/4345475425/": {
+      "score": 0,
+      "verdict": "error",
+      "role_family": "other",
+      "seniority_fit": "",
+      "why": "model call or parse failed",
+      "flags": [],
+      "outreach_opener": "",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 13:01 UTC"
+    },
+    "https://www.linkedin.com/jobs/view/4385304565/": {
+      "score": 0,
+      "verdict": "error",
+      "role_family": "other",
+      "seniority_fit": "",
+      "why": "model call or parse failed",
+      "flags": [],
+      "outreach_opener": "",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 13:01 UTC"
+    },
+    "https://www.linkedin.com/jobs/view/4397406092/": {
+      "score": 0,
+      "verdict": "error",
+      "role_family": "other",
+      "seniority_fit": "",
+      "why": "model call or parse failed",
+      "flags": [],
+      "outreach_opener": "",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 13:01 UTC"
+    },
+    "https://www.linkedin.com/jobs/view/4344193243/": {
+      "score": 0,
+      "verdict": "error",
+      "role_family": "other",
+      "seniority_fit": "",
+      "why": "model call or parse failed",
+      "flags": [],
+      "outreach_opener": "",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 13:01 UTC"
+    },
+    "https://www.linkedin.com/jobs/view/4229134421/": {
+      "score": 0,
+      "verdict": "error",
+      "role_family": "other",
+      "seniority_fit": "",
+      "why": "model call or parse failed",
+      "flags": [],
+      "outreach_opener": "",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 13:01 UTC"
+    },
+    "https://www.linkedin.com/jobs/view/4385302337/": {
+      "score": 0,
+      "verdict": "error",
+      "role_family": "other",
+      "seniority_fit": "",
+      "why": "model call or parse failed",
+      "flags": [],
+      "outreach_opener": "",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 13:01 UTC"
+    },
+    "https://www.linkedin.com/jobs/view/4383986422/": {
+      "score": 0,
+      "verdict": "error",
+      "role_family": "other",
+      "seniority_fit": "",
+      "why": "model call or parse failed",
+      "flags": [],
+      "outreach_opener": "",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 13:01 UTC"
+    },
+    "https://www.linkedin.com/jobs/view/4324819075/": {
+      "score": 0,
+      "verdict": "error",
+      "role_family": "other",
+      "seniority_fit": "",
+      "why": "model call or parse failed",
+      "flags": [],
+      "outreach_opener": "",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 13:01 UTC"
+    },
+    "https://www.linkedin.com/jobs/view/4425043054/": {
+      "score": 0,
+      "verdict": "error",
+      "role_family": "other",
+      "seniority_fit": "",
+      "why": "model call or parse failed",
+      "flags": [],
+      "outreach_opener": "",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 13:01 UTC"
+    },
+    "https://www.linkedin.com/jobs/view/4324298841/": {
+      "score": 0,
+      "verdict": "error",
+      "role_family": "other",
+      "seniority_fit": "",
+      "why": "model call or parse failed",
+      "flags": [],
+      "outreach_opener": "",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 13:01 UTC"
+    },
+    "https://www.linkedin.com/jobs/view/4313005675/": {
+      "score": 0,
+      "verdict": "error",
+      "role_family": "other",
+      "seniority_fit": "",
+      "why": "model call or parse failed",
+      "flags": [],
+      "outreach_opener": "",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 13:01 UTC"
+    },
+    "https://www.linkedin.com/jobs/view/4404105849/": {
+      "score": 0,
+      "verdict": "error",
+      "role_family": "other",
+      "seniority_fit": "",
+      "why": "model call or parse failed",
+      "flags": [],
+      "outreach_opener": "",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 13:01 UTC"
+    },
+    "https://www.linkedin.com/jobs/view/4358550738/": {
+      "score": 0,
+      "verdict": "error",
+      "role_family": "other",
+      "seniority_fit": "",
+      "why": "model call or parse failed",
+      "flags": [],
+      "outreach_opener": "",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 13:01 UTC"
+    },
+    "https://www.linkedin.com/jobs/view/4404133441/": {
+      "score": 0,
+      "verdict": "error",
+      "role_family": "other",
+      "seniority_fit": "",
+      "why": "model call or parse failed",
+      "flags": [],
+      "outreach_opener": "",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 13:01 UTC"
+    },
+    "https://www.linkedin.com/jobs/view/4347458558/": {
+      "score": 0,
+      "verdict": "error",
+      "role_family": "other",
+      "seniority_fit": "",
+      "why": "model call or parse failed",
+      "flags": [],
+      "outreach_opener": "",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 13:01 UTC"
+    },
+    "https://www.linkedin.com/jobs/view/4383983279/": {
+      "score": 0,
+      "verdict": "error",
+      "role_family": "other",
+      "seniority_fit": "",
+      "why": "model call or parse failed",
+      "flags": [],
+      "outreach_opener": "",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 13:01 UTC"
+    },
+    "https://www.linkedin.com/jobs/view/4405711342/": {
+      "score": 0,
+      "verdict": "error",
+      "role_family": "other",
+      "seniority_fit": "",
+      "why": "model call or parse failed",
+      "flags": [],
+      "outreach_opener": "",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 13:01 UTC"
+    },
+    "https://www.linkedin.com/jobs/view/4344874654/": {
+      "score": 0,
+      "verdict": "error",
+      "role_family": "other",
+      "seniority_fit": "",
+      "why": "model call or parse failed",
+      "flags": [],
+      "outreach_opener": "",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 13:01 UTC"
+    },
+    "https://www.linkedin.com/jobs/view/4425040105/": {
+      "score": 0,
+      "verdict": "error",
+      "role_family": "other",
+      "seniority_fit": "",
+      "why": "model call or parse failed",
+      "flags": [],
+      "outreach_opener": "",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 13:01 UTC"
+    },
+    "https://www.linkedin.com/jobs/view/4385399158/": {
+      "score": 0,
+      "verdict": "error",
+      "role_family": "other",
+      "seniority_fit": "",
+      "why": "model call or parse failed",
+      "flags": [],
+      "outreach_opener": "",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 13:01 UTC"
+    },
+    "https://www.linkedin.com/jobs/view/4384605090/": {
+      "score": 0,
+      "verdict": "error",
+      "role_family": "other",
+      "seniority_fit": "",
+      "why": "model call or parse failed",
+      "flags": [],
+      "outreach_opener": "",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 13:01 UTC"
+    },
+    "https://www.linkedin.com/jobs/view/4393883210/": {
+      "score": 0,
+      "verdict": "error",
+      "role_family": "other",
+      "seniority_fit": "",
+      "why": "model call or parse failed",
+      "flags": [],
+      "outreach_opener": "",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 13:01 UTC"
+    },
+    "https://www.linkedin.com/jobs/view/4373717506/": {
+      "score": 0,
+      "verdict": "error",
+      "role_family": "other",
+      "seniority_fit": "",
+      "why": "model call or parse failed",
+      "flags": [],
+      "outreach_opener": "",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 13:01 UTC"
+    },
+    "https://www.linkedin.com/jobs/view/4425022236/": {
+      "score": 0,
+      "verdict": "error",
+      "role_family": "other",
+      "seniority_fit": "",
+      "why": "model call or parse failed",
+      "flags": [],
+      "outreach_opener": "",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 13:01 UTC"
+    },
+    "https://www.linkedin.com/jobs/view/4374679620/": {
+      "score": 0,
+      "verdict": "error",
+      "role_family": "other",
+      "seniority_fit": "",
+      "why": "model call or parse failed",
+      "flags": [],
+      "outreach_opener": "",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 13:01 UTC"
+    },
+    "https://www.linkedin.com/jobs/view/4425027163/": {
+      "score": 0,
+      "verdict": "error",
+      "role_family": "other",
+      "seniority_fit": "",
+      "why": "model call or parse failed",
+      "flags": [],
+      "outreach_opener": "",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 13:01 UTC"
+    },
+    "https://www.linkedin.com/jobs/view/4406868011/": {
+      "score": 0,
+      "verdict": "error",
+      "role_family": "other",
+      "seniority_fit": "",
+      "why": "model call or parse failed",
+      "flags": [],
+      "outreach_opener": "",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 13:01 UTC"
+    },
+    "https://www.linkedin.com/jobs/view/4401005661/": {
+      "score": 0,
+      "verdict": "error",
+      "role_family": "other",
+      "seniority_fit": "",
+      "why": "model call or parse failed",
+      "flags": [],
+      "outreach_opener": "",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 13:01 UTC"
+    },
+    "https://www.linkedin.com/jobs/view/4373712261/": {
+      "score": 0,
+      "verdict": "error",
+      "role_family": "other",
+      "seniority_fit": "",
+      "why": "model call or parse failed",
+      "flags": [],
+      "outreach_opener": "",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 13:01 UTC"
+    },
+    "https://www.linkedin.com/jobs/view/4375484869/": {
+      "score": 0,
+      "verdict": "error",
+      "role_family": "other",
+      "seniority_fit": "",
+      "why": "model call or parse failed",
+      "flags": [],
+      "outreach_opener": "",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 13:01 UTC"
+    },
+    "https://www.linkedin.com/jobs/view/4397441979/": {
+      "score": 0,
+      "verdict": "error",
+      "role_family": "other",
+      "seniority_fit": "",
+      "why": "model call or parse failed",
+      "flags": [],
+      "outreach_opener": "",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 13:01 UTC"
+    },
+    "https://www.linkedin.com/jobs/view/4367080192/": {
+      "score": 0,
+      "verdict": "error",
+      "role_family": "other",
+      "seniority_fit": "",
+      "why": "model call or parse failed",
+      "flags": [],
+      "outreach_opener": "",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 13:01 UTC"
+    },
+    "https://www.linkedin.com/jobs/view/4320358376/": {
+      "score": 0,
+      "verdict": "error",
+      "role_family": "other",
+      "seniority_fit": "",
+      "why": "model call or parse failed",
+      "flags": [],
+      "outreach_opener": "",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 13:01 UTC"
+    },
+    "https://www.linkedin.com/jobs/view/4384932188/": {
+      "score": 0,
+      "verdict": "error",
+      "role_family": "other",
+      "seniority_fit": "",
+      "why": "model call or parse failed",
+      "flags": [],
+      "outreach_opener": "",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 13:01 UTC"
+    },
+    "https://www.linkedin.com/jobs/view/4395732884/": {
+      "score": 0,
+      "verdict": "error",
+      "role_family": "other",
+      "seniority_fit": "",
+      "why": "model call or parse failed",
+      "flags": [],
+      "outreach_opener": "",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 13:01 UTC"
+    },
+    "https://www.linkedin.com/jobs/view/4385501053/": {
+      "score": 0,
+      "verdict": "error",
+      "role_family": "other",
+      "seniority_fit": "",
+      "why": "model call or parse failed",
+      "flags": [],
+      "outreach_opener": "",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 13:01 UTC"
+    },
+    "https://www.linkedin.com/jobs/view/4372021487/": {
+      "score": 0,
+      "verdict": "error",
+      "role_family": "other",
+      "seniority_fit": "",
+      "why": "model call or parse failed",
+      "flags": [],
+      "outreach_opener": "",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 13:01 UTC"
+    },
+    "https://www.linkedin.com/jobs/view/4367289234/": {
+      "score": 0,
+      "verdict": "error",
+      "role_family": "other",
+      "seniority_fit": "",
+      "why": "model call or parse failed",
+      "flags": [],
+      "outreach_opener": "",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 13:01 UTC"
+    },
+    "https://www.linkedin.com/jobs/view/4425028165/": {
+      "score": 0,
+      "verdict": "error",
+      "role_family": "other",
+      "seniority_fit": "",
+      "why": "model call or parse failed",
+      "flags": [],
+      "outreach_opener": "",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 13:01 UTC"
+    },
+    "https://www.linkedin.com/jobs/view/4153874887/": {
+      "score": 0,
+      "verdict": "error",
+      "role_family": "other",
+      "seniority_fit": "",
+      "why": "model call or parse failed",
+      "flags": [],
+      "outreach_opener": "",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 13:01 UTC"
+    },
+    "https://www.linkedin.com/jobs/view/4397413687/": {
+      "score": 0,
+      "verdict": "error",
+      "role_family": "other",
+      "seniority_fit": "",
+      "why": "model call or parse failed",
+      "flags": [],
+      "outreach_opener": "",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 13:01 UTC"
+    },
+    "https://www.linkedin.com/jobs/view/4328771307/": {
+      "score": 0,
+      "verdict": "error",
+      "role_family": "other",
+      "seniority_fit": "",
+      "why": "model call or parse failed",
+      "flags": [],
+      "outreach_opener": "",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 13:01 UTC"
+    },
+    "https://www.indeed.com/viewjob?jk=bf399f6d56f73158": {
+      "score": 0,
+      "verdict": "error",
+      "role_family": "other",
+      "seniority_fit": "",
+      "why": "model call or parse failed",
+      "flags": [],
+      "outreach_opener": "",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 13:01 UTC"
+    },
+    "https://www.linkedin.com/jobs/view/4413200393/": {
+      "score": 0,
+      "verdict": "error",
+      "role_family": "other",
+      "seniority_fit": "",
+      "why": "model call or parse failed",
+      "flags": [],
+      "outreach_opener": "",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 13:01 UTC"
+    },
+    "https://www.linkedin.com/jobs/view/4421182042/": {
+      "score": 0,
+      "verdict": "error",
+      "role_family": "other",
+      "seniority_fit": "",
+      "why": "model call or parse failed",
+      "flags": [],
+      "outreach_opener": "",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 13:01 UTC"
+    },
+    "https://www.linkedin.com/jobs/view/4412959298/": {
+      "score": 0,
+      "verdict": "error",
+      "role_family": "other",
+      "seniority_fit": "",
+      "why": "model call or parse failed",
+      "flags": [],
+      "outreach_opener": "",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 13:01 UTC"
+    },
+    "https://www.linkedin.com/jobs/view/4424761644/": {
+      "score": 0,
+      "verdict": "error",
+      "role_family": "other",
+      "seniority_fit": "",
+      "why": "model call or parse failed",
+      "flags": [],
+      "outreach_opener": "",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 13:01 UTC"
+    },
+    "https://www.linkedin.com/jobs/view/4411556973/": {
+      "score": 0,
+      "verdict": "error",
+      "role_family": "other",
+      "seniority_fit": "",
+      "why": "model call or parse failed",
+      "flags": [],
+      "outreach_opener": "",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 13:01 UTC"
+    },
+    "https://www.linkedin.com/jobs/view/4415383073/": {
+      "score": 0,
+      "verdict": "error",
+      "role_family": "other",
+      "seniority_fit": "",
+      "why": "model call or parse failed",
+      "flags": [],
+      "outreach_opener": "",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 13:01 UTC"
+    },
+    "https://www.linkedin.com/jobs/view/4405818358/": {
+      "score": 0,
+      "verdict": "error",
+      "role_family": "other",
+      "seniority_fit": "",
+      "why": "model call or parse failed",
+      "flags": [],
+      "outreach_opener": "",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 13:01 UTC"
+    },
+    "https://www.linkedin.com/jobs/view/4424762377/": {
+      "score": 0,
+      "verdict": "error",
+      "role_family": "other",
+      "seniority_fit": "",
+      "why": "model call or parse failed",
+      "flags": [],
+      "outreach_opener": "",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 13:01 UTC"
+    },
+    "https://www.linkedin.com/jobs/view/4397161913/": {
+      "score": 0,
+      "verdict": "error",
+      "role_family": "other",
+      "seniority_fit": "",
+      "why": "model call or parse failed",
+      "flags": [],
+      "outreach_opener": "",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 13:01 UTC"
+    },
+    "https://www.linkedin.com/jobs/view/4402047132/": {
+      "score": 0,
+      "verdict": "error",
+      "role_family": "other",
+      "seniority_fit": "",
+      "why": "model call or parse failed",
+      "flags": [],
+      "outreach_opener": "",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 13:01 UTC"
+    },
+    "https://www.linkedin.com/jobs/view/4393489834/": {
+      "score": 0,
+      "verdict": "error",
+      "role_family": "other",
+      "seniority_fit": "",
+      "why": "model call or parse failed",
+      "flags": [],
+      "outreach_opener": "",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 13:01 UTC"
+    },
+    "https://www.linkedin.com/jobs/view/4424608165/": {
+      "score": 0,
+      "verdict": "error",
+      "role_family": "other",
+      "seniority_fit": "",
+      "why": "model call or parse failed",
+      "flags": [],
+      "outreach_opener": "",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 13:01 UTC"
+    },
+    "https://www.linkedin.com/jobs/view/4401172555/": {
+      "score": 0,
+      "verdict": "error",
+      "role_family": "other",
+      "seniority_fit": "",
+      "why": "model call or parse failed",
+      "flags": [],
+      "outreach_opener": "",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 13:01 UTC"
+    },
+    "https://www.linkedin.com/jobs/view/4343522721/": {
+      "score": 0,
+      "verdict": "error",
+      "role_family": "other",
+      "seniority_fit": "",
+      "why": "model call or parse failed",
+      "flags": [],
+      "outreach_opener": "",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 13:01 UTC"
+    },
+    "https://www.linkedin.com/jobs/view/4424781335/": {
+      "score": 0,
+      "verdict": "error",
+      "role_family": "other",
+      "seniority_fit": "",
+      "why": "model call or parse failed",
+      "flags": [],
+      "outreach_opener": "",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 13:01 UTC"
+    },
+    "https://www.linkedin.com/jobs/view/4406719191/": {
+      "score": 0,
+      "verdict": "error",
+      "role_family": "other",
+      "seniority_fit": "",
+      "why": "model call or parse failed",
+      "flags": [],
+      "outreach_opener": "",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 13:01 UTC"
+    },
+    "https://www.linkedin.com/jobs/view/4424766528/": {
+      "score": 0,
+      "verdict": "error",
+      "role_family": "other",
+      "seniority_fit": "",
+      "why": "model call or parse failed",
+      "flags": [],
+      "outreach_opener": "",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 13:01 UTC"
+    },
+    "https://www.linkedin.com/jobs/view/4424611199/": {
+      "score": 0,
+      "verdict": "error",
+      "role_family": "other",
+      "seniority_fit": "",
+      "why": "model call or parse failed",
+      "flags": [],
+      "outreach_opener": "",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 13:01 UTC"
+    },
+    "https://www.linkedin.com/jobs/view/4393975919/": {
+      "score": 0,
+      "verdict": "error",
+      "role_family": "other",
+      "seniority_fit": "",
+      "why": "model call or parse failed",
+      "flags": [],
+      "outreach_opener": "",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 13:01 UTC"
+    },
+    "https://www.linkedin.com/jobs/view/4383792547/": {
+      "score": 0,
+      "verdict": "error",
+      "role_family": "other",
+      "seniority_fit": "",
+      "why": "model call or parse failed",
+      "flags": [],
+      "outreach_opener": "",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 13:01 UTC"
+    },
+    "https://www.linkedin.com/jobs/view/4404474827/": {
+      "score": 0,
+      "verdict": "error",
+      "role_family": "other",
+      "seniority_fit": "",
+      "why": "model call or parse failed",
+      "flags": [],
+      "outreach_opener": "",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 13:01 UTC"
+    },
+    "https://www.linkedin.com/jobs/view/4403250754/": {
+      "score": 0,
+      "verdict": "error",
+      "role_family": "other",
+      "seniority_fit": "",
+      "why": "model call or parse failed",
+      "flags": [],
+      "outreach_opener": "",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 13:01 UTC"
+    },
+    "https://www.linkedin.com/jobs/view/4420142894/": {
+      "score": 0,
+      "verdict": "error",
+      "role_family": "other",
+      "seniority_fit": "",
+      "why": "model call or parse failed",
+      "flags": [],
+      "outreach_opener": "",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 13:01 UTC"
+    },
+    "https://www.linkedin.com/jobs/view/4393089927/": {
+      "score": 0,
+      "verdict": "error",
+      "role_family": "other",
+      "seniority_fit": "",
+      "why": "model call or parse failed",
+      "flags": [],
+      "outreach_opener": "",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 13:01 UTC"
+    },
+    "https://www.linkedin.com/jobs/view/4179984618/": {
+      "score": 0,
+      "verdict": "error",
+      "role_family": "other",
+      "seniority_fit": "",
+      "why": "model call or parse failed",
+      "flags": [],
+      "outreach_opener": "",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 13:01 UTC"
+    },
+    "https://www.linkedin.com/jobs/view/4424276258/": {
+      "score": 0,
+      "verdict": "error",
+      "role_family": "other",
+      "seniority_fit": "",
+      "why": "model call or parse failed",
+      "flags": [],
+      "outreach_opener": "",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 13:01 UTC"
+    },
+    "https://www.linkedin.com/jobs/view/4424770247/": {
+      "score": 0,
+      "verdict": "error",
+      "role_family": "other",
+      "seniority_fit": "",
+      "why": "model call or parse failed",
+      "flags": [],
+      "outreach_opener": "",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 13:01 UTC"
+    },
+    "https://www.linkedin.com/jobs/view/4405042731/": {
+      "score": 0,
+      "verdict": "error",
+      "role_family": "other",
+      "seniority_fit": "",
+      "why": "model call or parse failed",
+      "flags": [],
+      "outreach_opener": "",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 13:01 UTC"
+    },
+    "https://www.linkedin.com/jobs/view/4405046532/": {
+      "score": 0,
+      "verdict": "error",
+      "role_family": "other",
+      "seniority_fit": "",
+      "why": "model call or parse failed",
+      "flags": [],
+      "outreach_opener": "",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 13:01 UTC"
+    },
+    "https://www.linkedin.com/jobs/view/4424775497/": {
+      "score": 0,
+      "verdict": "error",
+      "role_family": "other",
+      "seniority_fit": "",
+      "why": "model call or parse failed",
+      "flags": [],
+      "outreach_opener": "",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 13:01 UTC"
+    },
+    "https://www.linkedin.com/jobs/view/4424598141/": {
+      "score": 0,
+      "verdict": "error",
+      "role_family": "other",
+      "seniority_fit": "",
+      "why": "model call or parse failed",
+      "flags": [],
+      "outreach_opener": "",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 13:01 UTC"
+    },
+    "https://www.linkedin.com/jobs/view/4424759183/": {
+      "score": 0,
+      "verdict": "error",
+      "role_family": "other",
+      "seniority_fit": "",
+      "why": "model call or parse failed",
+      "flags": [],
+      "outreach_opener": "",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 13:01 UTC"
+    },
+    "https://www.linkedin.com/jobs/view/4424605274/": {
+      "score": 0,
+      "verdict": "error",
+      "role_family": "other",
+      "seniority_fit": "",
+      "why": "model call or parse failed",
+      "flags": [],
+      "outreach_opener": "",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 13:01 UTC"
+    },
+    "https://www.linkedin.com/jobs/view/4424776515/": {
+      "score": 0,
+      "verdict": "error",
+      "role_family": "other",
+      "seniority_fit": "",
+      "why": "model call or parse failed",
+      "flags": [],
+      "outreach_opener": "",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 13:01 UTC"
+    },
+    "https://www.linkedin.com/jobs/view/4424604030/": {
+      "score": 0,
+      "verdict": "error",
+      "role_family": "other",
+      "seniority_fit": "",
+      "why": "model call or parse failed",
+      "flags": [],
+      "outreach_opener": "",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 13:01 UTC"
+    },
+    "https://www.linkedin.com/jobs/view/4424611080/": {
+      "score": 0,
+      "verdict": "error",
+      "role_family": "other",
+      "seniority_fit": "",
+      "why": "model call or parse failed",
+      "flags": [],
+      "outreach_opener": "",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 13:01 UTC"
+    },
+    "https://www.linkedin.com/jobs/view/4415923074/": {
+      "score": 0,
+      "verdict": "error",
+      "role_family": "other",
+      "seniority_fit": "",
+      "why": "model call or parse failed",
+      "flags": [],
+      "outreach_opener": "",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 13:01 UTC"
+    },
+    "https://www.linkedin.com/jobs/view/4371994599/": {
+      "score": 0,
+      "verdict": "error",
+      "role_family": "other",
+      "seniority_fit": "",
+      "why": "model call or parse failed",
+      "flags": [],
+      "outreach_opener": "",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 13:01 UTC"
+    },
+    "https://www.linkedin.com/jobs/view/4424766294/": {
+      "score": 0,
+      "verdict": "error",
+      "role_family": "other",
+      "seniority_fit": "",
+      "why": "model call or parse failed",
+      "flags": [],
+      "outreach_opener": "",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 13:01 UTC"
+    },
+    "https://www.linkedin.com/jobs/view/4424758867/": {
+      "score": 0,
+      "verdict": "error",
+      "role_family": "other",
+      "seniority_fit": "",
+      "why": "model call or parse failed",
+      "flags": [],
+      "outreach_opener": "",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 13:01 UTC"
+    },
+    "https://www.linkedin.com/jobs/view/4424758719/": {
+      "score": 0,
+      "verdict": "error",
+      "role_family": "other",
+      "seniority_fit": "",
+      "why": "model call or parse failed",
+      "flags": [],
+      "outreach_opener": "",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 13:01 UTC"
+    },
+    "https://www.linkedin.com/jobs/view/4424766270/": {
+      "score": 0,
+      "verdict": "error",
+      "role_family": "other",
+      "seniority_fit": "",
+      "why": "model call or parse failed",
+      "flags": [],
+      "outreach_opener": "",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 13:01 UTC"
+    },
+    "https://www.linkedin.com/jobs/view/4382304284/": {
+      "score": 0,
+      "verdict": "error",
+      "role_family": "other",
+      "seniority_fit": "",
+      "why": "model call or parse failed",
+      "flags": [],
+      "outreach_opener": "",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 13:01 UTC"
+    },
+    "https://www.linkedin.com/jobs/view/4424776130/": {
+      "score": 0,
+      "verdict": "error",
+      "role_family": "other",
+      "seniority_fit": "",
+      "why": "model call or parse failed",
+      "flags": [],
+      "outreach_opener": "",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 13:01 UTC"
+    },
+    "https://www.linkedin.com/jobs/view/4424768324/": {
+      "score": 0,
+      "verdict": "error",
+      "role_family": "other",
+      "seniority_fit": "",
+      "why": "model call or parse failed",
+      "flags": [],
+      "outreach_opener": "",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 13:01 UTC"
+    },
+    "https://www.linkedin.com/jobs/view/4406275051/": {
+      "score": 0,
+      "verdict": "error",
+      "role_family": "other",
+      "seniority_fit": "",
+      "why": "model call or parse failed",
+      "flags": [],
+      "outreach_opener": "",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 13:01 UTC"
+    },
+    "https://www.linkedin.com/jobs/view/4424759522/": {
+      "score": 0,
+      "verdict": "error",
+      "role_family": "other",
+      "seniority_fit": "",
+      "why": "model call or parse failed",
+      "flags": [],
+      "outreach_opener": "",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 13:01 UTC"
+    },
+    "https://www.linkedin.com/jobs/view/4414998016/": {
+      "score": 0,
+      "verdict": "error",
+      "role_family": "other",
+      "seniority_fit": "",
+      "why": "model call or parse failed",
+      "flags": [],
+      "outreach_opener": "",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 13:01 UTC"
+    },
+    "https://www.linkedin.com/jobs/view/4382735218/": {
+      "score": 0,
+      "verdict": "error",
+      "role_family": "other",
+      "seniority_fit": "",
+      "why": "model call or parse failed",
+      "flags": [],
+      "outreach_opener": "",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 13:01 UTC"
+    },
+    "https://www.linkedin.com/jobs/view/4414781388/": {
+      "score": 0,
+      "verdict": "error",
+      "role_family": "other",
+      "seniority_fit": "",
+      "why": "model call or parse failed",
+      "flags": [],
+      "outreach_opener": "",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 13:01 UTC"
+    },
+    "https://www.linkedin.com/jobs/view/4424773300/": {
+      "score": 0,
+      "verdict": "error",
+      "role_family": "other",
+      "seniority_fit": "",
+      "why": "model call or parse failed",
+      "flags": [],
+      "outreach_opener": "",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 13:01 UTC"
+    },
+    "https://www.linkedin.com/jobs/view/4403291978/": {
+      "score": 0,
+      "verdict": "error",
+      "role_family": "other",
+      "seniority_fit": "",
+      "why": "model call or parse failed",
+      "flags": [],
+      "outreach_opener": "",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 13:01 UTC"
+    },
+    "https://www.linkedin.com/jobs/view/4424598262/": {
+      "score": 0,
+      "verdict": "error",
+      "role_family": "other",
+      "seniority_fit": "",
+      "why": "model call or parse failed",
+      "flags": [],
+      "outreach_opener": "",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 13:01 UTC"
+    },
+    "https://www.linkedin.com/jobs/view/4424760353/": {
+      "score": 0,
+      "verdict": "error",
+      "role_family": "other",
+      "seniority_fit": "",
+      "why": "model call or parse failed",
+      "flags": [],
+      "outreach_opener": "",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 13:01 UTC"
+    },
+    "https://www.linkedin.com/jobs/view/4421158891/": {
+      "score": 0,
+      "verdict": "error",
+      "role_family": "other",
+      "seniority_fit": "",
+      "why": "model call or parse failed",
+      "flags": [],
+      "outreach_opener": "",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 13:01 UTC"
+    },
+    "https://www.linkedin.com/jobs/view/4424607067/": {
+      "score": 0,
+      "verdict": "error",
+      "role_family": "other",
+      "seniority_fit": "",
+      "why": "model call or parse failed",
+      "flags": [],
+      "outreach_opener": "",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 13:01 UTC"
+    },
+    "https://www.linkedin.com/jobs/view/4399651273/": {
+      "score": 0,
+      "verdict": "error",
+      "role_family": "other",
+      "seniority_fit": "",
+      "why": "model call or parse failed",
+      "flags": [],
+      "outreach_opener": "",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 13:01 UTC"
+    },
+    "https://www.indeed.com/viewjob?jk=a898adbe63f7ed65": {
+      "score": 0,
+      "verdict": "error",
+      "role_family": "other",
+      "seniority_fit": "",
+      "why": "model call or parse failed",
+      "flags": [],
+      "outreach_opener": "",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 13:01 UTC"
+    },
+    "https://www.indeed.com/viewjob?jk=551eadc569b6fc2a": {
+      "score": 0,
+      "verdict": "error",
+      "role_family": "other",
+      "seniority_fit": "",
+      "why": "model call or parse failed",
+      "flags": [],
+      "outreach_opener": "",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 13:01 UTC"
+    },
+    "https://www.indeed.com/viewjob?jk=f972019cd6c573be": {
+      "score": 0,
+      "verdict": "error",
+      "role_family": "other",
+      "seniority_fit": "",
+      "why": "model call or parse failed",
+      "flags": [],
+      "outreach_opener": "",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 13:01 UTC"
+    },
+    "https://www.indeed.com/viewjob?jk=9d496a49f34ba093": {
+      "score": 0,
+      "verdict": "error",
+      "role_family": "other",
+      "seniority_fit": "",
+      "why": "model call or parse failed",
+      "flags": [],
+      "outreach_opener": "",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 13:01 UTC"
+    },
+    "https://www.indeed.com/viewjob?jk=2c4b9302be9b9f58": {
+      "score": 0,
+      "verdict": "error",
+      "role_family": "other",
+      "seniority_fit": "",
+      "why": "model call or parse failed",
+      "flags": [],
+      "outreach_opener": "",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 13:01 UTC"
+    },
+    "https://www.indeed.com/viewjob?jk=9a43518c82af73b3": {
+      "score": 0,
+      "verdict": "error",
+      "role_family": "other",
+      "seniority_fit": "",
+      "why": "model call or parse failed",
+      "flags": [],
+      "outreach_opener": "",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 13:01 UTC"
+    },
+    "https://www.indeed.com/viewjob?jk=f338e5c15ef6287d": {
+      "score": 0,
+      "verdict": "error",
+      "role_family": "other",
+      "seniority_fit": "",
+      "why": "model call or parse failed",
+      "flags": [],
+      "outreach_opener": "",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 13:01 UTC"
+    },
+    "https://www.indeed.com/viewjob?jk=2345cb9c29881aa8": {
+      "score": 0,
+      "verdict": "error",
+      "role_family": "other",
+      "seniority_fit": "",
+      "why": "model call or parse failed",
+      "flags": [],
+      "outreach_opener": "",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 13:01 UTC"
+    },
+    "https://www.indeed.com/viewjob?jk=d66497758dd0fc33": {
+      "score": 0,
+      "verdict": "error",
+      "role_family": "other",
+      "seniority_fit": "",
+      "why": "model call or parse failed",
+      "flags": [],
+      "outreach_opener": "",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 13:01 UTC"
+    },
+    "https://www.indeed.com/viewjob?jk=89b41e59d67d055f": {
+      "score": 0,
+      "verdict": "error",
+      "role_family": "other",
+      "seniority_fit": "",
+      "why": "model call or parse failed",
+      "flags": [],
+      "outreach_opener": "",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 13:01 UTC"
+    },
+    "https://www.indeed.com/viewjob?jk=207ded3dc25258bf": {
+      "score": 0,
+      "verdict": "error",
+      "role_family": "other",
+      "seniority_fit": "",
+      "why": "model call or parse failed",
+      "flags": [],
+      "outreach_opener": "",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 13:01 UTC"
+    },
+    "https://www.indeed.com/viewjob?jk=92009dc3b07862c0": {
+      "score": 0,
+      "verdict": "error",
+      "role_family": "other",
+      "seniority_fit": "",
+      "why": "model call or parse failed",
+      "flags": [],
+      "outreach_opener": "",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 13:01 UTC"
+    },
+    "https://www.indeed.com/viewjob?jk=b7acf93144c711f3": {
+      "score": 0,
+      "verdict": "error",
+      "role_family": "other",
+      "seniority_fit": "",
+      "why": "model call or parse failed",
+      "flags": [],
+      "outreach_opener": "",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 13:01 UTC"
+    },
+    "https://www.indeed.com/viewjob?jk=76df51a017630e5f": {
+      "score": 0,
+      "verdict": "error",
+      "role_family": "other",
+      "seniority_fit": "",
+      "why": "model call or parse failed",
+      "flags": [],
+      "outreach_opener": "",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 13:01 UTC"
+    },
+    "https://www.indeed.com/viewjob?jk=4e47546e4e7df59e": {
+      "score": 0,
+      "verdict": "error",
+      "role_family": "other",
+      "seniority_fit": "",
+      "why": "model call or parse failed",
+      "flags": [],
+      "outreach_opener": "",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 13:01 UTC"
+    },
+    "https://www.indeed.com/viewjob?jk=914c8fe0e0d57b86": {
+      "score": 0,
+      "verdict": "error",
+      "role_family": "other",
+      "seniority_fit": "",
+      "why": "model call or parse failed",
+      "flags": [],
+      "outreach_opener": "",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 13:01 UTC"
+    },
+    "https://www.indeed.com/viewjob?jk=c53902ccbe80d7f3": {
+      "score": 0,
+      "verdict": "error",
+      "role_family": "other",
+      "seniority_fit": "",
+      "why": "model call or parse failed",
+      "flags": [],
+      "outreach_opener": "",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 13:01 UTC"
+    },
+    "https://www.indeed.com/viewjob?jk=e7a65059e76b5730": {
+      "score": 0,
+      "verdict": "error",
+      "role_family": "other",
+      "seniority_fit": "",
+      "why": "model call or parse failed",
+      "flags": [],
+      "outreach_opener": "",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 13:01 UTC"
+    },
+    "https://www.indeed.com/viewjob?jk=2027c4d3d35271ad": {
+      "score": 0,
+      "verdict": "error",
+      "role_family": "other",
+      "seniority_fit": "",
+      "why": "model call or parse failed",
+      "flags": [],
+      "outreach_opener": "",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 13:01 UTC"
+    },
+    "https://www.indeed.com/viewjob?jk=0d5e238872d2005d": {
+      "score": 0,
+      "verdict": "error",
+      "role_family": "other",
+      "seniority_fit": "",
+      "why": "model call or parse failed",
+      "flags": [],
+      "outreach_opener": "",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 13:01 UTC"
+    },
+    "https://www.indeed.com/viewjob?jk=fd12fa224d321f7c": {
+      "score": 0,
+      "verdict": "error",
+      "role_family": "other",
+      "seniority_fit": "",
+      "why": "model call or parse failed",
+      "flags": [],
+      "outreach_opener": "",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 13:01 UTC"
+    },
+    "https://www.indeed.com/viewjob?jk=a28c103be7c622f0": {
+      "score": 0,
+      "verdict": "error",
+      "role_family": "other",
+      "seniority_fit": "",
+      "why": "model call or parse failed",
+      "flags": [],
+      "outreach_opener": "",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 13:01 UTC"
+    },
+    "https://www.indeed.com/viewjob?jk=843b3af535c80227": {
+      "score": 0,
+      "verdict": "error",
+      "role_family": "other",
+      "seniority_fit": "",
+      "why": "model call or parse failed",
+      "flags": [],
+      "outreach_opener": "",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 13:01 UTC"
+    },
+    "https://www.indeed.com/viewjob?jk=01d5b8c63649bcaa": {
+      "score": 0,
+      "verdict": "error",
+      "role_family": "other",
+      "seniority_fit": "",
+      "why": "model call or parse failed",
+      "flags": [],
+      "outreach_opener": "",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 13:01 UTC"
+    },
+    "https://www.indeed.com/viewjob?jk=fc3de8561232ad3b": {
+      "score": 0,
+      "verdict": "error",
+      "role_family": "other",
+      "seniority_fit": "",
+      "why": "model call or parse failed",
+      "flags": [],
+      "outreach_opener": "",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 13:01 UTC"
+    },
+    "https://www.indeed.com/viewjob?jk=d5cc02bc86767f01": {
+      "score": 0,
+      "verdict": "error",
+      "role_family": "other",
+      "seniority_fit": "",
+      "why": "model call or parse failed",
+      "flags": [],
+      "outreach_opener": "",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 13:01 UTC"
+    },
+    "https://www.indeed.com/viewjob?jk=4d6d26a4fcc3b61d": {
+      "score": 0,
+      "verdict": "error",
+      "role_family": "other",
+      "seniority_fit": "",
+      "why": "model call or parse failed",
+      "flags": [],
+      "outreach_opener": "",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 13:01 UTC"
+    },
+    "https://www.indeed.com/viewjob?jk=99b20cdf8082bf9b": {
+      "score": 0,
+      "verdict": "error",
+      "role_family": "other",
+      "seniority_fit": "",
+      "why": "model call or parse failed",
+      "flags": [],
+      "outreach_opener": "",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 13:01 UTC"
+    },
+    "https://www.indeed.com/viewjob?jk=8a9904865575bc61": {
+      "score": 0,
+      "verdict": "error",
+      "role_family": "other",
+      "seniority_fit": "",
+      "why": "model call or parse failed",
+      "flags": [],
+      "outreach_opener": "",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 13:01 UTC"
+    },
+    "https://www.indeed.com/viewjob?jk=bfe5464d1dbcad76": {
+      "score": 0,
+      "verdict": "error",
+      "role_family": "other",
+      "seniority_fit": "",
+      "why": "model call or parse failed",
+      "flags": [],
+      "outreach_opener": "",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 13:01 UTC"
+    },
+    "https://www.indeed.com/viewjob?jk=92bf486cc119b41b": {
+      "score": 0,
+      "verdict": "error",
+      "role_family": "other",
+      "seniority_fit": "",
+      "why": "model call or parse failed",
+      "flags": [],
+      "outreach_opener": "",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 13:01 UTC"
+    },
+    "https://www.indeed.com/viewjob?jk=5c0855b326f9d443": {
+      "score": 0,
+      "verdict": "error",
+      "role_family": "other",
+      "seniority_fit": "",
+      "why": "model call or parse failed",
+      "flags": [],
+      "outreach_opener": "",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 13:01 UTC"
+    },
+    "https://www.indeed.com/viewjob?jk=eb26b64bd8217f5b": {
+      "score": 0,
+      "verdict": "error",
+      "role_family": "other",
+      "seniority_fit": "",
+      "why": "model call or parse failed",
+      "flags": [],
+      "outreach_opener": "",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 13:01 UTC"
+    },
+    "https://www.indeed.com/viewjob?jk=18276205444fe3ef": {
+      "score": 0,
+      "verdict": "error",
+      "role_family": "other",
+      "seniority_fit": "",
+      "why": "model call or parse failed",
+      "flags": [],
+      "outreach_opener": "",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 13:01 UTC"
+    },
+    "https://www.indeed.com/viewjob?jk=80642e609c913cad": {
+      "score": 0,
+      "verdict": "error",
+      "role_family": "other",
+      "seniority_fit": "",
+      "why": "model call or parse failed",
+      "flags": [],
+      "outreach_opener": "",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 13:01 UTC"
+    },
+    "https://www.indeed.com/viewjob?jk=a9938984660ce38b": {
+      "score": 0,
+      "verdict": "error",
+      "role_family": "other",
+      "seniority_fit": "",
+      "why": "model call or parse failed",
+      "flags": [],
+      "outreach_opener": "",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 13:01 UTC"
+    },
+    "https://www.indeed.com/viewjob?jk=dd9abefab95391bb": {
+      "score": 0,
+      "verdict": "error",
+      "role_family": "other",
+      "seniority_fit": "",
+      "why": "model call or parse failed",
+      "flags": [],
+      "outreach_opener": "",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 13:01 UTC"
+    },
+    "https://www.indeed.com/viewjob?jk=b369358c15ee156e": {
+      "score": 0,
+      "verdict": "error",
+      "role_family": "other",
+      "seniority_fit": "",
+      "why": "model call or parse failed",
+      "flags": [],
+      "outreach_opener": "",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 13:01 UTC"
+    },
+    "https://www.linkedin.com/jobs/view/4195259082/": {
+      "score": 0,
+      "verdict": "error",
+      "role_family": "other",
+      "seniority_fit": "",
+      "why": "model call or parse failed",
+      "flags": [],
+      "outreach_opener": "",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 13:01 UTC"
+    },
+    "https://www.linkedin.com/jobs/view/4424759042/": {
+      "score": 0,
+      "verdict": "error",
+      "role_family": "other",
+      "seniority_fit": "",
+      "why": "model call or parse failed",
+      "flags": [],
+      "outreach_opener": "",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 13:01 UTC"
+    },
+    "https://www.linkedin.com/jobs/view/4406142194/": {
+      "score": 0,
+      "verdict": "error",
+      "role_family": "other",
+      "seniority_fit": "",
+      "why": "model call or parse failed",
+      "flags": [],
+      "outreach_opener": "",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 13:01 UTC"
+    },
+    "https://www.linkedin.com/jobs/view/4195260019/": {
+      "score": 0,
+      "verdict": "error",
+      "role_family": "other",
+      "seniority_fit": "",
+      "why": "model call or parse failed",
+      "flags": [],
+      "outreach_opener": "",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 13:01 UTC"
+    },
+    "https://www.linkedin.com/jobs/view/4388139561/": {
+      "score": 0,
+      "verdict": "error",
+      "role_family": "other",
+      "seniority_fit": "",
+      "why": "model call or parse failed",
+      "flags": [],
+      "outreach_opener": "",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 13:01 UTC"
+    },
+    "https://www.linkedin.com/jobs/view/4382483610/": {
+      "score": 0,
+      "verdict": "error",
+      "role_family": "other",
+      "seniority_fit": "",
+      "why": "model call or parse failed",
+      "flags": [],
+      "outreach_opener": "",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 13:01 UTC"
+    },
+    "https://www.linkedin.com/jobs/view/4423024453/": {
+      "score": 0,
+      "verdict": "error",
+      "role_family": "other",
+      "seniority_fit": "",
+      "why": "model call or parse failed",
+      "flags": [],
+      "outreach_opener": "",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 13:01 UTC"
+    },
+    "https://www.linkedin.com/jobs/view/4424772137/": {
+      "score": 0,
+      "verdict": "error",
+      "role_family": "other",
+      "seniority_fit": "",
+      "why": "model call or parse failed",
+      "flags": [],
+      "outreach_opener": "",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 13:01 UTC"
+    },
+    "https://www.linkedin.com/jobs/view/4383831666/": {
+      "score": 0,
+      "verdict": "error",
+      "role_family": "other",
+      "seniority_fit": "",
+      "why": "model call or parse failed",
+      "flags": [],
+      "outreach_opener": "",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 13:01 UTC"
+    },
+    "https://www.linkedin.com/jobs/view/4396839885/": {
+      "score": 0,
+      "verdict": "error",
+      "role_family": "other",
+      "seniority_fit": "",
+      "why": "model call or parse failed",
+      "flags": [],
+      "outreach_opener": "",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 13:01 UTC"
+    },
+    "https://www.linkedin.com/jobs/view/4411533530/": {
+      "score": 0,
+      "verdict": "error",
+      "role_family": "other",
+      "seniority_fit": "",
+      "why": "model call or parse failed",
+      "flags": [],
+      "outreach_opener": "",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 13:01 UTC"
+    },
+    "https://www.linkedin.com/jobs/view/4384549082/": {
+      "score": 0,
+      "verdict": "error",
+      "role_family": "other",
+      "seniority_fit": "",
+      "why": "model call or parse failed",
+      "flags": [],
+      "outreach_opener": "",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 13:01 UTC"
+    },
+    "https://www.linkedin.com/jobs/view/3955096301/": {
+      "score": 0,
+      "verdict": "error",
+      "role_family": "other",
+      "seniority_fit": "",
+      "why": "model call or parse failed",
+      "flags": [],
+      "outreach_opener": "",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 13:01 UTC"
+    },
+    "https://www.linkedin.com/jobs/view/4421160747/": {
+      "score": 0,
+      "verdict": "error",
+      "role_family": "other",
+      "seniority_fit": "",
+      "why": "model call or parse failed",
+      "flags": [],
+      "outreach_opener": "",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 13:01 UTC"
+    },
+    "https://www.linkedin.com/jobs/view/4382730839/": {
+      "score": 0,
+      "verdict": "error",
+      "role_family": "other",
+      "seniority_fit": "",
+      "why": "model call or parse failed",
+      "flags": [],
+      "outreach_opener": "",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 13:01 UTC"
+    },
+    "https://www.linkedin.com/jobs/view/4356093473/": {
+      "score": 0,
+      "verdict": "error",
+      "role_family": "other",
+      "seniority_fit": "",
+      "why": "model call or parse failed",
+      "flags": [],
+      "outreach_opener": "",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 13:01 UTC"
+    },
+    "https://www.linkedin.com/jobs/view/4384382908/": {
+      "score": 0,
+      "verdict": "error",
+      "role_family": "other",
+      "seniority_fit": "",
+      "why": "model call or parse failed",
+      "flags": [],
+      "outreach_opener": "",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 13:02 UTC"
+    },
+    "https://www.linkedin.com/jobs/view/4394901884/": {
+      "score": 0,
+      "verdict": "error",
+      "role_family": "other",
+      "seniority_fit": "",
+      "why": "model call or parse failed",
+      "flags": [],
+      "outreach_opener": "",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 13:02 UTC"
+    },
+    "https://www.linkedin.com/jobs/view/4421157645/": {
+      "score": 0,
+      "verdict": "error",
+      "role_family": "other",
+      "seniority_fit": "",
+      "why": "model call or parse failed",
+      "flags": [],
+      "outreach_opener": "",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 13:02 UTC"
+    },
+    "https://www.linkedin.com/jobs/view/4424587684/": {
+      "score": 0,
+      "verdict": "error",
+      "role_family": "other",
+      "seniority_fit": "",
+      "why": "model call or parse failed",
+      "flags": [],
+      "outreach_opener": "",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 13:02 UTC"
+    },
+    "https://www.linkedin.com/jobs/view/4421173340/": {
+      "score": 0,
+      "verdict": "error",
+      "role_family": "other",
+      "seniority_fit": "",
+      "why": "model call or parse failed",
+      "flags": [],
+      "outreach_opener": "",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 13:02 UTC"
+    },
+    "https://www.linkedin.com/jobs/view/4424741976/": {
+      "score": 0,
+      "verdict": "error",
+      "role_family": "other",
+      "seniority_fit": "",
+      "why": "model call or parse failed",
+      "flags": [],
+      "outreach_opener": "",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 13:02 UTC"
+    },
+    "https://www.linkedin.com/jobs/view/4424579936/": {
+      "score": 0,
+      "verdict": "error",
+      "role_family": "other",
+      "seniority_fit": "",
+      "why": "model call or parse failed",
+      "flags": [],
+      "outreach_opener": "",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 13:02 UTC"
+    },
+    "https://www.linkedin.com/jobs/view/4356165197/": {
+      "score": 0,
+      "verdict": "error",
+      "role_family": "other",
+      "seniority_fit": "",
+      "why": "model call or parse failed",
+      "flags": [],
+      "outreach_opener": "",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 13:02 UTC"
+    },
+    "https://www.linkedin.com/jobs/view/4394998254/": {
+      "score": 0,
+      "verdict": "error",
+      "role_family": "other",
+      "seniority_fit": "",
+      "why": "model call or parse failed",
+      "flags": [],
+      "outreach_opener": "",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 13:02 UTC"
+    },
+    "https://www.linkedin.com/jobs/view/4384543380/": {
+      "score": 0,
+      "verdict": "error",
+      "role_family": "other",
+      "seniority_fit": "",
+      "why": "model call or parse failed",
+      "flags": [],
+      "outreach_opener": "",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 13:02 UTC"
+    },
+    "https://www.linkedin.com/jobs/view/4423095486/": {
+      "score": 0,
+      "verdict": "error",
+      "role_family": "other",
+      "seniority_fit": "",
+      "why": "model call or parse failed",
+      "flags": [],
+      "outreach_opener": "",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 13:02 UTC"
+    },
+    "https://www.linkedin.com/jobs/view/4375826441/": {
+      "score": 0,
+      "verdict": "error",
+      "role_family": "other",
+      "seniority_fit": "",
+      "why": "model call or parse failed",
+      "flags": [],
+      "outreach_opener": "",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 13:02 UTC"
+    },
+    "https://www.linkedin.com/jobs/view/4396747771/": {
+      "score": 0,
+      "verdict": "error",
+      "role_family": "other",
+      "seniority_fit": "",
+      "why": "model call or parse failed",
+      "flags": [],
+      "outreach_opener": "",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 13:02 UTC"
+    },
+    "https://www.linkedin.com/jobs/view/4230186743/": {
+      "score": 0,
+      "verdict": "error",
+      "role_family": "other",
+      "seniority_fit": "",
+      "why": "model call or parse failed",
+      "flags": [],
+      "outreach_opener": "",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 13:02 UTC"
+    },
+    "https://www.linkedin.com/jobs/view/4424584793/": {
+      "score": 0,
+      "verdict": "error",
+      "role_family": "other",
+      "seniority_fit": "",
+      "why": "model call or parse failed",
+      "flags": [],
+      "outreach_opener": "",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 13:02 UTC"
+    },
+    "https://www.linkedin.com/jobs/view/4402826805/": {
+      "score": 0,
+      "verdict": "error",
+      "role_family": "other",
+      "seniority_fit": "",
+      "why": "model call or parse failed",
+      "flags": [],
+      "outreach_opener": "",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 13:02 UTC"
+    },
+    "https://www.linkedin.com/jobs/view/4424759190/": {
+      "score": 0,
+      "verdict": "error",
+      "role_family": "other",
+      "seniority_fit": "",
+      "why": "model call or parse failed",
+      "flags": [],
+      "outreach_opener": "",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 13:02 UTC"
+    },
+    "https://www.linkedin.com/jobs/view/4424752885/": {
+      "score": 0,
+      "verdict": "error",
+      "role_family": "other",
+      "seniority_fit": "",
+      "why": "model call or parse failed",
+      "flags": [],
+      "outreach_opener": "",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 13:02 UTC"
+    },
+    "https://www.linkedin.com/jobs/view/4421153761/": {
+      "score": 0,
+      "verdict": "error",
+      "role_family": "other",
+      "seniority_fit": "",
+      "why": "model call or parse failed",
+      "flags": [],
+      "outreach_opener": "",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 13:02 UTC"
+    },
+    "https://www.linkedin.com/jobs/view/4403280728/": {
+      "score": 0,
+      "verdict": "error",
+      "role_family": "other",
+      "seniority_fit": "",
+      "why": "model call or parse failed",
+      "flags": [],
+      "outreach_opener": "",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 13:02 UTC"
+    },
+    "https://www.linkedin.com/jobs/view/4421150822/": {
+      "score": 0,
+      "verdict": "error",
+      "role_family": "other",
+      "seniority_fit": "",
+      "why": "model call or parse failed",
+      "flags": [],
+      "outreach_opener": "",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 13:02 UTC"
+    },
+    "https://www.linkedin.com/jobs/view/4403299081/": {
+      "score": 0,
+      "verdict": "error",
+      "role_family": "other",
+      "seniority_fit": "",
+      "why": "model call or parse failed",
+      "flags": [],
+      "outreach_opener": "",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 13:02 UTC"
+    },
+    "https://www.linkedin.com/jobs/view/4411530840/": {
+      "score": 0,
+      "verdict": "error",
+      "role_family": "other",
+      "seniority_fit": "",
+      "why": "model call or parse failed",
+      "flags": [],
+      "outreach_opener": "",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 13:02 UTC"
+    },
+    "https://www.linkedin.com/jobs/view/4417323325/": {
+      "score": 0,
+      "verdict": "error",
+      "role_family": "other",
+      "seniority_fit": "",
+      "why": "model call or parse failed",
+      "flags": [],
+      "outreach_opener": "",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 13:02 UTC"
+    },
+    "https://www.linkedin.com/jobs/view/4356123570/": {
+      "score": 0,
+      "verdict": "error",
+      "role_family": "other",
+      "seniority_fit": "",
+      "why": "model call or parse failed",
+      "flags": [],
+      "outreach_opener": "",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 13:02 UTC"
+    },
+    "https://www.linkedin.com/jobs/view/4414710892/": {
+      "score": 0,
+      "verdict": "error",
+      "role_family": "other",
+      "seniority_fit": "",
+      "why": "model call or parse failed",
+      "flags": [],
+      "outreach_opener": "",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 13:02 UTC"
+    },
+    "https://www.linkedin.com/jobs/view/4403282708/": {
+      "score": 0,
+      "verdict": "error",
+      "role_family": "other",
+      "seniority_fit": "",
+      "why": "model call or parse failed",
+      "flags": [],
+      "outreach_opener": "",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 13:02 UTC"
+    },
+    "https://www.linkedin.com/jobs/view/4424748758/": {
+      "score": 0,
+      "verdict": "error",
+      "role_family": "other",
+      "seniority_fit": "",
+      "why": "model call or parse failed",
+      "flags": [],
+      "outreach_opener": "",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 13:02 UTC"
+    },
+    "https://www.linkedin.com/jobs/view/4403265393/": {
+      "score": 0,
+      "verdict": "error",
+      "role_family": "other",
+      "seniority_fit": "",
+      "why": "model call or parse failed",
+      "flags": [],
+      "outreach_opener": "",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 13:02 UTC"
+    },
+    "https://www.linkedin.com/jobs/view/4405025538/": {
+      "score": 0,
+      "verdict": "error",
+      "role_family": "other",
+      "seniority_fit": "",
+      "why": "model call or parse failed",
+      "flags": [],
+      "outreach_opener": "",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 13:02 UTC"
+    },
+    "https://www.linkedin.com/jobs/view/4424585599/": {
+      "score": 0,
+      "verdict": "error",
+      "role_family": "other",
+      "seniority_fit": "",
+      "why": "model call or parse failed",
+      "flags": [],
+      "outreach_opener": "",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 13:02 UTC"
+    },
+    "https://www.linkedin.com/jobs/view/4393403583/": {
+      "score": 0,
+      "verdict": "error",
+      "role_family": "other",
+      "seniority_fit": "",
+      "why": "model call or parse failed",
+      "flags": [],
+      "outreach_opener": "",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 13:02 UTC"
+    },
+    "https://www.linkedin.com/jobs/view/4424757506/": {
+      "score": 0,
+      "verdict": "error",
+      "role_family": "other",
+      "seniority_fit": "",
+      "why": "model call or parse failed",
+      "flags": [],
+      "outreach_opener": "",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 13:02 UTC"
+    },
+    "https://www.linkedin.com/jobs/view/4382863007/": {
+      "score": 0,
+      "verdict": "error",
+      "role_family": "other",
+      "seniority_fit": "",
+      "why": "model call or parse failed",
+      "flags": [],
+      "outreach_opener": "",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 13:02 UTC"
+    },
+    "https://www.linkedin.com/jobs/view/4366405617/": {
+      "score": 0,
+      "verdict": "error",
+      "role_family": "other",
+      "seniority_fit": "",
+      "why": "model call or parse failed",
+      "flags": [],
+      "outreach_opener": "",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 13:02 UTC"
+    },
+    "https://www.linkedin.com/jobs/view/4394994433/": {
+      "score": 0,
+      "verdict": "error",
+      "role_family": "other",
+      "seniority_fit": "",
+      "why": "model call or parse failed",
+      "flags": [],
+      "outreach_opener": "",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 13:02 UTC"
+    },
+    "https://www.linkedin.com/jobs/view/4408096686/": {
+      "score": 0,
+      "verdict": "error",
+      "role_family": "other",
+      "seniority_fit": "",
+      "why": "model call or parse failed",
+      "flags": [],
+      "outreach_opener": "",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 13:02 UTC"
+    },
+    "https://www.linkedin.com/jobs/view/4373630351/": {
+      "score": 0,
+      "verdict": "error",
+      "role_family": "other",
+      "seniority_fit": "",
+      "why": "model call or parse failed",
+      "flags": [],
+      "outreach_opener": "",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 13:02 UTC"
+    },
+    "https://www.linkedin.com/jobs/view/4383846933/": {
+      "score": 0,
+      "verdict": "error",
+      "role_family": "other",
+      "seniority_fit": "",
+      "why": "model call or parse failed",
+      "flags": [],
+      "outreach_opener": "",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 13:02 UTC"
+    },
+    "https://www.linkedin.com/jobs/view/4396756609/": {
+      "score": 0,
+      "verdict": "error",
+      "role_family": "other",
+      "seniority_fit": "",
+      "why": "model call or parse failed",
+      "flags": [],
+      "outreach_opener": "",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 13:02 UTC"
+    },
+    "https://www.linkedin.com/jobs/view/4412866414/": {
+      "score": 0,
+      "verdict": "error",
+      "role_family": "other",
+      "seniority_fit": "",
+      "why": "model call or parse failed",
+      "flags": [],
+      "outreach_opener": "",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 13:02 UTC"
+    },
+    "https://www.linkedin.com/jobs/view/4414919733/": {
+      "score": 0,
+      "verdict": "error",
+      "role_family": "other",
+      "seniority_fit": "",
+      "why": "model call or parse failed",
+      "flags": [],
+      "outreach_opener": "",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 13:02 UTC"
+    },
+    "https://www.linkedin.com/jobs/view/4414764582/": {
+      "score": 0,
+      "verdict": "error",
+      "role_family": "other",
+      "seniority_fit": "",
+      "why": "model call or parse failed",
+      "flags": [],
+      "outreach_opener": "",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 13:02 UTC"
+    },
+    "https://www.linkedin.com/jobs/view/4382521736/": {
+      "score": 0,
+      "verdict": "error",
+      "role_family": "other",
+      "seniority_fit": "",
+      "why": "model call or parse failed",
+      "flags": [],
+      "outreach_opener": "",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 13:02 UTC"
+    },
+    "https://www.linkedin.com/jobs/view/4330582798/": {
+      "score": 0,
+      "verdict": "error",
+      "role_family": "other",
+      "seniority_fit": "",
+      "why": "model call or parse failed",
+      "flags": [],
+      "outreach_opener": "",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 13:02 UTC"
+    },
+    "https://www.linkedin.com/jobs/view/4421160372/": {
+      "score": 0,
+      "verdict": "error",
+      "role_family": "other",
+      "seniority_fit": "",
+      "why": "model call or parse failed",
+      "flags": [],
+      "outreach_opener": "",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 13:02 UTC"
+    },
+    "https://www.linkedin.com/jobs/view/4424589545/": {
+      "score": 0,
+      "verdict": "error",
+      "role_family": "other",
+      "seniority_fit": "",
+      "why": "model call or parse failed",
+      "flags": [],
+      "outreach_opener": "",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 13:02 UTC"
+    },
+    "https://www.linkedin.com/jobs/view/4414781691/": {
+      "score": 0,
+      "verdict": "error",
+      "role_family": "other",
+      "seniority_fit": "",
+      "why": "model call or parse failed",
+      "flags": [],
+      "outreach_opener": "",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 13:02 UTC"
+    },
+    "https://www.linkedin.com/jobs/view/4393099749/": {
+      "score": 0,
+      "verdict": "error",
+      "role_family": "other",
+      "seniority_fit": "",
+      "why": "model call or parse failed",
+      "flags": [],
+      "outreach_opener": "",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 13:02 UTC"
+    },
+    "https://www.linkedin.com/jobs/view/4424746633/": {
+      "score": 0,
+      "verdict": "error",
+      "role_family": "other",
+      "seniority_fit": "",
+      "why": "model call or parse failed",
+      "flags": [],
+      "outreach_opener": "",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 13:02 UTC"
+    },
+    "https://www.linkedin.com/jobs/view/4414729426/": {
+      "score": 0,
+      "verdict": "error",
+      "role_family": "other",
+      "seniority_fit": "",
+      "why": "model call or parse failed",
+      "flags": [],
+      "outreach_opener": "",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 13:02 UTC"
+    },
+    "https://www.linkedin.com/jobs/view/4411541486/": {
+      "score": 0,
+      "verdict": "error",
+      "role_family": "other",
+      "seniority_fit": "",
+      "why": "model call or parse failed",
+      "flags": [],
+      "outreach_opener": "",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 13:02 UTC"
+    },
+    "https://www.linkedin.com/jobs/view/4382486715/": {
+      "score": 0,
+      "verdict": "error",
+      "role_family": "other",
+      "seniority_fit": "",
+      "why": "model call or parse failed",
+      "flags": [],
+      "outreach_opener": "",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 13:02 UTC"
+    },
+    "https://www.linkedin.com/jobs/view/4405818427/": {
+      "score": 0,
+      "verdict": "error",
+      "role_family": "other",
+      "seniority_fit": "",
+      "why": "model call or parse failed",
+      "flags": [],
+      "outreach_opener": "",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 13:02 UTC"
+    },
+    "https://www.linkedin.com/jobs/view/4356192289/": {
+      "score": 0,
+      "verdict": "error",
+      "role_family": "other",
+      "seniority_fit": "",
+      "why": "model call or parse failed",
+      "flags": [],
+      "outreach_opener": "",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 13:02 UTC"
+    },
+    "https://www.linkedin.com/jobs/view/4414488789/": {
+      "score": 0,
+      "verdict": "error",
+      "role_family": "other",
+      "seniority_fit": "",
+      "why": "model call or parse failed",
+      "flags": [],
+      "outreach_opener": "",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 13:02 UTC"
+    },
+    "https://www.linkedin.com/jobs/view/4373995612/": {
+      "score": 0,
+      "verdict": "error",
+      "role_family": "other",
+      "seniority_fit": "",
+      "why": "model call or parse failed",
+      "flags": [],
+      "outreach_opener": "",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 13:02 UTC"
+    },
+    "https://www.linkedin.com/jobs/view/4397176901/": {
+      "score": 0,
+      "verdict": "error",
+      "role_family": "other",
+      "seniority_fit": "",
+      "why": "model call or parse failed",
+      "flags": [],
+      "outreach_opener": "",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 13:02 UTC"
+    },
+    "https://www.linkedin.com/jobs/view/4354509476/": {
+      "score": 0,
+      "verdict": "error",
+      "role_family": "other",
+      "seniority_fit": "",
+      "why": "model call or parse failed",
+      "flags": [],
+      "outreach_opener": "",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 13:02 UTC"
+    },
+    "https://www.linkedin.com/jobs/view/4394986610/": {
+      "score": 0,
+      "verdict": "error",
+      "role_family": "other",
+      "seniority_fit": "",
+      "why": "model call or parse failed",
+      "flags": [],
+      "outreach_opener": "",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 13:02 UTC"
+    },
+    "https://www.linkedin.com/jobs/view/4414924737/": {
+      "score": 0,
+      "verdict": "error",
+      "role_family": "other",
+      "seniority_fit": "",
+      "why": "model call or parse failed",
+      "flags": [],
+      "outreach_opener": "",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-08 13:02 UTC"
     }
   },
-  "scored_at": "2026-06-07 11:20 UTC",
+  "scored_at": "2026-06-08 13:02 UTC",
   "model": "claude-haiku-4-5-20251001"
 }
