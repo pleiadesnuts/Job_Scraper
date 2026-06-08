@@ -1,6 +1,24 @@
 {
-  "updated_at": "2026-06-08 18:13 UTC",
+  "updated_at": "2026-06-08 18:17 UTC",
   "jobs": [
+    {
+      "company": "Rainfall Health",
+      "title": "Senior Software Engineer (AWS Amplify)",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4425277531/",
+      "date_posted": "2026-06-08",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-08T18:17:29Z"
+    },
+    {
+      "company": "Jobot",
+      "title": "Senior Software Engineer",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4421985256/",
+      "date_posted": "2026-06-08",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-08T18:17:29Z"
+    },
     {
       "company": "Roblox",
       "title": "Senior Software Engineer - Safety Experience",
