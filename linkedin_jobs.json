@@ -1,55 +1,327 @@
 {
-  "scraped_at": "2026-06-08 07:15 UTC",
-  "total": 3,
-  "new_count": 3,
+  "scraped_at": "2026-06-08 15:17 UTC",
+  "total": 20,
+  "new_count": 20,
   "jobs": [
     {
-      "company": "Workday",
-      "title": "Machine Learning Engineer - Document Intelligence",
-      "location": "Pleasanton, CA",
-      "url": "https://www.linkedin.com/jobs/view/4421914977/",
+      "company": "Trust In SODA",
+      "title": "Junior Software Engineer",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4425264171/",
       "date_posted": "2026-06-08",
       "ats": "LinkedIn"
     },
     {
-      "company": "Big Wave Digital",
-      "title": "\ud83c\udf0c Staff Engineer, Agentic AI Platform - The Force Is Strong With This One",
-      "location": "Redwood City, CA",
-      "url": "https://www.linkedin.com/jobs/view/4425067904/",
-      "date_posted": "2026-06-08",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "GenPark",
-      "title": "Frontend engineer intern",
+      "company": "TetraMem - Accelerate The World",
+      "title": "Senior Machine Learning Engineer",
       "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4425078011/",
+      "url": "https://www.linkedin.com/jobs/view/4425255545/",
+      "date_posted": "2026-06-08",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "BlackRock",
+      "title": "Python/Data Engineer - SMA Solutions, Associate",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4343494230/",
+      "date_posted": "2026-06-08",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "TetraMem - Accelerate The World",
+      "title": "Mid-Level Machine Learning Engineer",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4425261547/",
+      "date_posted": "2026-06-08",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Perplexity",
+      "title": "Member of Technical Staff (Data Scientist)",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4374647539/",
+      "date_posted": "2026-06-08",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Pinterest",
+      "title": "Principal Machine Learning Engineer, Ads Delivery",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4304375637/",
+      "date_posted": "2026-06-08",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Grindr",
+      "title": "Senior Staff ML Engineer",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4304180601/",
+      "date_posted": "2026-06-08",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Jobright.ai",
+      "title": "Machine Learning Engineer, Speech LLM Training",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4425259270/",
+      "date_posted": "2026-06-08",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Faire",
+      "title": "Senior Applied AI/ML Scientist - Ads Bidding",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4367292622/",
+      "date_posted": "2026-06-08",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Amazon",
+      "title": "Applied Scientist, Amazon Ads, Demand Forecasting & Guidance",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4385362057/",
+      "date_posted": "2026-06-08",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Navan",
+      "title": "Senior Software Engineer - Developer Experience (DevEX)",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4425628248/",
+      "date_posted": "2026-06-08",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Tata Consultancy Services",
+      "title": "Full Stack Engineer",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4425260301/",
+      "date_posted": "2026-06-08",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Jobright.ai",
+      "title": "Full-Stack Engineer",
+      "location": "Redwood City, CA",
+      "url": "https://www.linkedin.com/jobs/view/4425260515/",
+      "date_posted": "2026-06-08",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Software Engineer, Cybersecurity Products",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4331528481/",
+      "date_posted": "2026-06-08",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Redolent, Inc",
+      "title": "Senior Java Backend Developer | Fulltime (W2 only)",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4420752367/",
+      "date_posted": "2026-06-08",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Roblox",
+      "title": "Senior Software Engineer, Core UI",
+      "location": "San Mateo, CA",
+      "url": "https://www.linkedin.com/jobs/view/4384291666/",
+      "date_posted": "2026-06-08",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Okta",
+      "title": "Staff Software Engineer, AI Agentic Experience (Auth0)",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4311485178/",
+      "date_posted": "2026-06-08",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "KPI Partners",
+      "title": "Cloud Engineer",
+      "location": "Fremont, CA",
+      "url": "https://www.linkedin.com/jobs/view/4421943698/",
+      "date_posted": "2026-06-08",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "KPI Partners",
+      "title": "Platform Engineer",
+      "location": "Fremont, CA",
+      "url": "https://www.linkedin.com/jobs/view/4421949638/",
+      "date_posted": "2026-06-08",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "You.com",
+      "title": "Senior Analytics Engineer",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4385336120/",
       "date_posted": "2026-06-08",
       "ats": "LinkedIn"
     }
   ],
   "new_jobs": [
     {
-      "company": "Workday",
-      "title": "Machine Learning Engineer - Document Intelligence",
-      "location": "Pleasanton, CA",
-      "url": "https://www.linkedin.com/jobs/view/4421914977/",
+      "company": "Trust In SODA",
+      "title": "Junior Software Engineer",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4425264171/",
       "date_posted": "2026-06-08",
       "ats": "LinkedIn"
     },
     {
-      "company": "Big Wave Digital",
-      "title": "\ud83c\udf0c Staff Engineer, Agentic AI Platform - The Force Is Strong With This One",
-      "location": "Redwood City, CA",
-      "url": "https://www.linkedin.com/jobs/view/4425067904/",
-      "date_posted": "2026-06-08",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "GenPark",
-      "title": "Frontend engineer intern",
+      "company": "TetraMem - Accelerate The World",
+      "title": "Senior Machine Learning Engineer",
       "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4425078011/",
+      "url": "https://www.linkedin.com/jobs/view/4425255545/",
+      "date_posted": "2026-06-08",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "BlackRock",
+      "title": "Python/Data Engineer - SMA Solutions, Associate",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4343494230/",
+      "date_posted": "2026-06-08",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "TetraMem - Accelerate The World",
+      "title": "Mid-Level Machine Learning Engineer",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4425261547/",
+      "date_posted": "2026-06-08",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Perplexity",
+      "title": "Member of Technical Staff (Data Scientist)",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4374647539/",
+      "date_posted": "2026-06-08",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Pinterest",
+      "title": "Principal Machine Learning Engineer, Ads Delivery",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4304375637/",
+      "date_posted": "2026-06-08",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Grindr",
+      "title": "Senior Staff ML Engineer",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4304180601/",
+      "date_posted": "2026-06-08",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Jobright.ai",
+      "title": "Machine Learning Engineer, Speech LLM Training",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4425259270/",
+      "date_posted": "2026-06-08",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Faire",
+      "title": "Senior Applied AI/ML Scientist - Ads Bidding",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4367292622/",
+      "date_posted": "2026-06-08",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Amazon",
+      "title": "Applied Scientist, Amazon Ads, Demand Forecasting & Guidance",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4385362057/",
+      "date_posted": "2026-06-08",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Navan",
+      "title": "Senior Software Engineer - Developer Experience (DevEX)",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4425628248/",
+      "date_posted": "2026-06-08",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Tata Consultancy Services",
+      "title": "Full Stack Engineer",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4425260301/",
+      "date_posted": "2026-06-08",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Jobright.ai",
+      "title": "Full-Stack Engineer",
+      "location": "Redwood City, CA",
+      "url": "https://www.linkedin.com/jobs/view/4425260515/",
+      "date_posted": "2026-06-08",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Software Engineer, Cybersecurity Products",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4331528481/",
+      "date_posted": "2026-06-08",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Redolent, Inc",
+      "title": "Senior Java Backend Developer | Fulltime (W2 only)",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4420752367/",
+      "date_posted": "2026-06-08",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Roblox",
+      "title": "Senior Software Engineer, Core UI",
+      "location": "San Mateo, CA",
+      "url": "https://www.linkedin.com/jobs/view/4384291666/",
+      "date_posted": "2026-06-08",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Okta",
+      "title": "Staff Software Engineer, AI Agentic Experience (Auth0)",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4311485178/",
+      "date_posted": "2026-06-08",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "KPI Partners",
+      "title": "Cloud Engineer",
+      "location": "Fremont, CA",
+      "url": "https://www.linkedin.com/jobs/view/4421943698/",
+      "date_posted": "2026-06-08",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "KPI Partners",
+      "title": "Platform Engineer",
+      "location": "Fremont, CA",
+      "url": "https://www.linkedin.com/jobs/view/4421949638/",
+      "date_posted": "2026-06-08",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "You.com",
+      "title": "Senior Analytics Engineer",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4385336120/",
       "date_posted": "2026-06-08",
       "ats": "LinkedIn"
     }
