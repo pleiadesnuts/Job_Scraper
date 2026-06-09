@@ -1,6 +1,348 @@
 {
-  "updated_at": "2026-06-09 18:17 UTC",
+  "updated_at": "2026-06-09 19:17 UTC",
   "jobs": [
+    {
+      "company": "Salesforce",
+      "title": "Applied Research Engineer",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4426501219/",
+      "date_posted": "2026-06-09",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-09T19:17:43Z"
+    },
+    {
+      "company": "Salesforce",
+      "title": "Applied Research Engineer",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4426394444/",
+      "date_posted": "2026-06-09",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-09T19:17:43Z"
+    },
+    {
+      "company": "Figure",
+      "title": "Helix AI Engineer, Perception",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4425869951/",
+      "date_posted": "2026-06-09",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-09T19:17:43Z"
+    },
+    {
+      "company": "American Express",
+      "title": "Senior AI Engineer II - Agentic AI",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4412392487/",
+      "date_posted": "2026-06-09",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-09T19:17:43Z"
+    },
+    {
+      "company": "Intuitive",
+      "title": "Sr. Machine Learning Engineer, Medical Imaging",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4426394188/",
+      "date_posted": "2026-06-09",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-09T19:17:43Z"
+    },
+    {
+      "company": "ServiceNow",
+      "title": "Senior Machine Learning Engineer, Agentic App Platform - Moveworks",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4416289611/",
+      "date_posted": "2026-06-09",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-09T19:17:43Z"
+    },
+    {
+      "company": "NVIDIA",
+      "title": "Principal Software Engineer, DGX Cloud Production Engineering",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4415739023/",
+      "date_posted": "2026-06-09",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-09T19:17:43Z"
+    },
+    {
+      "company": "ByteDance",
+      "title": "Senior Software Engineer - Network Security",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4425861781/",
+      "date_posted": "2026-06-09",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-09T19:17:43Z"
+    },
+    {
+      "company": "Agoda",
+      "title": "Staff Software Engineer - Front End AI (Bangkok based, Relocation provided)",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4363592530/",
+      "date_posted": "2026-06-09",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-09T19:17:43Z"
+    },
+    {
+      "company": "Agoda",
+      "title": "Principal Software Engineer, Back End (AI-powered Data Querying) (Bangkok based, Relocation provided)",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4403419509/",
+      "date_posted": "2026-06-09",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-09T19:17:43Z"
+    },
+    {
+      "company": "Agoda",
+      "title": "Back End Staff Software Engineer (Bangkok based, Relocation provided)",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4299767604/",
+      "date_posted": "2026-06-09",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-09T19:17:43Z"
+    },
+    {
+      "company": "Agoda",
+      "title": "Back End Staff Software Engineer (Bangkok based, Relocation provided)",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4299780156/",
+      "date_posted": "2026-06-09",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-09T19:17:43Z"
+    },
+    {
+      "company": "Agoda",
+      "title": "Staff Software Engineer (FinTech) - Back End (Bangkok based, Relocation provided)",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4299776139/",
+      "date_posted": "2026-06-09",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-09T19:17:43Z"
+    },
+    {
+      "company": "Agoda",
+      "title": "Staff Software Engineer - Full Stack (Bangkok based, Relocation provided)",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4299774304/",
+      "date_posted": "2026-06-09",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-09T19:17:43Z"
+    },
+    {
+      "company": "AVEVA",
+      "title": "Distinguished ML Data Scientist",
+      "location": "San Leandro, CA",
+      "url": "https://www.linkedin.com/jobs/view/4394489827/",
+      "date_posted": "2026-06-09",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-09T19:17:43Z"
+    },
+    {
+      "company": "Foxglove",
+      "title": "Software Engineer, New Grad",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4422766049/",
+      "date_posted": "2026-06-09",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-09T19:17:43Z"
+    },
+    {
+      "company": "Approach Venture",
+      "title": "Software Engineer - Data & Telemetry Systems",
+      "location": "Alameda, CA",
+      "url": "https://www.linkedin.com/jobs/view/4426502262/",
+      "date_posted": "2026-06-09",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-09T19:17:43Z"
+    },
+    {
+      "company": "Intuitive",
+      "title": "Sr. Machine Learning Engineer, Medical Imaging",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4426376954/",
+      "date_posted": "2026-06-09",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-09T19:17:43Z"
+    },
+    {
+      "company": "Product Pulse",
+      "title": "Applied AI Engineer",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4425879017/",
+      "date_posted": "2026-06-09",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-09T19:17:43Z"
+    },
+    {
+      "company": "Postman",
+      "title": "Senior Software Engineer - Fern",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4426507061/",
+      "date_posted": "2026-06-09",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-09T19:17:43Z"
+    },
+    {
+      "company": "Prosper Marketplace",
+      "title": "Sr. Site Reliability Engineer",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4407574816/",
+      "date_posted": "2026-06-09",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-09T19:17:43Z"
+    },
+    {
+      "company": "Capital One",
+      "title": "Senior Lead AI Engineer (Gen AI Platform Services)",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4416686059/",
+      "date_posted": "2026-06-09",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-09T19:17:43Z"
+    },
+    {
+      "company": "IXL Learning",
+      "title": "Software Engineer",
+      "location": "San Mateo, CA",
+      "url": "https://www.linkedin.com/jobs/view/4415730729/",
+      "date_posted": "2026-06-09",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-09T19:17:43Z"
+    },
+    {
+      "company": "Spotnana",
+      "title": "Software Engineer II, Backend (Spotnana Cloud)",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4426501548/",
+      "date_posted": "2026-06-09",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-09T19:17:43Z"
+    },
+    {
+      "company": "Spotnana",
+      "title": "Software Engineer II, Backend (Platform)",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4426397706/",
+      "date_posted": "2026-06-09",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-09T19:17:43Z"
+    },
+    {
+      "company": "Postman",
+      "title": "Staff Software Engineer - Fern",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4426393349/",
+      "date_posted": "2026-06-09",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-09T19:17:43Z"
+    },
+    {
+      "company": "NVIDIA",
+      "title": "Software Engineer, Linux Kernel - Networking",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4413178478/",
+      "date_posted": "2026-06-09",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-09T19:17:43Z"
+    },
+    {
+      "company": "ID.me",
+      "title": "Staff Software Engineer- AI Agent Evaluations",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4426388435/",
+      "date_posted": "2026-06-09",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-09T19:17:43Z"
+    },
+    {
+      "company": "FutureTech Recruitment",
+      "title": "Senior Software Engineer",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4425870845/",
+      "date_posted": "2026-06-09",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-09T19:17:43Z"
+    },
+    {
+      "company": "Verana Health",
+      "title": "Senior Software Engineer",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4422748139/",
+      "date_posted": "2026-06-09",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-09T19:17:43Z"
+    },
+    {
+      "company": "Blackhawk Network",
+      "title": "Software Engineer",
+      "location": "Pleasanton, CA",
+      "url": "https://www.linkedin.com/jobs/view/4416422089/",
+      "date_posted": "2026-06-09",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-09T19:17:43Z"
+    },
+    {
+      "company": "Redolent, Inc",
+      "title": "Front-End Full Stack Engineer | W2 only",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4422753065/",
+      "date_posted": "2026-06-09",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-09T19:17:43Z"
+    },
+    {
+      "company": "NVIDIA",
+      "title": "Senior Software Engineer, Security",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4415733641/",
+      "date_posted": "2026-06-09",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-09T19:17:43Z"
+    },
+    {
+      "company": "Agoda",
+      "title": "Staff Software Engineer (FinTech) - Back End (Bangkok based, Relocation provided)",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4299764738/",
+      "date_posted": "2026-06-09",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-09T19:17:43Z"
+    },
+    {
+      "company": "Agoda",
+      "title": "Lead Software Engineer - iOS (Bangkok based, Relocation provided)",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4409010289/",
+      "date_posted": "2026-06-09",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-09T19:17:43Z"
+    },
+    {
+      "company": "Redolent, Inc",
+      "title": "Sr. Front-end Full Stack Engineer ( React.js/Node/GraphQL)) - W2 Only (No C2C)",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4422749109/",
+      "date_posted": "2026-06-09",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-09T19:17:43Z"
+    },
+    {
+      "company": "Agoda",
+      "title": "Security Engineer (Bangkok Based, Relocation Support)",
+      "location": "Oakland, CA",
+      "url": "https://www.linkedin.com/jobs/view/4376307653/",
+      "date_posted": "2026-06-09",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-09T19:17:43Z"
+    },
+    {
+      "company": "The Select Group",
+      "title": "Bioinformatics Engineer",
+      "location": "South San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4422722578/",
+      "date_posted": "2026-06-09",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-09T19:17:43Z"
+    },
     {
       "company": "Lyft",
       "title": "Senior Machine Learning Engineer, Recommendations",
