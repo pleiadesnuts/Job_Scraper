@@ -1,6 +1,114 @@
 {
-  "updated_at": "2026-06-09 00:17 UTC",
+  "updated_at": "2026-06-09 01:17 UTC",
   "jobs": [
+    {
+      "company": "DataVisor",
+      "title": "Data Scientist, AI Solutions",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4425964283/",
+      "date_posted": "2026-06-09",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-09T01:17:34Z"
+    },
+    {
+      "company": "Lightspeed",
+      "title": "Staff Software Engineer, AI Runtime",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4425564008/",
+      "date_posted": "2026-06-09",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-09T01:17:34Z"
+    },
+    {
+      "company": "Joby Aviation",
+      "title": "Flight Research Senior Machine Learning Engineer",
+      "location": "Santa Cruz, CA",
+      "url": "https://www.linkedin.com/jobs/view/4425951037/",
+      "date_posted": "2026-06-09",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-09T01:17:34Z"
+    },
+    {
+      "company": "Databricks",
+      "title": "Senior Software Engineer, AI Runtime",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4422205911/",
+      "date_posted": "2026-06-09",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-09T01:17:34Z"
+    },
+    {
+      "company": "Jobot",
+      "title": "Sr. AI Software Engineer (C#/.Net, infrastructure & startup exp. req'd) - 100% REMOTE",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4419233881/",
+      "date_posted": "2026-06-09",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-09T01:17:34Z"
+    },
+    {
+      "company": "Salesforce",
+      "title": "Applied Research Engineer",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4425955422/",
+      "date_posted": "2026-06-09",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-09T01:17:34Z"
+    },
+    {
+      "company": "Databricks",
+      "title": "Staff Software Engineer, AI Runtime",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4422213908/",
+      "date_posted": "2026-06-09",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-09T01:17:34Z"
+    },
+    {
+      "company": "Nuro",
+      "title": "Senior Software Engineer, Collision Avoidance Testing",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4425539944/",
+      "date_posted": "2026-06-09",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-09T01:17:34Z"
+    },
+    {
+      "company": "Picnic",
+      "title": "Senior Backend Engineer, Picnic - Mountain View, CA",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4425528851/",
+      "date_posted": "2026-06-09",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-09T01:17:34Z"
+    },
+    {
+      "company": "Joby Aviation",
+      "title": "Flight Research Systems Engineer",
+      "location": "Concord, CA",
+      "url": "https://www.linkedin.com/jobs/view/4425926942/",
+      "date_posted": "2026-06-09",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-09T01:17:34Z"
+    },
+    {
+      "company": "ServiceNow",
+      "title": "Staff Security Engineer, Security Operations - Moveworks",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4425955632/",
+      "date_posted": "2026-06-09",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-09T01:17:34Z"
+    },
+    {
+      "company": "Joby Aviation",
+      "title": "Flight Research Senior Embedded Software Engineer",
+      "location": "Santa Cruz County, CA",
+      "url": "https://www.linkedin.com/jobs/view/4425931908/",
+      "date_posted": "2026-06-09",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-09T01:17:34Z"
+    },
     {
       "company": "Pinterest",
       "title": "Sr. Machine Learning Engineer, Applied Science",
