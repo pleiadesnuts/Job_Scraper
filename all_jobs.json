@@ -1,6 +1,42 @@
 {
-  "updated_at": "2026-06-10 23:16 UTC",
+  "updated_at": "2026-06-10 23:17 UTC",
   "jobs": [
+    {
+      "company": "Tata Consultancy Services",
+      "title": "EMC Robotics Engineer",
+      "location": "Cupertino, CA",
+      "url": "https://www.linkedin.com/jobs/view/4426162558/",
+      "date_posted": "2026-06-10",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-10T23:17:31Z"
+    },
+    {
+      "company": "Roblox",
+      "title": "Senior Software Engineer, UGC Validation \u2013 Avatar Heads and Bodies",
+      "location": "San Mateo, CA",
+      "url": "https://www.linkedin.com/jobs/view/4426159841/",
+      "date_posted": "2026-06-10",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-10T23:17:31Z"
+    },
+    {
+      "company": "Roblox",
+      "title": "Senior Cloud Security Engineer",
+      "location": "San Mateo, CA",
+      "url": "https://www.linkedin.com/jobs/view/4426162762/",
+      "date_posted": "2026-06-10",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-10T23:17:31Z"
+    },
+    {
+      "company": "Parachute Technology",
+      "title": "Senior Systems Engineer",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4426174398/",
+      "date_posted": "2026-06-10",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-10T23:17:31Z"
+    },
     {
       "company": "Uber",
       "title": "2026 PhD Applied Scientist Intern (Commerce, Trust, Safety and Support), United States",
