@@ -1,6 +1,348 @@
 {
-  "updated_at": "2026-06-09 23:55 UTC",
+  "updated_at": "2026-06-10 00:17 UTC",
   "jobs": [
+    {
+      "company": "Omada Health",
+      "title": "Senior Software Engineer, Platform",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4422753976/",
+      "date_posted": "2026-06-10",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-10T00:17:37Z"
+    },
+    {
+      "company": "Scale AI",
+      "title": "Software Engineer, Platform",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4426560854/",
+      "date_posted": "2026-06-10",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-10T00:17:37Z"
+    },
+    {
+      "company": "Galileo Financial Technologies",
+      "title": "Staff Software Engineer",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4426026119/",
+      "date_posted": "2026-06-10",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-10T00:17:37Z"
+    },
+    {
+      "company": "NVIDIA",
+      "title": "Senior System Software Engineer, Tegra Boot",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4426013323/",
+      "date_posted": "2026-06-10",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-10T00:17:37Z"
+    },
+    {
+      "company": "Amazon",
+      "title": "Applied Scientist II, Core Search",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4426562906/",
+      "date_posted": "2026-06-10",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-10T00:17:37Z"
+    },
+    {
+      "company": "Amazon",
+      "title": "Data Engineer, Ads Science Analysis & Tech (ASAT)",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4426571599/",
+      "date_posted": "2026-06-10",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-10T00:17:37Z"
+    },
+    {
+      "company": "Distyl",
+      "title": "Research Engineers, Agents",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4422768612/",
+      "date_posted": "2026-06-10",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-10T00:17:37Z"
+    },
+    {
+      "company": "Distyl",
+      "title": "Research Engineers, Post-Training",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4422765962/",
+      "date_posted": "2026-06-10",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-10T00:17:37Z"
+    },
+    {
+      "company": "Distyl",
+      "title": "Research Engineers, Data",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4422774027/",
+      "date_posted": "2026-06-10",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-10T00:17:37Z"
+    },
+    {
+      "company": "NVIDIA",
+      "title": "Senior Applied AI Engineer, Product Simulation",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4426006401/",
+      "date_posted": "2026-06-10",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-10T00:17:37Z"
+    },
+    {
+      "company": "Pinterest",
+      "title": "Software Engineer I, Backend",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4426550910/",
+      "date_posted": "2026-06-10",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-10T00:17:37Z"
+    },
+    {
+      "company": "Intapp",
+      "title": "Software Engineer - Front End (React)",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4426025182/",
+      "date_posted": "2026-06-10",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-10T00:17:37Z"
+    },
+    {
+      "company": "Box",
+      "title": "Frontend Engineer III, AI Experiences",
+      "location": "Redwood City, CA",
+      "url": "https://www.linkedin.com/jobs/view/4426559811/",
+      "date_posted": "2026-06-10",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-10T00:17:37Z"
+    },
+    {
+      "company": "Pinterest",
+      "title": "Sr. Software Engineer, Backend",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4426565782/",
+      "date_posted": "2026-06-10",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-10T00:17:37Z"
+    },
+    {
+      "company": "ByteDance",
+      "title": "Senior Mobile Software Engineer, Global E-commerce Core Shopping and Experience",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4426019289/",
+      "date_posted": "2026-06-10",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-10T00:17:37Z"
+    },
+    {
+      "company": "SnapLogic",
+      "title": "Senior Software Engineer, Platform",
+      "location": "San Mateo, CA",
+      "url": "https://www.linkedin.com/jobs/view/4422760932/",
+      "date_posted": "2026-06-10",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-10T00:17:37Z"
+    },
+    {
+      "company": "Morrison Foerster",
+      "title": "Senior Systems Engineer",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4426569732/",
+      "date_posted": "2026-06-10",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-10T00:17:37Z"
+    },
+    {
+      "company": "Amazon",
+      "title": "Data Engineer, PXT Central Science",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4426587001/",
+      "date_posted": "2026-06-10",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-10T00:17:37Z"
+    },
+    {
+      "company": "The Select Group",
+      "title": "Bioinformatics Engineer",
+      "location": "South San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4422755876/",
+      "date_posted": "2026-06-10",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-10T00:17:37Z"
+    },
+    {
+      "company": "Playsaurus Inc.",
+      "title": "LATAM - Data Science Engineer",
+      "location": "Alameda, CA",
+      "url": "https://www.linkedin.com/jobs/view/4422760915/",
+      "date_posted": "2026-06-09",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-10T00:17:37Z"
+    },
+    {
+      "company": "Rippling",
+      "title": "Data Engineer - GTM Team",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4426552754/",
+      "date_posted": "2026-06-09",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-10T00:17:37Z"
+    },
+    {
+      "company": "Rippling",
+      "title": "Data Engineer - GTM Team",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4426553776/",
+      "date_posted": "2026-06-09",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-10T00:17:37Z"
+    },
+    {
+      "company": "AnaVation LLC",
+      "title": "Software Engineer - Full Stack Developer",
+      "location": "Emeryville, CA",
+      "url": "https://www.linkedin.com/jobs/view/4426568666/",
+      "date_posted": "2026-06-09",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-10T00:17:37Z"
+    },
+    {
+      "company": "Archer",
+      "title": "Senior Software Engineer, BMS",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4426019211/",
+      "date_posted": "2026-06-09",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-10T00:17:37Z"
+    },
+    {
+      "company": "Berkeley Lab",
+      "title": "Bioinformaticist Research Scientist (Microbiome Data Science Group - Joint Genome Institute)",
+      "location": "Berkeley, CA",
+      "url": "https://www.linkedin.com/jobs/view/4426008381/",
+      "date_posted": "2026-06-09",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-10T00:17:37Z"
+    },
+    {
+      "company": "Addison Group",
+      "title": "Senior Azure Data Engineer",
+      "location": "Emeryville, CA",
+      "url": "https://www.linkedin.com/jobs/view/4426567644/",
+      "date_posted": "2026-06-09",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-10T00:17:37Z"
+    },
+    {
+      "company": "Gigamon",
+      "title": "Sr. Principal Software Engineer, Network Management System (NMS) Application Development - Santa Clara, CA - Hybrid",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4426002811/",
+      "date_posted": "2026-06-09",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-10T00:17:37Z"
+    },
+    {
+      "company": "Hedra",
+      "title": "Research Engineer",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4402099479/",
+      "date_posted": "2026-06-09",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-10T00:17:37Z"
+    },
+    {
+      "company": "Playsaurus Inc.",
+      "title": "LATAM - Backend Developer",
+      "location": "Alameda, CA",
+      "url": "https://www.linkedin.com/jobs/view/4422765943/",
+      "date_posted": "2026-06-09",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-10T00:17:37Z"
+    },
+    {
+      "company": "Figure",
+      "title": "Helix AI Engineer, Perception",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4426567777/",
+      "date_posted": "2026-06-09",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-10T00:17:37Z"
+    },
+    {
+      "company": "Workato",
+      "title": "Senior AI Engineer \u2013 Developer Products",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4426562632/",
+      "date_posted": "2026-06-09",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-10T00:17:37Z"
+    },
+    {
+      "company": "Hedra",
+      "title": "Senior Backend Engineer",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4416766840/",
+      "date_posted": "2026-06-09",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-10T00:17:37Z"
+    },
+    {
+      "company": "Hedra",
+      "title": "Senior Full-Stack Engineer",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4416776578/",
+      "date_posted": "2026-06-09",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-10T00:17:37Z"
+    },
+    {
+      "company": "Tranzeal Incorporated",
+      "title": "Frontend Developer",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4426017239/",
+      "date_posted": "2026-06-09",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-10T00:17:37Z"
+    },
+    {
+      "company": "Archer",
+      "title": "Senior DevOps Engineer",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4426002815/",
+      "date_posted": "2026-06-09",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-10T00:17:37Z"
+    },
+    {
+      "company": "Rubrik",
+      "title": "Senior Cloud Platform Engineer - FedRAMP",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4426553729/",
+      "date_posted": "2026-06-09",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-10T00:17:37Z"
+    },
+    {
+      "company": "Egen",
+      "title": "Lead Data Engineer",
+      "location": "Emeryville, CA",
+      "url": "https://www.linkedin.com/jobs/view/4426544845/",
+      "date_posted": "2026-06-09",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-10T00:17:37Z"
+    },
+    {
+      "company": "Jobright.ai",
+      "title": "Growth Data Engineer",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4426013297/",
+      "date_posted": "2026-06-09",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-10T00:17:37Z"
+    },
     {
       "company": "Qualys",
       "title": "Senior Security Engineer, AI/ML",
