@@ -1,6 +1,249 @@
 {
-  "updated_at": "2026-06-10 23:17 UTC",
+  "updated_at": "2026-06-11 00:17 UTC",
   "jobs": [
+    {
+      "company": "ClimateAi",
+      "title": "Data Engineer I",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4427116528/",
+      "date_posted": "2026-06-11",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-11T00:17:35Z"
+    },
+    {
+      "company": "Lyft",
+      "title": "Senior Data Scientist, Causal Inference",
+      "location": "San Francisco County, CA",
+      "url": "https://www.linkedin.com/jobs/view/4427123347/",
+      "date_posted": "2026-06-11",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-11T00:17:35Z"
+    },
+    {
+      "company": "Peregrine",
+      "title": "Software Engineer, Applied AI/ML",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4426164985/",
+      "date_posted": "2026-06-11",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-11T00:17:35Z"
+    },
+    {
+      "company": "Jobright.ai",
+      "title": "Software Engineer - AI Agent",
+      "location": "San Mateo County, CA",
+      "url": "https://www.linkedin.com/jobs/view/4426184010/",
+      "date_posted": "2026-06-11",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-11T00:17:35Z"
+    },
+    {
+      "company": "NVIDIA",
+      "title": "Senior Software Engineer, Mapping - Autonomous Vehicles",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4426164925/",
+      "date_posted": "2026-06-11",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-11T00:17:35Z"
+    },
+    {
+      "company": "Pinterest",
+      "title": "Staff Data Scientist, Ads Product",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4427114540/",
+      "date_posted": "2026-06-11",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-11T00:17:35Z"
+    },
+    {
+      "company": "Peregrine",
+      "title": "Software Engineer, Infrastructure",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4426173915/",
+      "date_posted": "2026-06-11",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-11T00:17:35Z"
+    },
+    {
+      "company": "Verkada",
+      "title": "Staff Software Engineer - Command Connector",
+      "location": "San Mateo, CA",
+      "url": "https://www.linkedin.com/jobs/view/4427119314/",
+      "date_posted": "2026-06-11",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-11T00:17:35Z"
+    },
+    {
+      "company": "Stanford University",
+      "title": "Clinical AI Scientist",
+      "location": "Stanford, CA",
+      "url": "https://www.linkedin.com/jobs/view/4426168999/",
+      "date_posted": "2026-06-11",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-11T00:17:35Z"
+    },
+    {
+      "company": "Amazon",
+      "title": "Principal Applied Scientist, ML Codesign",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4427133163/",
+      "date_posted": "2026-06-11",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-11T00:17:35Z"
+    },
+    {
+      "company": "Peregrine",
+      "title": "Software Engineer, Data Infrastructure",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4426166964/",
+      "date_posted": "2026-06-11",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-11T00:17:35Z"
+    },
+    {
+      "company": "Peregrine",
+      "title": "Software Engineer, Data Governance",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4426169939/",
+      "date_posted": "2026-06-11",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-11T00:17:35Z"
+    },
+    {
+      "company": "NVIDIA",
+      "title": "Senior Site Reliability Engineer",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4426170901/",
+      "date_posted": "2026-06-11",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-11T00:17:35Z"
+    },
+    {
+      "company": "Peregrine",
+      "title": "Software Engineer, Platform",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4426166965/",
+      "date_posted": "2026-06-11",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-11T00:17:35Z"
+    },
+    {
+      "company": "Pinterest",
+      "title": "Sr. Staff Software Engineer, Advertiser and Seller Experience",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4427116461/",
+      "date_posted": "2026-06-11",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-11T00:17:35Z"
+    },
+    {
+      "company": "Pinterest",
+      "title": "Sr. Staff Software Engineer, Advertiser and Seller Experience",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4427125276/",
+      "date_posted": "2026-06-11",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-11T00:17:35Z"
+    },
+    {
+      "company": "Playsaurus Inc.",
+      "title": "LATAM - Data Science Engineer",
+      "location": "Alameda, CA",
+      "url": "https://www.linkedin.com/jobs/view/4423180565/",
+      "date_posted": "2026-06-10",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-11T00:17:35Z"
+    },
+    {
+      "company": "F2",
+      "title": "Staff Software Engineer, Infrastructure",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4426168944/",
+      "date_posted": "2026-06-10",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-11T00:17:35Z"
+    },
+    {
+      "company": "Luxoft",
+      "title": "Embedded Software Engineer (C/C++)",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4427133014/",
+      "date_posted": "2026-06-10",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-11T00:17:35Z"
+    },
+    {
+      "company": "Microsoft AI",
+      "title": "Applied Scientist",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4427131049/",
+      "date_posted": "2026-06-10",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-11T00:17:35Z"
+    },
+    {
+      "company": "Microsoft AI",
+      "title": "Senior Data Scientist",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4427112740/",
+      "date_posted": "2026-06-10",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-11T00:17:35Z"
+    },
+    {
+      "company": "Microsoft AI",
+      "title": "Applied Scientist",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4427131050/",
+      "date_posted": "2026-06-10",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-11T00:17:35Z"
+    },
+    {
+      "company": "SPREEAI",
+      "title": "Principal Engineer, AI Platform & Infrastructure",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4406805535/",
+      "date_posted": "2026-06-10",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-11T00:17:35Z"
+    },
+    {
+      "company": "TetraMem - Accelerate The World",
+      "title": "Embedded Software Engineer",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4426163918/",
+      "date_posted": "2026-06-10",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-11T00:17:35Z"
+    },
+    {
+      "company": "Jobright.ai",
+      "title": "Full-Stack Engineer",
+      "location": "Redwood City, CA",
+      "url": "https://www.linkedin.com/jobs/view/4426154873/",
+      "date_posted": "2026-06-10",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-11T00:17:35Z"
+    },
+    {
+      "company": "Playsaurus Inc.",
+      "title": "LATAM - Backend Developer",
+      "location": "Alameda, CA",
+      "url": "https://www.linkedin.com/jobs/view/4423191100/",
+      "date_posted": "2026-06-10",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-11T00:17:35Z"
+    },
+    {
+      "company": "Gigamon",
+      "title": "Sr. Staff Software Engineer - Santa Clara, CA - Hybrid",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4426155911/",
+      "date_posted": "2026-06-10",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-11T00:17:35Z"
+    },
     {
       "company": "Tata Consultancy Services",
       "title": "EMC Robotics Engineer",
