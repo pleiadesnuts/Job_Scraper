@@ -626,14 +626,19 @@ def _is_biotech_company(name: str) -> bool:
     return any(b in norm or norm in b for b in BIOTECH_COMPANY_ALLOWLIST)
 
 
-def _parse_linkedin_cards(html: str) -> list[dict]:
+def _parse_linkedin_cards(html: str) -> tuple[list[dict], int]:
+    """Returns (keyword-matched cards, raw card count on the page). The raw
+    count lets callers distinguish 'page full of non-matching roles' (keep
+    paginating) from 'no results at all' (stop)."""
     import html as html_mod
     cards = re.split(r'<li[^>]*>', html)[1:]
     parsed = []
+    raw_count = 0
     for card in cards:
         urn = re.search(r'data-entity-urn="urn:li:jobPosting:(\d+)"', card)
         if not urn:
             continue
+        raw_count += 1
         title_m = re.search(r'base-search-card__title[^>]*>\s*([^<]+)', card)
         company_m = re.search(
             r'base-search-card__subtitle[^>]*>.*?<a[^>]*>\s*([^<]+)\s*</a>',
@@ -659,16 +664,20 @@ def _parse_linkedin_cards(html: str) -> list[dict]:
             "location": location,
             "date_posted": time_m.group(1) if time_m else "",
         })
-    return parsed
+    return parsed, raw_count
 
 
-def _linkedin_search(terms: list[str], lookback_seconds: int) -> list[dict]:
+def _linkedin_search(terms: list[str], lookback_seconds: int) -> tuple[list[dict], int]:
     """
     Per-term, paginated LinkedIn guest-endpoint search. Dedupes by job ID and
     sorts by recency. Used by both the general MLE/DS watcher and the biotech
     allowlist-filtered scrape.
+
+    Returns (jobs, total_raw_cards). total_raw_cards == 0 across every term
+    means LinkedIn gave us no data at all — the callers' block guard.
     """
     jobs_by_id: dict[str, dict] = {}
+    total_raw_cards = 0
     for term in terms:
         for start in range(0, 75, 25):
             time.sleep(REQUEST_DELAY)
@@ -683,8 +692,11 @@ def _linkedin_search(terms: list[str], lookback_seconds: int) -> list[dict]:
             html = fetch(url)
             if not html.strip():
                 break
-            parsed = _parse_linkedin_cards(html)
-            if not parsed:
+            parsed, raw_count = _parse_linkedin_cards(html)
+            total_raw_cards += raw_count
+            # Break on a truly empty page, NOT on "no keyword matches" — a page
+            # of 25 off-target roles must not end pagination for the term.
+            if not raw_count:
                 break
             for p in parsed:
                 if p["id"] in jobs_by_id:
@@ -700,12 +712,20 @@ def _linkedin_search(terms: list[str], lookback_seconds: int) -> list[dict]:
 
     jobs = list(jobs_by_id.values())
     jobs.sort(key=lambda j: -_iso_to_ts(j.get("date_posted", "")))
-    return jobs
+    return jobs, total_raw_cards
 
 
 def scrape_linkedin_recent() -> list:
     print(f"🔎 Scraping LinkedIn (last {LINKEDIN_LOOKBACK_SECONDS // 3600}h)...")
-    jobs = _linkedin_search(LINKEDIN_SEARCH_TERMS, LINKEDIN_LOOKBACK_SECONDS)
+    jobs, raw_cards = _linkedin_search(LINKEDIN_SEARCH_TERMS, LINKEDIN_LOOKBACK_SECONDS)
+    # Block guard (mirrors Indeed's): zero raw cards across every term means
+    # LinkedIn gave us nothing — rate-limited or blocked, not a quiet hour.
+    # Reuse the previous results so we don't clobber the dedupe baseline.
+    if raw_cards == 0:
+        prev = _load_prev_jobs(os.path.join(SCRIPT_DIR, "linkedin_jobs.json"))
+        print(f"  ⛔ LinkedIn returned 0 cards across all terms (likely blocked); "
+              f"preserving previous {len(prev)} result(s)")
+        return prev
     print(f"  ✅ LinkedIn: {len(jobs)} role(s)")
     return jobs
 
@@ -717,7 +737,13 @@ def scrape_linkedin_biotech() -> list:
     endpoint, so we use general MLE/DS keywords + a company allowlist.
     """
     print(f"🧬 Scraping LinkedIn biotech allowlist (last {LINKEDIN_BIOTECH_LOOKBACK_SECONDS // 3600}h)...")
-    raw = _linkedin_search(LINKEDIN_SEARCH_TERMS, LINKEDIN_BIOTECH_LOOKBACK_SECONDS)
+    raw, raw_cards = _linkedin_search(LINKEDIN_SEARCH_TERMS, LINKEDIN_BIOTECH_LOOKBACK_SECONDS)
+    if raw_cards == 0:
+        # Blocked run: contribute nothing rather than nuke the digest baseline;
+        # the direct ATS probes in --biotech-only still supply fresh roles.
+        print("  ⛔ LinkedIn returned 0 cards across all terms (likely blocked); "
+              "skipping LinkedIn for this digest")
+        return []
     jobs = [j for j in raw if _is_biotech_company(j["company"])]
     print(f"  ✅ Biotech LinkedIn: {len(jobs)} role(s) (from {len(raw)} total)")
     return jobs
@@ -732,6 +758,12 @@ def scrape_linkedin_biotech() -> list:
 
 INDEED_LOOKBACK_HOURS = 24  # Indeed posting dates are ~day-resolution, so a 1h window
 # returns almost nothing; the hourly watcher's cross-run dedupe trims the overlap.
+
+# jobspy returns the full JD (markdown) for Indeed rows. We keep a trimmed copy
+# in indeed_jobs.json (bounded: 24h window) so the nightly triage agent can
+# judge Indeed roles from the actual description instead of the title alone.
+# _merge_into_all_jobs strips it so the dashboard's master stays lean.
+INDEED_JD_MAX_CHARS = 6000
 
 
 def scrape_indeed_recent() -> list:
@@ -791,6 +823,7 @@ def scrape_indeed_recent() -> list:
                 "location": loc,
                 "url": url,
                 "date_posted": str(row.get("date_posted", "") or ""),
+                "description": str(row.get("description", "") or "")[:INDEED_JD_MAX_CHARS],
                 "ats": "Indeed",
             }
     jobs = list(jobs_by_id.values())
@@ -889,7 +922,9 @@ def _merge_into_all_jobs(new_jobs: list) -> int:
     for j in new_jobs:
         url = j.get("url")
         if url and url not in by_url:  # first writer wins on first_seen
-            entry = dict(j)
+            # Drop the JD text: the dashboard fetches this whole file on every
+            # load; the triage agent reads descriptions from indeed_jobs.json.
+            entry = {k: v for k, v in j.items() if k != "description"}
             entry["first_seen"] = stamp
             by_url[url] = entry
             added += 1
@@ -899,8 +934,9 @@ def _merge_into_all_jobs(new_jobs: list) -> int:
     kept.sort(key=lambda j: j.get("first_seen", ""), reverse=True)
 
     with open(path, "w") as f:
+        # Compact separators: the dashboard downloads this file on every load.
         json.dump({"updated_at": now.strftime("%Y-%m-%d %H:%M UTC"), "jobs": kept},
-                  f, indent=2)
+                  f, separators=(",", ":"))
     print(f"🗂  all_jobs.json: +{added} new, {len(kept)} total (last {ALL_JOBS_PRUNE_DAYS}d)")
     return added
 

@@ -368,12 +368,15 @@
     j._sen  = classifySeniority(j.title);
     j._src  = classifySource(j);
     // Agent verdict, when this URL has been scored (see scores.json).
+    // A stored "error" verdict is a failed model call, not a judgment —
+    // treat it as unscored so it doesn't masquerade as a real 0/100.
     const s = SCORES[j.url] || {};
-    j._score   = (typeof s.score === 'number') ? s.score : null;
-    j._verdict = s.verdict || null;
-    j._family  = s.role_family || null;
-    j._why     = s.why || '';
-    j._opener  = s.outreach_opener || '';
+    const errored = s.verdict === 'error';
+    j._score   = (!errored && typeof s.score === 'number') ? s.score : null;
+    j._verdict = errored ? null : (s.verdict || null);
+    j._family  = errored ? null : (s.role_family || null);
+    j._why     = errored ? '' : (s.why || '');
+    j._opener  = errored ? '' : (s.outreach_opener || '');
   }
 
   // ---------- Data loading ----------
@@ -694,8 +697,18 @@
     save();
   }
 
+  // Strip derived (_-prefixed) fields and bulky JD text before persisting —
+  // both are recomputed/refetched on load and would balloon the 5MB quota.
+  function slimJob(j) {
+    const o = {};
+    for (const k in j) if (k[0] !== '_' && k !== 'description') o[k] = j[k];
+    return o;
+  }
   function save() {
-    try { localStorage.setItem(STORAGE_KEY, JSON.stringify(state)); }
+    try {
+      const slim = { ...state, jobs: state.jobs.map(slimJob) };
+      localStorage.setItem(STORAGE_KEY, JSON.stringify(slim));
+    }
     catch (e) { console.warn('[save] localStorage write failed:', e.message); }
   }
 
@@ -856,7 +869,7 @@
     const saved = state.jobs.filter(j =>
       state.triage[j.url] === 'saved' || state.triage[j.url] === 'applied');
     if (!saved.length) return toast('Nothing saved yet');
-    copy(JSON.stringify(saved.map(({_role, _sen, _src, ...rest}) => rest), null, 2));
+    copy(JSON.stringify(saved.map(slimJob), null, 2));
   };
   $('export-prompt').onclick = () => {
     const saved = state.jobs.filter(j => state.triage[j.url] === 'saved');
