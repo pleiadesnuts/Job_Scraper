@@ -1,6 +1,60 @@
 {
-  "updated_at": "2026-06-11 02:17 UTC",
+  "updated_at": "2026-06-11 03:17 UTC",
   "jobs": [
+    {
+      "company": "Mercor",
+      "title": "Software Engineer - Data Science",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4426200227/",
+      "date_posted": "2026-06-11",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-11T03:17:31Z"
+    },
+    {
+      "company": "Palo Alto Networks",
+      "title": "Principal Software Engineer (App-ID Cloud)",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4423610217/",
+      "date_posted": "2026-06-11",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-11T03:17:31Z"
+    },
+    {
+      "company": "Mercor",
+      "title": "Data Science Expert - Fully Remote | Upto $110/hr",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4426184414/",
+      "date_posted": "2026-06-11",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-11T03:17:31Z"
+    },
+    {
+      "company": "Horizontal Talent",
+      "title": "DevOps/Automation Engineer",
+      "location": "Pleasanton, CA",
+      "url": "https://www.linkedin.com/jobs/view/4423605279/",
+      "date_posted": "2026-06-11",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-11T03:17:31Z"
+    },
+    {
+      "company": "Aurora",
+      "title": "Staff Security Engineer, Enterprise Security",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4426187487/",
+      "date_posted": "2026-06-11",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-11T03:17:31Z"
+    },
+    {
+      "company": "Mercor",
+      "title": "Computational Biologist | Upto $150/hr",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4426186394/",
+      "date_posted": "2026-06-11",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-11T03:17:31Z"
+    },
     {
       "company": "Vinci4D.ai",
       "title": "Simulation Runtime Software Engineer (Senior)",

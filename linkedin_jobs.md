@@ -1,16 +1,28 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area)
-*Last updated: 2026-06-11 02:17 UTC*
+*Last updated: 2026-06-11 03:17 UTC*
 
-**3 new role(s)** since last run · 51 total in last 1h
+**6 new role(s)** since last run · 9 total in last 1h
 
-### [Simulation Runtime Software Engineer (Senior)](https://www.linkedin.com/jobs/view/4423199037/) — Vinci4D.ai
-- 📍 **Location:** Palo Alto, CA
+### [Software Engineer - Data Science](https://www.linkedin.com/jobs/view/4426200227/) — Mercor
+- 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-06-11
 
-### [Software Engineer in Test, E-Commerce AI Product Testing - USDS](https://www.linkedin.com/jobs/view/4427146374/) — TikTok USDS Joint Venture
-- 📍 **Location:** San Jose, CA
+### [Principal Software Engineer (App-ID Cloud)](https://www.linkedin.com/jobs/view/4423610217/) — Palo Alto Networks
+- 📍 **Location:** Santa Clara, CA
 - 🕒 **Posted:** 2026-06-11
 
-### [Visa Independent - AI Engineer (Python + GenAI) - Local to CA](https://www.linkedin.com/jobs/view/4423176854/) — Jobs via Dice
-- 📍 **Location:** Sunnyvale, CA
+### [Data Science Expert - Fully Remote | Upto $110/hr](https://www.linkedin.com/jobs/view/4426184414/) — Mercor
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-06-11
+
+### [DevOps/Automation Engineer](https://www.linkedin.com/jobs/view/4423605279/) — Horizontal Talent
+- 📍 **Location:** Pleasanton, CA
+- 🕒 **Posted:** 2026-06-11
+
+### [Staff Security Engineer, Enterprise Security](https://www.linkedin.com/jobs/view/4426187487/) — Aurora
+- 📍 **Location:** Mountain View, CA
+- 🕒 **Posted:** 2026-06-11
+
+### [Computational Biologist | Upto $150/hr](https://www.linkedin.com/jobs/view/4426186394/) — Mercor
+- 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-06-11
