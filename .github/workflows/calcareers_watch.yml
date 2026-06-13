@@ -1,0 +1,41 @@
+name: CalCareers Env/Tox Watcher
+
+on:
+  # Daily — CalCareers postings change at day resolution and the portal is slow,
+  # so once per day is plenty. Runs at 16:07 UTC (~9am PT) plus on demand.
+  schedule:
+    - cron: "7 16 * * *"
+  workflow_dispatch:
+
+concurrency:
+  group: job-scraper-commit-push
+  cancel-in-progress: false
+
+jobs:
+  scrape:
+    name: CalCareers scrape
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Scrape CalCareers (California state jobs)
+        run: python scrape_jobs.py --calcareers-only
+
+      - name: Commit results to repo
+        run: |
+          git config user.name  "ScottCoffin"
+          git config user.email "ScottCoffin@users.noreply.github.com"
+          git add calcareers_jobs.json calcareers_jobs.md calcareers_jobs.html all_jobs.json
+          git diff --cached --quiet || git commit -m "chore: update calcareers listings [$(date -u '+%Y-%m-%d %H:%MZ')]"
+          git pull --rebase origin main
+          git push

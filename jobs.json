@@ -1,21 +1,21 @@
 {
-  "scraped_at": "2026-06-13 02:00 UTC",
+  "scraped_at": "2026-06-13 02:23 UTC",
   "total": 4,
   "new_count": 4,
   "jobs": [
-    {
-      "company": "GHD",
-      "title": "Environmental Scientist",
-      "location": "San Diego, CA",
-      "url": "https://www.linkedin.com/jobs/view/4427211488/",
-      "date_posted": "2026-06-12",
-      "ats": "LinkedIn"
-    },
     {
       "company": "California Air Resources Board",
       "title": "Air Pollution Monitoring Technical Support",
       "location": "Sacramento, CA",
       "url": "https://www.linkedin.com/jobs/view/4428168922/",
+      "date_posted": "2026-06-12",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "GHD",
+      "title": "Environmental Scientist",
+      "location": "San Diego, CA",
+      "url": "https://www.linkedin.com/jobs/view/4427211488/",
       "date_posted": "2026-06-12",
       "ats": "LinkedIn"
     },
@@ -28,28 +28,28 @@
       "ats": "LinkedIn"
     },
     {
-      "company": "Arcadis",
-      "title": "Environmental Engineer",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4426090159/",
-      "date_posted": "2026-06-10",
+      "company": "California Air Resources Board",
+      "title": "Staff Air Pollution Specialist",
+      "location": "Sacramento, CA",
+      "url": "https://www.linkedin.com/jobs/view/4427672108/",
+      "date_posted": "2026-06-11",
       "ats": "LinkedIn"
     }
   ],
   "new_jobs": [
     {
-      "company": "GHD",
-      "title": "Environmental Scientist",
-      "location": "San Diego, CA",
-      "url": "https://www.linkedin.com/jobs/view/4427211488/",
-      "date_posted": "2026-06-12",
-      "ats": "LinkedIn"
-    },
-    {
       "company": "California Air Resources Board",
       "title": "Air Pollution Monitoring Technical Support",
       "location": "Sacramento, CA",
       "url": "https://www.linkedin.com/jobs/view/4428168922/",
+      "date_posted": "2026-06-12",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "GHD",
+      "title": "Environmental Scientist",
+      "location": "San Diego, CA",
+      "url": "https://www.linkedin.com/jobs/view/4427211488/",
       "date_posted": "2026-06-12",
       "ats": "LinkedIn"
     },
@@ -62,11 +62,11 @@
       "ats": "LinkedIn"
     },
     {
-      "company": "Arcadis",
-      "title": "Environmental Engineer",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4426090159/",
-      "date_posted": "2026-06-10",
+      "company": "California Air Resources Board",
+      "title": "Staff Air Pollution Specialist",
+      "location": "Sacramento, CA",
+      "url": "https://www.linkedin.com/jobs/view/4427672108/",
+      "date_posted": "2026-06-11",
       "ats": "LinkedIn"
     }
   ]

@@ -13,12 +13,14 @@ BIOTECH_COMPANY_NAMES (the priority-employer allowlist), TARGET_LOCATIONS, and
 the LinkedIn geoId / Indeed location.
 """
 
+import http.cookiejar
 import json
 import os
 import re
 import sys
 import time
 import urllib.parse
+import urllib.request
 from datetime import datetime, timedelta, timezone
 from urllib.request import urlopen, Request
 from urllib.error import URLError
@@ -55,7 +57,7 @@ KEYWORDS = [
     "environmental scien", "environmental health",
     "environmental chemist", "environmental chemistry",
     "environmental specialist", "environmental analyst",
-    "environmental engineer", "environmental epidemiolog",
+    "environmental epidemiolog",
     "environmental data", "environmental monitoring",
     "environmental assessment", "exposure epidemiolog",
     # ---- Water / contaminants ----
@@ -92,6 +94,8 @@ EXCLUDED_SENIORITY_RE = re.compile(
     r'\b(intern|interns|internship|co-?op|trainee|apprentice|'
     r'technician|research assistant|lab assistant|teaching assistant|'
     r'undergraduate|postdoc|postdoctoral|work-study|volunteer|fellowship|'
+    # Engineering roles — Dr. Coffin is a scientist, not an engineer.
+    r'engineer|engineering|'
     # EHS / workplace-safety compliance — a distinct field from env-tox science.
     # (Does not touch "Chemical Safety", which has no "health/occupational" stem.)
     r'ehs|occupational safety|occupational health)\b'
@@ -746,6 +750,179 @@ def scrape_indeed_recent() -> list:
     return jobs
 
 
+# ---------------------------------------------------------------------------
+# CalCareers (California state civil-service jobs) — calcareers.ca.gov
+#
+# CalCareers is an ASP.NET WebForms portal (DevExpress) with NO public JSON
+# API: search state lives in a server-side session keyed by ASP.NET_SessionId.
+# So we (1) GET the results page to seed a session + capture the hidden
+# __VIEWSTATE/__EVENTVALIDATION fields, (2) auto-discover the keyword text box
+# and the submit control from the live HTML (the ctl00$... names aren't stable
+# or documented), (3) POST the search, and (4) parse JobPosting links from the
+# returned HTML. Everything is wrapped so any failure is non-fatal.
+#
+# NOTE: this path could NOT be verified from the dev network (the site sits
+# behind a WAF that times out there); it is written to run on GitHub Actions'
+# clean egress. If the first GH run logs 0 rows, the result-card parsing in
+# _parse_calcareers_results() likely needs a selector tweak. CA state
+# departments (OEHHA, DTSC, CARB, Caltrans, Water Boards) also surface via the
+# LinkedIn priority-employer allowlist as a backstop.
+# ---------------------------------------------------------------------------
+
+CALCAREERS_BASE = "https://www.calcareers.ca.gov"
+CALCAREERS_SEARCH_URL = CALCAREERS_BASE + "/CalHRPublic/Search/JobSearchResults.aspx"
+CALCAREERS_TIMEOUT = 30
+
+# Broad CalCareers queries; titles are still gated by is_mle_role() afterward.
+CALCAREERS_TERMS = [
+    "toxicologist", "environmental scientist", "risk assessment",
+    "exposure", "water quality", "microplastics", "hazard",
+]
+
+
+def _calcareers_opener():
+    """A urllib opener with its own cookie jar so the ASP.NET session set on the
+    seeding GET is sent back on the search POST."""
+    jar = http.cookiejar.CookieJar()
+    return urllib.request.build_opener(urllib.request.HTTPCookieProcessor(jar))
+
+
+def _hidden_inputs(html: str) -> dict:
+    """All <input type=hidden> name→value pairs (the ASP.NET viewstate set)."""
+    fields = {}
+    for tag in re.findall(r'<input\b[^>]*type=["\']hidden["\'][^>]*>', html, re.I):
+        n = re.search(r'\bname=["\']([^"\']+)["\']', tag)
+        v = re.search(r'\bvalue=["\']([^"\']*)["\']', tag)
+        if n:
+            fields[n.group(1)] = (v.group(1) if v else "")
+    return fields
+
+
+def _find_keyword_field(html: str) -> str | None:
+    """Name of the visible text input that represents the keyword box."""
+    for tag in re.findall(r'<input\b[^>]*>', html, re.I):
+        if re.search(r'type=["\']hidden["\']', tag, re.I):
+            continue
+        n = re.search(r'\bname=["\']([^"\']+)["\']', tag)
+        if n and re.search(r'keyword|search', n.group(1), re.I):
+            return n.group(1)
+    return None
+
+
+def _find_submit_control(html: str) -> tuple[str, str] | None:
+    """Name/value of the search submit button (for the POST body)."""
+    for tag in re.findall(r'<input\b[^>]*type=["\'](?:submit|button)["\'][^>]*>', html, re.I):
+        n = re.search(r'\bname=["\']([^"\']+)["\']', tag)
+        v = re.search(r'\bvalue=["\']([^"\']*)["\']', tag)
+        if n and re.search(r'search|find|go|submit', (n.group(1) + (v.group(1) if v else "")), re.I):
+            return n.group(1), (v.group(1) if v else "")
+    return None
+
+
+def _parse_calcareers_results(html: str) -> list[dict]:
+    """
+    Best-effort parse of the CalCareers results HTML. Each posting links to
+    JobPosting.aspx?JobControlId=NNN (or JobPostingPrint.aspx?jcid=NNN); we take
+    the link text as the title and scan a window of following text for the
+    department, location, and salary, which CalCareers renders as labeled rows.
+    """
+    import html as html_mod
+    jobs: list[dict] = []
+    seen: set[str] = set()
+    for m in re.finditer(
+        r'<a\b[^>]*href=["\']([^"\']*JobPosting[A-Za-z]*\.aspx\?[^"\']*(?:JobControlId|jcid)=(\d+)[^"\']*)["\'][^>]*>(.*?)</a>',
+        html, re.I | re.S,
+    ):
+        href, jcid, inner = m.group(1), m.group(2), m.group(3)
+        if jcid in seen:
+            continue
+        seen.add(jcid)
+        title = html_mod.unescape(re.sub(r'<[^>]+>', ' ', inner)).strip()
+        title = re.sub(r'\s+', ' ', title)
+        if not title:
+            continue
+        url = href if href.startswith("http") else CALCAREERS_BASE + "/CalHRPublic/" + href.lstrip("/")
+        # Window of text after the link for dept / location / salary labels.
+        window = re.sub(r'<[^>]+>', ' ', html[m.end():m.end() + 1200])
+        window = html_mod.unescape(re.sub(r'\s+', ' ', window))
+        dept_m = re.search(r'(Department|Departmental)\s*:?\s*([A-Z][^|•\n]{3,60})', window)
+        loc_m = re.search(r'(?:Location|County|City)\s*:?\s*([A-Z][A-Za-z .,/-]{2,40})', window)
+        sal_m = re.search(r'\$[\d,]+(?:\.\d{2})?\s*(?:-|–|to)\s*\$[\d,]+(?:\.\d{2})?\s*(?:per month|/mo|monthly|per year|/yr|annually)?', window, re.I)
+        jobs.append({
+            "company": (dept_m.group(2).strip() if dept_m else "State of California"),
+            "title": title,
+            "location": (loc_m.group(1).strip() if loc_m else "California"),
+            "url": url,
+            "date_posted": "",
+            "salary": (sal_m.group(0).strip() if sal_m else ""),
+            "ats": "CalCareers",
+        })
+    return jobs
+
+
+def scrape_calcareers_recent() -> list:
+    """CalCareers env/tox roles. Adaptive ASP.NET session+viewstate POST flow;
+    fully guarded — returns previous results on any failure so a flaky run never
+    nukes the dashboard's CalCareers column."""
+    print("🏛  Scraping CalCareers (California state jobs)...")
+    jobs_by_url: dict[str, dict] = {}
+    matched = 0
+    try:
+        opener = _calcareers_opener()
+        seed_req = Request(CALCAREERS_SEARCH_URL, headers=HEADERS)
+        seed_html = opener.open(seed_req, timeout=CALCAREERS_TIMEOUT).read().decode("utf-8", "ignore")
+        hidden = _hidden_inputs(seed_html)
+        kw_field = _find_keyword_field(seed_html)
+        submit = _find_submit_control(seed_html)
+        if not hidden or not kw_field:
+            print("  ⚠️  CalCareers form not recognized (no viewstate/keyword field); skipping")
+            return _load_prev_jobs(os.path.join(SCRIPT_DIR, "calcareers_jobs.json"))
+
+        for term in CALCAREERS_TERMS:
+            time.sleep(REQUEST_DELAY)
+            body = dict(hidden)
+            body[kw_field] = term
+            if submit:
+                body[submit[0]] = submit[1]
+            data = urllib.parse.urlencode(body).encode()
+            post = Request(
+                CALCAREERS_SEARCH_URL, data=data,
+                headers={**HEADERS, "Content-Type": "application/x-www-form-urlencoded"},
+            )
+            try:
+                res_html = opener.open(post, timeout=CALCAREERS_TIMEOUT).read().decode("utf-8", "ignore")
+            except (URLError, TimeoutError, OSError) as e:
+                print(f"  ⚠️  CalCareers ({term!r}): {e}")
+                continue
+            for job in _parse_calcareers_results(res_html):
+                matched += 1
+                if is_mle_role(job["title"]) and job["url"] not in jobs_by_url:
+                    jobs_by_url[job["url"]] = job
+    except (URLError, TimeoutError, OSError, ValueError) as e:
+        print(f"  ⛔ CalCareers unreachable ({e}); preserving previous results")
+        return _load_prev_jobs(os.path.join(SCRIPT_DIR, "calcareers_jobs.json"))
+
+    jobs = list(jobs_by_url.values())
+    print(f"  ✅ CalCareers: {len(jobs)} on-target role(s) (from {matched} parsed)")
+    if not jobs and matched == 0:
+        # Parsed nothing at all — likely a selector mismatch or async-loaded grid.
+        # Preserve the previous column rather than blanking it.
+        return _load_prev_jobs(os.path.join(SCRIPT_DIR, "calcareers_jobs.json"))
+    return jobs
+
+
+def save_calcareers_results(jobs: list):
+    save_jobs_output(
+        jobs,
+        basename="calcareers_jobs",
+        title="🏛 CalCareers — California State Environmental / Toxicology Roles",
+        subtitle="calcareers.ca.gov · California state civil service",
+        accent="#b45309",
+        empty_message="No new CalCareers roles since the last run.",
+        window_label="current CalCareers postings",
+    )
+
+
 def format_salary(min_amount, max_amount, interval) -> str:
     """
     Display string for jobspy's Indeed pay fields, e.g. "$150k–$190k/yr" or
@@ -1088,6 +1265,10 @@ if __name__ == "__main__":
 
     if "--linkedin-only" in sys.argv:
         save_linkedin_results(scrape_linkedin_recent())
+        sys.exit(0)
+
+    if "--calcareers-only" in sys.argv:
+        save_calcareers_results(scrape_calcareers_recent())
         sys.exit(0)
 
     if "--biotech-only" in sys.argv:

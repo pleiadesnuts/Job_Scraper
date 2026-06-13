@@ -112,8 +112,43 @@ of Environmental Health`, etc.).
 | `jobs.json` / `.md` / `.html` | Priority-employer digest | Allowlisted env/tox employer roles, last 24h, deduped against the previous run |
 | `linkedin_jobs.json` / `.md` / `.html` | LinkedIn watcher | California roles posted in the last 1h, deduped |
 | `indeed_jobs.json` / `.md` / `.html` | Indeed watcher | Indeed-sourced California roles, last 24h, deduped |
+| `calcareers_jobs.json` / `.md` / `.html` | CalCareers watcher | California state civil-service roles (calcareers.ca.gov) |
 | `all_jobs.json` | accumulator | Cumulative 14-day master (feeds the dashboard + triage) |
 | `scores.json` | triage agent | Optional fit verdicts keyed by job URL |
+
+### CalCareers (California state jobs)
+
+`scrape_jobs.py --calcareers-only` scrapes [calcareers.ca.gov](https://calcareers.ca.gov)
+— the CA state civil-service portal where OEHHA, DTSC, CARB, the Water Boards,
+and Caltrans post scientist roles. CalCareers is an ASP.NET WebForms site with
+**no public API**, so the scraper seeds a session, auto-discovers the search
+form's fields, POSTs the query, and parses the result cards. It is fully guarded
+(a failure never affects the other sources) and runs daily via
+`calcareers_watch.yml`.
+
+> ⚠️ This source could not be verified from the development network (the portal
+> sits behind a WAF that times out there); it's written to run on GitHub
+> Actions' clean egress. If the first GH run logs `0 rows`, the result-card
+> parser in `_parse_calcareers_results()` needs a selector tweak — open the
+> committed `calcareers_jobs.json` to check. CA state departments also surface
+> via LinkedIn (priority-employer allowlist) as a backstop.
+
+### Dashboard features
+
+The `triage.html` cockpit adds, on top of the source/role/seniority/date filters:
+
+- **★ Best fit** view — ranks roles by match to Dr. Coffin's specializations
+  (microplastics, ecotoxicology, risk assessment, exposure, QSAR, PFAS,
+  drinking water, computational tox…). Weights live in `FIT_TERMS` in
+  `triage.html`; every card shows a 0–100 fit chip.
+- **🚫 Not relevant** button — hides a role *and* learns from it: titles sharing
+  distinctive words with your "not relevant" marks are down-ranked in Best fit.
+- **Salary slider** — harmonizes inconsistent pay formats (hourly, monthly,
+  yearly, `$k` ranges, title-embedded) to an annual figure, then filters by a
+  minimum, with an "include unlisted" toggle.
+- **🗺 Map** view — Leaflet map of roles by California city (client-side
+  geocoding, no API key); hover a dot for the location, click for the roles
+  (top by fit). Remote/statewide roles cluster at the state center.
 
 ### Interactive triage dashboard — `triage.html`
 
@@ -147,9 +182,10 @@ From the **Actions** tab → Run workflow:
 
 Or locally:
 ```bash
-python scrape_jobs.py --biotech-only   # priority-employer digest (allowlist)
-python scrape_jobs.py --linkedin-only  # general env/tox LinkedIn, last 1h
-python scrape_jobs.py --indeed-only     # general env/tox Indeed, last 24h
+python scrape_jobs.py --biotech-only     # priority-employer digest (allowlist)
+python scrape_jobs.py --linkedin-only    # general env/tox LinkedIn, last 1h
+python scrape_jobs.py --indeed-only      # general env/tox Indeed, last 24h
+python scrape_jobs.py --calcareers-only  # California state jobs (calcareers.ca.gov)
 ```
 The LinkedIn/priority pipelines use only the standard library. Indeed requires
 `pip install -r requirements.txt` (single dep: `python-jobspy`).
@@ -191,6 +227,7 @@ scrapers and dashboard work fully without them; `scores.json` is optional.
     ├── scrape_jobs.yml             # Daily — priority-employer digest
     ├── linkedin_watch.yml          # Hourly :17 PT — general LinkedIn (last 1h)
     ├── indeed_watch.yml            # Hourly :47 PT — Indeed (last 24h)
+    ├── calcareers_watch.yml        # Daily — CalCareers (California state jobs)
     ├── linkedin_watch_backup.yml   # Watchdog :33 PT — re-dispatches missed runs
     ├── triage.yml                  # Nightly — optional fit scoring (needs secrets)
     └── evals.yml                   # Triage-agent evals (optional)
