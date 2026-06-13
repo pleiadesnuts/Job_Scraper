@@ -1,16 +1,8 @@
 {
-  "scraped_at": "2026-06-13 02:23 UTC",
-  "total": 4,
-  "new_count": 4,
+  "scraped_at": "2026-06-13 03:20 UTC",
+  "total": 3,
+  "new_count": 3,
   "jobs": [
-    {
-      "company": "California Air Resources Board",
-      "title": "Air Pollution Monitoring Technical Support",
-      "location": "Sacramento, CA",
-      "url": "https://www.linkedin.com/jobs/view/4428168922/",
-      "date_posted": "2026-06-12",
-      "ats": "LinkedIn"
-    },
     {
       "company": "GHD",
       "title": "Environmental Scientist",
@@ -20,32 +12,24 @@
       "ats": "LinkedIn"
     },
     {
+      "company": "California Air Resources Board",
+      "title": "Air Pollution Monitoring Technical Support",
+      "location": "Sacramento, CA",
+      "url": "https://www.linkedin.com/jobs/view/4428168922/",
+      "date_posted": "2026-06-12",
+      "ats": "LinkedIn"
+    },
+    {
       "company": "California Department of Toxic Substances Control",
       "title": "SENIOR ENVIRONMENTAL SCIENTIST (SPECIALIST)",
       "location": "San Diego County, CA",
       "url": "https://www.linkedin.com/jobs/view/4427578309/",
-      "date_posted": "2026-06-11",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "California Air Resources Board",
-      "title": "Staff Air Pollution Specialist",
-      "location": "Sacramento, CA",
-      "url": "https://www.linkedin.com/jobs/view/4427672108/",
       "date_posted": "2026-06-11",
       "ats": "LinkedIn"
     }
   ],
   "new_jobs": [
     {
-      "company": "California Air Resources Board",
-      "title": "Air Pollution Monitoring Technical Support",
-      "location": "Sacramento, CA",
-      "url": "https://www.linkedin.com/jobs/view/4428168922/",
-      "date_posted": "2026-06-12",
-      "ats": "LinkedIn"
-    },
-    {
       "company": "GHD",
       "title": "Environmental Scientist",
       "location": "San Diego, CA",
@@ -54,18 +38,18 @@
       "ats": "LinkedIn"
     },
     {
+      "company": "California Air Resources Board",
+      "title": "Air Pollution Monitoring Technical Support",
+      "location": "Sacramento, CA",
+      "url": "https://www.linkedin.com/jobs/view/4428168922/",
+      "date_posted": "2026-06-12",
+      "ats": "LinkedIn"
+    },
+    {
       "company": "California Department of Toxic Substances Control",
       "title": "SENIOR ENVIRONMENTAL SCIENTIST (SPECIALIST)",
       "location": "San Diego County, CA",
       "url": "https://www.linkedin.com/jobs/view/4427578309/",
-      "date_posted": "2026-06-11",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "California Air Resources Board",
-      "title": "Staff Air Pollution Specialist",
-      "location": "Sacramento, CA",
-      "url": "https://www.linkedin.com/jobs/view/4427672108/",
       "date_posted": "2026-06-11",
       "ats": "LinkedIn"
     }

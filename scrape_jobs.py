@@ -501,7 +501,7 @@ BIOTECH_COMPANY_NAMES = [
     "Duke University", "San Diego State University", "Arizona State University",
     # ---- Industry product-safety / stewardship / consumer & chemical ----
     "Procter & Gamble", "Unilever", "Colgate-Palmolive", "Johnson & Johnson",
-    "Clorox", "Seventh Generation", "Patagonia", "Genentech", "Gilead Sciences",
+    "Clorox", "Seventh Generation", "Patagonia",
     "Corteva", "Syngenta", "Dow Chemical", "BASF Corporation",
 ]
 
@@ -515,6 +515,27 @@ def _is_biotech_company(name: str) -> bool:
     if not norm:
         return False
     return any(b in norm or norm in b for b in BIOTECH_COMPANY_ALLOWLIST)
+
+
+# Pharma / drug-development companies. Dr. Coffin works in ENVIRONMENTAL
+# toxicology, never pharmaceutical / preclinical drug-safety tox, so these are
+# dropped everywhere even when the title (e.g. "Toxicologist", "Toxicology
+# Director") would otherwise match. Agrochemical and chemical manufacturers
+# (Corteva, Syngenta, Dow, BASF) are intentionally NOT here — their product-
+# stewardship / chemical-risk roles are in-scope.
+PHARMA_COMPANY_RE = re.compile(
+    r'pharmaceutical|pharma\b|therapeutics|biotherapeutic|biopharma|biologics|'
+    r'biosciences|bioscience\b|\bmedicines\b|drug discovery|oncolog|'
+    r'\bgenentech\b|\bgilead\b|\bpfizer\b|\bmerck\b|novartis|\bamgen\b|abbvie|'
+    r'regeneron|moderna|\bbiogen\b|\bsanofi\b|astrazeneca|\btakeda\b|biomarin|'
+    r'alnylam|incyte|exelixis|neurocrine|\bionis\b|\bdenali\b|\bacadia\b|adarx|'
+    r'genmab|\broche\b|bristol[ -]?myers|eli lilly|\bnuvation\b|exact sciences',
+    re.IGNORECASE,
+)
+
+
+def _is_pharma_company(name: str) -> bool:
+    return bool(PHARMA_COMPANY_RE.search(name or ""))
 
 
 def _parse_linkedin_cards(html: str) -> tuple[list[dict], int]:
@@ -1050,6 +1071,14 @@ def save_jobs_output(jobs: list, *, basename: str, title: str, subtitle: str,
     Save jobs to {basename}.{json,md,html}. Dedupes against the previous JSON at
     the same path so each email surfaces only postings new to this run.
     """
+    # Single chokepoint for the pharma exclusion: every source (LinkedIn,
+    # Indeed, priority, CalCareers) funnels through here, so dropping pharma
+    # companies once keeps all digests AND all_jobs.json clean.
+    before = len(jobs)
+    jobs = [j for j in jobs if not _is_pharma_company(j.get("company", ""))]
+    if len(jobs) < before:
+        print(f"  🚫 Dropped {before - len(jobs)} pharma role(s)")
+
     json_path = os.path.join(SCRIPT_DIR, f"{basename}.json")
     md_path = os.path.join(SCRIPT_DIR, f"{basename}.md")
     html_path = os.path.join(SCRIPT_DIR, f"{basename}.html")

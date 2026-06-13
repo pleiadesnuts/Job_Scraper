@@ -356,6 +356,12 @@
   state.triage = state.triage || {};
   state.jobs = state.jobs || [];
 
+  // ---------- Pharma exclusion (env-tox only — no drug-development companies) ----------
+  // Mirrors PHARMA_COMPANY_RE in scrape_jobs.py. Agrochemical / chemical makers
+  // (Corteva, Syngenta, Dow, BASF) are intentionally NOT matched.
+  const PHARMA_RE = /pharmaceutical|pharma\b|therapeutics|biotherapeutic|biopharma|biologics|biosciences|bioscience\b|\bmedicines\b|drug discovery|oncolog|\bgenentech\b|\bgilead\b|\bpfizer\b|\bmerck\b|novartis|\bamgen\b|abbvie|regeneron|moderna|\bbiogen\b|\bsanofi\b|astrazeneca|\btakeda\b|biomarin|alnylam|incyte|exelixis|neurocrine|\bionis\b|\bdenali\b|\bacadia\b|adarx|genmab|\broche\b|bristol[ -]?myers|eli lilly|\bnuvation\b|exact sciences/i;
+  function isPharma(company) { return PHARMA_RE.test(company || ''); }
+
   // ---------- Classifiers ----------
   function classifyRole(title) {
     const t = (title || '').toLowerCase();
@@ -556,9 +562,9 @@
       if ((d.scraped_at || '') > scraped_at) scraped_at = d.scraped_at;
     });
     if (okCount === 0) throw new Error('all sources failed');
-    const jobs = [...byUrl.values()].sort(
-      (a, b) => (b.date_posted || '').localeCompare(a.date_posted || '')
-    );
+    const jobs = [...byUrl.values()]
+      .filter(j => !isPharma(j.company))   // env-tox only — drop pharma/drug-dev
+      .sort((a, b) => (b.date_posted || '').localeCompare(a.date_posted || ''));
     return { scraped_at, new_count, new_jobs, jobs };
   }
 
@@ -1006,6 +1012,7 @@
     state.jobs = state.jobs.filter(j => {
       if (state.triage[j.url]) return true;
       if (EXCLUDED_TITLE_RE.test(j.title || '')) return false;
+      if (isPharma(j.company)) return false;   // env-tox only — drop cached pharma
       const t = jobFreshMs(j);
       return t == null || t >= cutoff;
     });
