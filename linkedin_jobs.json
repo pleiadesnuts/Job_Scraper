@@ -1,98 +1,26 @@
 {
-  "scraped_at": "2026-06-15 18:49 UTC",
-  "total": 5,
-  "new_count": 5,
+  "scraped_at": "2026-06-15 20:28 UTC",
+  "total": 1,
+  "new_count": 1,
   "jobs": [
     {
-      "company": "Exponent",
-      "title": "Principal Toxicologist (Ph.D.)",
-      "location": "Irvine, CA",
-      "url": "https://www.linkedin.com/jobs/view/4322119855/",
+      "company": "SoCalGas",
+      "title": "Environmental Science Senior I - (Natural Resource Management / Biology)",
+      "location": "California, United States",
+      "url": "https://www.linkedin.com/jobs/view/4409408420/",
       "date_posted": "2026-06-15",
       "salary": "",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Exponent",
-      "title": "Principal Toxicologist (Ph.D.)",
-      "location": "Oakland, CA",
-      "url": "https://www.linkedin.com/jobs/view/4322069915/",
-      "date_posted": "2026-06-15",
-      "salary": "",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "American Civil Constructors West Coast LLC, a MasTec Company",
-      "title": "Environmental Specialist",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4427726334/",
-      "date_posted": "2026-06-15",
-      "salary": "",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Apex Companies",
-      "title": "Environmental Scientist/Industrial Hygienist",
-      "location": "San Diego, CA",
-      "url": "https://www.linkedin.com/jobs/view/4429122116/",
-      "date_posted": "2026-06-15",
-      "salary": "",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Golden State Water Company",
-      "title": "Water Quality Analyst I (50.26)",
-      "location": "San Dimas, CA",
-      "url": "https://www.linkedin.com/jobs/view/4422460598/",
-      "date_posted": "2026-06-15",
-      "salary": "$29.36/hr - $47.09/hr",
       "ats": "LinkedIn"
     }
   ],
   "new_jobs": [
     {
-      "company": "Exponent",
-      "title": "Principal Toxicologist (Ph.D.)",
-      "location": "Irvine, CA",
-      "url": "https://www.linkedin.com/jobs/view/4322119855/",
+      "company": "SoCalGas",
+      "title": "Environmental Science Senior I - (Natural Resource Management / Biology)",
+      "location": "California, United States",
+      "url": "https://www.linkedin.com/jobs/view/4409408420/",
       "date_posted": "2026-06-15",
       "salary": "",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Exponent",
-      "title": "Principal Toxicologist (Ph.D.)",
-      "location": "Oakland, CA",
-      "url": "https://www.linkedin.com/jobs/view/4322069915/",
-      "date_posted": "2026-06-15",
-      "salary": "",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "American Civil Constructors West Coast LLC, a MasTec Company",
-      "title": "Environmental Specialist",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4427726334/",
-      "date_posted": "2026-06-15",
-      "salary": "",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Apex Companies",
-      "title": "Environmental Scientist/Industrial Hygienist",
-      "location": "San Diego, CA",
-      "url": "https://www.linkedin.com/jobs/view/4429122116/",
-      "date_posted": "2026-06-15",
-      "salary": "",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Golden State Water Company",
-      "title": "Water Quality Analyst I (50.26)",
-      "location": "San Dimas, CA",
-      "url": "https://www.linkedin.com/jobs/view/4422460598/",
-      "date_posted": "2026-06-15",
-      "salary": "$29.36/hr - $47.09/hr",
       "ats": "LinkedIn"
     }
   ]
