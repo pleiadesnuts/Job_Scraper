@@ -1,17 +1,7 @@
 {
-  "scraped_at": "2026-06-17 22:52 UTC",
-  "total": 1,
+  "scraped_at": "2026-06-17 23:51 UTC",
+  "total": 0,
   "new_count": 0,
-  "jobs": [
-    {
-      "company": "Tetra Tech",
-      "title": "Environmental Scientist",
-      "location": "Portland, OR",
-      "url": "https://www.linkedin.com/jobs/view/4424733980/",
-      "date_posted": "2026-06-17",
-      "salary": "",
-      "ats": "LinkedIn"
-    }
-  ],
+  "jobs": [],
   "new_jobs": []
 }
