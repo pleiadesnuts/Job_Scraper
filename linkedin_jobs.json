@@ -1,45 +1,7 @@
 {
-  "scraped_at": "2026-06-17 20:00 UTC",
-  "total": 3,
-  "new_count": 1,
-  "jobs": [
-    {
-      "company": "RED Digital Cinema",
-      "title": "Chemical Regulatory Manager",
-      "location": "Orange County, CA",
-      "url": "https://www.linkedin.com/jobs/view/4428755228/",
-      "date_posted": "2026-06-17",
-      "salary": "$105,000.00/yr - $120,000.00/yr",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Caltrans",
-      "title": "Environmental Scientist (JC-521506)",
-      "location": "San Joaquin County, CA",
-      "url": "https://www.linkedin.com/jobs/view/4428718902/",
-      "date_posted": "2026-06-17",
-      "salary": "",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Covetus",
-      "title": "Environmental Health Safety Specialist",
-      "location": "San Diego, CA",
-      "url": "https://www.linkedin.com/jobs/view/4430101633/",
-      "date_posted": "2026-06-17",
-      "salary": "",
-      "ats": "LinkedIn"
-    }
-  ],
-  "new_jobs": [
-    {
-      "company": "RED Digital Cinema",
-      "title": "Chemical Regulatory Manager",
-      "location": "Orange County, CA",
-      "url": "https://www.linkedin.com/jobs/view/4428755228/",
-      "date_posted": "2026-06-17",
-      "salary": "$105,000.00/yr - $120,000.00/yr",
-      "ats": "LinkedIn"
-    }
-  ]
+  "scraped_at": "2026-06-17 21:00 UTC",
+  "total": 0,
+  "new_count": 0,
+  "jobs": [],
+  "new_jobs": []
 }
