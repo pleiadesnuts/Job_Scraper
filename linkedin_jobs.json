@@ -1,7 +1,45 @@
 {
-  "scraped_at": "2026-06-17 18:06 UTC",
-  "total": 0,
-  "new_count": 0,
-  "jobs": [],
-  "new_jobs": []
+  "scraped_at": "2026-06-17 19:10 UTC",
+  "total": 2,
+  "new_count": 2,
+  "jobs": [
+    {
+      "company": "Caltrans",
+      "title": "Environmental Scientist (JC-521506)",
+      "location": "San Joaquin County, CA",
+      "url": "https://www.linkedin.com/jobs/view/4428718902/",
+      "date_posted": "2026-06-17",
+      "salary": "$53,016.00/yr - $111,852.00/yr",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Covetus",
+      "title": "Environmental Health Safety Specialist",
+      "location": "San Diego, CA",
+      "url": "https://www.linkedin.com/jobs/view/4430101633/",
+      "date_posted": "2026-06-17",
+      "salary": "$50,000.00/yr - $60,000.00/yr",
+      "ats": "LinkedIn"
+    }
+  ],
+  "new_jobs": [
+    {
+      "company": "Caltrans",
+      "title": "Environmental Scientist (JC-521506)",
+      "location": "San Joaquin County, CA",
+      "url": "https://www.linkedin.com/jobs/view/4428718902/",
+      "date_posted": "2026-06-17",
+      "salary": "$53,016.00/yr - $111,852.00/yr",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Covetus",
+      "title": "Environmental Health Safety Specialist",
+      "location": "San Diego, CA",
+      "url": "https://www.linkedin.com/jobs/view/4430101633/",
+      "date_posted": "2026-06-17",
+      "salary": "$50,000.00/yr - $60,000.00/yr",
+      "ats": "LinkedIn"
+    }
+  ]
 }
