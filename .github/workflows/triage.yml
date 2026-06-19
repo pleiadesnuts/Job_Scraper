@@ -46,6 +46,7 @@ jobs:
         run: python triage_agent.py --limit 300
 
       - name: Commit scores to repo
+        if: vars.ENABLE_DATA_COMMITS == 'true'
         run: |
           git config user.name  "${{ github.actor }}"
           git config user.email "${{ github.actor }}@users.noreply.github.com"

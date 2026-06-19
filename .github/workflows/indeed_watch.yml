@@ -66,6 +66,7 @@ jobs:
           EOF
 
       - name: Commit results to repo
+        if: vars.ENABLE_DATA_COMMITS == 'true'
         run: |
           git config user.name  "${{ github.actor }}"
           git config user.email "${{ github.actor }}@users.noreply.github.com"

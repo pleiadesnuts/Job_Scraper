@@ -36,19 +36,21 @@ Edit **`scoring_profile.json`** — controls how roles are ranked:
 
 ## 3. Commit your config to your fork
 
+These files are gitignored upstream (so upstream can never overwrite them), so you need `-f` to force-add them:
+
 ```bash
-git add config.json scoring_profile.json
+git add -f config.json scoring_profile.json
 git commit -m "chore: personalize config and scoring profile"
 git push
 ```
 
-These files are gitignored in the upstream repo so upstream can never overwrite them.
-
 ---
 
-## 4. Add GitHub Actions secrets
+## 4. Add GitHub Actions secrets and variables
 
 In your fork → **Settings → Secrets and variables → Actions**, add:
+
+**Secrets:**
 
 | Secret | Required | Description |
 |--------|----------|-------------|
@@ -60,11 +62,14 @@ In your fork → **Settings → Secrets and variables → Actions**, add:
 
 Only `ANTHROPIC_API_KEY` + the two profile secrets are required for the core workflow. Pushover is optional.
 
-Optional variable (under **Variables**, not Secrets):
+**Variables** (under the Variables tab, not Secrets):
 
-| Variable | Default | Description |
-|----------|---------|-------------|
-| `NOTIFY_MIN_FIT` | `40` | Minimum fit score to trigger a push notification |
+| Variable | Required | Default | Description |
+|----------|----------|---------|-------------|
+| `ENABLE_DATA_COMMITS` | **Yes** | *(none)* | Set to `true` — activates the commit/push step so CI saves results to your repo |
+| `NOTIFY_MIN_FIT` | No | `40` | Minimum fit score to trigger a push notification |
+
+> **Important:** Without `ENABLE_DATA_COMMITS=true`, scrapers will run and score jobs but never save results back to your repo. The upstream template leaves this unset so upstream CI never commits data that would conflict with your fork.
 
 ---
 
