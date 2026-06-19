@@ -16,49 +16,13 @@ You only need a free [**GitHub account**](https://github.com/signup). Everything
 
 ## Step 1 — Get your own copy of the repo
 
-### Option A — Fork ✅ recommended
-
 Click **Fork** at the top of this page. You get a linked copy with GitHub's built-in **Sync fork** button — one click whenever this repo gets new scrapers, bug fixes, or dashboard features.
 
 Your personal config (`config.json`, `scoring_profile.json`) and all scraped data (`output/`) are gitignored in this upstream repo, so syncing will **never** overwrite your customizations.
 
-> Can't fork because you already own this repo? Use Option C.
+### Staying up to date
 
-
-### Option B — Import (for same-account users or CLI preference)
-
-Use this when GitHub blocks forking because you already own the repo, or when you prefer the command line.
-
-1. Go to **[github.com/new/import](https://github.com/new/import)**
-2. Paste `https://github.com/ScottCoffin/Job_Scraper` as the clone URL
-3. Name your repo and click **Begin import**
-4. Clone it, then commit your config:
-
-   ```bash
-   git clone https://github.com/YOUR-USERNAME/YOUR-REPO.git
-   cd YOUR-REPO
-   cp config.example.json config.json
-   cp scoring_profile.example.json scoring_profile.json
-   # edit both files, then:
-   git add -f config.json scoring_profile.json
-   git commit -m "chore: personal config"
-   git push
-   ```
-
-   > `config.json` and `scoring_profile.json` are gitignored upstream (so upstream never overwrites them), which is why `-f` is required.
-
----
-
-### Staying up to date (Options B and C)
-
-Forks (Option A) get GitHub's native Sync fork button. For B, pull improvements manually any time:
-
-```bash
-git remote add upstream https://github.com/ScottCoffin/Job_Scraper.git  # one-time setup
-git fetch upstream && git merge upstream/main
-```
-
-Or let it run automatically: enable the **`sync_upstream.yml`** workflow in your repo (**Actions → Sync from upstream → Enable workflow**) and it merges new code every Monday.
+Enable the **`sync_upstream.yml`** workflow in your repo (**Actions → Sync from upstream → Enable workflow**) and it merges new code every Monday.
 
 > Always pull from `https://github.com/ScottCoffin/Job_Scraper` — never from someone else's personal fork.
 
@@ -78,7 +42,7 @@ You don't need to clone just to configure it — you can edit `config.json` dire
 
 This is the only file you need to change. Pick one:
 
-**First:** rename [`config.example.json`](config.example.json) to `config.json` in your repo (on GitHub: open the file → pencil → change filename at top → paste your edits → commit). If you used Option B above, you already did this locally.
+**First:** rename [`config.example.json`](config.example.json) to `config.json` in your repo (on GitHub: open the file → pencil → change filename at top → paste your edits → commit). 
 
 **A. Generate it from your CV (no coding).** Open [`docs/cv-to-config-prompt.md`](docs/cv-to-config-prompt.md), copy the prompt, and paste it into [**ChatGPT**](https://chat.openai.com), [**Claude**](https://claude.ai), or any chatbot together with your CV and your target locations. It returns a finished `config.json` ready to commit.
 
