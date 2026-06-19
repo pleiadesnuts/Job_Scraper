@@ -16,6 +16,7 @@ the LinkedIn geoId / Indeed location.
 import http.cookiejar
 import json
 import os
+import random
 import re
 import sys
 import time
@@ -23,7 +24,7 @@ import urllib.parse
 import urllib.request
 from datetime import datetime, timedelta, timezone
 from urllib.request import urlopen, Request
-from urllib.error import URLError
+from urllib.error import HTTPError, URLError
 
 SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
 OUTPUT_DIR = os.path.join(SCRIPT_DIR, "output")
@@ -130,6 +131,8 @@ KEYWORDS = _cfg("keywords.include", _KEYWORDS_DEFAULT)
 
 # Seconds to wait between API probes — keeps us polite
 REQUEST_DELAY = 0.3
+# LinkedIn needs a longer inter-request gap; jitter is added at call sites
+LINKEDIN_REQUEST_DELAY = 3.0
 
 # Biotech digest should only contain reliably fresh roles.
 FRESH_JOB_LOOKBACK = timedelta(hours=24)
@@ -166,14 +169,25 @@ _KEYWORD_RE = re.compile(
 # Helpers
 # ---------------------------------------------------------------------------
 
-def fetch(url):
+def fetch(url, *, retries=1, _base_wait=35.0):
+    """Fetch URL, retrying once on 429 with a randomised backoff."""
     req = Request(url, headers=HEADERS)
-    try:
-        with urlopen(req, timeout=15) as r:
-            return r.read().decode("utf-8", errors="ignore")
-    except (URLError, TimeoutError, OSError) as e:
-        print(f"  WARNING: Could not fetch {url}: {e}")
-        return ""
+    for attempt in range(retries + 1):
+        try:
+            with urlopen(req, timeout=15) as r:
+                return r.read().decode("utf-8", errors="ignore")
+        except HTTPError as e:
+            if e.code == 429 and attempt < retries:
+                wait = _base_wait + random.uniform(0, 15)
+                print(f"  ⏳ Rate-limited (429); waiting {wait:.0f}s then retrying…")
+                time.sleep(wait)
+                continue
+            print(f"  WARNING: Could not fetch {url}: {e}")
+            return ""
+        except (URLError, TimeoutError, OSError) as e:
+            print(f"  WARNING: Could not fetch {url}: {e}")
+            return ""
+    return ""
 
 
 def is_mle_role(title: str) -> bool:
@@ -691,7 +705,7 @@ def _linkedin_search(terms: list[str], lookback_seconds: int,
         geo_param = f"&geoId={geo['geoId']}" if geo.get("geoId") else ""
         for term in terms:
             for start in range(0, 75, 25):
-                time.sleep(REQUEST_DELAY)
+                time.sleep(LINKEDIN_REQUEST_DELAY + random.uniform(0, 2))
                 url = (
                     "https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search"
                     f"?keywords={urllib.parse.quote(term)}"
@@ -841,7 +855,7 @@ def _enrich_linkedin_postings(jobs: list) -> tuple[int, int]:
         m = re.search(r'/jobs/view/(\d+)', job.get("url", ""))
         if not m:
             continue
-        time.sleep(REQUEST_DELAY)
+        time.sleep(LINKEDIN_REQUEST_DELAY + random.uniform(0, 2))
         fetched += 1
         try:
             sal, desc = _linkedin_posting_details(m.group(1))
