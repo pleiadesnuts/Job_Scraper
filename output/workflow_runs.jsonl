@@ -37,3 +37,4 @@
 {"job_count": 0, "run_attempt": "1", "run_id": "27878586026", "timestamp": "2026-06-20T17:29:18Z", "workflow": "hiringcafe"}
 {"job_count": 0, "run_attempt": "1", "run_id": "27878865280", "timestamp": "2026-06-20T17:40:53Z", "workflow": "glassdoor"}
 {"job_count": 0, "run_attempt": "1", "run_id": "27879069117", "timestamp": "2026-06-20T17:56:59Z", "workflow": "linkedin"}
+{"job_count": 0, "run_attempt": "1", "run_id": "27879247815", "timestamp": "2026-06-20T17:57:25Z", "workflow": "ziprecruiter"}
