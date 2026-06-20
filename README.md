@@ -1,6 +1,6 @@
 # 🧪 Job Scraper + Triage Dashboard
 
-GitHub Actions pipelines that scrape job boards (LinkedIn, Indeed, Glassdoor, USAJOBS, NEOGOV, CalOpps, CalCareers) on a schedule, commit the results to the repo, and surface them in a single filterable [`triage.html`](#interactive-triage-dashboard--triagehtml) dashboard hosted **free** on GitHub Pages — with a map, salary harmonization, cross-source de-duplication, notes, bulk save/applied/dismiss triage, and optional phone notifications. **No server, no paid services, and no API keys required.**
+GitHub Actions pipelines that scrape job boards (LinkedIn, Indeed, Glassdoor, ZipRecruiter, Google Jobs, HiringCafe, USAJOBS, NEOGOV, CalOpps, CalCareers) on a schedule, commit the results to the repo, and surface them in a single filterable [`triage.html`](#interactive-triage-dashboard--triagehtml) dashboard hosted **free** on GitHub Pages — with a map, salary harmonization, cross-source de-duplication, notes, bulk workflow states, CSV export, application-packet prompts, and optional phone notifications. **No server, no paid services, and no API keys required.**
 
 **Everything you search for lives in one file: [`config.json`](config.json)** — point it at your field and locations (or generate it from your CV with an LLM) and you have your own tracker. Live example: [scottcoff.in/Job_Scraper/triage.html](https://scottcoff.in/Job_Scraper/triage.html).
 
@@ -48,7 +48,7 @@ This is the only file you need to change. Pick one:
 
 **B. Edit by hand.** `config.example.json` is fully self-documenting. The two things almost everyone change: `keywords.include` + `search_terms` (what roles) and `locations` (where; LinkedIn `geoId` can be left `""`).
 
-Optional knobs: `profile` (dashboard title/subtitle), `keywords.exclude`, `employers.priority` / `employers.exclude`, `priority_topics` (⭐ highlights), `role_categories` (the Role-filter buckets).
+Optional knobs: `profile` (dashboard title/subtitle), `keywords.exclude`, `employers.priority` / `employers.exclude`, `priority_topics` (⭐ highlights), `role_categories` (the Role-filter buckets), and per-source `search_terms` / `locations`.
 
 ## Step 3 — Host the dashboard (GitHub Pages)
 
@@ -86,6 +86,9 @@ Several watchers have a `backfill` toggle in the "Run workflow" dialog that pull
 | **LinkedIn Watcher** | last 1 hour | last 30 days |
 | **Indeed Watcher** | last 24 hours | last 50 days |
 | **Glassdoor Watcher** | last 24 hours | last 30 days |
+| **ZipRecruiter Watcher** | last 24 hours | last 30 days |
+| **Google Jobs Watcher** | last 24 hours | last 30 days |
+| **HiringCafe Watcher** | last 30 days | last 61 days |
 | **Priority Employer Digest** | last 24 hours | last 30 days |
 | **Local & State Gov Watcher (NEOGOV)** | last 21 days | last 60 days |
 
@@ -121,9 +124,12 @@ Optional — only if you want to test scrapes on your own machine. Needs [**Pyth
 ``` bash
 python scrape_jobs.py --linkedin-only      # standard library only
 python scrape_jobs.py --usajobs-only       # standard library only
-pip install -r requirements.txt            # JobSpy-backed boards: Indeed + Glassdoor
+python scrape_jobs.py --hiringcafe-only    # standard library only
+pip install -r requirements.txt            # JobSpy-backed boards
 python scrape_jobs.py --indeed-only
 python scrape_jobs.py --glassdoor-only
+python scrape_jobs.py --ziprecruiter-only
+python scrape_jobs.py --google-jobs-only
 python -m http.server 8000                 # then open http://localhost:8000/triage.html
 ```
 
@@ -143,7 +149,7 @@ Hits LinkedIn's public guest endpoint for roles in your configured locations pos
 
 Output goes to `jobs.json`, `jobs.md`, and `jobs.html`. Each run dedupes against the previously-committed `jobs.json`, so the output surfaces only postings new since the last run.
 
-> A direct-ATS probe path (`CURATED_BIOTECHS`) also exists but is **empty by default** in the shipped example. It is useful only when your target employers expose job data through supported public ATS endpoints. The LinkedIn + JobSpy-backed keyword watchers (Indeed + Glassdoor) are the primary sources for most users.
+> A direct-ATS probe path (`CURATED_BIOTECHS`) also exists but is **empty by default** in the shipped example. It is useful only when your target employers expose job data through supported public ATS endpoints. The LinkedIn + JobSpy-backed keyword watchers (Indeed, Glassdoor, ZipRecruiter, and Google Jobs) are the primary sources for most users.
 
 ### 2. LinkedIn watcher — hourly, last 1h
 
@@ -160,6 +166,18 @@ Uses [`python-jobspy`](https://pypi.org/project/python-jobspy/) (Indeed's RSS an
 ### 4. Glassdoor watcher — hourly, last 24h
 
 Also uses [`python-jobspy`](https://pypi.org/project/python-jobspy/) to add Glassdoor coverage without adding a second scraping stack. By default it reuses the same search terms and locations as Indeed unless you add `search_terms.glassdoor` or `locations.glassdoor` to `config.json`. Output goes to `glassdoor_jobs.json`, `glassdoor_jobs.md`, and `glassdoor_jobs.html`, deduped against the previous run. Runs at :07 PT, offset from the LinkedIn and Indeed watchers.
+
+### 5. ZipRecruiter watcher — hourly, last 24h
+
+Uses [`python-jobspy`](https://pypi.org/project/python-jobspy/) for ZipRecruiter coverage. By default it searches the US locations from `locations.indeed`; set `search_terms.ziprecruiter` or `locations.ziprecruiter` to tune it separately. Output goes to `ziprecruiter_jobs.json`, `ziprecruiter_jobs.md`, and `ziprecruiter_jobs.html`, deduped against the previous run. Runs at :27 PT.
+
+### 6. Google Jobs watcher — hourly, last 24h
+
+Uses JobSpy's Google Jobs adapter, which keeps this repo free of paid proxy APIs and browser automation. Configure with `search_terms.google_jobs` and `locations.google_jobs`. Output goes to `google_jobs.json`, `google_jobs.md`, and `google_jobs.html`, deduped against the previous run. Runs at :37 PT.
+
+### 7. HiringCafe watcher — hourly, last 30d
+
+Searches HiringCafe's public search API for direct-from-employer listings, with conservative `hiring_cafe.page_size` and `hiring_cafe.max_pages` guardrails. Configure with `search_terms.hiring_cafe`, `locations.hiring_cafe`, and the optional `hiring_cafe` settings in `config.json`. If the API returns no rows or errors for every page, the scraper preserves the previous `hiringcafe_jobs.*` files instead of wiping the dashboard source. Runs at :57 PT.
 
 ## Keywords Matched
 
@@ -184,7 +202,8 @@ The list is deliberately **tight** for precision: generic titles (`research scie
 **You define the locations** in [`config.json`](config.json) → `locations` (no code edits). The shipped example searches California, Portland & Bend OR, and Australia, but it works for anywhere — add/remove entries to suit:
 
 -   **LinkedIn** — `locations.linkedin`: each is a `location` + LinkedIn `geoId`. Leave `geoId` blank to let LinkedIn resolve the text (works for most cities/metros), or fill in the numeric id for tighter filtering. A geoId reference table is in [`docs/cv-to-config-prompt.md`](docs/cv-to-config-prompt.md).
--   **Indeed / Glassdoor** — `locations.indeed` and `locations.glassdoor`: each is a `location` + `country` (`USA` → indeed.com, `Australia` → au.indeed.com, `GB`, `Canada`, …). Glassdoor falls back to the Indeed terms/locations if omitted.
+-   **Indeed / Glassdoor / ZipRecruiter / Google Jobs** — each JobSpy-backed source takes a `location` + `country` (`USA`, `Australia`, `GB`, `Canada`, …). Glassdoor and Google Jobs fall back to Indeed locations if omitted; ZipRecruiter defaults to the US Indeed locations.
+-   **HiringCafe** — `locations.hiring_cafe`: broad country/state/city labels such as `United States`, `California`, or `Portland, OR`; page depth is capped by `hiring_cafe.max_pages`.
 -   **USAJOBS** is nationwide US (federal); **NEOGOV** is filtered to your configured locations; **CalCareers** and **CalOpps** are California-only boards by nature (disable them if you're not searching California).
 -   The map and dashboard auto-fit to wherever your jobs are.
 
@@ -196,6 +215,9 @@ The list is deliberately **tight** for precision: generic titles (`research scie
 | `linkedin_jobs.json` / `.md` / `.html` | LinkedIn watcher | Roles in your configured locations, last 1h, deduped |
 | `indeed_jobs.json` / `.md` / `.html` | Indeed watcher | Indeed-sourced roles in your locations, last 24h, deduped |
 | `glassdoor_jobs.json` / `.md` / `.html` | Glassdoor watcher | Glassdoor-sourced roles in your locations, last 24h, deduped |
+| `ziprecruiter_jobs.json` / `.md` / `.html` | ZipRecruiter watcher | ZipRecruiter-sourced roles in your locations, last 24h, deduped |
+| `google_jobs.json` / `.md` / `.html` | Google Jobs watcher | Google Jobs roles in your locations, last 24h, deduped |
+| `hiringcafe_jobs.json` / `.md` / `.html` | HiringCafe watcher | Direct-employer roles from HiringCafe, last 30d, guarded |
 | `calcareers_jobs.json` / `.md` / `.html` | CalCareers watcher | California state civil-service roles (calcareers.ca.gov) |
 | `usajobs_jobs.json` / `.md` / `.html` | USAJOBS watcher | US federal roles matching your configured keywords, with salary, via usajobs.gov |
 | `governmentjobs_jobs.json` / `.md` / `.html` | NEOGOV watcher | State & local-gov roles matching your configured keywords via governmentjobs.com |
@@ -227,17 +249,20 @@ Both are HTML scrapes (no API), fully guarded, and run daily via `localgov_watch
 The `triage.html` cockpit adds, on top of the source/role/seniority/date filters:
 
 -   **★ Priority topics** — roles touching your configured signature topics get a gold ★ and a highlighted card; a toggle filters to just those. The shipped example uses microplastics, ecotoxicology, endocrine-disrupting chemicals, and R/Shiny. Edit `priority_topics` in `config.json` and the matching dashboard terms to change what's flagged.
--   **Cross-source de-dup** — the same role cross-posted to LinkedIn, Indeed, Glassdoor, and public-sector boards collapses into one card (matched on title + location + compatible company), showing source badges; triage applies to all copies at once.
+-   **Cross-source de-dup** — the same role cross-posted to LinkedIn, Indeed, Glassdoor, ZipRecruiter, Google Jobs, HiringCafe, and public-sector boards collapses into one card (matched on title + location + compatible company), showing source badges; triage applies to all copies at once.
 -   **★ Best fit** view — ranks roles by match to the target user's specializations. The shipped example uses environmental/toxicology criteria, but you should replace those weights with criteria for your own domain. Weights live in `FIT_TERMS` in `triage.html`; every card shows a 0–100 fit chip.
 -   **🚫 Not relevant** button — hides a role *and* learns from it: titles sharing distinctive words with your "not relevant" marks are down-ranked in Best fit.
--   **Bulk triage + notes** — select multiple visible roles, then mark them saved, applied, dismissed, or not relevant in one action. Each card also has a local note field for follow-up details, contacts, or deadlines.
--   **Keyboard triage** — `/` focuses search; `j`/`k` moves the focused card; `x` selects it; `s`, `a`, and `d` mark saved/applied/dismissed; `n` focuses notes; `1`/`2`/`3` switch Browse/Best fit/Map; `?` shows the shortcut hint.
+-   **Bulk triage + notes** — select multiple visible roles, then mark them saved, applied, interview, offer, dismissed, or not relevant in one action. Each card also has a local note field for follow-up details, contacts, or deadlines.
+-   **Company blocking** — hide a noisy employer from this browser without editing config; the block list is stored locally with your triage state.
+-   **Application packets** — copy a per-job or bulk prompt containing job details, fit signals, notes, and instructions for tailoring resume bullets, a cover letter, and screening answers. It never auto-applies or submits credentials.
+-   **CSV export** — download the currently visible jobs, including status, notes, source badges, salary, remote/type metadata, and URLs.
+-   **Keyboard triage** — `/` focuses search; `j`/`k` moves the focused card; `x` selects it; `s`, `a`, `i`, and `d` mark saved/applied/interview/dismissed; `p` copies an application packet; `o` opens the focused job; `n` focuses notes; `1`/`2`/`3` switch Browse/Best fit/Map; `?` shows the shortcut hint.
 -   **Salary slider** — harmonizes inconsistent pay formats (hourly, monthly, yearly, `$k` ranges, title-embedded) to an annual figure, then filters by a minimum, with an "include unlisted" toggle.
 -   **🗺 Map** view — Leaflet map of roles by city (client-side geocoding, no API key) that auto-fits to wherever your jobs are; hover a dot for the location, click for the roles. Remote/unknown roles cluster at a default center.
 
 ### Interactive triage dashboard — `triage.html`
 
-A single-file dashboard hosted on GitHub Pages that merges the latest source JSONs into one filterable cockpit: search; source / role / seniority filters (role buckets come from `config.json`); save / applied / dismiss / not-relevant triage persisted in localStorage; per-job notes; bulk actions; keyboard shortcuts; and top-companies, role-mix, and salary charts.
+A single-file dashboard hosted on GitHub Pages that merges the latest source JSONs into one filterable cockpit: search; source / role / seniority filters (role buckets come from `config.json`); save / applied / interview / offer / dismiss / not-relevant triage persisted in localStorage; per-job notes; company blocking; CSV export; application packets; bulk actions; keyboard shortcuts; and top-companies, role-mix, and salary charts.
 
 **View it (after enabling Pages — see Deployment):** `https://scottcoffin.github.io/Job_Scraper/triage.html`
 
@@ -261,13 +286,16 @@ python scrape_jobs.py --biotech-only         # priority-employer digest (allowli
 python scrape_jobs.py --linkedin-only        # general LinkedIn, last 1h
 python scrape_jobs.py --indeed-only          # general Indeed, last 24h
 python scrape_jobs.py --glassdoor-only       # general Glassdoor, last 24h
+python scrape_jobs.py --ziprecruiter-only    # general ZipRecruiter, last 24h
+python scrape_jobs.py --google-jobs-only     # Google Jobs, last 24h
+python scrape_jobs.py --hiringcafe-only      # HiringCafe, last 30d
 python scrape_jobs.py --usajobs-only         # US federal jobs (usajobs.gov, no API key)
 python scrape_jobs.py --governmentjobs-only  # state/local gov (NEOGOV)
 python scrape_jobs.py --calopps-only         # California local agencies (calopps.org)
 python scrape_jobs.py --calcareers-only      # California state jobs (calcareers.ca.gov)
 ```
 
-The LinkedIn / priority / USAJOBS / gov pipelines use only the **Python standard library**. Indeed and Glassdoor use one optional dependency: `pip install -r requirements.txt` (single package, `python-jobspy`).
+The LinkedIn / priority / HiringCafe / USAJOBS / gov pipelines use only the **Python standard library**. Indeed, Glassdoor, ZipRecruiter, and Google Jobs use one optional dependency: `pip install -r requirements.txt` (single package, `python-jobspy`).
 
 ### 📲 Phone notifications (Pushover)
 
@@ -424,12 +452,15 @@ Paste your CV text into `CANDIDATE_RESUME`. Without these secrets, leave `triage
 ├── notify.py                       # Pushover notifications (optional)
 ├── triage_agent.py                 # Optional nightly fit-scoring agent (Claude API)
 ├── eval_triage.py                  # Golden-case evals for the triage agent
-├── requirements.txt                # python-jobspy (Indeed + Glassdoor)
+├── requirements.txt                # python-jobspy (Indeed, Glassdoor, ZipRecruiter, Google Jobs)
 ├── output/                         # Scraped data — gitignored upstream, populated by your CI
 │   ├── jobs.{json,md,html}         # Priority-employer digest (last 24h)
 │   ├── linkedin_jobs.{json,md,html}
 │   ├── indeed_jobs.{json,md,html}
 │   ├── glassdoor_jobs.{json,md,html}
+│   ├── ziprecruiter_jobs.{json,md,html}
+│   ├── google_jobs.{json,md,html}
+│   ├── hiringcafe_jobs.{json,md,html}
 │   ├── calcareers_jobs.{json,md,html}
 │   ├── usajobs_jobs.{json,md,html}
 │   ├── governmentjobs_jobs.{json,md,html}
@@ -446,6 +477,9 @@ Paste your CV text into `CANDIDATE_RESUME`. Without these secrets, leave `triage
     ├── linkedin_watch.yml          # Hourly :17 PT — general LinkedIn (last 1h)
     ├── indeed_watch.yml            # Hourly :47 PT — Indeed (last 24h)
     ├── glassdoor_watch.yml         # Hourly :07 PT — Glassdoor (last 24h)
+    ├── ziprecruiter_watch.yml      # Hourly :27 PT — ZipRecruiter (last 24h)
+    ├── google_jobs_watch.yml       # Hourly :37 PT — Google Jobs (last 24h)
+    ├── hiringcafe_watch.yml        # Hourly :57 PT — HiringCafe (last 30d)
     ├── calcareers_watch.yml        # Daily — CalCareers (California state jobs)
     ├── usajobs_watch.yml           # Daily — USAJOBS (federal jobs, no API key)
     ├── localgov_watch.yml          # Daily — NEOGOV + CalOpps (state & local gov)
@@ -458,6 +492,6 @@ Paste your CV text into `CANDIDATE_RESUME`. Without these secrets, leave `triage
 
 ## Tuning the search
 
-Everything you'd adjust lives in [**`config.json`**](config.json) (no code edits) — the scraper and dashboard both read it: - `keywords.include` — title-match terms · `keywords.exclude` — titles to drop. - `search_terms.linkedin` / `search_terms.indeed` / `search_terms.glassdoor` — queries sent to the boards. - `locations.linkedin` (with `geoId`) / `locations.indeed` and `locations.glassdoor` (with `country`). - `employers.priority` (allowlist for the digest) / `employers.exclude` (drop). - `priority_topics` (⭐ highlights) · `role_categories` (Role-filter buckets) · `profile` (dashboard + digest branding).
+Everything you'd adjust lives in [**`config.json`**](config.json) (no code edits) — the scraper and dashboard both read it: - `keywords.include` — title-match terms · `keywords.exclude` — titles to drop. - `search_terms.*` — queries sent to LinkedIn, Indeed, Glassdoor, ZipRecruiter, Google Jobs, and HiringCafe. - `locations.*` — LinkedIn `geoId`, JobSpy `location` + `country`, and HiringCafe broad place labels. - `hiring_cafe` — optional page/workplace guardrails. - `employers.priority` (allowlist for the digest) / `employers.exclude` (drop). - `priority_topics` (⭐ highlights) · `role_categories` (Role-filter buckets) · `profile` (dashboard + digest branding).
 
 Generate the whole file from your CV with [`docs/cv-to-config-prompt.md`](docs/cv-to-config-prompt.md), or edit it by hand (every key is commented).

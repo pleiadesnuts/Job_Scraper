@@ -52,11 +52,23 @@
     "glassdoor": [
       "toxicologist", "environmental scientist", "risk assessment", "exposure scientist",
       "ecotoxicologist", "microplastics", "water quality scientist", "environmental health scientist"
+    ],
+    "ziprecruiter": [
+      "toxicologist", "environmental scientist", "risk assessment", "exposure scientist",
+      "ecotoxicologist", "microplastics", "water quality scientist", "environmental health scientist"
+    ],
+    "google_jobs": [
+      "toxicologist", "environmental scientist", "risk assessment", "exposure scientist",
+      "ecotoxicologist", "microplastics", "water quality scientist", "environmental health scientist"
+    ],
+    "hiring_cafe": [
+      "toxicologist", "environmental scientist", "risk assessment", "exposure scientist",
+      "ecotoxicologist", "microplastics", "water quality scientist", "environmental health scientist"
     ]
   },
 
   "locations": {
-    "_comment": "LinkedIn needs a geoId (find via the guest endpoint; leave blank to let LinkedIn resolve the text). JobSpy-backed boards such as Indeed and Glassdoor need a location + country (USA, Australia, Canada, GB...). The map auto-fits to wherever the jobs are.",
+    "_comment": "LinkedIn needs a geoId (find via the guest endpoint; leave blank to let LinkedIn resolve the text). JobSpy-backed boards such as Indeed, Glassdoor, ZipRecruiter, and Google Jobs need a location + country (USA, Australia, Canada, GB...). HiringCafe accepts broad country/state/city names. The map auto-fits to wherever the jobs are.",
     "linkedin": [
       { "name": "California",  "location": "California, United States",          "geoId": "102095887" },
       { "name": "Portland OR", "location": "Portland, Oregon Metropolitan Area", "geoId": "90000079" },
@@ -74,7 +86,28 @@
       { "location": "Portland, OR", "country": "USA" },
       { "location": "Bend, OR",     "country": "USA" },
       { "location": "Australia",    "country": "Australia" }
+    ],
+    "ziprecruiter": [
+      { "location": "California",   "country": "USA" },
+      { "location": "Portland, OR", "country": "USA" },
+      { "location": "Bend, OR",     "country": "USA" }
+    ],
+    "google_jobs": [
+      { "location": "California",   "country": "USA" },
+      { "location": "Portland, OR", "country": "USA" },
+      { "location": "Bend, OR",     "country": "USA" },
+      { "location": "Australia",    "country": "Australia" }
+    ],
+    "hiring_cafe": [
+      { "location": "United States" }
     ]
+  },
+
+  "hiring_cafe": {
+    "_comment": "Guardrails for HiringCafe's official search API. Increase max_pages cautiously if you broaden search_terms.",
+    "page_size": 100,
+    "max_pages": 3,
+    "workplace_types": ["Remote", "Hybrid", "Onsite"]
   },
 
   "employers": {

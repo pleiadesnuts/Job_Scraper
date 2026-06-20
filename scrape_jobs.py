@@ -20,6 +20,7 @@ import random
 import re
 import sys
 import time
+import urllib.error
 import urllib.parse
 import urllib.request
 from datetime import datetime, timedelta, timezone
@@ -938,6 +939,17 @@ GLASSDOOR_LOOKBACK_HOURS = 24
 GLASSDOOR_BACKFILL_DAYS = 30
 GLASSDOOR_GEOS = _cfg("locations.glassdoor", INDEED_GEOS)
 GLASSDOOR_SEARCH_TERMS = _cfg("search_terms.glassdoor", INDEED_SEARCH_TERMS)
+ZIPRECRUITER_LOOKBACK_HOURS = 24
+ZIPRECRUITER_BACKFILL_DAYS = 30
+ZIPRECRUITER_GEOS = _cfg("locations.ziprecruiter", [
+    geo for geo in INDEED_GEOS
+    if str(geo.get("country", "")).lower() in {"usa", "us", "united states", "canada"}
+])
+ZIPRECRUITER_SEARCH_TERMS = _cfg("search_terms.ziprecruiter", INDEED_SEARCH_TERMS)
+GOOGLE_JOBS_LOOKBACK_HOURS = 24
+GOOGLE_JOBS_BACKFILL_DAYS = 30
+GOOGLE_JOBS_GEOS = _cfg("locations.google_jobs", INDEED_GEOS)
+GOOGLE_JOBS_SEARCH_TERMS = _cfg("search_terms.google_jobs", INDEED_SEARCH_TERMS)
 
 # jobspy returns the full JD (markdown) for many boards. We keep a trimmed copy
 # in source JSONs and all_jobs.json so the dashboard, deterministic scorer, and
@@ -946,8 +958,17 @@ GLASSDOOR_SEARCH_TERMS = _cfg("search_terms.glassdoor", INDEED_SEARCH_TERMS)
 JOBSPY_JD_MAX_CHARS = 6000
 
 
+def _coerce_bool(value):
+    if isinstance(value, bool):
+        return value
+    if value in ("", None):
+        return None
+    return str(value).strip().lower() in {"1", "true", "yes", "remote"}
+
+
 def _scrape_jobspy_board(*, label: str, site_name: str, geos: list, terms: list,
-                         hours_old: int, prev_basename: str) -> list:
+                         hours_old: int, prev_basename: str,
+                         results_wanted: int = 50) -> list:
     """Scrape one JobSpy-supported board and normalize rows into this repo's schema."""
     print(f"🟦 Scraping {label} (last {hours_old}h)...")
     try:
@@ -970,10 +991,12 @@ def _scrape_jobspy_board(*, label: str, site_name: str, geos: list, terms: list,
             df = jobspy_scrape(
                 site_name=[site_name],
                 search_term=term,
-                location=geo["location"],
-                results_wanted=50,
+                location=geo.get("location", ""),
+                results_wanted=results_wanted,
                 hours_old=hours_old,
-                country_indeed=geo["country"],
+                country_indeed=geo.get("country", "USA"),
+                enforce_annual_salary=False,
+                verbose=0,
             )
         except Exception as e:
             errored_terms += 1
@@ -1003,6 +1026,8 @@ def _scrape_jobspy_board(*, label: str, site_name: str, geos: list, terms: list,
                 "title": title,
                 "location": loc,
                 "url": url,
+                "direct_url": str(row.get("job_url_direct", "") or ""),
+                "company_url": str(row.get("company_url", "") or ""),
                 "date_posted": str(row.get("date_posted", "") or ""),
                 "description": str(row.get("description", "") or "")[:JOBSPY_JD_MAX_CHARS],
                 "salary": format_salary(
@@ -1010,6 +1035,11 @@ def _scrape_jobspy_board(*, label: str, site_name: str, geos: list, terms: list,
                     row.get("max_amount", ""),
                     row.get("interval", ""),
                 ),
+                "salary_source": str(row.get("salary_source", "") or ""),
+                "salary_currency": str(row.get("currency", "") or ""),
+                "job_type": str(row.get("job_type", "") or ""),
+                "is_remote": _coerce_bool(row.get("is_remote")),
+                "emails": str(row.get("emails", "") or ""),
                 "ats": label,
             }
     jobs = list(jobs_by_id.values())
@@ -1059,6 +1089,271 @@ def scrape_glassdoor_recent(hours_old: int | None = None) -> list:
         hours_old=h,
         prev_basename="glassdoor_jobs",
     )
+
+
+def scrape_ziprecruiter_recent(hours_old: int | None = None) -> list:
+    """ZipRecruiter roles posted in the last hours_old hours."""
+    h = hours_old if hours_old is not None else ZIPRECRUITER_LOOKBACK_HOURS
+    return _scrape_jobspy_board(
+        label="ZipRecruiter",
+        site_name="zip_recruiter",
+        geos=ZIPRECRUITER_GEOS,
+        terms=ZIPRECRUITER_SEARCH_TERMS,
+        hours_old=h,
+        prev_basename="ziprecruiter_jobs",
+        results_wanted=30,
+    )
+
+
+def scrape_google_jobs_recent(hours_old: int | None = None) -> list:
+    """Google Jobs roles posted in the last hours_old hours via JobSpy."""
+    h = hours_old if hours_old is not None else GOOGLE_JOBS_LOOKBACK_HOURS
+    return _scrape_jobspy_board(
+        label="GoogleJobs",
+        site_name="google",
+        geos=GOOGLE_JOBS_GEOS,
+        terms=GOOGLE_JOBS_SEARCH_TERMS,
+        hours_old=h,
+        prev_basename="google_jobs",
+        results_wanted=30,
+    )
+
+
+# ---------------------------------------------------------------------------
+# HiringCafe — official search API (direct-from-employer listings)
+# ---------------------------------------------------------------------------
+
+HIRINGCAFE_LOOKBACK_DAYS = 30
+HIRINGCAFE_BACKFILL_DAYS = 61
+HIRINGCAFE_PAGE_SIZE = int(_cfg("hiring_cafe.page_size", 100))
+HIRINGCAFE_MAX_PAGES = int(_cfg("hiring_cafe.max_pages", 3))
+HIRINGCAFE_SEARCH_TERMS = _cfg("search_terms.hiring_cafe", INDEED_SEARCH_TERMS)
+HIRINGCAFE_RAW_LOCATIONS = _cfg("locations.hiring_cafe", [{"location": "United States"}])
+
+HIRINGCAFE_HEADERS = {
+    "User-Agent": ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
+                   "AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130 Safari/537.36"),
+    "Accept": "application/json, text/plain, */*",
+    "Accept-Language": "en-US,en;q=0.9",
+    "Content-Type": "application/json",
+    "Origin": "https://hiring.cafe",
+    "Referer": "https://hiring.cafe/",
+    "Sec-Fetch-Dest": "empty",
+    "Sec-Fetch-Mode": "cors",
+    "Sec-Fetch-Site": "same-origin",
+}
+
+HIRINGCAFE_LOCATION_PRESETS = {
+    "united states": ("United States", "US", ["country"], "39.8283", "-98.5795"),
+    "usa": ("United States", "US", ["country"], "39.8283", "-98.5795"),
+    "california": ("California, United States", "CA", ["administrative_area_level_1"], "36.7783", "-119.4179"),
+    "portland, or": ("Portland, Oregon, United States", "Portland", ["locality"], "45.5152", "-122.6784"),
+    "bend, or": ("Bend, Oregon, United States", "Bend", ["locality"], "44.0582", "-121.3153"),
+    "australia": ("Australia", "AU", ["country"], "-25.2744", "133.7751"),
+}
+
+
+def _hiringcafe_location(entry: dict | str) -> dict:
+    if isinstance(entry, dict) and entry.get("formatted_address"):
+        return entry
+    text = entry if isinstance(entry, str) else (
+        entry.get("location") or entry.get("name") or entry.get("formatted_address") or "United States"
+    )
+    key = str(text).strip().lower()
+    formatted, short_name, types, lat, lon = HIRINGCAFE_LOCATION_PRESETS.get(
+        key, (str(text), str(text).split(",")[0], ["locality"], "", "")
+    )
+    loc = {
+        "formatted_address": formatted,
+        "types": types,
+        "id": "config_" + re.sub(r"[^a-z0-9]+", "_", formatted.lower()).strip("_"),
+        "address_components": [{
+            "long_name": formatted,
+            "short_name": short_name,
+            "types": types,
+        }],
+        "options": {"flexible_regions": ["anywhere_in_continent", "anywhere_in_world"]},
+    }
+    if lat and lon:
+        loc["geometry"] = {"location": {"lat": lat, "lon": lon}}
+    return loc
+
+
+def _hiringcafe_search_state(query: str, days: int) -> dict:
+    return {
+        "locations": [_hiringcafe_location(g) for g in HIRINGCAFE_RAW_LOCATIONS],
+        "workplaceTypes": _cfg("hiring_cafe.workplace_types", ["Remote", "Hybrid", "Onsite"]),
+        "defaultToUserLocation": False,
+        "userLocation": None,
+        "currency": {"label": "Any", "value": None},
+        "frequency": {"label": "Any", "value": None},
+        "restrictJobsToTransparentSalaries": False,
+        "calcFrequency": "Yearly",
+        "commitmentTypes": _cfg(
+            "hiring_cafe.commitment_types",
+            ["Full Time", "Part Time", "Contract", "Temporary", "Seasonal"],
+        ),
+        "seniorityLevel": _cfg(
+            "hiring_cafe.seniority",
+            ["No Prior Experience Required", "Entry Level", "Mid Level", "Senior Level"],
+        ),
+        "roleTypes": ["Individual Contributor", "People Manager"],
+        "roleYoeRange": [0, 30],
+        "managementYoeRange": [0, 30],
+        "securityClearances": ["None", "Confidential", "Secret", "Top Secret", "Top Secret/SCI", "Public Trust", "Interim Clearances", "Other"],
+        "airTravelRequirement": ["None", "Minimal", "Moderate", "Extensive"],
+        "landTravelRequirement": ["None", "Minimal", "Moderate", "Extensive"],
+        "onCallRequirements": ["None", "Occasional (once a month or less)", "Regular (once a week or more)"],
+        "applicationFormEase": [],
+        "companyNames": [],
+        "excludedCompanyNames": [],
+        "industries": [],
+        "excludedIndustries": [],
+        "searchQuery": query,
+        "dateFetchedPastNDays": days,
+        "hiddenCompanies": [],
+        "sortBy": "default",
+    }
+
+
+def _post_hiringcafe_json(path: str, payload: dict) -> dict | list | None:
+    body = json.dumps(payload).encode("utf-8")
+    req = urllib.request.Request(
+        "https://hiring.cafe" + path,
+        data=body,
+        method="POST",
+        headers=HIRINGCAFE_HEADERS,
+    )
+    with urllib.request.urlopen(req, timeout=35) as resp:
+        return json.loads(resp.read().decode("utf-8"))
+
+
+def _hiringcafe_batch(data) -> list:
+    if isinstance(data, list):
+        return data
+    if not isinstance(data, dict):
+        return []
+    for key in ("results", "jobs", "data", "items", "content"):
+        if isinstance(data.get(key), list):
+            return data[key]
+    hits = data.get("hits")
+    if isinstance(hits, dict) and isinstance(hits.get("hits"), list):
+        return [hit.get("_source", hit) for hit in hits["hits"]]
+    return []
+
+
+def _deep_first(obj, keys: tuple[str, ...]):
+    if isinstance(obj, dict):
+        for key in keys:
+            val = obj.get(key)
+            if val not in (None, "", []):
+                return val
+        for val in obj.values():
+            found = _deep_first(val, keys)
+            if found not in (None, "", []):
+                return found
+    elif isinstance(obj, list):
+        for val in obj:
+            found = _deep_first(val, keys)
+            if found not in (None, "", []):
+                return found
+    return None
+
+
+def _hiringcafe_salary(raw: dict) -> str:
+    salary = _deep_first(raw, ("salary", "compensation", "salaryRange", "compensationRange"))
+    if isinstance(salary, str):
+        return re.sub(r"\s+", " ", salary).strip()
+    if isinstance(salary, dict):
+        return format_salary(
+            salary.get("min") or salary.get("minAmount") or salary.get("min_amount") or salary.get("lowEnd"),
+            salary.get("max") or salary.get("maxAmount") or salary.get("max_amount") or salary.get("highEnd"),
+            salary.get("frequency") or salary.get("interval") or salary.get("period"),
+        )
+    return ""
+
+
+def _normalize_hiringcafe_job(raw: dict) -> dict | None:
+    title = str(_deep_first(raw, ("title", "jobTitle", "name")) or "")
+    if not title or not is_mle_role(title):
+        return None
+    url = str(_deep_first(raw, ("apply_url", "applyUrl", "url", "jobUrl", "job_url")) or "")
+    if not url:
+        job_id = str(_deep_first(raw, ("id", "jobId", "uuid")) or "")
+        if job_id:
+            url = "https://hiring.cafe/job/" + urllib.parse.quote(job_id)
+    if not url:
+        return None
+    company = str(_deep_first(raw, ("company", "companyName", "source", "employer", "organization")) or "Unknown")
+    location = _deep_first(raw, ("location", "formatted_address", "formattedAddress", "city", "region"))
+    if isinstance(location, dict):
+        location = location.get("formatted_address") or location.get("name") or location.get("city")
+    if isinstance(location, list):
+        location = ", ".join(str(x.get("formatted_address", x.get("name", x)) if isinstance(x, dict) else x) for x in location[:2])
+    desc = _deep_first(raw, ("description_clean", "description", "description_raw", "jobDescription"))
+    if isinstance(desc, dict):
+        desc = json.dumps(desc, ensure_ascii=False)
+    job = {
+        "company": company,
+        "title": title,
+        "location": str(location or ""),
+        "url": url,
+        "direct_url": str(_deep_first(raw, ("apply_url", "applyUrl")) or ""),
+        "date_posted": str(_deep_first(raw, ("date_posted", "datePosted", "created_at", "createdAt", "dateFetched")) or ""),
+        "description": re.sub(r"<[^>]+>", " ", str(desc or ""))[:JOBSPY_JD_MAX_CHARS],
+        "salary": _hiringcafe_salary(raw),
+        "job_type": str(_deep_first(raw, ("commitmentType", "jobType", "employmentType")) or ""),
+        "is_remote": _coerce_bool(_deep_first(raw, ("isRemote", "remote"))),
+        "ats": "HiringCafe",
+    }
+    return job
+
+
+def scrape_hiringcafe_recent(days: int | None = None) -> list:
+    d = days if days is not None else HIRINGCAFE_LOOKBACK_DAYS
+    print(f"☕ Scraping HiringCafe (last {d}d)...")
+    jobs_by_id: dict[str, dict] = {}
+    ok_pages = errored_pages = raw_rows = 0
+    for term in HIRINGCAFE_SEARCH_TERMS:
+        state = _hiringcafe_search_state(term, d)
+        for page in range(max(1, HIRINGCAFE_MAX_PAGES)):
+            time.sleep(REQUEST_DELAY)
+            payload = {"size": HIRINGCAFE_PAGE_SIZE, "page": page, "searchState": state}
+            try:
+                data = _post_hiringcafe_json("/api/search-jobs", payload)
+            except (urllib.error.URLError, urllib.error.HTTPError, TimeoutError, json.JSONDecodeError) as e:
+                errored_pages += 1
+                print(f"  ⚠️  HiringCafe ({term!r} page {page}): {e}")
+                break
+            ok_pages += 1
+            batch = _hiringcafe_batch(data)
+            if not batch:
+                break
+            raw_rows += len(batch)
+            for raw in batch:
+                if not isinstance(raw, dict):
+                    continue
+                job = _normalize_hiringcafe_job(raw)
+                if not job:
+                    continue
+                ident = _job_identity(job.get("url", ""))
+                if ident and ident not in jobs_by_id:
+                    jobs_by_id[ident] = job
+            if len(batch) < HIRINGCAFE_PAGE_SIZE:
+                break
+    jobs = list(jobs_by_id.values())
+    print(
+        f"  📊 HiringCafe: {ok_pages} page(s) ok / {errored_pages} errored · "
+        f"{raw_rows} raw, {len(jobs)} matched"
+    )
+    if raw_rows == 0:
+        prev = _load_prev_jobs(os.path.join(OUTPUT_DIR, "hiringcafe_jobs.json"))
+        print(
+            f"  ⛔ HiringCafe returned 0 rows across all terms; preserving previous "
+            f"{len(prev)} result(s)"
+        )
+        return prev
+    return jobs
 
 
 # ---------------------------------------------------------------------------
@@ -1572,6 +1867,9 @@ def _job_identity(url: str) -> str:
     m = re.search(r'[?&]jk=([a-zA-Z0-9]+)', url)
     if m:
         return f"indeed:{m.group(1)}"
+    m = re.search(r'[?&]lvk=([a-zA-Z0-9._-]+)', url)
+    if m:
+        return f"ziprecruiter:{m.group(1)}"
     return url.split("?")[0].rstrip("/")
 
 
@@ -1765,6 +2063,42 @@ def save_glassdoor_results(jobs: list):
     )
 
 
+def save_ziprecruiter_results(jobs: list):
+    save_jobs_output(
+        jobs,
+        basename="ziprecruiter_jobs",
+        title=f"🟧 ZipRecruiter — {PROFILE_LABEL} Roles",
+        subtitle=f"{PROFILE_SUBTITLE} · last {ZIPRECRUITER_LOOKBACK_HOURS}h",
+        accent="#f97316",
+        empty_message="No new roles since the last run.",
+        window_label=f"last {ZIPRECRUITER_LOOKBACK_HOURS}h",
+    )
+
+
+def save_google_jobs_results(jobs: list):
+    save_jobs_output(
+        jobs,
+        basename="google_jobs",
+        title=f"🔎 Google Jobs — {PROFILE_LABEL} Roles",
+        subtitle=f"{PROFILE_SUBTITLE} · last {GOOGLE_JOBS_LOOKBACK_HOURS}h",
+        accent="#4285f4",
+        empty_message="No new roles since the last run.",
+        window_label=f"last {GOOGLE_JOBS_LOOKBACK_HOURS}h",
+    )
+
+
+def save_hiringcafe_results(jobs: list):
+    save_jobs_output(
+        jobs,
+        basename="hiringcafe_jobs",
+        title=f"☕ HiringCafe — {PROFILE_LABEL} Roles",
+        subtitle=f"{PROFILE_SUBTITLE} · last {HIRINGCAFE_LOOKBACK_DAYS}d",
+        accent="#a16207",
+        empty_message="No new roles since the last run.",
+        window_label=f"last {HIRINGCAFE_LOOKBACK_DAYS}d",
+    )
+
+
 def save_biotech_linkedin_results(jobs: list):
     save_jobs_output(
         jobs,
@@ -1909,6 +2243,33 @@ if __name__ == "__main__":
     if "--glassdoor-backfill" in sys.argv:
         print(f"🔁 Glassdoor backfill (last {GLASSDOOR_BACKFILL_DAYS} days)…")
         save_glassdoor_results(scrape_glassdoor_recent(hours_old=GLASSDOOR_BACKFILL_DAYS * 24))
+        sys.exit(0)
+
+    if "--ziprecruiter-only" in sys.argv:
+        save_ziprecruiter_results(scrape_ziprecruiter_recent())
+        sys.exit(0)
+
+    if "--ziprecruiter-backfill" in sys.argv:
+        print(f"🔁 ZipRecruiter backfill (last {ZIPRECRUITER_BACKFILL_DAYS} days)…")
+        save_ziprecruiter_results(scrape_ziprecruiter_recent(hours_old=ZIPRECRUITER_BACKFILL_DAYS * 24))
+        sys.exit(0)
+
+    if "--google-jobs-only" in sys.argv:
+        save_google_jobs_results(scrape_google_jobs_recent())
+        sys.exit(0)
+
+    if "--google-jobs-backfill" in sys.argv:
+        print(f"🔁 Google Jobs backfill (last {GOOGLE_JOBS_BACKFILL_DAYS} days)…")
+        save_google_jobs_results(scrape_google_jobs_recent(hours_old=GOOGLE_JOBS_BACKFILL_DAYS * 24))
+        sys.exit(0)
+
+    if "--hiringcafe-only" in sys.argv:
+        save_hiringcafe_results(scrape_hiringcafe_recent())
+        sys.exit(0)
+
+    if "--hiringcafe-backfill" in sys.argv:
+        print(f"🔁 HiringCafe backfill (last {HIRINGCAFE_BACKFILL_DAYS} days)…")
+        save_hiringcafe_results(scrape_hiringcafe_recent(days=HIRINGCAFE_BACKFILL_DAYS))
         sys.exit(0)
 
     if "--linkedin-only" in sys.argv:

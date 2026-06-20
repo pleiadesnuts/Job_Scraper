@@ -15,7 +15,8 @@ You are configuring a personal job-search tracker. Read my CV (below) and my
 location preferences, then output a SINGLE JSON object — valid config.json,
 nothing else, no markdown fences, no commentary.
 
-The tracker scrapes job boards (LinkedIn, Indeed, USAJOBS, etc.), keeps postings
+The tracker scrapes job boards (LinkedIn, Indeed, Glassdoor, ZipRecruiter,
+Google Jobs, HiringCafe, USAJOBS, etc.), keeps postings
 whose TITLE matches my keywords, and shows them on a dashboard. Matching is
 case-insensitive substring on the job title.
 
@@ -33,11 +34,24 @@ Produce this exact shape, filled in for ME based on my CV:
   },
   "search_terms": {
     "linkedin": [ "<15-25 queries to type into LinkedIn search>" ],
-    "indeed":   [ "<6-10 broad queries for Indeed>" ]
+    "indeed":   [ "<6-10 broad queries for Indeed>" ],
+    "glassdoor": [ "<6-10 broad queries for Glassdoor>" ],
+    "ziprecruiter": [ "<6-10 broad queries for ZipRecruiter>" ],
+    "google_jobs": [ "<6-10 broad queries for Google Jobs>" ],
+    "hiring_cafe": [ "<6-10 broad queries for HiringCafe>" ]
   },
   "locations": {
     "linkedin": [ { "name": "<label>", "location": "<City/Region, State, Country>", "geoId": "" } ],
-    "indeed":   [ { "location": "<City, ST  OR  State>", "country": "USA" } ]
+    "indeed":   [ { "location": "<City, ST  OR  State>", "country": "USA" } ],
+    "glassdoor": [ { "location": "<City, ST  OR  State>", "country": "USA" } ],
+    "ziprecruiter": [ { "location": "<City, ST  OR  State>", "country": "USA" } ],
+    "google_jobs": [ { "location": "<City, ST  OR  State>", "country": "USA" } ],
+    "hiring_cafe": [ { "location": "<Country, State, or City>" } ]
+  },
+  "hiring_cafe": {
+    "page_size": 100,
+    "max_pages": 3,
+    "workplace_types": ["Remote", "Hybrid", "Onsite"]
   },
   "employers": {
     "priority": [ "<optional: organizations I'd love to work for; [] if none>" ],
@@ -61,8 +75,10 @@ Rules:
 - search_terms are broader than keywords (they're what you'd type in a search box).
 - locations: convert my target places to the format shown. For LinkedIn, set
   "geoId": "" unless I gave you one — the tracker resolves the text. Use a
-  separate entry per place. For Indeed, "country" is "USA", "Australia",
-  "Canada", "GB", etc.
+  separate entry per place. For Indeed/Glassdoor/ZipRecruiter/Google Jobs,
+  "country" is "USA", "Australia", "Canada", "GB", etc. HiringCafe can use
+  broad country/state/city labels such as "United States" or "California".
+- hiring_cafe: keep the default values unless I ask for broader/deeper searches.
 - priority_topics: 3-6 of MY standout specialties/skills (these get starred &
   filterable). Each regex is a plain JavaScript regex source string (no slashes,
   no flags). Escape backslashes for JSON (write \\b not \b).

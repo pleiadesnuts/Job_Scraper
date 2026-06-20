@@ -22,6 +22,9 @@
     --priority: #34d399;
     --indeed: #a78bfa;
     --glassdoor: #4ade80;
+    --ziprecruiter: #fb923c;
+    --googlejobs: #93c5fd;
+    --hiringcafe: #facc15;
     --accent: #ef4444;
     --accent-soft: rgba(239,68,68,0.20);
     --pill-bg: #1f1b1b;
@@ -30,6 +33,8 @@
     --shadow: 0 1px 2px rgba(0,0,0,0.5), 0 2px 8px rgba(0,0,0,0.35);
     --save: #f59e0b;
     --applied: #22c55e;
+    --interview: #38bdf8;
+    --offer: #c084fc;
     --dismiss: #565656;
   }
   * { box-sizing: border-box; }
@@ -49,7 +54,7 @@
   .iconbtn:hover { background: var(--line); }
 
   /* KPI cards */
-  .kpis { display: grid; grid-template-columns: repeat(4, 1fr); gap: 12px; margin: 20px 0 18px; }
+  .kpis { display: grid; grid-template-columns: repeat(6, 1fr); gap: 12px; margin: 20px 0 18px; }
   .kpi { background: var(--panel); border: 1px solid var(--line); border-radius: 12px;
     padding: 14px 16px; box-shadow: var(--shadow); }
   .kpi .num { font-size: 26px; font-weight: 600; letter-spacing: -0.02em; line-height: 1.1; }
@@ -57,6 +62,7 @@
     letter-spacing: 0.06em; margin-top: 4px; }
   .kpi.saved .num { color: var(--save); }
   .kpi.applied .num { color: var(--applied); }
+  .kpi.interview .num { color: var(--interview); }
 
   /* Charts row */
   .charts { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; margin-bottom: 18px; }
@@ -102,6 +108,8 @@
   .job[data-state="dismissed"] { opacity: 0.38; }
   .job[data-state="saved"] { border-left: 3px solid var(--save); }
   .job[data-state="applied"] { border-left: 3px solid var(--applied); }
+  .job[data-state="interview"] { border-left: 3px solid var(--interview); }
+  .job[data-state="offer"] { border-left: 3px solid var(--offer); }
   .job[data-focused="true"] { outline: 2px solid rgba(239,68,68,0.55); outline-offset: 2px; }
   .job[data-selected="true"] { box-shadow: 0 0 0 2px rgba(239,68,68,0.28), var(--shadow); }
   .job-main .title { font-size: 15px; font-weight: 600; line-height: 1.35;
@@ -117,6 +125,9 @@
   .src.priority { background: rgba(52,211,153,0.14); color: var(--priority); }
   .src.indeed { background: rgba(167,139,250,0.14); color: var(--indeed); }
   .src.glassdoor { background: rgba(74,222,128,0.14); color: var(--glassdoor); }
+  .src.ziprecruiter { background: rgba(251,146,60,0.14); color: var(--ziprecruiter); }
+  .src.googlejobs { background: rgba(147,197,253,0.14); color: var(--googlejobs); }
+  .src.hiringcafe { background: rgba(250,204,21,0.14); color: var(--hiringcafe); }
   .tag { display: inline-block; font-size: 10px; padding: 1px 7px; border-radius: 10px;
     background: var(--pill-bg); color: var(--muted); margin-right: 4px; }
   .tag.role { color: var(--ink); }
@@ -128,6 +139,8 @@
   .act:hover { color: var(--ink); border-color: var(--ink); }
   .act.on.save { background: var(--save); color: white; border-color: var(--save); }
   .act.on.applied { background: var(--applied); color: white; border-color: var(--applied); }
+  .act.on.interview { background: var(--interview); color: #08111f; border-color: var(--interview); }
+  .act.on.offer { background: var(--offer); color: #16051f; border-color: var(--offer); }
   .act.on.dismiss { background: var(--dismiss); color: white; border-color: var(--dismiss); }
   .selectbox { display: inline-flex; align-items: center; gap: 6px; margin-right: 4px; }
   .selectbox input { width: 16px; height: 16px; accent-color: var(--accent); }
@@ -145,6 +158,7 @@
   }
   .bulkbar.show { display: flex; }
   .bulkbar .count { font-size: 12px; color: var(--muted); margin-right: auto; }
+  .inline-hint { font-size: 11px; color: var(--muted); }
 
   /* Focus visibility — only for keyboard nav, not mouse */
   .pill:focus-visible, .act:focus-visible, .iconbtn:focus-visible,
@@ -278,6 +292,8 @@
   <div class="kpi"><div class="num" id="kpi-new">0</div><div class="lbl">New this run</div></div>
   <div class="kpi saved"><div class="num" id="kpi-saved">0</div><div class="lbl">Saved</div></div>
   <div class="kpi applied"><div class="num" id="kpi-applied">0</div><div class="lbl">Applied</div></div>
+  <div class="kpi interview"><div class="num" id="kpi-interview">0</div><div class="lbl">Interview</div></div>
+  <div class="kpi"><div class="num" id="kpi-offer">0</div><div class="lbl">Offer</div></div>
 </div>
 
 <div class="charts">
@@ -296,6 +312,7 @@
       autocapitalize="none" spellcheck="false"
       placeholder="Search titles, companies, locations…" />
     <button type="button" class="iconbtn" id="clear-filters">Clear filters</button>
+    <button type="button" class="iconbtn" id="export-csv" title="Download visible jobs with status and notes">Export CSV</button>
   </div>
   <div class="controls-row">
     <span class="pillgroup-label">View</span>
@@ -350,8 +367,11 @@
   <span class="count" id="bulk-count">0 selected</span>
   <button type="button" class="act save" data-bulk="saved">Save</button>
   <button type="button" class="act applied" data-bulk="applied">Applied</button>
+  <button type="button" class="act interview" data-bulk="interview">Interview</button>
+  <button type="button" class="act offer" data-bulk="offer">Offer</button>
   <button type="button" class="act dismiss" data-bulk="dismissed">Dismiss</button>
   <button type="button" class="act irrelevant" data-bulk="irrelevant">Not relevant</button>
+  <button type="button" class="act" id="bulk-packet">Packet</button>
   <button type="button" class="act" id="bulk-clear">Clear</button>
 </div>
 <div class="jobs" id="jobs"></div>
@@ -368,6 +388,9 @@
     { name: 'output/linkedin_jobs.json', src: 'LinkedIn'   },
     { name: 'output/indeed_jobs.json',   src: 'Indeed'     },
     { name: 'output/glassdoor_jobs.json', src: 'Glassdoor' },
+    { name: 'output/ziprecruiter_jobs.json', src: 'ZipRecruiter' },
+    { name: 'output/google_jobs.json', src: 'GoogleJobs' },
+    { name: 'output/hiringcafe_jobs.json', src: 'HiringCafe' },
     { name: 'output/calcareers_jobs.json', src: 'CalCareers' },
     { name: 'output/usajobs_jobs.json',  src: 'USAJOBS'    },
     { name: 'output/governmentjobs_jobs.json', src: 'NEOGOV' },
@@ -390,6 +413,7 @@
   })();
   state.triage = state.triage || {};
   state.notes = state.notes || {};
+  state.blockedCompanies = state.blockedCompanies || [];
   state.jobs = state.jobs || [];
   const selectedUrls = new Set();
   let focusedUrl = '';
@@ -475,6 +499,9 @@
     if (j.ats === 'Greenhouse' || j.ats === 'Lever' || j.ats === 'Ashby') return 'Priority';
     if (j.ats === 'Indeed' || (j.url || '').includes('indeed.com')) return 'Indeed';
     if (j.ats === 'Glassdoor' || (j.url || '').includes('glassdoor.')) return 'Glassdoor';
+    if (j.ats === 'ZipRecruiter' || (j.url || '').includes('ziprecruiter.com')) return 'ZipRecruiter';
+    if (j.ats === 'GoogleJobs' || (j.url || '').includes('google.com/search')) return 'GoogleJobs';
+    if (j.ats === 'HiringCafe' || (j.url || '').includes('hiring.cafe')) return 'HiringCafe';
     return 'Other';
   }
   // ---------- Resume-fit scoring (client-side, deterministic) ----------
@@ -917,7 +944,7 @@
     source: new Set(),
     role: new Set(),
     sen: new Set(),
-    state: new Set(['active', 'saved', 'applied']),
+    state: new Set(['active', 'saved', 'applied', 'interview', 'offer']),
     days: null,   // null = any time; else an integer day-window (7 = last 7 days)
     salMin: 0,    // minimum annual salary (USD); 0 = no floor
     salUnknown: false,  // when a floor is set, exclude roles with no listed salary (toggle to include)
@@ -955,6 +982,8 @@
 
   // `except` skips one dimension so a facet's pills don't constrain their own counts.
   function matchesFilters(j, except) {
+    const co = (j.company || '').toLowerCase();
+    if (state.blockedCompanies.some(name => name && co.includes(name))) return false;
     // Merged cross-posts carry every source in _srcs (single jobs: [_src]).
     const srcs = j._srcs || [j._src];
     if (except !== 'source' && filters.source.size && !srcs.some(s => filters.source.has(s))) return false;
@@ -1052,10 +1081,12 @@
       ['active', 'Untriaged'],
       ['saved', 'Saved'],
       ['applied', 'Applied'],
+      ['interview', 'Interview'],
+      ['offer', 'Offer'],
       ['dismissed', 'Dismissed'],
       ['irrelevant', 'Not relevant'],
     ];
-    const counts = { active: 0, saved: 0, applied: 0, dismissed: 0, irrelevant: 0 };
+    const counts = { active: 0, saved: 0, applied: 0, interview: 0, offer: 0, dismissed: 0, irrelevant: 0 };
     VIEW.forEach(j => {
       if (!matchesFilters(j, 'state')) return;
       counts[state.triage[j.url] || 'active']++;
@@ -1081,8 +1112,12 @@
     $('kpi-new').textContent = (SEED.new_jobs || []).length || SEED.new_count || 0;
     const saved = VIEW.filter(j => state.triage[j.url] === 'saved').length;
     const applied = VIEW.filter(j => state.triage[j.url] === 'applied').length;
+    const interview = VIEW.filter(j => state.triage[j.url] === 'interview').length;
+    const offer = VIEW.filter(j => state.triage[j.url] === 'offer').length;
     $('kpi-saved').textContent = saved;
     $('kpi-applied').textContent = applied;
+    $('kpi-interview').textContent = interview;
+    $('kpi-offer').textContent = offer;
   }
 
   function renderCharts() {
@@ -1181,6 +1216,79 @@
     return `<span class="scorechip fit ${cls}" title="${escape(s.detail)}">${s.value}</span>`;
   }
 
+  function jobStatus(j) {
+    return state.triage[j.url] || 'active';
+  }
+
+  function jobNote(j) {
+    return state.notes[j.url] || '';
+  }
+
+  function applicationPacket(jobs) {
+    const list = jobs.filter(Boolean);
+    const profile = (CONFIG.profile && CONFIG.profile.title) || 'target role profile';
+    const lines = [
+      'Create tailored application materials for the job posting(s) below.',
+      '',
+      'Use my resume/CV, which I will paste after this prompt, and produce:',
+      '1. a concise fit summary',
+      '2. resume bullets or edits that should be emphasized',
+      '3. a short cover letter draft',
+      '4. likely screening questions and strong answer themes',
+      '',
+      `Target profile: ${profile}`,
+      '',
+    ];
+    list.forEach((j, idx) => {
+      const score = scoreMeta(j);
+      const salary = j._salDisp || j.salary || '';
+      lines.push(`Job ${idx + 1}: ${j.title || 'Untitled'}`);
+      lines.push(`Company: ${j.company || 'Unknown'}`);
+      lines.push(`Location: ${j.location || 'Not specified'}`);
+      lines.push(`Source: ${(j._srcs || [j._src]).join(', ')}`);
+      lines.push(`Status: ${jobStatus(j)}`);
+      if (salary) lines.push(`Salary: ${salary}`);
+      if (j.job_type) lines.push(`Job type: ${j.job_type}`);
+      if (j.is_remote) lines.push('Remote signal: yes');
+      lines.push(`URL: ${j.direct_url || j.url || ''}`);
+      lines.push(`Fit score: ${score}`);
+      if (j._why) lines.push(`Existing fit rationale: ${j._why}`);
+      if (jobNote(j)) lines.push(`My notes: ${jobNote(j)}`);
+      if (j.description) lines.push(`Description:\n${String(j.description).slice(0, 5000)}`);
+      lines.push('');
+    });
+    lines.push('My resume/CV:');
+    return lines.join('\n');
+  }
+
+  function csvCell(value) {
+    const s = value == null ? '' : String(value);
+    return /[",\r\n]/.test(s) ? `"${s.replace(/"/g, '""')}"` : s;
+  }
+
+  function exportVisibleCsv() {
+    const rows = visibleJobs();
+    const header = ['status', 'title', 'company', 'location', 'sources', 'salary', 'fit', 'job_type', 'remote', 'date_posted', 'note', 'url', 'direct_url'];
+    const lines = [header.join(',')];
+    rows.forEach(j => {
+      lines.push([
+        jobStatus(j), j.title, j.company, j.location, (j._srcs || [j._src]).join('; '),
+        j._salDisp || j.salary || '', scoreMeta(j), j.job_type || '', j.is_remote ? 'yes' : '',
+        j.date_posted || '', jobNote(j), j.url || '', j.direct_url || '',
+      ].map(csvCell).join(','));
+    });
+    const blob = new Blob([lines.join('\r\n')], { type: 'text/csv;charset=utf-8' });
+    const a = document.createElement('a');
+    const stamp = new Date().toISOString().slice(0, 10);
+    a.href = URL.createObjectURL(blob);
+    a.download = `job-triage-${stamp}.csv`;
+    document.body.appendChild(a);
+    a.click();
+    URL.revokeObjectURL(a.href);
+    a.remove();
+    toast(`Exported ${rows.length} visible job${rows.length === 1 ? '' : 's'}`);
+  }
+
   function jobForUrl(url) {
     return VIEW.find(j => j.url === url) || state.jobs.find(j => j.url === url) || null;
   }
@@ -1266,13 +1374,17 @@
       return;
     }
     el.innerHTML = jobs.map(j => {
-      const st = state.triage[j.url] || 'active';
+      const st = jobStatus(j);
       const selected = selectedUrls.has(j.url);
       const srcs = j._srcs || [j._src];
       const srcBadges = srcs.map(s => `<span class="src ${s.toLowerCase()}">${s}</span>`).join('');
       const sal = j._salDisp || j.salary;
       const score = viewMode === 'rank' ? `<span>🎯 ${escape(scoreMeta(j))}</span>` : '';
-      const note = state.notes[j.url] || '';
+      const note = jobNote(j);
+      const typeBits = [
+        j.job_type ? escape(j.job_type) : '',
+        j.is_remote ? 'Remote' : '',
+      ].filter(Boolean).join(' · ');
       const star = j._star
         ? `<span class="starbadge" title="Priority topic: ${escape((j._stars || []).join(', '))}">★</span>`
         : '';
@@ -1284,6 +1396,7 @@
             <span class="src-item">🔗 ${srcBadges}</span>
             <span>📍 ${escape(j.location || 'Not specified')}</span>
             ${sal ? `<span>💰 ${escape(sal)}</span>` : ''}
+            ${typeBits ? `<span>${typeBits}</span>` : ''}
             ${j.date_posted ? `<span title="${escape(j.date_posted)}">🕒 ${escape(_fmtDate(j.date_posted))}</span>` : ''}
             ${score}
             <span><span class="tag role">${j._role}</span><span class="tag">${j._sen}</span>${j._family ? `<span class="tag">${escape(j._family)}</span>` : ''}</span>
@@ -1293,10 +1406,15 @@
         </div>
         <div class="actions">
           ${j._opener ? '<button type="button" class="act" data-act="opener">✉ Opener</button>' : ''}
+          <button type="button" class="act" data-act="packet" title="Copy tailored application-materials prompt">✍ Packet</button>
+          ${j.direct_url ? `<a class="act" href="${escape(j.direct_url)}" target="_blank" rel="noopener noreferrer">Apply</a>` : ''}
           <button type="button" class="act save ${st==='saved'?'on':''}" data-act="saved" aria-pressed="${st==='saved'}">★ Save</button>
           <button type="button" class="act applied ${st==='applied'?'on':''}" data-act="applied" aria-pressed="${st==='applied'}">✓ Applied</button>
+          <button type="button" class="act interview ${st==='interview'?'on':''}" data-act="interview" aria-pressed="${st==='interview'}">Interview</button>
+          <button type="button" class="act offer ${st==='offer'?'on':''}" data-act="offer" aria-pressed="${st==='offer'}">Offer</button>
           <button type="button" class="act dismiss ${st==='dismissed'?'on':''}" data-act="dismissed" aria-pressed="${st==='dismissed'}">✕ Dismiss</button>
           <button type="button" class="act irrelevant ${st==='irrelevant'?'on':''}" data-act="irrelevant" aria-pressed="${st==='irrelevant'}" title="Hide this and down-rank similar roles in Best fit">🚫 Not relevant</button>
+          <button type="button" class="act" data-act="block-company" title="Hide this company in this browser">Block co.</button>
         </div>
       </div>`;
     }).join('');
@@ -1505,7 +1623,7 @@
 
   function renderAll() {
     VIEW = dedupe(state.jobs);   // collapse cross-posted (LinkedIn↔Indeed) dupes
-    renderFilterGroup('filter-source', 'source', ['LinkedIn', 'Priority', 'Indeed', 'Glassdoor', 'CalCareers', 'USAJOBS', 'NEOGOV', 'CalOpps']);
+    renderFilterGroup('filter-source', 'source', ['LinkedIn', 'Priority', 'Indeed', 'Glassdoor', 'ZipRecruiter', 'GoogleJobs', 'HiringCafe', 'CalCareers', 'USAJOBS', 'NEOGOV', 'CalOpps']);
     renderFilterGroup('filter-role', 'role', ROLE_NAMES);   // from config.json → role_categories
     renderFilterGroup('filter-sen', 'sen',
       ['Director+', 'Principal', 'Staff', 'Senior', 'Mid', 'Associate']);
@@ -1617,9 +1735,23 @@
     const card = btn.closest('.job');
     const url = card.dataset.url;
     const act = btn.dataset.act;
+    if (!act) return;
     if (act === 'opener') {
       const s = SCORES[url] || {};
       if (s.outreach_opener) copy(s.outreach_opener);
+      return;
+    }
+    if (act === 'packet') {
+      copy(applicationPacket([jobForUrl(url)]));
+      return;
+    }
+    if (act === 'block-company') {
+      const j = jobForUrl(url);
+      const name = (j && j.company || '').trim().toLowerCase();
+      if (name && !state.blockedCompanies.includes(name)) state.blockedCompanies.push(name);
+      selectedUrls.delete(url);
+      toast(`Blocked ${j?.company || 'company'}`);
+      renderAll();
       return;
     }
     applyTriage(jobForUrl(url), act);
@@ -1655,6 +1787,12 @@
     renderAll();
   });
   $('bulk-clear').onclick = () => { selectedUrls.clear(); updateBulkBar(); };
+  $('bulk-packet').onclick = () => {
+    const selected = [...selectedUrls].map(jobForUrl).filter(Boolean);
+    if (!selected.length) return;
+    copy(applicationPacket(selected));
+  };
+  $('export-csv').onclick = exportVisibleCsv;
 
   function moveFocus(delta) {
     if (!RENDERED.length) return;
@@ -1682,7 +1820,7 @@
       e.preventDefault(); $('search').focus(); return;
     }
     if (e.key === '?' && !e.ctrlKey && !e.metaKey && !e.altKey) {
-      toast('Shortcuts: j/k move · x select · s save · a applied · d dismiss · n note · / search · 1/2/3 views');
+      toast('Shortcuts: j/k move | x select | s save | a applied | i interview | d dismiss | p packet | o open | n note | / search | 1/2/3 views');
       return;
     }
     if (e.key === 'j' || e.key === 'ArrowDown') { e.preventDefault(); moveFocus(1); return; }
@@ -1701,7 +1839,10 @@
     }
     if (e.key === 's') { e.preventDefault(); actOnFocused('saved'); return; }
     if (e.key === 'a') { e.preventDefault(); actOnFocused('applied'); return; }
+    if (e.key === 'i') { e.preventDefault(); actOnFocused('interview'); return; }
+    if (e.key === 'o') { e.preventDefault(); window.open(j.direct_url || j.url, '_blank', 'noopener'); return; }
     if (e.key === 'd') { e.preventDefault(); actOnFocused('dismissed'); return; }
+    if (e.key === 'p') { e.preventDefault(); copy(applicationPacket([j])); return; }
     if (e.key === 'n') {
       e.preventDefault();
       const card = document.querySelector(`.job[data-url="${CSS.escape(j.url)}"]`);
@@ -1760,7 +1901,7 @@
 
   $('clear-filters').onclick = () => {
     filters.source.clear(); filters.role.clear(); filters.sen.clear();
-    filters.state = new Set(['active', 'saved', 'applied']);
+    filters.state = new Set(['active', 'saved', 'applied', 'interview', 'offer']);
     filters.days = null;
     filters.salMin = 0; filters.salUnknown = false;
     $('sal-min').value = 0; $('sal-unknown').checked = false;
