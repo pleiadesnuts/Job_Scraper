@@ -1,6 +1,9 @@
 # ☕ HiringCafe — Environmental / Toxicology Roles
-*Last updated: 2026-06-20 21:27 UTC*
+*Last updated: 2026-06-20 22:23 UTC*
 
-**0 new role(s)** since last run · 51 total in last 30d
+**1 new role(s)** since last run · 51 total in last 30d
 
-No new roles since the last run.
+### [Pharmacologist/Physiologist/Toxicologist](https://www.usajobs.gov/job/872778700) — Other Agencies and Independent Organizations
+- 📍 **Location:** Rockville, Maryland, United States
+- 💰 **Salary:** $85k–$158k/yr
+- 🕒 **Posted:** 2026-06-11T15:06:50.420Z
