@@ -10,6 +10,17 @@
 <meta name="apple-mobile-web-app-capable" content="yes">
 <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
 <meta name="apple-mobile-web-app-title" content="Job Triage">
+<script>
+  (() => {
+    const key = 'jobTriage:theme';
+    const systemLight = () => window.matchMedia && window.matchMedia('(prefers-color-scheme: light)').matches;
+    let mode = 'system';
+    try { mode = localStorage.getItem(key) || 'system'; } catch {}
+    const theme = mode === 'light' || (mode === 'system' && systemLight()) ? 'light' : 'dark';
+    document.documentElement.dataset.theme = theme;
+    document.documentElement.dataset.themeMode = mode;
+  })();
+</script>
 <style>
   :root {
     color-scheme: dark;
@@ -31,11 +42,41 @@
     --pill-active: #ef4444;
     --pill-active-ink: #ffffff;
     --shadow: 0 1px 2px rgba(0,0,0,0.5), 0 2px 8px rgba(0,0,0,0.35);
+    --tool-bg: #120f0f;
+    --input-bg: #0f0d0d;
+    --bulk-bg: rgba(22,18,18,.97);
+    --map-bg: #101010;
     --save: #f59e0b;
     --applied: #22c55e;
     --interview: #38bdf8;
     --offer: #c084fc;
     --dismiss: #565656;
+  }
+  :root[data-theme="light"] {
+    color-scheme: light;
+    --bg: #f7f8fb;
+    --panel: #ffffff;
+    --ink: #171717;
+    --muted: #5c6470;
+    --line: #dfe4ec;
+    --linkedin: #2563eb;
+    --priority: #047857;
+    --indeed: #6d28d9;
+    --glassdoor: #15803d;
+    --ziprecruiter: #c2410c;
+    --googlejobs: #1d4ed8;
+    --hiringcafe: #a16207;
+    --accent: #dc2626;
+    --accent-soft: rgba(220,38,38,0.14);
+    --pill-bg: #eef2f7;
+    --pill-active: #dc2626;
+    --pill-active-ink: #ffffff;
+    --shadow: 0 1px 2px rgba(15,23,42,0.08), 0 2px 12px rgba(15,23,42,0.08);
+    --tool-bg: #f8fafc;
+    --input-bg: #ffffff;
+    --bulk-bg: rgba(255,255,255,.97);
+    --map-bg: #eef3f8;
+    --dismiss: #6b7280;
   }
   * { box-sizing: border-box; }
   html, body { margin: 0; padding: 0; background: var(--bg); color: var(--ink);
@@ -52,6 +93,12 @@
   .iconbtn { background: var(--pill-bg); border: 1px solid var(--line); color: var(--ink);
     padding: 6px 10px; border-radius: 6px; font-size: 12px; cursor: pointer; font-family: inherit; }
   .iconbtn:hover { background: var(--line); }
+  .theme-toggle { display: inline-flex; gap: 3px; padding: 3px; border: 1px solid var(--line);
+    border-radius: 8px; background: var(--pill-bg); }
+  .theme-toggle button { border: 0; background: transparent; color: var(--muted);
+    padding: 4px 8px; border-radius: 6px; font: inherit; font-size: 12px; cursor: pointer; }
+  .theme-toggle button:hover { color: var(--ink); }
+  .theme-toggle button.on { background: var(--panel); color: var(--ink); box-shadow: var(--shadow); }
 
   /* KPI cards */
   .kpis { display: grid; grid-template-columns: repeat(6, 1fr); gap: 12px; margin: 20px 0 18px; }
@@ -65,11 +112,13 @@
   .kpi.interview .num { color: var(--interview); }
 
   /* Charts row */
-  .charts { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; margin-bottom: 18px; }
+  .charts { display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 1fr);
+    gap: 12px; margin-bottom: 18px; align-items: stretch; }
   .card { background: var(--panel); border: 1px solid var(--line); border-radius: 12px;
     padding: 14px 16px; box-shadow: var(--shadow); }
   .card h3 { margin: 0 0 10px 0; font-size: 12px; text-transform: uppercase;
     letter-spacing: 0.08em; color: var(--muted); font-weight: 600; }
+  .chart-salary, .chart-map { min-height: 372px; }
   .toolkit { display: flex; gap: 14px; align-items: stretch; justify-content: space-between;
     margin: -2px 0 18px; padding: 12px 14px; background: var(--panel);
     border: 1px solid var(--line); border-radius: 12px; box-shadow: var(--shadow); }
@@ -81,7 +130,7 @@
     gap: 8px; flex: 1; }
   .toollink { display: block; min-height: 72px; padding: 10px 12px;
     border: 1px solid var(--line); border-radius: 8px; color: var(--ink);
-    background: #120f0f; }
+    background: var(--tool-bg); }
   .toollink:hover { border-color: var(--accent); text-decoration: none; }
   .toollink strong { display: block; font-size: 13px; color: var(--ink); margin-bottom: 3px; }
   .toollink span { display: block; font-size: 12px; color: var(--muted); line-height: 1.35; }
@@ -163,13 +212,13 @@
   .note-input {
     width: 100%; min-height: 36px; resize: vertical; border: 1px solid var(--line);
     border-radius: 8px; padding: 7px 9px; font: inherit; font-size: 12px; line-height: 1.35;
-    background: #0f0d0d; color: var(--ink);
+    background: var(--input-bg); color: var(--ink);
   }
   .note-input:focus { outline: none; border-color: var(--accent); box-shadow: 0 0 0 3px var(--accent-soft); }
   .bulkbar {
     display: none; align-items: center; gap: 8px; flex-wrap: wrap; position: sticky; top: 0;
     z-index: 20; margin: 0 0 10px; padding: 8px 10px; border: 1px solid var(--line);
-    border-radius: 10px; background: rgba(22,18,18,.97); box-shadow: var(--shadow);
+    border-radius: 10px; background: var(--bulk-bg); box-shadow: var(--shadow);
   }
   .bulkbar.show { display: flex; }
   .bulkbar .count { font-size: 12px; color: var(--muted); margin-right: auto; }
@@ -267,7 +316,7 @@
   .salary-ctl label { font-size: 12px; color: var(--muted); display: inline-flex; align-items: center; gap: 5px; cursor: pointer; }
 
   /* Salary distribution histogram (interactive) */
-  .histo { display: flex; align-items: flex-end; gap: 4px; height: 120px; padding-top: 14px; }
+  .histo { display: flex; align-items: flex-end; gap: 4px; height: 240px; padding-top: 14px; }
   .histo .hbar { flex: 1 1 0; display: flex; flex-direction: column; align-items: center;
     justify-content: flex-end; cursor: pointer; min-width: 0; height: 100%; }
   .histo .hbar .fill { width: 100%; background: var(--applied); border-radius: 3px 3px 0 0;
@@ -281,10 +330,19 @@
   .histo-empty { color: var(--muted); font-size: 13px; padding: 30px 0; text-align: center; }
 
   /* Map */
-  #map { height: 480px; border: 1px solid var(--line); border-radius: 12px; margin-bottom: 14px; }
+  #map { height: 300px; border: 1px solid var(--line); border-radius: 12px;
+    margin-bottom: 8px; background: var(--map-bg); }
   .leaflet-popup-content { font-size: 12px; line-height: 1.4; }
   .leaflet-popup-content a { color: #0a66c2; }
-  .map-note { color: var(--muted); font-size: 12px; margin: -4px 0 10px; }
+  .map-note { color: var(--muted); font-size: 12px; margin: 8px 0 0; line-height: 1.45; }
+
+  .about-tool {
+    margin: 22px 0 0; padding-top: 12px; border-top: 1px solid var(--line);
+    color: var(--muted); font-size: 11px; line-height: 1.45;
+  }
+  .about-tool strong { color: var(--ink); font-weight: 600; }
+  .about-tool a { color: var(--muted); text-decoration: underline; text-underline-offset: 2px; }
+  .about-tool a:hover { color: var(--accent); }
 </style>
 <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
   integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
@@ -300,6 +358,11 @@
   <h1>Job Triage</h1>
   <span class="sub" id="snapshot-line" aria-live="polite" aria-atomic="true">California · Environmental / Toxicology · loading…</span>
   <span class="grow"></span>
+  <div class="theme-toggle" id="theme-controls" aria-label="Theme">
+    <button type="button" data-theme-mode="system" title="Match system theme">System</button>
+    <button type="button" data-theme-mode="dark" title="Use dark mode">Dark</button>
+    <button type="button" data-theme-mode="light" title="Use white mode">White</button>
+  </div>
   <button type="button" class="iconbtn" id="refresh-btn" title="Re-fetch all sources">↻ Refresh</button>
   <a class="iconbtn" id="clear-data-link" href="https://github.com/ScottCoffin/Job_Scraper/actions/workflows/clear_data.yml" target="_blank" rel="noopener" title="Clear all accumulated job data (opens Actions → Run workflow)">🗑 Clear jobs</a>
   <a class="iconbtn" id="repo-link" href="https://github.com/ScottCoffin/Job_Scraper" target="_blank" rel="noopener" title="View source repo">⌥ Repo</a>
@@ -317,10 +380,15 @@
 <div class="charts">
   <div class="card"><h3>Top companies</h3><div class="barlist" id="chart-companies"></div></div>
   <div class="card"><h3>Role mix</h3><div class="barlist" id="chart-roles"></div></div>
-  <div class="card">
+  <div class="card chart-salary">
     <h3>Salary distribution <span style="font-weight:400;color:var(--muted);font-size:11px">· annualized · click to set floor</span></h3>
     <div class="histo" id="chart-salary"></div>
     <div class="histo-note" id="salary-note"></div>
+  </div>
+  <div class="card chart-map">
+    <h3>Map <span style="font-weight:400;color:var(--muted);font-size:11px">- visible jobs</span></h3>
+    <div id="map"></div>
+    <div id="map-note" class="map-note"></div>
   </div>
 </div>
 
@@ -404,8 +472,6 @@
 </div>
 
 <div id="rank-info" hidden></div>
-<div id="map" hidden></div>
-<div id="map-note" class="map-note" hidden></div>
 <div class="bulkbar" id="bulkbar" role="region" aria-live="polite">
   <span class="count" id="bulk-count">0 selected</span>
   <button type="button" class="act save" data-bulk="saved">Save</button>
@@ -418,6 +484,18 @@
   <button type="button" class="act" id="bulk-clear">Clear</button>
 </div>
 <div class="jobs" id="jobs"></div>
+
+<footer class="about-tool" aria-label="About this tool">
+  <strong>About this tool:</strong> Job Scraper + Triage Dashboard uses GitHub Actions and
+  <code>config.json</code> to search job boards, save normalized JSON outputs, then loads them
+  in this browser dashboard for cross-source de-duplication, fit scoring, salary/location
+  summaries, notes, status tracking, and CSV export. <strong>License:</strong>
+  <a href="LICENSE" target="_blank" rel="noopener noreferrer">GNU AGPL-3.0</a>.
+  <strong>Creators:</strong> maintained by
+  <a href="https://scottcoff.in" target="_blank" rel="noopener noreferrer">Dr. Scott Coffin</a>,
+  based on the original Bay Area ML job scraper by
+  <a href="https://github.com/ernestod1998" target="_blank" rel="noopener noreferrer">Ernesto Diaz</a>.
+</footer>
 
 </div>
 
@@ -461,6 +539,47 @@
   const selectedUrls = new Set();
   let focusedUrl = '';
   let RENDERED = [];
+
+  // ---------- Theme ----------
+  const THEME_KEY = 'jobTriage:theme';
+  const THEME_MODES = new Set(['system', 'dark', 'light']);
+  const THEME_MEDIA = window.matchMedia ? window.matchMedia('(prefers-color-scheme: light)') : null;
+  let themeMode = (() => {
+    try {
+      const saved = localStorage.getItem(THEME_KEY) || state.themeMode || 'system';
+      return THEME_MODES.has(saved) ? saved : 'system';
+    } catch { return 'system'; }
+  })();
+  function resolveTheme(mode = themeMode) {
+    return mode === 'light' || (mode === 'system' && THEME_MEDIA && THEME_MEDIA.matches) ? 'light' : 'dark';
+  }
+  function renderThemeControls() {
+    document.querySelectorAll('#theme-controls [data-theme-mode]').forEach(btn => {
+      const active = btn.dataset.themeMode === themeMode;
+      btn.classList.toggle('on', active);
+      btn.setAttribute('aria-pressed', String(active));
+    });
+  }
+  function applyTheme(mode = themeMode, { persist = false } = {}) {
+    if (!THEME_MODES.has(mode)) mode = 'system';
+    themeMode = mode;
+    state.themeMode = mode;
+    const theme = resolveTheme(mode);
+    document.documentElement.dataset.theme = theme;
+    document.documentElement.dataset.themeMode = mode;
+    const meta = document.querySelector('meta[name="theme-color"]');
+    if (meta) meta.content = getComputedStyle(document.documentElement).getPropertyValue('--bg').trim() || (theme === 'light' ? '#f7f8fb' : '#0a0a0a');
+    if (persist) {
+      try { localStorage.setItem(THEME_KEY, mode); } catch {}
+      save();
+    }
+    renderThemeControls();
+  }
+  if (THEME_MEDIA) {
+    const onThemeMedia = () => { if (themeMode === 'system') applyTheme('system'); };
+    if (THEME_MEDIA.addEventListener) THEME_MEDIA.addEventListener('change', onThemeMedia);
+    else if (THEME_MEDIA.addListener) THEME_MEDIA.addListener(onThemeMedia);
+  }
 
   // ---------- Config (config.json drives branding, role buckets, priority
   //            topics, and company exclusion). These are the fallback defaults;
@@ -1513,14 +1632,17 @@
   }
 
   function renderJobs() {
-    const el = $('jobs'), mapEl = $('map'), mapNote = $('map-note'), info = $('rank-info');
-    // Map view: hand off to the Leaflet renderer and hide the list.
+    const el = $('jobs'), info = $('rank-info');
+    // Map focus: the map is always visible in the summary grid; this view just
+    // hides the list so the map becomes the primary workspace.
     if (viewMode === 'map') {
-      el.hidden = true; mapEl.hidden = false; info.hidden = true;
+      RENDERED = visibleJobs();
+      el.hidden = true; info.hidden = true;
       renderMap();
+      updateBulkBar();
       return;
     }
-    el.hidden = false; mapEl.hidden = true; mapNote.hidden = true;
+    el.hidden = false;
 
     let jobs = visibleJobs();
     if (viewMode === 'rank') {
@@ -1807,6 +1929,7 @@
     renderKpis();
     renderCharts();
     renderSalaryChart();
+    renderMap();
     renderViewControls();
     renderSortControls();
     renderJobs();
@@ -2067,12 +2190,17 @@
     const btn = e.target.closest('[data-sort]');
     if (btn) setSortMode(btn.dataset.sort);
   });
+  $('theme-controls').addEventListener('click', e => {
+    const btn = e.target.closest('[data-theme-mode]');
+    if (btn) applyTheme(btn.dataset.themeMode, { persist: true });
+  });
 
   // Salary slider + "include unlisted" toggle
   $('sal-min').addEventListener('input', e => {
     filters.salMin = Number(e.target.value) || 0;
     renderSalaryControl();
     renderSalaryChart();   // re-dim buckets below the new floor
+    renderMap();
     renderJobs();          // map/list update without rebuilding every facet on each tick
   });
   $('sal-min').addEventListener('change', renderAll);
@@ -2148,6 +2276,7 @@
   });
 
   // ---------- Initial load ----------
+  applyTheme(themeMode);
   refresh();
 </script>
 </body>
