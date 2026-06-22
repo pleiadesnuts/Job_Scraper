@@ -292,6 +292,7 @@
   .src.usajobs { background: rgba(29,78,216,0.18); color: #93c5fd; }
   .src.neogov { background: rgba(14,116,144,0.20); color: #67e8f9; }
   .src.calopps { background: rgba(21,128,61,0.20); color: #86efac; }
+  .src.csucareers { background: rgba(30,64,175,0.20); color: #93c5fd; }
   .src.master { background: var(--pill-bg); color: var(--muted); }
 
   .scorechip.fit { cursor: help; }
@@ -446,6 +447,10 @@
     <div id="filter-sen" class="controls-row" style="gap:6px"></div>
   </div>
   <div class="controls-row">
+    <span class="pillgroup-label">Work mode</span>
+    <div id="filter-work" class="controls-row" style="gap:6px"></div>
+  </div>
+  <div class="controls-row">
     <span class="pillgroup-label">Posted</span>
     <div id="filter-date" class="controls-row" style="gap:6px"></div>
   </div>
@@ -513,6 +518,7 @@
     { name: 'output/google_jobs.json', src: 'GoogleJobs' },
     { name: 'output/hiringcafe_jobs.json', src: 'HiringCafe' },
     { name: 'output/calcareers_jobs.json', src: 'CalCareers' },
+    { name: 'output/csucareers_jobs.json', src: 'CSUCareers' },
     { name: 'output/usajobs_jobs.json',  src: 'USAJOBS'    },
     { name: 'output/governmentjobs_jobs.json', src: 'NEOGOV' },
     { name: 'output/calopps_jobs.json',  src: 'CalOpps'    },
@@ -657,6 +663,7 @@
     if (j.ats === 'NEOGOV' || (j.url || '').includes('governmentjobs.com')) return 'NEOGOV';
     if (j.ats === 'CalOpps' || (j.url || '').includes('calopps.org')) return 'CalOpps';
     if (j.ats === 'CalCareers' || (j.url || '').includes('calcareers.ca.gov')) return 'CalCareers';
+    if (j.ats === 'CSUCareers' || (j.url || '').includes('csucareers.calstate.edu')) return 'CSUCareers';
     if (j.ats === 'LinkedIn') return 'LinkedIn';
     if (j.ats === 'Greenhouse' || j.ats === 'Lever' || j.ats === 'Ashby') return 'Priority';
     if (j.ats === 'Indeed' || (j.url || '').includes('indeed.com')) return 'Indeed';
@@ -665,6 +672,32 @@
     if (j.ats === 'GoogleJobs' || (j.url || '').includes('google.com/search')) return 'GoogleJobs';
     if (j.ats === 'HiringCafe' || (j.url || '').includes('hiring.cafe')) return 'HiringCafe';
     return 'Other';
+  }
+
+  const WORK_MODES = [
+    'On-site',
+    'Remote in-state eligible',
+    'Remote out-of-state eligible',
+    'Telecommute eligible',
+  ];
+  function classifyWorkArrangement(j) {
+    const text = [
+      j.work_arrangement, j.telework, j.job_type, j.location,
+    ].filter(Boolean).join(' ').toLowerCase().replace(/[\s\-_]+/g, ' ');
+    if (/\b(out of state|out state|out of state eligible|remote out of state)\b/.test(text)) {
+      return 'Remote out-of-state eligible';
+    }
+    if (/\b(in state|instate|in site|remote in state|remote in site)\b/.test(text)) {
+      return 'Remote in-state eligible';
+    }
+    if (/\b(telecommut\w*|telework|hybrid)\b/.test(text)) return 'Telecommute eligible';
+    if (/\b(work from home|remote|long distance)\b/.test(text) || j.is_remote === true) {
+      return 'Remote in-state eligible';
+    }
+    if (/\b(on site|onsite|in office|office centered|in person|business location|work in person)\b/.test(text) || j.is_remote === false) {
+      return 'On-site';
+    }
+    return '';
   }
   // ---------- Resume-fit scoring (client-side, deterministic) ----------
   // Weighted keywords from Dr. Coffin's specializations. Title matches count
@@ -891,6 +924,7 @@
     j._role = classifyRole(j.title);
     j._sen  = classifySeniority(j.title);
     j._src  = classifySource(j);
+    j._work = classifyWorkArrangement(j);
     // Agent verdict, when this URL has been scored (see scores.json).
     // A stored "error" verdict is a failed model call, not a judgment —
     // treat it as unscored so it doesn't masquerade as a real 0/100.
@@ -1082,6 +1116,10 @@
       const w = cluster.find(j => j._salMin != null);
       if (w) { primary._salMin = w._salMin; primary._salMax = w._salMax; primary._salDisp = w._salDisp; }
     }
+    if (!primary._work) {
+      const w = cluster.find(j => j._work);
+      if (w) primary._work = w._work;
+    }
     // Consolidate triage onto the primary URL (highest-priority decision wins).
     let best = null, bestP = 0;
     for (const j of cluster) {
@@ -1146,7 +1184,7 @@
   // Fields refreshed from each fresh scrape onto already-cached jobs (e.g. a
   // salary backfilled later). Triage lives separately in state.triage (keyed by
   // URL), so updating the job's content is safe and never loses a decision.
-  const REFRESHABLE = ['salary', 'location', 'company', 'title', 'date_posted', 'description'];
+  const REFRESHABLE = ['salary', 'location', 'company', 'title', 'date_posted', 'description', 'job_type', 'is_remote', 'telework', 'work_arrangement'];
   function mergeJobs(incoming) {
     const seen = new Map(state.jobs.map(j => [j.url, j]));
     let added = 0;
@@ -1178,6 +1216,7 @@
     source: new Set(),
     role: new Set(),
     sen: new Set(),
+    work: new Set(),
     state: new Set(['active', 'saved', 'applied', 'interview', 'offer']),
     days: null,   // null = any time; else an integer day-window (7 = last 7 days)
     salMin: 0,    // minimum annual salary (USD); 0 = no floor
@@ -1224,6 +1263,7 @@
     if (except !== 'source' && filters.source.size && !srcs.some(s => filters.source.has(s))) return false;
     if (except !== 'role'   && filters.role.size   && !filters.role.has(j._role)) return false;
     if (except !== 'sen'    && filters.sen.size    && !filters.sen.has(j._sen))   return false;
+    if (except !== 'work'   && filters.work.size   && !filters.work.has(j._work)) return false;
     if (except !== 'state') {
       const st = state.triage[j.url] || 'active';
       if (!filters.state.has(st)) return false;
@@ -1316,7 +1356,8 @@
     VIEW.forEach(j => {
       if (!matchesFilters(j, key)) return;          // honor every filter except this facet's
       if (key === 'source') { (j._srcs || [j._src]).forEach(s => counts[s] = (counts[s] || 0) + 1); return; }
-      const v = key === 'role' ? j._role : j._sen;
+      const v = key === 'role' ? j._role : key === 'work' ? j._work : j._sen;
+      if (!v) return;
       counts[v] = (counts[v] || 0) + 1;
     });
     values.forEach(v => {
@@ -1542,6 +1583,7 @@
       lines.push(`Status: ${jobStatus(j)}`);
       if (salary) lines.push(`Salary: ${salary}`);
       if (j.job_type) lines.push(`Job type: ${j.job_type}`);
+      if (j._work) lines.push(`Work mode: ${j._work}`);
       if (j.is_remote) lines.push('Remote signal: yes');
       lines.push(`URL: ${j.direct_url || j.url || ''}`);
       lines.push(`Fit score: ${score}`);
@@ -1561,12 +1603,12 @@
 
   function exportVisibleCsv() {
     const rows = visibleJobs();
-    const header = ['status', 'title', 'company', 'location', 'sources', 'salary', 'fit', 'job_type', 'remote', 'date_posted', 'note', 'url', 'direct_url'];
+    const header = ['status', 'title', 'company', 'location', 'sources', 'salary', 'fit', 'job_type', 'work_arrangement', 'remote', 'date_posted', 'note', 'url', 'direct_url'];
     const lines = [header.join(',')];
     rows.forEach(j => {
       lines.push([
         jobStatus(j), j.title, j.company, j.location, (j._srcs || [j._src]).join('; '),
-        j._salDisp || j.salary || '', scoreMeta(j), j.job_type || '', j.is_remote ? 'yes' : '',
+        j._salDisp || j.salary || '', scoreMeta(j), j.job_type || '', j._work || j.work_arrangement || '', j.is_remote ? 'yes' : '',
         j.date_posted || '', jobNote(j), j.url || '', j.direct_url || '',
       ].map(csvCell).join(','));
     });
@@ -1678,8 +1720,9 @@
       const score = (viewMode === 'rank' || sortMode === 'fit') ? `<span>🎯 ${escape(scoreMeta(j))}</span>` : '';
       const note = jobNote(j);
       const typeBits = [
+        j._work ? escape(j._work) : '',
         j.job_type ? escape(j.job_type) : '',
-        j.is_remote ? 'Remote' : '',
+        j.is_remote && !j._work ? 'Remote' : '',
       ].filter(Boolean).join(' · ');
       const star = j._star
         ? `<span class="starbadge" title="Priority topic: ${escape((j._stars || []).join(', '))}">★</span>`
@@ -1919,10 +1962,11 @@
 
   function renderAll() {
     VIEW = dedupe(state.jobs);   // collapse cross-posted (LinkedIn↔Indeed) dupes
-    renderFilterGroup('filter-source', 'source', ['LinkedIn', 'Priority', 'Indeed', 'Glassdoor', 'ZipRecruiter', 'GoogleJobs', 'HiringCafe', 'CalCareers', 'USAJOBS', 'NEOGOV', 'CalOpps']);
+    renderFilterGroup('filter-source', 'source', ['LinkedIn', 'Priority', 'Indeed', 'Glassdoor', 'ZipRecruiter', 'GoogleJobs', 'HiringCafe', 'CalCareers', 'CSUCareers', 'USAJOBS', 'NEOGOV', 'CalOpps']);
     renderFilterGroup('filter-role', 'role', ROLE_NAMES);   // from config.json → role_categories
     renderFilterGroup('filter-sen', 'sen',
       ['Director+', 'Principal', 'Staff', 'Senior', 'Mid', 'Associate']);
+    renderFilterGroup('filter-work', 'work', WORK_MODES);
     renderDateFilter();
     renderStateFilter();
     renderSalaryControl();
@@ -2231,7 +2275,7 @@
   });
 
   $('clear-filters').onclick = () => {
-    filters.source.clear(); filters.role.clear(); filters.sen.clear();
+    filters.source.clear(); filters.role.clear(); filters.sen.clear(); filters.work.clear();
     filters.state = new Set(['active', 'saved', 'applied', 'interview', 'offer']);
     filters.days = null;
     filters.salMin = 0; filters.salUnknown = false;

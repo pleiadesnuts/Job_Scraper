@@ -1,6 +1,6 @@
 # 🧪 Job Scraper + Triage Dashboard
 
-GitHub Actions pipelines that scrape job boards (LinkedIn, Indeed, Glassdoor, ZipRecruiter, Google Jobs, HiringCafe, USAJOBS, NEOGOV, CalOpps, CalCareers) on a schedule, commit the results to the repo, and surface them in a single filterable [`triage.html`](#interactive-triage-dashboard--triagehtml) dashboard hosted **free** on GitHub Pages — with a map, salary harmonization, cross-source de-duplication, notes, bulk workflow states, CSV export, application-packet prompts, and optional phone notifications. **No server, no paid services, and no API keys required.**
+GitHub Actions pipelines that scrape job boards (LinkedIn, Indeed, Glassdoor, ZipRecruiter, Google Jobs, HiringCafe, USAJOBS, NEOGOV, CalOpps, CalCareers, CSU Careers) on a schedule, commit the results to the repo, and surface them in a single filterable [`triage.html`](#interactive-triage-dashboard--triagehtml) dashboard hosted **free** on GitHub Pages — with a map, salary harmonization, cross-source de-duplication, notes, bulk workflow states, CSV export, application-packet prompts, and optional phone notifications. **No server, no paid services, and no API keys required.**
 
 **Everything you search for lives in one file: [`config.json`](config.json)** — point it at your field and locations (or generate it from your CV with an LLM) and you have your own tracker. Live example: [scottcoff.in/Job_Scraper/triage.html](https://scottcoff.in/Job_Scraper/triage.html).
 
@@ -13,6 +13,12 @@ GitHub Actions pipelines that scrape job boards (LinkedIn, Indeed, Glassdoor, Zi
 # Set up your own (full walkthrough) 🚀
 
 You only need a free [**GitHub account**](https://github.com/signup). Everything runs on GitHub's servers (Actions + Pages) — **you don't have to install anything or keep a computer on.** (Local install is optional; see [Running locally](#running-locally).)
+
+> **CLI shortcut (Steps 3–5 in one command):** If you have [GitHub CLI](https://cli.github.com) installed, clone your fork locally and run:
+> ```bash
+> bash scripts/setup.sh
+> ```
+> It enables Actions, sets the required variable, enables Pages, and walks you through optional credentials interactively. New to GitHub? Follow the full steps below — no CLI needed.
 
 ## Step 1 — Get your own copy of the repo
 
@@ -99,6 +105,8 @@ To use: **Actions → [Watcher name] → Run workflow → check "One-time backfi
 **No backfill needed** for **CalCareers**, **USAJOBS**, and **CalOpps** — these sources return all current open listings on every run, so a single normal run is already a full snapshot.
 
 Give it 1–2 minutes per watcher, then open your `…/triage.html` URL. 🎉 Hard-refresh (ctrl+R) after each scrape to see new jobs.
+
+**Confirm everything is configured:** **Actions → Validate Setup → Run workflow**. It prints a checklist of required and optional items and fails loudly if anything critical is missing.
 
 ## Step 6 — Phone notifications (optional)
 
@@ -228,6 +236,7 @@ The list is deliberately **tight** for precision: generic titles (`research scie
 | `google_jobs.json` / `.md` / `.html` | Google Jobs watcher | Google Jobs roles in your locations, last 24h, deduped |
 | `hiringcafe_jobs.json` / `.md` / `.html` | HiringCafe watcher | Direct-employer roles from HiringCafe, last 30d, guarded |
 | `calcareers_jobs.json` / `.md` / `.html` | CalCareers watcher | California state civil-service roles (calcareers.ca.gov) |
+| `csucareers_jobs.json` / `.md` / `.html` | CSU Careers watcher | California State University systemwide roles (csucareers.calstate.edu) |
 | `usajobs_jobs.json` / `.md` / `.html` | USAJOBS watcher | US federal roles matching your configured keywords, with salary, via usajobs.gov |
 | `governmentjobs_jobs.json` / `.md` / `.html` | NEOGOV watcher | State & local-gov roles matching your configured keywords via governmentjobs.com |
 | `calopps_jobs.json` / `.md` / `.html` | CalOpps watcher | California local-agency roles (cities, counties, special districts) via calopps.org |
@@ -237,6 +246,10 @@ The list is deliberately **tight** for precision: generic titles (`research scie
 ### CalCareers (California state jobs)
 
 `scrape_jobs.py --calcareers-only` scrapes [calcareers.ca.gov](https://calcareers.ca.gov) — the CA state civil-service portal. This is useful when your configured role terms overlap with California state classifications. CalCareers is an ASP.NET WebForms site with **no public API**, so the scraper seeds a session and fires the search postback (`__EVENTTARGET=ctl00$cphMainContent$btnSearch` with the keyword field), then parses the labeled result cards. The working postback method was adapted from the [OpenPostings](https://github.com/Masterjx9/OpenPostings) `calcareers` module. Fully guarded; runs daily via `calcareers_watch.yml`. Verified against the shipped example configuration.
+
+### CSU Careers (California State University jobs)
+
+`scrape_jobs.py --csucareers-only` scrapes [csucareers.calstate.edu](https://csucareers.calstate.edu/en-us/listing/) — the California State University systemwide PageUp listing. It walks the paginated listing table, keeps roles whose title or summary matches your configured keywords, and preserves the previous CSU output if the remote listing scan is incomplete. Runs daily via `csucareers_watch.yml`.
 
 ### USAJOBS (federal jobs)
 
@@ -303,6 +316,7 @@ python scrape_jobs.py --usajobs-only         # US federal jobs (usajobs.gov, no 
 python scrape_jobs.py --governmentjobs-only  # state/local gov (NEOGOV)
 python scrape_jobs.py --calopps-only         # California local agencies (calopps.org)
 python scrape_jobs.py --calcareers-only      # California state jobs (calcareers.ca.gov)
+python scrape_jobs.py --csucareers-only      # California State University jobs (csucareers.calstate.edu)
 ```
 
 The LinkedIn / priority / HiringCafe / USAJOBS / gov pipelines use only the **Python standard library**. Indeed, Glassdoor, ZipRecruiter, and Google Jobs use one optional dependency: `pip install -r requirements.txt` (single package, `python-jobspy`).

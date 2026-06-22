@@ -19,6 +19,8 @@ import json
 import os
 import random
 import re
+import shutil
+import subprocess
 import sys
 import time
 import urllib.error
@@ -27,6 +29,10 @@ import urllib.request
 from datetime import datetime, timedelta, timezone
 from urllib.request import urlopen, Request
 from urllib.error import HTTPError, URLError
+
+if hasattr(sys.stdout, "reconfigure"):
+    sys.stdout.reconfigure(encoding="utf-8", errors="replace")
+    sys.stderr.reconfigure(encoding="utf-8", errors="replace")
 
 SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
 OUTPUT_DIR = os.path.join(SCRIPT_DIR, "output")
@@ -199,6 +205,14 @@ def is_mle_role(title: str) -> bool:
     if EXCLUDED_SENIORITY_RE.search(title):
         return False
     return bool(_KEYWORD_RE.search(title))
+
+
+def is_mle_role_text(title: str, *parts: str) -> bool:
+    """Like is_mle_role, but allows source-specific summary text to carry the signal."""
+    if EXCLUDED_SENIORITY_RE.search(title or ""):
+        return False
+    text = " ".join([title or "", *(p or "" for p in parts)])
+    return bool(_KEYWORD_RE.search(text))
 
 
 # Geographic scope for the curated/legacy ATS path. Primary base is California,
@@ -986,6 +1000,46 @@ def _coerce_bool(value):
     return str(value).strip().lower() in {"1", "true", "yes", "remote"}
 
 
+WORK_ARRANGEMENTS = {
+    "onsite": "On-site",
+    "remote_in_state": "Remote in-state eligible",
+    "remote_out_of_state": "Remote out-of-state eligible",
+    "telecommute": "Telecommute eligible",
+}
+
+
+def classify_work_arrangement(*parts, is_remote=None) -> str:
+    """Normalize board-specific remote/telework labels for dashboard filtering."""
+    text = " ".join(str(p or "") for p in parts)
+    text = re.sub(r"[\s\-_]+", " ", text).strip().lower()
+    if not text and is_remote is None:
+        return ""
+    if re.search(r"\b(out of state|out state|out of state eligible|remote out of state)\b", text):
+        return WORK_ARRANGEMENTS["remote_out_of_state"]
+    if re.search(r"\b(in state|instate|in site|remote in state|remote in site)\b", text):
+        return WORK_ARRANGEMENTS["remote_in_state"]
+    if re.search(r"\b(telecommut\w*|telework|hybrid)\b", text):
+        return WORK_ARRANGEMENTS["telecommute"]
+    if re.search(r"\b(work from home|remote|long distance)\b", text) or is_remote is True:
+        return WORK_ARRANGEMENTS["remote_in_state"]
+    if re.search(r"\b(on site|onsite|in office|office centered|in person|business location|work in person)\b", text) or is_remote is False:
+        return WORK_ARRANGEMENTS["onsite"]
+    return ""
+
+
+def _ensure_work_arrangement(job: dict) -> dict:
+    label = classify_work_arrangement(
+        job.get("work_arrangement", ""),
+        job.get("telework", ""),
+        job.get("job_type", ""),
+        job.get("location", ""),
+        is_remote=job.get("is_remote"),
+    )
+    if label:
+        job["work_arrangement"] = label
+    return job
+
+
 def _ingest_jobspy_df(df, *, label: str, jobs_by_id: dict[str, dict]) -> int:
     """Normalize a JobSpy dataframe into this repo's jobs_by_id dict. Returns raw row count."""
     if df is None or df.empty:
@@ -1008,7 +1062,9 @@ def _ingest_jobspy_df(df, *, label: str, jobs_by_id: dict[str, dict]) -> int:
             city = str(row.get("city", "") or "")
             state = str(row.get("state", "") or "")
             loc = ", ".join(p for p in [city, state] if p)
-        jobs_by_id[ident] = {
+        is_remote = _coerce_bool(row.get("is_remote"))
+        job_type = str(row.get("job_type", "") or "")
+        jobs_by_id[ident] = _ensure_work_arrangement({
             "company": str(row.get("company", "") or "Unknown"),
             "title": title,
             "location": loc,
@@ -1024,11 +1080,12 @@ def _ingest_jobspy_df(df, *, label: str, jobs_by_id: dict[str, dict]) -> int:
             ),
             "salary_source": str(row.get("salary_source", "") or ""),
             "salary_currency": str(row.get("currency", "") or ""),
-            "job_type": str(row.get("job_type", "") or ""),
-            "is_remote": _coerce_bool(row.get("is_remote")),
+            "job_type": job_type,
+            "is_remote": is_remote,
+            "work_arrangement": classify_work_arrangement(loc, job_type, is_remote=is_remote),
             "emails": str(row.get("emails", "") or ""),
             "ats": label,
-        }
+        })
     return raw_rows
 
 
@@ -1252,6 +1309,10 @@ def _normalize_serpapi_google_job(raw: dict) -> dict | None:
     url = direct_url or str(raw.get("share_link") or raw.get("link") or raw.get("serpapi_link") or "")
     if not url:
         return None
+    job_type = str(detected.get("schedule_type", "") or "")
+    remote_flag = _coerce_bool(detected.get("work_from_home"))
+    remote_in_location = bool(re.search(r"\bremote\b", str(raw.get("location", "")), re.I))
+    is_remote = True if remote_flag is True or remote_in_location else (False if remote_flag is False else None)
     return {
         "company": str(raw.get("company_name", "") or "Unknown"),
         "title": title,
@@ -1261,8 +1322,9 @@ def _normalize_serpapi_google_job(raw: dict) -> dict | None:
         "date_posted": _posted_text_to_iso(posted),
         "description": _google_jobs_description(raw),
         "salary": salary,
-        "job_type": str(detected.get("schedule_type", "") or ""),
-        "is_remote": _coerce_bool(detected.get("work_from_home")) or bool(re.search(r"\bremote\b", str(raw.get("location", "")), re.I)),
+        "job_type": job_type,
+        "is_remote": is_remote,
+        "work_arrangement": classify_work_arrangement(raw.get("location", ""), job_type, is_remote=is_remote),
         "ats": "GoogleJobs",
     }
 
@@ -1274,17 +1336,20 @@ def _normalize_oxylabs_google_job(raw: dict) -> dict | None:
     url = str(raw.get("URL") or raw.get("url") or raw.get("share_url") or "")
     if not url:
         return None
+    location = str(raw.get("location", "") or "")
+    is_remote = True if re.search(r"\bremote\b", location, re.I) else None
     return {
         "company": str(raw.get("company_name") or raw.get("company") or "Unknown"),
         "title": title,
-        "location": str(raw.get("location", "") or ""),
+        "location": location,
         "url": url,
         "direct_url": "",
         "date_posted": _posted_text_to_iso(str(raw.get("date") or raw.get("posted_at") or "")),
         "description": str(raw.get("description", "") or "")[:JOBSPY_JD_MAX_CHARS],
         "salary": str(raw.get("salary", "") or ""),
         "job_type": "",
-        "is_remote": bool(re.search(r"\bremote\b", str(raw.get("location", "")), re.I)),
+        "is_remote": is_remote,
+        "work_arrangement": classify_work_arrangement(location, is_remote=is_remote),
         "ats": "GoogleJobs",
     }
 
@@ -1606,6 +1671,7 @@ def _normalize_hiringcafe_job(raw: dict) -> dict | None:
     if isinstance(job_type, list):
         job_type = ", ".join(str(x) for x in job_type)
     workplace_type = str(_deep_first(raw, ("workplace_type", "workplaceType")) or "")
+    is_remote = _coerce_bool(_deep_first(raw, ("isRemote", "remote"))) or workplace_type.lower() == "remote"
     job = {
         "company": company,
         "title": title,
@@ -1619,7 +1685,8 @@ def _normalize_hiringcafe_job(raw: dict) -> dict | None:
         "description": re.sub(r"<[^>]+>", " ", str(desc or ""))[:JOBSPY_JD_MAX_CHARS],
         "salary": _hiringcafe_salary(raw),
         "job_type": str(job_type or ""),
-        "is_remote": _coerce_bool(_deep_first(raw, ("isRemote", "remote"))) or workplace_type.lower() == "remote",
+        "is_remote": is_remote,
+        "work_arrangement": classify_work_arrangement(location, job_type, workplace_type, is_remote=is_remote),
         "ats": "HiringCafe",
     }
     return job
@@ -1803,6 +1870,34 @@ def _parse_calcareers_results(html: str) -> list[dict]:
     return jobs
 
 
+def _calcareers_detail_value(html: str, label: str) -> str:
+    import html as html_mod
+
+    m = re.search(
+        rf'<strong>\s*{re.escape(label)}:\s*</strong>\s*</div>\s*'
+        r'<div[^>]*>\s*<span[^>]*>([\s\S]*?)</span>',
+        html,
+        re.I,
+    )
+    if not m:
+        return ""
+    return re.sub(r'\s+', ' ', html_mod.unescape(re.sub(r'<[^>]+>', ' ', m.group(1)))).strip()
+
+
+def _calcareers_posting_details(url: str) -> dict:
+    try:
+        html = fetch(url)
+    except Exception:
+        return {}
+    if not html:
+        return {}
+    return {
+        "work_location": _calcareers_detail_value(html, "Work Location"),
+        "telework": _calcareers_detail_value(html, "Telework"),
+        "job_type": _calcareers_detail_value(html, "Job Type"),
+    }
+
+
 def _calcareers_payload(hidden: dict, event_target: str, keyword: str) -> dict:
     """ASP.NET postback body that actually fires the search (the missing piece
     was __EVENTTARGET=btnSearch + the real keyword field name)."""
@@ -1851,6 +1946,15 @@ def scrape_calcareers_recent() -> list:
         for job in _parse_calcareers_results(res_html):
             parsed_total += 1
             if is_mle_role(job["title"]) and job["url"] not in jobs_by_url:
+                time.sleep(REQUEST_DELAY)
+                details = _calcareers_posting_details(job["url"])
+                if details.get("work_location"):
+                    job["location"] = details["work_location"]
+                if details.get("telework"):
+                    job["telework"] = details["telework"]
+                if details.get("job_type"):
+                    job["job_type"] = details["job_type"]
+                _ensure_work_arrangement(job)
                 jobs_by_url[job["url"]] = job
 
     jobs = list(jobs_by_url.values())
@@ -2159,6 +2263,157 @@ def save_calopps_results(jobs: list):
     )
 
 
+# ---------------------------------------------------------------------------
+# CSU Careers — California State University jobs (PageUp listing)
+# ---------------------------------------------------------------------------
+
+CSUCAREERS_BASE = "https://csucareers.calstate.edu"
+CSUCAREERS_LISTING_URL = CSUCAREERS_BASE + "/en-us/listing/"
+CSUCAREERS_PAGE_ITEMS = 100
+CSUCAREERS_MAX_PAGES = int(_cfg("csucareers.max_pages", 30))
+
+
+def _fetch_csucareers(url: str) -> str:
+    curl = shutil.which("curl") or shutil.which("curl.exe")
+    if curl:
+        try:
+            got = subprocess.run(
+                [
+                    curl,
+                    "-4",
+                    "-L",
+                    "--retry", "3",
+                    "--retry-delay", "2",
+                    "--retry-all-errors",
+                    "--http1.1",
+                    "--max-time", "60",
+                    "--tlsv1.2",
+                    "-A", HEADERS["User-Agent"],
+                    url,
+                ],
+                check=False,
+                capture_output=True,
+                timeout=70,
+            )
+            if got.stdout:
+                html = got.stdout.decode("utf-8", errors="replace")
+                if 'class="job-link"' in html or "search-results-content" in html:
+                    return html
+        except (OSError, subprocess.SubprocessError):
+            pass
+    return fetch(url, retries=1, _base_wait=8.0)
+
+
+def _parse_csucareers_listing(html: str) -> list[dict]:
+    import html as html_mod
+
+    def _clean(s):
+        return re.sub(r'\s+', ' ', html_mod.unescape(re.sub(r'<[^>]+>', ' ', s or ''))).strip()
+
+    rows = re.findall(r'<tr[^>]*>([\s\S]*?)</tr>', html, re.I)
+    jobs: list[dict] = []
+    i = 0
+    while i < len(rows):
+        row = rows[i]
+        link = re.search(
+            r'<a[^>]*class=["\'][^"\']*\bjob-link\b[^"\']*["\'][^>]*href=["\']([^"\']+)["\'][^>]*>([\s\S]*?)</a>',
+            row,
+            re.I,
+        )
+        if not link:
+            i += 1
+            continue
+        href = html_mod.unescape(link.group(1).strip())
+        url = href if href.startswith("http") else CSUCAREERS_BASE + href
+        title = _clean(link.group(2))
+        loc_m = re.search(r'<span[^>]*class=["\'][^"\']*\blocation\b[^"\']*["\'][^>]*>([\s\S]*?)</span>', row, re.I)
+        close_m = re.search(r'<time[^>]*datetime=["\']([^"\']+)["\']', row, re.I)
+        description = ""
+        if i + 1 < len(rows) and re.search(r'\bclass=["\'][^"\']*\bsummary\b', rows[i + 1], re.I):
+            description = _clean(rows[i + 1])
+            i += 1
+        jobs.append({
+            "company": "California State University",
+            "title": title,
+            "location": _clean(loc_m.group(1)) if loc_m else "California",
+            "url": url,
+            "direct_url": url,
+            "date_posted": "",
+            "closing_date": (close_m.group(1)[:10] if close_m else ""),
+            "description": description[:JOBSPY_JD_MAX_CHARS],
+            "salary": "",
+            "ats": "CSUCareers",
+        })
+        i += 1
+    return jobs
+
+
+def scrape_csucareers_recent() -> list:
+    """CSU PageUp listing, title-filtered to configured target roles."""
+    print("🎓 Scraping CSU Careers (csucareers.calstate.edu)...")
+    jobs_by_url: dict[str, dict] = {}
+    raw_rows = 0
+    reached = False
+    consecutive_failures = 0
+    complete = True
+    for page in range(1, CSUCAREERS_MAX_PAGES + 1):
+        html = ""
+        url = (
+            f"{CSUCAREERS_LISTING_URL}?page={page}"
+            f"&page-items={CSUCAREERS_PAGE_ITEMS}"
+        )
+        for attempt in range(3):
+            time.sleep(REQUEST_DELAY)
+            html = _fetch_csucareers(url)
+            if html:
+                break
+            time.sleep(1 + attempt)
+        if not html:
+            print(f"  ⚠️  CSU Careers page {page}: no response")
+            consecutive_failures += 1
+            if consecutive_failures >= 3:
+                complete = False
+                break
+            continue
+        consecutive_failures = 0
+        reached = True
+        batch = _parse_csucareers_listing(html)
+        raw_rows += len(batch)
+        if not batch:
+            break
+        for job in batch:
+            if not is_mle_role_text(job.get("title", ""), job.get("description", "")):
+                continue
+            if job["url"] not in jobs_by_url:
+                jobs_by_url[job["url"]] = _ensure_work_arrangement(job)
+        if not re.search(r'class=["\'][^"\']*\bmore-link\b', html, re.I):
+            break
+    jobs = list(jobs_by_url.values())
+    print(f"  ✅ CSU Careers: {len(jobs)} on-target role(s) (from {raw_rows} listed)")
+    if not complete:
+        prev = _load_prev_jobs(os.path.join(OUTPUT_DIR, "csucareers_jobs.json"))
+        print(
+            f"  ⛔ CSU Careers scan incomplete; preserving previous "
+            f"{len(prev)} result(s)"
+        )
+        return prev
+    if not jobs and (raw_rows == 0 or not reached):
+        return _load_prev_jobs(os.path.join(OUTPUT_DIR, "csucareers_jobs.json"))
+    return jobs
+
+
+def save_csucareers_results(jobs: list):
+    save_jobs_output(
+        jobs,
+        basename="csucareers_jobs",
+        title=f"🎓 CSU Careers — California State University {PROFILE_LABEL} Roles",
+        subtitle="csucareers.calstate.edu · CSU systemwide PageUp listing",
+        accent="#1e40af",
+        empty_message="No new CSU Careers roles since the last run.",
+        window_label="current CSU Careers postings",
+    )
+
+
 def format_salary(min_amount, max_amount, interval) -> str:
     """
     Display string for jobspy's Indeed pay fields, e.g. "$150k–$190k/yr" or
@@ -2392,7 +2647,7 @@ def _merge_duplicate_job(existing: dict, incoming: dict) -> int:
         if incoming.get(key) and not existing.get(key):
             existing[key] = incoming[key]
             enriched += 1
-    for key in ("direct_url", "date_posted", "job_type", "is_remote"):
+    for key in ("direct_url", "date_posted", "job_type", "is_remote", "telework", "work_arrangement"):
         if incoming.get(key) and not existing.get(key):
             existing[key] = incoming[key]
     dupes = set(existing.get("duplicate_urls") or [])
@@ -2539,6 +2794,8 @@ def save_jobs_output(jobs: list, *, basename: str, title: str, subtitle: str,
     jobs = [j for j in jobs if not _is_pharma_company(j.get("company", ""))]
     if len(jobs) < before:
         print(f"  🚫 Dropped {before - len(jobs)} pharma role(s)")
+    for job in jobs:
+        _ensure_work_arrangement(job)
 
     json_path = os.path.join(OUTPUT_DIR, f"{basename}.json")
     md_path = os.path.join(OUTPUT_DIR, f"{basename}.md")
@@ -2588,6 +2845,10 @@ def save_jobs_output(jobs: list, *, basename: str, title: str, subtitle: str,
             lines.append(f"- 📍 **Location:** {job['location'] or 'Not specified'}")
             if job.get("salary"):
                 lines.append(f"- 💰 **Salary:** {job['salary']}")
+            if job.get("work_arrangement"):
+                lines.append(f"- **Work mode:** {job['work_arrangement']}")
+            if job.get("job_type"):
+                lines.append(f"- **Job type:** {job['job_type']}")
             if job.get("date_posted"):
                 lines.append(f"- 🕒 **Posted:** {job['date_posted']}")
             lines.append("")
@@ -2707,6 +2968,14 @@ def _render_jobs_html(*, title: str, subtitle: str, timestamp: str,
                 f'<span class="meta-item">🕒 Posted {html_mod.escape(j["date_posted"])}</span>'
                 if j.get("date_posted") else ""
             )
+            work = (
+                f'<span class="meta-item">{html_mod.escape(j["work_arrangement"])}</span>'
+                if j.get("work_arrangement") else ""
+            )
+            job_type = (
+                f'<span class="meta-item">{html_mod.escape(j["job_type"])}</span>'
+                if j.get("job_type") else ""
+            )
             ats_tag = (
                 f'<span class="ats">{html_mod.escape(j["ats"])}</span>'
                 if j.get("ats") else ""
@@ -2719,6 +2988,8 @@ def _render_jobs_html(*, title: str, subtitle: str, timestamp: str,
                 f'<div class="meta">'
                 f'<span class="meta-item">📍 {html_mod.escape(j["location"] or "Not specified")}</span>'
                 f'{salary}'
+                f'{work}'
+                f'{job_type}'
                 f'{posted}'
                 f'</div></div>'
             )
@@ -2887,6 +3158,10 @@ if __name__ == "__main__":
 
     if "--calopps-only" in sys.argv:
         save_calopps_results(scrape_calopps_recent())
+        sys.exit(0)
+
+    if "--csucareers-only" in sys.argv:
+        save_csucareers_results(scrape_csucareers_recent())
         sys.exit(0)
 
     if "--biotech-only" in sys.argv:
