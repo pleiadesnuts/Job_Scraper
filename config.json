@@ -1,0 +1,312 @@
+```json
+{
+  "profile": {
+    "title": "Social Worker Job Tracker",
+    "subtitle": "Laramie, WY · Denver, CO · Remote",
+    "emoji": "👥"
+  },
+  "keywords": {
+    "include": [
+      "social worker",
+      "case manager",
+      "care coordinator",
+      "community health worker",
+      "behavioral health specialist",
+      "substance abuse counselor",
+      "family support worker",
+      "youth counselor",
+      "school social worker",
+      "medical social worker",
+      "grant writer",
+      "program coordinator",
+      "program manager",
+      "community outreach specialist",
+      "advocacy coordinator",
+      "client advocate",
+      "crisis counselor",
+      "intake specialist",
+      "peer support specialist",
+      "team leader",
+      "supervisor",
+      "training coordinator",
+      "education specialist",
+      "adult services coordinator",
+      "community services specialist",
+      "human services coordinator",
+      "wellness coordinator",
+      "health educator",
+      "community educator",
+      "volunteer coordinator",
+      "nonprofit program manager",
+      "housing specialist",
+      "employment counselor",
+      "transition specialist",
+      "youth development specialist",
+      "mentoring coordinator",
+      "wilderness therapy",
+      "adventure therapy",
+      "outdoor educator",
+      "environmental educator",
+      "Spanish interpreter",
+      "bilingual community worker",
+      "trauma-informed practitioner",
+      "foster care specialist",
+      "child welfare worker",
+      "capacity building specialist"
+    ],
+    "exclude": [
+      "internship",
+      "intern",
+      "co-op",
+      "trainee",
+      "postdoc",
+      "assistant professor",
+      "recruiting",
+      "recruiter",
+      "sales",
+      "manager sales",
+      "estate planning",
+      "financial advisor",
+      "accountant",
+      "licensed clinical social worker",
+      "LCSW",
+      "therapist",
+      "psychologist",
+      "psychiatrist",
+      "requires licensure",
+      "licensed social worker",
+      "LSW",
+      "requires state license",
+      "state licensure required",
+      "board certified"
+    ]
+  },
+  "search_terms": {
+    "linkedin": [
+      "social worker Laramie Wyoming",
+      "case manager Wyoming",
+      "community health worker Denver Colorado",
+      "behavioral health specialist remote",
+      "program coordinator nonprofit",
+      "grant writer social services",
+      "youth counselor",
+      "crisis counselor",
+      "bilingual community worker Spanish",
+      "peer support specialist",
+      "wellness coordinator",
+      "community outreach coordinator",
+      "care coordinator",
+      "housing specialist nonprofit",
+      "employment counselor",
+      "transition specialist",
+      "youth development specialist",
+      "substance abuse counselor",
+      "family support worker",
+      "school social worker"
+    ],
+    "indeed": [
+      "social worker Wyoming",
+      "case manager Denver Colorado",
+      "community health worker",
+      "program coordinator remote",
+      "behavioral health specialist",
+      "youth counselor"
+    ],
+    "glassdoor": [
+      "social worker",
+      "case manager",
+      "program coordinator nonprofit",
+      "community health worker",
+      "behavioral health",
+      "grant writer"
+    ],
+    "ziprecruiter": [
+      "social worker Wyoming",
+      "case manager Denver Colorado",
+      "program coordinator remote",
+      "community health worker",
+      "youth counselor",
+      "nonprofit coordinator"
+    ],
+    "google_jobs": [
+      "social worker Laramie",
+      "case manager Denver",
+      "program coordinator remote",
+      "community health worker",
+      "youth counselor"
+    ],
+    "hiring_cafe": [
+      "social worker",
+      "case manager",
+      "program coordinator",
+      "community health",
+      "nonprofit"
+    ]
+  },
+  "locations": {
+    "linkedin": [
+      {
+        "name": "Laramie, WY",
+        "location": "Laramie, Wyoming, United States",
+        "geoId": ""
+      },
+      {
+        "name": "Denver, CO",
+        "location": "Denver, Colorado, United States",
+        "geoId": ""
+      },
+      {
+        "name": "Remote",
+        "location": "Remote",
+        "geoId": ""
+      }
+    ],
+    "indeed": [
+      {
+        "location": "Laramie, WY",
+        "country": "USA"
+      },
+      {
+        "location": "Denver, CO",
+        "country": "USA"
+      },
+      {
+        "location": "Remote",
+        "country": "USA"
+      }
+    ],
+    "glassdoor": [
+      {
+        "location": "Laramie, WY",
+        "country": "USA"
+      },
+      {
+        "location": "Denver, CO",
+        "country": "USA"
+      },
+      {
+        "location": "Remote",
+        "country": "USA"
+      }
+    ],
+    "ziprecruiter": [
+      {
+        "location": "Laramie, WY",
+        "country": "USA"
+      },
+      {
+        "location": "Denver, CO",
+        "country": "USA"
+      },
+      {
+        "location": "Remote",
+        "country": "USA"
+      }
+    ],
+    "google_jobs": [
+      {
+        "location": "Laramie, WY",
+        "country": "USA"
+      },
+      {
+        "location": "Denver, CO",
+        "country": "USA"
+      },
+      {
+        "location": "Remote",
+        "country": "USA"
+      }
+    ],
+    "hiring_cafe": [
+      {
+        "location": "United States"
+      }
+    ]
+  },
+  "google_jobs": {
+    "queries": [],
+    "serpapi_api_key": "",
+    "oxylabs_username": "",
+    "oxylabs_password": ""
+  },
+  "hiring_cafe": {
+    "max_pages": 3
+  },
+  "employers": {
+    "priority": [],
+    "exclude": [
+      "recruiter",
+      "recruitment agency",
+      "staffing agency",
+      "temp agency"
+    ]
+  },
+  "priority_topics": {
+    "terms": [
+      [
+        "Community Engagement",
+        "community|outreach|advocacy|grassroots|partnership|collaboration"
+      ],
+      [
+        "Bilingual/Spanish",
+        "spanish|bilingual|latino|latinx|hispanic|interpretation"
+      ],
+      [
+        "Trauma-Informed Practice",
+        "trauma|trauma-informed|PTSD|adverse|foster|vulnerable|at-risk"
+      ],
+      [
+        "Youth & Mentoring",
+        "youth|adolescent|child|teen|mentoring|leadership|empowerment"
+      ],
+      [
+        "Nonprofit & Grant Work",
+        "nonprofit|grant|fundraising|nonprofit organization|capacity building"
+      ],
+      [
+        "Direct Service & Case Management",
+        "case manager|care coordinator|direct service|client advocacy"
+      ]
+    ]
+  },
+  "role_categories": {
+    "terms": [
+      [
+        "Case Management & Care Coordination",
+        "case manager|care coordinator|care management|client services|service coordinator"
+      ],
+      [
+        "Program & Community Leadership",
+        "program coordinator|program manager|coordinator|community|outreach|specialist"
+      ],
+      [
+        "Youth & Education",
+        "youth|school|educator|mentoring|camp|wilderness|outdoor|child"
+      ],
+      [
+        "Grant & Nonprofit Operations",
+        "grant|fundraising|development|nonprofit|capacity|sustainability|director"
+      ],
+      [
+        "Support & Advocacy Roles",
+        "advocate|peer support|intake|crisis|support|specialist|assistant"
+      ],
+      [
+        "Bilingual & Interpretation",
+        "interpreter|bilingual|spanish|translation|language services"
+      ],
+      [
+        "Supervisory & Leadership",
+        "supervisor|lead|manager|director|coordinator lead|team lead"
+      ],
+      [
+        "Health & Wellness",
+        "health educator|wellness|substance abuse|behavioral health|health specialist"
+      ]
+    ]
+  },
+  "notify": {
+    "min_fit": 75
+  }
+}
+```
