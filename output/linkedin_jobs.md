@@ -1,14 +1,9 @@
 # 🔥 LinkedIn — Environmental / Toxicology Roles
-*Last updated: 2026-06-23 21:06 UTC*
+*Last updated: 2026-06-23 21:18 UTC*
 
-**2 new role(s)** since last run · 7 total in last 1h
+**1 new role(s)** since last run · 8 total in last 1h
 
-### [Operational Environmental Compliance Project Manager (Hybrid)](https://www.linkedin.com/jobs/view/4432437901/) — Tetra Tech
-- 📍 **Location:** Portland, OR
-- 💰 **Salary:** $95,000-$130,000
-- 🕒 **Posted:** 2026-06-23
-
-### [Environmental Compliance Project Manager (Hybrid)](https://www.linkedin.com/jobs/view/4432455022/) — Tetra Tech
-- 📍 **Location:** Portland, OR
-- 💰 **Salary:** $100,000-$150,000
+### [Principal Environmental Compliance Analyst (Wastewater)](https://www.linkedin.com/jobs/view/4426713322/) — Eastern Municipal Water District
+- 📍 **Location:** Perris, CA
+- 💰 **Salary:** $68.98 - $85.92
 - 🕒 **Posted:** 2026-06-23
