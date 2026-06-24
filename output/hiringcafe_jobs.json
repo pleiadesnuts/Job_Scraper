@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-06-24 17:35 UTC",
+  "scraped_at": "2026-06-24 18:32 UTC",
   "total": 50,
-  "new_count": 2,
+  "new_count": 0,
   "jobs": [
     {
       "company": "Department of Health and Human Services",
@@ -704,34 +704,5 @@
       "ats": "HiringCafe"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "AtkinsRéalis",
-      "title": "Environmental Scientist",
-      "location": "Tampa or Florida",
-      "url": "https://slihrms.wd3.myworkdayjobs.com/careers/job/USFLTampa4030-West-Boy-Scout-Boulevard/Environmental-Scientist_R-158303-1",
-      "direct_url": "https://slihrms.wd3.myworkdayjobs.com/careers/job/USFLTampa4030-West-Boy-Scout-Boulevard/Environmental-Scientist_R-158303-1",
-      "date_posted": "2026-06-24T00:00:00.000Z",
-      "description": "Bachelor's in Environmental Management (ABET) or related; 0-2 years relevant experience; proficiency with Microsoft Office; GIS preferred; ability to perform field visits, contamination assessments, and technical reporting.",
-      "salary": "$55k–$58k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Kimley-Horn",
-      "title": "Experienced Environmental Scientist",
-      "location": "Philadelphia, Pennsylvania, United States",
-      "url": "https://careers-kimley-horn.icims.com/jobs/24157/experienced-environmental-scientist/job?in_iframe=1",
-      "direct_url": "https://careers-kimley-horn.icims.com/jobs/24157/experienced-environmental-scientist/job?in_iframe=1",
-      "date_posted": "2026-05-28T04:00:00.000Z",
-      "description": "4+ years in environmental consulting; BS or MS in Environmental Science, Geology, Environmental Engineering, or related; strong regulatory knowledge; excellent writing; client-facing; willingness to travel ~40%.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    }
-  ]
+  "new_jobs": []
 }
