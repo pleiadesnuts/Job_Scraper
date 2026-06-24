@@ -1,45 +1,30 @@
 # ☕ HiringCafe — Social Worker Roles
-*Last updated: 2026-06-24 11:32 UTC*
+*Last updated: 2026-06-24 21:57 UTC*
 
-**6 new role(s)** since last run · 84 total in last 30d
+**4 new role(s)** since last run · 82 total in last 30d
 
-### [SOCIAL WORKER](https://www.applitrack.com/gcsnc/onlineapp/jobpostings/view.asp?AppliTrackJobId=43733) — Guilford County Schools
-- 📍 **Location:** Guilford County, North Carolina, United States
-- 💰 **Salary:** $58k/yr
+### [Social Worker](https://eppr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/requisitions/job/184278) — Northwell Career Site
+- 📍 **Location:** Huntington, New York, United States
+- 💰 **Salary:** $95k–$125k/yr
 - **Work mode:** On-site
 - **Job type:** Full Time
-- 🕒 **Posted:** 2026-06-23T12:00:00.000Z
+- 🕒 **Posted:** 2026-06-01T15:51:29.000Z
 
-### [Social Worker](https://careers.fullbloom.org/jobs/35515?lang=en-us) — Catapult Learning
-- 📍 **Location:** Baltimore, Maryland, United States
-- 💰 **Salary:** $73k–$79k/yr
-- **Work mode:** On-site
-- **Job type:** Full Time, Part Time, Seasonal
-- 🕒 **Posted:** 2026-06-23T16:15:09.000Z
-
-### [Program Coordinator](https://boysandgirlsclubnp.hireclick.com/jb/program-coordinator/view/246906) — Boys & Girls Club Of the Northern Plains
-- 📍 **Location:** Milbank, South Dakota, United States
-- 💰 **Salary:** $45k–$55k/yr
+### [Social Worker](https://nmaces.schoolspring.com?jobid=5641004) — Albuquerque Sign Language Academy
+- 📍 **Location:** Albuquerque, New Mexico, United States
 - **Work mode:** On-site
 - **Job type:** Full Time
-- 🕒 **Posted:** 2026-06-01T17:02:22.000Z
+- 🕒 **Posted:** 2026-06-24T06:00:00.000Z
 
-### [Program Coordinator](https://jobs.dayforcehcm.com/en-US/brs/eiscandidateportal/jobs/32177) — Brs
-- 📍 **Location:** Wright-Patterson Air Force Base, Ohio, United States
+### [Social Worker](https://www.applitrack.com/voorhees/onlineapp/jobpostings/view.asp?AppliTrackJobId=1080) — Voorhees Township School District
+- 📍 **Location:** Voorhees Township, New Jersey, United States
 - **Work mode:** On-site
 - **Job type:** Full Time
-- 🕒 **Posted:** 2026-06-22T05:00:00.000Z
+- 🕒 **Posted:** 2026-06-24T12:00:00.000Z
 
-### [Community Health Worker](https://massgeneralbrigham.wd1.myworkdayjobs.com/mgbexternal/job/Somerville-MA/Community-Health-Worker_RQ4068891) — Massgeneralbrigham
-- 📍 **Location:** Somerville or Boston or Northampton or Salem
-- 💰 **Salary:** $59k/yr
-- **Work mode:** Telecommute eligible
-- **Job type:** Full Time
-- 🕒 **Posted:** 2026-06-23T00:00:00.000Z
-
-### [Community Health Worker](https://pm.healthcaresource.com/CS/renownhealth/#/job/58365) — Renown Health
-- 📍 **Location:** Reno, Nevada, United States
-- 💰 **Salary:** $40k–$56k/yr
+### [Case Manager](https://jobs.apploi.com/view/1885853?utm_campaign=integration&utm_medium=job-board-search&utm_source=None&ajs_event=LOAD_JOB_PAGE&ajs_aid=3f617530-4530-11e9-a2ca-7e775511d9e3&ajs_prop_search_fetch_id=746630b252e64eb2bafe01f925bd34ee&ajs_prop_keyword=&ajs_prop_page=1&ajs_prop_city_center=Unselected&ajs_prop_search_order=1&ajs_prop_job_id=1885853&ajs_prop_doc_type=job&ajs_prop_job_location_lat=41.0146093&ajs_prop_job_location_lon=-73.9234903&ajs_prop_boosted=0&ajs_prop_utm_source=None&ajs_prop_utm_medium=job-board-search&ajs_prop_utm_campaign=integration) — Esplanade at Palisades
+- 📍 **Location:** Palisades, New York, United States
+- 💰 **Salary:** $54k/yr
 - **Work mode:** On-site
 - **Job type:** Full Time
-- 🕒 **Posted:** 2026-06-23T00:00:00.000Z
+- 🕒 **Posted:** 2026-06-24T00:00:00.000Z
