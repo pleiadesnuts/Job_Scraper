@@ -1,1 +1,27 @@
-{"scraped_at": "2026-06-23 21:05 UTC", "total": 0, "new_count": 0, "jobs": [], "new_jobs": []}
+{
+  "scraped_at": "2026-06-24 21:52 UTC",
+  "total": 1,
+  "new_count": 1,
+  "jobs": [
+    {
+      "company": "Clackamas County",
+      "title": "Environmental Program Coordinator (Water Environment Services)",
+      "location": "Oregon City, OR",
+      "url": "https://www.governmentjobs.com/jobs/145242-1/environmental-program-coordinator-water-environment-services",
+      "date_posted": "",
+      "salary": "",
+      "ats": "NEOGOV"
+    }
+  ],
+  "new_jobs": [
+    {
+      "company": "Clackamas County",
+      "title": "Environmental Program Coordinator (Water Environment Services)",
+      "location": "Oregon City, OR",
+      "url": "https://www.governmentjobs.com/jobs/145242-1/environmental-program-coordinator-water-environment-services",
+      "date_posted": "",
+      "salary": "",
+      "ats": "NEOGOV"
+    }
+  ]
+}
