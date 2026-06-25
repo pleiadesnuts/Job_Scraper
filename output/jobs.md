@@ -1,6 +1,8 @@
 # 🏛 Priority Employers — Social Worker Roles
-*Last updated: 2026-06-24 12:20 UTC*
+*Last updated: 2026-06-25 12:16 UTC*
 
-**0 new role(s)** since last run · 0 total in last 24h
+**1 new role(s)** since last run · 1 total in last 24h
 
-No new priority-employer roles since the last run.
+### [Program Coordinator](https://www.linkedin.com/jobs/view/4422437067/) — Johnson & Johnson
+- 📍 **Location:** Bengaluru, Karnataka, India
+- 🕒 **Posted:** 2026-06-24
