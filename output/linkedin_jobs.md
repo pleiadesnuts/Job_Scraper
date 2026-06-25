@@ -1,125 +1,117 @@
 # 🔥 LinkedIn — Social Worker Roles
-*Last updated: 2026-06-24 21:21 UTC*
+*Last updated: 2026-06-25 08:46 UTC*
 
-**27 new role(s)** since last run · 28 total in last 1h
+**26 new role(s)** since last run · 26 total in last 1h
 
-### [Program Manager, Residential Decarbonization.](https://www.linkedin.com/jobs/view/4432853958/) — State of Colorado
-- 📍 **Location:** Denver, CO
-- 💰 **Salary:** $73,008.00 - $85,009.60 Annually
-- 🕒 **Posted:** 2026-06-24
+### [Bilingual Intake Social Caseworker Supervisor](https://www.linkedin.com/jobs/view/4432847847/) — City and County of Denver
+- 📍 **Location:** Denver Metropolitan Area
+- 💰 **Salary:** $80,217 – $100,000
+- 🕒 **Posted:** 2026-06-25
 
-### [Program Coordinator](https://www.linkedin.com/jobs/view/4432107160/) — Next Step Community Solutions
-- 📍 **Location:** Tyler, TX
-- 💰 **Salary:** $45,500–$55,500 per year
-- 🕒 **Posted:** 2026-06-24
+### [Pediatric Heart Transplant RN Program Manager](https://www.linkedin.com/jobs/view/4419571695/) — Ascension
+- 📍 **Location:** Austin, TX
+- 🕒 **Posted:** 2026-06-25
 
-### [Program Manager](https://www.linkedin.com/jobs/view/4432860838/) — NAMI Southwest Florida
-- 📍 **Location:** Fort Myers, FL
-- 💰 **Salary:** $55,000 - $65,000
-- 🕒 **Posted:** 2026-06-24
+### [AFTERSCHOOL/DAY CAMP YOUTH COUNSELOR](https://www.linkedin.com/jobs/view/4432603409/) — Henry County Government
+- 📍 **Location:** McDonough, GA
+- 🕒 **Posted:** 2026-06-25
 
-### [Front Desk Assistant/Care Coordinator](https://www.linkedin.com/jobs/view/4432875221/) — Nuvia Dental Implant Center
-- 📍 **Location:** Glastonbury, CT
-- 💰 **Salary:** $20-$39 per hour
-- 🕒 **Posted:** 2026-06-24
+### [Social Worker](https://www.linkedin.com/jobs/view/4334122815/) — Ascension
+- 📍 **Location:** Nashville, TN
+- 🕒 **Posted:** 2026-06-25
 
-### [Front Desk Assistant/Care Coordinator](https://www.linkedin.com/jobs/view/4432883069/) — Nuvia Dental Implant Center
-- 📍 **Location:** Johnston, RI
-- 💰 **Salary:** $20-$39 per hour
-- 🕒 **Posted:** 2026-06-24
+### [Peer Support Specialist/Treatment Aide GRAVEYARD](https://www.linkedin.com/jobs/view/4432602595/) — Rimrock Trails Treatment Services
+- 📍 **Location:** Prineville, OR
+- 🕒 **Posted:** 2026-06-25
 
-### [Residential Youth Counselor (25115)](https://www.linkedin.com/jobs/view/4432880166/) — Northern Rivers Family of Services
-- 📍 **Location:** Albany, NY
-- 🕒 **Posted:** 2026-06-24
+### [FHARPS Case Manager](https://www.linkedin.com/jobs/view/4433063734/) — Peninsula Behavioral Health, WA
+- 📍 **Location:** Port Angeles, WA
+- 💰 **Salary:** $20 to $23 per hour
+- 🕒 **Posted:** 2026-06-25
 
-### [Mental Health Clinical Supervisor 255208](https://www.linkedin.com/jobs/view/4431888925/) — Medix™
-- 📍 **Location:** Seattle, WA
-- 💰 **Salary:** $105,000.00/yr - $125,000.00/yr
-- 🕒 **Posted:** 2026-06-24
+### [Case Manager](https://www.linkedin.com/jobs/view/4432606428/) — Kingston Wellness Retreat
+- 📍 **Location:** Kingston, GA
+- 🕒 **Posted:** 2026-06-25
 
-### [26-27 Social Worker - Office of Basic Needs and Housing Support Services](https://www.linkedin.com/jobs/view/4431885981/) — Somerville Public Schools
-- 📍 **Location:** Somerville, MA
-- 🕒 **Posted:** 2026-06-24
+### [Community Outreach Specialist](https://www.linkedin.com/jobs/view/4432600826/) — Autism Care Partners
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-06-25
 
-### [Case Manager](https://www.linkedin.com/jobs/view/4432100774/) — Buckner International
-- 📍 **Location:** Amarillo, TX
-- 🕒 **Posted:** 2026-06-24
+### [Referral Program Coordinator](https://www.linkedin.com/jobs/view/4432607242/) — Lovelace Health System
+- 📍 **Location:** Albuquerque, NM
+- 🕒 **Posted:** 2026-06-25
 
-### [Behavioral Health Specialist, Askia](https://www.linkedin.com/jobs/view/4424579434/) — The Dimock Center
-- 📍 **Location:** Boston, MA
-- 💰 **Salary:** $21–$25 per hour
-- 🕒 **Posted:** 2026-06-24
+### [Clinical Care Coordinator](https://www.linkedin.com/jobs/view/4433053997/) — Stride Mental Health
+- 📍 **Location:** Kelso, New South Wales, Australia
+- 🕒 **Posted:** 2026-06-25
 
-### [Fitness and Wellness Coordinator](https://www.linkedin.com/jobs/view/4432858770/) — Sagora Senior Living
-- 📍 **Location:** Rocklin, CA
-- 🕒 **Posted:** 2026-06-24
+### [Care Coordinator](https://www.linkedin.com/jobs/view/4432191935/) — America's Home Health Services
+- 📍 **Location:** Indiana, PA
+- 💰 **Salary:** $40,000.00/yr - $70,000.00/yr
+- 🕒 **Posted:** 2026-06-25
 
-### [RETAIL & WELLNESS COORDINATOR](https://www.linkedin.com/jobs/view/4432545880/) — FarmPark
-- 📍 **Location:** Lekki, Lagos State, Nigeria
-- 🕒 **Posted:** 2026-06-24
+### [Managed Care Coordinator II (Bilingual - Spanish Speaking)](https://www.linkedin.com/jobs/view/4429017169/) — Horizon Blue Cross Blue Shield of New Jersey
+- 📍 **Location:** Hopewell, NJ
+- 💰 **Salary:** $50,100 - $67,095
+- 🕒 **Posted:** 2026-06-25
 
-### [Program Coordinator](https://www.linkedin.com/jobs/view/4432872182/) — Merakey
-- 📍 **Location:** York, PA
-- 🕒 **Posted:** 2026-06-24
+### [Case Manager](https://www.linkedin.com/jobs/view/4432186962/) — Thompson
+- 📍 **Location:** Tampa, FL
+- 🕒 **Posted:** 2026-06-25
 
-### [Event Operations & Guest Experience Program Coordinator](https://www.linkedin.com/jobs/view/4431895726/) — TCWGlobal
-- 📍 **Location:** Cupertino, CA
-- 💰 **Salary:** $47.00/hr - $50.00/hr
-- 🕒 **Posted:** 2026-06-24
+### [Social Worker - Lvl II](https://www.linkedin.com/jobs/view/4433063606/) — NYC Health + Hospitals
+- 📍 **Location:** Bronx, NY
+- 💰 **Salary:** $85,078.00/yr - $85,078.00/yr
+- 🕒 **Posted:** 2026-06-25
 
-### [Event & Volunteer Coordinator](https://www.linkedin.com/jobs/view/4432108086/) — Boys & Girls Clubs of Greater Manchester
-- 📍 **Location:** Manchester, NH
-- 🕒 **Posted:** 2026-06-24
+### [Social Worker MSW I](https://www.linkedin.com/jobs/view/4433059940/) — Baylor Scott & White Health
+- 📍 **Location:** Irving, TX
+- 🕒 **Posted:** 2026-06-25
 
-### [Program Coordinator](https://www.linkedin.com/jobs/view/4432861736/) — Benchmark Human Services
-- 📍 **Location:** Manchester, NH
-- 🕒 **Posted:** 2026-06-24
+### [Client Care Coordinator](https://www.linkedin.com/jobs/view/4432608404/) — Home Instead
+- 📍 **Location:** Indianapolis, IN
+- 💰 **Salary:** $20.00/hr - $21.00/hr
+- 🕒 **Posted:** 2026-06-25
 
-### [Patient Care Coordinator](https://www.linkedin.com/jobs/view/4431891847/) — RemoteHunter
-- 📍 **Location:** United States
-- 🕒 **Posted:** 2026-06-24
+### [Program Manager](https://www.linkedin.com/jobs/view/4432199986/) — Cognizant
+- 📍 **Location:** Bangalore Urban, Karnataka, India
+- 🕒 **Posted:** 2026-06-25
 
-### [Part Time Care Coordinator (Duluth Area)](https://www.linkedin.com/jobs/view/4432878002/) — Accord
-- 📍 **Location:** Duluth, MN
-- 🕒 **Posted:** 2026-06-24
+### [Behavioral Health Unit Supervisor (40 Hour) Office/On-site #260623-0452FP-001](https://www.linkedin.com/jobs/view/4433066527/) — State of Connecticut
+- 📍 **Location:** Middletown, CT
+- 🕒 **Posted:** 2026-06-25
 
-### [Transitional Care Coordinator](https://www.linkedin.com/jobs/view/4432103725/) — Oak Street Health, part of CVS Health
-- 📍 **Location:** Columbia, SC
-- 💰 **Salary:** $17.00 - $25.65
-- 🕒 **Posted:** 2026-06-24
+### [Social Worker Case Management](https://www.linkedin.com/jobs/view/4415715088/) — Ascension
+- 📍 **Location:** Austin, TX
+- 🕒 **Posted:** 2026-06-25
 
-### [Resident Care Coordinator](https://www.linkedin.com/jobs/view/4431898921/) — Atria Senior Living
-- 📍 **Location:** Longmont, CO
-- 💰 **Salary:** $21.00/hr - $25.20/hr
-- 🕒 **Posted:** 2026-06-24
+### [Virtual School Social Worker](https://www.linkedin.com/jobs/view/4433064912/) — ACCEL Schools
+- 📍 **Location:** Indianapolis, IN
+- 🕒 **Posted:** 2026-06-25
 
-### [Patient Care Coordinator ( Pelham, AL)](https://www.linkedin.com/jobs/view/4432882052/) — Starkey Hearing
-- 📍 **Location:** Pelham, AL
-- 💰 **Salary:** $15.00 - $21.20 per hour
-- 🕒 **Posted:** 2026-06-24
+### [Social Worker Lower Hutt](https://www.linkedin.com/jobs/view/4433071506/) — Oranga Tamariki—Ministry for Children
+- 📍 **Location:** Lower Hutt, Wellington, New Zealand
+- 🕒 **Posted:** 2026-06-25
 
-### [Employment Counselor](https://www.linkedin.com/jobs/view/4432869197/) — Merakey
-- 📍 **Location:** Middlesex, NJ
-- 🕒 **Posted:** 2026-06-24
+### [Social Worker Porirua - Fixed Term until June 2027](https://www.linkedin.com/jobs/view/4433062710/) — Oranga Tamariki—Ministry for Children
+- 📍 **Location:** Porirua, Wellington, New Zealand
+- 💰 **Salary:** $81,206 to $97,557
+- 🕒 **Posted:** 2026-06-25
 
-### [Career Transition Specialist Supervisor](https://www.linkedin.com/jobs/view/4428733510/) — Eckerd Connects
-- 📍 **Location:** St. Petersburg, FL
-- 💰 **Salary:** $44,000 - $49,000
-- 🕒 **Posted:** 2026-06-24
+### [Social Worker](https://www.linkedin.com/jobs/view/4427438555/) — Ascension
+- 📍 **Location:** Tulsa, OK
+- 🕒 **Posted:** 2026-06-25
 
-### [Family Support Worker - Central Team](https://www.linkedin.com/jobs/view/4432112017/) — South Gloucestershire Council
-- 📍 **Location:** Yate, England, United Kingdom
-- 🕒 **Posted:** 2026-06-24
+### [Pediatric Mental Health Social Worker](https://www.linkedin.com/jobs/view/4418842693/) — Ascension
+- 📍 **Location:** Austin, TX
+- 🕒 **Posted:** 2026-06-25
 
-### [Family Support Worker - North Team](https://www.linkedin.com/jobs/view/4432105529/) — South Gloucestershire Council
-- 📍 **Location:** Patchway, England, United Kingdom
-- 🕒 **Posted:** 2026-06-24
+### [Social Worker - Lvl II](https://www.linkedin.com/jobs/view/4433079224/) — NYC Health + Hospitals
+- 📍 **Location:** Bronx, NY
+- 💰 **Salary:** $85,078.00/yr - $85,078.00/yr
+- 🕒 **Posted:** 2026-06-25
 
-### [Team Leader](https://www.linkedin.com/jobs/view/4429942851/) — The Fedcap Group
-- 📍 **Location:** Liverpool, England, United Kingdom
-- 🕒 **Posted:** 2026-06-24
-
-### [Social Worker (SW)](https://www.linkedin.com/jobs/view/4423372306/) — VITAS Healthcare
-- 📍 **Location:** Chicago, IL
-- 💰 **Salary:** $30 - $40
-- 🕒 **Posted:** 2026-06-24
+### [Social Worker - Level II](https://www.linkedin.com/jobs/view/4433079239/) — NYC Health + Hospitals
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $85,078.00/yr - $85,078.00/yr
+- 🕒 **Posted:** 2026-06-25
