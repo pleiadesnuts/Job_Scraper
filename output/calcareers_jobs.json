@@ -1,1 +1,57 @@
-{"scraped_at": "2026-06-23 21:05 UTC", "total": 0, "new_count": 0, "jobs": [], "new_jobs": []}
+{
+  "scraped_at": "2026-06-25 21:57 UTC",
+  "total": 2,
+  "new_count": 2,
+  "jobs": [
+    {
+      "company": "CA High Speed Rail Authority",
+      "title": "Attorney Supervisor",
+      "location": "Sacramento County",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=522336",
+      "date_posted": "2026-06-22",
+      "salary": "$12590.00 - $16900.00",
+      "ats": "CalCareers",
+      "telework": "Hybrid",
+      "job_type": "Permanent, Full Time",
+      "work_arrangement": "Telecommute eligible"
+    },
+    {
+      "company": "Department of Public Health",
+      "title": "Standardization and Continuous Improvement Supervisor",
+      "location": "United States",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=522366",
+      "date_posted": "2026-06-23",
+      "salary": "$10854.00 - $13493.00",
+      "ats": "CalCareers",
+      "telework": "Hybrid",
+      "job_type": "Permanent, Full Time",
+      "work_arrangement": "Telecommute eligible"
+    }
+  ],
+  "new_jobs": [
+    {
+      "company": "CA High Speed Rail Authority",
+      "title": "Attorney Supervisor",
+      "location": "Sacramento County",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=522336",
+      "date_posted": "2026-06-22",
+      "salary": "$12590.00 - $16900.00",
+      "ats": "CalCareers",
+      "telework": "Hybrid",
+      "job_type": "Permanent, Full Time",
+      "work_arrangement": "Telecommute eligible"
+    },
+    {
+      "company": "Department of Public Health",
+      "title": "Standardization and Continuous Improvement Supervisor",
+      "location": "United States",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=522366",
+      "date_posted": "2026-06-23",
+      "salary": "$10854.00 - $13493.00",
+      "ats": "CalCareers",
+      "telework": "Hybrid",
+      "job_type": "Permanent, Full Time",
+      "work_arrangement": "Telecommute eligible"
+    }
+  ]
+}
