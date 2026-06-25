@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-06-24 21:52 UTC",
-  "total": 1,
+  "scraped_at": "2026-06-25 22:10 UTC",
+  "total": 2,
   "new_count": 1,
   "jobs": [
     {
@@ -11,16 +11,25 @@
       "date_posted": "",
       "salary": "",
       "ats": "NEOGOV"
+    },
+    {
+      "company": "County of Lake",
+      "title": "Environmental Health Specialist Supervisor I/II",
+      "location": "Lake County, CA",
+      "url": "https://www.governmentjobs.com/jobs/5389197-0/environmental-health-specialist-supervisor-i-ii",
+      "date_posted": "",
+      "salary": "$80,142.40 - $102,356.80 Annually",
+      "ats": "NEOGOV"
     }
   ],
   "new_jobs": [
     {
-      "company": "Clackamas County",
-      "title": "Environmental Program Coordinator (Water Environment Services)",
-      "location": "Oregon City, OR",
-      "url": "https://www.governmentjobs.com/jobs/145242-1/environmental-program-coordinator-water-environment-services",
+      "company": "County of Lake",
+      "title": "Environmental Health Specialist Supervisor I/II",
+      "location": "Lake County, CA",
+      "url": "https://www.governmentjobs.com/jobs/5389197-0/environmental-health-specialist-supervisor-i-ii",
       "date_posted": "",
-      "salary": "",
+      "salary": "$80,142.40 - $102,356.80 Annually",
       "ats": "NEOGOV"
     }
   ]
