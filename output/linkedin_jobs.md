@@ -1,117 +1,100 @@
 # 🔥 LinkedIn — Social Worker Roles
-*Last updated: 2026-06-25 08:46 UTC*
+*Last updated: 2026-06-25 21:25 UTC*
 
-**26 new role(s)** since last run · 26 total in last 1h
+**22 new role(s)** since last run · 22 total in last 1h
 
-### [Bilingual Intake Social Caseworker Supervisor](https://www.linkedin.com/jobs/view/4432847847/) — City and County of Denver
-- 📍 **Location:** Denver Metropolitan Area
-- 💰 **Salary:** $80,217 – $100,000
+### [Supervisor, Broadcast Operations- Master Control](https://www.linkedin.com/jobs/view/4432905113/) — DISH TV
+- 📍 **Location:** Cheyenne, WY
 - 🕒 **Posted:** 2026-06-25
 
-### [Pediatric Heart Transplant RN Program Manager](https://www.linkedin.com/jobs/view/4419571695/) — Ascension
-- 📍 **Location:** Austin, TX
+### [Distribution Training Supervisor](https://www.linkedin.com/jobs/view/4432906089/) — DISH TV
+- 📍 **Location:** Denver, CO
 - 🕒 **Posted:** 2026-06-25
 
-### [AFTERSCHOOL/DAY CAMP YOUTH COUNSELOR](https://www.linkedin.com/jobs/view/4432603409/) — Henry County Government
-- 📍 **Location:** McDonough, GA
+### [Program Manager - Rehabilitation - Team 240](https://www.linkedin.com/jobs/view/4433509249/) — Mental Health Center of Denver
+- 📍 **Location:** Denver, CO
+- 💰 **Salary:** $75,004.80 - $113,006.40 per year
 - 🕒 **Posted:** 2026-06-25
 
-### [Social Worker](https://www.linkedin.com/jobs/view/4334122815/) — Ascension
-- 📍 **Location:** Nashville, TN
+### [Program Coordinator](https://www.linkedin.com/jobs/view/4433505482/) — FMI
+- 📍 **Location:** Denver, CO
 - 🕒 **Posted:** 2026-06-25
 
-### [Peer Support Specialist/Treatment Aide GRAVEYARD](https://www.linkedin.com/jobs/view/4432602595/) — Rimrock Trails Treatment Services
-- 📍 **Location:** Prineville, OR
+### [Program Manager, Consultant- Pharmacy Benefits Management](https://www.linkedin.com/jobs/view/4432695489/) — Blue Shield of California
+- 📍 **Location:** California, United States
+- 💰 **Salary:** $111540.00 to $167420.00
 - 🕒 **Posted:** 2026-06-25
 
-### [FHARPS Case Manager](https://www.linkedin.com/jobs/view/4433063734/) — Peninsula Behavioral Health, WA
-- 📍 **Location:** Port Angeles, WA
-- 💰 **Salary:** $20 to $23 per hour
+### [Physical Security Program Manager](https://www.linkedin.com/jobs/view/4432900217/) — Trupanion
+- 📍 **Location:** Seattle, WA
+- 💰 **Salary:** $95,000 - $120,000 USD
 - 🕒 **Posted:** 2026-06-25
 
-### [Case Manager](https://www.linkedin.com/jobs/view/4432606428/) — Kingston Wellness Retreat
-- 📍 **Location:** Kingston, GA
+### [Substance Abuse Counselor](https://www.linkedin.com/jobs/view/4433396761/) — Prospect House
+- 📍 **Location:** Cincinnati, OH
 - 🕒 **Posted:** 2026-06-25
 
-### [Community Outreach Specialist](https://www.linkedin.com/jobs/view/4432600826/) — Autism Care Partners
-- 📍 **Location:** New York, NY
+### [Substance Abuse Counselor](https://www.linkedin.com/jobs/view/4433503178/) — Twin Lakes Recovery Center
+- 📍 **Location:** Monroe, GA
 - 🕒 **Posted:** 2026-06-25
 
-### [Referral Program Coordinator](https://www.linkedin.com/jobs/view/4432607242/) — Lovelace Health System
-- 📍 **Location:** Albuquerque, NM
+### [Peer Support Specialist Supervisor (MRT) (9802)](https://www.linkedin.com/jobs/view/4430738616/) — Baltimore Crisis Response, Inc.
+- 📍 **Location:** Baltimore, MD
+- 💰 **Salary:** $24.00-$26.00 Hourly
 - 🕒 **Posted:** 2026-06-25
 
-### [Clinical Care Coordinator](https://www.linkedin.com/jobs/view/4433053997/) — Stride Mental Health
-- 📍 **Location:** Kelso, New South Wales, Australia
+### [Health Educator](https://www.linkedin.com/jobs/view/4432141957/) — Elevance Health
+- 📍 **Location:** Atlanta, GA
 - 🕒 **Posted:** 2026-06-25
 
-### [Care Coordinator](https://www.linkedin.com/jobs/view/4432191935/) — America's Home Health Services
-- 📍 **Location:** Indiana, PA
-- 💰 **Salary:** $40,000.00/yr - $70,000.00/yr
+### [Care Coordinator- Union Square](https://www.linkedin.com/jobs/view/4433513220/) — Spear Physical Therapy
+- 📍 **Location:** New York City Metropolitan Area
+- 💰 **Salary:** $18.00/hr - $18.00/hr
 - 🕒 **Posted:** 2026-06-25
 
-### [Managed Care Coordinator II (Bilingual - Spanish Speaking)](https://www.linkedin.com/jobs/view/4429017169/) — Horizon Blue Cross Blue Shield of New Jersey
-- 📍 **Location:** Hopewell, NJ
-- 💰 **Salary:** $50,100 - $67,095
+### [Care Coordinator- Brooklyn Heights](https://www.linkedin.com/jobs/view/4433518128/) — Spear Physical Therapy
+- 📍 **Location:** Brooklyn, NY
+- 💰 **Salary:** $18.00/hr - $18.00/hr
 - 🕒 **Posted:** 2026-06-25
 
-### [Case Manager](https://www.linkedin.com/jobs/view/4432186962/) — Thompson
-- 📍 **Location:** Tampa, FL
+### [Client Care Coordinator (Part-Time)](https://www.linkedin.com/jobs/view/4433511305/) — Amplifon
+- 📍 **Location:** Lethbridge, Alberta, Canada
+- 💰 **Salary:** $19-$24/hour
 - 🕒 **Posted:** 2026-06-25
 
-### [Social Worker - Lvl II](https://www.linkedin.com/jobs/view/4433063606/) — NYC Health + Hospitals
+### [Patient Care Coordinator](https://www.linkedin.com/jobs/view/4430277250/) — Sedgwick
+- 📍 **Location:** United States
+- 🕒 **Posted:** 2026-06-25
+
+### [Care Coordinator Auth Scheduling Specialist](https://www.linkedin.com/jobs/view/4432688683/) — Atrium Health
+- 📍 **Location:** Charlotte, NC
+- 💰 **Salary:** $20.80 - $31.20
+- 🕒 **Posted:** 2026-06-25
+
+### [Independent Living Case Manager](https://www.linkedin.com/jobs/view/4432692589/) — Damar Services, Inc.
+- 📍 **Location:** Lafayette, IN
+- 🕒 **Posted:** 2026-06-25
+
+### [Program Coordinator](https://www.linkedin.com/jobs/view/4433509098/) — Roush
+- 📍 **Location:** Livonia, MI
+- 🕒 **Posted:** 2026-06-25
+
+### [School Based Social Worker (LISW) or Clinical Counselor (LPCC), Mariemont Jr High School (JR222566)](https://www.linkedin.com/jobs/view/4433507453/) — CCHMC Biomedical Research Technologies Masters Program
+- 📍 **Location:** Cincinnati, OH
+- 🕒 **Posted:** 2026-06-25
+
+### [School Based Social Worker (LISW) or Clinical Counselor (LPCC), Mariemont High School (JR222565)](https://www.linkedin.com/jobs/view/4433522138/) — CCHMC Biomedical Research Technologies Masters Program
+- 📍 **Location:** Cincinnati, OH
+- 🕒 **Posted:** 2026-06-25
+
+### [School Based Social Worker (LISW) or Clinical Counselor (LPCC), Mariemont Elementary School (JR222567)](https://www.linkedin.com/jobs/view/4433504568/) — CCHMC Biomedical Research Technologies Masters Program
+- 📍 **Location:** Cincinnati, OH
+- 🕒 **Posted:** 2026-06-25
+
+### [Social Worker](https://www.linkedin.com/jobs/view/4414015875/) — Birch Family Services
 - 📍 **Location:** Bronx, NY
-- 💰 **Salary:** $85,078.00/yr - $85,078.00/yr
 - 🕒 **Posted:** 2026-06-25
 
-### [Social Worker MSW I](https://www.linkedin.com/jobs/view/4433059940/) — Baylor Scott & White Health
-- 📍 **Location:** Irving, TX
-- 🕒 **Posted:** 2026-06-25
-
-### [Client Care Coordinator](https://www.linkedin.com/jobs/view/4432608404/) — Home Instead
-- 📍 **Location:** Indianapolis, IN
-- 💰 **Salary:** $20.00/hr - $21.00/hr
-- 🕒 **Posted:** 2026-06-25
-
-### [Program Manager](https://www.linkedin.com/jobs/view/4432199986/) — Cognizant
-- 📍 **Location:** Bangalore Urban, Karnataka, India
-- 🕒 **Posted:** 2026-06-25
-
-### [Behavioral Health Unit Supervisor (40 Hour) Office/On-site #260623-0452FP-001](https://www.linkedin.com/jobs/view/4433066527/) — State of Connecticut
-- 📍 **Location:** Middletown, CT
-- 🕒 **Posted:** 2026-06-25
-
-### [Social Worker Case Management](https://www.linkedin.com/jobs/view/4415715088/) — Ascension
-- 📍 **Location:** Austin, TX
-- 🕒 **Posted:** 2026-06-25
-
-### [Virtual School Social Worker](https://www.linkedin.com/jobs/view/4433064912/) — ACCEL Schools
-- 📍 **Location:** Indianapolis, IN
-- 🕒 **Posted:** 2026-06-25
-
-### [Social Worker Lower Hutt](https://www.linkedin.com/jobs/view/4433071506/) — Oranga Tamariki—Ministry for Children
-- 📍 **Location:** Lower Hutt, Wellington, New Zealand
-- 🕒 **Posted:** 2026-06-25
-
-### [Social Worker Porirua - Fixed Term until June 2027](https://www.linkedin.com/jobs/view/4433062710/) — Oranga Tamariki—Ministry for Children
-- 📍 **Location:** Porirua, Wellington, New Zealand
-- 💰 **Salary:** $81,206 to $97,557
-- 🕒 **Posted:** 2026-06-25
-
-### [Social Worker](https://www.linkedin.com/jobs/view/4427438555/) — Ascension
-- 📍 **Location:** Tulsa, OK
-- 🕒 **Posted:** 2026-06-25
-
-### [Pediatric Mental Health Social Worker](https://www.linkedin.com/jobs/view/4418842693/) — Ascension
-- 📍 **Location:** Austin, TX
-- 🕒 **Posted:** 2026-06-25
-
-### [Social Worker - Lvl II](https://www.linkedin.com/jobs/view/4433079224/) — NYC Health + Hospitals
-- 📍 **Location:** Bronx, NY
-- 💰 **Salary:** $85,078.00/yr - $85,078.00/yr
-- 🕒 **Posted:** 2026-06-25
-
-### [Social Worker - Level II](https://www.linkedin.com/jobs/view/4433079239/) — NYC Health + Hospitals
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $85,078.00/yr - $85,078.00/yr
+### [Social Worker - MSW](https://www.linkedin.com/jobs/view/4430269268/) — UPMC
+- 📍 **Location:** Pittsburgh, PA
 - 🕒 **Posted:** 2026-06-25
