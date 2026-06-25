@@ -1,19 +1,20 @@
 # 🔥 LinkedIn — Environmental / Toxicology Roles
-*Last updated: 2026-06-25 21:16 UTC*
+*Last updated: 2026-06-25 22:00 UTC*
 
-**3 new role(s)** since last run · 8 total in last 1h
+**4 new role(s)** since last run · 8 total in last 1h
 
-### [Air Quality Project Manager - Environmental Services (Multiple Locations)](https://www.linkedin.com/jobs/view/4432683845/) — Burns & McDonnell
-- 📍 **Location:** Brea, CA
-- 💰 **Salary:** $130,000.00-310,000.00
+### [Hazardous Materials & Occupational Hygiene Consultant - Senior to Senior Associate-levelHybrid](https://www.linkedin.com/jobs/view/4433519316/) — worldswin
+- 📍 **Location:** Newcastle, New South Wales, Australia
 - 🕒 **Posted:** 2026-06-25
 
-### [Environmental Remediation Project Manager](https://www.linkedin.com/jobs/view/4432902182/) — AECOM
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $110000 to $130000
+### [Associate Environmental Scientist - Contaminated Land ManagementHybrid](https://www.linkedin.com/jobs/view/4433521298/) — worldswin
+- 📍 **Location:** Gold Coast
 - 🕒 **Posted:** 2026-06-25
 
-### [Environmental Remediation Project Manager](https://www.linkedin.com/jobs/view/4432698235/) — AECOM
-- 📍 **Location:** San Jose, CA
-- 💰 **Salary:** $110000 to $130000
+### [Hazardous Materials & Occupational Hygiene ConsultantHybrid](https://www.linkedin.com/jobs/view/4433520236/) — worldswin
+- 📍 **Location:** Coffs Harbour, New South Wales, Australia
+- 🕒 **Posted:** 2026-06-25
+
+### [Senior Associate, Hazardous Materials & Occupational Hygiene - Newcastle or SydneyHybrid](https://www.linkedin.com/jobs/view/4433506617/) — worldswin
+- 📍 **Location:** Sydney, New South Wales, Australia
 - 🕒 **Posted:** 2026-06-25
