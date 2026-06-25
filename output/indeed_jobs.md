@@ -1,6 +1,10 @@
 # 🟦 Indeed — Environmental / Toxicology Roles
-*Last updated: 2026-06-24 23:14 UTC*
+*Last updated: 2026-06-25 00:15 UTC*
 
-**0 new role(s)** since last run · 4 total in last 24h
+**1 new role(s)** since last run · 5 total in last 24h
 
-No new roles since the last run.
+### [Environmental Scientist - Entry to Junior](https://www.indeed.com/viewjob?jk=50de1d5260a11c55) — Tetra Tech
+- 📍 **Location:** Portland, OR, US
+- **Work mode:** Remote in-state eligible
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-06-24
