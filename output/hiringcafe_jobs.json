@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-06-27 01:36 UTC",
+  "scraped_at": "2026-06-27 03:01 UTC",
   "total": 54,
-  "new_count": 0,
+  "new_count": 1,
   "jobs": [
     {
       "company": "State of Washington",
@@ -74,20 +74,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Exponent",
-      "title": "Public Health Toxicologist (Ph.D.)",
-      "location": "Austin, Texas, United States",
-      "url": "https://careers-exponent.icims.com/jobs/2485/public-health-toxicologist-%28ph.d.%29/job?in_iframe=1",
-      "direct_url": "https://careers-exponent.icims.com/jobs/2485/public-health-toxicologist-%28ph.d.%29/job?in_iframe=1",
-      "date_posted": "2026-06-19T04:00:00.000Z",
-      "description": "Ph.D. in toxicology/public health or related field, strong human health toxicology and risk assessment expertise, excellent writing and communication, ability to manage multiple projects and work independently or in teams; must be authorized to work in the U.S.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "GSI Environmental Inc.",
       "title": "Senior Risk Assessor/Toxicologist",
       "location": "Houston or Austin or Irvine or San Francisco or Folsom or Olympia or Missoula or Helena or Lakewood or Raleigh or Syracuse",
@@ -99,6 +85,20 @@
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "Telecommute eligible",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Exponent",
+      "title": "Public Health Toxicologist (Ph.D.)",
+      "location": "Austin, Texas, United States",
+      "url": "https://careers-exponent.icims.com/jobs/2485/public-health-toxicologist-%28ph.d.%29/job?in_iframe=1",
+      "direct_url": "https://careers-exponent.icims.com/jobs/2485/public-health-toxicologist-%28ph.d.%29/job?in_iframe=1",
+      "date_posted": "2026-06-19T04:00:00.000Z",
+      "description": "Ph.D. in toxicology/public health or related field, strong human health toxicology and risk assessment expertise, excellent writing and communication, ability to manage multiple projects and work independently or in teams; must be authorized to work in the U.S.",
+      "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
       "ats": "HiringCafe"
     },
     {
@@ -284,6 +284,20 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "TRC Companies, Inc.",
+      "title": "Environmental Scientist",
+      "location": "East Providence, Rhode Island, United States",
+      "url": "https://careers.trccompanies.com/jobs/26189?lang=en-us",
+      "direct_url": "https://careers.trccompanies.com/jobs/26189?lang=en-us",
+      "date_posted": "2026-06-26T20:15:53.000Z",
+      "description": "Bachelor's in biology/ecology/environmental science/forestry/wetland science, 5 years relevant experience, permitting and field sampling experience, proficiency with GPS and Microsoft Word/Excel, valid driver's license; HAZWOPER 40-hr and boating safety desired.",
+      "salary": "$65k–$85k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
       "company": "HDR",
       "title": "Environmental Scientist II",
       "location": "Seattle or Everett or Olympia or Bellevue or Gig Harbor",
@@ -292,20 +306,6 @@
       "date_posted": "2026-06-08T10:36:53.000Z",
       "description": "Bachelor's in Environmental Science, 5+ years technical/field experience preparing environmental documents, ability to lead wetland/stream delineations and habitat surveys, prepare environmental permitting documentation, strong writing and MS Office skills.",
       "salary": "$80k–$126k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Arcadis",
-      "title": "Environmental Scientist",
-      "location": "Bluefield, Virginia, United States",
-      "url": "https://ebcs.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/41739",
-      "direct_url": "https://ebcs.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/41739",
-      "date_posted": "2026-06-15T13:57:24.000Z",
-      "description": "Bachelor's in Geology or Environmental Science required. Primarily field work (95–100%), experience with remediation sampling, H&S focus, valid clean driver’s license, pass background and drug tests; 40-hour HAZWOPER preferred; MS Office proficiency.",
-      "salary": "$50k–$75k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
@@ -326,14 +326,14 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "WSP",
-      "title": "Associate Environmental Scientist",
-      "location": "Redmond, Washington, United States",
-      "url": "https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/requisitions/job/89764",
-      "direct_url": "https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/requisitions/job/89764",
-      "date_posted": "2026-06-24T18:43:25.000Z",
-      "description": "Bachelor's in environmental science or related field, 1+ years post-education environmental field experience, GIS and Trimble GPS experience, knowledge of environmental laws, field sampling and data analysis skills, strong communication and safety compliance.",
-      "salary": "$77k–$90k/yr",
+      "company": "Arcadis",
+      "title": "Environmental Scientist",
+      "location": "Bluefield, Virginia, United States",
+      "url": "https://ebcs.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/41739",
+      "direct_url": "https://ebcs.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/41739",
+      "date_posted": "2026-06-15T13:57:24.000Z",
+      "description": "Bachelor's in Geology or Environmental Science required. Primarily field work (95–100%), experience with remediation sampling, H&S focus, valid clean driver’s license, pass background and drug tests; 40-hour HAZWOPER preferred; MS Office proficiency.",
+      "salary": "$50k–$75k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
@@ -348,6 +348,20 @@
       "date_posted": "2026-06-25T00:00:00.000Z",
       "description": "Bachelor's in an environmental/physical/biological science or related field and minimum 2 years environmental science/engineering experience; knowledge of environmental laws/regulations, ability to analyze data, conduct inspections, prepare technical documents, and communicate findings.",
       "salary": "$82k–$93k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "WSP",
+      "title": "Associate Environmental Scientist",
+      "location": "Redmond, Washington, United States",
+      "url": "https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/requisitions/job/89764",
+      "direct_url": "https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/requisitions/job/89764",
+      "date_posted": "2026-06-24T18:43:25.000Z",
+      "description": "Bachelor's in environmental science or related field, 1+ years post-education environmental field experience, GIS and Trimble GPS experience, knowledge of environmental laws, field sampling and data analysis skills, strong communication and safety compliance.",
+      "salary": "$77k–$90k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
@@ -505,20 +519,6 @@
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Olsson",
-      "title": "Senior Environmental Scientist ",
-      "location": "Colorado Springs or Denver or Fayetteville or Lincoln or Little Rock or Loveland or Oklahoma City or Omaha or Overland Park or Remote",
-      "url": "https://job-boards.greenhouse.io/olsson/jobs/5238897008",
-      "direct_url": "https://job-boards.greenhouse.io/olsson/jobs/5238897008",
-      "date_posted": "2026-06-02T15:23:03.000Z",
-      "description": "Bachelor’s degree in environmental science, urban planning, or biological/scientific discipline; 10 years environmental experience; 5 years transportation project experience; strong communication and project management skills.",
-      "salary": "$80k–$140k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "Telecommute eligible",
       "ats": "HiringCafe"
     },
     {
@@ -760,5 +760,20 @@
       "ats": "HiringCafe"
     }
   ],
-  "new_jobs": []
+  "new_jobs": [
+    {
+      "company": "TRC Companies, Inc.",
+      "title": "Environmental Scientist",
+      "location": "East Providence, Rhode Island, United States",
+      "url": "https://careers.trccompanies.com/jobs/26189?lang=en-us",
+      "direct_url": "https://careers.trccompanies.com/jobs/26189?lang=en-us",
+      "date_posted": "2026-06-26T20:15:53.000Z",
+      "description": "Bachelor's in biology/ecology/environmental science/forestry/wetland science, 5 years relevant experience, permitting and field sampling experience, proficiency with GPS and Microsoft Word/Excel, valid driver's license; HAZWOPER 40-hr and boating safety desired.",
+      "salary": "$65k–$85k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    }
+  ]
 }
