@@ -1,35 +1,44 @@
 # 🟦 Indeed — Social Worker Roles
-*Last updated: 2026-06-26 08:52 UTC*
+*Last updated: 2026-06-27 20:04 UTC*
 
-**5 new role(s)** since last run · 12 total in last 24h
+**6 new role(s)** since last run · 6 total in last 24h
 
-### [Social Worker MS (PRN)](https://www.indeed.com/viewjob?jk=01ef6cd08f8c8417) — Ivinson Memorial Hospital
-- 📍 **Location:** Laramie, WY, US
-- **Work mode:** On-site
-- **Job type:** parttime
-- 🕒 **Posted:** 2026-06-25
-
-### [Technical Project and Program Manager](https://www.indeed.com/viewjob?jk=b985b11fc91c2ea5) — Deloitte
+### [Behavioral Health Specialist, Social Work/Counselor III - Gilliam](https://www.indeed.com/viewjob?jk=179bd34be47aa237) — Colorado Department of Human Services
 - 📍 **Location:** Denver, CO, US
-- 💰 **Salary:** $102k–$189k/yr
 - **Work mode:** Remote in-state eligible
 - **Job type:** fulltime
-- 🕒 **Posted:** 2026-06-25
+- 🕒 **Posted:** 2026-06-26
 
-### [Wellness Coordinator](https://www.indeed.com/viewjob?jk=e82eefaa1c1d58ae) — Healthbreak, Inc.
-- 📍 **Location:** CO, US
-- **Work mode:** Remote in-state eligible
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-06-25
-
-### [Peer Support Specialist - Part Time](https://www.indeed.com/viewjob?jk=2b3a97e945d8ff8f) — Behavioral Treatment Services
+### [Nurse Case Manager](https://www.indeed.com/viewjob?jk=40d19d0d4eb3b8af) — PARKER PERSONAL CARE HOMES
 - 📍 **Location:** Lakewood, CO, US
-- **Work mode:** On-site
-- **Job type:** parttime
-- 🕒 **Posted:** 2026-06-25
+- 💰 **Salary:** $34–$40/hr
+- **Work mode:** Remote in-state eligible
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-06-26
 
-### [RN Case Manager](https://www.indeed.com/viewjob?jk=1660b749f14983ef) — Zócalo Health
+### [Case Manager - Central Scatted Site - 10953](https://www.indeed.com/viewjob?jk=3914211403231a43) — COLORADO COALITION FOR THE HOMELESS
+- 📍 **Location:** Denver, CO, US
+- 💰 **Salary:** $20–$25/hr
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-06-26
+
+### [Case Manager - Riverfront Lofts - 10903](https://www.indeed.com/viewjob?jk=268be826eb1e205f) — COLORADO COALITION FOR THE HOMELESS
+- 📍 **Location:** Denver, CO, US
+- 💰 **Salary:** $20–$25/hr
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-06-26
+
+### [Hospice Registered Nurse Case Manager](https://www.indeed.com/viewjob?jk=e6426465589aa0fe) — Monarch Hospice & Palliative Care
+- 📍 **Location:** Denver, CO, US
+- 💰 **Salary:** $85k–$100k/yr
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-06-26
+
+### [Care Coordinator](https://www.indeed.com/viewjob?jk=31835b3f9488832c) — Zócalo Health
 - 📍 **Location:** Remote, US
 - **Work mode:** Remote in-state eligible
 - **Job type:** fulltime
-- 🕒 **Posted:** 2026-06-25
+- 🕒 **Posted:** 2026-06-26
