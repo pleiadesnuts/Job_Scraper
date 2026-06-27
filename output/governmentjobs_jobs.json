@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-06-25 22:10 UTC",
+  "scraped_at": "2026-06-27 20:38 UTC",
   "total": 2,
-  "new_count": 1,
+  "new_count": 0,
   "jobs": [
     {
       "company": "Clackamas County",
@@ -22,15 +22,5 @@
       "ats": "NEOGOV"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "County of Lake",
-      "title": "Environmental Health Specialist Supervisor I/II",
-      "location": "Lake County, CA",
-      "url": "https://www.governmentjobs.com/jobs/5389197-0/environmental-health-specialist-supervisor-i-ii",
-      "date_posted": "",
-      "salary": "$80,142.40 - $102,356.80 Annually",
-      "ats": "NEOGOV"
-    }
-  ]
+  "new_jobs": []
 }
