@@ -1,9 +1,8 @@
 # 🔥 LinkedIn — Environmental / Toxicology Roles
-*Last updated: 2026-06-27 17:47 UTC*
+*Last updated: 2026-06-27 18:51 UTC*
 
 **1 new role(s)** since last run · 2 total in last 1h
 
-### [Senior Environmental Specialist](https://www.linkedin.com/jobs/view/4411535798/) — BAE Systems, Inc.
-- 📍 **Location:** San Diego, CA
-- 💰 **Salary:** $82779 - $140723
+### [Senior Associate Environmental Scientist](https://www.linkedin.com/jobs/view/4433267602/) — QK
+- 📍 **Location:** Clovis, CA
 - 🕒 **Posted:** 2026-06-27
