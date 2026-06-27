@@ -1,88 +1,80 @@
 # 🔥 LinkedIn — Social Worker Roles
-*Last updated: 2026-06-27 08:15 UTC*
+*Last updated: 2026-06-27 20:03 UTC*
 
-**18 new role(s)** since last run · 18 total in last 1h
+**17 new role(s)** since last run · 17 total in last 1h
 
-### [COBRA Operations Supervisor](https://www.linkedin.com/jobs/view/4433444857/) — ThrivePass
-- 📍 **Location:** Denver, CO
-- 💰 **Salary:** $60,000 - $75,000
+### [Medical Assistant Supervisor - Broomfield](https://www.linkedin.com/jobs/view/4434251141/) — OnPoint Medical Group
+- 📍 **Location:** Broomfield, CO
+- 💰 **Salary:** $27 - $32 hourly
 - 🕒 **Posted:** 2026-06-27
 
-### [EHS & Continuous Improvement Supervisor](https://www.linkedin.com/jobs/view/4432192660/) — Resource Label Group
-- 📍 **Location:** Longmont, CO
-- 💰 **Salary:** $75,000 - $95,000 annually
+### [Medical Assistant Supervisor - Dakota Ridge](https://www.linkedin.com/jobs/view/4434233959/) — OnPoint Medical Group
+- 📍 **Location:** Littleton, CO
+- 💰 **Salary:** $27.00 to $32.00 Hourly
 - 🕒 **Posted:** 2026-06-27
 
-### [Young Adult Housing Case Manager (Housing Specialist)](https://www.linkedin.com/jobs/view/4434095657/) — Volunteers of America Eastern Washington
-- 📍 **Location:** Spokane, WA
-- 💰 **Salary:** $12,000–$15,000
+### [Behavioral Health Specialist](https://www.linkedin.com/jobs/view/4434254000/) — City of Charlotte
+- 📍 **Location:** Charlotte, NC
+- 💰 **Salary:** $68,455.00 - $98,404
 - 🕒 **Posted:** 2026-06-27
 
-### [Clinical Supervisor](https://www.linkedin.com/jobs/view/4434211327/) — Friendly Faces Senior Care
-- 📍 **Location:** Roanoke, VA
+### [Health Educator](https://www.linkedin.com/jobs/view/4432141957/) — Elevance Health
+- 📍 **Location:** Atlanta, GA
 - 🕒 **Posted:** 2026-06-27
 
-### [Clinical Assistant Program Manager For Mental Health Full-Service Partnership Services](https://www.linkedin.com/jobs/view/4434208320/) — Mental Health America of Los Angeles
-- 📍 **Location:** Long Beach, CA
-- 💰 **Salary:** $40.00 - $41.00 per hour
+### [Public Health Program Manager](https://www.linkedin.com/jobs/view/4434234947/) — Family Health Council of Central PA
+- 📍 **Location:** Camp Hill, PA
+- 💰 **Salary:** $50,000-$60,000,
 - 🕒 **Posted:** 2026-06-27
 
-### [Social Advocates for Youth Counselor](https://www.linkedin.com/jobs/view/4434211207/) — Bellefaire JCB
-- 📍 **Location:** Cleveland, OH
-- 💰 **Salary:** $50,000-$52,000/year
+### [Care Coordinator](https://www.linkedin.com/jobs/view/4434237833/) — New Horizons of the Treasure Coast and Okeechobee
+- 📍 **Location:** Fort Pierce, FL
 - 🕒 **Posted:** 2026-06-27
 
-### [Case Manager - Supportive Housing](https://www.linkedin.com/jobs/view/4434092816/) — EXTOL International, Inc. is now Cleo
-- 📍 **Location:** San Diego, CA
-- 💰 **Salary:** $24 - $26.50 per hr
+### [Residential Program Manager](https://www.linkedin.com/jobs/view/4434249219/) — Maryhurst
+- 📍 **Location:** Louisville, KY
 - 🕒 **Posted:** 2026-06-27
 
-### [Outreach & Education Specialist](https://www.linkedin.com/jobs/view/4434098634/) — Planned Parenthood of Central and Western New York
-- 📍 **Location:** Syracuse, NY
-- 💰 **Salary:** $20.74 to $24.05/hour
+### [Case Manager II](https://www.linkedin.com/jobs/view/4434234928/) — Catholic Charities of Acadiana
+- 📍 **Location:** Lafayette, LA
 - 🕒 **Posted:** 2026-06-27
 
-### [Youth Development Specialist, Alpha - $100,000/year USD](https://www.linkedin.com/jobs/view/4431439054/) — Crossover
-- 📍 **Location:** Austin, TX
-- 💰 **Salary:** $50.00/hr - $50.00/hr
+### [Adult Case Management Program Supervisor](https://www.linkedin.com/jobs/view/4434250105/) — Multnomah County
+- 📍 **Location:** Portland, OR
+- 💰 **Salary:** $85,774.23 - $131,454.21
 - 🕒 **Posted:** 2026-06-27
 
-### [Case Manager- Housing Stabilization Program](https://www.linkedin.com/jobs/view/4434203426/) — EXTOL International, Inc. is now Cleo
-- 📍 **Location:** San Diego, CA
-- 💰 **Salary:** $24 - $26.50 per hr
+### [School Social Worker](https://www.linkedin.com/jobs/view/4434233966/) — Roman Catholic Archdiocese of Washington
+- 📍 **Location:** Pasco, WA
 - 🕒 **Posted:** 2026-06-27
 
-### [Case Manager - ORR](https://www.linkedin.com/jobs/view/4434208334/) — A Greater Hope
-- 📍 **Location:** Victorville, CA
+### [Full Time Peer Support Specialist](https://www.linkedin.com/jobs/view/4434244337/) — Wasatch Behavioral Health
+- 📍 **Location:** Provo, UT
+- 💰 **Salary:** $16.49–$21.95/hour
 - 🕒 **Posted:** 2026-06-27
 
-### [Literacy Program Coordinator, Alpha - $100,000/year USD](https://www.linkedin.com/jobs/view/4431436062/) — Crossover
-- 📍 **Location:** Dallas, TX
-- 💰 **Salary:** $50.00/hr - $50.00/hr
+### [Part-time Peer Support Specialist](https://www.linkedin.com/jobs/view/4434252142/) — Livingston County Community Mental Health
+- 📍 **Location:** Howell, MI
 - 🕒 **Posted:** 2026-06-27
 
-### [Behavioral Health Respite Program Coordinator](https://www.linkedin.com/jobs/view/4434209273/) — Bellefaire JCB
-- 📍 **Location:** Cleveland, OH
-- 💰 **Salary:** $55,000.00/yr - $56,000.00/yr
+### [Peer Support Specialist](https://www.linkedin.com/jobs/view/4434242585/) — Community Bridges
+- 📍 **Location:** Portland, OR
 - 🕒 **Posted:** 2026-06-27
 
-### [RN Care Coordinator – Pediatrics](https://www.linkedin.com/jobs/view/4433450721/) — Cleveland Clinic
-- 📍 **Location:** Cleveland, OH
+### [Patient Care Coordinator](https://www.linkedin.com/jobs/view/4434257005/) — Specialty1 Partners
+- 📍 **Location:** Potsdam, NY
+- 💰 **Salary:** $25 - $29 USD
 - 🕒 **Posted:** 2026-06-27
 
-### [Fertility Care Coordinator](https://www.linkedin.com/jobs/view/4430300053/) — Mercy
-- 📍 **Location:** St Louis, MO
+### [Remote Patient Care Coordinator (US Hours)](https://www.linkedin.com/jobs/view/4434249145/) — Emma of Torre.ai
+- 📍 **Location:** Mexico
 - 🕒 **Posted:** 2026-06-27
 
-### [Substance Use Disorder Professional (SUDP) Supervisor](https://www.linkedin.com/jobs/view/4434098588/) — Volunteers of America Eastern Washington
-- 📍 **Location:** Spokane, WA
-- 💰 **Salary:** $12,000–$15,000
+### [New Patient Care Coordinator - Sacramento Natural Dentistry](https://www.linkedin.com/jobs/view/4434255067/) — American Dental Companies
+- 📍 **Location:** Citrus Heights, CA
+- 💰 **Salary:** $18.00 – $23.00 per hour
 - 🕒 **Posted:** 2026-06-27
 
-### [Social Worker Full-Time Days](https://www.linkedin.com/jobs/view/4434207341/) — Saint Alphonsus
-- 📍 **Location:** Boise, ID
-- 🕒 **Posted:** 2026-06-27
-
-### [Clinical Social Worker - Substance Use Recovery (F/T Days Hybrid)](https://www.linkedin.com/jobs/view/4433281152/) — Mercy
-- 📍 **Location:** Chesterfield, MO
+### [Patient Care Coordinator (Spanish)](https://www.linkedin.com/jobs/view/4434239514/) — Emma of Torre.ai
+- 📍 **Location:** Mexico
 - 🕒 **Posted:** 2026-06-27
