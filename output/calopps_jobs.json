@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-06-27 20:38 UTC",
-  "total": 10,
+  "scraped_at": "2026-06-28 20:45 UTC",
+  "total": 9,
   "new_count": 0,
   "jobs": [
     {
@@ -72,7 +72,7 @@
       "location": "San Francisco/Peninsula",
       "url": "https://www.calopps.org/san-mateo-county/job-20747663",
       "date_posted": "",
-      "salary": "$118,123.20-$147,742.40 Annually",
+      "salary": "",
       "ats": "CalOpps"
     },
     {
@@ -81,16 +81,7 @@
       "location": "Sacramento/Metro Area",
       "url": "https://www.calopps.org/placer/job-20745667",
       "date_posted": "",
-      "salary": "$73,548.80-$91,852.80 Annually",
-      "ats": "CalOpps"
-    },
-    {
-      "company": "San Mateo County",
-      "title": "Group Supervisor I/II- Probation Department (Open and Promotional)",
-      "location": "San Francisco/Peninsula",
-      "url": "https://www.calopps.org/san-mateo-county/job-20739698",
-      "date_posted": "",
-      "salary": "$85,259.20-$106,641.60 Annually",
+      "salary": "",
       "ats": "CalOpps"
     }
   ],
