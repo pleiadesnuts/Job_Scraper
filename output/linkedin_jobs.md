@@ -1,42 +1,58 @@
 # 🔥 LinkedIn — Social Worker Roles
-*Last updated: 2026-06-27 23:48 UTC*
+*Last updated: 2026-06-28 10:24 UTC*
 
-**8 new role(s)** since last run · 8 total in last 1h
+**12 new role(s)** since last run · 12 total in last 1h
 
-### [Supervisor Sterile Processing](https://www.linkedin.com/jobs/view/4434256279/) — St. Anthony Hospital
-- 📍 **Location:** Lakewood, CO
-- 💰 **Salary:** $30.97 - $53.81 /hour
-- 🕒 **Posted:** 2026-06-27
+### [Case Manager](https://www.linkedin.com/jobs/view/4394203950/) — Bay Cove Human Services
+- 📍 **Location:** Cambridge, MA
+- 🕒 **Posted:** 2026-06-28
 
-### [Certified Peer Support Specialist](https://www.linkedin.com/jobs/view/4433476914/) — Amatus Health
-- 📍 **Location:** Milford Mill, MD
-- 💰 **Salary:** $19.00/hr - $21.00/hr
-- 🕒 **Posted:** 2026-06-27
+### [Case Managers](https://www.linkedin.com/jobs/view/4415808611/) — Jewish Board of Family and Children's Services
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-06-28
 
-### [Community Outreach & Partnerships Supervisor](https://www.linkedin.com/jobs/view/4433477886/) — Chrysalis Health
-- 📍 **Location:** Columbus, OH
-- 💰 **Salary:** $50,000–$60,000
-- 🕒 **Posted:** 2026-06-27
+### [Program Coordinator](https://www.linkedin.com/jobs/view/4405016634/) — Harlem Children's Zone
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $55,000.00/yr - $60,000.00/yr
+- 🕒 **Posted:** 2026-06-28
 
-### [Social Worker](https://www.linkedin.com/jobs/view/4433479782/) — Fairview Rehab and Care Center
-- 📍 **Location:** Philadelphia, PA
-- 🕒 **Posted:** 2026-06-27
+### [Patient Safety Program Manager](https://www.linkedin.com/jobs/view/4405067394/) — Legacy Health
+- 📍 **Location:** Portland, OR
+- 💰 **Salary:** USD $49.89 - USD $74.34 /Hr
+- 🕒 **Posted:** 2026-06-28
 
-### [Social Worker / Social Service Designee (SSD)](https://www.linkedin.com/jobs/view/4433487219/) — University Park Rehabilitation and Healthcare Center
-- 📍 **Location:** Fort Wayne, IN
-- 🕒 **Posted:** 2026-06-27
+### [Program Coordinator](https://www.linkedin.com/jobs/view/4415932605/) — Cypress HCM
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-06-28
 
-### [Patient Care Coordinator](https://www.linkedin.com/jobs/view/4434249476/) — Beltone
-- 📍 **Location:** Plain City, OH
-- 💰 **Salary:** $18.00 - $20.00
-- 🕒 **Posted:** 2026-06-27
+### [Patient Care Coordinator](https://www.linkedin.com/jobs/view/4356412191/) — Total Vision
+- 📍 **Location:** Huntington Beach, CA
+- 🕒 **Posted:** 2026-06-28
 
-### [Wound Care Coordinator](https://www.linkedin.com/jobs/view/4433481692/) — Renwick Nursing & Rehab
-- 📍 **Location:** Joliet, IL
-- 💰 **Salary:** $83,000.00/yr - $87,000.00/yr
-- 🕒 **Posted:** 2026-06-27
+### [Social Worker II, Sonoma Psycho-Social Assessment](https://www.linkedin.com/jobs/view/4415582931/) — Wayfinder Family Services
+- 📍 **Location:** Santa Rosa, CA
+- 💰 **Salary:** $73,000 - $77,000
+- 🕒 **Posted:** 2026-06-28
 
-### [Clinical Case Manager RN Office Based](https://www.linkedin.com/jobs/view/4433487239/) — Safe Life Home Health Care
-- 📍 **Location:** Lombard, IL
-- 💰 **Salary:** $35.00/hr - $38.00/hr
-- 🕒 **Posted:** 2026-06-27
+### [Clinical Care Coordinator](https://www.linkedin.com/jobs/view/4429202689/) — Anglican Care
+- 📍 **Location:** Central Coast, New South Wales, Australia
+- 🕒 **Posted:** 2026-06-28
+
+### [Care Coordinator RN](https://www.linkedin.com/jobs/view/4433616033/) — CommonSpirit Health
+- 📍 **Location:** Santa Maria, CA
+- 💰 **Salary:** $59.31 - $88.50 /hour
+- 🕒 **Posted:** 2026-06-28
+
+### [Phlebotomy Training Coordinator](https://www.linkedin.com/jobs/view/4415856158/) — Labcorp
+- 📍 **Location:** Milwaukee, WI
+- 💰 **Salary:** $19.00- $29.00 per hour
+- 🕒 **Posted:** 2026-06-28
+
+### [Hospice Social Worker (MSW)](https://www.linkedin.com/jobs/view/4415571038/) — Silverado
+- 📍 **Location:** San Diego, CA
+- 💰 **Salary:** $35 USD - $39 USD
+- 🕒 **Posted:** 2026-06-28
+
+### [BCBA Clinical Supervisor](https://www.linkedin.com/jobs/view/4415121538/) — Easterseals Southern California
+- 📍 **Location:** Indio, CA
+- 🕒 **Posted:** 2026-06-28
