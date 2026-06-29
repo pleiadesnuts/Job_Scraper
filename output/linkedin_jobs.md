@@ -1,6 +1,20 @@
 # 🔥 LinkedIn — Environmental / Toxicology Roles
-*Last updated: 2026-06-29 02:34 UTC*
+*Last updated: 2026-06-29 03:35 UTC*
 
-**0 new role(s)** since last run · 0 total in last 1h
+**4 new role(s)** since last run · 4 total in last 1h
 
-No new roles since the last run.
+### [Environmental Scientist – Impact Assessment (Senior or Intermediate)](https://www.linkedin.com/jobs/view/4433631755/) — GHD
+- 📍 **Location:** Sydney, New South Wales, Australia
+- 🕒 **Posted:** 2026-06-29
+
+### [Environmental Scientist – Impact Assessment (Senior or Intermediate)](https://www.linkedin.com/jobs/view/4433634719/) — GHD
+- 📍 **Location:** Canberra, Australian Capital Territory, Australia
+- 🕒 **Posted:** 2026-06-29
+
+### [Environmental Scientist – Impact Assessment (Senior or Intermediate)](https://www.linkedin.com/jobs/view/4433637374/) — GHD
+- 📍 **Location:** Wollongong, New South Wales, Australia
+- 🕒 **Posted:** 2026-06-29
+
+### [Environmental Scientist – Impact Assessment (Senior or Intermediate)](https://www.linkedin.com/jobs/view/4433637373/) — GHD
+- 📍 **Location:** Newcastle, New South Wales, Australia
+- 🕒 **Posted:** 2026-06-29
