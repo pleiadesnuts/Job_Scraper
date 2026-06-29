@@ -1,55 +1,113 @@
 # 🔥 LinkedIn — Social Worker Roles
-*Last updated: 2026-06-29 00:25 UTC*
+*Last updated: 2026-06-29 12:59 UTC*
 
-**11 new role(s)** since last run · 11 total in last 1h
+**25 new role(s)** since last run · 25 total in last 1h
 
-### [Social Worker](https://www.linkedin.com/jobs/view/4433624849/) — Lemon and Oak Counseling
-- 📍 **Location:** Saskatoon, Saskatchewan, Canada
+### [Lead Medical Case Manager](https://www.linkedin.com/jobs/view/4424232701/) — Positive Impact Health Centers
+- 📍 **Location:** Duluth, GA
 - 🕒 **Posted:** 2026-06-29
 
-### [Moreno Valley USD Regional Program Manager](https://www.linkedin.com/jobs/view/4433625819/) — Elevo Learning
-- 📍 **Location:** Moreno Valley, CA
-- 💰 **Salary:** $70,500.00/yr - $73,500.00/yr
+### [Social Worker](https://www.linkedin.com/jobs/view/4367492330/) — Samaritan Daytop Village, Inc.
+- 📍 **Location:** Brooklyn, NY
 - 🕒 **Posted:** 2026-06-29
 
-### [Upland and Corona USD Regional Program Manager](https://www.linkedin.com/jobs/view/4433625818/) — Elevo Learning
-- 📍 **Location:** Corona, CA
-- 💰 **Salary:** $70,500.00/yr - $73,500.00/yr
+### [Case Manager](https://www.linkedin.com/jobs/view/4415573423/) — N Street Village
+- 📍 **Location:** Washington, DC
+- 💰 **Salary:** $50,000.00/yr - $58,000.00/yr
 - 🕒 **Posted:** 2026-06-29
 
-### [Care Coordinator (Medical Receptionist/PSR) → Care Coordinator (Medical Receptionist/PSR)](https://www.linkedin.com/jobs/view/4433617967/) — Personal Touch Home Health Care Services Inc.
-- 📍 **Location:** Redmond, OR
-- 💰 **Salary:** $19-$21
+### [Case Manager (IW Women's Center)](https://www.linkedin.com/jobs/view/4434114141/) — Interfaith Clothing Ctr
+- 📍 **Location:** Rockville, MD
+- 💰 **Salary:** $55,000 - $65,000
 - 🕒 **Posted:** 2026-06-29
 
-### [PROGRAM COORDINATOR – WORKFORCE & OPERATIONS](https://www.linkedin.com/jobs/view/4434407723/) — Entryway NC
-- 📍 **Location:** Charlotte, NC
-- 💰 **Salary:** $58,000–$60,000
-- 🕒 **Posted:** 2026-06-28
+### [Community Health Worker](https://www.linkedin.com/jobs/view/4433696412/) — Maricopa County
+- 📍 **Location:** Tempe, AZ
+- 💰 **Salary:** $17.50 - $25.50 hourly
+- 🕒 **Posted:** 2026-06-29
 
-### [PROGRAM COORDINATOR – WORKFORCE & OPERATIONS](https://www.linkedin.com/jobs/view/4434414207/) — Entryway NC
-- 📍 **Location:** Raleigh, NC
-- 💰 **Salary:** $50,000–$52,000
-- 🕒 **Posted:** 2026-06-28
+### [Peer Support Specialist - ACT (Assertive Community Treatment)](https://www.linkedin.com/jobs/view/4433634487/) — MaineHealth
+- 📍 **Location:** Brunswick, ME
+- 🕒 **Posted:** 2026-06-29
 
-### [Program Manager](https://www.linkedin.com/jobs/view/4433634314/) — Wilmington-Clinton County Chamber of Commerce
-- 📍 **Location:** Wilmington, NC
-- 💰 **Salary:** $35,000 - $45,000
-- 🕒 **Posted:** 2026-06-28
+### [Program Manager: Clinical & Coaching Operations - Healthcare](https://www.linkedin.com/jobs/view/4431098656/) — Ketto
+- 📍 **Location:** Mumbai Metropolitan Region
+- 🕒 **Posted:** 2026-06-29
 
-### [Case Manager](https://www.linkedin.com/jobs/view/4434044566/) — LifeImpactersFoundation
-- 📍 **Location:** Chicago, IL
-- 🕒 **Posted:** 2026-06-28
+### [Front of house reception supervisor (spa + wellness)](https://www.linkedin.com/jobs/view/4434461948/) — St. Clement
+- 📍 **Location:** London, England, United Kingdom
+- 🕒 **Posted:** 2026-06-29
 
-### [Hospice Social Worker](https://www.linkedin.com/jobs/view/4433622761/) — Ascend Health
-- 📍 **Location:** Paramus, NJ
-- 🕒 **Posted:** 2026-06-28
+### [Patient Care Coordinator](https://www.linkedin.com/jobs/view/4428625436/) — AEG Vision
+- 📍 **Location:** Erie, PA
+- 🕒 **Posted:** 2026-06-29
 
-### [VIP Client Care Coordinator](https://www.linkedin.com/jobs/view/4434405793/) — LifeSpan medicine
-- 📍 **Location:** Miami, FL
-- 💰 **Salary:** $65,000.00/yr - $72,000.00/yr
-- 🕒 **Posted:** 2026-06-28
+### [Program Coordinator](https://www.linkedin.com/jobs/view/4431702887/) — Survivor Alliance
+- 📍 **Location:** Washington, DC
+- 🕒 **Posted:** 2026-06-29
 
-### [MDS/ Resident Care Coordinator](https://www.linkedin.com/jobs/view/4433613942/) — The Alden Network
-- 📍 **Location:** Chicago, IL
-- 🕒 **Posted:** 2026-06-28
+### [Program Coordinator](https://www.linkedin.com/jobs/view/4431088731/) — Samarth Udyog
+- 📍 **Location:** Pune Division, Maharashtra, India
+- 🕒 **Posted:** 2026-06-29
+
+### [Literacy Program Coordinator, Alpha - $100,000/year USD](https://www.linkedin.com/jobs/view/4431431382/) — Crossover
+- 📍 **Location:** Texas, United States
+- 💰 **Salary:** $50.00/hr - $50.00/hr
+- 🕒 **Posted:** 2026-06-29
+
+### [Literacy Program Coordinator, Alpha - $100,000/year USD](https://www.linkedin.com/jobs/view/4431436062/) — Crossover
+- 📍 **Location:** Dallas, TX
+- 💰 **Salary:** $50.00/hr - $50.00/hr
+- 🕒 **Posted:** 2026-06-29
+
+### [Technical Resilience Program Coordinator](https://www.linkedin.com/jobs/view/4433699947/) — Reed Elsevier Philippines
+- 📍 **Location:** Quezon City, National Capital Region, Philippines
+- 🕒 **Posted:** 2026-06-29
+
+### [Program Coordinator, CORE](https://www.linkedin.com/jobs/view/4352041931/) — Samaritan Daytop Village, Inc.
+- 📍 **Location:** Bronx, NY
+- 🕒 **Posted:** 2026-06-29
+
+### [Reading Program Coordinator, Alpha - $100,000/year USD](https://www.linkedin.com/jobs/view/4431433097/) — Crossover
+- 📍 **Location:** Grand Prairie, TX
+- 💰 **Salary:** $50.00/hr - $50.00/hr
+- 🕒 **Posted:** 2026-06-29
+
+### [Care Coordinator / Social Worker](https://www.linkedin.com/jobs/view/4432401813/) — Real Hires
+- 📍 **Location:** Latin America
+- 🕒 **Posted:** 2026-06-29
+
+### [Patient Care Coordinator](https://www.linkedin.com/jobs/view/4431085544/) — Asheville Non-Surgical Orthopedics
+- 📍 **Location:** Asheville, NC
+- 💰 **Salary:** $18.00/hr - $20.00/hr
+- 🕒 **Posted:** 2026-06-29
+
+### [Technical Program Manager III, Change Governance, Google Data Centers](https://www.linkedin.com/jobs/view/4425074861/) — Google
+- 📍 **Location:** Moncks Corner, SC
+- 💰 **Salary:** $163000 - $237000
+- 🕒 **Posted:** 2026-06-29
+
+### [Youth Development Specialist, Alpha - $100,000/year USD](https://www.linkedin.com/jobs/view/4431441049/) — Crossover
+- 📍 **Location:** Atlanta, GA
+- 💰 **Salary:** $50.00/hr - $50.00/hr
+- 🕒 **Posted:** 2026-06-29
+
+### [Mental Health Supervisor - Lebanon - Beirut](https://www.linkedin.com/jobs/view/4434476074/) — Relief International
+- 📍 **Location:** El Fil, Blue Nile State, Sudan
+- 🕒 **Posted:** 2026-06-29
+
+### [Social Worker](https://www.linkedin.com/jobs/view/4434473682/) — Cheshire & Wirral Partnership NHS Foundation Trust
+- 📍 **Location:** Wirral, England, United Kingdom
+- 🕒 **Posted:** 2026-06-29
+
+### [Qualified Children's Social Worker - Child focused courts](https://www.linkedin.com/jobs/view/4430588330/) — Cafcass (Children and Family Court Advisory and Support Service)
+- 📍 **Location:** Coventry, England, United Kingdom
+- 🕒 **Posted:** 2026-06-29
+
+### [Remote Public Social Worker (Child & Family)](https://www.linkedin.com/jobs/view/4434481085/) — Turing
+- 📍 **Location:** United States
+- 🕒 **Posted:** 2026-06-29
+
+### [Hospice Master Social Worker](https://www.linkedin.com/jobs/view/4421930743/) — Elara Caring
+- 📍 **Location:** Tulsa, OK
+- 🕒 **Posted:** 2026-06-29
