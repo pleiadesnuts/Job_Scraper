@@ -1,17 +1,8 @@
 {
-  "scraped_at": "2026-06-28 20:43 UTC",
-  "total": 2,
+  "scraped_at": "2026-06-29 21:48 UTC",
+  "total": 1,
   "new_count": 0,
   "jobs": [
-    {
-      "company": "Clackamas County",
-      "title": "Environmental Program Coordinator (Water Environment Services)",
-      "location": "Oregon City, OR",
-      "url": "https://www.governmentjobs.com/jobs/145242-1/environmental-program-coordinator-water-environment-services",
-      "date_posted": "",
-      "salary": "",
-      "ats": "NEOGOV"
-    },
     {
       "company": "County of Lake",
       "title": "Environmental Health Specialist Supervisor I/II",
@@ -19,24 +10,6 @@
       "url": "https://www.governmentjobs.com/jobs/5389197-0/environmental-health-specialist-supervisor-i-ii",
       "date_posted": "",
       "salary": "$80,142.40 - $102,356.80 Annually",
-      "ats": "NEOGOV"
-    },
-    {
-      "company": "Sacramento Area Sewer District (CA)",
-      "title": "Environmental Specialist I/II",
-      "location": "Sacramento, CA",
-      "url": "https://www.governmentjobs.com/jobs/4870355-0/environmental-specialist-i-ii",
-      "date_posted": "",
-      "salary": "$83,408.00 - $111,758.40 Annually",
-      "ats": "NEOGOV"
-    },
-    {
-      "company": "County of Napa",
-      "title": "Senior Environmental Health Specialist",
-      "location": "Napa, CA",
-      "url": "https://www.governmentjobs.com/jobs/5381149-0/senior-environmental-health-specialist",
-      "date_posted": "",
-      "salary": "$109,428.80 - $130,936.00 Annually",
       "ats": "NEOGOV"
     }
   ],
