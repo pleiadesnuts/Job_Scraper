@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-06-29 12:49 UTC",
+  "scraped_at": "2026-06-29 21:56 UTC",
   "total": 72,
-  "new_count": 1,
+  "new_count": 0,
   "jobs": [
     {
       "company": "Other Agencies and Independent Organizations",
@@ -1012,20 +1012,5 @@
       "ats": "HiringCafe"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Lifepoint Health",
-      "title": "Social Worker",
-      "location": "Bend, Oregon, United States",
-      "url": "https://ibnjjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/requisitions/job/343611",
-      "direct_url": "https://ibnjjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/requisitions/job/343611",
-      "date_posted": "2026-05-31T05:00:00.000Z",
-      "description": "Social worker position requiring a CSWE-accredited master’s degree; active license/certification to practice preferred; ACSW desirable.",
-      "salary": "",
-      "job_type": "Full Time, Temporary",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    }
-  ]
+  "new_jobs": []
 }
