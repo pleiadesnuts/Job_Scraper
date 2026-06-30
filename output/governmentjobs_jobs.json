@@ -1,17 +1,27 @@
 {
-  "scraped_at": "2026-06-29 21:48 UTC",
+  "scraped_at": "2026-06-30 21:51 UTC",
   "total": 1,
-  "new_count": 0,
+  "new_count": 1,
   "jobs": [
     {
-      "company": "County of Lake",
-      "title": "Environmental Health Specialist Supervisor I/II",
-      "location": "Lake County, CA",
-      "url": "https://www.governmentjobs.com/jobs/5389197-0/environmental-health-specialist-supervisor-i-ii",
+      "company": "City of Eureka",
+      "title": "Water Quality Supervisor",
+      "location": "WWTP - 4301 Hilfiker Lane Eureka CA 95501, CA",
+      "url": "https://www.governmentjobs.com/jobs/5392061-0/water-quality-supervisor",
       "date_posted": "",
-      "salary": "$80,142.40 - $102,356.80 Annually",
+      "salary": "$69,300.00 - $84,228.00 Annually",
       "ats": "NEOGOV"
     }
   ],
-  "new_jobs": []
+  "new_jobs": [
+    {
+      "company": "City of Eureka",
+      "title": "Water Quality Supervisor",
+      "location": "WWTP - 4301 Hilfiker Lane Eureka CA 95501, CA",
+      "url": "https://www.governmentjobs.com/jobs/5392061-0/water-quality-supervisor",
+      "date_posted": "",
+      "salary": "$69,300.00 - $84,228.00 Annually",
+      "ats": "NEOGOV"
+    }
+  ]
 }
