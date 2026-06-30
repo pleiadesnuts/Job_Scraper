@@ -1,123 +1,115 @@
 # 🔥 LinkedIn — Social Worker Roles
-*Last updated: 2026-06-30 08:57 UTC*
+*Last updated: 2026-06-30 10:47 UTC*
 
-**27 new role(s)** since last run · 27 total in last 1h
+**25 new role(s)** since last run · 25 total in last 1h
 
-### [Housekeeping Supervisor](https://www.linkedin.com/jobs/view/4434954977/) — Stonebridge
-- 📍 **Location:** Loveland, CO
-- 🕒 **Posted:** 2026-06-30
-
-### [Prevailing Wage Payroll Supervisor](https://www.linkedin.com/jobs/view/4431599299/) — Transportation Partners & Logistics
-- 📍 **Location:** Centennial, CO
-- 💰 **Salary:** $100,000-$120,000
-- 🕒 **Posted:** 2026-06-30
-
-### [Targeted Case Manager](https://www.linkedin.com/jobs/view/4431597801/) — Yellowstone Boys and Girls Ranch
-- 📍 **Location:** Kalispell, MT
-- 💰 **Salary:** $20.38 - $22.94 per hour
-- 🕒 **Posted:** 2026-06-30
-
-### [Behavioral Health Care Coordinator](https://www.linkedin.com/jobs/view/4434959732/) — COMHAR, Inc.
-- 📍 **Location:** Philadelphia, PA
-- 🕒 **Posted:** 2026-06-30
-
-### [MDE Supervisor](https://www.linkedin.com/jobs/view/4434970142/) — COMHAR, Inc.
-- 📍 **Location:** Philadelphia, PA
-- 💰 **Salary:** $47,000.00-$50,000.00
-- 🕒 **Posted:** 2026-06-30
-
-### [Senior Care Coordinator - 00067 - Mon-Fri 9AM-5PM](https://www.linkedin.com/jobs/view/4434955506/) — WellLife Network
-- 📍 **Location:** Smithtown, NY
-- 🕒 **Posted:** 2026-06-30
-
-### [Physician Assistant - Program Coordinator (Comprehensive Spine)](https://www.linkedin.com/jobs/view/4426757309/) — Overlake Medical Center & Clinics
-- 📍 **Location:** Bellevue, WA
-- 💰 **Salary:** $146,557.00 - $219,835.00
-- 🕒 **Posted:** 2026-06-30
-
-### [Continuing Care Coordinator](https://www.linkedin.com/jobs/view/4434964854/) — RemoteHunter
+### [Medical Assistant Patient Care Coordinator](https://www.linkedin.com/jobs/view/4431907620/) — Jobgether
 - 📍 **Location:** United States
-- 💰 **Salary:** $52,500.00/yr - $60,000.00/yr
+- 💰 **Salary:** $17.00 to $20.00
 - 🕒 **Posted:** 2026-06-30
 
-### [Targeted Case Manager](https://www.linkedin.com/jobs/view/4434952796/) — COMHAR, Inc.
-- 📍 **Location:** Philadelphia, PA
+### [Social Worker - Sickle Cell Clinic](https://www.linkedin.com/jobs/view/4425920249/) — Phoenix Children's
+- 📍 **Location:** Phoenix, AZ
 - 🕒 **Posted:** 2026-06-30
 
-### [Social Worker - Lvl II](https://www.linkedin.com/jobs/view/4431593498/) — NYC Health + Hospitals
-- 📍 **Location:** Brooklyn, NY
-- 💰 **Salary:** $85,078.00/yr - $85,078.00/yr
+### [Case Manager](https://www.linkedin.com/jobs/view/4322889743/) — Bay Cove Human Services
+- 📍 **Location:** Greater Boston
 - 🕒 **Posted:** 2026-06-30
 
-### [Social Worker](https://www.linkedin.com/jobs/view/4431596722/) — ACCEL Schools
-- 📍 **Location:** Highland Park, MI
+### [Program Coordinator - Child Care Training](https://www.linkedin.com/jobs/view/4425926408/) — Houston-Galveston Area Council
+- 📍 **Location:** Houston, TX
 - 🕒 **Posted:** 2026-06-30
 
-### [Social Worker - Emergency Department (1.0 FTE/Evenings)](https://www.linkedin.com/jobs/view/4417003684/) — Overlake Medical Center & Clinics
-- 📍 **Location:** Bellevue, WA
-- 💰 **Salary:** $41.11 - $66.60
+### [Regulatory Program Coordinator](https://www.linkedin.com/jobs/view/4425409625/) — Nova Scotia Regulator of Paramedicine
+- 📍 **Location:** Bedford, Nova Scotia, Canada
+- 💰 **Salary:** $90,400.00/yr - CA$90,400.00/yr
 - 🕒 **Posted:** 2026-06-30
 
-### [Behavioral Health Supervisor and Wellness Ambassador](https://www.linkedin.com/jobs/view/4431595763/) — Premise Health
-- 📍 **Location:** Richardson, TX
+### [Health Assistance Program Care Coordinator](https://www.linkedin.com/jobs/view/4425960586/) — University of Vermont Health
+- 📍 **Location:** Williston, VT
+- 💰 **Salary:** $26.01/hr - $41.00/hr
 - 🕒 **Posted:** 2026-06-30
 
-### [Education Specialist McAuley](https://www.linkedin.com/jobs/view/4431587715/) — MacKillop Family Services
-- 📍 **Location:** West Melbourne, Victoria, Australia
+### [Case Manager Substance Use Counselor - Mental Health 393](https://www.linkedin.com/jobs/view/4416282281/) — Telecare Corporation
+- 📍 **Location:** San Jose, CA
+- 💰 **Salary:** $34.82 - $43.02
 - 🕒 **Posted:** 2026-06-30
 
-### [Social Worker - Assessor](https://www.linkedin.com/jobs/view/4434971329/) — Fair Ways
-- 📍 **Location:** Southampton, England, United Kingdom
+### [Bi-Lingual Substance Abuse Counselor](https://www.linkedin.com/jobs/view/4425284756/) — Acadia Healthcare
+- 📍 **Location:** Kennett Square, PA
 - 🕒 **Posted:** 2026-06-30
 
-### [Social Worker - Kinship Assessment](https://www.linkedin.com/jobs/view/4434955977/) — Dorset Council UK
-- 📍 **Location:** Dorchester, England, United Kingdom
+### [Hub Peer Support Specialist](https://www.linkedin.com/jobs/view/4431904261/) — Promise Resource Network Inc.
+- 📍 **Location:** Raleigh, NC
+- 💰 **Salary:** $18 – $21/hr
 - 🕒 **Posted:** 2026-06-30
 
-### [Youth Community Based Case Manager - Mental Health](https://www.linkedin.com/jobs/view/4434956767/) — Zepf Center
-- 📍 **Location:** Toledo, OH
+### [CMPSS Certified Medical Peer Support Specialist As Needed PM NOC Weekend Shifts Mental Health 326](https://www.linkedin.com/jobs/view/4367327703/) — Telecare Corporation
+- 📍 **Location:** Perris, CA
+- 💰 **Salary:** $21.00 - $21.58
 - 🕒 **Posted:** 2026-06-30
 
-### [Peer Support Specialist - CCBHC grant; per diem](https://www.linkedin.com/jobs/view/4434957749/) — Zepf Center
-- 📍 **Location:** Toledo, OH
+### [Program Manager](https://www.linkedin.com/jobs/view/4429588097/) — University of Oklahoma
+- 📍 **Location:** Tulsa, OK
 - 🕒 **Posted:** 2026-06-30
 
-### [Copy of Care Coordinator](https://www.linkedin.com/jobs/view/4434951803/) — COMHAR, Inc.
-- 📍 **Location:** Philadelphia, PA
-- 💰 **Salary:** $50,000.00- $52,000,00
+### [Field Care Coordinator - ALTCS - Mohave County, AZ](https://www.linkedin.com/jobs/view/4434979302/) — UnitedHealthcare
+- 📍 **Location:** Kingman, AZ
+- 💰 **Salary:** $23.89 to $42.69 per hour
 - 🕒 **Posted:** 2026-06-30
 
-### [Client Operations Supervisor](https://www.linkedin.com/jobs/view/4431589802/) — Barry's Iberia
-- 📍 **Location:** Seattle, WA
+### [Case Managers](https://www.linkedin.com/jobs/view/4425990624/) — Jewish Board of Family and Children's Services
+- 📍 **Location:** Bronx, NY
 - 🕒 **Posted:** 2026-06-30
 
-### [Customer Care Coordinator-Sydney](https://www.linkedin.com/jobs/view/4431599330/) — Bloom Hearing Specialists ANZ
-- 📍 **Location:** Sydney, New South Wales, Australia
+### [Program Coordinator](https://www.linkedin.com/jobs/view/4434958814/) — Antyodaya Foundation
+- 📍 **Location:** Karnal, Haryana, India
 - 🕒 **Posted:** 2026-06-30
 
-### [Program Coordinator, eSports](https://www.linkedin.com/jobs/view/4434198918/) — Florida International University
-- 📍 **Location:** Miami, FL
-- 💰 **Salary:** $40,000-$45,000
+### [Volunteer Coordinator - Florence](https://www.linkedin.com/jobs/view/4425904900/) — St. Elizabeth Healthcare
+- 📍 **Location:** Florence, KY
 - 🕒 **Posted:** 2026-06-30
 
-### [Wellness Coordinator](https://www.linkedin.com/jobs/view/4434950811/) — Platinum Communities
-- 📍 **Location:** Sun Prairie, WI
+### [Care Coordinator](https://www.linkedin.com/jobs/view/4434972586/) — Bluebird Care
+- 📍 **Location:** Manchester, England, United Kingdom
 - 🕒 **Posted:** 2026-06-30
 
-### [Intake Specialist](https://www.linkedin.com/jobs/view/4434955743/) — Tender Touch Therapy, LLC
-- 📍 **Location:** Kenosha, WI
+### [Patient Care Coordinator](https://www.linkedin.com/jobs/view/4425269959/) — HearingLife
+- 📍 **Location:** Albany, NY
+- 💰 **Salary:** $17 - $21 per hr
 - 🕒 **Posted:** 2026-06-30
 
-### [Senior Administrative Specialist III (Travel &Training Coordinator)](https://www.linkedin.com/jobs/view/4434955740/) — Tanaq Health
-- 📍 **Location:** Atlanta, GA
+### [Patient Care Coordinator](https://www.linkedin.com/jobs/view/4425263945/) — HearingLife
+- 📍 **Location:** Suffolk, VA
+- 💰 **Salary:** $17 - $21 per hr
 - 🕒 **Posted:** 2026-06-30
 
-### [YJ YSO Social Worker Wellington Region](https://www.linkedin.com/jobs/view/4433442153/) — Oranga Tamariki—Ministry for Children
-- 📍 **Location:** Paraparaumu, Wellington, New Zealand
-- 💰 **Salary:** $81,206- $97,557
+### [Transition in Place Case Manager](https://www.linkedin.com/jobs/view/4418852459/) — New England Center and Home for Veterans
+- 📍 **Location:** Haverhill, MA
 - 🕒 **Posted:** 2026-06-30
 
-### [Social Worker - Emergency Department (.9 FTE/Nights)](https://www.linkedin.com/jobs/view/4407585006/) — Overlake Medical Center & Clinics
-- 📍 **Location:** Bellevue, WA
-- 💰 **Salary:** $41.11 - $66.60
+### [Correctional Case Manager](https://www.linkedin.com/jobs/view/4431905779/) — State of Oklahoma
+- 📍 **Location:** Cleveland County, OK
+- 🕒 **Posted:** 2026-06-30
+
+### [Case Manager - Temporary (Up to 12 Months)](https://www.linkedin.com/jobs/view/4428880729/) — City of Kingston
+- 📍 **Location:** Kingston, Ontario, Canada
+- 💰 **Salary:** $32.36/hr - CA$40.33/hr
+- 🕒 **Posted:** 2026-06-30
+
+### [Dietetic Family Support Worker (Assistant Practitioner)](https://www.linkedin.com/jobs/view/4431920281/) — Betsi Cadwaladr University Health Board
+- 📍 **Location:** Llangefni, Wales, United Kingdom
+- 🕒 **Posted:** 2026-06-30
+
+### [Program Coordinator – HOPE Program](https://www.linkedin.com/jobs/view/4431913638/) — Better Place Australia
+- 📍 **Location:** Narre Warren, Victoria, Australia
+- 🕒 **Posted:** 2026-06-30
+
+### [Customer Service Team Leader](https://www.linkedin.com/jobs/view/4434972556/) — William Hill
+- 📍 **Location:** Aberdeen, Scotland, United Kingdom
+- 🕒 **Posted:** 2026-06-30
+
+### [Social Worker](https://www.linkedin.com/jobs/view/4334472767/) — DaVita Kidney Care
+- 📍 **Location:** Cambridge, MA
+- 💰 **Salary:** $72,000.00/yr - $120,000.00/yr
 - 🕒 **Posted:** 2026-06-30
