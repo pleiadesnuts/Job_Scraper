@@ -1,8 +1,8 @@
 # 🏛 NEOGOV — State & Local Government Social Worker Roles
-*Last updated: 2026-06-30 21:51 UTC*
+*Last updated: 2026-07-01 22:07 UTC*
 
-**1 new role(s)** since last run · 1 total in recent GovernmentJobs postings
+**1 new role(s)** since last run · 2 total in recent GovernmentJobs postings
 
-### [Water Quality Supervisor](https://www.governmentjobs.com/jobs/5392061-0/water-quality-supervisor) — City of Eureka
-- 📍 **Location:** WWTP - 4301 Hilfiker Lane Eureka CA 95501, CA
-- 💰 **Salary:** $69,300.00 - $84,228.00 Annually
+### [Environmental Health Specialist Supervisor I/II](https://www.governmentjobs.com/jobs/5389197-0/environmental-health-specialist-supervisor-i-ii) — County of Lake
+- 📍 **Location:** Lake County, CA
+- 💰 **Salary:** $82,950.40 - $105,934.40 Annually

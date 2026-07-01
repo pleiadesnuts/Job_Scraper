@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-06-30 21:51 UTC",
-  "total": 9,
-  "new_count": 2,
+  "scraped_at": "2026-07-01 22:07 UTC",
+  "total": 6,
+  "new_count": 0,
   "jobs": [
     {
       "company": "San Mateo County Transit District Samtrans",
@@ -31,39 +31,12 @@
       "ats": "CalOpps"
     },
     {
-      "company": "San Jose",
-      "title": "Program Manager (Budget)- Department of Transportation",
-      "location": "South Bay",
-      "url": "https://www.calopps.org/san-jose/job-20751640",
-      "date_posted": "",
-      "salary": "$134,490.72-$174,851.04 Annually",
-      "ats": "CalOpps"
-    },
-    {
       "company": "Daly City",
       "title": "Support Dog Program Coordinator",
       "location": "San Francisco/Peninsula",
       "url": "https://www.calopps.org/daly-city/job-20749975",
       "date_posted": "",
       "salary": "$7,808.00-$9,492.00 Monthly",
-      "ats": "CalOpps"
-    },
-    {
-      "company": "Lincoln",
-      "title": "Police Records Supervisor",
-      "location": "Sacramento/Metro Area",
-      "url": "https://www.calopps.org/lincoln/job-20749477",
-      "date_posted": "",
-      "salary": "$5,795.85-$7,767.00 Monthly",
-      "ats": "CalOpps"
-    },
-    {
-      "company": "San Jose",
-      "title": "Parks, Recreation, and Facilities Supervisor- Happy Hollow Park & Zoo- Services (PRNS)",
-      "location": "South Bay",
-      "url": "https://www.calopps.org/san-jose/job-20747753",
-      "date_posted": "",
-      "salary": "$112,563.36-$137,220.72 Annually",
       "ats": "CalOpps"
     },
     {
@@ -85,24 +58,5 @@
       "ats": "CalOpps"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Placer",
-      "title": "Parks Crew Supervisor",
-      "location": "Sacramento/Metro Area",
-      "url": "https://www.calopps.org/placer/job-20745667",
-      "date_posted": "",
-      "salary": "$73,548.80-$91,852.80 Annually",
-      "ats": "CalOpps"
-    },
-    {
-      "company": "San Mateo County",
-      "title": "Group Supervisor I/II- Probation Department (Open and Promotional)",
-      "location": "San Francisco/Peninsula",
-      "url": "https://www.calopps.org/san-mateo-county/job-20739698",
-      "date_posted": "",
-      "salary": "$85,259.20-$106,641.60 Annually",
-      "ats": "CalOpps"
-    }
-  ]
+  "new_jobs": []
 }
