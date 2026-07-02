@@ -1,79 +1,80 @@
 # 🟦 Indeed — Social Worker Roles
-*Last updated: 2026-06-30 21:31 UTC*
+*Last updated: 2026-07-02 20:38 UTC*
 
 **11 new role(s)** since last run · 11 total in last 24h
 
-### [CASE MANAGER](https://www.indeed.com/viewjob?jk=86c10c0efaaccac1) — Denver Rescue Mission
-- 📍 **Location:** Denver, CO, US
-- 💰 **Salary:** $25–$27/hr
-- **Work mode:** On-site
-- 🕒 **Posted:** 2026-06-29
-
-### [Social Worker - School Based Mental Health Provider](https://www.indeed.com/viewjob?jk=9ee9b31a177149af) — Global Village Academy
+### [Case Manager](https://www.indeed.com/viewjob?jk=d49d20085b43bb54) — Ernest Health
 - 📍 **Location:** Thornton, CO, US
-- 💰 **Salary:** $65k–$88k/yr
+- 💰 **Salary:** $83k–$99k/yr
 - **Work mode:** On-site
 - **Job type:** fulltime
-- 🕒 **Posted:** 2026-06-30
+- 🕒 **Posted:** 2026-07-01
 
-### [Palliative Care Social Worker](https://www.indeed.com/viewjob?jk=1e34cb487c535317) — Mount Evans Home Health Care & Hospice
-- 📍 **Location:** Evergreen, CO, US
-- 💰 **Salary:** $33–$42/hr
+### [Registered Nurse Case Manager (1099) - Denver, CO](https://www.indeed.com/viewjob?jk=e873bede76b0eba4) — The IMA Group
+- 📍 **Location:** Denver, CO, US
+- 💰 **Salary:** $50–$65/hr
 - **Work mode:** On-site
-- **Job type:** parttime
+- **Job type:** contract
+- 🕒 **Posted:** 2026-07-01
+
+### [RN Care Coordinator](https://www.indeed.com/viewjob?jk=032af7640702de98) — CommonSpirit Health
+- 📍 **Location:** Lakewood, CO, US
+- 💰 **Salary:** $34–$61/hr
+- **Work mode:** On-site
 - 🕒 **Posted:** 2026-06-30
 
-### [Traffic Control Supervisor](https://www.indeed.com/viewjob?jk=3e72a20f4e9a339e) — SiteWise
-- 📍 **Location:** Henderson, CO, US
-- 💰 **Salary:** $30–$34/hr
+### [Case Manager - Per Diem](https://www.indeed.com/viewjob?jk=b5a5f6dec5f0f9ea) — Optum
+- 📍 **Location:** Boulder, CO, US
+- 💰 **Salary:** $29–$52/hr
+- **Work mode:** Remote in-state eligible
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-07-02
+
+### [Tree Care Coordinator | SE Denver](https://www.indeed.com/viewjob?jk=ab3b32a8bfee9169) — Davey Tree
+- 📍 **Location:** Denver, CO, US
+- 💰 **Salary:** $34–$40/hr
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-07-02
+
+### [Social Worker MSW PRN](https://www.indeed.com/viewjob?jk=f18d821c5ec9d480) — HCA HealthONE Swedish
+- 📍 **Location:** Englewood, CO, US
+- 💰 **Salary:** $30–$46/hr
 - **Work mode:** On-site
 - **Job type:** perdiem
-- 🕒 **Posted:** 2026-06-30
+- 🕒 **Posted:** 2026-07-01
 
-### [Clinical Supervisor](https://www.indeed.com/viewjob?jk=a6f2da546937ec0c) — DogStar Revolution Recovery
+### [Vocational Case Manager](https://www.indeed.com/viewjob?jk=d9ffb62569f61d6e) — Enlyte
 - 📍 **Location:** Denver, CO, US
-- 💰 **Salary:** $78k–$94k/yr
-- **Work mode:** Remote in-state eligible
-- **Job type:** temporary, parttime, fulltime, contract
-- 🕒 **Posted:** 2026-06-29
+- 💰 **Salary:** $70k–$85k/yr
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-07-01
 
-### [Roadside Intake Specialist](https://www.indeed.com/viewjob?jk=92658fcec7a779a5) — Unknown
-- 📍 **Location:** Brighton, CO, US
-- 💰 **Salary:** $18–$22/hr
+### [Transitions of Care RN Case Manager](https://www.indeed.com/viewjob?jk=c2a65ed8243db994) — Devoted Health
+- 📍 **Location:** Remote, US
+- 💰 **Salary:** $85k–$100k/yr
 - **Work mode:** Remote in-state eligible
 - **Job type:** fulltime
-- 🕒 **Posted:** 2026-06-29
+- 🕒 **Posted:** 2026-07-02
 
-### [Supervisor, Clinical Program - Project Recovery](https://www.indeed.com/viewjob?jk=336ce8f41d7f75b5) — ChristianaCare
+### [Licensed Master Social Worker (Remote)](https://www.indeed.com/viewjob?jk=f08b72004a2aff3b) — Mount Behavioral Health
 - 📍 **Location:** Remote, US
-- 💰 **Salary:** $74k–$118k/yr
+- 💰 **Salary:** $40–$50/hr
+- **Work mode:** Remote in-state eligible
+- **Job type:** parttime
+- 🕒 **Posted:** 2026-07-02
+
+### [Pre-Service RN Care Coordinator - EviCore - Work at Home](https://www.indeed.com/viewjob?jk=b2a2a8342944f0c4) — The Cigna Group
+- 📍 **Location:** Remote, US
+- 💰 **Salary:** $31–$52/hr
 - **Work mode:** Remote in-state eligible
 - **Job type:** fulltime
-- 🕒 **Posted:** 2026-06-30
+- 🕒 **Posted:** 2026-07-02
 
-### [Supervisor, Worker's Comp & VA Authorization](https://www.indeed.com/viewjob?jk=253b69717b5c56d4) — GxP Partners
+### [IT Compliance and Program Manager](https://www.indeed.com/viewjob?jk=26b74b5337b6d9e9) — Unknown
 - 📍 **Location:** Remote, US
-- 💰 **Salary:** $58k–$65k/yr
+- 💰 **Salary:** $105k–$145k/yr
 - **Work mode:** Remote in-state eligible
 - **Job type:** fulltime
-- 🕒 **Posted:** 2026-06-30
-
-### [Supervisor - Clinical Operations, Nurse](https://www.indeed.com/viewjob?jk=e52a61ad249d8b6a) — G.E.H.A
-- 📍 **Location:** Remote, US
-- 💰 **Salary:** $93k–$117k/yr
-- **Work mode:** Remote in-state eligible
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-06-29
-
-### [Care Coordinator (Medical Assistant)](https://www.indeed.com/viewjob?jk=78e4be5c4a73a1b4) — RAYA
-- 📍 **Location:** Remote, US
-- 💰 **Salary:** $18–$23/hr
-- **Work mode:** Remote in-state eligible
-- **Job type:** parttime, fulltime
-- 🕒 **Posted:** 2026-06-30
-
-### [Revenue Cycle Supervisor - Prior Authorizations](https://www.indeed.com/viewjob?jk=3efeaa2f98875a9d) — Metro Vein Centers
-- 📍 **Location:** Remote, US
-- **Work mode:** Remote in-state eligible
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-06-29
+- 🕒 **Posted:** 2026-07-02
