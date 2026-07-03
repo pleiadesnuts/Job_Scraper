@@ -1,20 +1,8 @@
 {
-  "scraped_at": "2026-07-02 20:39 UTC",
-  "total": 2,
+  "scraped_at": "2026-07-03 20:35 UTC",
+  "total": 1,
   "new_count": 0,
   "jobs": [
-    {
-      "company": "CA High Speed Rail Authority",
-      "title": "Attorney Supervisor",
-      "location": "Sacramento County",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=522336",
-      "date_posted": "2026-06-22",
-      "salary": "$12590.00 - $16900.00",
-      "ats": "CalCareers",
-      "telework": "Hybrid",
-      "job_type": "Permanent, Full Time",
-      "work_arrangement": "Telecommute eligible"
-    },
     {
       "company": "Department of Public Health",
       "title": "Standardization and Continuous Improvement Supervisor",
