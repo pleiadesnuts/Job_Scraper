@@ -1,5 +1,5 @@
 # 🏛 NEOGOV — State & Local Government Social Worker Roles
-*Last updated: 2026-07-02 20:43 UTC*
+*Last updated: 2026-07-03 20:39 UTC*
 
 **0 new role(s)** since last run · 2 total in recent GovernmentJobs postings
 
