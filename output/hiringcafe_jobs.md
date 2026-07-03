@@ -1,42 +1,36 @@
 # ☕ HiringCafe — Social Worker Roles
-*Last updated: 2026-07-03 08:38 UTC*
+*Last updated: 2026-07-03 20:42 UTC*
 
-**6 new role(s)** since last run · 80 total in last 30d
+**5 new role(s)** since last run · 80 total in last 30d
 
-### [Case Manager](https://www.applitrack.com/asheville/onlineapp/jobpostings/view.asp?AppliTrackJobId=3123) — Asheville City Schools
-- 📍 **Location:** Asheville, North Carolina, United States
-- **Work mode:** On-site
-- **Job type:** Full Time, Temporary
-- 🕒 **Posted:** 2026-07-02T12:00:00.000Z
-
-### [Senior Case Manager](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4303636) — St. Matthew's House
-- 📍 **Location:** Naples, Florida, United States
+### [Social Worker](https://rosegardennj.isolvedhire.com/jobs/1813059) — Rose Garden Nursing & Rehabilitation Center (formerly known as LTCC Inc)
+- 📍 **Location:** Toms River, New Jersey, United States
+- 💰 **Salary:** $50k/yr
 - **Work mode:** On-site
 - **Job type:** Full Time
-- 🕒 **Posted:** 2026-07-02T18:46:10.000Z
+- 🕒 **Posted:** 2026-07-03T00:00:00.000Z
 
-### [Program Coordinator](https://jobs.silkroad.com/NYULangone/NYULHCareers/jobs/122449?embedded=true) — NYU Langone Health
-- 📍 **Location:** New York, New York, United States
-- 💰 **Salary:** $61k–$68k/yr
+### [Social Worker](https://lcmchealth.wd1.myworkdayjobs.com/lcmchealth/job/LCMC---1401-Foucher-Street/Social-Worker_JR0039481) — Lcmchealth
+- 📍 **Location:** New Orleans, Louisiana, United States
+- **Work mode:** On-site
+- **Job type:** Full Time
+- 🕒 **Posted:** 2026-07-03T00:00:00.000Z
+
+### [Program Coordinator](https://rushprod-lm01.cloud.infor.com:1444/lmghr/CandidateSelfService/lm?dataarea=lmghr&_frommenu=true&context.dataarea=lmghr&context.session.key.JobBoard=RUSHEXTERNAL&context.session.key.HROrganization=10&JobReq=27609&JobPost=2) — Rush University Medical Center
+- 📍 **Location:** Chicago, Illinois, United States
+- 💰 **Salary:** $52k–$83k/yr
 - **Work mode:** Telecommute eligible
 - **Job type:** Full Time
-- 🕒 **Posted:** 2026-07-02T23:20:18.419Z
+- 🕒 **Posted:** 2026-06-11T00:00:00.000Z
 
-### [Cyber Program Coordinator](https://ats.rippling.com/netrio/jobs/e343066d-8f7d-4940-82e1-a00879ccb039) — Netrio
-- 📍 **Location:** United States
-- **Work mode:** Remote in-state eligible
-- **Job type:** Full Time
-- 🕒 **Posted:** 2026-07-01T20:30:47.304Z
-
-### [Community Program Coordinator](https://sanford.wd5.myworkdayjobs.com/sanfordhealth/job/SD-Sioux-Falls/Community-Program-Coordinator_R-0262768) — Sanford
-- 📍 **Location:** Sioux Falls, South Dakota, United States
-- 💰 **Salary:** $47k–$75k/yr
+### [Program Coordinator II](https://careers-usu.icims.com/jobs/10423/program-coordinator-ii/job?in_iframe=1) — Utah State University
+- 📍 **Location:** Logan, Utah, United States
 - **Work mode:** On-site
 - **Job type:** Full Time
-- 🕒 **Posted:** 2026-06-12T00:00:00.000Z
+- 🕒 **Posted:** 2026-06-24T04:00:00.000Z
 
-### [Community Health Worker](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4304011) — Central Oregon Pediatric Associates
-- 📍 **Location:** Bend, Oregon, United States
-- **Work mode:** Telecommute eligible
+### [Community Health Worker](https://css-emh-prd.inforcloudsuite.com/hcm/Jobs/navigation/JobPosting%5BJobPostingSet%5D(10,89749,1).JobPostingDisplayNav?csk.HROrganization=10&csk.JobBoard=EXTERNAL) — emh
+- 📍 **Location:** Ellsworth, Maine, United States
+- **Work mode:** On-site
 - **Job type:** Full Time
-- 🕒 **Posted:** 2026-07-02T21:59:24.000Z
+- 🕒 **Posted:** 2026-06-16T00:00:00.000Z
