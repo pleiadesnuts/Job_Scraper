@@ -1,112 +1,148 @@
 # 🔥 LinkedIn — Social Worker Roles
-*Last updated: 2026-07-04 09:19 UTC*
+*Last updated: 2026-07-04 18:50 UTC*
 
-**24 new role(s)** since last run · 24 total in last 1h
+**32 new role(s)** since last run · 32 total in last 1h
 
-### [Behavioral Health Specialist II - Intensive Case Management](https://www.linkedin.com/jobs/view/4435766974/) — Fairfax County Government
-- 📍 **Location:** Fairfax, VA
-- 💰 **Salary:** $72,125.46/yr - $120,208.82/yr
+### [Security & Facilities Supervisor](https://www.linkedin.com/jobs/view/4425350533/) — RK Industries
+- 📍 **Location:** Denver, CO
 - 🕒 **Posted:** 2026-07-04
 
-### [Peer Support Specialist (Peer Recovery Spec II) - BHOP Turning Point](https://www.linkedin.com/jobs/view/4435772816/) — Fairfax County Government
-- 📍 **Location:** Fairfax, VA
-- 💰 **Salary:** $45,255.39/yr - $75,424.96/yr
+### [Housing Specialist](https://www.linkedin.com/jobs/view/4422457462/) — Idaho Housing and Finance Association
+- 📍 **Location:** Coeur d'Alene, ID
 - 🕒 **Posted:** 2026-07-04
 
-### [Medical Assistant and Wellness Coordinator](https://www.linkedin.com/jobs/view/4406726203/) — Susquehanna International Group
-- 📍 **Location:** Bala-Cynwyd, PA
+### [Healing Home Supervisor](https://www.linkedin.com/jobs/view/4436001506/) — The Link: Youth and Family Supports
+- 📍 **Location:** Winnipeg, Manitoba, Canada
 - 🕒 **Posted:** 2026-07-04
 
-### [Case Manager II - Mental Health 368](https://www.linkedin.com/jobs/view/4368391696/) — Telecare Corporation
-- 📍 **Location:** Sacramento, CA
-- 💰 **Salary:** $21.00 - $23.24
+### [Finance Case Manager Specialist](https://www.linkedin.com/jobs/view/4433747775/) — Gila County
+- 📍 **Location:** Globe, AZ
 - 🕒 **Posted:** 2026-07-04
 
-### [Medical Field Case Manager](https://www.linkedin.com/jobs/view/4427219799/) — Enlyte
-- 📍 **Location:** Twin Falls, ID
-- 💰 **Salary:** $65,000- $69,000 annually
+### [SOCIAL WORKER](https://www.linkedin.com/jobs/view/4433749674/) — State of Arizona
+- 📍 **Location:** Yuma, AZ
 - 🕒 **Posted:** 2026-07-04
 
-### [Medical Field Case Manager](https://www.linkedin.com/jobs/view/4427214823/) — Enlyte
-- 📍 **Location:** Irvine, CA
-- 💰 **Salary:** $90,000 - $95,000 annually
+### [Military to Civilian tech retooling/transition specialist](https://www.linkedin.com/jobs/view/4436003445/) — Dont-tell Inc
+- 📍 **Location:** Greater Toronto Area, Canada
 - 🕒 **Posted:** 2026-07-04
 
-### [Senior Social Worker](https://www.linkedin.com/jobs/view/4436950012/) — Children's Social Work Matters
-- 📍 **Location:** York, England, United Kingdom
+### [Clinical Program Supervisor ASAP](https://www.linkedin.com/jobs/view/4414066029/) — Metropolitan Family Services
+- 📍 **Location:** Wheaton, IL
 - 🕒 **Posted:** 2026-07-04
 
-### [Vocational Case Manager](https://www.linkedin.com/jobs/view/4414077400/) — Enlyte
-- 📍 **Location:** Portland, OR
-- 💰 **Salary:** $85,000 - $90,000 annually
+### [Social Worker MSW](https://www.linkedin.com/jobs/view/4377092593/) — HCA Florida Osceola Hospital
+- 📍 **Location:** Kissimmee, FL
 - 🕒 **Posted:** 2026-07-04
 
-### [Case Manager - Vocational Services (60805)](https://www.linkedin.com/jobs/view/4435779614/) — Aurora Mental Health & Recovery
-- 📍 **Location:** Aurora, CO
-- 💰 **Salary:** $21.03/hr - $31.56/hr
+### [Patient Care Coordinator-West York clinic](https://www.linkedin.com/jobs/view/4417781639/) — Drayer Physical Therapy Institute
+- 📍 **Location:** York, PA
 - 🕒 **Posted:** 2026-07-04
 
-### [Care Coordinator](https://www.linkedin.com/jobs/view/4418990401/) — Ontario Health atHome
-- 📍 **Location:** Kenora, Ontario, Canada
-- 💰 **Salary:** $39.89 - $51.14 per hour
-- 🕒 **Posted:** 2026-07-04
-
-### [Case Manager - FT | Beaumont Rehab](https://www.linkedin.com/jobs/view/4428165604/) — PAM Health Rehabilitation Hospital of Beaumont
-- 📍 **Location:** Beaumont, TX
-- 🕒 **Posted:** 2026-07-04
-
-### [Housing Program Coordinator – NCAA Championship Housing](https://www.linkedin.com/jobs/view/4428136695/) — On Location
-- 📍 **Location:** Colorado, United States
-- 🕒 **Posted:** 2026-07-04
-
-### [Housing Program Coordinator – NCAA Championship Housing](https://www.linkedin.com/jobs/view/4425300909/) — TKO
-- 📍 **Location:** Colorado, United States
-- 🕒 **Posted:** 2026-07-04
-
-### [Housing Program Coordinator – NCAA Championship Housing](https://www.linkedin.com/jobs/view/4428142560/) — On Location
-- 📍 **Location:** Florida, United States
-- 🕒 **Posted:** 2026-07-04
-
-### [Housing Program Coordinator – NCAA Championship Housing](https://www.linkedin.com/jobs/view/4428141576/) — On Location
-- 📍 **Location:** California, United States
-- 🕒 **Posted:** 2026-07-04
-
-### [Housing Program Coordinator – NCAA Championship Housing](https://www.linkedin.com/jobs/view/4428129741/) — On Location
-- 📍 **Location:** Texas, United States
-- 🕒 **Posted:** 2026-07-04
-
-### [Housing Program Coordinator – NCAA Championship Housing](https://www.linkedin.com/jobs/view/4428124819/) — On Location
-- 📍 **Location:** Georgia, United States
-- 🕒 **Posted:** 2026-07-04
-
-### [Housing Program Coordinator – NCAA Championship Housing](https://www.linkedin.com/jobs/view/4425311489/) — TKO
-- 📍 **Location:** Florida, United States
-- 🕒 **Posted:** 2026-07-04
-
-### [Housing Program Coordinator – NCAA Championship Housing](https://www.linkedin.com/jobs/view/4425316030/) — TKO
-- 📍 **Location:** Georgia, United States
-- 🕒 **Posted:** 2026-07-04
-
-### [Housing Program Coordinator – NCAA Championship Housing](https://www.linkedin.com/jobs/view/4425300908/) — TKO
-- 📍 **Location:** Texas, United States
-- 🕒 **Posted:** 2026-07-04
-
-### [Medical Field Case Manager](https://www.linkedin.com/jobs/view/4407305927/) — Enlyte
-- 📍 **Location:** Cape Girardeau, MO
-- 💰 **Salary:** $63,000 - $68,000 annually
-- 🕒 **Posted:** 2026-07-04
-
-### [Case Manager II - Mental Health 269](https://www.linkedin.com/jobs/view/4409029455/) — Telecare Corporation
-- 📍 **Location:** Tukwila, WA
-- 💰 **Salary:** $21.65 - $22.52
-- 🕒 **Posted:** 2026-07-04
-
-### [Case Manager CADC CATC SUDCC - Mental Health 602](https://www.linkedin.com/jobs/view/4399420023/) — Telecare Corporation
+### [Healthcare Coordinator](https://www.linkedin.com/jobs/view/4400662161/) — PDS Health
 - 📍 **Location:** San Diego, CA
-- 💰 **Salary:** $26.50 - $32.50/hr
+- 💰 **Salary:** $18.00/hr - $25.50/hr
 - 🕒 **Posted:** 2026-07-04
 
-### [Medical Field Case Manager](https://www.linkedin.com/jobs/view/4427211874/) — Enlyte
-- 📍 **Location:** Huntington Beach, CA
-- 💰 **Salary:** $90,000 - $95,000 annually
+### [Healthcare Coordinator](https://www.linkedin.com/jobs/view/4428173713/) — PDS Health
+- 📍 **Location:** Colorado Springs, CO
+- 💰 **Salary:** $19.75/hr - $28.00/hr
+- 🕒 **Posted:** 2026-07-04
+
+### [Press Freedom Program Coordinator](https://www.linkedin.com/jobs/view/4428172444/) — The Washington Post
+- 📍 **Location:** Washington, DC
+- 🕒 **Posted:** 2026-07-04
+
+### [Program Coordinator](https://www.linkedin.com/jobs/view/4428161215/) — University of Mississippi
+- 📍 **Location:** University, MS
+- 💰 **Salary:** $18.64 - $27.96
+- 🕒 **Posted:** 2026-07-04
+
+### [INDIVIDUAL PROGRAM COORDINATOR](https://www.linkedin.com/jobs/view/4384755357/) — California Department of Developmental Services
+- 📍 **Location:** Riverside County, CA
+- 💰 **Salary:** $4,296.00/mo - $5,638.00/mo
+- 🕒 **Posted:** 2026-07-04
+
+### [Stroke Program Coordinator](https://www.linkedin.com/jobs/view/4436970193/) — Garnet Health Medical Center
+- 📍 **Location:** Middletown, NY
+- 🕒 **Posted:** 2026-07-04
+
+### [Healthcare Coordinator](https://www.linkedin.com/jobs/view/4409455334/) — PDS Health
+- 📍 **Location:** Fort Myers, FL
+- 💰 **Salary:** $18.00/hr - $25.50/hr
+- 🕒 **Posted:** 2026-07-04
+
+### [Healthcare Coordinator](https://www.linkedin.com/jobs/view/4418192034/) — PDS Health
+- 📍 **Location:** Sarasota, FL
+- 💰 **Salary:** $18.00/hr - $25.50/hr
+- 🕒 **Posted:** 2026-07-04
+
+### [Healthcare Coordinator](https://www.linkedin.com/jobs/view/4418448073/) — PDS Health
+- 📍 **Location:** Overland Park, KS
+- 💰 **Salary:** $16.50/hr - $23.00/hr
+- 🕒 **Posted:** 2026-07-04
+
+### [Healthcare Coordinator](https://www.linkedin.com/jobs/view/4400261277/) — PDS Health
+- 📍 **Location:** San Antonio, TX
+- 💰 **Salary:** $15.75/hr - $22.00/hr
+- 🕒 **Posted:** 2026-07-04
+
+### [Healthcare Coordinator](https://www.linkedin.com/jobs/view/4399483846/) — PDS Health
+- 📍 **Location:** Swampscott, MA
+- 💰 **Salary:** $19.00/hr - $26.75/hr
+- 🕒 **Posted:** 2026-07-04
+
+### [Healthcare Coordinator](https://www.linkedin.com/jobs/view/4400331060/) — PDS Health
+- 📍 **Location:** Chatsworth, CA
+- 💰 **Salary:** $18.00/hr - $25.50/hr
+- 🕒 **Posted:** 2026-07-04
+
+### [Healthcare Coordinator](https://www.linkedin.com/jobs/view/4428188433/) — PDS Health
+- 📍 **Location:** Roseville, CA
+- 💰 **Salary:** $20.75/hr - $29.00/hr
+- 🕒 **Posted:** 2026-07-04
+
+### [Case Manager Family Services (Multilingual)](https://www.linkedin.com/jobs/view/4435794914/) — Lutheran Community Services Northwest
+- 📍 **Location:** Gresham, OR
+- 🕒 **Posted:** 2026-07-04
+
+### [CCBHC - Clinical Supervisor](https://www.linkedin.com/jobs/view/4425313845/) — Metropolitan Family Services
+- 📍 **Location:** Merrionette Park, IL
+- 💰 **Salary:** $78,000-$90,000 annually
+- 🕒 **Posted:** 2026-07-04
+
+### [Employment Intake Specialist (Wage & Hour)](https://www.linkedin.com/jobs/view/4406425238/) — West Coast Trial Lawyers
+- 📍 **Location:** Los Angeles, CA
+- 💰 **Salary:** $70,000 – $80,000
+- 🕒 **Posted:** 2026-07-04
+
+### [Social Worker PRN](https://www.linkedin.com/jobs/view/4428364118/) — Mountain View Hospital, Payson, UT
+- 📍 **Location:** Payson, UT
+- 🕒 **Posted:** 2026-07-04
+
+### [Care Coordinator (Care Manager) - Registered Nurse (RN), Social Worker, or Clinical Counselor - R10249-27](https://www.linkedin.com/jobs/view/4348099229/) — CareSource
+- 📍 **Location:** Ohio, United States
+- 💰 **Salary:** $62,700.00 - $100,400.00
+- 🕒 **Posted:** 2026-07-04
+
+### [Care Coordinator (Care Manager) - Registered Nurse (RN), Social Worker, or Clinical Counselor - R10249-24](https://www.linkedin.com/jobs/view/4348312218/) — CareSource
+- 📍 **Location:** Cleveland, OH
+- 💰 **Salary:** $62,700.00 - $100,400.00
+- 🕒 **Posted:** 2026-07-04
+
+### [Clinical Social Worker, LICSW Child Protection  30 hours](https://www.linkedin.com/jobs/view/4428181147/) — Boston Children's Hospital
+- 📍 **Location:** Boston, MA
+- 💰 **Salary:** $46,659.60/yr - $74,646.00/yr
+- 🕒 **Posted:** 2026-07-04
+
+### [Clinical Social Worker - LMSW](https://www.linkedin.com/jobs/view/4375272884/) — Trinity Health MI
+- 📍 **Location:** Muskegon, MI
+- 🕒 **Posted:** 2026-07-04
+
+### [Case Manager](https://www.linkedin.com/jobs/view/4433759132/) — PAM Health Rehabilitation Hospital of Georgetown
+- 📍 **Location:** Georgetown, DE
+- 🕒 **Posted:** 2026-07-04
+
+### [Case Manager Certified](https://www.linkedin.com/jobs/view/4425329567/) — Houston Methodist
+- 📍 **Location:** Sugar Land, TX
 - 🕒 **Posted:** 2026-07-04
