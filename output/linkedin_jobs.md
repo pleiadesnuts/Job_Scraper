@@ -1,55 +1,97 @@
 # 🔥 LinkedIn — Social Worker Roles
-*Last updated: 2026-07-03 23:54 UTC*
+*Last updated: 2026-07-04 00:27 UTC*
 
-**11 new role(s)** since last run · 11 total in last 1h
+**21 new role(s)** since last run · 29 total in last 1h
 
-### [Client Relations & Intake Specialist](https://www.linkedin.com/jobs/view/4436791915/) — Alder
-- 📍 **Location:** United States
-- 💰 **Salary:** $75,000 - $85,000 annually
+### [Sterile Processing Supervisor](https://www.linkedin.com/jobs/view/4435703588/) — Rock Health
+- 📍 **Location:** Lakewood, CO
+- 🕒 **Posted:** 2026-07-04
+
+### [Nurse Case Manager (RN)](https://www.linkedin.com/jobs/view/4435707512/) — Health Here
+- 📍 **Location:** Parker, CO
+- 💰 **Salary:** $62,030 to $101,547 annually
+- 🕒 **Posted:** 2026-07-04
+
+### [Unit Care Coordinator (Licensed Practical Nurse/LPN)](https://www.linkedin.com/jobs/view/4435708300/) — MEP Health
+- 📍 **Location:** Littleton, CO
+- 🕒 **Posted:** 2026-07-04
+
+### [Registered Nurse Program Coordinator - Orthopedic Operating Room](https://www.linkedin.com/jobs/view/4435702675/) — MEP Health
+- 📍 **Location:** Brighton, CO
+- 🕒 **Posted:** 2026-07-04
+
+### [Program Coordinator I - Otolaryngology](https://www.linkedin.com/jobs/view/4436906706/) — Mount Sinai Morningside
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $66482.07 - $75000 Annually
+- 🕒 **Posted:** 2026-07-04
+
+### [Behavioral Health Care Coordinator](https://www.linkedin.com/jobs/view/4435499690/) — Plan A Health
+- 📍 **Location:** Lannon, WI
+- 🕒 **Posted:** 2026-07-04
+
+### [Virtual Care Coordinator-Works onsite at 42nd st Clinical Command Center- FT- N EOW](https://www.linkedin.com/jobs/view/4436919006/) — Mount Sinai Morningside
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $66482.07 - $72467
+- 🕒 **Posted:** 2026-07-04
+
+### [Program Manager, Cato Courses](https://www.linkedin.com/jobs/view/4435708521/) — Cato Institute
+- 📍 **Location:** Washington, DC
+- 💰 **Salary:** $60,000 to $85,000 per year
+- 🕒 **Posted:** 2026-07-04
+
+### [Behavioral Health Specialist – Richmond Community Hospital](https://www.linkedin.com/jobs/view/4435700781/) — Bon Secours
+- 📍 **Location:** Richmond, VA
+- 🕒 **Posted:** 2026-07-04
+
+### [LPN Care Coordinator](https://www.linkedin.com/jobs/view/4435714130/) — Fairview Hospital / Cleveland Clinic
+- 📍 **Location:** Wrightsville, AR
+- 🕒 **Posted:** 2026-07-04
+
+### [Social Worker (Centre for Positive Recovery)](https://www.linkedin.com/jobs/view/4433715577/) — Epworth Community Services
+- 📍 **Location:** Singapore, Singapore
+- 🕒 **Posted:** 2026-07-04
+
+### [Loyalty Program Coordinator](https://www.linkedin.com/jobs/view/4436905725/) — Aksari Luxury Resort & Spa Ubud
+- 📍 **Location:** Kuta, Bali, Indonesia
+- 🕒 **Posted:** 2026-07-04
+
+### [Nurse Residency Program Coordinator](https://www.linkedin.com/jobs/view/4435709234/) — Bold Steps Behavioral Health
+- 📍 **Location:** Largo, MD
+- 💰 **Salary:** $51.82 to $77.78 per hour
+- 🕒 **Posted:** 2026-07-04
+
+### [Senior Clinical Care Coordinator - Palliative Care](https://www.linkedin.com/jobs/view/4435710284/) — Providence
+- 📍 **Location:** Santa Monica, CA
+- 💰 **Salary:** $26.30/hr - $40.25/hr
+- 🕒 **Posted:** 2026-07-04
+
+### [LPN - Clinical Care Coordinator II](https://www.linkedin.com/jobs/view/4435708449/) — Health Care Administrators Association® (HCAA)
+- 📍 **Location:** Sarasota, FL
+- 🕒 **Posted:** 2026-07-04
+
+### [Senior Clinical Care Coordinator - Palliative Care](https://www.linkedin.com/jobs/view/4435721009/) — Providence
+- 📍 **Location:** Santa Monica, CA
+- 💰 **Salary:** $26.30/hr - $40.25/hr
+- 🕒 **Posted:** 2026-07-04
+
+### [Clinical Social Worker - Psychiatric Inpatient Program (PIP) - Salinas Valley State Prison (SVSP)](https://www.linkedin.com/jobs/view/4436910376/) — California Correctional Health Care Services
+- 📍 **Location:** Monterey, CA
+- 💰 **Salary:** $8,678.00/mo - $10,569.00/mo
+- 🕒 **Posted:** 2026-07-04
+
+### [Patient Care Coordinator - Gladstone Dental Centre](https://www.linkedin.com/jobs/view/4435706224/) — Dentalcorp
+- 📍 **Location:** Halifax, Nova Scotia, Canada
+- 💰 **Salary:** $23.50-$25.50/hour
 - 🕒 **Posted:** 2026-07-03
 
-### [Education Specialist (Neuro Behavioral Program)](https://www.linkedin.com/jobs/view/4435485943/) — Centers Health Care
-- 📍 **Location:** Staten Island, NY
-- 💰 **Salary:** $50,000.00/yr - $50,000.00/yr
+### [Unpaid Volunteer Coordinator Hospice](https://www.linkedin.com/jobs/view/4435702415/) — OPCO Skilled Management
+- 📍 **Location:** Carrollton, TX
 - 🕒 **Posted:** 2026-07-03
 
-### [Public Health Educator](https://www.linkedin.com/jobs/view/4435703405/) — Texas Department of State Health Services
-- 📍 **Location:** Breckenridge, TX
-- 💰 **Salary:** $3,793.41 - $4,399.95
+### [Housekeeping Supervisor](https://www.linkedin.com/jobs/view/4436797808/) — Great Wolf Lodge
+- 📍 **Location:** Gurnee, IL
 - 🕒 **Posted:** 2026-07-03
 
-### [Quality Care Coordinator, Port Alberni](https://www.linkedin.com/jobs/view/4436907462/) — First Nations Health Authority
-- 📍 **Location:** Ladysmith, British Columbia, Canada
-- 💰 **Salary:** $76,530 - $95,662
-- 🕒 **Posted:** 2026-07-03
-
-### [Education Program Coordinator](https://www.linkedin.com/jobs/view/4436901636/) — London Children's Museum
-- 📍 **Location:** London, Ontario, Canada
-- 💰 **Salary:** $44,000 - $48,000
-- 🕒 **Posted:** 2026-07-03
-
-### [Social Worker | Mon-Fri | No Weekends!](https://www.linkedin.com/jobs/view/4435700451/) — Panacea Health Corp
-- 📍 **Location:** Harrisburg, PA
-- 🕒 **Posted:** 2026-07-03
-
-### [Children's Social Worker Talent Pool](https://www.linkedin.com/jobs/view/4207635818/) — Richmond and Wandsworth Councils
-- 📍 **Location:** Wandsworth, England, United Kingdom
-- 🕒 **Posted:** 2026-07-03
-
-### [Patient Care Coordinator](https://www.linkedin.com/jobs/view/4435416328/) — Keplr Vision
-- 📍 **Location:** Durango, CO
-- 💰 **Salary:** $19 - $22 per hour
-- 🕒 **Posted:** 2026-07-03
-
-### [Clinic Care Coordinator](https://www.linkedin.com/jobs/view/4435485443/) — Transformations Care Network
-- 📍 **Location:** Bothell, WA
-- 💰 **Salary:** $25.00/yr - $28.00/yr
-- 🕒 **Posted:** 2026-07-03
-
-### [Veterinary Patient Care Coordinator - Roadside Veterinary Clinic](https://www.linkedin.com/jobs/view/4435496690/) — Mission Pet Health
-- 📍 **Location:** Highland, MI
-- 🕒 **Posted:** 2026-07-03
-
-### [Customer Care Coordinator](https://www.linkedin.com/jobs/view/4436790914/) — ParaMed Home Health Care
-- 📍 **Location:** Kitchener, Ontario, Canada
+### [Housekeeping Supervisor](https://www.linkedin.com/jobs/view/4435703385/) — Minneapolis Health and Rehabilitation
+- 📍 **Location:** Minneapolis, KS
 - 🕒 **Posted:** 2026-07-03
