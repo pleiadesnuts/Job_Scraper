@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-07-03 20:42 UTC",
-  "total": 80,
-  "new_count": 5,
+  "scraped_at": "2026-07-04 07:30 UTC",
+  "total": 78,
+  "new_count": 0,
   "jobs": [
     {
       "company": "County of Shasta",
@@ -54,20 +54,6 @@
       "date_posted": "2026-06-09T00:00:00.000Z",
       "description": "Licensed social worker preferred; high school diploma required; bachelor's in social work or human services desirable; two years geriatric social work experience desirable.",
       "salary": "$52k–$62k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Autumn Lake Healthcare at Long View",
-      "title": "Social Worker",
-      "location": "Manchester, Maryland, United States",
-      "url": "https://jobs.apploi.com/view/1161196?utm_campaign=integration&utm_medium=job-board-search&utm_source=None&ajs_event=LOAD_JOB_PAGE&ajs_aid=3f617530-4530-11e9-a2ca-7e775511d9e3&ajs_prop_search_fetch_id=cafb7f1c0c0e47e394e3021ecfbad10a&ajs_prop_keyword=&ajs_prop_page=1&ajs_prop_city_center=Unselected&ajs_prop_search_order=2&ajs_prop_job_id=1161196&ajs_prop_doc_type=job&ajs_prop_job_location_lat=39.6648925&ajs_prop_job_location_lon=-76.8878952&ajs_prop_boosted=0&ajs_prop_utm_source=None&ajs_prop_utm_medium=job-board-search&ajs_prop_utm_campaign=integration",
-      "direct_url": "https://jobs.apploi.com/view/1161196?utm_campaign=integration&utm_medium=job-board-search&utm_source=None&ajs_event=LOAD_JOB_PAGE&ajs_aid=3f617530-4530-11e9-a2ca-7e775511d9e3&ajs_prop_search_fetch_id=cafb7f1c0c0e47e394e3021ecfbad10a&ajs_prop_keyword=&ajs_prop_page=1&ajs_prop_city_center=Unselected&ajs_prop_search_order=2&ajs_prop_job_id=1161196&ajs_prop_doc_type=job&ajs_prop_job_location_lat=39.6648925&ajs_prop_job_location_lon=-76.8878952&ajs_prop_boosted=0&ajs_prop_utm_source=None&ajs_prop_utm_medium=job-board-search&ajs_prop_utm_campaign=integration",
-      "date_posted": "2026-06-04T00:00:00.000Z",
-      "description": "Valid social worker license required; previous social work experience preferred; full-time, Monday–Friday schedule; competitive pay and benefits.",
-      "salary": "$73k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
@@ -438,20 +424,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "HANAC, Inc.",
-      "title": "Case Manager",
-      "location": "Astoria, New York, United States",
-      "url": "http://hanac.applytojob.com/apply/EzLvIaStWe/Case-Manager",
-      "direct_url": "http://hanac.applytojob.com/apply/EzLvIaStWe/Case-Manager",
-      "date_posted": "2026-06-23T00:00:00.000Z",
-      "description": "Associate's or Bachelor's in human services/social work/criminal justice required, 1 year case management or victim services experience preferred, proficiency with Microsoft Office and electronic case management systems, strong communication and documentation skills; background check and fingerprinting required.",
-      "salary": "$46k/yr",
-      "job_type": "Part Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "The W Group Mgmt",
       "title": "Case Manager / Financial Case Manager",
       "location": "Far Rockaway, New York, United States",
@@ -461,6 +433,20 @@
       "description": "Coordinate resident services and admissions, manage financial casework including Medicaid applications, maintain documentation, communicate with families and care providers; 1 year case management experience required.",
       "salary": "$50k–$58k/yr",
       "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "HANAC, Inc.",
+      "title": "Case Manager",
+      "location": "Astoria, New York, United States",
+      "url": "http://hanac.applytojob.com/apply/EzLvIaStWe/Case-Manager",
+      "direct_url": "http://hanac.applytojob.com/apply/EzLvIaStWe/Case-Manager",
+      "date_posted": "2026-06-23T00:00:00.000Z",
+      "description": "Associate's or Bachelor's in human services/social work/criminal justice required, 1 year case management or victim services experience preferred, proficiency with Microsoft Office and electronic case management systems, strong communication and documentation skills; background check and fingerprinting required.",
+      "salary": "$46k/yr",
+      "job_type": "Part Time",
       "is_remote": false,
       "work_arrangement": "On-site",
       "ats": "HiringCafe"
@@ -606,6 +592,20 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "Olemiss",
+      "title": "Program Coordinator",
+      "location": "Oxford, Mississippi, United States",
+      "url": "https://olemiss.wd12.myworkdayjobs.com/external__staff/job/University-MS/Program-Coordinator_JR102636",
+      "direct_url": "https://olemiss.wd12.myworkdayjobs.com/external__staff/job/University-MS/Program-Coordinator_JR102636",
+      "date_posted": "2026-06-16T00:00:00.000Z",
+      "description": "Bachelor's degree and 3 years relevant experience required. Experience with grant administration, fiscal/budget tasks, program implementation, outreach, reporting, writing/editing materials, and coordinating staff and events.",
+      "salary": "$52k–$77k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
       "company": "Everforth ECS Federal",
       "title": "Program Coordinator",
       "location": "Washington, District Of Columbia, United States",
@@ -629,20 +629,6 @@
       "description": "Organized communicator comfortable with Microsoft 365, forms/spreadsheets, scheduling systems; experience in program coordination or community outreach preferred; able to support events, participant needs, and uphold Islamic etiquette.",
       "salary": "$42k–$52k/yr",
       "job_type": "Part Time, Contract",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Olemiss",
-      "title": "Program Coordinator",
-      "location": "Oxford, Mississippi, United States",
-      "url": "https://olemiss.wd12.myworkdayjobs.com/external__staff/job/University-MS/Program-Coordinator_JR102636",
-      "direct_url": "https://olemiss.wd12.myworkdayjobs.com/external__staff/job/University-MS/Program-Coordinator_JR102636",
-      "date_posted": "2026-06-16T00:00:00.000Z",
-      "description": "Bachelor's degree and 3 years relevant experience required. Experience with grant administration, fiscal/budget tasks, program implementation, outreach, reporting, writing/editing materials, and coordinating staff and events.",
-      "salary": "$52k–$77k/yr",
-      "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
       "ats": "HiringCafe"
@@ -690,20 +676,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Duke Careers",
-      "title": "Program Coordinator",
-      "location": "Durham, North Carolina, United States",
-      "url": "https://careers.duke.edu/job/Durham-Program-Coordinator-NC-27710/1404593100/",
-      "direct_url": "https://careers.duke.edu/job/Durham-Program-Coordinator-NC-27710/1404593100/",
-      "date_posted": "2026-06-30T00:00:00.000Z",
-      "description": "Bachelors-level education typically required, 1+ year program or event administration experience, strong organizational and communication skills, budget/expense processing, website/content management, and ability to coordinate in-person, virtual, and hybrid events.",
-      "salary": "$45k–$72k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "NYU Langone Health",
       "title": "Program Coordinator",
       "location": "New York, New York, United States",
@@ -715,6 +687,20 @@
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "Telecommute eligible",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Duke Careers",
+      "title": "Program Coordinator",
+      "location": "Durham, North Carolina, United States",
+      "url": "https://careers.duke.edu/job/Durham-Program-Coordinator-NC-27710/1404593100/",
+      "direct_url": "https://careers.duke.edu/job/Durham-Program-Coordinator-NC-27710/1404593100/",
+      "date_posted": "2026-06-30T00:00:00.000Z",
+      "description": "Bachelors-level education typically required, 1+ year program or event administration experience, strong organizational and communication skills, budget/expense processing, website/content management, and ability to coordinate in-person, virtual, and hybrid events.",
+      "salary": "$45k–$72k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
       "ats": "HiringCafe"
     },
     {
@@ -858,6 +844,20 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "Netrio",
+      "title": "Cyber Program Coordinator",
+      "location": "United States",
+      "url": "https://ats.rippling.com/netrio/jobs/e343066d-8f7d-4940-82e1-a00879ccb039",
+      "direct_url": "https://ats.rippling.com/netrio/jobs/e343066d-8f7d-4940-82e1-a00879ccb039",
+      "date_posted": "2026-07-01T20:30:47.304Z",
+      "description": "Project/program coordination experience; strong written and verbal communication, client relationship management, time management, problem-solving, and documentation skills. Comfortable working cross-functionally and with senior stakeholders.",
+      "salary": "",
+      "job_type": "Full Time",
+      "is_remote": true,
+      "work_arrangement": "Remote in-state eligible",
+      "ats": "HiringCafe"
+    },
+    {
       "company": "Sanford",
       "title": "Community Program Coordinator",
       "location": "Sioux Falls, South Dakota, United States",
@@ -883,20 +883,6 @@
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Netrio",
-      "title": "Cyber Program Coordinator",
-      "location": "United States",
-      "url": "https://ats.rippling.com/netrio/jobs/e343066d-8f7d-4940-82e1-a00879ccb039",
-      "direct_url": "https://ats.rippling.com/netrio/jobs/e343066d-8f7d-4940-82e1-a00879ccb039",
-      "date_posted": "2026-07-01T20:30:47.304Z",
-      "description": "Project/program coordination experience; strong written and verbal communication, client relationship management, time management, problem-solving, and documentation skills. Comfortable working cross-functionally and with senior stakeholders.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": true,
-      "work_arrangement": "Remote in-state eligible",
       "ats": "HiringCafe"
     },
     {
@@ -981,20 +967,6 @@
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "Telecommute eligible",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "St. Joseph's Hospital and Medical Center",
-      "title": "Community Health Worker",
-      "location": "Phoenix, Arizona, United States",
-      "url": "https://affiliates-commonspirit.icims.com/jobs/457410/community-health-worker/job?in_iframe=1",
-      "direct_url": "https://affiliates-commonspirit.icims.com/jobs/457410/community-health-worker/job?in_iframe=1",
-      "date_posted": "2026-06-04T07:00:00.000Z",
-      "description": "High School/GED required; experience working in the community and with community organizations/home health follow-up; computer literate; strong verbal/written communication; ability to handle confidential information; will complete CHW/Promotoras training; occasional weekends.",
-      "salary": "$48k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
       "ats": "HiringCafe"
     },
     {
@@ -1124,76 +1096,5 @@
       "ats": "HiringCafe"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Rose Garden Nursing & Rehabilitation Center (formerly known as LTCC Inc)",
-      "title": "Social Worker",
-      "location": "Toms River, New Jersey, United States",
-      "url": "https://rosegardennj.isolvedhire.com/jobs/1813059",
-      "direct_url": "https://rosegardennj.isolvedhire.com/jobs/1813059",
-      "date_posted": "2026-07-03T00:00:00.000Z",
-      "description": "Bachelor's or Master's in social work or related field, valid social worker licensure (CSW), knowledge of crisis intervention, strong communication, ability to work independently and with teams.",
-      "salary": "$50k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Lcmchealth",
-      "title": "Social Worker",
-      "location": "New Orleans, Louisiana, United States",
-      "url": "https://lcmchealth.wd1.myworkdayjobs.com/lcmchealth/job/LCMC---1401-Foucher-Street/Social-Worker_JR0039481",
-      "direct_url": "https://lcmchealth.wd1.myworkdayjobs.com/lcmchealth/job/LCMC---1401-Foucher-Street/Social-Worker_JR0039481",
-      "date_posted": "2026-07-03T00:00:00.000Z",
-      "description": "Licensed Master Social Worker in Louisiana required; conduct psychosocial assessments, counseling, crisis intervention, discharge planning, community referrals, and documentation in medical records.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Rush University Medical Center",
-      "title": "Program Coordinator",
-      "location": "Chicago, Illinois, United States",
-      "url": "https://rushprod-lm01.cloud.infor.com:1444/lmghr/CandidateSelfService/lm?dataarea=lmghr&_frommenu=true&context.dataarea=lmghr&context.session.key.JobBoard=RUSHEXTERNAL&context.session.key.HROrganization=10&JobReq=27609&JobPost=2",
-      "direct_url": "https://rushprod-lm01.cloud.infor.com:1444/lmghr/CandidateSelfService/lm?dataarea=lmghr&_frommenu=true&context.dataarea=lmghr&context.session.key.JobBoard=RUSHEXTERNAL&context.session.key.HROrganization=10&JobReq=27609&JobPost=2",
-      "date_posted": "2026-06-11T00:00:00.000Z",
-      "description": "Bachelor's degree, 2 years administrative/coordinator experience, proficiency with Microsoft Office, experience with Epic/LVM, strong communication, organizational, evaluation, and project management skills.",
-      "salary": "$52k–$83k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "Telecommute eligible",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Utah State University",
-      "title": "Program Coordinator II",
-      "location": "Logan, Utah, United States",
-      "url": "https://careers-usu.icims.com/jobs/10423/program-coordinator-ii/job?in_iframe=1",
-      "direct_url": "https://careers-usu.icims.com/jobs/10423/program-coordinator-ii/job?in_iframe=1",
-      "date_posted": "2026-06-24T04:00:00.000Z",
-      "description": "Coordinating youth conferences, camps, and events; managing logistics, budgets, vendor relations, and on-site operations; supervising part-time youth programs staff; attention to detail and ability to work evenings/weekends.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "emh",
-      "title": "Community Health Worker",
-      "location": "Ellsworth, Maine, United States",
-      "url": "https://css-emh-prd.inforcloudsuite.com/hcm/Jobs/navigation/JobPosting%5BJobPostingSet%5D(10,89749,1).JobPostingDisplayNav?csk.HROrganization=10&csk.JobBoard=EXTERNAL",
-      "direct_url": "https://css-emh-prd.inforcloudsuite.com/hcm/Jobs/navigation/JobPosting%5BJobPostingSet%5D(10,89749,1).JobPostingDisplayNav?csk.HROrganization=10&csk.JobBoard=EXTERNAL",
-      "date_posted": "2026-06-16T00:00:00.000Z",
-      "description": "Provides social support, health coaching, care navigation and advocacy; performs home visits, outreach and telehealth; documents encounters in electronic medical record; valid driver requirement; no prior experience required.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    }
-  ]
+  "new_jobs": []
 }
