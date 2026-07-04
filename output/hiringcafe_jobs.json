@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-07-04 07:30 UTC",
+  "scraped_at": "2026-07-04 20:30 UTC",
   "total": 78,
-  "new_count": 0,
+  "new_count": 2,
   "jobs": [
     {
       "company": "County of Shasta",
@@ -200,20 +200,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Catapult Learning",
-      "title": "Social Worker",
-      "location": "Baltimore, Maryland, United States",
-      "url": "https://careers.fullbloom.org/jobs/35515?lang=en-us",
-      "direct_url": "https://careers.fullbloom.org/jobs/35515?lang=en-us",
-      "date_posted": "2026-06-23T16:15:09.000Z",
-      "description": "Master's degree in counseling or related field; active social worker license (LCSWC, LMSW, LGPC, LCPC); experience working with students desired.",
-      "salary": "$73k–$79k/yr",
-      "job_type": "Full Time, Part Time, Seasonal",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Triad Community Unit School District #2",
       "title": "Social Worker",
       "location": "United States",
@@ -223,6 +209,20 @@
       "description": "Requires a Professional Educator license with School Social Worker endorsement for placement in Triad school buildings; letters of interest and online application requested.",
       "salary": "",
       "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Catapult Learning",
+      "title": "Social Worker",
+      "location": "Baltimore, Maryland, United States",
+      "url": "https://careers.fullbloom.org/jobs/35515?lang=en-us",
+      "direct_url": "https://careers.fullbloom.org/jobs/35515?lang=en-us",
+      "date_posted": "2026-06-23T16:15:09.000Z",
+      "description": "Master's degree in counseling or related field; active social worker license (LCSWC, LMSW, LGPC, LCPC); experience working with students desired.",
+      "salary": "$73k–$79k/yr",
+      "job_type": "Full Time, Part Time, Seasonal",
       "is_remote": false,
       "work_arrangement": "On-site",
       "ats": "HiringCafe"
@@ -292,20 +292,6 @@
       "date_posted": "2026-07-03T00:00:00.000Z",
       "description": "Licensed Master Social Worker in Louisiana required; conduct psychosocial assessments, counseling, crisis intervention, discharge planning, community referrals, and documentation in medical records.",
       "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "St. Vincent de Paul CARES",
-      "title": "Case Manager IV",
-      "location": "New Port Richey, Florida, United States",
-      "url": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=2397c9ca-f6c6-4ebd-a2e3-3f4e588d2b85&jobId=561675",
-      "direct_url": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=2397c9ca-f6c6-4ebd-a2e3-3f4e588d2b85&jobId=561675",
-      "date_posted": "2026-06-04T14:58:00.000Z",
-      "description": "Provide assessment, crisis intervention, case management, housing goal planning, community linkage and advocacy; proficiency with Case Worthy, HSMIS, Excel, PowerPoint, Outlook; masters degree or 5+ years social services experience preferred.",
-      "salary": "$48k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
@@ -424,20 +410,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "The W Group Mgmt",
-      "title": "Case Manager / Financial Case Manager",
-      "location": "Far Rockaway, New York, United States",
-      "url": "https://jobs.apploi.com/view/1886197?utm_campaign=integration&utm_medium=job-board-search&utm_source=None&ajs_event=LOAD_JOB_PAGE&ajs_aid=3f617530-4530-11e9-a2ca-7e775511d9e3&ajs_prop_search_fetch_id=a7564b42c603437786a708e7e8e6709c&ajs_prop_keyword=&ajs_prop_page=1&ajs_prop_city_center=Unselected&ajs_prop_search_order=2&ajs_prop_job_id=1886197&ajs_prop_doc_type=job&ajs_prop_job_location_lat=40.5995046&ajs_prop_job_location_lon=-73.7493946&ajs_prop_boosted=0&ajs_prop_utm_source=None&ajs_prop_utm_medium=job-board-search&ajs_prop_utm_campaign=integration",
-      "direct_url": "https://jobs.apploi.com/view/1886197?utm_campaign=integration&utm_medium=job-board-search&utm_source=None&ajs_event=LOAD_JOB_PAGE&ajs_aid=3f617530-4530-11e9-a2ca-7e775511d9e3&ajs_prop_search_fetch_id=a7564b42c603437786a708e7e8e6709c&ajs_prop_keyword=&ajs_prop_page=1&ajs_prop_city_center=Unselected&ajs_prop_search_order=2&ajs_prop_job_id=1886197&ajs_prop_doc_type=job&ajs_prop_job_location_lat=40.5995046&ajs_prop_job_location_lon=-73.7493946&ajs_prop_boosted=0&ajs_prop_utm_source=None&ajs_prop_utm_medium=job-board-search&ajs_prop_utm_campaign=integration",
-      "date_posted": "2026-06-24T00:00:00.000Z",
-      "description": "Coordinate resident services and admissions, manage financial casework including Medicaid applications, maintain documentation, communicate with families and care providers; 1 year case management experience required.",
-      "salary": "$50k–$58k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "HANAC, Inc.",
       "title": "Case Manager",
       "location": "Astoria, New York, United States",
@@ -447,6 +419,20 @@
       "description": "Associate's or Bachelor's in human services/social work/criminal justice required, 1 year case management or victim services experience preferred, proficiency with Microsoft Office and electronic case management systems, strong communication and documentation skills; background check and fingerprinting required.",
       "salary": "$46k/yr",
       "job_type": "Part Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "The W Group Mgmt",
+      "title": "Case Manager / Financial Case Manager",
+      "location": "Far Rockaway, New York, United States",
+      "url": "https://jobs.apploi.com/view/1886197?utm_campaign=integration&utm_medium=job-board-search&utm_source=None&ajs_event=LOAD_JOB_PAGE&ajs_aid=3f617530-4530-11e9-a2ca-7e775511d9e3&ajs_prop_search_fetch_id=a7564b42c603437786a708e7e8e6709c&ajs_prop_keyword=&ajs_prop_page=1&ajs_prop_city_center=Unselected&ajs_prop_search_order=2&ajs_prop_job_id=1886197&ajs_prop_doc_type=job&ajs_prop_job_location_lat=40.5995046&ajs_prop_job_location_lon=-73.7493946&ajs_prop_boosted=0&ajs_prop_utm_source=None&ajs_prop_utm_medium=job-board-search&ajs_prop_utm_campaign=integration",
+      "direct_url": "https://jobs.apploi.com/view/1886197?utm_campaign=integration&utm_medium=job-board-search&utm_source=None&ajs_event=LOAD_JOB_PAGE&ajs_aid=3f617530-4530-11e9-a2ca-7e775511d9e3&ajs_prop_search_fetch_id=a7564b42c603437786a708e7e8e6709c&ajs_prop_keyword=&ajs_prop_page=1&ajs_prop_city_center=Unselected&ajs_prop_search_order=2&ajs_prop_job_id=1886197&ajs_prop_doc_type=job&ajs_prop_job_location_lat=40.5995046&ajs_prop_job_location_lon=-73.7493946&ajs_prop_boosted=0&ajs_prop_utm_source=None&ajs_prop_utm_medium=job-board-search&ajs_prop_utm_campaign=integration",
+      "date_posted": "2026-06-24T00:00:00.000Z",
+      "description": "Coordinate resident services and admissions, manage financial casework including Medicaid applications, maintain documentation, communicate with families and care providers; 1 year case management experience required.",
+      "salary": "$50k–$58k/yr",
+      "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
       "ats": "HiringCafe"
@@ -474,6 +460,20 @@
       "date_posted": "2026-07-02T18:46:10.000Z",
       "description": "Oversee and coach case managers, provide case management services for recovery residents, ensure documentation and SOP compliance. Requires HS diploma, Florida or national peer certification, and 8+ years experience in addiction/case management.",
       "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Lao Family Community Development, Inc.",
+      "title": "Case Manager",
+      "location": "Oakland or Richmond or Alameda County or Sacramento County or Contra Costa County",
+      "url": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=d5084223-b22a-486c-8c0f-5c6a8678080a&jobId=467146",
+      "direct_url": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=d5084223-b22a-486c-8c0f-5c6a8678080a&jobId=467146",
+      "date_posted": "2026-06-18T16:00:00.000Z",
+      "description": "Bachelor's in related field required, 2+ years direct employment/workforce or case management experience, proficient in Microsoft Office and Cal E-Grants Portal, ability to travel, pass background check, and perform data entry and case documentation.",
+      "salary": "$52k–$58k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
@@ -592,20 +592,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Olemiss",
-      "title": "Program Coordinator",
-      "location": "Oxford, Mississippi, United States",
-      "url": "https://olemiss.wd12.myworkdayjobs.com/external__staff/job/University-MS/Program-Coordinator_JR102636",
-      "direct_url": "https://olemiss.wd12.myworkdayjobs.com/external__staff/job/University-MS/Program-Coordinator_JR102636",
-      "date_posted": "2026-06-16T00:00:00.000Z",
-      "description": "Bachelor's degree and 3 years relevant experience required. Experience with grant administration, fiscal/budget tasks, program implementation, outreach, reporting, writing/editing materials, and coordinating staff and events.",
-      "salary": "$52k–$77k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Everforth ECS Federal",
       "title": "Program Coordinator",
       "location": "Washington, District Of Columbia, United States",
@@ -629,6 +615,20 @@
       "description": "Organized communicator comfortable with Microsoft 365, forms/spreadsheets, scheduling systems; experience in program coordination or community outreach preferred; able to support events, participant needs, and uphold Islamic etiquette.",
       "salary": "$42k–$52k/yr",
       "job_type": "Part Time, Contract",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Olemiss",
+      "title": "Program Coordinator",
+      "location": "Oxford, Mississippi, United States",
+      "url": "https://olemiss.wd12.myworkdayjobs.com/external__staff/job/University-MS/Program-Coordinator_JR102636",
+      "direct_url": "https://olemiss.wd12.myworkdayjobs.com/external__staff/job/University-MS/Program-Coordinator_JR102636",
+      "date_posted": "2026-06-16T00:00:00.000Z",
+      "description": "Bachelor's degree and 3 years relevant experience required. Experience with grant administration, fiscal/budget tasks, program implementation, outreach, reporting, writing/editing materials, and coordinating staff and events.",
+      "salary": "$52k–$77k/yr",
+      "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
       "ats": "HiringCafe"
@@ -676,20 +676,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "NYU Langone Health",
-      "title": "Program Coordinator",
-      "location": "New York, New York, United States",
-      "url": "https://jobs.silkroad.com/NYULangone/NYULHCareers/jobs/122449?embedded=true",
-      "direct_url": "https://jobs.silkroad.com/NYULangone/NYULHCareers/jobs/122449?embedded=true",
-      "date_posted": "2026-07-02T23:20:18.419Z",
-      "description": "Bachelor's degree and minimum 3 years' experience in higher education/student affairs or program coordination; event planning, MS Office proficiency, experience with survey/data tools (Qualtrics) preferred; strong communication and organizational skills.",
-      "salary": "$61k–$68k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "Telecommute eligible",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Duke Careers",
       "title": "Program Coordinator",
       "location": "Durham, North Carolina, United States",
@@ -701,6 +687,20 @@
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "NYU Langone Health",
+      "title": "Program Coordinator",
+      "location": "New York, New York, United States",
+      "url": "https://jobs.silkroad.com/NYULangone/NYULHCareers/jobs/122449?embedded=true",
+      "direct_url": "https://jobs.silkroad.com/NYULangone/NYULHCareers/jobs/122449?embedded=true",
+      "date_posted": "2026-07-02T23:20:18.419Z",
+      "description": "Bachelor's degree and minimum 3 years' experience in higher education/student affairs or program coordination; event planning, MS Office proficiency, experience with survey/data tools (Qualtrics) preferred; strong communication and organizational skills.",
+      "salary": "$61k–$68k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "Telecommute eligible",
       "ats": "HiringCafe"
     },
     {
@@ -858,34 +858,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Sanford",
-      "title": "Community Program Coordinator",
-      "location": "Sioux Falls, South Dakota, United States",
-      "url": "https://sanford.wd5.myworkdayjobs.com/sanfordhealth/job/SD-Sioux-Falls/Community-Program-Coordinator_R-0262768",
-      "direct_url": "https://sanford.wd5.myworkdayjobs.com/sanfordhealth/job/SD-Sioux-Falls/Community-Program-Coordinator_R-0262768",
-      "date_posted": "2026-06-12T00:00:00.000Z",
-      "description": "Bachelor's degree required (or 5-8 years relevant experience); 5+ years preferred. Experience with program/project coordination, grant compliance, multidisciplinary collaboration, and working with children/CAC preferred.",
-      "salary": "$47k–$75k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Office of Judicial Administration (Indiana Supreme Court)",
-      "title": "Program Coordinator (479922)",
-      "location": "Indiana, United States",
-      "url": "https://career8.successfactors.com/career?career_ns=job_listing&company=indianaoff&career_job_req_id=479922",
-      "direct_url": "https://career8.successfactors.com/career?career_ns=job_listing&company=indianaoff&career_job_req_id=479922",
-      "date_posted": "2026-06-29T17:29:43.000Z",
-      "description": "Supporting program development and implementation, administrative coordination, stakeholder engagement, data collection and reporting, compliance monitoring, financial/contract support, Microsoft Suite proficiency, confidentiality, and strong communication skills.",
-      "salary": "$65k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Rush University Medical Center",
       "title": "Program Coordinator",
       "location": "Chicago, Illinois, United States",
@@ -900,6 +872,20 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "University Health - San Antonio",
+      "title": "Senior Program Coordinator",
+      "location": "San Antonio, Texas, United States",
+      "url": "https://pm.healthcaresource.com/CS/universityhealthsystem/#/job/60329",
+      "direct_url": "https://pm.healthcaresource.com/CS/universityhealthsystem/#/job/60329",
+      "date_posted": "2026-06-25T00:00:00.000Z",
+      "description": "Bachelor's in public health/health services or related, minimum 3 years project coordination/community outreach experience, Excel and PowerPoint database experience, strong communication and program administration knowledge preferred.",
+      "salary": "$42k–$69k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
       "company": "Utah State University",
       "title": "Program Coordinator II",
       "location": "Logan, Utah, United States",
@@ -907,6 +893,20 @@
       "direct_url": "https://careers-usu.icims.com/jobs/10423/program-coordinator-ii/job?in_iframe=1",
       "date_posted": "2026-06-24T04:00:00.000Z",
       "description": "Coordinating youth conferences, camps, and events; managing logistics, budgets, vendor relations, and on-site operations; supervising part-time youth programs staff; attention to detail and ability to work evenings/weekends.",
+      "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Brs",
+      "title": "Program Coordinator",
+      "location": "Wright-Patterson Air Force Base, Ohio, United States",
+      "url": "https://jobs.dayforcehcm.com/en-US/brs/eiscandidateportal/jobs/32177",
+      "direct_url": "https://jobs.dayforcehcm.com/en-US/brs/eiscandidateportal/jobs/32177",
+      "date_posted": "2026-06-22T05:00:00.000Z",
+      "description": "Bachelor's degree and minimum 5 years experience in active duty/DoD military environment; administrative and organizational skills; file management, reporting, and meeting/travel coordination experience.",
       "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
@@ -1096,5 +1096,34 @@
       "ats": "HiringCafe"
     }
   ],
-  "new_jobs": []
+  "new_jobs": [
+    {
+      "company": "University Health - San Antonio",
+      "title": "Senior Program Coordinator",
+      "location": "San Antonio, Texas, United States",
+      "url": "https://pm.healthcaresource.com/CS/universityhealthsystem/#/job/60329",
+      "direct_url": "https://pm.healthcaresource.com/CS/universityhealthsystem/#/job/60329",
+      "date_posted": "2026-06-25T00:00:00.000Z",
+      "description": "Bachelor's in public health/health services or related, minimum 3 years project coordination/community outreach experience, Excel and PowerPoint database experience, strong communication and program administration knowledge preferred.",
+      "salary": "$42k–$69k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Brs",
+      "title": "Program Coordinator",
+      "location": "Wright-Patterson Air Force Base, Ohio, United States",
+      "url": "https://jobs.dayforcehcm.com/en-US/brs/eiscandidateportal/jobs/32177",
+      "direct_url": "https://jobs.dayforcehcm.com/en-US/brs/eiscandidateportal/jobs/32177",
+      "date_posted": "2026-06-22T05:00:00.000Z",
+      "description": "Bachelor's degree and minimum 5 years experience in active duty/DoD military environment; administrative and organizational skills; file management, reporting, and meeting/travel coordination experience.",
+      "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    }
+  ]
 }
