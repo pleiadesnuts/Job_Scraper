@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-07-05 08:23 UTC",
+  "scraped_at": "2026-07-05 20:39 UTC",
   "total": 76,
-  "new_count": 2,
+  "new_count": 0,
   "jobs": [
     {
       "company": "County of Shasta",
@@ -578,6 +578,20 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "Olemiss",
+      "title": "Program Coordinator",
+      "location": "Oxford, Mississippi, United States",
+      "url": "https://olemiss.wd12.myworkdayjobs.com/external__staff/job/University-MS/Program-Coordinator_JR102636",
+      "direct_url": "https://olemiss.wd12.myworkdayjobs.com/external__staff/job/University-MS/Program-Coordinator_JR102636",
+      "date_posted": "2026-06-16T00:00:00.000Z",
+      "description": "Bachelor's degree and 3 years relevant experience required. Experience with grant administration, fiscal/budget tasks, program implementation, outreach, reporting, writing/editing materials, and coordinating staff and events.",
+      "salary": "$52k–$77k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
       "company": "Everforth ECS Federal",
       "title": "Program Coordinator",
       "location": "Washington, District Of Columbia, United States",
@@ -601,20 +615,6 @@
       "description": "Organized communicator comfortable with Microsoft 365, forms/spreadsheets, scheduling systems; experience in program coordination or community outreach preferred; able to support events, participant needs, and uphold Islamic etiquette.",
       "salary": "$42k–$52k/yr",
       "job_type": "Part Time, Contract",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Olemiss",
-      "title": "Program Coordinator",
-      "location": "Oxford, Mississippi, United States",
-      "url": "https://olemiss.wd12.myworkdayjobs.com/external__staff/job/University-MS/Program-Coordinator_JR102636",
-      "direct_url": "https://olemiss.wd12.myworkdayjobs.com/external__staff/job/University-MS/Program-Coordinator_JR102636",
-      "date_posted": "2026-06-16T00:00:00.000Z",
-      "description": "Bachelor's degree and 3 years relevant experience required. Experience with grant administration, fiscal/budget tasks, program implementation, outreach, reporting, writing/editing materials, and coordinating staff and events.",
-      "salary": "$52k–$77k/yr",
-      "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
       "ats": "HiringCafe"
@@ -1068,34 +1068,5 @@
       "ats": "HiringCafe"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Chatham County Public Schools",
-      "title": "Social Worker",
-      "location": "Siler City or Chatham County",
-      "url": "https://www.applitrack.com/ncjobs/onlineapp/jobpostings/view.asp?AppliTrackJobId=5339",
-      "direct_url": "https://www.applitrack.com/ncjobs/onlineapp/jobpostings/view.asp?AppliTrackJobId=5339",
-      "date_posted": "2026-06-18T04:58:25.434Z",
-      "description": "Bachelor's in social work required (Master's preferred); must have or be eligible for a North Carolina DPI school social worker license; bilingual English/Spanish preferred; performs student assessment, counseling, crisis intervention, program planning, advocacy, documentation, and collaboration.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "SGOH Acquisition Inc. dba Ozarks Community Hospital",
-      "title": "Community Health Worker",
-      "location": "Webb City, Missouri, United States",
-      "url": "https://ochonline.isolvedhire.com/jobs/1811500",
-      "direct_url": "https://ochonline.isolvedhire.com/jobs/1811500",
-      "date_posted": "2026-07-01T00:00:00.000Z",
-      "description": "High school diploma or equivalent, obtain CHW certification within 12 months, valid Class E driver's license, current BLS, ability to provide culturally appropriate health education, coaching, and basic screening.",
-      "salary": "$40k–$44k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    }
-  ]
+  "new_jobs": []
 }
