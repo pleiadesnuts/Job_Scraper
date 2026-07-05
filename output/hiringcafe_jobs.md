@@ -1,17 +1,17 @@
 # ☕ HiringCafe — Social Worker Roles
-*Last updated: 2026-07-04 20:30 UTC*
+*Last updated: 2026-07-05 08:23 UTC*
 
-**2 new role(s)** since last run · 78 total in last 30d
+**2 new role(s)** since last run · 76 total in last 30d
 
-### [Senior Program Coordinator](https://pm.healthcaresource.com/CS/universityhealthsystem/#/job/60329) — University Health - San Antonio
-- 📍 **Location:** San Antonio, Texas, United States
-- 💰 **Salary:** $42k–$69k/yr
+### [Social Worker](https://www.applitrack.com/ncjobs/onlineapp/jobpostings/view.asp?AppliTrackJobId=5339) — Chatham County Public Schools
+- 📍 **Location:** Siler City or Chatham County
 - **Work mode:** On-site
 - **Job type:** Full Time
-- 🕒 **Posted:** 2026-06-25T00:00:00.000Z
+- 🕒 **Posted:** 2026-06-18T04:58:25.434Z
 
-### [Program Coordinator](https://jobs.dayforcehcm.com/en-US/brs/eiscandidateportal/jobs/32177) — Brs
-- 📍 **Location:** Wright-Patterson Air Force Base, Ohio, United States
+### [Community Health Worker](https://ochonline.isolvedhire.com/jobs/1811500) — SGOH Acquisition Inc. dba Ozarks Community Hospital
+- 📍 **Location:** Webb City, Missouri, United States
+- 💰 **Salary:** $40k–$44k/yr
 - **Work mode:** On-site
 - **Job type:** Full Time
-- 🕒 **Posted:** 2026-06-22T05:00:00.000Z
+- 🕒 **Posted:** 2026-07-01T00:00:00.000Z
