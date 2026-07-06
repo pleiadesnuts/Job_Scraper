@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-07-05 20:39 UTC",
-  "total": 76,
-  "new_count": 0,
+  "scraped_at": "2026-07-06 22:01 UTC",
+  "total": 74,
+  "new_count": 5,
   "jobs": [
     {
       "company": "County of Shasta",
@@ -284,20 +284,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Chatham County Public Schools",
-      "title": "Social Worker",
-      "location": "Siler City or Chatham County",
-      "url": "https://www.applitrack.com/ncjobs/onlineapp/jobpostings/view.asp?AppliTrackJobId=5339",
-      "direct_url": "https://www.applitrack.com/ncjobs/onlineapp/jobpostings/view.asp?AppliTrackJobId=5339",
-      "date_posted": "2026-06-18T04:58:25.434Z",
-      "description": "Bachelor's in social work required (Master's preferred); must have or be eligible for a North Carolina DPI school social worker license; bilingual English/Spanish preferred; performs student assessment, counseling, crisis intervention, program planning, advocacy, documentation, and collaboration.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Gilead",
       "title": "Case Manager",
       "location": "Santa Monica or United States",
@@ -363,6 +349,20 @@
       "description": "Coordinate student services, conduct assessments, provide crisis intervention and case management; bachelor's degree required, 2+ years experience in case management or student support, familiarity with IEPs/BIPs and mental health interventions.",
       "salary": "",
       "job_type": "Full Time, Temporary",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Black Birth Justice",
+      "title": "Case Manager",
+      "location": "Louisville, Kentucky, United States",
+      "url": "https://blackbirthjustice.bamboohr.com/careers/66",
+      "direct_url": "https://blackbirthjustice.bamboohr.com/careers/66",
+      "date_posted": "2026-07-06T00:00:00.000Z",
+      "description": "Bachelors in social work or related field, 2+ years direct social services/case management, proficiency with Google Suite and case management software, ability to conduct assessments, crisis response, documentation, and do field outreach.",
+      "salary": "",
+      "job_type": "Contract",
       "is_remote": false,
       "work_arrangement": "On-site",
       "ats": "HiringCafe"
@@ -518,7 +518,7 @@
       "salary": "$50k–$52k/yr",
       "job_type": "Full Time",
       "is_remote": false,
-      "work_arrangement": "On-site",
+      "work_arrangement": "Telecommute eligible",
       "ats": "HiringCafe"
     },
     {
@@ -634,6 +634,20 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "LSST Inc.",
+      "title": "Program Coordinator",
+      "location": "United States",
+      "url": "https://lsst-inc.gnahiring.com/job/1038181/program-coordinator",
+      "direct_url": "https://lsst-inc.gnahiring.com/job/1038181/program-coordinator",
+      "date_posted": "2026-07-06T01:38:33.000Z",
+      "description": "Bachelor's or equivalent, 3–5 years program/project/ research administration experience, strong organization, communication, Microsoft Office 365 proficiency, ability to work remotely and coordinate events/grants/budgets.",
+      "salary": "$70k–$80k/yr",
+      "job_type": "Full Time",
+      "is_remote": true,
+      "work_arrangement": "Remote in-state eligible",
+      "ats": "HiringCafe"
+    },
+    {
       "company": "Howard University",
       "title": "Program Coordinator",
       "location": "Washington, District of Columbia, United States",
@@ -732,6 +746,20 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "ROUSH",
+      "title": "Program Coordinator",
+      "location": "Livonia, Michigan, United States",
+      "url": "http://roush.applytojob.com/apply/EJevVcJjIr/Program-Coordinator",
+      "direct_url": "http://roush.applytojob.com/apply/EJevVcJjIr/Program-Coordinator",
+      "date_posted": "2026-07-02T00:00:00.000Z",
+      "description": "Coordinate schedules, budgets, vendors, and deliverables; 2+ years coordination or skilled trade experience; associate degree or equivalent; intermediate Microsoft Office skills; legally authorized to work in the U.S.",
+      "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
       "company": "University of Houston",
       "title": "Program Coordinator II",
       "location": "Houston, Texas, United States",
@@ -816,6 +844,20 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "Office of Judicial Administration (Indiana Supreme Court)",
+      "title": "Program Coordinator (479922)",
+      "location": "Indiana, United States",
+      "url": "https://career8.successfactors.com/career?career_ns=job_listing&company=indianaoff&career_job_req_id=479922",
+      "direct_url": "https://career8.successfactors.com/career?career_ns=job_listing&company=indianaoff&career_job_req_id=479922",
+      "date_posted": "2026-06-29T17:29:43.000Z",
+      "description": "Supporting program development and implementation, administrative coordination, stakeholder engagement, data collection and reporting, compliance monitoring, financial/contract support, Microsoft Suite proficiency, confidentiality, and strong communication skills.",
+      "salary": "$65k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
       "company": "Netrio",
       "title": "Cyber Program Coordinator",
       "location": "United States",
@@ -827,62 +869,6 @@
       "job_type": "Full Time",
       "is_remote": true,
       "work_arrangement": "Remote in-state eligible",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Rush University Medical Center",
-      "title": "Program Coordinator",
-      "location": "Chicago, Illinois, United States",
-      "url": "https://rushprod-lm01.cloud.infor.com:1444/lmghr/CandidateSelfService/lm?dataarea=lmghr&_frommenu=true&context.dataarea=lmghr&context.session.key.JobBoard=RUSHEXTERNAL&context.session.key.HROrganization=10&JobReq=27609&JobPost=2",
-      "direct_url": "https://rushprod-lm01.cloud.infor.com:1444/lmghr/CandidateSelfService/lm?dataarea=lmghr&_frommenu=true&context.dataarea=lmghr&context.session.key.JobBoard=RUSHEXTERNAL&context.session.key.HROrganization=10&JobReq=27609&JobPost=2",
-      "date_posted": "2026-06-11T00:00:00.000Z",
-      "description": "Bachelor's degree, 2 years administrative/coordinator experience, proficiency with Microsoft Office, experience with Epic/LVM, strong communication, organizational, evaluation, and project management skills.",
-      "salary": "$52k–$83k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "Telecommute eligible",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "University Health - San Antonio",
-      "title": "Senior Program Coordinator",
-      "location": "San Antonio, Texas, United States",
-      "url": "https://pm.healthcaresource.com/CS/universityhealthsystem/#/job/60329",
-      "direct_url": "https://pm.healthcaresource.com/CS/universityhealthsystem/#/job/60329",
-      "date_posted": "2026-06-25T00:00:00.000Z",
-      "description": "Bachelor's in public health/health services or related, minimum 3 years project coordination/community outreach experience, Excel and PowerPoint database experience, strong communication and program administration knowledge preferred.",
-      "salary": "$42k–$69k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Utah State University",
-      "title": "Program Coordinator II",
-      "location": "Logan, Utah, United States",
-      "url": "https://careers-usu.icims.com/jobs/10423/program-coordinator-ii/job?in_iframe=1",
-      "direct_url": "https://careers-usu.icims.com/jobs/10423/program-coordinator-ii/job?in_iframe=1",
-      "date_posted": "2026-06-24T04:00:00.000Z",
-      "description": "Coordinating youth conferences, camps, and events; managing logistics, budgets, vendor relations, and on-site operations; supervising part-time youth programs staff; attention to detail and ability to work evenings/weekends.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Brs",
-      "title": "Program Coordinator",
-      "location": "Wright-Patterson Air Force Base, Ohio, United States",
-      "url": "https://jobs.dayforcehcm.com/en-US/brs/eiscandidateportal/jobs/32177",
-      "direct_url": "https://jobs.dayforcehcm.com/en-US/brs/eiscandidateportal/jobs/32177",
-      "date_posted": "2026-06-22T05:00:00.000Z",
-      "description": "Bachelor's degree and minimum 5 years experience in active duty/DoD military environment; administrative and organizational skills; file management, reporting, and meeting/travel coordination experience.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
       "ats": "HiringCafe"
     },
     {
@@ -1026,28 +1012,14 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "emh",
+      "company": "AdventHealth",
       "title": "Community Health Worker",
-      "location": "Ellsworth, Maine, United States",
-      "url": "https://css-emh-prd.inforcloudsuite.com/hcm/Jobs/navigation/JobPosting%5BJobPostingSet%5D(10,89749,1).JobPostingDisplayNav?csk.HROrganization=10&csk.JobBoard=EXTERNAL",
-      "direct_url": "https://css-emh-prd.inforcloudsuite.com/hcm/Jobs/navigation/JobPosting%5BJobPostingSet%5D(10,89749,1).JobPostingDisplayNav?csk.HROrganization=10&csk.JobBoard=EXTERNAL",
-      "date_posted": "2026-06-16T00:00:00.000Z",
-      "description": "Provides social support, health coaching, care navigation and advocacy; performs home visits, outreach and telehealth; documents encounters in electronic medical record; valid driver requirement; no prior experience required.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "SGOH Acquisition Inc. dba Ozarks Community Hospital",
-      "title": "Community Health Worker",
-      "location": "Webb City, Missouri, United States",
-      "url": "https://ochonline.isolvedhire.com/jobs/1811500",
-      "direct_url": "https://ochonline.isolvedhire.com/jobs/1811500",
-      "date_posted": "2026-07-01T00:00:00.000Z",
-      "description": "High school diploma or equivalent, obtain CHW certification within 12 months, valid Class E driver's license, current BLS, ability to provide culturally appropriate health education, coaching, and basic screening.",
-      "salary": "$40k–$44k/yr",
+      "location": "Manchester, Kentucky, United States",
+      "url": "https://adventhealth.wd12.myworkdayjobs.com/ah_external_career_site/job/ADVENTHEALTH-MANCHESTER/Community-Health-Worker_R-0382281",
+      "direct_url": "https://adventhealth.wd12.myworkdayjobs.com/ah_external_career_site/job/ADVENTHEALTH-MANCHESTER/Community-Health-Worker_R-0382281",
+      "date_posted": "2026-07-06T00:00:00.000Z",
+      "description": "High school diploma or equivalent, clinical or community health experience, community health worker training/certification, driver's license required, experience with insurance authorization/verification preferred, Microsoft Office proficiency.",
+      "salary": "$38k–$61k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
@@ -1068,5 +1040,76 @@
       "ats": "HiringCafe"
     }
   ],
-  "new_jobs": []
+  "new_jobs": [
+    {
+      "company": "Black Birth Justice",
+      "title": "Case Manager",
+      "location": "Louisville, Kentucky, United States",
+      "url": "https://blackbirthjustice.bamboohr.com/careers/66",
+      "direct_url": "https://blackbirthjustice.bamboohr.com/careers/66",
+      "date_posted": "2026-07-06T00:00:00.000Z",
+      "description": "Bachelors in social work or related field, 2+ years direct social services/case management, proficiency with Google Suite and case management software, ability to conduct assessments, crisis response, documentation, and do field outreach.",
+      "salary": "",
+      "job_type": "Contract",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "LSST Inc.",
+      "title": "Program Coordinator",
+      "location": "United States",
+      "url": "https://lsst-inc.gnahiring.com/job/1038181/program-coordinator",
+      "direct_url": "https://lsst-inc.gnahiring.com/job/1038181/program-coordinator",
+      "date_posted": "2026-07-06T01:38:33.000Z",
+      "description": "Bachelor's or equivalent, 3–5 years program/project/ research administration experience, strong organization, communication, Microsoft Office 365 proficiency, ability to work remotely and coordinate events/grants/budgets.",
+      "salary": "$70k–$80k/yr",
+      "job_type": "Full Time",
+      "is_remote": true,
+      "work_arrangement": "Remote in-state eligible",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "ROUSH",
+      "title": "Program Coordinator",
+      "location": "Livonia, Michigan, United States",
+      "url": "http://roush.applytojob.com/apply/EJevVcJjIr/Program-Coordinator",
+      "direct_url": "http://roush.applytojob.com/apply/EJevVcJjIr/Program-Coordinator",
+      "date_posted": "2026-07-02T00:00:00.000Z",
+      "description": "Coordinate schedules, budgets, vendors, and deliverables; 2+ years coordination or skilled trade experience; associate degree or equivalent; intermediate Microsoft Office skills; legally authorized to work in the U.S.",
+      "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Office of Judicial Administration (Indiana Supreme Court)",
+      "title": "Program Coordinator (479922)",
+      "location": "Indiana, United States",
+      "url": "https://career8.successfactors.com/career?career_ns=job_listing&company=indianaoff&career_job_req_id=479922",
+      "direct_url": "https://career8.successfactors.com/career?career_ns=job_listing&company=indianaoff&career_job_req_id=479922",
+      "date_posted": "2026-06-29T17:29:43.000Z",
+      "description": "Supporting program development and implementation, administrative coordination, stakeholder engagement, data collection and reporting, compliance monitoring, financial/contract support, Microsoft Suite proficiency, confidentiality, and strong communication skills.",
+      "salary": "$65k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "AdventHealth",
+      "title": "Community Health Worker",
+      "location": "Manchester, Kentucky, United States",
+      "url": "https://adventhealth.wd12.myworkdayjobs.com/ah_external_career_site/job/ADVENTHEALTH-MANCHESTER/Community-Health-Worker_R-0382281",
+      "direct_url": "https://adventhealth.wd12.myworkdayjobs.com/ah_external_career_site/job/ADVENTHEALTH-MANCHESTER/Community-Health-Worker_R-0382281",
+      "date_posted": "2026-07-06T00:00:00.000Z",
+      "description": "High school diploma or equivalent, clinical or community health experience, community health worker training/certification, driver's license required, experience with insurance authorization/verification preferred, Microsoft Office proficiency.",
+      "salary": "$38k–$61k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    }
+  ]
 }
