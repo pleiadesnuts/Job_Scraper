@@ -1,104 +1,65 @@
 # 🟦 Indeed — Social Worker Roles
-*Last updated: 2026-07-08 06:47 UTC*
+*Last updated: 2026-07-08 20:39 UTC*
 
-**15 new role(s)** since last run · 15 total in last 24h
+**9 new role(s)** since last run · 17 total in last 24h
 
-### [Clinical Case Manager](https://www.indeed.com/viewjob?jk=f05ba5e72e8e8800) — Metropolitan State University of Denver
-- 📍 **Location:** Denver, CO, US
-- 💰 **Salary:** $68k–$75k/yr
+### [Licensed Master of Social Worker (LMSW) - Hospice - Full Time](https://www.indeed.com/viewjob?jk=ce39e67a4f04cc40) — Enhabit Home Health & Hospice
+- 📍 **Location:** Cheyenne, WY, US
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-07-07
 
-### [Social Worker at KNDMS (26/27 School Year)](https://www.indeed.com/viewjob?jk=087d37e6f56c0460) — KIPP Schools
+### [Case Manager - West Scatted Site - 10989](https://www.indeed.com/viewjob?jk=4583e2f01de54e90) — COLORADO COALITION FOR THE HOMELESS
 - 📍 **Location:** Denver, CO, US
+- 💰 **Salary:** $20–$25/hr
 - **Work mode:** On-site
 - **Job type:** fulltime
-- 🕒 **Posted:** 2026-07-07
+- 🕒 **Posted:** 2026-07-08
 
-### [Infant Nursery Supervisor (Closing Shift)](https://www.indeed.com/viewjob?jk=64c0858d79022398) — Everbrook Academy
+### [Case Manager - West Scattered Site - 10986](https://www.indeed.com/viewjob?jk=82ce4cc5a2d0eacf) — COLORADO COALITION FOR THE HOMELESS
 - 📍 **Location:** Denver, CO, US
-- 💰 **Salary:** $25–$26/hr
+- 💰 **Salary:** $20–$25/hr
 - **Work mode:** On-site
 - **Job type:** fulltime
-- 🕒 **Posted:** 2026-07-07
+- 🕒 **Posted:** 2026-07-08
 
-### [Peer Support Specialist I](https://www.indeed.com/viewjob?jk=d1c3883d4721bf39) — City and County of Denver
+### [Case Manager - West Scatted Site - 10985](https://www.indeed.com/viewjob?jk=79a64255e297ad34) — COLORADO COALITION FOR THE HOMELESS
 - 📍 **Location:** Denver, CO, US
-- 💰 **Salary:** $23–$35/hr
+- 💰 **Salary:** $20–$25/hr
 - **Work mode:** On-site
 - **Job type:** fulltime
-- 🕒 **Posted:** 2026-07-07
+- 🕒 **Posted:** 2026-07-08
 
-### [CORRECTIONAL, YOUTH, SUPERVISOR III at Campus at Lookout Mtn](https://www.indeed.com/viewjob?jk=04024a12a51ecfdc) — State of Colorado
-- 📍 **Location:** Golden, CO, US
-- **Work mode:** Remote in-state eligible
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-07-06
-
-### [Licensed Medical Social Worker](https://www.indeed.com/viewjob?jk=b6df052a95790639) — Amazing Care
+### [Social Worker - Counselor @ Private Practice Therapy Clinic](https://www.indeed.com/viewjob?jk=2625480f7b442d6d) — PsychGo, LLC
 - 📍 **Location:** Denver, CO, US
-- 💰 **Salary:** $36k–$155k/yr
+- 💰 **Salary:** $52k–$85k/yr
+- **Work mode:** On-site
+- **Job type:** parttime, fulltime, contract
+- 🕒 **Posted:** 2026-07-08
+
+### [Premium Supervisor- Empower Field - Empower Field at Mile High](https://www.indeed.com/viewjob?jk=17b6b1491aa29e90) — Aramark
+- 📍 **Location:** Denver, CO, US
 - **Work mode:** On-site
 - **Job type:** parttime
-- 🕒 **Posted:** 2025-10-05
-
-### [Volunteer Coordinator](https://www.indeed.com/viewjob?jk=3afe943a257275df) — Community Food Share
-- 📍 **Location:** Louisville, CO, US
-- 💰 **Salary:** $23–$26/hr
-- **Work mode:** Remote in-state eligible
 - 🕒 **Posted:** 2026-07-07
 
-### [Program Coordinator - DD Waiver](https://www.indeed.com/viewjob?jk=b5bf775ce2e9bc74) — Colorado Family Caregivers
-- 📍 **Location:** Denver, CO, US
-- 💰 **Salary:** $58k–$63k/yr
+### [Care Coordinator - Oncology Urologic](https://www.indeed.com/viewjob?jk=7f1ec08c61154666) — UCHealth
+- 📍 **Location:** Aurora, CO, US
+- 💰 **Salary:** $21–$27/hr
 - **Work mode:** Remote in-state eligible
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-07-07
 
-### [Awake Overnight Behavioral Health Specialist](https://www.indeed.com/viewjob?jk=3c66c5309238670b) — Alternative Homes for Youth
-- 📍 **Location:** Greeley, CO, US
-- 💰 **Salary:** $21–$24/hr
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-07-07
-
-### [Care Coordinator](https://www.indeed.com/viewjob?jk=13d131160900fccd) — Umpqua Health
+### [Supervisor Quality Performance](https://www.indeed.com/viewjob?jk=3a79cc826d58cc49) — MultiCare Health System
 - 📍 **Location:** Remote, US
-- 💰 **Salary:** $80k–$92k/yr
+- 💰 **Salary:** $72k–$104k/yr
 - **Work mode:** Remote in-state eligible
 - **Job type:** fulltime
-- 🕒 **Posted:** 2026-07-07
+- 🕒 **Posted:** 2026-07-08
 
-### [Remote Bilingual Nurse Care Coordinator](https://www.indeed.com/viewjob?jk=ebcbc0c32df08da1) — Unknown
+### [Remote Care Coordinator for Virtual Patient Care](https://www.indeed.com/viewjob?jk=d1fa74a20a7baf0a) — Unknown
 - 📍 **Location:** Remote, US
-- 💰 **Salary:** $52k–$62k/yr
-- **Work mode:** Remote in-state eligible
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-07-07
-
-### [Social Worker (100% remote)](https://www.indeed.com/viewjob?jk=376e15353cd9039f) — Healthmap Solutions
-- 📍 **Location:** Remote, US
-- **Work mode:** Remote in-state eligible
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-07-07
-
-### [(LICSW) Licensed Independent Clinical Social Worker - Telehealth](https://www.indeed.com/viewjob?jk=eec0a86bb9b38742) — Brightside Health
-- 📍 **Location:** Remote, US
-- 💰 **Salary:** $83–$103/hr
+- 💰 **Salary:** $20–$25/hr
 - **Work mode:** Remote in-state eligible
 - **Job type:** contract
-- 🕒 **Posted:** 2026-07-07
-
-### [Care Coordinator (July 17th)](https://www.indeed.com/viewjob?jk=28bd6b3a75fd6c1e) — Cosan Group
-- 📍 **Location:** Remote, US
-- **Work mode:** Remote in-state eligible
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-07-07
-
-### [Member Care Coordinator](https://www.indeed.com/viewjob?jk=c15a95a50f2716f6) — Calibrate
-- 📍 **Location:** Remote, US
-- 💰 **Salary:** $21–$22/hr
-- **Work mode:** Remote in-state eligible
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-07-07
+- 🕒 **Posted:** 2026-07-08
