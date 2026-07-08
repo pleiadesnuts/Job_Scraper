@@ -1,37 +1,30 @@
 # ☕ HiringCafe — Social Worker Roles
-*Last updated: 2026-07-08 07:56 UTC*
+*Last updated: 2026-07-08 20:48 UTC*
 
-**5 new role(s)** since last run · 83 total in last 30d
+**4 new role(s)** since last run · 85 total in last 30d
 
-### [Social Worker](https://jobs.apploi.com/view/1894859?utm_campaign=integration&utm_medium=job-board-search&utm_source=None&ajs_event=LOAD_JOB_PAGE&ajs_aid=3f617530-4530-11e9-a2ca-7e775511d9e3&ajs_prop_search_fetch_id=729ac1c71f0a44bea0ddf856c104f51e&ajs_prop_keyword=&ajs_prop_page=1&ajs_prop_city_center=Unselected&ajs_prop_search_order=2&ajs_prop_job_id=1894859&ajs_prop_doc_type=job&ajs_prop_job_location_lat=40.2431714&ajs_prop_job_location_lon=-74.7440612&ajs_prop_boosted=0&ajs_prop_utm_source=None&ajs_prop_utm_medium=job-board-search&ajs_prop_utm_campaign=integration) — Avant Rehabilitation and Care Center
-- 📍 **Location:** Trenton, New Jersey, United States
+### [Social Worker](https://www.applitrack.com/scook/onlineapp/jobpostings/view.asp?AppliTrackJobId=880) — Suburban Cook County Online Application Consortium
+- 📍 **Location:** Homewood, Illinois, United States
+- **Work mode:** On-site
+- **Job type:** Full Time
+- 🕒 **Posted:** 2026-07-08T12:00:00.000Z
+
+### [Case Manager](https://jobs.workable.com/view/fkxzDPP3wEjJYPyAjfszDP/case-manager-in-coconut-grove-at-miami-family-law) — Miami Family Law
+- 📍 **Location:** Coconut Grove, Florida, United States
+- 💰 **Salary:** $75k–$85k/yr
+- **Work mode:** On-site
+- **Job type:** Full Time
+- 🕒 **Posted:** 2026-07-08T07:23:25.106Z
+
+### [Community Health Educator (CHW) - Community Health](https://hhccareers.taleo.net/careersection/hhc_ext/jobdetail.ftl?job=26157030&lang=en) — Hartford HealthCare
+- 📍 **Location:** New Britain, Connecticut, United States
 - **Work mode:** On-site
 - **Job type:** Part Time
-- 🕒 **Posted:** 2026-07-07T00:00:00.000Z
+- 🕒 **Posted:** 2026-07-08T12:00:00.000Z
 
-### [Social Worker](https://aakelementary.isolvedhire.com/jobs/1815135) — Minga Education Group, Inc
-- 📍 **Location:** Fort Collins, Colorado, United States
-- 💰 **Salary:** $60k/yr
-- **Work mode:** On-site
-- **Job type:** Full Time, Seasonal
-- 🕒 **Posted:** 2026-07-07T00:00:00.000Z
-
-### [Program Coordinator, Pediatrics](https://utsw.referrals.selectminds.com/jobs/program-coordinator-pediatrics-75849) — UTSW
-- 📍 **Location:** Dallas, Texas, United States
+### [Community Health Worker](https://www.governmentjobs.com/careers/redcliffnsn/jobs/5403076) — Red Cliff Band of Lake Superior Chippewa
+- 📍 **Location:** Red Cliff, Wisconsin, United States
+- 💰 **Salary:** $42k–$46k/yr
 - **Work mode:** On-site
 - **Job type:** Full Time
-- 🕒 **Posted:** 2026-07-07T17:31:27.023Z
-
-### [Community Health Worker](https://ats.rippling.com/scc/jobs/13a16e57-ab70-454c-a631-167699f53699) — Sabathani Community Center
-- 📍 **Location:** Minneapolis, Minnesota, United States
-- 💰 **Salary:** $58k–$65k/yr
-- **Work mode:** On-site
-- **Job type:** Full Time
-- 🕒 **Posted:** 2026-07-07T19:07:22.411Z
-
-### [Community Health Worker – Community Connect](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4313469) — Rural Resources Community Action
-- 📍 **Location:** Colville, Washington, United States
-- 💰 **Salary:** $45k–$49k/yr
-- **Work mode:** On-site
-- **Job type:** Full Time
-- 🕒 **Posted:** 2026-07-07T22:22:07.000Z
+- 🕒 **Posted:** 2026-07-08T19:55:46.617Z
