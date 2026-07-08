@@ -1,59 +1,54 @@
 # 🇺🇸 USAJOBS — Federal Social Worker Roles
-*Last updated: 2026-07-02 20:38 UTC*
+*Last updated: 2026-07-08 20:38 UTC*
 
-**11 new role(s)** since last run · 11 total in current USAJOBS postings
+**10 new role(s)** since last run · 11 total in current USAJOBS postings
 
-### [Social Worker (Patient Aligned Care Team)](https://www.usajobs.gov/job/875318800) — Veterans Health Administration
-- 📍 **Location:** Modesto, California
-- 💰 **Salary:** Starting at $89,731 Per year (GS 9-11)
-- 🕒 **Posted:** 2026-07-02
+### [Social Worker - Mental Health](https://www.usajobs.gov/job/875650400) — Veterans Health Administration
+- 📍 **Location:** Dubuque, Iowa
+- 💰 **Salary:** Starting at $61,722 Per year (GS 9-11)
+- 🕒 **Posted:** 2026-07-08
 
-### [Social Worker - HUD VASH](https://www.usajobs.gov/job/875257100) — Veterans Health Administration
+### [Surface Maintenance Mechanic Supervisor](https://www.usajobs.gov/job/875566700) — Army National Guard Units
+- 📍 **Location:** Fort Richardson, Alaska
+- 💰 **Salary:** Starting at $51.50 Per hour (WS 10)
+- 🕒 **Posted:** 2026-07-07
+
+### [Insect Production Worker Supervisor](https://www.usajobs.gov/job/875480800) — Animal and Plant Health Inspection Service
+- 📍 **Location:** Edinburg, Texas
+- 💰 **Salary:** Starting at $34.08 Per hour (WS 4)
+- 🕒 **Posted:** 2026-07-07
+
+### [Social Worker](https://www.usajobs.gov/job/875448700) — Veterans Health Administration
+- 📍 **Location:** Chillicothe, Ohio
+- 💰 **Salary:** Starting at $64,406 Per year (GS 9-11)
+- 🕒 **Posted:** 2026-07-07
+
+### [Senior Social Worker](https://www.usajobs.gov/job/875728500) — Veterans Health Administration
+- 📍 **Location:** Montgomery, Alabama
+- 💰 **Salary:** Starting at $92,138 Per year (GS 12)
+- 🕒 **Posted:** 2026-07-08
+
+### [Senior Social Worker - Pain Management](https://www.usajobs.gov/job/875568100) — Veterans Health Administration
 - 📍 **Location:** Salt Lake City, Utah
-- 💰 **Salary:** Starting at $72,500 Per year (GS 9-11)
-- 🕒 **Posted:** 2026-07-02
+- 💰 **Salary:** Starting at $105,137 Per year (GS 12)
+- 🕒 **Posted:** 2026-07-07
 
-### [Social Worker (HUD/VASH)](https://www.usajobs.gov/job/875128900) — Veterans Health Administration
-- 📍 **Location:** Big Spring, Texas
-- 💰 **Salary:** Starting at $71,255 Per year (GS 9-11)
-- 🕒 **Posted:** 2026-07-02
+### [Social Worker - Homeless Program](https://www.usajobs.gov/job/875540100) — Veterans Health Administration
+- 📍 **Location:** Saginaw, Michigan
+- 💰 **Salary:** Starting at $71,682 Per year (GS 9-11)
+- 🕒 **Posted:** 2026-07-07
 
-### [Social Worker (Program Coordinator)](https://www.usajobs.gov/job/875316200) — Veterans Health Administration
-- 📍 **Location:** Tuskegee, Alabama
-- 💰 **Salary:** Starting at $109,565 Per year (GS 13)
-- 🕒 **Posted:** 2026-07-02
+### [Social Worker- Readjustment Counselor](https://www.usajobs.gov/job/875513800) — Veterans Health Administration
+- 📍 **Location:** Jacksonville, North Carolina
+- 💰 **Salary:** Starting at $73,596 Per year (GS 9-11)
+- 🕒 **Posted:** 2026-07-07
 
-### [Social Worker (HUD VASH Program)](https://www.usajobs.gov/job/875303700) — Veterans Health Administration
-- 📍 **Location:** Kings, New York
-- 💰 **Salary:** Starting at $72,737 Per year (GS 9-11)
-- 🕒 **Posted:** 2026-07-02
+### [Social Worker](https://www.usajobs.gov/job/875479800) — Bureau of Prisons/Federal Prison System
+- 📍 **Location:** Bruceton Mills, West Virginia
+- 💰 **Salary:** Starting at $74,678 Per year (GS 11)
+- 🕒 **Posted:** 2026-07-07
 
-### [Social Worker](https://www.usajobs.gov/job/875276300) — Veterans Health Administration
-- 📍 **Location:** Milwaukee, Wisconsin
-- 💰 **Salary:** Starting at $65,195 Per year (GS 9-11)
-- 🕒 **Posted:** 2026-07-02
-
-### [Social Worker](https://www.usajobs.gov/job/875235300) — Veterans Health Administration
-- 📍 **Location:** Gilbert, Arizona
-- 💰 **Salary:** Starting at $73,818 Per year (GS 9-11)
-- 🕒 **Posted:** 2026-07-02
-
-### [Social Worker (Suicide Prevention Program)](https://www.usajobs.gov/job/875187000) — Veterans Health Administration
-- 📍 **Location:** Syracuse, New York
-- 💰 **Salary:** Starting at $85,249 Per year (GS 11)
-- 🕒 **Posted:** 2026-07-02
-
-### [Senior Social Worker (HUD-VASH)](https://www.usajobs.gov/job/875161100) — Veterans Health Administration
-- 📍 **Location:** Wenatchee, Washington
-- 💰 **Salary:** Starting at $97,987 Per year (GS 12)
-- 🕒 **Posted:** 2026-07-01
-
-### [Social Worker - Acute Recovery Center](https://www.usajobs.gov/job/875142100) — Veterans Health Administration
-- 📍 **Location:** Tampa, Florida
-- 💰 **Salary:** Starting at $67,570 Per year (GS 9-11)
-- 🕒 **Posted:** 2026-07-01
-
-### [PROGRAM MANAGER - DIRECT HIRE AUTHORITY](https://www.usajobs.gov/job/866969400) — Air Force Materiel Command
-- 📍 **Location:** Kelly AFB, Texas
-- 💰 **Salary:** Starting at $90,823 Per year (NH 3)
-- 🕒 **Posted:** 2026-04-28
+### [Senior Social Worker](https://www.usajobs.gov/job/875420500) — Veterans Health Administration
+- 📍 **Location:** Phoenix, Arizona
+- 💰 **Salary:** Starting at $107,048 Per year (GS 12)
+- 🕒 **Posted:** 2026-07-07

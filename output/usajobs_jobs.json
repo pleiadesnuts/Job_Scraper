@@ -1,96 +1,96 @@
 {
-  "scraped_at": "2026-07-02 20:38 UTC",
+  "scraped_at": "2026-07-08 20:38 UTC",
   "total": 11,
-  "new_count": 11,
+  "new_count": 10,
   "jobs": [
     {
       "company": "Veterans Health Administration",
-      "title": "Social Worker (Patient Aligned Care Team)",
-      "location": "Modesto, California",
-      "url": "https://www.usajobs.gov/job/875318800",
-      "date_posted": "2026-07-02",
-      "salary": "Starting at $89,731 Per year (GS 9-11)",
+      "title": "Social Worker - Mental Health",
+      "location": "Dubuque, Iowa",
+      "url": "https://www.usajobs.gov/job/875650400",
+      "date_posted": "2026-07-08",
+      "salary": "Starting at $61,722 Per year (GS 9-11)",
+      "ats": "USAJOBS"
+    },
+    {
+      "company": "Army National Guard Units",
+      "title": "Surface Maintenance Mechanic Supervisor",
+      "location": "Fort Richardson, Alaska",
+      "url": "https://www.usajobs.gov/job/875566700",
+      "date_posted": "2026-07-07",
+      "salary": "Starting at $51.50 Per hour (WS 10)",
+      "ats": "USAJOBS"
+    },
+    {
+      "company": "Animal and Plant Health Inspection Service",
+      "title": "Insect Production Worker Supervisor",
+      "location": "Edinburg, Texas",
+      "url": "https://www.usajobs.gov/job/875480800",
+      "date_posted": "2026-07-07",
+      "salary": "Starting at $34.08 Per hour (WS 4)",
       "ats": "USAJOBS"
     },
     {
       "company": "Veterans Health Administration",
-      "title": "Social Worker - HUD VASH",
+      "title": "Social Worker",
+      "location": "Chillicothe, Ohio",
+      "url": "https://www.usajobs.gov/job/875448700",
+      "date_posted": "2026-07-07",
+      "salary": "Starting at $64,406 Per year (GS 9-11)",
+      "ats": "USAJOBS"
+    },
+    {
+      "company": "Veterans Health Administration",
+      "title": "Senior Social Worker",
+      "location": "Montgomery, Alabama",
+      "url": "https://www.usajobs.gov/job/875728500",
+      "date_posted": "2026-07-08",
+      "salary": "Starting at $92,138 Per year (GS 12)",
+      "ats": "USAJOBS"
+    },
+    {
+      "company": "Veterans Health Administration",
+      "title": "Senior Social Worker - Pain Management",
       "location": "Salt Lake City, Utah",
-      "url": "https://www.usajobs.gov/job/875257100",
-      "date_posted": "2026-07-02",
-      "salary": "Starting at $72,500 Per year (GS 9-11)",
+      "url": "https://www.usajobs.gov/job/875568100",
+      "date_posted": "2026-07-07",
+      "salary": "Starting at $105,137 Per year (GS 12)",
       "ats": "USAJOBS"
     },
     {
       "company": "Veterans Health Administration",
-      "title": "Social Worker (HUD/VASH)",
-      "location": "Big Spring, Texas",
-      "url": "https://www.usajobs.gov/job/875128900",
-      "date_posted": "2026-07-02",
-      "salary": "Starting at $71,255 Per year (GS 9-11)",
+      "title": "Social Worker - Homeless Program",
+      "location": "Saginaw, Michigan",
+      "url": "https://www.usajobs.gov/job/875540100",
+      "date_posted": "2026-07-07",
+      "salary": "Starting at $71,682 Per year (GS 9-11)",
       "ats": "USAJOBS"
     },
     {
       "company": "Veterans Health Administration",
-      "title": "Social Worker (Program Coordinator)",
-      "location": "Tuskegee, Alabama",
-      "url": "https://www.usajobs.gov/job/875316200",
-      "date_posted": "2026-07-02",
-      "salary": "Starting at $109,565 Per year (GS 13)",
+      "title": "Social Worker- Readjustment Counselor",
+      "location": "Jacksonville, North Carolina",
+      "url": "https://www.usajobs.gov/job/875513800",
+      "date_posted": "2026-07-07",
+      "salary": "Starting at $73,596 Per year (GS 9-11)",
       "ats": "USAJOBS"
     },
     {
-      "company": "Veterans Health Administration",
-      "title": "Social Worker (HUD VASH Program)",
-      "location": "Kings, New York",
-      "url": "https://www.usajobs.gov/job/875303700",
-      "date_posted": "2026-07-02",
-      "salary": "Starting at $72,737 Per year (GS 9-11)",
-      "ats": "USAJOBS"
-    },
-    {
-      "company": "Veterans Health Administration",
+      "company": "Bureau of Prisons/Federal Prison System",
       "title": "Social Worker",
-      "location": "Milwaukee, Wisconsin",
-      "url": "https://www.usajobs.gov/job/875276300",
-      "date_posted": "2026-07-02",
-      "salary": "Starting at $65,195 Per year (GS 9-11)",
+      "location": "Bruceton Mills, West Virginia",
+      "url": "https://www.usajobs.gov/job/875479800",
+      "date_posted": "2026-07-07",
+      "salary": "Starting at $74,678 Per year (GS 11)",
       "ats": "USAJOBS"
     },
     {
       "company": "Veterans Health Administration",
-      "title": "Social Worker",
-      "location": "Gilbert, Arizona",
-      "url": "https://www.usajobs.gov/job/875235300",
-      "date_posted": "2026-07-02",
-      "salary": "Starting at $73,818 Per year (GS 9-11)",
-      "ats": "USAJOBS"
-    },
-    {
-      "company": "Veterans Health Administration",
-      "title": "Social Worker (Suicide Prevention Program)",
-      "location": "Syracuse, New York",
-      "url": "https://www.usajobs.gov/job/875187000",
-      "date_posted": "2026-07-02",
-      "salary": "Starting at $85,249 Per year (GS 11)",
-      "ats": "USAJOBS"
-    },
-    {
-      "company": "Veterans Health Administration",
-      "title": "Senior Social Worker (HUD-VASH)",
-      "location": "Wenatchee, Washington",
-      "url": "https://www.usajobs.gov/job/875161100",
-      "date_posted": "2026-07-01",
-      "salary": "Starting at $97,987 Per year (GS 12)",
-      "ats": "USAJOBS"
-    },
-    {
-      "company": "Veterans Health Administration",
-      "title": "Social Worker - Acute Recovery Center",
-      "location": "Tampa, Florida",
-      "url": "https://www.usajobs.gov/job/875142100",
-      "date_posted": "2026-07-01",
-      "salary": "Starting at $67,570 Per year (GS 9-11)",
+      "title": "Senior Social Worker",
+      "location": "Phoenix, Arizona",
+      "url": "https://www.usajobs.gov/job/875420500",
+      "date_posted": "2026-07-07",
+      "salary": "Starting at $107,048 Per year (GS 12)",
       "ats": "USAJOBS"
     },
     {
@@ -106,101 +106,92 @@
   "new_jobs": [
     {
       "company": "Veterans Health Administration",
-      "title": "Social Worker (Patient Aligned Care Team)",
-      "location": "Modesto, California",
-      "url": "https://www.usajobs.gov/job/875318800",
-      "date_posted": "2026-07-02",
-      "salary": "Starting at $89,731 Per year (GS 9-11)",
+      "title": "Social Worker - Mental Health",
+      "location": "Dubuque, Iowa",
+      "url": "https://www.usajobs.gov/job/875650400",
+      "date_posted": "2026-07-08",
+      "salary": "Starting at $61,722 Per year (GS 9-11)",
+      "ats": "USAJOBS"
+    },
+    {
+      "company": "Army National Guard Units",
+      "title": "Surface Maintenance Mechanic Supervisor",
+      "location": "Fort Richardson, Alaska",
+      "url": "https://www.usajobs.gov/job/875566700",
+      "date_posted": "2026-07-07",
+      "salary": "Starting at $51.50 Per hour (WS 10)",
+      "ats": "USAJOBS"
+    },
+    {
+      "company": "Animal and Plant Health Inspection Service",
+      "title": "Insect Production Worker Supervisor",
+      "location": "Edinburg, Texas",
+      "url": "https://www.usajobs.gov/job/875480800",
+      "date_posted": "2026-07-07",
+      "salary": "Starting at $34.08 Per hour (WS 4)",
       "ats": "USAJOBS"
     },
     {
       "company": "Veterans Health Administration",
-      "title": "Social Worker - HUD VASH",
+      "title": "Social Worker",
+      "location": "Chillicothe, Ohio",
+      "url": "https://www.usajobs.gov/job/875448700",
+      "date_posted": "2026-07-07",
+      "salary": "Starting at $64,406 Per year (GS 9-11)",
+      "ats": "USAJOBS"
+    },
+    {
+      "company": "Veterans Health Administration",
+      "title": "Senior Social Worker",
+      "location": "Montgomery, Alabama",
+      "url": "https://www.usajobs.gov/job/875728500",
+      "date_posted": "2026-07-08",
+      "salary": "Starting at $92,138 Per year (GS 12)",
+      "ats": "USAJOBS"
+    },
+    {
+      "company": "Veterans Health Administration",
+      "title": "Senior Social Worker - Pain Management",
       "location": "Salt Lake City, Utah",
-      "url": "https://www.usajobs.gov/job/875257100",
-      "date_posted": "2026-07-02",
-      "salary": "Starting at $72,500 Per year (GS 9-11)",
+      "url": "https://www.usajobs.gov/job/875568100",
+      "date_posted": "2026-07-07",
+      "salary": "Starting at $105,137 Per year (GS 12)",
       "ats": "USAJOBS"
     },
     {
       "company": "Veterans Health Administration",
-      "title": "Social Worker (HUD/VASH)",
-      "location": "Big Spring, Texas",
-      "url": "https://www.usajobs.gov/job/875128900",
-      "date_posted": "2026-07-02",
-      "salary": "Starting at $71,255 Per year (GS 9-11)",
+      "title": "Social Worker - Homeless Program",
+      "location": "Saginaw, Michigan",
+      "url": "https://www.usajobs.gov/job/875540100",
+      "date_posted": "2026-07-07",
+      "salary": "Starting at $71,682 Per year (GS 9-11)",
       "ats": "USAJOBS"
     },
     {
       "company": "Veterans Health Administration",
-      "title": "Social Worker (Program Coordinator)",
-      "location": "Tuskegee, Alabama",
-      "url": "https://www.usajobs.gov/job/875316200",
-      "date_posted": "2026-07-02",
-      "salary": "Starting at $109,565 Per year (GS 13)",
+      "title": "Social Worker- Readjustment Counselor",
+      "location": "Jacksonville, North Carolina",
+      "url": "https://www.usajobs.gov/job/875513800",
+      "date_posted": "2026-07-07",
+      "salary": "Starting at $73,596 Per year (GS 9-11)",
       "ats": "USAJOBS"
     },
     {
-      "company": "Veterans Health Administration",
-      "title": "Social Worker (HUD VASH Program)",
-      "location": "Kings, New York",
-      "url": "https://www.usajobs.gov/job/875303700",
-      "date_posted": "2026-07-02",
-      "salary": "Starting at $72,737 Per year (GS 9-11)",
-      "ats": "USAJOBS"
-    },
-    {
-      "company": "Veterans Health Administration",
+      "company": "Bureau of Prisons/Federal Prison System",
       "title": "Social Worker",
-      "location": "Milwaukee, Wisconsin",
-      "url": "https://www.usajobs.gov/job/875276300",
-      "date_posted": "2026-07-02",
-      "salary": "Starting at $65,195 Per year (GS 9-11)",
+      "location": "Bruceton Mills, West Virginia",
+      "url": "https://www.usajobs.gov/job/875479800",
+      "date_posted": "2026-07-07",
+      "salary": "Starting at $74,678 Per year (GS 11)",
       "ats": "USAJOBS"
     },
     {
       "company": "Veterans Health Administration",
-      "title": "Social Worker",
-      "location": "Gilbert, Arizona",
-      "url": "https://www.usajobs.gov/job/875235300",
-      "date_posted": "2026-07-02",
-      "salary": "Starting at $73,818 Per year (GS 9-11)",
-      "ats": "USAJOBS"
-    },
-    {
-      "company": "Veterans Health Administration",
-      "title": "Social Worker (Suicide Prevention Program)",
-      "location": "Syracuse, New York",
-      "url": "https://www.usajobs.gov/job/875187000",
-      "date_posted": "2026-07-02",
-      "salary": "Starting at $85,249 Per year (GS 11)",
-      "ats": "USAJOBS"
-    },
-    {
-      "company": "Veterans Health Administration",
-      "title": "Senior Social Worker (HUD-VASH)",
-      "location": "Wenatchee, Washington",
-      "url": "https://www.usajobs.gov/job/875161100",
-      "date_posted": "2026-07-01",
-      "salary": "Starting at $97,987 Per year (GS 12)",
-      "ats": "USAJOBS"
-    },
-    {
-      "company": "Veterans Health Administration",
-      "title": "Social Worker - Acute Recovery Center",
-      "location": "Tampa, Florida",
-      "url": "https://www.usajobs.gov/job/875142100",
-      "date_posted": "2026-07-01",
-      "salary": "Starting at $67,570 Per year (GS 9-11)",
-      "ats": "USAJOBS"
-    },
-    {
-      "company": "Air Force Materiel Command",
-      "title": "PROGRAM MANAGER - DIRECT HIRE AUTHORITY",
-      "location": "Kelly AFB, Texas",
-      "url": "https://www.usajobs.gov/job/866969400",
-      "date_posted": "2026-04-28",
-      "salary": "Starting at $90,823 Per year (NH 3)",
+      "title": "Senior Social Worker",
+      "location": "Phoenix, Arizona",
+      "url": "https://www.usajobs.gov/job/875420500",
+      "date_posted": "2026-07-07",
+      "salary": "Starting at $107,048 Per year (GS 12)",
       "ats": "USAJOBS"
     }
   ]
