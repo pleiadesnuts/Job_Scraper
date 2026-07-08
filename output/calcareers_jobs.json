@@ -1,19 +1,19 @@
 {
-  "scraped_at": "2026-07-05 20:21 UTC",
+  "scraped_at": "2026-07-08 20:43 UTC",
   "total": 1,
   "new_count": 0,
   "jobs": [
     {
-      "company": "Department of Public Health",
-      "title": "Standardization and Continuous Improvement Supervisor",
-      "location": "United States",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=522366",
-      "date_posted": "2026-06-23",
-      "salary": "$10854.00 - $13493.00",
+      "company": "Department of Justice",
+      "title": "Criminalist Supervisor (Quality Assurance Specialist)",
+      "location": "Sacramento County",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=522930",
+      "date_posted": "2026-07-08",
+      "salary": "$9093.00 - $12480.00",
       "ats": "CalCareers",
-      "telework": "Hybrid",
+      "telework": "In Office",
       "job_type": "Permanent, Full Time",
-      "work_arrangement": "Telecommute eligible"
+      "work_arrangement": "On-site"
     }
   ],
   "new_jobs": []
