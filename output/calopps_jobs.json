@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-07-07 21:22 UTC",
+  "scraped_at": "2026-07-08 20:46 UTC",
   "total": 7,
-  "new_count": 1,
+  "new_count": 0,
   "jobs": [
     {
       "company": "Housing Authority Of The City Of Alameda",
@@ -67,15 +67,5 @@
       "ats": "CalOpps"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Housing Authority Of The City Of Alameda",
-      "title": "Housing Specialist I",
-      "location": "East Bay",
-      "url": "https://www.calopps.org/housing-authority-of-the-city-of-alameda/job-20756132",
-      "date_posted": "",
-      "salary": "$42.34-$51.48 Hourly",
-      "ats": "CalOpps"
-    }
-  ]
+  "new_jobs": []
 }
