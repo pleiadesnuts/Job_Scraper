@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-07-09 08:56 UTC",
-  "total": 81,
-  "new_count": 5,
+  "scraped_at": "2026-07-09 22:08 UTC",
+  "total": 77,
+  "new_count": 3,
   "jobs": [
     {
       "company": "Northwell Career Site",
@@ -158,20 +158,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Guilford County Schools",
-      "title": "SOCIAL WORKER",
-      "location": "Guilford County, North Carolina, United States",
-      "url": "https://www.applitrack.com/gcsnc/onlineapp/jobpostings/view.asp?AppliTrackJobId=43737",
-      "direct_url": "https://www.applitrack.com/gcsnc/onlineapp/jobpostings/view.asp?AppliTrackJobId=43737",
-      "date_posted": "2026-06-23T12:00:00.000Z",
-      "description": "Requires a degree in social work and a licensed school/social worker credential. 10-month, full-time exempt position; salary determined by NC DPI; starting pay $4,825/month.",
-      "salary": "$58k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Catapult Learning",
       "title": "Social Worker",
       "location": "Baltimore, Maryland, United States",
@@ -181,20 +167,6 @@
       "description": "Master's degree in counseling or related field; active social worker license (LCSWC, LMSW, LGPC, LCPC); experience working with students desired.",
       "salary": "$73k–$79k/yr",
       "job_type": "Full Time, Part Time, Seasonal",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Triad Community Unit School District #2",
-      "title": "Social Worker",
-      "location": "United States",
-      "url": "https://www.applitrack.com/triad/onlineapp/jobpostings/view.asp?AppliTrackJobId=1138",
-      "direct_url": "https://www.applitrack.com/triad/onlineapp/jobpostings/view.asp?AppliTrackJobId=1138",
-      "date_posted": "2026-06-09T12:00:00.000Z",
-      "description": "Requires a Professional Educator license with School Social Worker endorsement for placement in Triad school buildings; letters of interest and online application requested.",
-      "salary": "",
-      "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
       "ats": "HiringCafe"
@@ -326,20 +298,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "UCM",
-      "title": "Case Manager",
-      "location": "Chicago, Illinois, United States",
-      "url": "https://fa-etnf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/requisitions/job/1863",
-      "direct_url": "https://fa-etnf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/requisitions/job/1863",
-      "date_posted": "2026-06-09T19:14:49.000Z",
-      "description": "Requires Illinois RN and 3+ years nursing experience with case management/care coordination; experience in inpatient case management, strong communication and documentation skills; case management certification preferred.",
-      "salary": "$83k–$155k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Osborne Association Inc",
       "title": "Case Manager",
       "location": "Brooklyn, New York, United States",
@@ -410,14 +368,14 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Divine Arms of Love GRO LLC",
+      "company": "Vincennes University",
       "title": "Case Manager",
-      "location": "Houston, Texas, United States",
-      "url": "https://jobs.gusto.com/postings/divine-arms-of-love-gro-llc-case-manager-aed0a9d9-e769-41ad-9d51-27ec7f558985",
-      "direct_url": "https://jobs.gusto.com/postings/divine-arms-of-love-gro-llc-case-manager-aed0a9d9-e769-41ad-9d51-27ec7f558985",
-      "date_posted": "2026-07-06T21:06:46.809Z",
-      "description": "Bachelor's degree in social work/psychology/human services, 2+ years case management experience, CPR and First Aid, valid driver's license and reliable transportation, proficient with case management software and Microsoft Office.",
-      "salary": "$42k/yr",
+      "location": "Vincennes or Gibson County",
+      "url": "https://secure7.saashr.com/ta/6051788.careers?ShowJob=604474824",
+      "direct_url": "https://secure7.saashr.com/ta/6051788.careers?ShowJob=604474824",
+      "date_posted": "2026-06-29T17:46:48.224Z",
+      "description": "Provide options counseling and case management, conduct assessments and home visits, develop person-centered plans, link clients to community resources; must obtain Division of Aging Case Management certification within six months.",
+      "salary": "$36k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
@@ -435,34 +393,6 @@
       "job_type": "Contract",
       "is_remote": false,
       "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Vincennes University",
-      "title": "Case Manager",
-      "location": "Vincennes or Gibson County",
-      "url": "https://secure7.saashr.com/ta/6051788.careers?ShowJob=604474824",
-      "direct_url": "https://secure7.saashr.com/ta/6051788.careers?ShowJob=604474824",
-      "date_posted": "2026-06-29T17:46:48.224Z",
-      "description": "Provide options counseling and case management, conduct assessments and home visits, develop person-centered plans, link clients to community resources; must obtain Division of Aging Case Management certification within six months.",
-      "salary": "$36k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Bcbsnc",
-      "title": "Case Manager",
-      "location": "Durham or Alabama or Arizona or Arkansas or Colorado or Florida or Georgia or Idaho or Indiana or Iowa or Kansas or Kentucky or Louisiana or Maryland or Michigan or Mississippi or Missouri or North Carolina or Ohio or Oklahoma or Pennsylvania or South Carolina or South Dakota or Tennessee or Texas or Utah or Virginia or Wisconsin or Wyoming or United States",
-      "url": "https://bcbsnc.wd5.myworkdayjobs.com/bcbsnc/job/Remote-Flex---North-Carolina/Case-Manager_RQ0018969",
-      "direct_url": "https://bcbsnc.wd5.myworkdayjobs.com/bcbsnc/job/Remote-Flex---North-Carolina/Case-Manager_RQ0018969",
-      "date_posted": "2026-07-02T00:00:00.000Z",
-      "description": "RN, RD, or LCSW with 3+ years clinical/case management experience; maintain valid NC or compact clinical license; specialty certs like CCM or CDCES may be required; telephonic case management and pediatric/NICU experience preferred.",
-      "salary": "$74k–$118k/yr",
-      "job_type": "Full Time",
-      "is_remote": true,
-      "work_arrangement": "Remote in-state eligible",
       "ats": "HiringCafe"
     },
     {
@@ -557,6 +487,20 @@
       "direct_url": "https://medicalcentersetexas.isolvedhire.com/jobs/1811407",
       "date_posted": "2026-07-01T00:00:00.000Z",
       "description": "Current Texas RN or LVN license required. Experience in healthcare delivery with focus on case management or performance improvement preferred.",
+      "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Applied ABC",
+      "title": "Case Manager",
+      "location": "Tucson, Arizona, United States",
+      "url": "https://jobs.apploi.com/view/1878338?utm_campaign=integration&utm_medium=job-board-search&utm_source=None&ajs_event=LOAD_JOB_PAGE&ajs_aid=3f617530-4530-11e9-a2ca-7e775511d9e3&ajs_prop_search_fetch_id=bb82193234d942b183357f12961230a9&ajs_prop_keyword=&ajs_prop_page=1&ajs_prop_city_center=Unselected&ajs_prop_search_order=3&ajs_prop_job_id=1878338&ajs_prop_doc_type=job&ajs_prop_job_location_lat=32.2539787&ajs_prop_job_location_lon=-110.9741769&ajs_prop_boosted=0&ajs_prop_utm_source=None&ajs_prop_utm_medium=job-board-search&ajs_prop_utm_campaign=integration",
+      "direct_url": "https://jobs.apploi.com/view/1878338?utm_campaign=integration&utm_medium=job-board-search&utm_source=None&ajs_event=LOAD_JOB_PAGE&ajs_aid=3f617530-4530-11e9-a2ca-7e775511d9e3&ajs_prop_search_fetch_id=bb82193234d942b183357f12961230a9&ajs_prop_keyword=&ajs_prop_page=1&ajs_prop_city_center=Unselected&ajs_prop_search_order=3&ajs_prop_job_id=1878338&ajs_prop_doc_type=job&ajs_prop_job_location_lat=32.2539787&ajs_prop_job_location_lon=-110.9741769&ajs_prop_boosted=0&ajs_prop_utm_source=None&ajs_prop_utm_medium=job-board-search&ajs_prop_utm_campaign=integration",
+      "date_posted": "2026-06-11T00:00:00.000Z",
+      "description": "Minimum 2 years professional experience; case management or family support in ABA preferred; skilled with Microsoft Suite; strong communication, time management, and HIPAA-compliant confidentiality.",
       "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
@@ -662,20 +606,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Olemiss",
-      "title": "Program Coordinator",
-      "location": "Oxford, Mississippi, United States",
-      "url": "https://olemiss.wd12.myworkdayjobs.com/external__staff/job/University-MS/Program-Coordinator_JR102636",
-      "direct_url": "https://olemiss.wd12.myworkdayjobs.com/external__staff/job/University-MS/Program-Coordinator_JR102636",
-      "date_posted": "2026-06-16T00:00:00.000Z",
-      "description": "Bachelor's degree and 3 years relevant experience required. Experience with grant administration, fiscal/budget tasks, program implementation, outreach, reporting, writing/editing materials, and coordinating staff and events.",
-      "salary": "$52k–$77k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Everforth ECS Federal",
       "title": "Program Coordinator",
       "location": "Washington, District Of Columbia, United States",
@@ -718,20 +648,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "LSST Inc.",
-      "title": "Program Coordinator",
-      "location": "United States",
-      "url": "https://lsst-inc.gnahiring.com/job/1038181/program-coordinator",
-      "direct_url": "https://lsst-inc.gnahiring.com/job/1038181/program-coordinator",
-      "date_posted": "2026-07-06T01:38:33.000Z",
-      "description": "Bachelor's or equivalent, 3–5 years program/project/ research administration experience, strong organization, communication, Microsoft Office 365 proficiency, ability to work remotely and coordinate events/grants/budgets.",
-      "salary": "$70k–$80k/yr",
-      "job_type": "Full Time",
-      "is_remote": true,
-      "work_arrangement": "Remote in-state eligible",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "VOA Illinois",
       "title": "Program Coordinator",
       "location": "Chicago, Illinois, United States",
@@ -743,6 +659,20 @@
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "LSST Inc.",
+      "title": "Program Coordinator",
+      "location": "United States",
+      "url": "https://lsst-inc.gnahiring.com/job/1038181/program-coordinator",
+      "direct_url": "https://lsst-inc.gnahiring.com/job/1038181/program-coordinator",
+      "date_posted": "2026-07-06T01:38:33.000Z",
+      "description": "Bachelor's or equivalent, 3–5 years program/project/ research administration experience, strong organization, communication, Microsoft Office 365 proficiency, ability to work remotely and coordinate events/grants/budgets.",
+      "salary": "$70k–$80k/yr",
+      "job_type": "Full Time",
+      "is_remote": true,
+      "work_arrangement": "Remote in-state eligible",
       "ats": "HiringCafe"
     },
     {
@@ -914,20 +844,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "State of Washington",
-      "title": "Program Coordinator - SW Region Capital Program",
-      "location": "Olympia, Washington, United States",
-      "url": "https://www.governmentjobs.com/careers/washington/jobs/5393021",
-      "direct_url": "https://www.governmentjobs.com/careers/washington/jobs/5393021",
-      "date_posted": "2026-06-30T19:54:25.000Z",
-      "description": "Program coordination experience with 1–3+ years of office planning/coordination. Valid driver's license required. Ability to administer contracts, process invoices, monitor budgets, schedule meetings, and coordinate travel. Excel competency preferred.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "Telecommute eligible",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Netrio",
       "title": "Cyber Program Coordinator",
       "location": "United States",
@@ -939,6 +855,20 @@
       "job_type": "Full Time",
       "is_remote": true,
       "work_arrangement": "Remote in-state eligible",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Rush University Medical Center",
+      "title": "Program Coordinator",
+      "location": "Chicago, Illinois, United States",
+      "url": "https://rushprod-lm01.cloud.infor.com:1444/lmghr/CandidateSelfService/lm?dataarea=lmghr&_frommenu=true&context.dataarea=lmghr&context.session.key.JobBoard=RUSHEXTERNAL&context.session.key.HROrganization=10&JobReq=27609&JobPost=2",
+      "direct_url": "https://rushprod-lm01.cloud.infor.com:1444/lmghr/CandidateSelfService/lm?dataarea=lmghr&_frommenu=true&context.dataarea=lmghr&context.session.key.JobBoard=RUSHEXTERNAL&context.session.key.HROrganization=10&JobReq=27609&JobPost=2",
+      "date_posted": "2026-06-11T00:00:00.000Z",
+      "description": "Bachelor's degree, 2 years administrative/coordinator experience, proficiency with Microsoft Office, experience with Epic/LVM, strong communication, organizational, evaluation, and project management skills.",
+      "salary": "$52k–$83k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "Telecommute eligible",
       "ats": "HiringCafe"
     },
     {
@@ -1124,6 +1054,20 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "Ebnhc",
+      "title": "OB Behavorial Health Community Health Worker",
+      "location": "Boston, Massachusetts, United States",
+      "url": "https://ebnhc.wd1.myworkdayjobs.com/ebnhc/job/East-Boston/OB-Behavorial-Health-Community-Health-Worker_R0007316",
+      "direct_url": "https://ebnhc.wd1.myworkdayjobs.com/ebnhc/job/East-Boston/OB-Behavorial-Health-Community-Health-Worker_R0007316",
+      "date_posted": "2026-06-16T00:00:00.000Z",
+      "description": "High school diploma required; CHW certification preferred; 1–2 years community health/outreach or behavioral health experience; proficiency with EPIC and Microsoft Office; strong communication, outreach, and documentation skills; Spanish fluency strongly preferred.",
+      "salary": "$46k–$69k/yr",
+      "job_type": "Full Time, Temporary",
+      "is_remote": false,
+      "work_arrangement": "Telecommute eligible",
+      "ats": "HiringCafe"
+    },
+    {
       "company": "Jewish United Fund",
       "title": "Nonprofit Program Coordinator",
       "location": "Chicago, Illinois, United States",
@@ -1140,55 +1084,13 @@
   ],
   "new_jobs": [
     {
-      "company": "Allina",
-      "title": "Social Worker",
-      "location": "Minneapolis or Minnesota or Wisconsin",
-      "url": "https://allina.wd5.myworkdayjobs.com/external/job/Allina-Commons/Social-Worker_R-0072624",
-      "direct_url": "https://allina.wd5.myworkdayjobs.com/external/job/Allina-Commons/Social-Worker_R-0072624",
-      "date_posted": "2026-07-08T00:00:00.000Z",
-      "description": "Bachelor's in social work required, MSW preferred; 2+ years social work experience in acute care; licensed social worker in MN (and WI if applicable); valid driver's license; knowledge of EMR and care coordination.",
-      "salary": "$65k–$104k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "Telecommute eligible",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Department of Corrections",
-      "title": "Social Worker",
-      "location": "Wisconsin, United States",
-      "url": "https://wj.wi.gov/psc/wisjobs/CAREERS/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&Action=U&FOCUS=Applicant&JobOpeningId=21213&PostingSeq=1&SiteId=1",
-      "direct_url": "https://wj.wi.gov/psc/wisjobs/CAREERS/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&Action=U&FOCUS=Applicant&JobOpeningId=21213&PostingSeq=1&SiteId=1",
-      "date_posted": "2026-06-18T12:00:00.000Z",
-      "description": "Active Wisconsin Social Worker credential required; candidates may need background check and drug screen; Senior level requires additional correctional or total social work experience.",
-      "salary": "$68k–$81k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "YMCA of Greater Cincinnati",
-      "title": "Program Coordinator",
-      "location": "Hillsboro, Ohio, United States",
-      "url": "https://secure.entertimeonline.com/ta/QULP0136.careers?ShowJob=520423650",
-      "direct_url": "https://secure.entertimeonline.com/ta/QULP0136.careers?ShowJob=520423650",
-      "date_posted": "2026-07-08T21:24:46.844Z",
-      "description": "1+ year supervising or program coordination experience, high school diploma, current lifeguard and CPR/AED/First Aid certifications, ability to recruit/train staff and manage program operations.",
-      "salary": "$35k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Buffalo Center for Arts and Technology",
-      "title": "Program Coordinator",
-      "location": "Buffalo, New York, United States",
-      "url": "https://apply.appone.com/job/6a4d48e7d12a86db70ff1ffa",
-      "direct_url": "https://apply.appone.com/job/6a4d48e7d12a86db70ff1ffa",
-      "date_posted": "2026-07-08T16:23:09.000Z",
-      "description": "Experience in program coordination or operations, ability to obtain NYS BPSS Agent certification, strong organizational and communication skills, proficiency with Google Workspace, Microsoft Office and CRM, grant administrative experience preferred.",
+      "company": "Applied ABC",
+      "title": "Case Manager",
+      "location": "Tucson, Arizona, United States",
+      "url": "https://jobs.apploi.com/view/1878338?utm_campaign=integration&utm_medium=job-board-search&utm_source=None&ajs_event=LOAD_JOB_PAGE&ajs_aid=3f617530-4530-11e9-a2ca-7e775511d9e3&ajs_prop_search_fetch_id=bb82193234d942b183357f12961230a9&ajs_prop_keyword=&ajs_prop_page=1&ajs_prop_city_center=Unselected&ajs_prop_search_order=3&ajs_prop_job_id=1878338&ajs_prop_doc_type=job&ajs_prop_job_location_lat=32.2539787&ajs_prop_job_location_lon=-110.9741769&ajs_prop_boosted=0&ajs_prop_utm_source=None&ajs_prop_utm_medium=job-board-search&ajs_prop_utm_campaign=integration",
+      "direct_url": "https://jobs.apploi.com/view/1878338?utm_campaign=integration&utm_medium=job-board-search&utm_source=None&ajs_event=LOAD_JOB_PAGE&ajs_aid=3f617530-4530-11e9-a2ca-7e775511d9e3&ajs_prop_search_fetch_id=bb82193234d942b183357f12961230a9&ajs_prop_keyword=&ajs_prop_page=1&ajs_prop_city_center=Unselected&ajs_prop_search_order=3&ajs_prop_job_id=1878338&ajs_prop_doc_type=job&ajs_prop_job_location_lat=32.2539787&ajs_prop_job_location_lon=-110.9741769&ajs_prop_boosted=0&ajs_prop_utm_source=None&ajs_prop_utm_medium=job-board-search&ajs_prop_utm_campaign=integration",
+      "date_posted": "2026-06-11T00:00:00.000Z",
+      "description": "Minimum 2 years professional experience; case management or family support in ABA preferred; skilled with Microsoft Suite; strong communication, time management, and HIPAA-compliant confidentiality.",
       "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
@@ -1196,17 +1098,31 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Wvumedicine",
-      "title": "Community Health Worker",
-      "location": "Oakland, Maryland, United States",
-      "url": "https://wvumedicine.wd1.myworkdayjobs.com/wvuh/job/Garrett-Regional-Medical-Center-GRMC/Community-Health-Worker_JR26-39560",
-      "direct_url": "https://wvumedicine.wd1.myworkdayjobs.com/wvuh/job/Garrett-Regional-Medical-Center-GRMC/Community-Health-Worker_JR26-39560",
-      "date_posted": "2026-07-06T00:00:00.000Z",
-      "description": "High school diploma or equivalent, valid driver’s license, CPR preferred, experience with electronic health records, strong communication and organizational skills.",
-      "salary": "$35k–$52k/yr",
+      "company": "Rush University Medical Center",
+      "title": "Program Coordinator",
+      "location": "Chicago, Illinois, United States",
+      "url": "https://rushprod-lm01.cloud.infor.com:1444/lmghr/CandidateSelfService/lm?dataarea=lmghr&_frommenu=true&context.dataarea=lmghr&context.session.key.JobBoard=RUSHEXTERNAL&context.session.key.HROrganization=10&JobReq=27609&JobPost=2",
+      "direct_url": "https://rushprod-lm01.cloud.infor.com:1444/lmghr/CandidateSelfService/lm?dataarea=lmghr&_frommenu=true&context.dataarea=lmghr&context.session.key.JobBoard=RUSHEXTERNAL&context.session.key.HROrganization=10&JobReq=27609&JobPost=2",
+      "date_posted": "2026-06-11T00:00:00.000Z",
+      "description": "Bachelor's degree, 2 years administrative/coordinator experience, proficiency with Microsoft Office, experience with Epic/LVM, strong communication, organizational, evaluation, and project management skills.",
+      "salary": "$52k–$83k/yr",
       "job_type": "Full Time",
       "is_remote": false,
-      "work_arrangement": "On-site",
+      "work_arrangement": "Telecommute eligible",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Ebnhc",
+      "title": "OB Behavorial Health Community Health Worker",
+      "location": "Boston, Massachusetts, United States",
+      "url": "https://ebnhc.wd1.myworkdayjobs.com/ebnhc/job/East-Boston/OB-Behavorial-Health-Community-Health-Worker_R0007316",
+      "direct_url": "https://ebnhc.wd1.myworkdayjobs.com/ebnhc/job/East-Boston/OB-Behavorial-Health-Community-Health-Worker_R0007316",
+      "date_posted": "2026-06-16T00:00:00.000Z",
+      "description": "High school diploma required; CHW certification preferred; 1–2 years community health/outreach or behavioral health experience; proficiency with EPIC and Microsoft Office; strong communication, outreach, and documentation skills; Spanish fluency strongly preferred.",
+      "salary": "$46k–$69k/yr",
+      "job_type": "Full Time, Temporary",
+      "is_remote": false,
+      "work_arrangement": "Telecommute eligible",
       "ats": "HiringCafe"
     }
   ]

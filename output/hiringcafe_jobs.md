@@ -1,38 +1,24 @@
 # ☕ HiringCafe — Social Worker Roles
-*Last updated: 2026-07-09 08:56 UTC*
+*Last updated: 2026-07-09 22:08 UTC*
 
-**5 new role(s)** since last run · 81 total in last 30d
+**3 new role(s)** since last run · 77 total in last 30d
 
-### [Social Worker](https://allina.wd5.myworkdayjobs.com/external/job/Allina-Commons/Social-Worker_R-0072624) — Allina
-- 📍 **Location:** Minneapolis or Minnesota or Wisconsin
-- 💰 **Salary:** $65k–$104k/yr
+### [Case Manager](https://jobs.apploi.com/view/1878338?utm_campaign=integration&utm_medium=job-board-search&utm_source=None&ajs_event=LOAD_JOB_PAGE&ajs_aid=3f617530-4530-11e9-a2ca-7e775511d9e3&ajs_prop_search_fetch_id=bb82193234d942b183357f12961230a9&ajs_prop_keyword=&ajs_prop_page=1&ajs_prop_city_center=Unselected&ajs_prop_search_order=3&ajs_prop_job_id=1878338&ajs_prop_doc_type=job&ajs_prop_job_location_lat=32.2539787&ajs_prop_job_location_lon=-110.9741769&ajs_prop_boosted=0&ajs_prop_utm_source=None&ajs_prop_utm_medium=job-board-search&ajs_prop_utm_campaign=integration) — Applied ABC
+- 📍 **Location:** Tucson, Arizona, United States
+- **Work mode:** On-site
+- **Job type:** Full Time
+- 🕒 **Posted:** 2026-06-11T00:00:00.000Z
+
+### [Program Coordinator](https://rushprod-lm01.cloud.infor.com:1444/lmghr/CandidateSelfService/lm?dataarea=lmghr&_frommenu=true&context.dataarea=lmghr&context.session.key.JobBoard=RUSHEXTERNAL&context.session.key.HROrganization=10&JobReq=27609&JobPost=2) — Rush University Medical Center
+- 📍 **Location:** Chicago, Illinois, United States
+- 💰 **Salary:** $52k–$83k/yr
 - **Work mode:** Telecommute eligible
 - **Job type:** Full Time
-- 🕒 **Posted:** 2026-07-08T00:00:00.000Z
+- 🕒 **Posted:** 2026-06-11T00:00:00.000Z
 
-### [Social Worker](https://wj.wi.gov/psc/wisjobs/CAREERS/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&Action=U&FOCUS=Applicant&JobOpeningId=21213&PostingSeq=1&SiteId=1) — Department of Corrections
-- 📍 **Location:** Wisconsin, United States
-- 💰 **Salary:** $68k–$81k/yr
-- **Work mode:** On-site
-- **Job type:** Full Time
-- 🕒 **Posted:** 2026-06-18T12:00:00.000Z
-
-### [Program Coordinator](https://secure.entertimeonline.com/ta/QULP0136.careers?ShowJob=520423650) — YMCA of Greater Cincinnati
-- 📍 **Location:** Hillsboro, Ohio, United States
-- 💰 **Salary:** $35k/yr
-- **Work mode:** On-site
-- **Job type:** Full Time
-- 🕒 **Posted:** 2026-07-08T21:24:46.844Z
-
-### [Program Coordinator](https://apply.appone.com/job/6a4d48e7d12a86db70ff1ffa) — Buffalo Center for Arts and Technology
-- 📍 **Location:** Buffalo, New York, United States
-- **Work mode:** On-site
-- **Job type:** Full Time
-- 🕒 **Posted:** 2026-07-08T16:23:09.000Z
-
-### [Community Health Worker](https://wvumedicine.wd1.myworkdayjobs.com/wvuh/job/Garrett-Regional-Medical-Center-GRMC/Community-Health-Worker_JR26-39560) — Wvumedicine
-- 📍 **Location:** Oakland, Maryland, United States
-- 💰 **Salary:** $35k–$52k/yr
-- **Work mode:** On-site
-- **Job type:** Full Time
-- 🕒 **Posted:** 2026-07-06T00:00:00.000Z
+### [OB Behavorial Health Community Health Worker](https://ebnhc.wd1.myworkdayjobs.com/ebnhc/job/East-Boston/OB-Behavorial-Health-Community-Health-Worker_R0007316) — Ebnhc
+- 📍 **Location:** Boston, Massachusetts, United States
+- 💰 **Salary:** $46k–$69k/yr
+- **Work mode:** Telecommute eligible
+- **Job type:** Full Time, Temporary
+- 🕒 **Posted:** 2026-06-16T00:00:00.000Z
