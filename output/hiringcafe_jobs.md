@@ -1,30 +1,38 @@
 # ☕ HiringCafe — Social Worker Roles
-*Last updated: 2026-07-08 20:48 UTC*
+*Last updated: 2026-07-09 08:56 UTC*
 
-**4 new role(s)** since last run · 85 total in last 30d
+**5 new role(s)** since last run · 81 total in last 30d
 
-### [Social Worker](https://www.applitrack.com/scook/onlineapp/jobpostings/view.asp?AppliTrackJobId=880) — Suburban Cook County Online Application Consortium
-- 📍 **Location:** Homewood, Illinois, United States
+### [Social Worker](https://allina.wd5.myworkdayjobs.com/external/job/Allina-Commons/Social-Worker_R-0072624) — Allina
+- 📍 **Location:** Minneapolis or Minnesota or Wisconsin
+- 💰 **Salary:** $65k–$104k/yr
+- **Work mode:** Telecommute eligible
+- **Job type:** Full Time
+- 🕒 **Posted:** 2026-07-08T00:00:00.000Z
+
+### [Social Worker](https://wj.wi.gov/psc/wisjobs/CAREERS/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&Action=U&FOCUS=Applicant&JobOpeningId=21213&PostingSeq=1&SiteId=1) — Department of Corrections
+- 📍 **Location:** Wisconsin, United States
+- 💰 **Salary:** $68k–$81k/yr
 - **Work mode:** On-site
 - **Job type:** Full Time
-- 🕒 **Posted:** 2026-07-08T12:00:00.000Z
+- 🕒 **Posted:** 2026-06-18T12:00:00.000Z
 
-### [Case Manager](https://jobs.workable.com/view/fkxzDPP3wEjJYPyAjfszDP/case-manager-in-coconut-grove-at-miami-family-law) — Miami Family Law
-- 📍 **Location:** Coconut Grove, Florida, United States
-- 💰 **Salary:** $75k–$85k/yr
+### [Program Coordinator](https://secure.entertimeonline.com/ta/QULP0136.careers?ShowJob=520423650) — YMCA of Greater Cincinnati
+- 📍 **Location:** Hillsboro, Ohio, United States
+- 💰 **Salary:** $35k/yr
 - **Work mode:** On-site
 - **Job type:** Full Time
-- 🕒 **Posted:** 2026-07-08T07:23:25.106Z
+- 🕒 **Posted:** 2026-07-08T21:24:46.844Z
 
-### [Community Health Educator (CHW) - Community Health](https://hhccareers.taleo.net/careersection/hhc_ext/jobdetail.ftl?job=26157030&lang=en) — Hartford HealthCare
-- 📍 **Location:** New Britain, Connecticut, United States
-- **Work mode:** On-site
-- **Job type:** Part Time
-- 🕒 **Posted:** 2026-07-08T12:00:00.000Z
-
-### [Community Health Worker](https://www.governmentjobs.com/careers/redcliffnsn/jobs/5403076) — Red Cliff Band of Lake Superior Chippewa
-- 📍 **Location:** Red Cliff, Wisconsin, United States
-- 💰 **Salary:** $42k–$46k/yr
+### [Program Coordinator](https://apply.appone.com/job/6a4d48e7d12a86db70ff1ffa) — Buffalo Center for Arts and Technology
+- 📍 **Location:** Buffalo, New York, United States
 - **Work mode:** On-site
 - **Job type:** Full Time
-- 🕒 **Posted:** 2026-07-08T19:55:46.617Z
+- 🕒 **Posted:** 2026-07-08T16:23:09.000Z
+
+### [Community Health Worker](https://wvumedicine.wd1.myworkdayjobs.com/wvuh/job/Garrett-Regional-Medical-Center-GRMC/Community-Health-Worker_JR26-39560) — Wvumedicine
+- 📍 **Location:** Oakland, Maryland, United States
+- 💰 **Salary:** $35k–$52k/yr
+- **Work mode:** On-site
+- **Job type:** Full Time
+- 🕒 **Posted:** 2026-07-06T00:00:00.000Z
