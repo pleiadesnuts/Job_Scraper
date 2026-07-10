@@ -1,42 +1,87 @@
 {
-  "scraped_at": "2026-07-08 20:38 UTC",
+  "scraped_at": "2026-07-10 20:46 UTC",
   "total": 11,
-  "new_count": 10,
+  "new_count": 9,
   "jobs": [
     {
       "company": "Veterans Health Administration",
-      "title": "Social Worker - Mental Health",
-      "location": "Dubuque, Iowa",
-      "url": "https://www.usajobs.gov/job/875650400",
-      "date_posted": "2026-07-08",
-      "salary": "Starting at $61,722 Per year (GS 9-11)",
-      "ats": "USAJOBS"
-    },
-    {
-      "company": "Army National Guard Units",
-      "title": "Surface Maintenance Mechanic Supervisor",
-      "location": "Fort Richardson, Alaska",
-      "url": "https://www.usajobs.gov/job/875566700",
-      "date_posted": "2026-07-07",
-      "salary": "Starting at $51.50 Per hour (WS 10)",
-      "ats": "USAJOBS"
-    },
-    {
-      "company": "Animal and Plant Health Inspection Service",
-      "title": "Insect Production Worker Supervisor",
-      "location": "Edinburg, Texas",
-      "url": "https://www.usajobs.gov/job/875480800",
-      "date_posted": "2026-07-07",
-      "salary": "Starting at $34.08 Per hour (WS 4)",
+      "title": "Social Worker - Mental Helath Residential Rehabilitation Treatment Program (MT-RRTP)",
+      "location": "Omaha, Nebraska",
+      "url": "https://www.usajobs.gov/job/876059100",
+      "date_posted": "2026-07-10",
+      "salary": "Starting at $66,921 Per year (GS 9-11)",
       "ats": "USAJOBS"
     },
     {
       "company": "Veterans Health Administration",
-      "title": "Social Worker",
-      "location": "Chillicothe, Ohio",
-      "url": "https://www.usajobs.gov/job/875448700",
-      "date_posted": "2026-07-07",
-      "salary": "Starting at $64,406 Per year (GS 9-11)",
+      "title": "Social Worker - Mental Health Intensive Case Management",
+      "location": "Kansas City, Missouri",
+      "url": "https://www.usajobs.gov/job/875729800",
+      "date_posted": "2026-07-09",
+      "salary": "Starting at $76,902 Per year (GS 9-11)",
+      "ats": "USAJOBS"
+    },
+    {
+      "company": "Veterans Health Administration",
+      "title": "Social Worker (Program Coordinator) - Prevention Management Disruptive Behavior",
+      "location": "Iowa City, Iowa",
+      "url": "https://www.usajobs.gov/job/876115000",
+      "date_posted": "2026-07-10",
+      "salary": "Starting at $97,100 Per year (GS 12)",
+      "ats": "USAJOBS"
+    },
+    {
+      "company": "Veterans Health Administration",
+      "title": "Registered Nurse - Prevention and Management of Disruptive Behavior Program Manager",
+      "location": "Iowa City, Iowa",
+      "url": "https://www.usajobs.gov/job/876114800",
+      "date_posted": "2026-07-10",
+      "salary": "Starting at $73,696 Per year (VN 00)",
+      "ats": "USAJOBS"
+    },
+    {
+      "company": "Commander, Navy Installations Command",
+      "title": "FFSP Clinical Counselor/FAP Case Manager",
+      "location": "Fallon, Nevada",
+      "url": "https://www.usajobs.gov/job/876101300",
+      "date_posted": "2026-07-10",
+      "salary": "Starting at $101,842 Per year (NF 4)",
+      "ats": "USAJOBS"
+    },
+    {
+      "company": "Veterans Health Administration",
+      "title": "Registered Nurse - Community Care Coordinator",
+      "location": "Shreveport, Louisiana",
+      "url": "https://www.usajobs.gov/job/876048200",
+      "date_posted": "2026-07-10",
+      "salary": "Starting at $64,520 Per year (VN 00)",
+      "ats": "USAJOBS"
+    },
+    {
+      "company": "Veterans Health Administration",
+      "title": "Social Worker (BHIP)",
+      "location": "Phoenix, Arizona",
+      "url": "https://www.usajobs.gov/job/875978600",
+      "date_posted": "2026-07-10",
+      "salary": "Starting at $73,818 Per year (GS 9-11)",
+      "ats": "USAJOBS"
+    },
+    {
+      "company": "Veterans Health Administration",
+      "title": "Psychology Program Manager, Assistant Chief of Psychology/Post-Traumatic Stress Disorder Program",
+      "location": "Las Vegas, Nevada",
+      "url": "https://www.usajobs.gov/job/875992800",
+      "date_posted": "2026-07-10",
+      "salary": "Starting at $159,322 Per year (GS 14)",
+      "ats": "USAJOBS"
+    },
+    {
+      "company": "Veterans Health Administration",
+      "title": "Social Worker - Emergency Department/Acute Psychiatry",
+      "location": "Gainesville, Florida",
+      "url": "https://www.usajobs.gov/job/875988800",
+      "date_posted": "2026-07-09",
+      "salary": "Starting at $62,655 Per year (GS 9-11)",
       "ats": "USAJOBS"
     },
     {
@@ -46,51 +91,6 @@
       "url": "https://www.usajobs.gov/job/875728500",
       "date_posted": "2026-07-08",
       "salary": "Starting at $92,138 Per year (GS 12)",
-      "ats": "USAJOBS"
-    },
-    {
-      "company": "Veterans Health Administration",
-      "title": "Senior Social Worker - Pain Management",
-      "location": "Salt Lake City, Utah",
-      "url": "https://www.usajobs.gov/job/875568100",
-      "date_posted": "2026-07-07",
-      "salary": "Starting at $105,137 Per year (GS 12)",
-      "ats": "USAJOBS"
-    },
-    {
-      "company": "Veterans Health Administration",
-      "title": "Social Worker - Homeless Program",
-      "location": "Saginaw, Michigan",
-      "url": "https://www.usajobs.gov/job/875540100",
-      "date_posted": "2026-07-07",
-      "salary": "Starting at $71,682 Per year (GS 9-11)",
-      "ats": "USAJOBS"
-    },
-    {
-      "company": "Veterans Health Administration",
-      "title": "Social Worker- Readjustment Counselor",
-      "location": "Jacksonville, North Carolina",
-      "url": "https://www.usajobs.gov/job/875513800",
-      "date_posted": "2026-07-07",
-      "salary": "Starting at $73,596 Per year (GS 9-11)",
-      "ats": "USAJOBS"
-    },
-    {
-      "company": "Bureau of Prisons/Federal Prison System",
-      "title": "Social Worker",
-      "location": "Bruceton Mills, West Virginia",
-      "url": "https://www.usajobs.gov/job/875479800",
-      "date_posted": "2026-07-07",
-      "salary": "Starting at $74,678 Per year (GS 11)",
-      "ats": "USAJOBS"
-    },
-    {
-      "company": "Veterans Health Administration",
-      "title": "Senior Social Worker",
-      "location": "Phoenix, Arizona",
-      "url": "https://www.usajobs.gov/job/875420500",
-      "date_posted": "2026-07-07",
-      "salary": "Starting at $107,048 Per year (GS 12)",
       "ats": "USAJOBS"
     },
     {
@@ -106,92 +106,83 @@
   "new_jobs": [
     {
       "company": "Veterans Health Administration",
-      "title": "Social Worker - Mental Health",
-      "location": "Dubuque, Iowa",
-      "url": "https://www.usajobs.gov/job/875650400",
-      "date_posted": "2026-07-08",
-      "salary": "Starting at $61,722 Per year (GS 9-11)",
-      "ats": "USAJOBS"
-    },
-    {
-      "company": "Army National Guard Units",
-      "title": "Surface Maintenance Mechanic Supervisor",
-      "location": "Fort Richardson, Alaska",
-      "url": "https://www.usajobs.gov/job/875566700",
-      "date_posted": "2026-07-07",
-      "salary": "Starting at $51.50 Per hour (WS 10)",
-      "ats": "USAJOBS"
-    },
-    {
-      "company": "Animal and Plant Health Inspection Service",
-      "title": "Insect Production Worker Supervisor",
-      "location": "Edinburg, Texas",
-      "url": "https://www.usajobs.gov/job/875480800",
-      "date_posted": "2026-07-07",
-      "salary": "Starting at $34.08 Per hour (WS 4)",
+      "title": "Social Worker - Mental Helath Residential Rehabilitation Treatment Program (MT-RRTP)",
+      "location": "Omaha, Nebraska",
+      "url": "https://www.usajobs.gov/job/876059100",
+      "date_posted": "2026-07-10",
+      "salary": "Starting at $66,921 Per year (GS 9-11)",
       "ats": "USAJOBS"
     },
     {
       "company": "Veterans Health Administration",
-      "title": "Social Worker",
-      "location": "Chillicothe, Ohio",
-      "url": "https://www.usajobs.gov/job/875448700",
-      "date_posted": "2026-07-07",
-      "salary": "Starting at $64,406 Per year (GS 9-11)",
+      "title": "Social Worker - Mental Health Intensive Case Management",
+      "location": "Kansas City, Missouri",
+      "url": "https://www.usajobs.gov/job/875729800",
+      "date_posted": "2026-07-09",
+      "salary": "Starting at $76,902 Per year (GS 9-11)",
       "ats": "USAJOBS"
     },
     {
       "company": "Veterans Health Administration",
-      "title": "Senior Social Worker",
-      "location": "Montgomery, Alabama",
-      "url": "https://www.usajobs.gov/job/875728500",
-      "date_posted": "2026-07-08",
-      "salary": "Starting at $92,138 Per year (GS 12)",
+      "title": "Social Worker (Program Coordinator) - Prevention Management Disruptive Behavior",
+      "location": "Iowa City, Iowa",
+      "url": "https://www.usajobs.gov/job/876115000",
+      "date_posted": "2026-07-10",
+      "salary": "Starting at $97,100 Per year (GS 12)",
       "ats": "USAJOBS"
     },
     {
       "company": "Veterans Health Administration",
-      "title": "Senior Social Worker - Pain Management",
-      "location": "Salt Lake City, Utah",
-      "url": "https://www.usajobs.gov/job/875568100",
-      "date_posted": "2026-07-07",
-      "salary": "Starting at $105,137 Per year (GS 12)",
+      "title": "Registered Nurse - Prevention and Management of Disruptive Behavior Program Manager",
+      "location": "Iowa City, Iowa",
+      "url": "https://www.usajobs.gov/job/876114800",
+      "date_posted": "2026-07-10",
+      "salary": "Starting at $73,696 Per year (VN 00)",
+      "ats": "USAJOBS"
+    },
+    {
+      "company": "Commander, Navy Installations Command",
+      "title": "FFSP Clinical Counselor/FAP Case Manager",
+      "location": "Fallon, Nevada",
+      "url": "https://www.usajobs.gov/job/876101300",
+      "date_posted": "2026-07-10",
+      "salary": "Starting at $101,842 Per year (NF 4)",
       "ats": "USAJOBS"
     },
     {
       "company": "Veterans Health Administration",
-      "title": "Social Worker - Homeless Program",
-      "location": "Saginaw, Michigan",
-      "url": "https://www.usajobs.gov/job/875540100",
-      "date_posted": "2026-07-07",
-      "salary": "Starting at $71,682 Per year (GS 9-11)",
+      "title": "Registered Nurse - Community Care Coordinator",
+      "location": "Shreveport, Louisiana",
+      "url": "https://www.usajobs.gov/job/876048200",
+      "date_posted": "2026-07-10",
+      "salary": "Starting at $64,520 Per year (VN 00)",
       "ats": "USAJOBS"
     },
     {
       "company": "Veterans Health Administration",
-      "title": "Social Worker- Readjustment Counselor",
-      "location": "Jacksonville, North Carolina",
-      "url": "https://www.usajobs.gov/job/875513800",
-      "date_posted": "2026-07-07",
-      "salary": "Starting at $73,596 Per year (GS 9-11)",
-      "ats": "USAJOBS"
-    },
-    {
-      "company": "Bureau of Prisons/Federal Prison System",
-      "title": "Social Worker",
-      "location": "Bruceton Mills, West Virginia",
-      "url": "https://www.usajobs.gov/job/875479800",
-      "date_posted": "2026-07-07",
-      "salary": "Starting at $74,678 Per year (GS 11)",
-      "ats": "USAJOBS"
-    },
-    {
-      "company": "Veterans Health Administration",
-      "title": "Senior Social Worker",
+      "title": "Social Worker (BHIP)",
       "location": "Phoenix, Arizona",
-      "url": "https://www.usajobs.gov/job/875420500",
-      "date_posted": "2026-07-07",
-      "salary": "Starting at $107,048 Per year (GS 12)",
+      "url": "https://www.usajobs.gov/job/875978600",
+      "date_posted": "2026-07-10",
+      "salary": "Starting at $73,818 Per year (GS 9-11)",
+      "ats": "USAJOBS"
+    },
+    {
+      "company": "Veterans Health Administration",
+      "title": "Psychology Program Manager, Assistant Chief of Psychology/Post-Traumatic Stress Disorder Program",
+      "location": "Las Vegas, Nevada",
+      "url": "https://www.usajobs.gov/job/875992800",
+      "date_posted": "2026-07-10",
+      "salary": "Starting at $159,322 Per year (GS 14)",
+      "ats": "USAJOBS"
+    },
+    {
+      "company": "Veterans Health Administration",
+      "title": "Social Worker - Emergency Department/Acute Psychiatry",
+      "location": "Gainesville, Florida",
+      "url": "https://www.usajobs.gov/job/875988800",
+      "date_posted": "2026-07-09",
+      "salary": "Starting at $62,655 Per year (GS 9-11)",
       "ats": "USAJOBS"
     }
   ]

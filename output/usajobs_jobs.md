@@ -1,54 +1,49 @@
 # 🇺🇸 USAJOBS — Federal Social Worker Roles
-*Last updated: 2026-07-08 20:38 UTC*
+*Last updated: 2026-07-10 20:46 UTC*
 
-**10 new role(s)** since last run · 11 total in current USAJOBS postings
+**9 new role(s)** since last run · 11 total in current USAJOBS postings
 
-### [Social Worker - Mental Health](https://www.usajobs.gov/job/875650400) — Veterans Health Administration
-- 📍 **Location:** Dubuque, Iowa
-- 💰 **Salary:** Starting at $61,722 Per year (GS 9-11)
-- 🕒 **Posted:** 2026-07-08
+### [Social Worker - Mental Helath Residential Rehabilitation Treatment Program (MT-RRTP)](https://www.usajobs.gov/job/876059100) — Veterans Health Administration
+- 📍 **Location:** Omaha, Nebraska
+- 💰 **Salary:** Starting at $66,921 Per year (GS 9-11)
+- 🕒 **Posted:** 2026-07-10
 
-### [Surface Maintenance Mechanic Supervisor](https://www.usajobs.gov/job/875566700) — Army National Guard Units
-- 📍 **Location:** Fort Richardson, Alaska
-- 💰 **Salary:** Starting at $51.50 Per hour (WS 10)
-- 🕒 **Posted:** 2026-07-07
+### [Social Worker - Mental Health Intensive Case Management](https://www.usajobs.gov/job/875729800) — Veterans Health Administration
+- 📍 **Location:** Kansas City, Missouri
+- 💰 **Salary:** Starting at $76,902 Per year (GS 9-11)
+- 🕒 **Posted:** 2026-07-09
 
-### [Insect Production Worker Supervisor](https://www.usajobs.gov/job/875480800) — Animal and Plant Health Inspection Service
-- 📍 **Location:** Edinburg, Texas
-- 💰 **Salary:** Starting at $34.08 Per hour (WS 4)
-- 🕒 **Posted:** 2026-07-07
+### [Social Worker (Program Coordinator) - Prevention Management Disruptive Behavior](https://www.usajobs.gov/job/876115000) — Veterans Health Administration
+- 📍 **Location:** Iowa City, Iowa
+- 💰 **Salary:** Starting at $97,100 Per year (GS 12)
+- 🕒 **Posted:** 2026-07-10
 
-### [Social Worker](https://www.usajobs.gov/job/875448700) — Veterans Health Administration
-- 📍 **Location:** Chillicothe, Ohio
-- 💰 **Salary:** Starting at $64,406 Per year (GS 9-11)
-- 🕒 **Posted:** 2026-07-07
+### [Registered Nurse - Prevention and Management of Disruptive Behavior Program Manager](https://www.usajobs.gov/job/876114800) — Veterans Health Administration
+- 📍 **Location:** Iowa City, Iowa
+- 💰 **Salary:** Starting at $73,696 Per year (VN 00)
+- 🕒 **Posted:** 2026-07-10
 
-### [Senior Social Worker](https://www.usajobs.gov/job/875728500) — Veterans Health Administration
-- 📍 **Location:** Montgomery, Alabama
-- 💰 **Salary:** Starting at $92,138 Per year (GS 12)
-- 🕒 **Posted:** 2026-07-08
+### [FFSP Clinical Counselor/FAP Case Manager](https://www.usajobs.gov/job/876101300) — Commander, Navy Installations Command
+- 📍 **Location:** Fallon, Nevada
+- 💰 **Salary:** Starting at $101,842 Per year (NF 4)
+- 🕒 **Posted:** 2026-07-10
 
-### [Senior Social Worker - Pain Management](https://www.usajobs.gov/job/875568100) — Veterans Health Administration
-- 📍 **Location:** Salt Lake City, Utah
-- 💰 **Salary:** Starting at $105,137 Per year (GS 12)
-- 🕒 **Posted:** 2026-07-07
+### [Registered Nurse - Community Care Coordinator](https://www.usajobs.gov/job/876048200) — Veterans Health Administration
+- 📍 **Location:** Shreveport, Louisiana
+- 💰 **Salary:** Starting at $64,520 Per year (VN 00)
+- 🕒 **Posted:** 2026-07-10
 
-### [Social Worker - Homeless Program](https://www.usajobs.gov/job/875540100) — Veterans Health Administration
-- 📍 **Location:** Saginaw, Michigan
-- 💰 **Salary:** Starting at $71,682 Per year (GS 9-11)
-- 🕒 **Posted:** 2026-07-07
-
-### [Social Worker- Readjustment Counselor](https://www.usajobs.gov/job/875513800) — Veterans Health Administration
-- 📍 **Location:** Jacksonville, North Carolina
-- 💰 **Salary:** Starting at $73,596 Per year (GS 9-11)
-- 🕒 **Posted:** 2026-07-07
-
-### [Social Worker](https://www.usajobs.gov/job/875479800) — Bureau of Prisons/Federal Prison System
-- 📍 **Location:** Bruceton Mills, West Virginia
-- 💰 **Salary:** Starting at $74,678 Per year (GS 11)
-- 🕒 **Posted:** 2026-07-07
-
-### [Senior Social Worker](https://www.usajobs.gov/job/875420500) — Veterans Health Administration
+### [Social Worker (BHIP)](https://www.usajobs.gov/job/875978600) — Veterans Health Administration
 - 📍 **Location:** Phoenix, Arizona
-- 💰 **Salary:** Starting at $107,048 Per year (GS 12)
-- 🕒 **Posted:** 2026-07-07
+- 💰 **Salary:** Starting at $73,818 Per year (GS 9-11)
+- 🕒 **Posted:** 2026-07-10
+
+### [Psychology Program Manager, Assistant Chief of Psychology/Post-Traumatic Stress Disorder Program](https://www.usajobs.gov/job/875992800) — Veterans Health Administration
+- 📍 **Location:** Las Vegas, Nevada
+- 💰 **Salary:** Starting at $159,322 Per year (GS 14)
+- 🕒 **Posted:** 2026-07-10
+
+### [Social Worker - Emergency Department/Acute Psychiatry](https://www.usajobs.gov/job/875988800) — Veterans Health Administration
+- 📍 **Location:** Gainesville, Florida
+- 💰 **Salary:** Starting at $62,655 Per year (GS 9-11)
+- 🕒 **Posted:** 2026-07-09
