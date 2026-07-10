@@ -1,24 +1,45 @@
 # ☕ HiringCafe — Social Worker Roles
-*Last updated: 2026-07-09 22:08 UTC*
+*Last updated: 2026-07-10 10:36 UTC*
 
-**3 new role(s)** since last run · 77 total in last 30d
+**6 new role(s)** since last run · 82 total in last 30d
 
-### [Case Manager](https://jobs.apploi.com/view/1878338?utm_campaign=integration&utm_medium=job-board-search&utm_source=None&ajs_event=LOAD_JOB_PAGE&ajs_aid=3f617530-4530-11e9-a2ca-7e775511d9e3&ajs_prop_search_fetch_id=bb82193234d942b183357f12961230a9&ajs_prop_keyword=&ajs_prop_page=1&ajs_prop_city_center=Unselected&ajs_prop_search_order=3&ajs_prop_job_id=1878338&ajs_prop_doc_type=job&ajs_prop_job_location_lat=32.2539787&ajs_prop_job_location_lon=-110.9741769&ajs_prop_boosted=0&ajs_prop_utm_source=None&ajs_prop_utm_medium=job-board-search&ajs_prop_utm_campaign=integration) — Applied ABC
-- 📍 **Location:** Tucson, Arizona, United States
+### [SOCIAL WORKER](https://www.applitrack.com/gcsnc/onlineapp/jobpostings/view.asp?AppliTrackJobId=43737) — Guilford County Schools
+- 📍 **Location:** Guilford County, North Carolina, United States
+- 💰 **Salary:** $58k/yr
 - **Work mode:** On-site
 - **Job type:** Full Time
-- 🕒 **Posted:** 2026-06-11T00:00:00.000Z
+- 🕒 **Posted:** 2026-06-23T12:00:00.000Z
 
-### [Program Coordinator](https://rushprod-lm01.cloud.infor.com:1444/lmghr/CandidateSelfService/lm?dataarea=lmghr&_frommenu=true&context.dataarea=lmghr&context.session.key.JobBoard=RUSHEXTERNAL&context.session.key.HROrganization=10&JobReq=27609&JobPost=2) — Rush University Medical Center
-- 📍 **Location:** Chicago, Illinois, United States
-- 💰 **Salary:** $52k–$83k/yr
+### [Case Manager](https://jobs.gusto.com/postings/divine-arms-of-love-gro-llc-case-manager-aed0a9d9-e769-41ad-9d51-27ec7f558985) — Divine Arms of Love GRO LLC
+- 📍 **Location:** Houston, Texas, United States
+- 💰 **Salary:** $42k/yr
+- **Work mode:** On-site
+- **Job type:** Full Time
+- 🕒 **Posted:** 2026-07-06T21:06:46.809Z
+
+### [Program Coordinator](https://raymondjames.wd1.myworkdayjobs.com/raymondjamescareers/job/Saint-Petersburg-Florida---United-States/Project-Coordinator_R-0011940-1) — Raymondjames
+- 📍 **Location:** Saint Petersburg, Florida, United States
 - **Work mode:** Telecommute eligible
 - **Job type:** Full Time
-- 🕒 **Posted:** 2026-06-11T00:00:00.000Z
+- 🕒 **Posted:** 2026-07-09T00:00:00.000Z
 
-### [OB Behavorial Health Community Health Worker](https://ebnhc.wd1.myworkdayjobs.com/ebnhc/job/East-Boston/OB-Behavorial-Health-Community-Health-Worker_R0007316) — Ebnhc
-- 📍 **Location:** Boston, Massachusetts, United States
-- 💰 **Salary:** $46k–$69k/yr
-- **Work mode:** Telecommute eligible
-- **Job type:** Full Time, Temporary
-- 🕒 **Posted:** 2026-06-16T00:00:00.000Z
+### [Program Coordinator II](https://christianacare.wd5.myworkdayjobs.com/cchs/job/Newark-DE/Program-Coordinator-II_JR93038) — Christianacare
+- 📍 **Location:** Newark, Delaware, United States
+- 💰 **Salary:** $50k–$74k/yr
+- **Work mode:** On-site
+- **Job type:** Full Time
+- 🕒 **Posted:** 2026-07-09T00:00:00.000Z
+
+### [Program Coordinator II](https://careers-usu.icims.com/jobs/10495/program-coordinator-ii/job?in_iframe=1) — Overview
+- 📍 **Location:** Logan, Utah, United States
+- 💰 **Salary:** $53k/yr
+- **Work mode:** On-site
+- **Job type:** Full Time
+- 🕒 **Posted:** 2026-07-09T04:00:00.000Z
+
+### [Community Health Worker – Community Connect](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4313469) — Rural Resources Community Action
+- 📍 **Location:** Colville, Washington, United States
+- 💰 **Salary:** $45k–$49k/yr
+- **Work mode:** On-site
+- **Job type:** Full Time
+- 🕒 **Posted:** 2026-07-07T22:22:07.000Z
