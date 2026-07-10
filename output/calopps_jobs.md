@@ -1,6 +1,8 @@
 # 🏛 CalOpps — California Local-Agency Social Worker Roles
-*Last updated: 2026-07-08 20:46 UTC*
+*Last updated: 2026-07-10 20:55 UTC*
 
-**0 new role(s)** since last run · 7 total in recent CalOpps postings
+**1 new role(s)** since last run · 7 total in recent CalOpps postings
 
-No new CalOpps roles since the last run.
+### [Library Program Manager II](https://www.calopps.org/south-san-francisco/job-20756141) — South San Francisco
+- 📍 **Location:** San Francisco/Peninsula
+- 💰 **Salary:** $131,539.00-$159,889.00 Annually
