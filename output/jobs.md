@@ -1,6 +1,9 @@
 # 🏛 Priority Employers — Social Worker Roles
-*Last updated: 2026-07-08 11:01 UTC*
+*Last updated: 2026-07-10 12:45 UTC*
 
-**0 new role(s)** since last run · 1 total in last 24h
+**1 new role(s)** since last run · 1 total in last 24h
 
-No new priority-employer roles since the last run.
+### [Program Coordinator (Remote)](https://www.linkedin.com/jobs/view/4438890236/) — Cisco
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $93,800.00 to $119,400.00
+- 🕒 **Posted:** 2026-07-10
