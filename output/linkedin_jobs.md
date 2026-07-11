@@ -1,63 +1,141 @@
 # 🔥 LinkedIn — Social Worker Roles
-*Last updated: 2026-07-11 07:33 UTC*
+*Last updated: 2026-07-11 18:21 UTC*
 
-**14 new role(s)** since last run · 14 total in last 1h
+**30 new role(s)** since last run · 30 total in last 1h
 
-### [Wellness Coordinator](https://www.linkedin.com/jobs/view/4439531750/) — UT MD Anderson
+### [Service Supervisor - VellaTerra](https://www.linkedin.com/jobs/view/4438951022/) — Greystar
+- 📍 **Location:** Loveland, CO
+- 💰 **Salary:** $33 - $34
+- 🕒 **Posted:** 2026-07-11
+
+### [Healthcare Coordinator](https://www.linkedin.com/jobs/view/4431151883/) — PDS Health
+- 📍 **Location:** Parker, CO
+- 💰 **Salary:** $19.75/hr - $28.00/hr
+- 🕒 **Posted:** 2026-07-11
+
+### [Specialty Healthcare Coordinator](https://www.linkedin.com/jobs/view/4431142931/) — PDS Health
+- 📍 **Location:** Parker, CO
+- 💰 **Salary:** $19.75/hr - $28.00/hr
+- 🕒 **Posted:** 2026-07-11
+
+### [Community Health Worker - HPII - Community Action & Engagement Unit](https://www.linkedin.com/jobs/view/4439565691/) — State of Colorado
+- 📍 **Location:** Denver, CO
+- 🕒 **Posted:** 2026-07-11
+
+### [Medical Social Worker](https://www.linkedin.com/jobs/view/4421235991/) — University Medical Center of Southern Nevada (UMC)
+- 📍 **Location:** Las Vegas, NV
+- 🕒 **Posted:** 2026-07-11
+
+### [Women’s Case Manager](https://www.linkedin.com/jobs/view/4438941440/) — Wayside Recovery
+- 📍 **Location:** St Louis Park, MN
+- 💰 **Salary:** $43,000.00 - $48,000.00 per year
+- 🕒 **Posted:** 2026-07-11
+
+### [CLINICAL SOCIAL WORKER (HEALTH FACILITY)](https://www.linkedin.com/jobs/view/4378570357/) — California Department of Developmental Services
+- 📍 **Location:** Tulare County, CA
+- 💰 **Salary:** $8,265.00/mo - $10,066.00/mo
+- 🕒 **Posted:** 2026-07-11
+
+### [CASE MANAGER](https://www.linkedin.com/jobs/view/4438933675/) — Arizona Department of Child Safety
+- 📍 **Location:** Prescott, AZ
+- 🕒 **Posted:** 2026-07-11
+
+### [Case Manager- Adult Protective Services](https://www.linkedin.com/jobs/view/4422166275/) — JASA
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-07-11
+
+### [Social Worker](https://www.linkedin.com/jobs/view/4397213988/) — Hertfordshire County Council
+- 📍 **Location:** Hertfordshire, England, United Kingdom
+- 🕒 **Posted:** 2026-07-11
+
+### [Care Coordinator (Care Manager) - Registered Nurse (RN), Social Worker, or Clinical Counselor - R10249-21](https://www.linkedin.com/jobs/view/4304280725/) — CareSource
+- 📍 **Location:** Batavia, OH
+- 💰 **Salary:** $62,700.00 - $100,400.00
+- 🕒 **Posted:** 2026-07-11
+
+### [Peer Support Specialist](https://www.linkedin.com/jobs/view/4438945369/) — PARKVIEW HEALTH SYSTEM INC
+- 📍 **Location:** Fort Wayne, IN
+- 🕒 **Posted:** 2026-07-11
+
+### [Volunteer and Foster Program Supervisor](https://www.linkedin.com/jobs/view/4439571615/) — HumanePro
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $58,656 - $70,000 annually
+- 🕒 **Posted:** 2026-07-11
+
+### [Care Coordinator 2](https://www.linkedin.com/jobs/view/4391386311/) — Oregon Health & Science University
+- 📍 **Location:** Portland, Oregon Metropolitan Area
+- 💰 **Salary:** $29.38/hr - $39.72/hr
+- 🕒 **Posted:** 2026-07-11
+
+### [Healthcare Coordinator](https://www.linkedin.com/jobs/view/4431151891/) — PDS Health
+- 📍 **Location:** Pomona, CA
+- 💰 **Salary:** $18.00/hr - $25.50/hr
+- 🕒 **Posted:** 2026-07-11
+
+### [Healthcare Coordinator](https://www.linkedin.com/jobs/view/4421204148/) — PDS Health
+- 📍 **Location:** Winter Park, FL
+- 💰 **Salary:** $16.50/hr - $23.00/hr
+- 🕒 **Posted:** 2026-07-11
+
+### [Medication Access & Care Coordinator](https://www.linkedin.com/jobs/view/4438931689/) — PARKVIEW HEALTH SYSTEM INC
+- 📍 **Location:** Fort Wayne, IN
+- 🕒 **Posted:** 2026-07-11
+
+### [Healthcare Coordinator](https://www.linkedin.com/jobs/view/4378399669/) — PDS Health
+- 📍 **Location:** Miami, FL
+- 💰 **Salary:** $17.25/hr - $24.25/hr
+- 🕒 **Posted:** 2026-07-11
+
+### [Healthcare Coordinator](https://www.linkedin.com/jobs/view/4411830357/) — PDS Health
+- 📍 **Location:** Lakewood, CA
+- 💰 **Salary:** $18.00/hr - $25.50/hr
+- 🕒 **Posted:** 2026-07-11
+
+### [Healthcare Coordinator](https://www.linkedin.com/jobs/view/4431148896/) — PDS Health
+- 📍 **Location:** Carlsbad, CA
+- 💰 **Salary:** $18.00/hr - $25.50/hr
+- 🕒 **Posted:** 2026-07-11
+
+### [Healthcare Coordinator](https://www.linkedin.com/jobs/view/4431164143/) — PDS Health
+- 📍 **Location:** Coral Gables, FL
+- 💰 **Salary:** $18.00/hr - $25.50/hr
+- 🕒 **Posted:** 2026-07-11
+
+### [Care Coordinator](https://www.linkedin.com/jobs/view/4400449522/) — WES HEALTH SYSTEM
+- 📍 **Location:** Philadelphia, PA
+- 💰 **Salary:** $30,000.00/yr - $36,000.00/yr
+- 🕒 **Posted:** 2026-07-11
+
+### [Care Coordinator - RN  - Case Management - Hudson Valley Hospital - Full Time - Days](https://www.linkedin.com/jobs/view/4431318862/) — NewYork-Presbyterian Hospital
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $56.80-$62.35/Hourly
+- 🕒 **Posted:** 2026-07-11
+
+### [Senior Service Design & Transition Specialist](https://www.linkedin.com/jobs/view/4379178734/) — Arm
+- 📍 **Location:** Cambridge, England, United Kingdom
+- 🕒 **Posted:** 2026-07-11
+
+### [Patient Care Coordinator](https://www.linkedin.com/jobs/view/4438950013/) — Keplr Vision
+- 📍 **Location:** Fremont, MI
+- 🕒 **Posted:** 2026-07-11
+
+### [Patient Care Coordinator- South Grove clinic](https://www.linkedin.com/jobs/view/4420983625/) — BenchMark Physical Therapy
+- 📍 **Location:** Knoxville, TN
+- 🕒 **Posted:** 2026-07-11
+
+### [Bilingual Spanish Social Worker, Care Management (Riverside)](https://www.linkedin.com/jobs/view/4417997258/) — SCAN
+- 📍 **Location:** Riverside, CA
+- 💰 **Salary:** $38.61 to $53.20 per hour
+- 🕒 **Posted:** 2026-07-11
+
+### [Team Leader](https://www.linkedin.com/jobs/view/4439576423/) — Rileys Sports Bars
+- 📍 **Location:** Leicester, England, United Kingdom
+- 🕒 **Posted:** 2026-07-11
+
+### [Shift Supervisor](https://www.linkedin.com/jobs/view/4438935576/) — Cobra Coffee
+- 📍 **Location:** Chippenham, England, United Kingdom
+- 🕒 **Posted:** 2026-07-11
+
+### [CASE MANAGER-SPECIAL PROGRAMS](https://www.linkedin.com/jobs/view/4436482494/) — Harmony Public Schools
 - 📍 **Location:** Houston, TX
-- 🕒 **Posted:** 2026-07-11
-
-### [Social Worker II](https://www.linkedin.com/jobs/view/4438915481/) — Alberta Health Services
-- 📍 **Location:** Edmonton, Alberta, Canada
-- 💰 **Salary:** $42.14 - $56.02
-- 🕒 **Posted:** 2026-07-11
-
-### [Supervisor of Assessment](https://www.linkedin.com/jobs/view/4439536365/) — Lifepoint Health®
-- 📍 **Location:** Georgetown, TX
-- 🕒 **Posted:** 2026-07-11
-
-### [E T Consultant – Program Coordinator - req37434](https://www.linkedin.com/jobs/view/4437839744/) — The World Bank Group
-- 📍 **Location:** Washington, DC
-- 🕒 **Posted:** 2026-07-11
-
-### [AFTERSCHOOL/DAY CAMP YOUTH COUNSELOR](https://www.linkedin.com/jobs/view/4438918462/) — Henry County Government
-- 📍 **Location:** McDonough, GA
-- 🕒 **Posted:** 2026-07-11
-
-### [Incubation Program Manager](https://www.linkedin.com/jobs/view/4436650908/) — K12 Activity Academy
-- 📍 **Location:** Hyderabad, Telangana, India
-- 🕒 **Posted:** 2026-07-11
-
-### [Community Health Worker (Human Services Assistant)](https://www.linkedin.com/jobs/view/4438909647/) — Fairfax County Government
-- 📍 **Location:** Virginia, United States
-- 🕒 **Posted:** 2026-07-11
-
-### [Care Coordinator (Homecare)](https://www.linkedin.com/jobs/view/4438919464/) — Excelcare
-- 📍 **Location:** London, England, United Kingdom
-- 🕒 **Posted:** 2026-07-11
-
-### [Homecare Care Coordinator (Maternity Cover)](https://www.linkedin.com/jobs/view/4438915545/) — Excelcare
-- 📍 **Location:** London, England, United Kingdom
-- 🕒 **Posted:** 2026-07-11
-
-### [Patient Care Coordinator - Pre-Anesthesia Clinic Tri-Valley - Full Time](https://www.linkedin.com/jobs/view/4439543062/) — Stanford Health Care
-- 📍 **Location:** Livermore, CA
-- 💰 **Salary:** $33.22 - $37.39 per hour
-- 🕒 **Posted:** 2026-07-11
-
-### [Behavioral Health Specialist II - Jail & Court Based Services](https://www.linkedin.com/jobs/view/4438902971/) — Fairfax County Government
-- 📍 **Location:** Fairfax, VA
-- 🕒 **Posted:** 2026-07-11
-
-### [Accessibility Program Manager](https://www.linkedin.com/jobs/view/4438911602/) — Apple
-- 📍 **Location:** London, England, United Kingdom
-- 🕒 **Posted:** 2026-07-11
-
-### [Social Worker II](https://www.linkedin.com/jobs/view/4438922287/) — Alberta Health Services
-- 📍 **Location:** Greater Edmonton Metropolitan Area
-- 💰 **Salary:** $42.14 - $56.02
-- 🕒 **Posted:** 2026-07-11
-
-### [Qualified Children's Social Worker - Child focused courts](https://www.linkedin.com/jobs/view/4436586880/) — Cafcass (Children and Family Court Advisory and Support Service)
-- 📍 **Location:** Birmingham, England, United Kingdom
 - 🕒 **Posted:** 2026-07-11
