@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-07-11 21:35 UTC",
+  "scraped_at": "2026-07-11 22:21 UTC",
   "total": 10,
-  "new_count": 1,
+  "new_count": 0,
   "jobs": [
     {
       "company": "TRU Community Care",
@@ -184,24 +184,5 @@
       "ats": "Indeed"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Denver Health",
-      "title": "Supervisor, Operations PHIDH",
-      "location": "Denver, CO, US",
-      "url": "https://www.indeed.com/viewjob?jk=c963b80138a49839",
-      "direct_url": "https://denverhealth.wd1.myworkdayjobs.com/en-US/DHHA-Main/job/Administrative-Offices---601-Broadway-Denver-CO-80203/Supervisor--Operations-PHIDH_R17478-2",
-      "company_url": "https://www.indeed.com/cmp/Denver-Health",
-      "date_posted": "2026-07-10",
-      "description": "We are recruiting for a mission\\-driven Supervisor, Operations PHIDH to join our team!  \n\n  \n\nWe're with you for life’s journey. At Denver Health, purpose isn’t just something we believe in—it’s something we live every day, for life’s journey.\n\n\n**Our Values**\n\nRespect \\| Belonging \\| Accountability \\| Transparency\n\n\n**Department**\n\nPublic Health Administration\n**Job Summary**  \n\n  \n\nUnder general supervision, provides overall coordination, planning, direction, development, implementation, and management for the administrative and contract functions of the Public Health Institute at Denver Health (PHIDH). Responsible for oversight and management of PHIDH's administrative services including supervision of clerical staff, contract and grant administration, personnel systems management, and building maintenance. Organizes, maintains, and tracks all contracts and related documents. Collaborates with and provides guidance and support to PHIDH Directors and Management teams. Serves as a liaison to all departments/entities both internally and externally. Works as a project manager to direct and coordinate activities as assigned.\n  \n\n  \n\n**Essential Functions** :\n  \n\n* Administrative and Operational: • Collaborates with the department Directors, Managers, and staff to provide direction to DPH operations and contract management. • Maintains working knowledge of each program area to ensure competency in all departmental functions. • Assists in the development, implementation, and evaluation of new and existing programs and contracts. • Actively identifies problems and opportunities for improvement; identifies appropriate solutions and involves others in the implementation process. • Participates in processes to monitor and improve department administrative processes including preparing necessary and required reports to management. • Participates in LEAN projects and meetings related to departmental goals and strategic objectives. • Coordinates building and facility maintenance by working closely with Engineering, Environmental Services, Security, and outside vendors. • Oversees personnel acquisition process for the entire department, including job posting, on\\- and off\\-boarding, and ongoing personnel needs for all roles (staff, volunteers, contractors, students, residents). Supports managers with recruitment, candidate screening, and participation on interview panels. • Tracks staff compliance with agency requirements. • Demonstrates problem solving with solutions that are practical, efficient, and reasonable given the applicable issues. • Meets expected outcomes and plans his/her work and related activities in a manner that is consistent with organizational goals, assigned objectives, and timelines and meets expected outcomes. • Exhibits follow through skills using sound judgment. (40%)\n* Fiscal Management: • Works with department leadership to assure financial sustainability and viability of programs. • Collaborates with departmental Directors and Managers to ensure maximization of resources. • Assists with budget preparation and monitoring of expenditures from multiple funding sources. • Assists in the preparation, submission, and execution of all grant applications and grant awards. • Coordinates grant management activities and maintenance according to procedures defined by the department, DHHA, and all applicable laws and regulations. This may include tracking of funds, forecasting and developing budgets, establishing expenditure contracts, verifying expenses, and maintaining department budget software programs and databases. • Interprets financial and service utilization data in order to identify opportunities for improvement and savings. (40%)\n* Leadership: • Provides leadership support through mentoring, training, and educating department Directors and Managers on various topics, policies, and procedures. • Functions as an administrative contact for DHHA Human Resources, Environmental Services, Legal, Finance, Purchasing, eHS, and SPARO departments. • Acts as an effective and consistent role model. • Sustains a positive public image for Public Health and serves the long\\-range success of the organization. • Exemplifies courtesy, compassion, and responsiveness toward all peers, co\\-workers, and customers. (10%)\n* Personnel Supervision: • Interviews, selects, and supervises program staff. • Assigns duties, reviews work, expedites workflow, and uses progressive disciplinary process for substandard performance • Delegates responsibilities and assignments among staff. • Inspires trust and is approachable. • Takes initiative to identify continuing education/training needs for self and supervised staff. • Ensures training needs are met. • Promotes and assists with departmental staff development and engagement activities. (10%)\n* Promotes positive interpersonal (customer) relationships with fellow employees, physicians, patients and visitors. Treats these individuals with courtesy, dignity, empathy and respect; consistently displays courteous and respectful verbal and non\\-verbal communications. (0%)\n* Adheres to, complies with and demonstrates support for the mission and values of Denver Health. Supports and adheres to the Denver Health Dozen. (0%)\n* Sets clear expectations for staff by developing job specific customer service expectations and behaviors for each position supervised; clearly communicates expectations to each employee and establishes the expectations as job requirements and performance appraisal components; delegates responsibility/authority whenever possible. (0%)\n* Conducts all performance evaluations on time, working with each employee at least annually to set specific behavioral goals. (0%)\n* Identifies training and staff development needs of employees and ensures appropriate training provided. (0%)\n* Initiates formal/informal activities with employees to develop departmental cohesion and collegiality. (0%)\n* Recognizes positive behavior and contributions to the organization u",
-      "salary": "$82k–$128k/yr",
-      "salary_source": "direct_data",
-      "salary_currency": "USD",
-      "job_type": "fulltime",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "emails": "",
-      "ats": "Indeed"
-    }
-  ]
+  "new_jobs": []
 }
