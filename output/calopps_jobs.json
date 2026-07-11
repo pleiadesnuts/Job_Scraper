@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-07-10 20:55 UTC",
-  "total": 7,
-  "new_count": 1,
+  "scraped_at": "2026-07-11 20:11 UTC",
+  "total": 6,
+  "new_count": 0,
   "jobs": [
     {
       "company": "South San Francisco",
@@ -40,15 +40,6 @@
       "ats": "CalOpps"
     },
     {
-      "company": "Golden Gate Bridge Highway And Transportation District",
-      "title": "Casual Ferry Operations Supervisor",
-      "location": "San Francisco/Peninsula",
-      "url": "https://www.calopps.org/golden-gate-bridge-highway-and-transportation-district/job-20752186",
-      "date_posted": "",
-      "salary": "$0.00-$0.00",
-      "ats": "CalOpps"
-    },
-    {
       "company": "Daly City",
       "title": "Support Dog Program Coordinator",
       "location": "San Francisco/Peninsula",
@@ -67,15 +58,5 @@
       "ats": "CalOpps"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "South San Francisco",
-      "title": "Library Program Manager II",
-      "location": "San Francisco/Peninsula",
-      "url": "https://www.calopps.org/south-san-francisco/job-20756141",
-      "date_posted": "",
-      "salary": "$131,539.00-$159,889.00 Annually",
-      "ats": "CalOpps"
-    }
-  ]
+  "new_jobs": []
 }
