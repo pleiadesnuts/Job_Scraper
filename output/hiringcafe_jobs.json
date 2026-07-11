@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-07-11 20:12 UTC",
-  "total": 84,
-  "new_count": 6,
+  "scraped_at": "2026-07-11 23:39 UTC",
+  "total": 83,
+  "new_count": 0,
   "jobs": [
     {
       "company": "Northwell Career Site",
@@ -144,20 +144,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Voorhees Township School District",
-      "title": "Social Worker",
-      "location": "Voorhees Township, New Jersey, United States",
-      "url": "https://www.applitrack.com/voorhees/onlineapp/jobpostings/view.asp?AppliTrackJobId=1080",
-      "direct_url": "https://www.applitrack.com/voorhees/onlineapp/jobpostings/view.asp?AppliTrackJobId=1080",
-      "date_posted": "2026-06-24T12:00:00.000Z",
-      "description": "Master's degree required, NJ School Social Worker certification required, knowledge of special education laws, ability to counsel students, conduct social evaluations, case manage, and prepare reports.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Guilford County Schools",
       "title": "SOCIAL WORKER",
       "location": "Guilford County, North Carolina, United States",
@@ -166,6 +152,20 @@
       "date_posted": "2026-06-23T12:00:00.000Z",
       "description": "Requires a degree in social work and a licensed school/social worker credential. 10-month, full-time exempt position; salary determined by NC DPI; starting pay $4,825/month.",
       "salary": "$58k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Voorhees Township School District",
+      "title": "Social Worker",
+      "location": "Voorhees Township, New Jersey, United States",
+      "url": "https://www.applitrack.com/voorhees/onlineapp/jobpostings/view.asp?AppliTrackJobId=1080",
+      "direct_url": "https://www.applitrack.com/voorhees/onlineapp/jobpostings/view.asp?AppliTrackJobId=1080",
+      "date_posted": "2026-06-24T12:00:00.000Z",
+      "description": "Master's degree required, NJ School Social Worker certification required, knowledge of special education laws, ability to counsel students, conduct social evaluations, case manage, and prepare reports.",
+      "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
@@ -690,17 +690,17 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "LSST Inc.",
+      "company": "Buffalo Center for Arts and Technology",
       "title": "Program Coordinator",
-      "location": "United States",
-      "url": "https://lsst-inc.gnahiring.com/job/1038181/program-coordinator",
-      "direct_url": "https://lsst-inc.gnahiring.com/job/1038181/program-coordinator",
-      "date_posted": "2026-07-06T01:38:33.000Z",
-      "description": "Bachelor's or equivalent, 3–5 years program/project/ research administration experience, strong organization, communication, Microsoft Office 365 proficiency, ability to work remotely and coordinate events/grants/budgets.",
-      "salary": "$70k–$80k/yr",
+      "location": "Buffalo, New York, United States",
+      "url": "https://apply.appone.com/job/6a4d48e7d12a86db70ff1ffa",
+      "direct_url": "https://apply.appone.com/job/6a4d48e7d12a86db70ff1ffa",
+      "date_posted": "2026-07-08T16:23:09.000Z",
+      "description": "Experience in program coordination or operations, ability to obtain NYS BPSS Agent certification, strong organizational and communication skills, proficiency with Google Workspace, Microsoft Office and CRM, grant administrative experience preferred.",
+      "salary": "",
       "job_type": "Full Time",
-      "is_remote": true,
-      "work_arrangement": "Remote in-state eligible",
+      "is_remote": false,
+      "work_arrangement": "On-site",
       "ats": "HiringCafe"
     },
     {
@@ -718,17 +718,17 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Buffalo Center for Arts and Technology",
+      "company": "LSST Inc.",
       "title": "Program Coordinator",
-      "location": "Buffalo, New York, United States",
-      "url": "https://apply.appone.com/job/6a4d48e7d12a86db70ff1ffa",
-      "direct_url": "https://apply.appone.com/job/6a4d48e7d12a86db70ff1ffa",
-      "date_posted": "2026-07-08T16:23:09.000Z",
-      "description": "Experience in program coordination or operations, ability to obtain NYS BPSS Agent certification, strong organizational and communication skills, proficiency with Google Workspace, Microsoft Office and CRM, grant administrative experience preferred.",
-      "salary": "",
+      "location": "United States",
+      "url": "https://lsst-inc.gnahiring.com/job/1038181/program-coordinator",
+      "direct_url": "https://lsst-inc.gnahiring.com/job/1038181/program-coordinator",
+      "date_posted": "2026-07-06T01:38:33.000Z",
+      "description": "Bachelor's or equivalent, 3–5 years program/project/ research administration experience, strong organization, communication, Microsoft Office 365 proficiency, ability to work remotely and coordinate events/grants/budgets.",
+      "salary": "$70k–$80k/yr",
       "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
+      "is_remote": true,
+      "work_arrangement": "Remote in-state eligible",
       "ats": "HiringCafe"
     },
     {
@@ -858,20 +858,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "The National Kidney Foundation of Michigan",
-      "title": "Program Coordinator",
-      "location": "Ann Arbor, Michigan, United States",
-      "url": "https://apply.appone.com/job/6a50ecc3d12a86db70ff21ef",
-      "direct_url": "https://apply.appone.com/job/6a50ecc3d12a86db70ff21ef",
-      "date_posted": "2026-07-10T13:30:53.000Z",
-      "description": "1–2 years community partnership or program experience or a Bachelor’s degree; CHW certificate, proficiency with Microsoft Office, strong communication, program planning, recruitment, and evaluation skills.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "Telecommute eligible",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Eagle Integrated Services, LLC",
       "title": "Program Coordinator",
       "location": "Wright-Patterson Air Force Base, Ohio, United States",
@@ -883,6 +869,20 @@
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "The National Kidney Foundation of Michigan",
+      "title": "Program Coordinator",
+      "location": "Ann Arbor, Michigan, United States",
+      "url": "https://apply.appone.com/job/6a50ecc3d12a86db70ff21ef",
+      "direct_url": "https://apply.appone.com/job/6a50ecc3d12a86db70ff21ef",
+      "date_posted": "2026-07-10T13:30:53.000Z",
+      "description": "1–2 years community partnership or program experience or a Bachelor’s degree; CHW certificate, proficiency with Microsoft Office, strong communication, program planning, recruitment, and evaluation skills.",
+      "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "Telecommute eligible",
       "ats": "HiringCafe"
     },
     {
@@ -1006,20 +1006,6 @@
       "date_posted": "2026-07-10T20:57:25.160Z",
       "description": "4-5 years healthcare experience preferred; Community Health Worker certification required; bilingual English/Spanish preferred; proficiency with EMRs and referral systems; strong communication and care coordination skills.",
       "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Providence",
-      "title": "Community Health Worker",
-      "location": "San Pedro, California, United States",
-      "url": "https://evac.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/432460",
-      "direct_url": "https://evac.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/432460",
-      "date_posted": "2026-06-11T22:53:56.000Z",
-      "description": "1-3 years community experience; driving may be necessary (proof of license and auto insurance on request); uses lived experience to build relationships and connect community members to health and social services.",
-      "salary": "$50k–$74k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
@@ -1180,90 +1166,5 @@
       "ats": "HiringCafe"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "El Paso County (CO)",
-      "title": "Associate Case Manager/Case Manager - Workforce Development",
-      "location": "Colorado Springs, Colorado, United States",
-      "url": "https://www.governmentjobs.com/careers/ElPasoCountyCo/jobs/5405941",
-      "direct_url": "https://www.governmentjobs.com/careers/ElPasoCountyCo/jobs/5405941",
-      "date_posted": "2026-07-10T18:09:56.000Z",
-      "description": "High school diploma or equivalent; 3 years administrative/customer service experience (Associate) or 4 years (Case Manager); one year case management for Case Manager; valid driver’s license; proficient in Microsoft Office; strong interpersonal and organizational skills.",
-      "salary": "$45k–$72k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "The Salvation Army Central Territory",
-      "title": "Case Manager",
-      "location": "Galesburg, Illinois, United States",
-      "url": "https://myjobs.adp.com/salvarmycareers/cx/job-details?reqId=5001211295106",
-      "direct_url": "https://myjobs.adp.com/salvarmycareers/cx/job-details?reqId=5001211295106",
-      "date_posted": "2026-07-10T19:23:12.000Z",
-      "description": "Provide intake, assessment, case planning, referrals, discharge planning, HMIS/SIMS documentation; bachelor's preferred or equivalent experience; 3+ years social services/case management experience preferred; valid MVR; proficiency with MS Office.",
-      "salary": "$43k–$52k/yr",
-      "job_type": "Part Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Miriam's Kitchen",
-      "title": "Case Manager",
-      "location": "Washington, District of Columbia, United States",
-      "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4324250",
-      "direct_url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4324250",
-      "date_posted": "2026-07-10T19:48:59.000Z",
-      "description": "Provide trauma-informed, Housing First case management for ~25 residents, conduct assessments (VI-SPDAT/SPDAT), develop case plans, complete documentation, and coordinate referrals. Requires 1+ year relevant experience and Associate's degree or equivalent experience.",
-      "salary": "$55k–$57k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Southern California Alcohol and Drug Programs, Inc.",
-      "title": "Case Manager Specialist",
-      "location": "Los Angeles, California, United States",
-      "url": "http://scadpinc.hrmdirect.com/employment/view.php?req=3757331",
-      "direct_url": "http://scadpinc.hrmdirect.com/employment/view.php?req=3757331",
-      "date_posted": "2026-07-08T03:00:00.000Z",
-      "description": "Provide intensive case management, conduct assessments, develop case plans, coordinate services, and advocate for clients; 1+ year case management experience; Associate's degree or equivalent; fingerprint clearance required.",
-      "salary": "$50k–$52k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "All Ways Caring HomeCare",
-      "title": "Case Manager",
-      "location": "Oklahoma City, Oklahoma, United States",
-      "url": "https://brightspring.jibeapply.com/jobs/192658",
-      "direct_url": "https://brightspring.jibeapply.com/jobs/192658",
-      "date_posted": "2026-07-01T21:18:57.000Z",
-      "description": "Bachelor's in human services or nursing, valid driver's license, 2 years case management or related experience, strong verbal and written communication.",
-      "salary": "$50k/yr",
-      "job_type": "Part Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Suvida Healthcare LLC",
-      "title": "Community Health Worker",
-      "location": "Katy, Texas, United States",
-      "url": "https://ats.rippling.com/suvida-careers/jobs/7a041445-1a73-400c-b7db-8708b6ce972f",
-      "direct_url": "https://ats.rippling.com/suvida-careers/jobs/7a041445-1a73-400c-b7db-8708b6ce972f",
-      "date_posted": "2026-07-10T20:57:25.160Z",
-      "description": "4-5 years healthcare experience preferred; Community Health Worker certification required; bilingual English/Spanish preferred; proficiency with EMRs and referral systems; strong communication and care coordination skills.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    }
-  ]
+  "new_jobs": []
 }
