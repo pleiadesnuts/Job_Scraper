@@ -1,62 +1,56 @@
 # 🟦 Indeed — Social Worker Roles
-*Last updated: 2026-07-10 20:48 UTC*
+*Last updated: 2026-07-11 06:11 UTC*
 
-**9 new role(s)** since last run · 11 total in last 24h
+**8 new role(s)** since last run · 17 total in last 24h
 
-### [Behavioral Health Specialist, Social Work/Counselor III - Prairie Vista](https://www.indeed.com/viewjob?jk=694197d3486becca) — State of Colorado
-- 📍 **Location:** Brighton, CO, US
-- **Work mode:** Remote in-state eligible
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-07-08
-
-### [Hospice Social Worker](https://www.indeed.com/viewjob?jk=c0674c2aee5d978a) — HealthONE
-- 📍 **Location:** Greenwood Village, CO, US
-- 💰 **Salary:** $57k–$80k/yr
+### [Hospice RN Case Manager](https://www.indeed.com/viewjob?jk=81dbdad32751d7c1) — TRU Community Care
+- 📍 **Location:** Longmont, CO, US
+- 💰 **Salary:** $88k–$106k/yr
 - **Work mode:** On-site
 - **Job type:** fulltime
-- 🕒 **Posted:** 2026-07-09
+- 🕒 **Posted:** 2026-07-11
 
-### [CDOC Boiler Operator Supervisor CSTS I (Denver Complex)](https://www.indeed.com/viewjob?jk=45932da5e02acf25) — State of Colorado
+### [Hospice RN Case Manager](https://www.indeed.com/viewjob?jk=e3d0369f68da8bd1) — TRU Community Care
+- 📍 **Location:** Broomfield, CO, US
+- 💰 **Salary:** $88k–$106k/yr
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-07-11
+
+### [Social Worker](https://www.indeed.com/viewjob?jk=c441dcde633aae8d) — Canyon Home Care and Hospice
 - 📍 **Location:** Denver, CO, US
-- 💰 **Salary:** $5081–$7113/mo
+- 💰 **Salary:** $70k–$84k/yr
+- **Work mode:** On-site
+- 🕒 **Posted:** 2026-07-10
+
+### [School Social Worker](https://www.indeed.com/viewjob?jk=e2af832a707275a2) — Ampersand Therapy
+- 📍 **Location:** Greeley, CO, US
+- 💰 **Salary:** $48–$58/hr
 - **Work mode:** On-site
 - **Job type:** fulltime
-- 🕒 **Posted:** 2026-07-08
+- 🕒 **Posted:** 2026-07-10
 
-### [Program Manager - Self-management](https://www.indeed.com/viewjob?jk=bad18a6021aac2fd) — Unknown
-- 📍 **Location:** Denver, CO, US
-- 💰 **Salary:** $57k–$65k/yr
+### [School Social Worker-LOA](https://www.indeed.com/viewjob?jk=9d46786ed6988720) — Ampersand Therapy
+- 📍 **Location:** Longmont, CO, US
+- 💰 **Salary:** $48–$58/hr
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-07-10
 
-### [Quality Assurance Supervisor](https://www.indeed.com/viewjob?jk=a45da5fb93041fc6) — Career TEAM
-- 📍 **Location:** Remote, US
-- 💰 **Salary:** $60k–$70k/yr
-- **Work mode:** Remote in-state eligible
+### [Peer Support Specialist - Part Time](https://www.indeed.com/viewjob?jk=384ca60277a559ed) — Behavioral Treatment Services
+- 📍 **Location:** Golden, CO, US
+- **Work mode:** On-site
+- **Job type:** parttime
+- 🕒 **Posted:** 2026-07-10
+
+### [Residential Clinical Intake Specialist](https://www.indeed.com/viewjob?jk=b8a71f8efe21abb7) — Behavioral Treatment Services
+- 📍 **Location:** Henderson, CO, US
+- **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-07-10
 
-### [Care Coordinator](https://www.indeed.com/viewjob?jk=8438f8c71ce277c4) — Pomelo Care
-- 📍 **Location:** Remote, US
-- 💰 **Salary:** $19–$24/hr
-- **Work mode:** Remote in-state eligible
-- 🕒 **Posted:** 2026-07-10
-
-### [Program Coordinator, YSP - Youngstown](https://www.indeed.com/viewjob?jk=80034d67d9d03f21) — The Ohio State University
+### [SNP Social Worker-Peak](https://www.indeed.com/viewjob?jk=57b928cd0d89ce68) — Unknown
 - 📍 **Location:** Remote, US
 - **Work mode:** Remote in-state eligible
 - **Job type:** fulltime
-- 🕒 **Posted:** 2026-07-10
-
-### [Training Coordinator - Human Services Program - Remote](https://www.indeed.com/viewjob?jk=4142fdceb10707d5) — The Workforce Group
-- 📍 **Location:** Remote, US
-- 💰 **Salary:** $58k–$62k/yr
-- **Work mode:** Remote in-state eligible
-- 🕒 **Posted:** 2026-07-09
-
-### [Medication Management Care Coordinator](https://www.indeed.com/viewjob?jk=d9ec621337dbd9f2) — Unknown
-- 📍 **Location:** Remote, US
-- **Work mode:** Remote in-state eligible
-- **Job type:** parttime, contract
 - 🕒 **Posted:** 2026-07-10
