@@ -1,10 +1,11 @@
 # ☕ HiringCafe — Social Worker Roles
-*Last updated: 2026-07-10 20:57 UTC*
+*Last updated: 2026-07-11 00:13 UTC*
 
 **1 new role(s)** since last run · 81 total in last 30d
 
-### [Program Coordinator](https://apply.appone.com/job/6a50ecc3d12a86db70ff21ef) — The National Kidney Foundation of Michigan
-- 📍 **Location:** Ann Arbor, Michigan, United States
-- **Work mode:** Telecommute eligible
+### [Community Health Worker](https://employees-tuality.icims.com/jobs/10944/community-health-worker/job?in_iframe=1) — Hillsboro Medical Center
+- 📍 **Location:** Hillsboro, Oregon, United States
+- 💰 **Salary:** $53k–$75k/yr
+- **Work mode:** On-site
 - **Job type:** Full Time
-- 🕒 **Posted:** 2026-07-10T13:30:53.000Z
+- 🕒 **Posted:** 2026-07-10T07:00:00.000Z
