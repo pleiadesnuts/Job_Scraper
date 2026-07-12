@@ -1,5 +1,5 @@
 # 🇺🇸 USAJOBS — Federal Social Worker Roles
-*Last updated: 2026-07-11 18:38 UTC*
+*Last updated: 2026-07-12 18:40 UTC*
 
 **0 new role(s)** since last run · 10 total in current USAJOBS postings
 
