@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-07-12 20:11 UTC",
+  "scraped_at": "2026-07-12 23:40 UTC",
   "total": 80,
   "new_count": 0,
   "jobs": [
@@ -676,20 +676,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Buffalo Center for Arts and Technology",
-      "title": "Program Coordinator",
-      "location": "Buffalo, New York, United States",
-      "url": "https://apply.appone.com/job/6a4d48e7d12a86db70ff1ffa",
-      "direct_url": "https://apply.appone.com/job/6a4d48e7d12a86db70ff1ffa",
-      "date_posted": "2026-07-08T16:23:09.000Z",
-      "description": "Experience in program coordination or operations, ability to obtain NYS BPSS Agent certification, strong organizational and communication skills, proficiency with Google Workspace, Microsoft Office and CRM, grant administrative experience preferred.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "LSST Inc.",
       "title": "Program Coordinator",
       "location": "United States",
@@ -701,6 +687,20 @@
       "job_type": "Full Time",
       "is_remote": true,
       "work_arrangement": "Remote in-state eligible",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Buffalo Center for Arts and Technology",
+      "title": "Program Coordinator",
+      "location": "Buffalo, New York, United States",
+      "url": "https://apply.appone.com/job/6a4d48e7d12a86db70ff1ffa",
+      "direct_url": "https://apply.appone.com/job/6a4d48e7d12a86db70ff1ffa",
+      "date_posted": "2026-07-08T16:23:09.000Z",
+      "description": "Experience in program coordination or operations, ability to obtain NYS BPSS Agent certification, strong organizational and communication skills, proficiency with Google Workspace, Microsoft Office and CRM, grant administrative experience preferred.",
+      "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
       "ats": "HiringCafe"
     },
     {
@@ -816,20 +816,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Eagle Integrated Services, LLC",
-      "title": "Program Coordinator",
-      "location": "Wright-Patterson Air Force Base, Ohio, United States",
-      "url": "https://jobs.dayforcehcm.com/en-US/brs/bbncalljobsrollup/jobs/32178",
-      "direct_url": "https://jobs.dayforcehcm.com/en-US/brs/bbncalljobsrollup/jobs/32178",
-      "date_posted": "2026-06-22T05:00:00.000Z",
-      "description": "Bachelor's degree and minimum 5 years of experience in an active duty or military environment; strong organizational, administrative, and file-management skills to support program office and program director.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "The National Kidney Foundation of Michigan",
       "title": "Program Coordinator",
       "location": "Ann Arbor, Michigan, United States",
@@ -841,6 +827,20 @@
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "Telecommute eligible",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Eagle Integrated Services, LLC",
+      "title": "Program Coordinator",
+      "location": "Wright-Patterson Air Force Base, Ohio, United States",
+      "url": "https://jobs.dayforcehcm.com/en-US/brs/bbncalljobsrollup/jobs/32178",
+      "direct_url": "https://jobs.dayforcehcm.com/en-US/brs/bbncalljobsrollup/jobs/32178",
+      "date_posted": "2026-06-22T05:00:00.000Z",
+      "description": "Bachelor's degree and minimum 5 years of experience in an active duty or military environment; strong organizational, administrative, and file-management skills to support program office and program director.",
+      "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
       "ats": "HiringCafe"
     },
     {
