@@ -1,22 +1,8 @@
 {
-  "scraped_at": "2026-07-12 07:50 UTC",
-  "total": 83,
-  "new_count": 1,
+  "scraped_at": "2026-07-12 20:11 UTC",
+  "total": 80,
+  "new_count": 0,
   "jobs": [
-    {
-      "company": "Northwell Career Site",
-      "title": "Social Worker",
-      "location": "New York, New York, United States",
-      "url": "https://eppr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/requisitions/job/189862",
-      "direct_url": "https://eppr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/requisitions/job/189862",
-      "date_posted": "2026-07-02T14:48:26.000Z",
-      "description": "Master of Social Work required; current New York license as Master Social Worker or Clinical Social Worker; 1-3 years relevant experience; ability to provide psychosocial assessment, counseling, crisis intervention, and discharge planning.",
-      "salary": "$70k–$117k/yr",
-      "job_type": "Part Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
     {
       "company": "Gundersen Health System",
       "title": "Social Worker",
@@ -144,20 +130,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Guilford County Schools",
-      "title": "SOCIAL WORKER",
-      "location": "Guilford County, North Carolina, United States",
-      "url": "https://www.applitrack.com/gcsnc/onlineapp/jobpostings/view.asp?AppliTrackJobId=43737",
-      "direct_url": "https://www.applitrack.com/gcsnc/onlineapp/jobpostings/view.asp?AppliTrackJobId=43737",
-      "date_posted": "2026-06-23T12:00:00.000Z",
-      "description": "Requires a degree in social work and a licensed school/social worker credential. 10-month, full-time exempt position; salary determined by NC DPI; starting pay $4,825/month.",
-      "salary": "$58k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Voorhees Township School District",
       "title": "Social Worker",
       "location": "Voorhees Township, New Jersey, United States",
@@ -166,6 +138,20 @@
       "date_posted": "2026-06-24T12:00:00.000Z",
       "description": "Master's degree required, NJ School Social Worker certification required, knowledge of special education laws, ability to counsel students, conduct social evaluations, case manage, and prepare reports.",
       "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Guilford County Schools",
+      "title": "SOCIAL WORKER",
+      "location": "Guilford County, North Carolina, United States",
+      "url": "https://www.applitrack.com/gcsnc/onlineapp/jobpostings/view.asp?AppliTrackJobId=43737",
+      "direct_url": "https://www.applitrack.com/gcsnc/onlineapp/jobpostings/view.asp?AppliTrackJobId=43737",
+      "date_posted": "2026-06-23T12:00:00.000Z",
+      "description": "Requires a degree in social work and a licensed school/social worker credential. 10-month, full-time exempt position; salary determined by NC DPI; starting pay $4,825/month.",
+      "salary": "$58k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
@@ -368,20 +354,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Black Birth Justice",
-      "title": "Case Manager",
-      "location": "Louisville, Kentucky, United States",
-      "url": "https://blackbirthjustice.bamboohr.com/careers/66",
-      "direct_url": "https://blackbirthjustice.bamboohr.com/careers/66",
-      "date_posted": "2026-07-06T00:00:00.000Z",
-      "description": "Bachelors in social work or related field, 2+ years direct social services/case management, proficiency with Google Suite and case management software, ability to conduct assessments, crisis response, documentation, and do field outreach.",
-      "salary": "",
-      "job_type": "Contract",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Vincennes University",
       "title": "Case Manager",
       "location": "Vincennes or Gibson County",
@@ -391,6 +363,20 @@
       "description": "Provide options counseling and case management, conduct assessments and home visits, develop person-centered plans, link clients to community resources; must obtain Division of Aging Case Management certification within six months.",
       "salary": "$36k/yr",
       "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Black Birth Justice",
+      "title": "Case Manager",
+      "location": "Louisville, Kentucky, United States",
+      "url": "https://blackbirthjustice.bamboohr.com/careers/66",
+      "direct_url": "https://blackbirthjustice.bamboohr.com/careers/66",
+      "date_posted": "2026-07-06T00:00:00.000Z",
+      "description": "Bachelors in social work or related field, 2+ years direct social services/case management, proficiency with Google Suite and case management software, ability to conduct assessments, crisis response, documentation, and do field outreach.",
+      "salary": "",
+      "job_type": "Contract",
       "is_remote": false,
       "work_arrangement": "On-site",
       "ats": "HiringCafe"
@@ -774,20 +760,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Division of Capital Asset Management and Maintenance (DCAMM)",
-      "title": "Program Coordinator II",
-      "location": "Boston, Massachusetts, United States",
-      "url": "https://massanf.taleo.net/careersection/ex/jobdetail.ftl?job=2600044E&lang=en",
-      "direct_url": "https://massanf.taleo.net/careersection/ex/jobdetail.ftl?job=2600044E&lang=en",
-      "date_posted": "2026-06-12T09:55:12.000Z",
-      "description": "Minimum three years professional administrative/program coordination experience (or degree substitutions); experience coordinating meetings, schedules, records management, research, and interdepartmental liaison; support hiring and onboarding.",
-      "salary": "$72k–$104k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "National Children's Advocacy Center (NCAC)",
       "title": "Program Coordinator",
       "location": "Huntsville or Alabama or Arkansas or Delaware or District of Columbia or Florida or Georgia or Kentucky or Louisiana or Maryland or Mississippi or North Carolina or Oklahoma or South Carolina or Tennessee or Texas or Virginia or West Virginia",
@@ -844,20 +816,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "The National Kidney Foundation of Michigan",
-      "title": "Program Coordinator",
-      "location": "Ann Arbor, Michigan, United States",
-      "url": "https://apply.appone.com/job/6a50ecc3d12a86db70ff21ef",
-      "direct_url": "https://apply.appone.com/job/6a50ecc3d12a86db70ff21ef",
-      "date_posted": "2026-07-10T13:30:53.000Z",
-      "description": "1–2 years community partnership or program experience or a Bachelor’s degree; CHW certificate, proficiency with Microsoft Office, strong communication, program planning, recruitment, and evaluation skills.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "Telecommute eligible",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Eagle Integrated Services, LLC",
       "title": "Program Coordinator",
       "location": "Wright-Patterson Air Force Base, Ohio, United States",
@@ -869,6 +827,20 @@
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "The National Kidney Foundation of Michigan",
+      "title": "Program Coordinator",
+      "location": "Ann Arbor, Michigan, United States",
+      "url": "https://apply.appone.com/job/6a50ecc3d12a86db70ff21ef",
+      "direct_url": "https://apply.appone.com/job/6a50ecc3d12a86db70ff21ef",
+      "date_posted": "2026-07-10T13:30:53.000Z",
+      "description": "1–2 years community partnership or program experience or a Bachelor’s degree; CHW certificate, proficiency with Microsoft Office, strong communication, program planning, recruitment, and evaluation skills.",
+      "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "Telecommute eligible",
       "ats": "HiringCafe"
     },
     {
@@ -995,20 +967,6 @@
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Eisner Health",
-      "title": "Community Health Worker",
-      "location": "Los Angeles, California, United States",
-      "url": "https://pedcenter.rec.pro.ukg.net/PED1500PAFM/JobBoard/09bda680-8694-4f28-928e-12cdfdb38fd5/OpportunityDetail?opportunityId=06b04d88-f37e-4be2-bd38-62bce25eeb06",
-      "direct_url": "https://pedcenter.rec.pro.ukg.net/PED1500PAFM/JobBoard/09bda680-8694-4f28-928e-12cdfdb38fd5/OpportunityDetail?opportunityId=06b04d88-f37e-4be2-bd38-62bce25eeb06",
-      "date_posted": "2026-06-12T16:50:56.652Z",
-      "description": "High school diploma, bilingual English/Spanish, 1 year community health/outreach or equivalent, patient education and care coordination experience, EHR documentation and basic computer skills, strong communication and confidentiality.",
-      "salary": "$46k–$54k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "Telecommute eligible",
       "ats": "HiringCafe"
     },
     {
@@ -1166,20 +1124,5 @@
       "ats": "HiringCafe"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Presbyterian Healthcare Services",
-      "title": "Community Health Worker",
-      "location": "Santa Fe or Española",
-      "url": "https://phsorg.wd1.myworkdayjobs.com/careers/job/Presbyterian-Santa-Fe-Medical-Center/Community-Health-Worker-SF_R-5929",
-      "direct_url": "https://phsorg.wd1.myworkdayjobs.com/careers/job/Presbyterian-Santa-Fe-Medical-Center/Community-Health-Worker-SF_R-5929",
-      "date_posted": "2026-06-30T00:00:00.000Z",
-      "description": "High school/GED required; CHW certification (Level II/III preferred) and 3 years community health experience preferred; ability to speak population language; comfortable with EPIC and Microsoft Office; experience with care navigation and community resource connection.",
-      "salary": "$38k–$57k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    }
-  ]
+  "new_jobs": []
 }
