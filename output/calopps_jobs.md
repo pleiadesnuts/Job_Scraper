@@ -1,5 +1,5 @@
 # 🏛 CalOpps — California Local-Agency Social Worker Roles
-*Last updated: 2026-07-11 20:11 UTC*
+*Last updated: 2026-07-13 20:41 UTC*
 
 **0 new role(s)** since last run · 6 total in recent CalOpps postings
 
