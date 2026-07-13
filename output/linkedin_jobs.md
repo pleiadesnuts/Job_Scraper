@@ -1,42 +1,90 @@
 # 🔥 LinkedIn — Social Worker Roles
-*Last updated: 2026-07-12 22:36 UTC*
+*Last updated: 2026-07-13 00:24 UTC*
 
-**9 new role(s)** since last run · 9 total in last 1h
+**21 new role(s)** since last run · 21 total in last 1h
 
-### [Intake Specialist - Remote](https://www.linkedin.com/jobs/view/4439101542/) — RemoteHunter
-- 📍 **Location:** United States
-- 💰 **Salary:** $16.00 to $17.30 USD per hour
-- 🕒 **Posted:** 2026-07-12
+### [Specialty Services RN Supervisor](https://www.linkedin.com/jobs/view/4439108484/) — Provident Behavioral Health
+- 📍 **Location:** Sheridan, WY
+- 🕒 **Posted:** 2026-07-13
 
-### [Social Worker MSW](https://www.linkedin.com/jobs/view/4438994967/) — MercyOne
-- 📍 **Location:** Des Moines, IA
-- 🕒 **Posted:** 2026-07-12
+### [Case Manager (32 hrs/week) - Casa Canal, San Rafael](https://www.linkedin.com/jobs/view/4439106632/) — Eden Housing, Inc.
+- 📍 **Location:** San Rafael, CA
+- 🕒 **Posted:** 2026-07-13
 
-### [Social Worker](https://www.linkedin.com/jobs/view/4439762276/) — Metro South Health
-- 📍 **Location:** South Brisbane, Queensland, Australia
-- 🕒 **Posted:** 2026-07-12
+### [Program Manager - Lantz Center](https://www.linkedin.com/jobs/view/4439770323/) — University of Indianapolis
+- 📍 **Location:** Indianapolis, IN
+- 🕒 **Posted:** 2026-07-13
 
-### [LPN - Clinical Care Coordinator II](https://www.linkedin.com/jobs/view/4439101541/) — Berkeley SkyDeck Decal
+### [LPN - Clinical Care Coordinator II](https://www.linkedin.com/jobs/view/4439117242/) — Alpha Home Health and Hospice
 - 📍 **Location:** Sarasota, FL
-- 💰 **Salary:** $27 - $33.23
+- 🕒 **Posted:** 2026-07-13
+
+### [Education Specialist - Work From Home - Remote](https://www.linkedin.com/jobs/view/4439766479/) — Katy Genc - The Freedom to Enjoy Life
+- 📍 **Location:** Chicago, IL
+- 🕒 **Posted:** 2026-07-13
+
+### [Career Education Specialist](https://www.linkedin.com/jobs/view/4439764496/) — Poway Unified School District
+- 📍 **Location:** Poway, CA
+- 🕒 **Posted:** 2026-07-13
+
+### [Travel Licensed Master Social Worker (LMSW)](https://www.linkedin.com/jobs/view/4439120138/) — CONSUMER DIRECTED SERVICES INC.
+- 📍 **Location:** Rochester, NY
+- 🕒 **Posted:** 2026-07-13
+
+### [Procurement Supervisor](https://www.linkedin.com/jobs/view/4439758441/) — CORE Electric Cooperative
+- 📍 **Location:** Sedalia, CO
 - 🕒 **Posted:** 2026-07-12
 
-### [Care Coordinator/Life Skills Instructor-Youth & Family HCBS](https://www.linkedin.com/jobs/view/4438991970/) — Aspire Indiana Health
-- 📍 **Location:** Elwood, IN
+### [Social Worker (School) (Categorically Funded) - Apollo High School](https://www.linkedin.com/jobs/view/4439120084/) — East Side Union High School District
+- 📍 **Location:** San Jose, CA
 - 🕒 **Posted:** 2026-07-12
 
-### [Family Support Worker](https://www.linkedin.com/jobs/view/4439765198/) — Nottinghamshire County Council
-- 📍 **Location:** Nottinghamshire, England, United Kingdom
+### [Social Worker](https://www.linkedin.com/jobs/view/4439120061/) — Kadima Healthcare
+- 📍 **Location:** Pottstown, PA
 - 🕒 **Posted:** 2026-07-12
 
-### [Social Worker Senior (Domestic and Family Violence)](https://www.linkedin.com/jobs/view/4439771003/) — Metro South Health
-- 📍 **Location:** South Brisbane, Queensland, Australia
+### [Social Worker (Adult Social Care) LBHF624382](https://www.linkedin.com/jobs/view/4430368330/) — Hammersmith & Fulham Council
+- 📍 **Location:** London, England, United Kingdom
 - 🕒 **Posted:** 2026-07-12
 
-### [School Social Worker](https://www.linkedin.com/jobs/view/4439122003/) — Michigan Association of Secondary School Principals (MASSP)
-- 📍 **Location:** Barry, Scotland, United Kingdom
+### [Mental Health Targeted Case Manager Spanish Speaking](https://www.linkedin.com/jobs/view/4439115147/) — Chrysalis Health
+- 📍 **Location:** Jacksonville, FL
+- 💰 **Salary:** $56,000.00/yr - $56,000.00/yr
 - 🕒 **Posted:** 2026-07-12
 
-### [Mental Health Clincian Social Worker](https://www.linkedin.com/jobs/view/4435959792/) — Metro South Health
-- 📍 **Location:** Brisbane, Queensland, Australia
+### [Case Manager](https://www.linkedin.com/jobs/view/4439117113/) — Applied ABC
+- 📍 **Location:** Tucson, AZ
+- 🕒 **Posted:** 2026-07-12
+
+### [Campus Supervisor, High School - 40 hours per week (Capistrano Valley High School)](https://www.linkedin.com/jobs/view/4439758515/) — CUSD
+- 📍 **Location:** San Juan Capistrano, CA
+- 🕒 **Posted:** 2026-07-12
+
+### [Case Manager](https://www.linkedin.com/jobs/view/4439109337/) — The W Group
+- 📍 **Location:** Queens, NY
+- 💰 **Salary:** $22.00/hr - $25.00/hr
+- 🕒 **Posted:** 2026-07-12
+
+### [ASSISTANT CASE MANAGER-CASE AIDE](https://www.linkedin.com/jobs/view/4439118132/) — Arizona Department of Child Safety
+- 📍 **Location:** Phoenix, AZ
+- 🕒 **Posted:** 2026-07-12
+
+### [Resident Care Coordinator (RCC) LPN](https://www.linkedin.com/jobs/view/4439107417/) — Midwest Health, Inc.
+- 📍 **Location:** Overland Park, KS
+- 🕒 **Posted:** 2026-07-12
+
+### [Campus Supervisor, High School - 17.5 hours per week (Adult Transition Programs/Bridges-San Juan Capistrano)](https://www.linkedin.com/jobs/view/4439755905/) — CUSD
+- 📍 **Location:** San Juan Capistrano, CA
+- 🕒 **Posted:** 2026-07-12
+
+### [Licensed Program Manager](https://www.linkedin.com/jobs/view/4439110330/) — ReDiscover
+- 📍 **Location:** Kansas City, MO
+- 🕒 **Posted:** 2026-07-12
+
+### [Substance Abuse Counselor](https://www.linkedin.com/jobs/view/4439117068/) — New Season
+- 📍 **Location:** San Antonio, TX
+- 🕒 **Posted:** 2026-07-12
+
+### [Social Worker (School) (Grant Funded - Temporary Position)](https://www.linkedin.com/jobs/view/4439115151/) — East Side Union High School District
+- 📍 **Location:** San Jose, CA
 - 🕒 **Posted:** 2026-07-12
