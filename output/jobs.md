@@ -1,13 +1,9 @@
 # 🏛 Priority Employers — Social Worker Roles
-*Last updated: 2026-07-13 12:51 UTC*
+*Last updated: 2026-07-14 09:41 UTC*
 
-**2 new role(s)** since last run · 2 total in last 24h
+**1 new role(s)** since last run · 1 total in last 24h
 
-### [Principal Environmental Scientist - Environmental Impact Assessment](https://www.linkedin.com/jobs/view/4423402582/) — AECOM
-- 📍 **Location:** Darwin, Northern Territory, Australia
-- 🕒 **Posted:** 2026-07-13
-
-### [Principal Practice Leader - Air Quality](https://www.linkedin.com/jobs/view/4410885192/) — Geosyntec Consultants
+### [Social Worker](https://www.linkedin.com/jobs/view/4439487834/) — San Diego State University
 - 📍 **Location:** San Diego, CA
-- 💰 **Salary:** $149,330/year - $209,060/year
-- 🕒 **Posted:** 2026-07-12
+- 💰 **Salary:** $5858.67 - $6770.42 per month
+- 🕒 **Posted:** 2026-07-14
