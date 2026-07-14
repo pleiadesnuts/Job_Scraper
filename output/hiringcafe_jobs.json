@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-07-13 23:41 UTC",
-  "total": 84,
-  "new_count": 4,
+  "scraped_at": "2026-07-14 07:24 UTC",
+  "total": 87,
+  "new_count": 3,
   "jobs": [
     {
       "company": "Gundersen Health System",
@@ -704,20 +704,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "VOA Illinois",
-      "title": "Program Coordinator",
-      "location": "Chicago, Illinois, United States",
-      "url": "https://recruitingbypaycor.com/career/JobIntroduction.action?clientId=8a7883d0958c3c940195de2b4092554a&id=8a7883ac9efb8722019f1ea8d0c6158c&source=&lang=en",
-      "direct_url": "https://recruitingbypaycor.com/career/JobIntroduction.action?clientId=8a7883d0958c3c940195de2b4092554a&id=8a7883ac9efb8722019f1ea8d0c6158c&source=&lang=en",
-      "date_posted": "2026-07-01T17:16:18.000Z",
-      "description": "Bachelor's degree or veteran status required; minimum 2 years program coordination/logistics experience; valid driver’s license; ability to lift up to 50 lbs; strong communication and administrative skills.",
-      "salary": "$46k–$55k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "LSST Inc.",
       "title": "Program Coordinator",
       "location": "United States",
@@ -729,6 +715,20 @@
       "job_type": "Full Time",
       "is_remote": true,
       "work_arrangement": "Remote in-state eligible",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "VOA Illinois",
+      "title": "Program Coordinator",
+      "location": "Chicago, Illinois, United States",
+      "url": "https://recruitingbypaycor.com/career/JobIntroduction.action?clientId=8a7883d0958c3c940195de2b4092554a&id=8a7883ac9efb8722019f1ea8d0c6158c&source=&lang=en",
+      "direct_url": "https://recruitingbypaycor.com/career/JobIntroduction.action?clientId=8a7883d0958c3c940195de2b4092554a&id=8a7883ac9efb8722019f1ea8d0c6158c&source=&lang=en",
+      "date_posted": "2026-07-01T17:16:18.000Z",
+      "description": "Bachelor's degree or veteran status required; minimum 2 years program coordination/logistics experience; valid driver’s license; ability to lift up to 50 lbs; strong communication and administrative skills.",
+      "salary": "$46k–$55k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
       "ats": "HiringCafe"
     },
     {
@@ -942,6 +942,20 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "UVA Health",
+      "title": "PFA Program Coordinator",
+      "location": "Charlottesville, Virginia, United States",
+      "url": "https://virginiahealth.phenompro.com/us/en/job/R0082289/PFA-Program-Coordinator",
+      "direct_url": "https://virginiahealth.phenompro.com/us/en/job/R0082289/PFA-Program-Coordinator",
+      "date_posted": "2026-06-24T00:00:00.000Z",
+      "description": "Bachelor's degree in a healthcare-related field plus 1 year program coordination or related experience; experience with policy, workflow design, Visio, budget management, stakeholder communication, and training.",
+      "salary": "$86k–$123k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
       "company": "Rutgers University",
       "title": "Sr. Program Coordinator",
       "location": "New Brunswick, New Jersey, United States",
@@ -1009,6 +1023,20 @@
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "Telecommute eligible",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Penn State Health",
+      "title": "Community Health Worker - Community Health",
+      "location": "Hershey, Pennsylvania, United States",
+      "url": "https://css-pennstatehealth-prd.inforcloudsuite.com/hcm/Jobs/navigation/JobPosting%5BJobPostingSet%5D(PSH,99421,3).JobPostingDisplayNav?csk.HROrganization=PSH&csk.JobBoard=NAYLORTA",
+      "direct_url": "https://css-pennstatehealth-prd.inforcloudsuite.com/hcm/Jobs/navigation/JobPosting%5BJobPostingSet%5D(PSH,99421,3).JobPostingDisplayNav?csk.HROrganization=PSH&csk.JobBoard=NAYLORTA",
+      "date_posted": "2026-07-13T00:00:00.000Z",
+      "description": "High school diploma or equivalent, 1+ year community outreach experience, valid PA driver's license; CHW certification within 1 year preferred; bilingual English/Spanish preferred.",
+      "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
       "ats": "HiringCafe"
     },
     {
@@ -1138,6 +1166,20 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "Stockbridge Munsee Community",
+      "title": "Community Health Worker",
+      "location": "Bowler, Wisconsin, United States",
+      "url": "https://mohican.rec.pro.ukg.net/sto1014munse/JobBoard/24285ec7-5cae-43e8-aeb0-90052d681827/OpportunityDetail?opportunityId=35f25ed9-afbd-4103-ae02-3931ac5dd85b",
+      "direct_url": "https://mohican.rec.pro.ukg.net/sto1014munse/JobBoard/24285ec7-5cae-43e8-aeb0-90052d681827/OpportunityDetail?opportunityId=35f25ed9-afbd-4103-ae02-3931ac5dd85b",
+      "date_posted": "2026-07-13T20:34:24.739Z",
+      "description": "High school/GED, valid Wisconsin driver’s license, ability to pass background/drug/health screening, experience with EHR preferred, strong oral/written communication, ability to work nights/weekends, and lift up to 25 lbs.",
+      "salary": "$37k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
       "company": "Southwestcare",
       "title": "Community Health Worker - Population Health",
       "location": "Santa Fe or Albuquerque",
@@ -1182,59 +1224,45 @@
   ],
   "new_jobs": [
     {
-      "company": "Guilford County Schools",
-      "title": "SOCIAL WORKER",
-      "location": "Guilford County, North Carolina, United States",
-      "url": "https://www.applitrack.com/gcsnc/onlineapp/jobpostings/view.asp?AppliTrackJobId=43737",
-      "direct_url": "https://www.applitrack.com/gcsnc/onlineapp/jobpostings/view.asp?AppliTrackJobId=43737",
-      "date_posted": "2026-06-23T12:00:00.000Z",
-      "description": "Requires a degree in social work and a licensed school/social worker credential. 10-month, full-time exempt position; salary determined by NC DPI; starting pay $4,825/month.",
-      "salary": "$58k/yr",
+      "company": "UVA Health",
+      "title": "PFA Program Coordinator",
+      "location": "Charlottesville, Virginia, United States",
+      "url": "https://virginiahealth.phenompro.com/us/en/job/R0082289/PFA-Program-Coordinator",
+      "direct_url": "https://virginiahealth.phenompro.com/us/en/job/R0082289/PFA-Program-Coordinator",
+      "date_posted": "2026-06-24T00:00:00.000Z",
+      "description": "Bachelor's degree in a healthcare-related field plus 1 year program coordination or related experience; experience with policy, workflow design, Visio, budget management, stakeholder communication, and training.",
+      "salary": "$86k–$123k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
       "ats": "HiringCafe"
     },
     {
-      "company": "Southern California Alcohol and Drug Programs, Inc.",
-      "title": "Case Manager Specialist",
-      "location": "Los Angeles, California, United States",
-      "url": "http://scadpinc.hrmdirect.com/employment/view.php?req=3757331",
-      "direct_url": "http://scadpinc.hrmdirect.com/employment/view.php?req=3757331",
-      "date_posted": "2026-07-08T03:00:00.000Z",
-      "description": "Provide intensive case management, conduct assessments, develop case plans, coordinate services, and advocate for clients; 1+ year case management experience; Associate's degree or equivalent; fingerprint clearance required.",
-      "salary": "$50k–$52k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "StepStone Family & Youth Services",
-      "title": "Case Manager",
-      "location": "Louisville, Kentucky, United States",
-      "url": "https://careers-brightspring.icims.com/jobs/192800/case-manager/job?in_iframe=1",
-      "direct_url": "https://careers-brightspring.icims.com/jobs/192800/case-manager/job?in_iframe=1",
-      "date_posted": "2026-07-07T04:00:00.000Z",
-      "description": "Bachelor's in human services or nursing, valid driver's license, 2+ years case management experience, strong verbal and written communication skills.",
-      "salary": "$19–$19.23/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Netrio",
-      "title": "Cyber Program Coordinator",
-      "location": "United States",
-      "url": "https://ats.rippling.com/netrio/jobs/e343066d-8f7d-4940-82e1-a00879ccb039",
-      "direct_url": "https://ats.rippling.com/netrio/jobs/e343066d-8f7d-4940-82e1-a00879ccb039",
-      "date_posted": "2026-07-01T20:30:47.304Z",
-      "description": "Project/program coordination experience; strong written and verbal communication, client relationship management, time management, problem-solving, and documentation skills. Comfortable working cross-functionally and with senior stakeholders.",
+      "company": "Penn State Health",
+      "title": "Community Health Worker - Community Health",
+      "location": "Hershey, Pennsylvania, United States",
+      "url": "https://css-pennstatehealth-prd.inforcloudsuite.com/hcm/Jobs/navigation/JobPosting%5BJobPostingSet%5D(PSH,99421,3).JobPostingDisplayNav?csk.HROrganization=PSH&csk.JobBoard=NAYLORTA",
+      "direct_url": "https://css-pennstatehealth-prd.inforcloudsuite.com/hcm/Jobs/navigation/JobPosting%5BJobPostingSet%5D(PSH,99421,3).JobPostingDisplayNav?csk.HROrganization=PSH&csk.JobBoard=NAYLORTA",
+      "date_posted": "2026-07-13T00:00:00.000Z",
+      "description": "High school diploma or equivalent, 1+ year community outreach experience, valid PA driver's license; CHW certification within 1 year preferred; bilingual English/Spanish preferred.",
       "salary": "",
       "job_type": "Full Time",
-      "is_remote": true,
-      "work_arrangement": "Remote in-state eligible",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Stockbridge Munsee Community",
+      "title": "Community Health Worker",
+      "location": "Bowler, Wisconsin, United States",
+      "url": "https://mohican.rec.pro.ukg.net/sto1014munse/JobBoard/24285ec7-5cae-43e8-aeb0-90052d681827/OpportunityDetail?opportunityId=35f25ed9-afbd-4103-ae02-3931ac5dd85b",
+      "direct_url": "https://mohican.rec.pro.ukg.net/sto1014munse/JobBoard/24285ec7-5cae-43e8-aeb0-90052d681827/OpportunityDetail?opportunityId=35f25ed9-afbd-4103-ae02-3931ac5dd85b",
+      "date_posted": "2026-07-13T20:34:24.739Z",
+      "description": "High school/GED, valid Wisconsin driver’s license, ability to pass background/drug/health screening, experience with EHR preferred, strong oral/written communication, ability to work nights/weekends, and lift up to 25 lbs.",
+      "salary": "$37k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
       "ats": "HiringCafe"
     }
   ]
