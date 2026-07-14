@@ -1,24 +1,30 @@
 # ☕ HiringCafe — Social Worker Roles
-*Last updated: 2026-07-14 07:24 UTC*
+*Last updated: 2026-07-14 20:42 UTC*
 
-**3 new role(s)** since last run · 87 total in last 30d
+**4 new role(s)** since last run · 87 total in last 30d
 
-### [PFA Program Coordinator](https://virginiahealth.phenompro.com/us/en/job/R0082289/PFA-Program-Coordinator) — UVA Health
-- 📍 **Location:** Charlottesville, Virginia, United States
-- 💰 **Salary:** $86k–$123k/yr
+### [Social Worker](https://jobs.ascension.org/jobs/443336?lang=en-us) — Ascension
+- 📍 **Location:** Tulsa, Oklahoma, United States
 - **Work mode:** On-site
 - **Job type:** Full Time
-- 🕒 **Posted:** 2026-06-24T00:00:00.000Z
+- 🕒 **Posted:** 2026-07-13T15:48:59.000Z
 
-### [Community Health Worker - Community Health](https://css-pennstatehealth-prd.inforcloudsuite.com/hcm/Jobs/navigation/JobPosting%5BJobPostingSet%5D(PSH,99421,3).JobPostingDisplayNav?csk.HROrganization=PSH&csk.JobBoard=NAYLORTA) — Penn State Health
-- 📍 **Location:** Hershey, Pennsylvania, United States
+### [Social Worker](https://jgslifecare.applicantpro.com/jobs/4146848) — JGS Lifecare
+- 📍 **Location:** Longmeadow, Massachusetts, United States
+- 💰 **Salary:** $62k–$71k/yr
 - **Work mode:** On-site
 - **Job type:** Full Time
-- 🕒 **Posted:** 2026-07-13T00:00:00.000Z
+- 🕒 **Posted:** 2026-07-14T00:00:00.000Z
 
-### [Community Health Worker](https://mohican.rec.pro.ukg.net/sto1014munse/JobBoard/24285ec7-5cae-43e8-aeb0-90052d681827/OpportunityDetail?opportunityId=35f25ed9-afbd-4103-ae02-3931ac5dd85b) — Stockbridge Munsee Community
-- 📍 **Location:** Bowler, Wisconsin, United States
-- 💰 **Salary:** $37k/yr
+### [Lead Case Manager](https://crossroads-talent-solutions-llc.breezy.hr/p/c86dd4d27d3c-lead-case-manager) — Crossroads Talent Solutions
+- 📍 **Location:** Columbus, Ohio, United States
 - **Work mode:** On-site
 - **Job type:** Full Time
-- 🕒 **Posted:** 2026-07-13T20:34:24.739Z
+- 🕒 **Posted:** 2026-07-14T18:32:58.585Z
+
+### [Program Coordinator, eSports](https://pslinks.fiu.edu/psc/jobs/CUSTOMER/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&Action=U&FOCUS=Applicant&JobOpeningId=537475&PostingSeq=1&SiteId=1000) — Florida International University
+- 📍 **Location:** Miami, Florida, United States
+- 💰 **Salary:** $40k–$45k/yr
+- **Work mode:** On-site
+- **Job type:** Full Time
+- 🕒 **Posted:** 2026-06-29T12:00:00.000Z
