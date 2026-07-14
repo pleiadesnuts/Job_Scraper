@@ -1,8 +1,17 @@
 {
-  "scraped_at": "2026-07-13 20:41 UTC",
-  "total": 6,
-  "new_count": 0,
+  "scraped_at": "2026-07-14 20:41 UTC",
+  "total": 7,
+  "new_count": 1,
   "jobs": [
+    {
+      "company": "Daly City",
+      "title": "Maintenance Supervisor",
+      "location": "San Francisco/Peninsula",
+      "url": "https://www.calopps.org/daly-city/job-20758724",
+      "date_posted": "",
+      "salary": "$11,346.00-$13,790.00 Monthly",
+      "ats": "CalOpps"
+    },
     {
       "company": "South San Francisco",
       "title": "Library Program Manager II",
@@ -58,5 +67,15 @@
       "ats": "CalOpps"
     }
   ],
-  "new_jobs": []
+  "new_jobs": [
+    {
+      "company": "Daly City",
+      "title": "Maintenance Supervisor",
+      "location": "San Francisco/Peninsula",
+      "url": "https://www.calopps.org/daly-city/job-20758724",
+      "date_posted": "",
+      "salary": "$11,346.00-$13,790.00 Monthly",
+      "ats": "CalOpps"
+    }
+  ]
 }
