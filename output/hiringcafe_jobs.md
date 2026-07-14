@@ -1,30 +1,24 @@
 # ☕ HiringCafe — Social Worker Roles
-*Last updated: 2026-07-14 20:42 UTC*
+*Last updated: 2026-07-14 23:39 UTC*
 
-**4 new role(s)** since last run · 87 total in last 30d
+**3 new role(s)** since last run · 89 total in last 30d
 
-### [Social Worker](https://jobs.ascension.org/jobs/443336?lang=en-us) — Ascension
-- 📍 **Location:** Tulsa, Oklahoma, United States
+### [Program Coordinator](https://jobs.dayforcehcm.com/en-US/associated/jcccandidateportal/jobs/10250) — Associated
+- 📍 **Location:** Baltimore, Maryland, United States
+- 💰 **Salary:** $43k–$48k/yr
 - **Work mode:** On-site
 - **Job type:** Full Time
-- 🕒 **Posted:** 2026-07-13T15:48:59.000Z
+- 🕒 **Posted:** 2026-07-14T04:00:00.000Z
 
-### [Social Worker](https://jgslifecare.applicantpro.com/jobs/4146848) — JGS Lifecare
-- 📍 **Location:** Longmeadow, Massachusetts, United States
-- 💰 **Salary:** $62k–$71k/yr
+### [COMMUNITY PROGRAM COORDINATOR](https://wicomicomdemployees.munisselfservice.com/EmploymentOpportunities/JobDetail.aspx?req=567&sreq=1&form=1000&desc=COMMUNITY%20PROGRAM%20COORDINATOR) — Wicomico County
+- 📍 **Location:** Wicomico County, Maryland, United States
+- 💰 **Salary:** $50k–$59k/yr
+- **Work mode:** On-site
+- **Job type:** Full Time
+- 🕒 **Posted:** 2026-07-14T19:51:15.180Z
+
+### [Program Coordinator](https://jobs.lear.com/job/Southfield-Program-Coordinator-MI-48033/1414952133/) — Lear Corporation
+- 📍 **Location:** Southfield, Michigan, United States
 - **Work mode:** On-site
 - **Job type:** Full Time
 - 🕒 **Posted:** 2026-07-14T00:00:00.000Z
-
-### [Lead Case Manager](https://crossroads-talent-solutions-llc.breezy.hr/p/c86dd4d27d3c-lead-case-manager) — Crossroads Talent Solutions
-- 📍 **Location:** Columbus, Ohio, United States
-- **Work mode:** On-site
-- **Job type:** Full Time
-- 🕒 **Posted:** 2026-07-14T18:32:58.585Z
-
-### [Program Coordinator, eSports](https://pslinks.fiu.edu/psc/jobs/CUSTOMER/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&Action=U&FOCUS=Applicant&JobOpeningId=537475&PostingSeq=1&SiteId=1000) — Florida International University
-- 📍 **Location:** Miami, Florida, United States
-- 💰 **Salary:** $40k–$45k/yr
-- **Work mode:** On-site
-- **Job type:** Full Time
-- 🕒 **Posted:** 2026-06-29T12:00:00.000Z
