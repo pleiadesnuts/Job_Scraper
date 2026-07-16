@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-07-16 09:29 UTC",
-  "total": 86,
-  "new_count": 1,
+  "scraped_at": "2026-07-16 20:15 UTC",
+  "total": 85,
+  "new_count": 3,
   "jobs": [
     {
       "company": "Gundersen Health System",
@@ -96,20 +96,6 @@
       "date_posted": "2026-06-18T12:00:00.000Z",
       "description": "Active Wisconsin Social Worker credential required; candidates may need background check and drug screen; Senior level requires additional correctional or total social work experience.",
       "salary": "$68k–$81k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Voorhees Township School District",
-      "title": "Social Worker",
-      "location": "Voorhees Township, New Jersey, United States",
-      "url": "https://www.applitrack.com/voorhees/onlineapp/jobpostings/view.asp?AppliTrackJobId=1080",
-      "direct_url": "https://www.applitrack.com/voorhees/onlineapp/jobpostings/view.asp?AppliTrackJobId=1080",
-      "date_posted": "2026-06-24T12:00:00.000Z",
-      "description": "Master's degree required, NJ School Social Worker certification required, knowledge of special education laws, ability to counsel students, conduct social evaluations, case manage, and prepare reports.",
-      "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
@@ -270,15 +256,15 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Community Healthcare of Texas",
+      "company": "University of Utah Health",
       "title": "Social Worker",
-      "location": "Fort Worth, Texas, United States",
-      "url": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=bd15269d-4e6f-4700-a232-f9cbffb8d51a&ccId=19000101_000001&jobId=580314&lang=en_US",
-      "direct_url": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=bd15269d-4e6f-4700-a232-f9cbffb8d51a&ccId=19000101_000001&jobId=580314&lang=en_US",
-      "date_posted": "2026-07-02T13:48:00.000Z",
-      "description": "BSW with 1 year required (Master's preferred), Texas state social worker license, valid driver's license and reliable transportation, computer proficiency, hospice/healthcare experience preferred.",
+      "location": "Salt Lake City, Utah, United States",
+      "url": "https://careers-uuhc.icims.com/jobs/84616/social-worker/job?in_iframe=1",
+      "direct_url": "https://careers-uuhc.icims.com/jobs/84616/social-worker/job?in_iframe=1",
+      "date_posted": "2026-07-15T06:00:00.000Z",
+      "description": "Provides psychosocial assessment, counseling, case management, and community resource coordination; requires L.C.S.W. or Certified Social Worker in Utah and RQI eCredential; must perform moderate physical tasks.",
       "salary": "",
-      "job_type": "Full Time",
+      "job_type": "Part Time",
       "is_remote": false,
       "work_arrangement": "On-site",
       "ats": "HiringCafe"
@@ -326,6 +312,20 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "Farah & Farah",
+      "title": "Case Manager",
+      "location": "Tampa, Florida, United States",
+      "url": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=7b14ce60-09ee-40ba-b236-a0fb6c98d59f&ccId=19000101_000001&jobId=950172&lang=en_US",
+      "direct_url": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=7b14ce60-09ee-40ba-b236-a0fb6c98d59f&ccId=19000101_000001&jobId=950172&lang=en_US",
+      "date_posted": "2026-07-07T13:37:00.000Z",
+      "description": "Manage pre-suit case investigations, negotiate with insurers, maintain client communication, supervise a legal assistant, organize case files, and enter data into the ATO database.",
+      "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
       "company": "STEVE DIMOPOULOS LLC",
       "title": "Case Manager",
       "location": "Las Vegas, Nevada, United States",
@@ -368,20 +368,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Vincennes University",
-      "title": "Case Manager",
-      "location": "Vincennes or Gibson County",
-      "url": "https://secure7.saashr.com/ta/6051788.careers?ShowJob=604474824",
-      "direct_url": "https://secure7.saashr.com/ta/6051788.careers?ShowJob=604474824",
-      "date_posted": "2026-06-29T17:46:48.224Z",
-      "description": "Provide options counseling and case management, conduct assessments and home visits, develop person-centered plans, link clients to community resources; must obtain Division of Aging Case Management certification within six months.",
-      "salary": "$36k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Black Birth Justice",
       "title": "Case Manager",
       "location": "Louisville, Kentucky, United States",
@@ -391,6 +377,20 @@
       "description": "Bachelors in social work or related field, 2+ years direct social services/case management, proficiency with Google Suite and case management software, ability to conduct assessments, crisis response, documentation, and do field outreach.",
       "salary": "",
       "job_type": "Contract",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Vincennes University",
+      "title": "Case Manager",
+      "location": "Vincennes or Gibson County",
+      "url": "https://secure7.saashr.com/ta/6051788.careers?ShowJob=604474824",
+      "direct_url": "https://secure7.saashr.com/ta/6051788.careers?ShowJob=604474824",
+      "date_posted": "2026-06-29T17:46:48.224Z",
+      "description": "Provide options counseling and case management, conduct assessments and home visits, develop person-centered plans, link clients to community resources; must obtain Division of Aging Case Management certification within six months.",
+      "salary": "$36k/yr",
+      "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
       "ats": "HiringCafe"
@@ -564,6 +564,20 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "StepStone Family & Youth Services",
+      "title": "Case Manager",
+      "location": "Louisville, Kentucky, United States",
+      "url": "https://careers-brightspring.icims.com/jobs/192800/case-manager/job?in_iframe=1",
+      "direct_url": "https://careers-brightspring.icims.com/jobs/192800/case-manager/job?in_iframe=1",
+      "date_posted": "2026-07-07T04:00:00.000Z",
+      "description": "Bachelor's in human services or nursing, valid driver's license, 2+ years case management experience, strong verbal and written communication skills.",
+      "salary": "$19–$19.23/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
       "company": "Rrhs",
       "title": "Program Coordinator",
       "location": "Rochester, New York, United States",
@@ -656,20 +670,6 @@
       "date_posted": "2026-06-23T00:00:00.000Z",
       "description": "1+ year program coordination experience; skills in stakeholder communication, project management, scheduling, reporting, documentation, process improvement, budget tracking, and vendor management.",
       "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Georgetown",
-      "title": "Program Coordinator",
-      "location": "Washington, District of Columbia, United States",
-      "url": "https://georgetown.wd1.myworkdayjobs.com/georgetown_admin_careers/job/Leavey-Center-Level-5/Program-Coordinator_JR26211",
-      "direct_url": "https://georgetown.wd1.myworkdayjobs.com/georgetown_admin_careers/job/Leavey-Center-Level-5/Program-Coordinator_JR26211",
-      "date_posted": "2026-06-26T00:00:00.000Z",
-      "description": "Bachelor's degree required; responsibilities include program design and implementation, student outreach, communications, data collection/analysis, event coordination, and supervision of student and administrative staff.",
-      "salary": "$42k–$65k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
@@ -956,6 +956,20 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "UVA Health",
+      "title": "PFA Program Coordinator",
+      "location": "Charlottesville, Virginia, United States",
+      "url": "https://virginiahealth.phenompro.com/us/en/job/R0082289/PFA-Program-Coordinator",
+      "direct_url": "https://virginiahealth.phenompro.com/us/en/job/R0082289/PFA-Program-Coordinator",
+      "date_posted": "2026-06-24T00:00:00.000Z",
+      "description": "Bachelor's degree in a healthcare-related field plus 1 year program coordination or related experience; experience with policy, workflow design, Visio, budget management, stakeholder communication, and training.",
+      "salary": "$86k–$123k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
       "company": "Sault Tribe",
       "title": "Health - Community Health Educator",
       "location": "Sault Ste. Marie, Michigan, United States",
@@ -981,20 +995,6 @@
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Essentiahealth",
-      "title": "Community Health Worker",
-      "location": "Detroit Lakes, Minnesota, United States",
-      "url": "https://essentiahealth.wd1.myworkdayjobs.com/essentia_health/job/Detroit-Lakes-MN/Community-Health-Worker_R079432",
-      "direct_url": "https://essentiahealth.wd1.myworkdayjobs.com/essentia_health/job/Detroit-Lakes-MN/Community-Health-Worker_R079432",
-      "date_posted": "2026-06-29T00:00:00.000Z",
-      "description": "Minimum 1 year experience in customer service, social service, healthcare, or behavioral health; ability to obtain Community Health Worker certificate within 18 months; strong communication and knowledge of local resources; outreach and patient enrollment.",
-      "salary": "$40k–$60k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "Telecommute eligible",
       "ats": "HiringCafe"
     },
     {
@@ -1192,33 +1192,47 @@
       "is_remote": false,
       "work_arrangement": "On-site",
       "ats": "HiringCafe"
-    },
-    {
-      "company": "Jewish United Fund",
-      "title": "Nonprofit Program Coordinator",
-      "location": "Chicago, Illinois, United States",
-      "url": "https://recruiting2.ultipro.com/jew1002/JobBoard/8cbdb6f4-5375-438a-a097-188cfe7b2db3/OpportunityDetail?opportunityId=5a822a9b-ee82-4c9a-8828-eb9a027a706a",
-      "direct_url": "https://recruiting2.ultipro.com/jew1002/JobBoard/8cbdb6f4-5375-438a-a097-188cfe7b2db3/OpportunityDetail?opportunityId=5a822a9b-ee82-4c9a-8828-eb9a027a706a",
-      "date_posted": "2026-06-16T15:15:20.348Z",
-      "description": "High school diploma required (Associate/Bachelor's preferred); minimum 2 years administrative experience; proficiency in Microsoft Word and Excel; ability to learn Salesforce and other databases; strong organization and communication skills; bookkeeping/accounting experience preferred.",
-      "salary": "$52k–$55k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "Telecommute eligible",
-      "ats": "HiringCafe"
     }
   ],
   "new_jobs": [
     {
-      "company": "County of San Luis Obispo",
-      "title": "Program Coordinator (Temporary)",
-      "location": "San Luis Obispo, California, United States",
-      "url": "https://www.governmentjobs.com/careers/slocountyca/jobs/5411375",
-      "direct_url": "https://www.governmentjobs.com/careers/slocountyca/jobs/5411375",
-      "date_posted": "2026-07-15T20:30:22.000Z",
-      "description": "Performs paraprofessional program coordination including financial tracking, budget support, reporting, project coordination, and may supervise clerical staff. Requires familiarity with laws/regulations, strong communication, and office software.",
-      "salary": "$73k–$98k/yr",
-      "job_type": "Temporary",
+      "company": "University of Utah Health",
+      "title": "Social Worker",
+      "location": "Salt Lake City, Utah, United States",
+      "url": "https://careers-uuhc.icims.com/jobs/84616/social-worker/job?in_iframe=1",
+      "direct_url": "https://careers-uuhc.icims.com/jobs/84616/social-worker/job?in_iframe=1",
+      "date_posted": "2026-07-15T06:00:00.000Z",
+      "description": "Provides psychosocial assessment, counseling, case management, and community resource coordination; requires L.C.S.W. or Certified Social Worker in Utah and RQI eCredential; must perform moderate physical tasks.",
+      "salary": "",
+      "job_type": "Part Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "StepStone Family & Youth Services",
+      "title": "Case Manager",
+      "location": "Louisville, Kentucky, United States",
+      "url": "https://careers-brightspring.icims.com/jobs/192800/case-manager/job?in_iframe=1",
+      "direct_url": "https://careers-brightspring.icims.com/jobs/192800/case-manager/job?in_iframe=1",
+      "date_posted": "2026-07-07T04:00:00.000Z",
+      "description": "Bachelor's in human services or nursing, valid driver's license, 2+ years case management experience, strong verbal and written communication skills.",
+      "salary": "$19–$19.23/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "UVA Health",
+      "title": "PFA Program Coordinator",
+      "location": "Charlottesville, Virginia, United States",
+      "url": "https://virginiahealth.phenompro.com/us/en/job/R0082289/PFA-Program-Coordinator",
+      "direct_url": "https://virginiahealth.phenompro.com/us/en/job/R0082289/PFA-Program-Coordinator",
+      "date_posted": "2026-06-24T00:00:00.000Z",
+      "description": "Bachelor's degree in a healthcare-related field plus 1 year program coordination or related experience; experience with policy, workflow design, Visio, budget management, stakeholder communication, and training.",
+      "salary": "$86k–$123k/yr",
+      "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
       "ats": "HiringCafe"

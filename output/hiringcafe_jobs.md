@@ -1,11 +1,24 @@
 # ☕ HiringCafe — Social Worker Roles
-*Last updated: 2026-07-16 09:29 UTC*
+*Last updated: 2026-07-16 20:15 UTC*
 
-**1 new role(s)** since last run · 86 total in last 30d
+**3 new role(s)** since last run · 85 total in last 30d
 
-### [Program Coordinator (Temporary)](https://www.governmentjobs.com/careers/slocountyca/jobs/5411375) — County of San Luis Obispo
-- 📍 **Location:** San Luis Obispo, California, United States
-- 💰 **Salary:** $73k–$98k/yr
+### [Social Worker](https://careers-uuhc.icims.com/jobs/84616/social-worker/job?in_iframe=1) — University of Utah Health
+- 📍 **Location:** Salt Lake City, Utah, United States
 - **Work mode:** On-site
-- **Job type:** Temporary
-- 🕒 **Posted:** 2026-07-15T20:30:22.000Z
+- **Job type:** Part Time
+- 🕒 **Posted:** 2026-07-15T06:00:00.000Z
+
+### [Case Manager](https://careers-brightspring.icims.com/jobs/192800/case-manager/job?in_iframe=1) — StepStone Family & Youth Services
+- 📍 **Location:** Louisville, Kentucky, United States
+- 💰 **Salary:** $19–$19.23/yr
+- **Work mode:** On-site
+- **Job type:** Full Time
+- 🕒 **Posted:** 2026-07-07T04:00:00.000Z
+
+### [PFA Program Coordinator](https://virginiahealth.phenompro.com/us/en/job/R0082289/PFA-Program-Coordinator) — UVA Health
+- 📍 **Location:** Charlottesville, Virginia, United States
+- 💰 **Salary:** $86k–$123k/yr
+- **Work mode:** On-site
+- **Job type:** Full Time
+- 🕒 **Posted:** 2026-06-24T00:00:00.000Z
