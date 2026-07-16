@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-07-15 20:18 UTC",
-  "total": 3,
+  "scraped_at": "2026-07-16 19:48 UTC",
+  "total": 2,
   "new_count": 0,
   "jobs": [
     {
@@ -22,18 +22,6 @@
       "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=523748",
       "date_posted": "2026-07-06",
       "salary": "$11867.00 - $16900.00",
-      "ats": "CalCareers",
-      "telework": "Hybrid",
-      "job_type": "Permanent, Full Time",
-      "work_arrangement": "Telecommute eligible"
-    },
-    {
-      "company": "Employment Development Department",
-      "title": "Enterprise Testing Office Test Supervisor (UI Web)",
-      "location": "Sacramento County",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=523969",
-      "date_posted": "2026-07-08",
-      "salary": "$8504.00 - $11395.00",
       "ats": "CalCareers",
       "telework": "Hybrid",
       "job_type": "Permanent, Full Time",
