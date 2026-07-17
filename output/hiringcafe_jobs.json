@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-07-17 00:16 UTC",
-  "total": 89,
-  "new_count": 5,
+  "scraped_at": "2026-07-17 08:40 UTC",
+  "total": 88,
+  "new_count": 1,
   "jobs": [
     {
       "company": "Gundersen Health System",
@@ -256,6 +256,20 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "Community Healthcare of Texas",
+      "title": "Social Worker",
+      "location": "Fort Worth, Texas, United States",
+      "url": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=bd15269d-4e6f-4700-a232-f9cbffb8d51a&ccId=19000101_000001&jobId=580314&lang=en_US",
+      "direct_url": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=bd15269d-4e6f-4700-a232-f9cbffb8d51a&ccId=19000101_000001&jobId=580314&lang=en_US",
+      "date_posted": "2026-07-02T13:48:00.000Z",
+      "description": "BSW with 1 year required (Master's preferred), Texas state social worker license, valid driver's license and reliable transportation, computer proficiency, hospice/healthcare experience preferred.",
+      "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
       "company": "University of Utah Health",
       "title": "Social Worker",
       "location": "Salt Lake City, Utah, United States",
@@ -312,20 +326,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Farah & Farah",
-      "title": "Case Manager",
-      "location": "Tampa, Florida, United States",
-      "url": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=7b14ce60-09ee-40ba-b236-a0fb6c98d59f&ccId=19000101_000001&jobId=950172&lang=en_US",
-      "direct_url": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=7b14ce60-09ee-40ba-b236-a0fb6c98d59f&ccId=19000101_000001&jobId=950172&lang=en_US",
-      "date_posted": "2026-07-07T13:37:00.000Z",
-      "description": "Manage pre-suit case investigations, negotiate with insurers, maintain client communication, supervise a legal assistant, organize case files, and enter data into the ATO database.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "STEVE DIMOPOULOS LLC",
       "title": "Case Manager",
       "location": "Las Vegas, Nevada, United States",
@@ -368,20 +368,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Vincennes University",
-      "title": "Case Manager",
-      "location": "Vincennes or Gibson County",
-      "url": "https://secure7.saashr.com/ta/6051788.careers?ShowJob=604474824",
-      "direct_url": "https://secure7.saashr.com/ta/6051788.careers?ShowJob=604474824",
-      "date_posted": "2026-06-29T17:46:48.224Z",
-      "description": "Provide options counseling and case management, conduct assessments and home visits, develop person-centered plans, link clients to community resources; must obtain Division of Aging Case Management certification within six months.",
-      "salary": "$36k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Black Birth Justice",
       "title": "Case Manager",
       "location": "Louisville, Kentucky, United States",
@@ -391,6 +377,20 @@
       "description": "Bachelors in social work or related field, 2+ years direct social services/case management, proficiency with Google Suite and case management software, ability to conduct assessments, crisis response, documentation, and do field outreach.",
       "salary": "",
       "job_type": "Contract",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Vincennes University",
+      "title": "Case Manager",
+      "location": "Vincennes or Gibson County",
+      "url": "https://secure7.saashr.com/ta/6051788.careers?ShowJob=604474824",
+      "direct_url": "https://secure7.saashr.com/ta/6051788.careers?ShowJob=604474824",
+      "date_posted": "2026-06-29T17:46:48.224Z",
+      "description": "Provide options counseling and case management, conduct assessments and home visits, develop person-centered plans, link clients to community resources; must obtain Division of Aging Case Management certification within six months.",
+      "salary": "$36k/yr",
+      "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
       "ats": "HiringCafe"
@@ -690,20 +690,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Associated",
-      "title": "Program Coordinator",
-      "location": "Baltimore, Maryland, United States",
-      "url": "https://jobs.dayforcehcm.com/en-US/associated/jcccandidateportal/jobs/10250",
-      "direct_url": "https://jobs.dayforcehcm.com/en-US/associated/jcccandidateportal/jobs/10250",
-      "date_posted": "2026-07-14T04:00:00.000Z",
-      "description": "Experience coordinating programs, supervising staff, strong customer service, proficiency with CRM and Microsoft Office, ability to lift up to 25 lbs, and excellent communication and organizational skills.",
-      "salary": "$43k–$48k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "NYU Langone Health",
       "title": "Program Coordinator",
       "location": "New York, New York, United States",
@@ -712,6 +698,20 @@
       "date_posted": "2026-07-16T18:36:20.033Z",
       "description": "Bachelors or equivalent in business/healthcare administration, proficiency with Microsoft Word/Excel/Access/PowerPoint/Outlook, program coordination and administrative experience, strong communication and time-management skills.",
       "salary": "$66k–$82k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Associated",
+      "title": "Program Coordinator",
+      "location": "Baltimore, Maryland, United States",
+      "url": "https://jobs.dayforcehcm.com/en-US/associated/jcccandidateportal/jobs/10250",
+      "direct_url": "https://jobs.dayforcehcm.com/en-US/associated/jcccandidateportal/jobs/10250",
+      "date_posted": "2026-07-14T04:00:00.000Z",
+      "description": "Experience coordinating programs, supervising staff, strong customer service, proficiency with CRM and Microsoft Office, ability to lift up to 25 lbs, and excellent communication and organizational skills.",
+      "salary": "$43k–$48k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
@@ -746,20 +746,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Buffalo Center for Arts and Technology",
-      "title": "Program Coordinator",
-      "location": "Buffalo, New York, United States",
-      "url": "https://apply.appone.com/job/6a4d48e7d12a86db70ff1ffa",
-      "direct_url": "https://apply.appone.com/job/6a4d48e7d12a86db70ff1ffa",
-      "date_posted": "2026-07-08T16:23:09.000Z",
-      "description": "Experience in program coordination or operations, ability to obtain NYS BPSS Agent certification, strong organizational and communication skills, proficiency with Google Workspace, Microsoft Office and CRM, grant administrative experience preferred.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "VOA Illinois",
       "title": "Program Coordinator",
       "location": "Chicago, Illinois, United States",
@@ -774,17 +760,17 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "LSST Inc.",
+      "company": "Buffalo Center for Arts and Technology",
       "title": "Program Coordinator",
-      "location": "United States",
-      "url": "https://lsst-inc.gnahiring.com/job/1038181/program-coordinator",
-      "direct_url": "https://lsst-inc.gnahiring.com/job/1038181/program-coordinator",
-      "date_posted": "2026-07-06T01:38:33.000Z",
-      "description": "Bachelor's or equivalent, 3–5 years program/project/ research administration experience, strong organization, communication, Microsoft Office 365 proficiency, ability to work remotely and coordinate events/grants/budgets.",
-      "salary": "$70k–$80k/yr",
+      "location": "Buffalo, New York, United States",
+      "url": "https://apply.appone.com/job/6a4d48e7d12a86db70ff1ffa",
+      "direct_url": "https://apply.appone.com/job/6a4d48e7d12a86db70ff1ffa",
+      "date_posted": "2026-07-08T16:23:09.000Z",
+      "description": "Experience in program coordination or operations, ability to obtain NYS BPSS Agent certification, strong organizational and communication skills, proficiency with Google Workspace, Microsoft Office and CRM, grant administrative experience preferred.",
+      "salary": "",
       "job_type": "Full Time",
-      "is_remote": true,
-      "work_arrangement": "Remote in-state eligible",
+      "is_remote": false,
+      "work_arrangement": "On-site",
       "ats": "HiringCafe"
     },
     {
@@ -995,6 +981,20 @@
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Rutgers University",
+      "title": "Sr. Program Coordinator",
+      "location": "New Brunswick, New Jersey, United States",
+      "url": "https://jobs.rutgers.edu/postings/278687/pre_apply",
+      "direct_url": "https://jobs.rutgers.edu/postings/278687/pre_apply",
+      "date_posted": "2026-07-13T00:00:00.000Z",
+      "description": "Bachelor’s degree and minimum 2 years relevant experience; proficiency with Google systems, Outlook, Canvas; program coordination, data collection/reporting, event logistics; ability to lift 50 lbs.",
+      "salary": "$68k–$101k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "Telecommute eligible",
       "ats": "HiringCafe"
     },
     {
@@ -1234,91 +1234,21 @@
       "is_remote": false,
       "work_arrangement": "On-site",
       "ats": "HiringCafe"
-    },
-    {
-      "company": "Red Cliff Band of Lake Superior Chippewa",
-      "title": "Community Health Worker",
-      "location": "Red Cliff, Wisconsin, United States",
-      "url": "https://www.governmentjobs.com/careers/redcliffnsn/jobs/5403076",
-      "direct_url": "https://www.governmentjobs.com/careers/redcliffnsn/jobs/5403076",
-      "date_posted": "2026-07-08T19:55:46.617Z",
-      "description": "High school diploma/HSED/GED, completion of AHEC Community Health Worker program within six months of hire, valid driver license, CPR within 90 days, computer skills (data entry, Excel, Word, Publisher), ability to travel overnight and perform physical tasks.",
-      "salary": "$42k–$46k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
     }
   ],
   "new_jobs": [
     {
-      "company": "All Ways Caring HomeCare",
-      "title": "Case Manager",
-      "location": "Oklahoma City, Oklahoma, United States",
-      "url": "https://brightspring.jibeapply.com/jobs/192658",
-      "direct_url": "https://brightspring.jibeapply.com/jobs/192658",
-      "date_posted": "2026-07-01T21:18:57.000Z",
-      "description": "Bachelor's in human services or nursing, valid driver's license, 2 years case management or related experience, strong verbal and written communication.",
-      "salary": "$50k/yr",
-      "job_type": "Part Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "NYU Langone Health",
-      "title": "Program Coordinator",
-      "location": "New York, New York, United States",
-      "url": "https://jobs.silkroad.com/nyulangone/nyulhcareers/jobs/123021?embedded=true",
-      "direct_url": "https://jobs.silkroad.com/nyulangone/nyulhcareers/jobs/123021?embedded=true",
-      "date_posted": "2026-07-16T18:36:20.033Z",
-      "description": "Bachelors or equivalent in business/healthcare administration, proficiency with Microsoft Word/Excel/Access/PowerPoint/Outlook, program coordination and administrative experience, strong communication and time-management skills.",
-      "salary": "$66k–$82k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Upenn",
-      "title": "Program Coordinator",
-      "location": "Philadelphia, Pennsylvania, United States",
-      "url": "https://upenn.wd1.myworkdayjobs.com/psom/job/University-City-One/Program-Coordinator_JR00123158",
-      "direct_url": "https://upenn.wd1.myworkdayjobs.com/psom/job/University-City-One/Program-Coordinator_JR00123158",
-      "date_posted": "2026-07-16T00:00:00.000Z",
-      "description": "Bachelor's degree plus 2–3 years relevant experience or equivalent; program administration, scheduling, event coordination, vendor and equipment management, grant support, and strong communication and organizational skills.",
-      "salary": "$50k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Essentiahealth",
-      "title": "Community Health Worker",
-      "location": "Grand Rapids, Minnesota, United States",
-      "url": "https://essentiahealth.wd1.myworkdayjobs.com/essentia_health/job/Grand-Rapids-MN/Community-Health-Worker_R080318",
-      "direct_url": "https://essentiahealth.wd1.myworkdayjobs.com/essentia_health/job/Grand-Rapids-MN/Community-Health-Worker_R080318",
-      "date_posted": "2026-07-16T00:00:00.000Z",
-      "description": "1+ year experience in customer service, social services, healthcare or related field; Community Health Worker certificate (or obtain within 18 months); strong communication and knowledge of local resources.",
-      "salary": "$40k–$60k/yr",
+      "company": "Rutgers University",
+      "title": "Sr. Program Coordinator",
+      "location": "New Brunswick, New Jersey, United States",
+      "url": "https://jobs.rutgers.edu/postings/278687/pre_apply",
+      "direct_url": "https://jobs.rutgers.edu/postings/278687/pre_apply",
+      "date_posted": "2026-07-13T00:00:00.000Z",
+      "description": "Bachelor’s degree and minimum 2 years relevant experience; proficiency with Google systems, Outlook, Canvas; program coordination, data collection/reporting, event logistics; ability to lift 50 lbs.",
+      "salary": "$68k–$101k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "Telecommute eligible",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Sabathani Community Center",
-      "title": "Community Health Worker",
-      "location": "Minneapolis, Minnesota, United States",
-      "url": "https://ats.rippling.com/scc/jobs/13a16e57-ab70-454c-a631-167699f53699",
-      "direct_url": "https://ats.rippling.com/scc/jobs/13a16e57-ab70-454c-a631-167699f53699",
-      "date_posted": "2026-07-07T19:07:22.411Z",
-      "description": "CHW certification and valid MN driver's license required; HS diploma; 2+ years community health or related direct service experience; proficiency with Salesforce and Microsoft Office; strong communication and caseload management skills.",
-      "salary": "$58k–$65k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
       "ats": "HiringCafe"
     }
   ]
