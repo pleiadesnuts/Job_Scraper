@@ -1,24 +1,39 @@
 # ☕ HiringCafe — Social Worker Roles
-*Last updated: 2026-07-16 20:15 UTC*
+*Last updated: 2026-07-17 00:16 UTC*
 
-**3 new role(s)** since last run · 85 total in last 30d
+**5 new role(s)** since last run · 89 total in last 30d
 
-### [Social Worker](https://careers-uuhc.icims.com/jobs/84616/social-worker/job?in_iframe=1) — University of Utah Health
-- 📍 **Location:** Salt Lake City, Utah, United States
+### [Case Manager](https://brightspring.jibeapply.com/jobs/192658) — All Ways Caring HomeCare
+- 📍 **Location:** Oklahoma City, Oklahoma, United States
+- 💰 **Salary:** $50k/yr
 - **Work mode:** On-site
 - **Job type:** Part Time
-- 🕒 **Posted:** 2026-07-15T06:00:00.000Z
+- 🕒 **Posted:** 2026-07-01T21:18:57.000Z
 
-### [Case Manager](https://careers-brightspring.icims.com/jobs/192800/case-manager/job?in_iframe=1) — StepStone Family & Youth Services
-- 📍 **Location:** Louisville, Kentucky, United States
-- 💰 **Salary:** $19–$19.23/yr
+### [Program Coordinator](https://jobs.silkroad.com/nyulangone/nyulhcareers/jobs/123021?embedded=true) — NYU Langone Health
+- 📍 **Location:** New York, New York, United States
+- 💰 **Salary:** $66k–$82k/yr
 - **Work mode:** On-site
 - **Job type:** Full Time
-- 🕒 **Posted:** 2026-07-07T04:00:00.000Z
+- 🕒 **Posted:** 2026-07-16T18:36:20.033Z
 
-### [PFA Program Coordinator](https://virginiahealth.phenompro.com/us/en/job/R0082289/PFA-Program-Coordinator) — UVA Health
-- 📍 **Location:** Charlottesville, Virginia, United States
-- 💰 **Salary:** $86k–$123k/yr
+### [Program Coordinator](https://upenn.wd1.myworkdayjobs.com/psom/job/University-City-One/Program-Coordinator_JR00123158) — Upenn
+- 📍 **Location:** Philadelphia, Pennsylvania, United States
+- 💰 **Salary:** $50k/yr
 - **Work mode:** On-site
 - **Job type:** Full Time
-- 🕒 **Posted:** 2026-06-24T00:00:00.000Z
+- 🕒 **Posted:** 2026-07-16T00:00:00.000Z
+
+### [Community Health Worker](https://essentiahealth.wd1.myworkdayjobs.com/essentia_health/job/Grand-Rapids-MN/Community-Health-Worker_R080318) — Essentiahealth
+- 📍 **Location:** Grand Rapids, Minnesota, United States
+- 💰 **Salary:** $40k–$60k/yr
+- **Work mode:** Telecommute eligible
+- **Job type:** Full Time
+- 🕒 **Posted:** 2026-07-16T00:00:00.000Z
+
+### [Community Health Worker](https://ats.rippling.com/scc/jobs/13a16e57-ab70-454c-a631-167699f53699) — Sabathani Community Center
+- 📍 **Location:** Minneapolis, Minnesota, United States
+- 💰 **Salary:** $58k–$65k/yr
+- **Work mode:** On-site
+- **Job type:** Full Time
+- 🕒 **Posted:** 2026-07-07T19:07:22.411Z
