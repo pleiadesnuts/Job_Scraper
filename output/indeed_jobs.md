@@ -1,5 +1,5 @@
 # 🟦 Indeed — Social Worker Roles
-*Last updated: 2026-07-18 21:36 UTC*
+*Last updated: 2026-07-18 22:23 UTC*
 
 **0 new role(s)** since last run · 9 total in last 24h
 
