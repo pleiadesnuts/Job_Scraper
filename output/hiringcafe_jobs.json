@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-07-18 20:10 UTC",
+  "scraped_at": "2026-07-18 23:40 UTC",
   "total": 87,
-  "new_count": 1,
+  "new_count": 0,
   "jobs": [
     {
       "company": "Gundersen Health System",
@@ -214,20 +214,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "University of Utah Health",
-      "title": "Social Worker",
-      "location": "Salt Lake City, Utah, United States",
-      "url": "https://careers-uuhc.icims.com/jobs/84616/social-worker/job?in_iframe=1",
-      "direct_url": "https://careers-uuhc.icims.com/jobs/84616/social-worker/job?in_iframe=1",
-      "date_posted": "2026-07-15T06:00:00.000Z",
-      "description": "Provides psychosocial assessment, counseling, case management, and community resource coordination; requires L.C.S.W. or Certified Social Worker in Utah and RQI eCredential; must perform moderate physical tasks.",
-      "salary": "",
-      "job_type": "Part Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Community Healthcare of Texas",
       "title": "Social Worker",
       "location": "Fort Worth, Texas, United States",
@@ -237,6 +223,20 @@
       "description": "BSW with 1 year required (Master's preferred), Texas state social worker license, valid driver's license and reliable transportation, computer proficiency, hospice/healthcare experience preferred.",
       "salary": "",
       "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "University of Utah Health",
+      "title": "Social Worker",
+      "location": "Salt Lake City, Utah, United States",
+      "url": "https://careers-uuhc.icims.com/jobs/84616/social-worker/job?in_iframe=1",
+      "direct_url": "https://careers-uuhc.icims.com/jobs/84616/social-worker/job?in_iframe=1",
+      "date_posted": "2026-07-15T06:00:00.000Z",
+      "description": "Provides psychosocial assessment, counseling, case management, and community resource coordination; requires L.C.S.W. or Certified Social Worker in Utah and RQI eCredential; must perform moderate physical tasks.",
+      "salary": "",
+      "job_type": "Part Time",
       "is_remote": false,
       "work_arrangement": "On-site",
       "ats": "HiringCafe"
@@ -312,20 +312,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Black Birth Justice",
-      "title": "Case Manager",
-      "location": "Louisville, Kentucky, United States",
-      "url": "https://blackbirthjustice.bamboohr.com/careers/66",
-      "direct_url": "https://blackbirthjustice.bamboohr.com/careers/66",
-      "date_posted": "2026-07-06T00:00:00.000Z",
-      "description": "Bachelors in social work or related field, 2+ years direct social services/case management, proficiency with Google Suite and case management software, ability to conduct assessments, crisis response, documentation, and do field outreach.",
-      "salary": "",
-      "job_type": "Contract",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Vincennes University",
       "title": "Case Manager",
       "location": "Vincennes or Gibson County",
@@ -335,6 +321,20 @@
       "description": "Provide options counseling and case management, conduct assessments and home visits, develop person-centered plans, link clients to community resources; must obtain Division of Aging Case Management certification within six months.",
       "salary": "$36k/yr",
       "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Black Birth Justice",
+      "title": "Case Manager",
+      "location": "Louisville, Kentucky, United States",
+      "url": "https://blackbirthjustice.bamboohr.com/careers/66",
+      "direct_url": "https://blackbirthjustice.bamboohr.com/careers/66",
+      "date_posted": "2026-07-06T00:00:00.000Z",
+      "description": "Bachelors in social work or related field, 2+ years direct social services/case management, proficiency with Google Suite and case management software, ability to conduct assessments, crisis response, documentation, and do field outreach.",
+      "salary": "",
+      "job_type": "Contract",
       "is_remote": false,
       "work_arrangement": "On-site",
       "ats": "HiringCafe"
@@ -648,6 +648,20 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "Associated",
+      "title": "Program Coordinator",
+      "location": "Baltimore, Maryland, United States",
+      "url": "https://jobs.dayforcehcm.com/en-US/associated/jcccandidateportal/jobs/10250",
+      "direct_url": "https://jobs.dayforcehcm.com/en-US/associated/jcccandidateportal/jobs/10250",
+      "date_posted": "2026-07-14T04:00:00.000Z",
+      "description": "Experience coordinating programs, supervising staff, strong customer service, proficiency with CRM and Microsoft Office, ability to lift up to 25 lbs, and excellent communication and organizational skills.",
+      "salary": "$43k–$48k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
       "company": "NYU Langone Health",
       "title": "Program Coordinator",
       "location": "New York, New York, United States",
@@ -662,14 +676,14 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Associated",
+      "company": "Energy & Environment Cabinet - Dept for Environmental Protection",
       "title": "Program Coordinator",
-      "location": "Baltimore, Maryland, United States",
-      "url": "https://jobs.dayforcehcm.com/en-US/associated/jcccandidateportal/jobs/10250",
-      "direct_url": "https://jobs.dayforcehcm.com/en-US/associated/jcccandidateportal/jobs/10250",
-      "date_posted": "2026-07-14T04:00:00.000Z",
-      "description": "Experience coordinating programs, supervising staff, strong customer service, proficiency with CRM and Microsoft Office, ability to lift up to 25 lbs, and excellent communication and organizational skills.",
-      "salary": "$43k–$48k/yr",
+      "location": "Paducah, Kentucky, United States",
+      "url": "https://kypersonnelcabinet.csod.com/ux/ats/careersite/49/home/requisition/79781?c=kypersonnelcabinet",
+      "direct_url": "https://kypersonnelcabinet.csod.com/ux/ats/careersite/49/home/requisition/79781?c=kypersonnelcabinet",
+      "date_posted": "2026-07-17T00:00:00.000Z",
+      "description": "Bachelor's degree and 3 years management/administration experience (or approved substitutions). Strong organization, written/verbal communication, Microsoft Office proficiency, attention to detail, and ability to coordinate program activities.",
+      "salary": "$47k–$49k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
@@ -704,28 +718,14 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Energy & Environment Cabinet - Dept for Environmental Protection",
+      "company": "Buffalo Center for Arts and Technology",
       "title": "Program Coordinator",
-      "location": "Paducah, Kentucky, United States",
-      "url": "https://kypersonnelcabinet.csod.com/ux/ats/careersite/49/home/requisition/79781?c=kypersonnelcabinet",
-      "direct_url": "https://kypersonnelcabinet.csod.com/ux/ats/careersite/49/home/requisition/79781?c=kypersonnelcabinet",
-      "date_posted": "2026-07-17T00:00:00.000Z",
-      "description": "Bachelor's degree and 3 years management/administration experience (or approved substitutions). Strong organization, written/verbal communication, Microsoft Office proficiency, attention to detail, and ability to coordinate program activities.",
-      "salary": "$47k–$49k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Yale",
-      "title": "Program Coordinator",
-      "location": "New Haven, Connecticut, United States",
-      "url": "https://yale.wd1.myworkdayjobs.com/external_career_site/job/Church-St-South-100/Program-Coordinator_136556WD",
-      "direct_url": "https://yale.wd1.myworkdayjobs.com/external_career_site/job/Church-St-South-100/Program-Coordinator_136556WD",
-      "date_posted": "2026-07-17T00:00:00.000Z",
-      "description": "Bachelor's degree plus two years' related experience (or equivalent), program and event coordination, advanced Microsoft Office and Adobe Acrobat proficiency, strong communication and organizational skills, background check required.",
-      "salary": "$62k–$92k/yr",
+      "location": "Buffalo, New York, United States",
+      "url": "https://apply.appone.com/job/6a4d48e7d12a86db70ff1ffa",
+      "direct_url": "https://apply.appone.com/job/6a4d48e7d12a86db70ff1ffa",
+      "date_posted": "2026-07-08T16:23:09.000Z",
+      "description": "Experience in program coordination or operations, ability to obtain NYS BPSS Agent certification, strong organizational and communication skills, proficiency with Google Workspace, Microsoft Office and CRM, grant administrative experience preferred.",
+      "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
@@ -746,14 +746,14 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Buffalo Center for Arts and Technology",
+      "company": "Yale",
       "title": "Program Coordinator",
-      "location": "Buffalo, New York, United States",
-      "url": "https://apply.appone.com/job/6a4d48e7d12a86db70ff1ffa",
-      "direct_url": "https://apply.appone.com/job/6a4d48e7d12a86db70ff1ffa",
-      "date_posted": "2026-07-08T16:23:09.000Z",
-      "description": "Experience in program coordination or operations, ability to obtain NYS BPSS Agent certification, strong organizational and communication skills, proficiency with Google Workspace, Microsoft Office and CRM, grant administrative experience preferred.",
-      "salary": "",
+      "location": "New Haven, Connecticut, United States",
+      "url": "https://yale.wd1.myworkdayjobs.com/external_career_site/job/Church-St-South-100/Program-Coordinator_136556WD",
+      "direct_url": "https://yale.wd1.myworkdayjobs.com/external_career_site/job/Church-St-South-100/Program-Coordinator_136556WD",
+      "date_posted": "2026-07-17T00:00:00.000Z",
+      "description": "Bachelor's degree plus two years' related experience (or equivalent), program and event coordination, advanced Microsoft Office and Adobe Acrobat proficiency, strong communication and organizational skills, background check required.",
+      "salary": "$62k–$92k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
@@ -1222,20 +1222,5 @@
       "ats": "HiringCafe"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "UVA Health",
-      "title": "PFA Program Coordinator",
-      "location": "Charlottesville, Virginia, United States",
-      "url": "https://virginiahealth.phenompro.com/us/en/job/R0082289/PFA-Program-Coordinator",
-      "direct_url": "https://virginiahealth.phenompro.com/us/en/job/R0082289/PFA-Program-Coordinator",
-      "date_posted": "2026-06-24T00:00:00.000Z",
-      "description": "Bachelor's degree in a healthcare-related field plus 1 year program coordination or related experience; experience with policy, workflow design, Visio, budget management, stakeholder communication, and training.",
-      "salary": "$86k–$123k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    }
-  ]
+  "new_jobs": []
 }
