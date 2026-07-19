@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-07-19 21:38 UTC",
+  "scraped_at": "2026-07-19 22:45 UTC",
   "total": 2,
-  "new_count": 2,
+  "new_count": 0,
   "jobs": [
     {
       "company": "Sanctuary of Purpose",
@@ -40,42 +40,5 @@
       "ats": "Indeed"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Sanctuary of Purpose",
-      "title": "Peer Support Specialist, Out reach services",
-      "location": "Aurora, CO, US",
-      "url": "https://www.indeed.com/viewjob?jk=8cc1473302d8f0cf",
-      "direct_url": "http://www.indeed.com/job/peer-support-specialist-out-reach-services-8cc1473302d8f0cf",
-      "company_url": "https://www.indeed.com/cmp/Sanctuary-of-Purpose",
-      "date_posted": "2026-07-19",
-      "description": "**Job Overview**   \nJoin our team as a Peer Support Specialist providing Outreach Services dedicated to empowering individuals facing behavioral health challenges. In this vital role, you will serve as a compassionate guide, connecting clients with essential resources, offering peer\\-led support, and fostering hope and resilience. Your lived experience and empathetic approach will help break down barriers to care, promote recovery, and build trusting relationships within the community. This paid position offers an exciting opportunity to make a meaningful difference in people's lives through proactive engagement and support.\n\n**Duties**\n\n* Conduct outreach activities to engage individuals in need of behavioral health support within the community\n* Provide peer\\-led mentoring and motivational interviewing to encourage positive change and recovery\n* Assist clients in navigating mental health, addiction counseling, and social services systems\n* Offer crisis intervention and crisis management during urgent situations with sensitivity and professionalism\n* Document interactions accurately using Electronic Health Record (EHR) systems, ensuring confidentiality and compliance\n* Collaborate with multidisciplinary teams to develop personalized support plans tailored to each individual's needs\n* Educate clients about behavioral health topics, coping strategies, and available community resources\n\n**Qualifications**\n\n* Lived experience with behavioral health challenges or addiction recovery, demonstrating empathy and understanding\n* Knowledge of crisis intervention techniques and crisis management strategies\n* Background in social work, mental health counseling, or related fields is preferred\n* Strong mentoring skills with the ability to motivate and empower others\n* Familiarity with EHR systems for documentation purposes\n* Excellent communication skills, including motivational interviewing techniques\n* Ability to work independently and as part of a collaborative team in diverse community settings\n\nThis role is ideal for passionate individuals committed to making a tangible impact through outreach services. If you are energetic, dedicated, and ready to support others on their recovery journey, we invite you to apply!\n\nPay: $17\\.00 \\- $25\\.00 per hour\n\nPeople with a criminal record are encouraged to apply\n\nWork Location: Hybrid remote in Aurora, CO 80012",
-      "salary": "$17–$25/hr",
-      "salary_source": "direct_data",
-      "salary_currency": "USD",
-      "job_type": "contract",
-      "is_remote": true,
-      "work_arrangement": "Remote in-state eligible",
-      "emails": "",
-      "ats": "Indeed"
-    },
-    {
-      "company": "Sanctuary of Purpose",
-      "title": "Peer Support Specialist, Out reach services",
-      "location": "Aurora, CO, US",
-      "url": "https://www.indeed.com/viewjob?jk=8d5dad6ebae0e38f",
-      "direct_url": "http://www.indeed.com/job/peer-support-specialist-out-reach-services-8d5dad6ebae0e38f",
-      "company_url": "https://www.indeed.com/cmp/Sanctuary-of-Purpose",
-      "date_posted": "2026-07-19",
-      "description": "**Job Overview**   \nJoin our team as a Peer Support Specialist providing Outreach Services dedicated to empowering individuals facing behavioral health challenges. In this vital role, you will serve as a compassionate guide, connecting clients with essential resources, offering peer\\-led support, and fostering hope and resilience. Your lived experience and empathetic approach will help break down barriers to care, promote recovery, and build trusting relationships within the community. This paid position offers an exciting opportunity to make a meaningful difference in people's lives through proactive engagement and support.\n\n**Duties**\n\n* Conduct outreach activities to engage individuals in need of behavioral health support within the community\n* Provide peer\\-led mentoring and motivational interviewing to encourage positive change and recovery\n* Assist clients in navigating mental health, addiction counseling, and social services systems\n* Offer crisis intervention and crisis management during urgent situations with sensitivity and professionalism\n* Document interactions accurately using Electronic Health Record (EHR) systems, ensuring confidentiality and compliance\n* Collaborate with multidisciplinary teams to develop personalized support plans tailored to each individual's needs\n* Educate clients about behavioral health topics, coping strategies, and available community resources\n\n**Qualifications**\n\n* Lived experience with behavioral health challenges or addiction recovery, demonstrating empathy and understanding\n* Knowledge of crisis intervention techniques and crisis management strategies\n* Background in social work, mental health counseling, or related fields is preferred\n* Strong mentoring skills with the ability to motivate and empower others\n* Familiarity with EHR systems for documentation purposes\n* Excellent communication skills, including motivational interviewing techniques\n* Ability to work independently and as part of a collaborative team in diverse community settings\n\nThis role is ideal for passionate individuals committed to making a tangible impact through outreach services. If you are energetic, dedicated, and ready to support others on their recovery journey, we invite you to apply!\n\nPay: $17\\.00 \\- $19\\.00 per hour\n\nPeople with a criminal record are encouraged to apply\n\nWork Location: Hybrid remote in Aurora, CO 80011",
-      "salary": "$17–$19/hr",
-      "salary_source": "direct_data",
-      "salary_currency": "USD",
-      "job_type": "contract",
-      "is_remote": true,
-      "work_arrangement": "Remote in-state eligible",
-      "emails": "",
-      "ats": "Indeed"
-    }
-  ]
+  "new_jobs": []
 }
