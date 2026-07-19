@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-07-18 18:39 UTC",
+  "scraped_at": "2026-07-19 18:43 UTC",
   "total": 15,
-  "new_count": 10,
+  "new_count": 0,
   "jobs": [
     {
       "company": "Veterans Health Administration",
@@ -139,96 +139,5 @@
       "ats": "USAJOBS"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Veterans Health Administration",
-      "title": "Licensed Professional Mental Health Counselor (Program Coordinator) - Suicide Prevention",
-      "location": "Hot Springs, South Dakota",
-      "url": "https://www.usajobs.gov/job/876967200",
-      "date_posted": "2026-07-17",
-      "salary": "Starting at $89,508 Per year (GS 12)",
-      "ats": "USAJOBS"
-    },
-    {
-      "company": "Animal and Plant Health Inspection Service",
-      "title": "Supervisory Wildlife Biologist (District Supervisor)",
-      "location": "Bannock County, Idaho",
-      "url": "https://www.usajobs.gov/job/876774200",
-      "date_posted": "2026-07-17",
-      "salary": "Starting at $61,722 Per year (GS 9)",
-      "ats": "USAJOBS"
-    },
-    {
-      "company": "Veterans Health Administration",
-      "title": "Social Worker",
-      "location": "Kerrville, Texas",
-      "url": "https://www.usajobs.gov/job/876653300",
-      "date_posted": "2026-07-17",
-      "salary": "Starting at $77,772 Per year (GS 9-11)",
-      "ats": "USAJOBS"
-    },
-    {
-      "company": "Veterans Health Administration",
-      "title": "Senior Social Worker - Suicide Prevention Team",
-      "location": "Tacoma, Washington",
-      "url": "https://www.usajobs.gov/job/877124900",
-      "date_posted": "2026-07-17",
-      "salary": "Starting at $104,892 Per year (GS 12)",
-      "ats": "USAJOBS"
-    },
-    {
-      "company": "Veterans Health Administration",
-      "title": "Senior Social Worker - Primary Care - Mental Health Integration (PCMHI)",
-      "location": "Fayetteville, Arkansas",
-      "url": "https://www.usajobs.gov/job/877114100",
-      "date_posted": "2026-07-17",
-      "salary": "Starting at $98,637 Per year (GS 12)",
-      "ats": "USAJOBS"
-    },
-    {
-      "company": "Offices, Boards and Divisions",
-      "title": "IT Program Manager (INFOSEC)",
-      "location": "Washington, District of Columbia",
-      "url": "https://www.usajobs.gov/job/877074400",
-      "date_posted": "2026-07-17",
-      "salary": "Starting at $143,913 Per year (GS 14)",
-      "ats": "USAJOBS"
-    },
-    {
-      "company": "Veterans Health Administration",
-      "title": "Senior Social Worker - VJO/HCRV",
-      "location": "Columbia, South Carolina",
-      "url": "https://www.usajobs.gov/job/876979600",
-      "date_posted": "2026-07-17",
-      "salary": "Starting at $102,919 Per year (GS 12)",
-      "ats": "USAJOBS"
-    },
-    {
-      "company": "Bureau of Prisons/Federal Prison System",
-      "title": "Social Worker",
-      "location": "Houston, Texas",
-      "url": "https://www.usajobs.gov/job/876973200",
-      "date_posted": "2026-07-17",
-      "salary": "Starting at $86,123 Per year (GS 11)",
-      "ats": "USAJOBS"
-    },
-    {
-      "company": "Army National Guard Units",
-      "title": "Social Worker (Licensed Drug and Alcohol Counselor)(Title 5) (ACCELERATED HIRE)",
-      "location": "Oklahoma City, Oklahoma",
-      "url": "https://www.usajobs.gov/job/876882100",
-      "date_posted": "2026-07-17",
-      "salary": "Starting at $74,678 Per year (GS 11)",
-      "ats": "USAJOBS"
-    },
-    {
-      "company": "Veterans Health Administration",
-      "title": "Senior Social Worker",
-      "location": "Twin Falls, Idaho",
-      "url": "https://www.usajobs.gov/job/876930900",
-      "date_posted": "2026-07-16",
-      "salary": "Starting at $89,508 Per year (GS 12)",
-      "ats": "USAJOBS"
-    }
-  ]
+  "new_jobs": []
 }
