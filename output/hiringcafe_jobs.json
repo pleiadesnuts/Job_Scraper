@@ -1,22 +1,8 @@
 {
-  "scraped_at": "2026-07-18 23:40 UTC",
-  "total": 87,
+  "scraped_at": "2026-07-19 07:53 UTC",
+  "total": 85,
   "new_count": 0,
   "jobs": [
-    {
-      "company": "Gundersen Health System",
-      "title": "Social Worker",
-      "location": "West Union, Iowa, United States",
-      "url": "https://gundersenhealth.wd5.myworkdayjobs.com/gundersen/job/West-Union-IA/Social-Worker_JR-31224",
-      "direct_url": "https://gundersenhealth.wd5.myworkdayjobs.com/gundersen/job/West-Union-IA/Social-Worker_JR-31224",
-      "date_posted": "2026-06-19T00:00:00.000Z",
-      "description": "Bachelor's degree in Social Work, licensed social worker in Iowa, and at least 1 year of social work experience in a healthcare setting.",
-      "salary": "$54k/yr",
-      "job_type": "Part Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
     {
       "company": "Avant Rehabilitation and Care Center",
       "title": "Social Worker",
@@ -32,20 +18,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Amphitheater Public Schools",
-      "title": "Social Worker",
-      "location": "Tucson, Arizona, United States",
-      "url": "https://jobs.amphi.com/jobs/7997270-social-worker",
-      "direct_url": "https://jobs.amphi.com/jobs/7997270-social-worker",
-      "date_posted": "2026-06-30T23:26:53.000Z",
-      "description": "Master's in social work (or equivalent), 1 year field instruction or school social work/child & family experience, Arizona Department of Education Social Worker Certificate, fingerprint clearance card, and submission of transcripts.",
-      "salary": "$52k–$55k/yr",
-      "job_type": "Part Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Barnes-Jewish Hospital",
       "title": "Social Worker",
       "location": "Saint Louis, Missouri, United States",
@@ -54,6 +26,20 @@
       "date_posted": "2026-07-02T15:21:54.000Z",
       "description": "Master's in social work required. Licensed Master Social Worker preferred. No prior experience required (2-5 years preferred). Provides clinical social work services, care planning, and community collaboration.",
       "salary": "$57k–$93k/yr",
+      "job_type": "Part Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Amphitheater Public Schools",
+      "title": "Social Worker",
+      "location": "Tucson, Arizona, United States",
+      "url": "https://jobs.amphi.com/jobs/7997270-social-worker",
+      "direct_url": "https://jobs.amphi.com/jobs/7997270-social-worker",
+      "date_posted": "2026-06-30T23:26:53.000Z",
+      "description": "Master's in social work (or equivalent), 1 year field instruction or school social work/child & family experience, Arizona Department of Education Social Worker Certificate, fingerprint clearance card, and submission of transcripts.",
+      "salary": "$52k–$55k/yr",
       "job_type": "Part Time",
       "is_remote": false,
       "work_arrangement": "On-site",
@@ -438,20 +424,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "El Paso County (CO)",
-      "title": "Associate Case Manager/Case Manager - Workforce Development",
-      "location": "Colorado Springs, Colorado, United States",
-      "url": "https://www.governmentjobs.com/careers/ElPasoCountyCo/jobs/5405941",
-      "direct_url": "https://www.governmentjobs.com/careers/ElPasoCountyCo/jobs/5405941",
-      "date_posted": "2026-07-10T18:09:56.000Z",
-      "description": "High school diploma or equivalent; 3 years administrative/customer service experience (Associate) or 4 years (Case Manager); one year case management for Case Manager; valid driver’s license; proficient in Microsoft Office; strong interpersonal and organizational skills.",
-      "salary": "$45k–$72k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "The Salvation Army Central Territory",
       "title": "Case Manager",
       "location": "Galesburg, Illinois, United States",
@@ -461,6 +433,20 @@
       "description": "Provide intake, assessment, case planning, referrals, discharge planning, HMIS/SIMS documentation; bachelor's preferred or equivalent experience; 3+ years social services/case management experience preferred; valid MVR; proficiency with MS Office.",
       "salary": "$43k–$52k/yr",
       "job_type": "Part Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "El Paso County (CO)",
+      "title": "Associate Case Manager/Case Manager - Workforce Development",
+      "location": "Colorado Springs, Colorado, United States",
+      "url": "https://www.governmentjobs.com/careers/ElPasoCountyCo/jobs/5405941",
+      "direct_url": "https://www.governmentjobs.com/careers/ElPasoCountyCo/jobs/5405941",
+      "date_posted": "2026-07-10T18:09:56.000Z",
+      "description": "High school diploma or equivalent; 3 years administrative/customer service experience (Associate) or 4 years (Case Manager); one year case management for Case Manager; valid driver’s license; proficient in Microsoft Office; strong interpersonal and organizational skills.",
+      "salary": "$45k–$72k/yr",
+      "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
       "ats": "HiringCafe"
@@ -522,20 +508,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "All Ways Caring HomeCare",
-      "title": "Case Manager",
-      "location": "Oklahoma City, Oklahoma, United States",
-      "url": "https://brightspring.jibeapply.com/jobs/192658",
-      "direct_url": "https://brightspring.jibeapply.com/jobs/192658",
-      "date_posted": "2026-07-01T21:18:57.000Z",
-      "description": "Bachelor's in human services or nursing, valid driver's license, 2 years case management or related experience, strong verbal and written communication.",
-      "salary": "$50k/yr",
-      "job_type": "Part Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "StepStone Family & Youth Services",
       "title": "Case Manager",
       "location": "Louisville, Kentucky, United States",
@@ -550,6 +522,20 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "All Ways Caring HomeCare",
+      "title": "Case Manager",
+      "location": "Oklahoma City, Oklahoma, United States",
+      "url": "https://brightspring.jibeapply.com/jobs/192658",
+      "direct_url": "https://brightspring.jibeapply.com/jobs/192658",
+      "date_posted": "2026-07-01T21:18:57.000Z",
+      "description": "Bachelor's in human services or nursing, valid driver's license, 2 years case management or related experience, strong verbal and written communication.",
+      "salary": "$50k/yr",
+      "job_type": "Part Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
       "company": "Ascension Recovery Services",
       "title": "Case Manager",
       "location": "Muncie, Indiana, United States",
@@ -558,20 +544,6 @@
       "date_posted": "2026-07-17T00:00:00.000Z",
       "description": "Provide case management, discharge planning, resource coordination, EHR documentation, and advocacy for clients with substance use and mental health needs.",
       "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Rrhs",
-      "title": "Program Coordinator",
-      "location": "Rochester, New York, United States",
-      "url": "https://rrhs.wd5.myworkdayjobs.com/rrh/job/Riedman-Health-Center/Program-Coordinator_REQ_237488",
-      "direct_url": "https://rrhs.wd5.myworkdayjobs.com/rrh/job/Riedman-Health-Center/Program-Coordinator_REQ_237488",
-      "date_posted": "2026-06-19T00:00:00.000Z",
-      "description": "AA required; project and people management ability and administrative/coordinator experience preferred; experience with program coordination, evaluation, recruitment, and documentation; strong verbal and written communication.",
-      "salary": "$62k–$75k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
@@ -732,20 +704,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "VOA Illinois",
-      "title": "Program Coordinator",
-      "location": "Chicago, Illinois, United States",
-      "url": "https://recruitingbypaycor.com/career/JobIntroduction.action?clientId=8a7883d0958c3c940195de2b4092554a&id=8a7883ac9efb8722019f1ea8d0c6158c&source=&lang=en",
-      "direct_url": "https://recruitingbypaycor.com/career/JobIntroduction.action?clientId=8a7883d0958c3c940195de2b4092554a&id=8a7883ac9efb8722019f1ea8d0c6158c&source=&lang=en",
-      "date_posted": "2026-07-01T17:16:18.000Z",
-      "description": "Bachelor's degree or veteran status required; minimum 2 years program coordination/logistics experience; valid driver’s license; ability to lift up to 50 lbs; strong communication and administrative skills.",
-      "salary": "$46k–$55k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Yale",
       "title": "Program Coordinator",
       "location": "New Haven, Connecticut, United States",
@@ -754,6 +712,20 @@
       "date_posted": "2026-07-17T00:00:00.000Z",
       "description": "Bachelor's degree plus two years' related experience (or equivalent), program and event coordination, advanced Microsoft Office and Adobe Acrobat proficiency, strong communication and organizational skills, background check required.",
       "salary": "$62k–$92k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "VOA Illinois",
+      "title": "Program Coordinator",
+      "location": "Chicago, Illinois, United States",
+      "url": "https://recruitingbypaycor.com/career/JobIntroduction.action?clientId=8a7883d0958c3c940195de2b4092554a&id=8a7883ac9efb8722019f1ea8d0c6158c&source=&lang=en",
+      "direct_url": "https://recruitingbypaycor.com/career/JobIntroduction.action?clientId=8a7883d0958c3c940195de2b4092554a&id=8a7883ac9efb8722019f1ea8d0c6158c&source=&lang=en",
+      "date_posted": "2026-07-01T17:16:18.000Z",
+      "description": "Bachelor's degree or veteran status required; minimum 2 years program coordination/logistics experience; valid driver’s license; ability to lift up to 50 lbs; strong communication and administrative skills.",
+      "salary": "$46k–$55k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",

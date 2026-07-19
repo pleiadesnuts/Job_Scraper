@@ -1,6 +1,6 @@
 # ☕ HiringCafe — Social Worker Roles
-*Last updated: 2026-07-18 23:40 UTC*
+*Last updated: 2026-07-19 07:53 UTC*
 
-**0 new role(s)** since last run · 87 total in last 30d
+**0 new role(s)** since last run · 85 total in last 30d
 
 No new roles since the last run.
