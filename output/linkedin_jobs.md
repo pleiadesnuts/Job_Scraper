@@ -1,49 +1,31 @@
 # 🔥 LinkedIn — Social Worker Roles
-*Last updated: 2026-07-19 07:44 UTC*
+*Last updated: 2026-07-19 08:11 UTC*
 
-**11 new role(s)** since last run · 11 total in last 1h
+**6 new role(s)** since last run · 14 total in last 1h
 
-### [Social Worker-Congenital Heart Scarborough](https://www.linkedin.com/jobs/view/4436885155/) — MaineHealth
-- 📍 **Location:** Scarborough, ME
+### [Medical Assistant Supervisor - Dakota Ridge](https://www.linkedin.com/jobs/view/4442511524/) — Wilmington MGMA
+- 📍 **Location:** Littleton, CO
+- 💰 **Salary:** $27.00 to $32.00 Hourly
 - 🕒 **Posted:** 2026-07-19
 
-### [Social Worker - MSW, Care Management](https://www.linkedin.com/jobs/view/4441761916/) — Dartmouth Health
-- 📍 **Location:** Lebanon, NH
+### [YJ Social Worker Porirua Fixed Term till January 2027](https://www.linkedin.com/jobs/view/4441774427/) — Oranga Tamariki—Ministry for Children
+- 📍 **Location:** Porirua, Wellington, New Zealand
+- 💰 **Salary:** $81,206- $97,557
 - 🕒 **Posted:** 2026-07-19
 
-### [Peer Support Specialist](https://www.linkedin.com/jobs/view/4441769537/) — Community Bridges
+### [Social Worker - Hamilton Rural North](https://www.linkedin.com/jobs/view/4439486882/) — Oranga Tamariki—Ministry for Children
+- 📍 **Location:** Hamilton, Waikato, New Zealand
+- 🕒 **Posted:** 2026-07-19
+
+### [Wellness Coordinator - LVN](https://www.linkedin.com/jobs/view/4442519297/) — Gallaher Signature Living
+- 📍 **Location:** Covina, CA
+- 💰 **Salary:** $34.00 - $38.00 per hour
+- 🕒 **Posted:** 2026-07-19
+
+### [Client Care Coordinator - Day Shift](https://www.linkedin.com/jobs/view/4441752712/) — Community Bridges
 - 📍 **Location:** Phoenix, AZ
 - 🕒 **Posted:** 2026-07-19
 
-### [Peer Support Specialist](https://www.linkedin.com/jobs/view/4441772508/) — Community Bridges
-- 📍 **Location:** Mesa, AZ
-- 🕒 **Posted:** 2026-07-19
-
-### [Supervisor, Tenant Relations & Human Rights](https://www.linkedin.com/jobs/view/4442141642/) — Toronto Community Housing
-- 📍 **Location:** Toronto, Ontario, Canada
-- 💰 **Salary:** $107,358.63 - $128,830.36
-- 🕒 **Posted:** 2026-07-19
-
-### [Training Coordinator (Tamheer Program - برنامج تمهير)](https://www.linkedin.com/jobs/view/4439657744/) — National Medical Care
-- 📍 **Location:** Riyadh, Saudi Arabia
-- 🕒 **Posted:** 2026-07-19
-
-### [Client Care Coordinator](https://www.linkedin.com/jobs/view/4441764788/) — Community Bridges
-- 📍 **Location:** Mesa, AZ
-- 🕒 **Posted:** 2026-07-19
-
-### [Client Care Coordinator](https://www.linkedin.com/jobs/view/4441772509/) — Community Bridges
-- 📍 **Location:** Phoenix, AZ
-- 🕒 **Posted:** 2026-07-19
-
-### [Social Worker - MSW - Pediatrics](https://www.linkedin.com/jobs/view/4441771536/) — Dartmouth Health
-- 📍 **Location:** Manchester, NH
-- 🕒 **Posted:** 2026-07-19
-
-### [Social Worker - MHCAH (U) (PV)](https://www.linkedin.com/jobs/view/4441769467/) — MaineHealth
-- 📍 **Location:** Portland, ME
-- 🕒 **Posted:** 2026-07-19
-
-### [Specialty Case Manager](https://www.linkedin.com/jobs/view/4441772510/) — Community Bridges
+### [Client Care Coordinator](https://www.linkedin.com/jobs/view/4441763779/) — Community Bridges
 - 📍 **Location:** Phoenix, AZ
 - 🕒 **Posted:** 2026-07-19
