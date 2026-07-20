@@ -1,8 +1,62 @@
 {
-  "scraped_at": "2026-07-19 18:43 UTC",
-  "total": 15,
-  "new_count": 0,
+  "scraped_at": "2026-07-20 20:46 UTC",
+  "total": 17,
+  "new_count": 7,
   "jobs": [
+    {
+      "company": "Veterans Health Administration",
+      "title": "Social Worker - Home Based Primary Care",
+      "location": "Columbia, Missouri",
+      "url": "https://www.usajobs.gov/job/877253200",
+      "date_posted": "2026-07-20",
+      "salary": "Starting at $70,459 Per year (GS 9-11)",
+      "ats": "USAJOBS"
+    },
+    {
+      "company": "Veterans Health Administration",
+      "title": "Senior Social Worker (HUD-VASH)",
+      "location": "Wenatchee, Washington",
+      "url": "https://www.usajobs.gov/job/877250800",
+      "date_posted": "2026-07-20",
+      "salary": "Starting at $97,987 Per year (GS 12)",
+      "ats": "USAJOBS"
+    },
+    {
+      "company": "Veterans Health Administration",
+      "title": "Senior Social Worker - HUDVASH",
+      "location": "Jacksonville, Florida",
+      "url": "https://www.usajobs.gov/job/877246900",
+      "date_posted": "2026-07-20",
+      "salary": "Starting at $100,090 Per year (GS 12)",
+      "ats": "USAJOBS"
+    },
+    {
+      "company": "Veterans Health Administration",
+      "title": "Social Worker - Behavioral Health Integrated Program (BHIP)",
+      "location": "Lincoln, Nebraska",
+      "url": "https://www.usajobs.gov/job/877183300",
+      "date_posted": "2026-07-20",
+      "salary": "Starting at $77,294 Per year (GS 11)",
+      "ats": "USAJOBS"
+    },
+    {
+      "company": "Veterans Health Administration",
+      "title": "Senior Social Worker",
+      "location": "Mechanicsburg, Pennsylvania",
+      "url": "https://www.usajobs.gov/job/877151500",
+      "date_posted": "2026-07-20",
+      "salary": "Starting at $99,157 Per year (GS 12)",
+      "ats": "USAJOBS"
+    },
+    {
+      "company": "Veterans Health Administration",
+      "title": "Social Worker",
+      "location": "Bath, New York",
+      "url": "https://www.usajobs.gov/job/877151200",
+      "date_posted": "2026-07-20",
+      "salary": "Starting at $61,722 Per year (GS 9-11)",
+      "ats": "USAJOBS"
+    },
     {
       "company": "Veterans Health Administration",
       "title": "Licensed Professional Mental Health Counselor (Program Coordinator) - Suicide Prevention",
@@ -13,30 +67,12 @@
       "ats": "USAJOBS"
     },
     {
-      "company": "Animal and Plant Health Inspection Service",
-      "title": "Supervisory Wildlife Biologist (District Supervisor)",
-      "location": "Bannock County, Idaho",
-      "url": "https://www.usajobs.gov/job/876774200",
-      "date_posted": "2026-07-17",
-      "salary": "Starting at $61,722 Per year (GS 9)",
-      "ats": "USAJOBS"
-    },
-    {
       "company": "Veterans Health Administration",
-      "title": "Social Worker",
-      "location": "Kerrville, Texas",
-      "url": "https://www.usajobs.gov/job/876653300",
-      "date_posted": "2026-07-17",
-      "salary": "Starting at $77,772 Per year (GS 9-11)",
-      "ats": "USAJOBS"
-    },
-    {
-      "company": "Veterans Health Administration",
-      "title": "Social Worker - Primary Care",
-      "location": "Burlington, Iowa",
-      "url": "https://www.usajobs.gov/job/876859400",
-      "date_posted": "2026-07-16",
-      "salary": "Starting at $65,445 Per year (GS 9-11)",
+      "title": "Registered Nurse - Case Manager - Surgical Service",
+      "location": "Columbia, South Carolina",
+      "url": "https://www.usajobs.gov/job/876570200",
+      "date_posted": "2026-07-20",
+      "salary": "Starting at $80,126 Per year (VN 00)",
       "ats": "USAJOBS"
     },
     {
@@ -85,15 +121,6 @@
       "ats": "USAJOBS"
     },
     {
-      "company": "Army National Guard Units",
-      "title": "Social Worker (Licensed Drug and Alcohol Counselor)(Title 5) (ACCELERATED HIRE)",
-      "location": "Oklahoma City, Oklahoma",
-      "url": "https://www.usajobs.gov/job/876882100",
-      "date_posted": "2026-07-17",
-      "salary": "Starting at $74,678 Per year (GS 11)",
-      "ats": "USAJOBS"
-    },
-    {
       "company": "Veterans Health Administration",
       "title": "Senior Social Worker",
       "location": "Twin Falls, Idaho",
@@ -121,15 +148,6 @@
       "ats": "USAJOBS"
     },
     {
-      "company": "Veterans Health Administration",
-      "title": "Social Worker- Housing and Urban Development/VA Supportive Housing (HUD-VASH) Case Manager",
-      "location": "Memphis, Tennessee",
-      "url": "https://www.usajobs.gov/job/876661800",
-      "date_posted": "2026-07-15",
-      "salary": "Starting at $85,473 Per year (GS 11)",
-      "ats": "USAJOBS"
-    },
-    {
       "company": "Air Force Materiel Command",
       "title": "PROGRAM MANAGER - DIRECT HIRE AUTHORITY",
       "location": "Kelly AFB, Texas",
@@ -139,5 +157,69 @@
       "ats": "USAJOBS"
     }
   ],
-  "new_jobs": []
+  "new_jobs": [
+    {
+      "company": "Veterans Health Administration",
+      "title": "Social Worker - Home Based Primary Care",
+      "location": "Columbia, Missouri",
+      "url": "https://www.usajobs.gov/job/877253200",
+      "date_posted": "2026-07-20",
+      "salary": "Starting at $70,459 Per year (GS 9-11)",
+      "ats": "USAJOBS"
+    },
+    {
+      "company": "Veterans Health Administration",
+      "title": "Senior Social Worker (HUD-VASH)",
+      "location": "Wenatchee, Washington",
+      "url": "https://www.usajobs.gov/job/877250800",
+      "date_posted": "2026-07-20",
+      "salary": "Starting at $97,987 Per year (GS 12)",
+      "ats": "USAJOBS"
+    },
+    {
+      "company": "Veterans Health Administration",
+      "title": "Senior Social Worker - HUDVASH",
+      "location": "Jacksonville, Florida",
+      "url": "https://www.usajobs.gov/job/877246900",
+      "date_posted": "2026-07-20",
+      "salary": "Starting at $100,090 Per year (GS 12)",
+      "ats": "USAJOBS"
+    },
+    {
+      "company": "Veterans Health Administration",
+      "title": "Social Worker - Behavioral Health Integrated Program (BHIP)",
+      "location": "Lincoln, Nebraska",
+      "url": "https://www.usajobs.gov/job/877183300",
+      "date_posted": "2026-07-20",
+      "salary": "Starting at $77,294 Per year (GS 11)",
+      "ats": "USAJOBS"
+    },
+    {
+      "company": "Veterans Health Administration",
+      "title": "Senior Social Worker",
+      "location": "Mechanicsburg, Pennsylvania",
+      "url": "https://www.usajobs.gov/job/877151500",
+      "date_posted": "2026-07-20",
+      "salary": "Starting at $99,157 Per year (GS 12)",
+      "ats": "USAJOBS"
+    },
+    {
+      "company": "Veterans Health Administration",
+      "title": "Social Worker",
+      "location": "Bath, New York",
+      "url": "https://www.usajobs.gov/job/877151200",
+      "date_posted": "2026-07-20",
+      "salary": "Starting at $61,722 Per year (GS 9-11)",
+      "ats": "USAJOBS"
+    },
+    {
+      "company": "Veterans Health Administration",
+      "title": "Registered Nurse - Case Manager - Surgical Service",
+      "location": "Columbia, South Carolina",
+      "url": "https://www.usajobs.gov/job/876570200",
+      "date_posted": "2026-07-20",
+      "salary": "Starting at $80,126 Per year (VN 00)",
+      "ats": "USAJOBS"
+    }
+  ]
 }
