@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-07-20 00:17 UTC",
-  "total": 84,
-  "new_count": 0,
+  "scraped_at": "2026-07-20 11:30 UTC",
+  "total": 85,
+  "new_count": 1,
   "jobs": [
     {
       "company": "Avant Rehabilitation and Care Center",
@@ -200,20 +200,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Community Healthcare of Texas",
-      "title": "Social Worker",
-      "location": "Fort Worth, Texas, United States",
-      "url": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=bd15269d-4e6f-4700-a232-f9cbffb8d51a&ccId=19000101_000001&jobId=580314&lang=en_US",
-      "direct_url": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=bd15269d-4e6f-4700-a232-f9cbffb8d51a&ccId=19000101_000001&jobId=580314&lang=en_US",
-      "date_posted": "2026-07-02T13:48:00.000Z",
-      "description": "BSW with 1 year required (Master's preferred), Texas state social worker license, valid driver's license and reliable transportation, computer proficiency, hospice/healthcare experience preferred.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "University of Utah Health",
       "title": "Social Worker",
       "location": "Salt Lake City, Utah, United States",
@@ -223,6 +209,20 @@
       "description": "Provides psychosocial assessment, counseling, case management, and community resource coordination; requires L.C.S.W. or Certified Social Worker in Utah and RQI eCredential; must perform moderate physical tasks.",
       "salary": "",
       "job_type": "Part Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Community Healthcare of Texas",
+      "title": "Social Worker",
+      "location": "Fort Worth, Texas, United States",
+      "url": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=bd15269d-4e6f-4700-a232-f9cbffb8d51a&ccId=19000101_000001&jobId=580314&lang=en_US",
+      "direct_url": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=bd15269d-4e6f-4700-a232-f9cbffb8d51a&ccId=19000101_000001&jobId=580314&lang=en_US",
+      "date_posted": "2026-07-02T13:48:00.000Z",
+      "description": "BSW with 1 year required (Master's preferred), Texas state social worker license, valid driver's license and reliable transportation, computer proficiency, hospice/healthcare experience preferred.",
+      "salary": "",
+      "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
       "ats": "HiringCafe"
@@ -452,6 +452,20 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "State of Arizona",
+      "title": "CASE MANAGER",
+      "location": "Show Low or Winslow or Phoenix",
+      "url": "https://careers.pageuppeople.com/1045/ci/en/job/542333",
+      "direct_url": "https://careers.pageuppeople.com/1045/ci/en/job/542333",
+      "date_posted": "2026-07-15T16:00:00.000Z",
+      "description": "Bachelor's or master's degree OR 4 years as a DCS Case Aide; valid driver's license and satisfactory driving record; ability to obtain Level One Fingerprint Clearance Card; complete 22-week training; courtroom and case management skills.",
+      "salary": "$45k–$58k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
       "company": "Healthcare Systems of America",
       "title": "Case Manager",
       "location": "Port Arthur, Texas, United States",
@@ -634,20 +648,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Energy & Environment Cabinet - Dept for Environmental Protection",
-      "title": "Program Coordinator",
-      "location": "Paducah, Kentucky, United States",
-      "url": "https://kypersonnelcabinet.csod.com/ux/ats/careersite/49/home/requisition/79781?c=kypersonnelcabinet",
-      "direct_url": "https://kypersonnelcabinet.csod.com/ux/ats/careersite/49/home/requisition/79781?c=kypersonnelcabinet",
-      "date_posted": "2026-07-17T00:00:00.000Z",
-      "description": "Bachelor's degree and 3 years management/administration experience (or approved substitutions). Strong organization, written/verbal communication, Microsoft Office proficiency, attention to detail, and ability to coordinate program activities.",
-      "salary": "$47k–$49k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "University Health - San Antonio",
       "title": "Program Coordinator",
       "location": "San Antonio, Texas, United States",
@@ -676,14 +676,28 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Buffalo Center for Arts and Technology",
+      "company": "Energy & Environment Cabinet - Dept for Environmental Protection",
       "title": "Program Coordinator",
-      "location": "Buffalo, New York, United States",
-      "url": "https://apply.appone.com/job/6a4d48e7d12a86db70ff1ffa",
-      "direct_url": "https://apply.appone.com/job/6a4d48e7d12a86db70ff1ffa",
-      "date_posted": "2026-07-08T16:23:09.000Z",
-      "description": "Experience in program coordination or operations, ability to obtain NYS BPSS Agent certification, strong organizational and communication skills, proficiency with Google Workspace, Microsoft Office and CRM, grant administrative experience preferred.",
-      "salary": "",
+      "location": "Paducah, Kentucky, United States",
+      "url": "https://kypersonnelcabinet.csod.com/ux/ats/careersite/49/home/requisition/79781?c=kypersonnelcabinet",
+      "direct_url": "https://kypersonnelcabinet.csod.com/ux/ats/careersite/49/home/requisition/79781?c=kypersonnelcabinet",
+      "date_posted": "2026-07-17T00:00:00.000Z",
+      "description": "Bachelor's degree and 3 years management/administration experience (or approved substitutions). Strong organization, written/verbal communication, Microsoft Office proficiency, attention to detail, and ability to coordinate program activities.",
+      "salary": "$47k–$49k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "VOA Illinois",
+      "title": "Program Coordinator",
+      "location": "Chicago, Illinois, United States",
+      "url": "https://recruitingbypaycor.com/career/JobIntroduction.action?clientId=8a7883d0958c3c940195de2b4092554a&id=8a7883ac9efb8722019f1ea8d0c6158c&source=&lang=en",
+      "direct_url": "https://recruitingbypaycor.com/career/JobIntroduction.action?clientId=8a7883d0958c3c940195de2b4092554a&id=8a7883ac9efb8722019f1ea8d0c6158c&source=&lang=en",
+      "date_posted": "2026-07-01T17:16:18.000Z",
+      "description": "Bachelor's degree or veteran status required; minimum 2 years program coordination/logistics experience; valid driver’s license; ability to lift up to 50 lbs; strong communication and administrative skills.",
+      "salary": "$46k–$55k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
@@ -704,14 +718,14 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "VOA Illinois",
+      "company": "Buffalo Center for Arts and Technology",
       "title": "Program Coordinator",
-      "location": "Chicago, Illinois, United States",
-      "url": "https://recruitingbypaycor.com/career/JobIntroduction.action?clientId=8a7883d0958c3c940195de2b4092554a&id=8a7883ac9efb8722019f1ea8d0c6158c&source=&lang=en",
-      "direct_url": "https://recruitingbypaycor.com/career/JobIntroduction.action?clientId=8a7883d0958c3c940195de2b4092554a&id=8a7883ac9efb8722019f1ea8d0c6158c&source=&lang=en",
-      "date_posted": "2026-07-01T17:16:18.000Z",
-      "description": "Bachelor's degree or veteran status required; minimum 2 years program coordination/logistics experience; valid driver’s license; ability to lift up to 50 lbs; strong communication and administrative skills.",
-      "salary": "$46k–$55k/yr",
+      "location": "Buffalo, New York, United States",
+      "url": "https://apply.appone.com/job/6a4d48e7d12a86db70ff1ffa",
+      "direct_url": "https://apply.appone.com/job/6a4d48e7d12a86db70ff1ffa",
+      "date_posted": "2026-07-08T16:23:09.000Z",
+      "description": "Experience in program coordination or operations, ability to obtain NYS BPSS Agent certification, strong organizational and communication skills, proficiency with Google Workspace, Microsoft Office and CRM, grant administrative experience preferred.",
+      "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
@@ -1180,5 +1194,20 @@
       "ats": "HiringCafe"
     }
   ],
-  "new_jobs": []
+  "new_jobs": [
+    {
+      "company": "State of Arizona",
+      "title": "CASE MANAGER",
+      "location": "Show Low or Winslow or Phoenix",
+      "url": "https://careers.pageuppeople.com/1045/ci/en/job/542333",
+      "direct_url": "https://careers.pageuppeople.com/1045/ci/en/job/542333",
+      "date_posted": "2026-07-15T16:00:00.000Z",
+      "description": "Bachelor's or master's degree OR 4 years as a DCS Case Aide; valid driver's license and satisfactory driving record; ability to obtain Level One Fingerprint Clearance Card; complete 22-week training; courtroom and case management skills.",
+      "salary": "$45k–$58k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    }
+  ]
 }
