@@ -1,6 +1,6 @@
 # 🏛 CalCareers — California State Social Worker Roles
-*Last updated: 2026-07-20 20:52 UTC*
+*Last updated: 2026-07-21 20:47 UTC*
 
-**0 new role(s)** since last run · 3 total in current CalCareers postings
+**0 new role(s)** since last run · 4 total in current CalCareers postings
 
 No new CalCareers roles since the last run.
