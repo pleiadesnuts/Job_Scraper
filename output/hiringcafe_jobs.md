@@ -1,24 +1,24 @@
 # ☕ HiringCafe — Social Worker Roles
-*Last updated: 2026-07-21 10:09 UTC*
+*Last updated: 2026-07-21 20:52 UTC*
 
-**3 new role(s)** since last run · 86 total in last 30d
+**3 new role(s)** since last run · 88 total in last 30d
 
-### [Case Manager](https://ascensionrecovery.bamboohr.com/careers/899) — Ascension Recovery Services
-- 📍 **Location:** Muncie, Indiana, United States
+### [Case Manager](https://jobs.gusto.com/postings/divine-arms-of-love-gro-llc-case-manager-aed0a9d9-e769-41ad-9d51-27ec7f558985) — Divine Arms of Love GRO LLC
+- 📍 **Location:** Houston, Texas, United States
+- 💰 **Salary:** $42k/yr
 - **Work mode:** On-site
 - **Job type:** Full Time
-- 🕒 **Posted:** 2026-07-17T00:00:00.000Z
+- 🕒 **Posted:** 2026-07-06T21:06:46.809Z
 
-### [OEM Program Coordinator](https://ats.rippling.com/dealeron/jobs/896755ae-f6a0-4683-b174-2db49de391d7) — DealerOn
-- 📍 **Location:** United States
-- 💰 **Salary:** $38k–$52k/yr
-- **Work mode:** Remote in-state eligible
+### [Program Coordinator Exempt](https://adventhealth.wd12.myworkdayjobs.com/ah_external_career_site/job/01-WH-ADVENTHEALTH-WESTHALL/Program-Coordinator-Exempt_R-0385836) — Adventhealth
+- 📍 **Location:** Maitland, Florida, United States
+- 💰 **Salary:** $45k–$84k/yr
+- **Work mode:** Telecommute eligible
 - **Job type:** Full Time
-- 🕒 **Posted:** 2026-07-16T21:05:44.891Z
+- 🕒 **Posted:** 2026-07-20T00:00:00.000Z
 
-### [PFA Program Coordinator](https://virginiahealth.phenompro.com/us/en/job/R0082289/PFA-Program-Coordinator) — UVA Health
-- 📍 **Location:** Charlottesville, Virginia, United States
-- 💰 **Salary:** $86k–$123k/yr
+### [Community Health Worker](https://chsiclinics.applicantpro.com/jobs/4153851) — Community Health Service Inc.
+- 📍 **Location:** Grafton, North Dakota, United States
 - **Work mode:** On-site
 - **Job type:** Full Time
-- 🕒 **Posted:** 2026-06-24T00:00:00.000Z
+- 🕒 **Posted:** 2026-07-21T00:00:00.000Z
