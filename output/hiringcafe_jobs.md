@@ -1,30 +1,24 @@
 # ☕ HiringCafe — Social Worker Roles
-*Last updated: 2026-07-21 00:15 UTC*
+*Last updated: 2026-07-21 10:09 UTC*
 
-**4 new role(s)** since last run · 86 total in last 30d
+**3 new role(s)** since last run · 86 total in last 30d
 
-### [Social Worker](https://careers-nathealthcare.icims.com/jobs/7331/social-worker/job?in_iframe=1) — -
-- 📍 **Location:** Wethersfield, Connecticut, United States
+### [Case Manager](https://ascensionrecovery.bamboohr.com/careers/899) — Ascension Recovery Services
+- 📍 **Location:** Muncie, Indiana, United States
 - **Work mode:** On-site
 - **Job type:** Full Time
-- 🕒 **Posted:** 2026-07-20T04:00:00.000Z
+- 🕒 **Posted:** 2026-07-17T00:00:00.000Z
 
-### [Case Manager](https://ats.rippling.com/mainspringrecovery/jobs/ff006bf6-b50d-439e-9cb1-44911a0e7385) — Mainspring Recovery
-- 📍 **Location:** Dumfries, Virginia, United States
-- 💰 **Salary:** $50k–$65k/yr
+### [OEM Program Coordinator](https://ats.rippling.com/dealeron/jobs/896755ae-f6a0-4683-b174-2db49de391d7) — DealerOn
+- 📍 **Location:** United States
+- 💰 **Salary:** $38k–$52k/yr
+- **Work mode:** Remote in-state eligible
+- **Job type:** Full Time
+- 🕒 **Posted:** 2026-07-16T21:05:44.891Z
+
+### [PFA Program Coordinator](https://virginiahealth.phenompro.com/us/en/job/R0082289/PFA-Program-Coordinator) — UVA Health
+- 📍 **Location:** Charlottesville, Virginia, United States
+- 💰 **Salary:** $86k–$123k/yr
 - **Work mode:** On-site
 - **Job type:** Full Time
-- 🕒 **Posted:** 2026-07-20T17:17:01.026Z
-
-### [Case Manager](https://recruiting.ultipro.com/cat1012cacsc/JobBoard/41d1a852-e913-429a-93ff-1d024bc3206d/OpportunityDetail?opportunityId=d0772263-887f-4760-8ad0-293234407928) — Catholic Charities Diocese of Cleveland
-- 📍 **Location:** Painesville, Ohio, United States
-- **Work mode:** Telecommute eligible
-- **Job type:** Part Time
-- 🕒 **Posted:** 2026-07-20T18:13:42.282Z
-
-### [Program Coordinator - HCRMA](https://pharrtx.applicantpro.com/jobs/4152982) — City of Pharr
-- 📍 **Location:** Pharr, Texas, United States
-- 💰 **Salary:** $60k–$80k/yr
-- **Work mode:** On-site
-- **Job type:** Full Time
-- 🕒 **Posted:** 2026-07-20T00:00:00.000Z
+- 🕒 **Posted:** 2026-06-24T00:00:00.000Z
