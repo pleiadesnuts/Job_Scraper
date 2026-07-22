@@ -1,22 +1,8 @@
 {
-  "scraped_at": "2026-07-21 20:52 UTC",
+  "scraped_at": "2026-07-22 00:06 UTC",
   "total": 88,
-  "new_count": 3,
+  "new_count": 0,
   "jobs": [
-    {
-      "company": "Avant Rehabilitation and Care Center",
-      "title": "Social Worker",
-      "location": "Trenton, New Jersey, United States",
-      "url": "https://jobs.apploi.com/view/1894859?utm_campaign=integration&utm_medium=job-board-search&utm_source=None&ajs_event=LOAD_JOB_PAGE&ajs_aid=3f617530-4530-11e9-a2ca-7e775511d9e3&ajs_prop_search_fetch_id=729ac1c71f0a44bea0ddf856c104f51e&ajs_prop_keyword=&ajs_prop_page=1&ajs_prop_city_center=Unselected&ajs_prop_search_order=2&ajs_prop_job_id=1894859&ajs_prop_doc_type=job&ajs_prop_job_location_lat=40.2431714&ajs_prop_job_location_lon=-74.7440612&ajs_prop_boosted=0&ajs_prop_utm_source=None&ajs_prop_utm_medium=job-board-search&ajs_prop_utm_campaign=integration",
-      "direct_url": "https://jobs.apploi.com/view/1894859?utm_campaign=integration&utm_medium=job-board-search&utm_source=None&ajs_event=LOAD_JOB_PAGE&ajs_aid=3f617530-4530-11e9-a2ca-7e775511d9e3&ajs_prop_search_fetch_id=729ac1c71f0a44bea0ddf856c104f51e&ajs_prop_keyword=&ajs_prop_page=1&ajs_prop_city_center=Unselected&ajs_prop_search_order=2&ajs_prop_job_id=1894859&ajs_prop_doc_type=job&ajs_prop_job_location_lat=40.2431714&ajs_prop_job_location_lon=-74.7440612&ajs_prop_boosted=0&ajs_prop_utm_source=None&ajs_prop_utm_medium=job-board-search&ajs_prop_utm_campaign=integration",
-      "date_posted": "2026-07-07T00:00:00.000Z",
-      "description": "Bachelor's degree in social work or psychology, licensed clinical social worker (LCSW), experience with vulnerable populations and LTC preferred, strong communication and empathy.",
-      "salary": "",
-      "job_type": "Part Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
     {
       "company": "-",
       "title": "Social Worker",
@@ -32,14 +18,14 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Amphitheater Public Schools",
+      "company": "Avant Rehabilitation and Care Center",
       "title": "Social Worker",
-      "location": "Tucson, Arizona, United States",
-      "url": "https://jobs.amphi.com/jobs/7997270-social-worker",
-      "direct_url": "https://jobs.amphi.com/jobs/7997270-social-worker",
-      "date_posted": "2026-06-30T23:26:53.000Z",
-      "description": "Master's in social work (or equivalent), 1 year field instruction or school social work/child & family experience, Arizona Department of Education Social Worker Certificate, fingerprint clearance card, and submission of transcripts.",
-      "salary": "$52k–$55k/yr",
+      "location": "Trenton, New Jersey, United States",
+      "url": "https://jobs.apploi.com/view/1894859?utm_campaign=integration&utm_medium=job-board-search&utm_source=None&ajs_event=LOAD_JOB_PAGE&ajs_aid=3f617530-4530-11e9-a2ca-7e775511d9e3&ajs_prop_search_fetch_id=729ac1c71f0a44bea0ddf856c104f51e&ajs_prop_keyword=&ajs_prop_page=1&ajs_prop_city_center=Unselected&ajs_prop_search_order=2&ajs_prop_job_id=1894859&ajs_prop_doc_type=job&ajs_prop_job_location_lat=40.2431714&ajs_prop_job_location_lon=-74.7440612&ajs_prop_boosted=0&ajs_prop_utm_source=None&ajs_prop_utm_medium=job-board-search&ajs_prop_utm_campaign=integration",
+      "direct_url": "https://jobs.apploi.com/view/1894859?utm_campaign=integration&utm_medium=job-board-search&utm_source=None&ajs_event=LOAD_JOB_PAGE&ajs_aid=3f617530-4530-11e9-a2ca-7e775511d9e3&ajs_prop_search_fetch_id=729ac1c71f0a44bea0ddf856c104f51e&ajs_prop_keyword=&ajs_prop_page=1&ajs_prop_city_center=Unselected&ajs_prop_search_order=2&ajs_prop_job_id=1894859&ajs_prop_doc_type=job&ajs_prop_job_location_lat=40.2431714&ajs_prop_job_location_lon=-74.7440612&ajs_prop_boosted=0&ajs_prop_utm_source=None&ajs_prop_utm_medium=job-board-search&ajs_prop_utm_campaign=integration",
+      "date_posted": "2026-07-07T00:00:00.000Z",
+      "description": "Bachelor's degree in social work or psychology, licensed clinical social worker (LCSW), experience with vulnerable populations and LTC preferred, strong communication and empathy.",
+      "salary": "",
       "job_type": "Part Time",
       "is_remote": false,
       "work_arrangement": "On-site",
@@ -54,6 +40,20 @@
       "date_posted": "2026-07-02T15:21:54.000Z",
       "description": "Master's in social work required. Licensed Master Social Worker preferred. No prior experience required (2-5 years preferred). Provides clinical social work services, care planning, and community collaboration.",
       "salary": "$57k–$93k/yr",
+      "job_type": "Part Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Amphitheater Public Schools",
+      "title": "Social Worker",
+      "location": "Tucson, Arizona, United States",
+      "url": "https://jobs.amphi.com/jobs/7997270-social-worker",
+      "direct_url": "https://jobs.amphi.com/jobs/7997270-social-worker",
+      "date_posted": "2026-06-30T23:26:53.000Z",
+      "description": "Master's in social work (or equivalent), 1 year field instruction or school social work/child & family experience, Arizona Department of Education Social Worker Certificate, fingerprint clearance card, and submission of transcripts.",
+      "salary": "$52k–$55k/yr",
       "job_type": "Part Time",
       "is_remote": false,
       "work_arrangement": "On-site",
@@ -298,20 +298,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Catholic Charities Diocese of Cleveland",
-      "title": "Case Manager",
-      "location": "Painesville, Ohio, United States",
-      "url": "https://recruiting.ultipro.com/cat1012cacsc/JobBoard/41d1a852-e913-429a-93ff-1d024bc3206d/OpportunityDetail?opportunityId=d0772263-887f-4760-8ad0-293234407928",
-      "direct_url": "https://recruiting.ultipro.com/cat1012cacsc/JobBoard/41d1a852-e913-429a-93ff-1d024bc3206d/OpportunityDetail?opportunityId=d0772263-887f-4760-8ad0-293234407928",
-      "date_posted": "2026-07-20T18:13:42.282Z",
-      "description": "1–2 years case management experience; experience with justice-involved families, community outreach, in-home and office service delivery; ability to manage cases, document in EMR, and work independently.",
-      "salary": "",
-      "job_type": "Part Time",
-      "is_remote": false,
-      "work_arrangement": "Telecommute eligible",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Mainspring Recovery",
       "title": "Case Manager",
       "location": "Dumfries, Virginia, United States",
@@ -326,6 +312,20 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "Catholic Charities Diocese of Cleveland",
+      "title": "Case Manager",
+      "location": "Painesville, Ohio, United States",
+      "url": "https://recruiting.ultipro.com/cat1012cacsc/JobBoard/41d1a852-e913-429a-93ff-1d024bc3206d/OpportunityDetail?opportunityId=d0772263-887f-4760-8ad0-293234407928",
+      "direct_url": "https://recruiting.ultipro.com/cat1012cacsc/JobBoard/41d1a852-e913-429a-93ff-1d024bc3206d/OpportunityDetail?opportunityId=d0772263-887f-4760-8ad0-293234407928",
+      "date_posted": "2026-07-20T18:13:42.282Z",
+      "description": "1–2 years case management experience; experience with justice-involved families, community outreach, in-home and office service delivery; ability to manage cases, document in EMR, and work independently.",
+      "salary": "",
+      "job_type": "Part Time",
+      "is_remote": false,
+      "work_arrangement": "Telecommute eligible",
+      "ats": "HiringCafe"
+    },
+    {
       "company": "STEVE DIMOPOULOS LLC",
       "title": "Case Manager",
       "location": "Las Vegas, Nevada, United States",
@@ -334,6 +334,20 @@
       "date_posted": "2026-06-22T23:45:01.000Z",
       "description": "Previous legal case manager experience in a personal injury firm, proficiency with legal case management software, strong organization, attention to detail, and excellent interpersonal skills; bilingual English/Spanish a plus.",
       "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Divine Arms of Love GRO LLC",
+      "title": "Case Manager",
+      "location": "Houston, Texas, United States",
+      "url": "https://jobs.gusto.com/postings/divine-arms-of-love-gro-llc-case-manager-aed0a9d9-e769-41ad-9d51-27ec7f558985",
+      "direct_url": "https://jobs.gusto.com/postings/divine-arms-of-love-gro-llc-case-manager-aed0a9d9-e769-41ad-9d51-27ec7f558985",
+      "date_posted": "2026-07-06T21:06:46.809Z",
+      "description": "Bachelor's degree in social work/psychology/human services, 2+ years case management experience, CPR and First Aid, valid driver's license and reliable transportation, proficient with case management software and Microsoft Office.",
+      "salary": "$42k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
@@ -354,15 +368,15 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Divine Arms of Love GRO LLC",
+      "company": "Black Birth Justice",
       "title": "Case Manager",
-      "location": "Houston, Texas, United States",
-      "url": "https://jobs.gusto.com/postings/divine-arms-of-love-gro-llc-case-manager-aed0a9d9-e769-41ad-9d51-27ec7f558985",
-      "direct_url": "https://jobs.gusto.com/postings/divine-arms-of-love-gro-llc-case-manager-aed0a9d9-e769-41ad-9d51-27ec7f558985",
-      "date_posted": "2026-07-06T21:06:46.809Z",
-      "description": "Bachelor's degree in social work/psychology/human services, 2+ years case management experience, CPR and First Aid, valid driver's license and reliable transportation, proficient with case management software and Microsoft Office.",
-      "salary": "$42k/yr",
-      "job_type": "Full Time",
+      "location": "Louisville, Kentucky, United States",
+      "url": "https://blackbirthjustice.bamboohr.com/careers/66",
+      "direct_url": "https://blackbirthjustice.bamboohr.com/careers/66",
+      "date_posted": "2026-07-06T00:00:00.000Z",
+      "description": "Bachelors in social work or related field, 2+ years direct social services/case management, proficiency with Google Suite and case management software, ability to conduct assessments, crisis response, documentation, and do field outreach.",
+      "salary": "",
+      "job_type": "Contract",
       "is_remote": false,
       "work_arrangement": "On-site",
       "ats": "HiringCafe"
@@ -377,20 +391,6 @@
       "description": "Provide options counseling and case management, conduct assessments and home visits, develop person-centered plans, link clients to community resources; must obtain Division of Aging Case Management certification within six months.",
       "salary": "$36k/yr",
       "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Black Birth Justice",
-      "title": "Case Manager",
-      "location": "Louisville, Kentucky, United States",
-      "url": "https://blackbirthjustice.bamboohr.com/careers/66",
-      "direct_url": "https://blackbirthjustice.bamboohr.com/careers/66",
-      "date_posted": "2026-07-06T00:00:00.000Z",
-      "description": "Bachelors in social work or related field, 2+ years direct social services/case management, proficiency with Google Suite and case management software, ability to conduct assessments, crisis response, documentation, and do field outreach.",
-      "salary": "",
-      "job_type": "Contract",
       "is_remote": false,
       "work_arrangement": "On-site",
       "ats": "HiringCafe"
@@ -662,20 +662,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Associated",
-      "title": "Program Coordinator",
-      "location": "Baltimore, Maryland, United States",
-      "url": "https://jobs.dayforcehcm.com/en-US/associated/jcccandidateportal/jobs/10250",
-      "direct_url": "https://jobs.dayforcehcm.com/en-US/associated/jcccandidateportal/jobs/10250",
-      "date_posted": "2026-07-14T04:00:00.000Z",
-      "description": "Experience coordinating programs, supervising staff, strong customer service, proficiency with CRM and Microsoft Office, ability to lift up to 25 lbs, and excellent communication and organizational skills.",
-      "salary": "$43k–$48k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "NYU Langone Health",
       "title": "Program Coordinator",
       "location": "New York, New York, United States",
@@ -690,14 +676,14 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Energy & Environment Cabinet - Dept for Environmental Protection",
+      "company": "Associated",
       "title": "Program Coordinator",
-      "location": "Paducah, Kentucky, United States",
-      "url": "https://kypersonnelcabinet.csod.com/ux/ats/careersite/49/home/requisition/79781?c=kypersonnelcabinet",
-      "direct_url": "https://kypersonnelcabinet.csod.com/ux/ats/careersite/49/home/requisition/79781?c=kypersonnelcabinet",
-      "date_posted": "2026-07-17T00:00:00.000Z",
-      "description": "Bachelor's degree and 3 years management/administration experience (or approved substitutions). Strong organization, written/verbal communication, Microsoft Office proficiency, attention to detail, and ability to coordinate program activities.",
-      "salary": "$47k–$49k/yr",
+      "location": "Baltimore, Maryland, United States",
+      "url": "https://jobs.dayforcehcm.com/en-US/associated/jcccandidateportal/jobs/10250",
+      "direct_url": "https://jobs.dayforcehcm.com/en-US/associated/jcccandidateportal/jobs/10250",
+      "date_posted": "2026-07-14T04:00:00.000Z",
+      "description": "Experience coordinating programs, supervising staff, strong customer service, proficiency with CRM and Microsoft Office, ability to lift up to 25 lbs, and excellent communication and organizational skills.",
+      "salary": "$43k–$48k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
@@ -732,6 +718,34 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "Energy & Environment Cabinet - Dept for Environmental Protection",
+      "title": "Program Coordinator",
+      "location": "Paducah, Kentucky, United States",
+      "url": "https://kypersonnelcabinet.csod.com/ux/ats/careersite/49/home/requisition/79781?c=kypersonnelcabinet",
+      "direct_url": "https://kypersonnelcabinet.csod.com/ux/ats/careersite/49/home/requisition/79781?c=kypersonnelcabinet",
+      "date_posted": "2026-07-17T00:00:00.000Z",
+      "description": "Bachelor's degree and 3 years management/administration experience (or approved substitutions). Strong organization, written/verbal communication, Microsoft Office proficiency, attention to detail, and ability to coordinate program activities.",
+      "salary": "$47k–$49k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "VOA Illinois",
+      "title": "Program Coordinator",
+      "location": "Chicago, Illinois, United States",
+      "url": "https://recruitingbypaycor.com/career/JobIntroduction.action?clientId=8a7883d0958c3c940195de2b4092554a&id=8a7883ac9efb8722019f1ea8d0c6158c&source=&lang=en",
+      "direct_url": "https://recruitingbypaycor.com/career/JobIntroduction.action?clientId=8a7883d0958c3c940195de2b4092554a&id=8a7883ac9efb8722019f1ea8d0c6158c&source=&lang=en",
+      "date_posted": "2026-07-01T17:16:18.000Z",
+      "description": "Bachelor's degree or veteran status required; minimum 2 years program coordination/logistics experience; valid driver’s license; ability to lift up to 50 lbs; strong communication and administrative skills.",
+      "salary": "$46k–$55k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
       "company": "Yale",
       "title": "Program Coordinator",
       "location": "New Haven, Connecticut, United States",
@@ -754,20 +768,6 @@
       "date_posted": "2026-07-08T16:23:09.000Z",
       "description": "Experience in program coordination or operations, ability to obtain NYS BPSS Agent certification, strong organizational and communication skills, proficiency with Google Workspace, Microsoft Office and CRM, grant administrative experience preferred.",
       "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "VOA Illinois",
-      "title": "Program Coordinator",
-      "location": "Chicago, Illinois, United States",
-      "url": "https://recruitingbypaycor.com/career/JobIntroduction.action?clientId=8a7883d0958c3c940195de2b4092554a&id=8a7883ac9efb8722019f1ea8d0c6158c&source=&lang=en",
-      "direct_url": "https://recruitingbypaycor.com/career/JobIntroduction.action?clientId=8a7883d0958c3c940195de2b4092554a&id=8a7883ac9efb8722019f1ea8d0c6158c&source=&lang=en",
-      "date_posted": "2026-07-01T17:16:18.000Z",
-      "description": "Bachelor's degree or veteran status required; minimum 2 years program coordination/logistics experience; valid driver’s license; ability to lift up to 50 lbs; strong communication and administrative skills.",
-      "salary": "$46k–$55k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
@@ -858,6 +858,20 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "Florida International University",
+      "title": "Temporary Program Coordinator",
+      "location": "Miami, Florida, United States",
+      "url": "https://pslinks.fiu.edu/psc/jobs/CUSTOMER/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&Action=U&FOCUS=Applicant&JobOpeningId=537905&PostingSeq=1&SiteId=1000",
+      "direct_url": "https://pslinks.fiu.edu/psc/jobs/CUSTOMER/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&Action=U&FOCUS=Applicant&JobOpeningId=537905&PostingSeq=1&SiteId=1000",
+      "date_posted": "2026-07-21T12:00:00.000Z",
+      "description": "Bachelor's degree or 4 years office/related experience; experience coordinating education/outreach programs, managing interns, and reporting for grants.",
+      "salary": "$37k/yr",
+      "job_type": "Temporary",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
       "company": "University of Houston",
       "title": "Program Coordinator II",
       "location": "Houston, Texas, United States",
@@ -880,20 +894,6 @@
       "date_posted": "2026-07-13T00:00:00.000Z",
       "description": "Bachelor's degree or equivalent and two years program coordination or administrative experience; skills in scheduling, communication, and office applications; bilingual (English/Spanish) preferred.",
       "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Florida International University",
-      "title": "Program Coordinator, eSports",
-      "location": "Miami, Florida, United States",
-      "url": "https://pslinks.fiu.edu/psc/jobs/CUSTOMER/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&Action=U&FOCUS=Applicant&JobOpeningId=537475&PostingSeq=1&SiteId=1000",
-      "direct_url": "https://pslinks.fiu.edu/psc/jobs/CUSTOMER/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&Action=U&FOCUS=Applicant&JobOpeningId=537475&PostingSeq=1&SiteId=1000",
-      "date_posted": "2026-06-29T12:00:00.000Z",
-      "description": "Bachelor's degree and 2 years office or related experience; knowledge of eSports programming, event coordination, student supervision, and digital media support preferred.",
-      "salary": "$40k–$45k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
@@ -1236,48 +1236,5 @@
       "ats": "HiringCafe"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Divine Arms of Love GRO LLC",
-      "title": "Case Manager",
-      "location": "Houston, Texas, United States",
-      "url": "https://jobs.gusto.com/postings/divine-arms-of-love-gro-llc-case-manager-aed0a9d9-e769-41ad-9d51-27ec7f558985",
-      "direct_url": "https://jobs.gusto.com/postings/divine-arms-of-love-gro-llc-case-manager-aed0a9d9-e769-41ad-9d51-27ec7f558985",
-      "date_posted": "2026-07-06T21:06:46.809Z",
-      "description": "Bachelor's degree in social work/psychology/human services, 2+ years case management experience, CPR and First Aid, valid driver's license and reliable transportation, proficient with case management software and Microsoft Office.",
-      "salary": "$42k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Adventhealth",
-      "title": "Program Coordinator Exempt",
-      "location": "Maitland, Florida, United States",
-      "url": "https://adventhealth.wd12.myworkdayjobs.com/ah_external_career_site/job/01-WH-ADVENTHEALTH-WESTHALL/Program-Coordinator-Exempt_R-0385836",
-      "direct_url": "https://adventhealth.wd12.myworkdayjobs.com/ah_external_career_site/job/01-WH-ADVENTHEALTH-WESTHALL/Program-Coordinator-Exempt_R-0385836",
-      "date_posted": "2026-07-20T00:00:00.000Z",
-      "description": "2+ years healthcare program coordination experience, bachelor's required (master's preferred); strong presentation, communication, project management skills; Microsoft Office 365 and project tool proficiency.",
-      "salary": "$45k–$84k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "Telecommute eligible",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Community Health Service Inc.",
-      "title": "Community Health Worker",
-      "location": "Grafton, North Dakota, United States",
-      "url": "https://chsiclinics.applicantpro.com/jobs/4153851",
-      "direct_url": "https://chsiclinics.applicantpro.com/jobs/4153851",
-      "date_posted": "2026-07-21T00:00:00.000Z",
-      "description": "Certified community/traditional health worker; knowledge of HIPAA; valid driver\\u0002s license and ability to travel; Microsoft Office skills; excellent communication and organizational skills.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    }
-  ]
+  "new_jobs": []
 }
