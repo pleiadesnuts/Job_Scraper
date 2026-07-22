@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-07-22 00:06 UTC",
-  "total": 88,
-  "new_count": 0,
+  "scraped_at": "2026-07-22 10:08 UTC",
+  "total": 90,
+  "new_count": 5,
   "jobs": [
     {
       "company": "-",
@@ -32,20 +32,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Barnes-Jewish Hospital",
-      "title": "Social Worker",
-      "location": "Saint Louis, Missouri, United States",
-      "url": "https://jobs.bjc.org/jobs/112518?lang=en-us",
-      "direct_url": "https://jobs.bjc.org/jobs/112518?lang=en-us",
-      "date_posted": "2026-07-02T15:21:54.000Z",
-      "description": "Master's in social work required. Licensed Master Social Worker preferred. No prior experience required (2-5 years preferred). Provides clinical social work services, care planning, and community collaboration.",
-      "salary": "$57k–$93k/yr",
-      "job_type": "Part Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Amphitheater Public Schools",
       "title": "Social Worker",
       "location": "Tucson, Arizona, United States",
@@ -54,6 +40,20 @@
       "date_posted": "2026-06-30T23:26:53.000Z",
       "description": "Master's in social work (or equivalent), 1 year field instruction or school social work/child & family experience, Arizona Department of Education Social Worker Certificate, fingerprint clearance card, and submission of transcripts.",
       "salary": "$52k–$55k/yr",
+      "job_type": "Part Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Barnes-Jewish Hospital",
+      "title": "Social Worker",
+      "location": "Saint Louis, Missouri, United States",
+      "url": "https://jobs.bjc.org/jobs/112518?lang=en-us",
+      "direct_url": "https://jobs.bjc.org/jobs/112518?lang=en-us",
+      "date_posted": "2026-07-02T15:21:54.000Z",
+      "description": "Master's in social work required. Licensed Master Social Worker preferred. No prior experience required (2-5 years preferred). Provides clinical social work services, care planning, and community collaboration.",
+      "salary": "$57k–$93k/yr",
       "job_type": "Part Time",
       "is_remote": false,
       "work_arrangement": "On-site",
@@ -228,20 +228,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Community Healthcare of Texas",
-      "title": "Social Worker",
-      "location": "Fort Worth, Texas, United States",
-      "url": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=bd15269d-4e6f-4700-a232-f9cbffb8d51a&ccId=19000101_000001&jobId=580314&lang=en_US",
-      "direct_url": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=bd15269d-4e6f-4700-a232-f9cbffb8d51a&ccId=19000101_000001&jobId=580314&lang=en_US",
-      "date_posted": "2026-07-02T13:48:00.000Z",
-      "description": "BSW with 1 year required (Master's preferred), Texas state social worker license, valid driver's license and reliable transportation, computer proficiency, hospice/healthcare experience preferred.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "University of Utah Health",
       "title": "Social Worker",
       "location": "Salt Lake City, Utah, United States",
@@ -278,6 +264,20 @@
       "date_posted": "2026-06-26T14:02:54.000Z",
       "description": "Bachelor's preferred (3+ years case management) or HS + 5 years progressive case management; 1-2 years trauma counseling for medically complex cases; experience with older adults with medical needs; crisis intervention and documentation skills.",
       "salary": "$69k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Applied ABC",
+      "title": "Case Manager",
+      "location": "Hollywood, Florida, United States",
+      "url": "https://jobs.apploi.com/view/1904636?utm_campaign=integration&utm_medium=job-board-search&utm_source=None&ajs_event=LOAD_JOB_PAGE&ajs_aid=3f617530-4530-11e9-a2ca-7e775511d9e3&ajs_prop_search_fetch_id=7650383f14b94e85913dd2eeda7bbcd3&ajs_prop_keyword=&ajs_prop_page=1&ajs_prop_city_center=Unselected&ajs_prop_search_order=5&ajs_prop_job_id=1904636&ajs_prop_doc_type=job&ajs_prop_job_location_lat=26.0098511&ajs_prop_job_location_lon=-80.159142&ajs_prop_boosted=0&ajs_prop_utm_source=None&ajs_prop_utm_medium=job-board-search&ajs_prop_utm_campaign=integration",
+      "direct_url": "https://jobs.apploi.com/view/1904636?utm_campaign=integration&utm_medium=job-board-search&utm_source=None&ajs_event=LOAD_JOB_PAGE&ajs_aid=3f617530-4530-11e9-a2ca-7e775511d9e3&ajs_prop_search_fetch_id=7650383f14b94e85913dd2eeda7bbcd3&ajs_prop_keyword=&ajs_prop_page=1&ajs_prop_city_center=Unselected&ajs_prop_search_order=5&ajs_prop_job_id=1904636&ajs_prop_doc_type=job&ajs_prop_job_location_lat=26.0098511&ajs_prop_job_location_lon=-80.159142&ajs_prop_boosted=0&ajs_prop_utm_source=None&ajs_prop_utm_medium=job-board-search&ajs_prop_utm_campaign=integration",
+      "date_posted": "2026-07-21T00:00:00.000Z",
+      "description": "Spanish-speaking case manager with 2+ years office experience; case management or family support in ABA preferred; HIPAA compliance, Microsoft Suite proficiency, strong prioritization and communication skills.",
+      "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
@@ -326,6 +326,20 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "Farah & Farah",
+      "title": "Case Manager",
+      "location": "Tampa, Florida, United States",
+      "url": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=7b14ce60-09ee-40ba-b236-a0fb6c98d59f&ccId=19000101_000001&jobId=950172&lang=en_US",
+      "direct_url": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=7b14ce60-09ee-40ba-b236-a0fb6c98d59f&ccId=19000101_000001&jobId=950172&lang=en_US",
+      "date_posted": "2026-07-07T13:37:00.000Z",
+      "description": "Manage pre-suit case investigations, negotiate with insurers, maintain client communication, supervise a legal assistant, organize case files, and enter data into the ATO database.",
+      "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
       "company": "STEVE DIMOPOULOS LLC",
       "title": "Case Manager",
       "location": "Las Vegas, Nevada, United States",
@@ -340,14 +354,14 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Divine Arms of Love GRO LLC",
+      "company": "TLC Care Center",
       "title": "Case Manager",
-      "location": "Houston, Texas, United States",
-      "url": "https://jobs.gusto.com/postings/divine-arms-of-love-gro-llc-case-manager-aed0a9d9-e769-41ad-9d51-27ec7f558985",
-      "direct_url": "https://jobs.gusto.com/postings/divine-arms-of-love-gro-llc-case-manager-aed0a9d9-e769-41ad-9d51-27ec7f558985",
-      "date_posted": "2026-07-06T21:06:46.809Z",
-      "description": "Bachelor's degree in social work/psychology/human services, 2+ years case management experience, CPR and First Aid, valid driver's license and reliable transportation, proficient with case management software and Microsoft Office.",
-      "salary": "$42k/yr",
+      "location": "Henderson, Nevada, United States",
+      "url": "https://jobs.apploi.com/view/1430755?utm_campaign=integration&utm_medium=job-board-search&utm_source=None&ajs_event=LOAD_JOB_PAGE&ajs_aid=3f617530-4530-11e9-a2ca-7e775511d9e3&ajs_prop_search_fetch_id=d95f3d143de5424a87c590eac2ce8b52&ajs_prop_keyword=&ajs_prop_page=1&ajs_prop_city_center=Unselected&ajs_prop_search_order=1&ajs_prop_job_id=1430755&ajs_prop_doc_type=job&ajs_prop_job_location_lat=36.0573259&ajs_prop_job_location_lon=-115.0498027&ajs_prop_boosted=0&ajs_prop_utm_source=None&ajs_prop_utm_medium=job-board-search&ajs_prop_utm_campaign=integration",
+      "direct_url": "https://jobs.apploi.com/view/1430755?utm_campaign=integration&utm_medium=job-board-search&utm_source=None&ajs_event=LOAD_JOB_PAGE&ajs_aid=3f617530-4530-11e9-a2ca-7e775511d9e3&ajs_prop_search_fetch_id=d95f3d143de5424a87c590eac2ce8b52&ajs_prop_keyword=&ajs_prop_page=1&ajs_prop_city_center=Unselected&ajs_prop_search_order=1&ajs_prop_job_id=1430755&ajs_prop_doc_type=job&ajs_prop_job_location_lat=36.0573259&ajs_prop_job_location_lon=-115.0498027&ajs_prop_boosted=0&ajs_prop_utm_source=None&ajs_prop_utm_medium=job-board-search&ajs_prop_utm_campaign=integration",
+      "date_posted": "2026-07-21T00:00:00.000Z",
+      "description": "Bachelor's degree in social work/psychology/nursing or related field, 2+ years case management experience, proficiency with case management software and Microsoft Office, strong communication and advocacy skills; CCM preferred.",
+      "salary": "$90k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
@@ -379,6 +393,20 @@
       "job_type": "Contract",
       "is_remote": false,
       "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Law Offices of Michael P McCready",
+      "title": "Case Manager",
+      "location": "Illinois or Indiana or Missouri or Michigan or Wisconsin or Georgia or Texas or North Carolina or Florida or Colorado or Ohio",
+      "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/3987010",
+      "direct_url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/3987010",
+      "date_posted": "2026-07-21T20:31:08.000Z",
+      "description": "2+ years in personal injury law or medical case coordination, experience managing high-volume client files, strong documentation and case management software skills, excellent written/verbal communication, US residency required.",
+      "salary": "$50k/yr",
+      "job_type": "Full Time",
+      "is_remote": true,
+      "work_arrangement": "Remote in-state eligible",
       "ats": "HiringCafe"
     },
     {
@@ -620,20 +648,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Northwestern University",
-      "title": "Program Coordinator",
-      "location": "Evanston, Illinois, United States",
-      "url": "https://careers.northwestern.edu/psc/hrnu_er/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&Action=U&FOCUS=Applicant&JobOpeningId=53652&PostingSeq=1&SiteId=1",
-      "direct_url": "https://careers.northwestern.edu/psc/hrnu_er/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&Action=U&FOCUS=Applicant&JobOpeningId=53652&PostingSeq=1&SiteId=1",
-      "date_posted": "2026-06-24T12:00:00.000Z",
-      "description": "Bachelor's degree or equivalent; 1 year program/project administration experience; experience in digital communications; event coordination and outreach skills.",
-      "salary": "$51k–$65k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Raymondjames",
       "title": "Program Coordinator",
       "location": "Saint Petersburg, Florida, United States",
@@ -816,6 +830,20 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "Massachusetts Department of Developmental Services",
+      "title": "Transition Program Coordinator",
+      "location": "Boston, Massachusetts, United States",
+      "url": "https://massanf.taleo.net/careersection/ex/jobdetail.ftl?job=260004S7&lang=en",
+      "direct_url": "https://massanf.taleo.net/careersection/ex/jobdetail.ftl?job=260004S7&lang=en",
+      "date_posted": "2026-07-21T19:09:29.000Z",
+      "description": "Minimum four years professional administrative/program coordination experience (one year supervisory) or equivalent; knowledge of Chapter 688/IEP/transition processes, program coordination, data management, Microsoft Office, SharePoint, DDS HUB and EOHHS Virtual Gateway.",
+      "salary": "$80k–$118k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "Telecommute eligible",
+      "ats": "HiringCafe"
+    },
+    {
       "company": "Wicomico County",
       "title": "COMMUNITY PROGRAM COORDINATOR",
       "location": "Wicomico County, Maryland, United States",
@@ -886,6 +914,20 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "Ssc",
+      "title": "Project/Program Coordinator",
+      "location": "Midvale, Utah, United States",
+      "url": "https://jobs.dayforcehcm.com/en-US/ssc/candidateportal/jobs/44932",
+      "direct_url": "https://jobs.dayforcehcm.com/en-US/ssc/candidateportal/jobs/44932",
+      "date_posted": "2026-07-21T08:00:00.000Z",
+      "description": "Bachelor's preferred, 3+ years program coordination or policy administration experience; strong organization, communication, document control, and continuous improvement skills.",
+      "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
       "company": "Tamus",
       "title": "Program Coordinator I",
       "location": "Bryan, Texas, United States",
@@ -928,6 +970,20 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "Cherokee Federal",
+      "title": "Program Coordinator",
+      "location": "Tucson, Arizona, United States",
+      "url": "https://ibtcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/requisitions/job/43063",
+      "direct_url": "https://ibtcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/requisitions/job/43063",
+      "date_posted": "2026-07-20T15:36:38.000Z",
+      "description": "Associate's degree and 5+ years government program experience (Air Force/DOD preferred). Strong PowerPoint and Excel, program scheduling, reporting, communication, and administrative support skills.",
+      "salary": "$75k–$80k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
       "company": "The National Kidney Foundation of Michigan",
       "title": "Program Coordinator",
       "location": "Ann Arbor, Michigan, United States",
@@ -942,14 +998,14 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Cherokee Federal",
-      "title": "Program Coordinator",
-      "location": "Tucson, Arizona, United States",
-      "url": "https://ibtcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/requisitions/job/43063",
-      "direct_url": "https://ibtcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/requisitions/job/43063",
-      "date_posted": "2026-07-20T15:36:38.000Z",
-      "description": "Associate's degree and 5+ years government program experience (Air Force/DOD preferred). Strong PowerPoint and Excel, program scheduling, reporting, communication, and administrative support skills.",
-      "salary": "$75k–$80k/yr",
+      "company": "City of Pharr",
+      "title": "Program Coordinator - HCRMA",
+      "location": "Pharr, Texas, United States",
+      "url": "https://pharrtx.applicantpro.com/jobs/4152982",
+      "direct_url": "https://pharrtx.applicantpro.com/jobs/4152982",
+      "date_posted": "2026-07-20T00:00:00.000Z",
+      "description": "Coordinate program activities, vendors, contracts and prepare desktop-published materials; must hold TxDOT Local Government Project Procedures certification and be bilingual English/Spanish.",
+      "salary": "$60k–$80k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
@@ -970,20 +1026,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "City of Pharr",
-      "title": "Program Coordinator - HCRMA",
-      "location": "Pharr, Texas, United States",
-      "url": "https://pharrtx.applicantpro.com/jobs/4152982",
-      "direct_url": "https://pharrtx.applicantpro.com/jobs/4152982",
-      "date_posted": "2026-07-20T00:00:00.000Z",
-      "description": "Coordinate program activities, vendors, contracts and prepare desktop-published materials; must hold TxDOT Local Government Project Procedures certification and be bilingual English/Spanish.",
-      "salary": "$60k–$80k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "DealerOn",
       "title": "OEM Program Coordinator",
       "location": "United States",
@@ -995,20 +1037,6 @@
       "job_type": "Full Time",
       "is_remote": true,
       "work_arrangement": "Remote in-state eligible",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Adventhealth",
-      "title": "Program Coordinator Exempt",
-      "location": "Maitland, Florida, United States",
-      "url": "https://adventhealth.wd12.myworkdayjobs.com/ah_external_career_site/job/01-WH-ADVENTHEALTH-WESTHALL/Program-Coordinator-Exempt_R-0385836",
-      "direct_url": "https://adventhealth.wd12.myworkdayjobs.com/ah_external_career_site/job/01-WH-ADVENTHEALTH-WESTHALL/Program-Coordinator-Exempt_R-0385836",
-      "date_posted": "2026-07-20T00:00:00.000Z",
-      "description": "2+ years healthcare program coordination experience, bachelor's required (master's preferred); strong presentation, communication, project management skills; Microsoft Office 365 and project tool proficiency.",
-      "salary": "$45k–$84k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "Telecommute eligible",
       "ats": "HiringCafe"
     },
     {
@@ -1236,5 +1264,76 @@
       "ats": "HiringCafe"
     }
   ],
-  "new_jobs": []
+  "new_jobs": [
+    {
+      "company": "Applied ABC",
+      "title": "Case Manager",
+      "location": "Hollywood, Florida, United States",
+      "url": "https://jobs.apploi.com/view/1904636?utm_campaign=integration&utm_medium=job-board-search&utm_source=None&ajs_event=LOAD_JOB_PAGE&ajs_aid=3f617530-4530-11e9-a2ca-7e775511d9e3&ajs_prop_search_fetch_id=7650383f14b94e85913dd2eeda7bbcd3&ajs_prop_keyword=&ajs_prop_page=1&ajs_prop_city_center=Unselected&ajs_prop_search_order=5&ajs_prop_job_id=1904636&ajs_prop_doc_type=job&ajs_prop_job_location_lat=26.0098511&ajs_prop_job_location_lon=-80.159142&ajs_prop_boosted=0&ajs_prop_utm_source=None&ajs_prop_utm_medium=job-board-search&ajs_prop_utm_campaign=integration",
+      "direct_url": "https://jobs.apploi.com/view/1904636?utm_campaign=integration&utm_medium=job-board-search&utm_source=None&ajs_event=LOAD_JOB_PAGE&ajs_aid=3f617530-4530-11e9-a2ca-7e775511d9e3&ajs_prop_search_fetch_id=7650383f14b94e85913dd2eeda7bbcd3&ajs_prop_keyword=&ajs_prop_page=1&ajs_prop_city_center=Unselected&ajs_prop_search_order=5&ajs_prop_job_id=1904636&ajs_prop_doc_type=job&ajs_prop_job_location_lat=26.0098511&ajs_prop_job_location_lon=-80.159142&ajs_prop_boosted=0&ajs_prop_utm_source=None&ajs_prop_utm_medium=job-board-search&ajs_prop_utm_campaign=integration",
+      "date_posted": "2026-07-21T00:00:00.000Z",
+      "description": "Spanish-speaking case manager with 2+ years office experience; case management or family support in ABA preferred; HIPAA compliance, Microsoft Suite proficiency, strong prioritization and communication skills.",
+      "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "TLC Care Center",
+      "title": "Case Manager",
+      "location": "Henderson, Nevada, United States",
+      "url": "https://jobs.apploi.com/view/1430755?utm_campaign=integration&utm_medium=job-board-search&utm_source=None&ajs_event=LOAD_JOB_PAGE&ajs_aid=3f617530-4530-11e9-a2ca-7e775511d9e3&ajs_prop_search_fetch_id=d95f3d143de5424a87c590eac2ce8b52&ajs_prop_keyword=&ajs_prop_page=1&ajs_prop_city_center=Unselected&ajs_prop_search_order=1&ajs_prop_job_id=1430755&ajs_prop_doc_type=job&ajs_prop_job_location_lat=36.0573259&ajs_prop_job_location_lon=-115.0498027&ajs_prop_boosted=0&ajs_prop_utm_source=None&ajs_prop_utm_medium=job-board-search&ajs_prop_utm_campaign=integration",
+      "direct_url": "https://jobs.apploi.com/view/1430755?utm_campaign=integration&utm_medium=job-board-search&utm_source=None&ajs_event=LOAD_JOB_PAGE&ajs_aid=3f617530-4530-11e9-a2ca-7e775511d9e3&ajs_prop_search_fetch_id=d95f3d143de5424a87c590eac2ce8b52&ajs_prop_keyword=&ajs_prop_page=1&ajs_prop_city_center=Unselected&ajs_prop_search_order=1&ajs_prop_job_id=1430755&ajs_prop_doc_type=job&ajs_prop_job_location_lat=36.0573259&ajs_prop_job_location_lon=-115.0498027&ajs_prop_boosted=0&ajs_prop_utm_source=None&ajs_prop_utm_medium=job-board-search&ajs_prop_utm_campaign=integration",
+      "date_posted": "2026-07-21T00:00:00.000Z",
+      "description": "Bachelor's degree in social work/psychology/nursing or related field, 2+ years case management experience, proficiency with case management software and Microsoft Office, strong communication and advocacy skills; CCM preferred.",
+      "salary": "$90k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Law Offices of Michael P McCready",
+      "title": "Case Manager",
+      "location": "Illinois or Indiana or Missouri or Michigan or Wisconsin or Georgia or Texas or North Carolina or Florida or Colorado or Ohio",
+      "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/3987010",
+      "direct_url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/3987010",
+      "date_posted": "2026-07-21T20:31:08.000Z",
+      "description": "2+ years in personal injury law or medical case coordination, experience managing high-volume client files, strong documentation and case management software skills, excellent written/verbal communication, US residency required.",
+      "salary": "$50k/yr",
+      "job_type": "Full Time",
+      "is_remote": true,
+      "work_arrangement": "Remote in-state eligible",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Massachusetts Department of Developmental Services",
+      "title": "Transition Program Coordinator",
+      "location": "Boston, Massachusetts, United States",
+      "url": "https://massanf.taleo.net/careersection/ex/jobdetail.ftl?job=260004S7&lang=en",
+      "direct_url": "https://massanf.taleo.net/careersection/ex/jobdetail.ftl?job=260004S7&lang=en",
+      "date_posted": "2026-07-21T19:09:29.000Z",
+      "description": "Minimum four years professional administrative/program coordination experience (one year supervisory) or equivalent; knowledge of Chapter 688/IEP/transition processes, program coordination, data management, Microsoft Office, SharePoint, DDS HUB and EOHHS Virtual Gateway.",
+      "salary": "$80k–$118k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "Telecommute eligible",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Ssc",
+      "title": "Project/Program Coordinator",
+      "location": "Midvale, Utah, United States",
+      "url": "https://jobs.dayforcehcm.com/en-US/ssc/candidateportal/jobs/44932",
+      "direct_url": "https://jobs.dayforcehcm.com/en-US/ssc/candidateportal/jobs/44932",
+      "date_posted": "2026-07-21T08:00:00.000Z",
+      "description": "Bachelor's preferred, 3+ years program coordination or policy administration experience; strong organization, communication, document control, and continuous improvement skills.",
+      "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    }
+  ]
 }
