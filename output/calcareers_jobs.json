@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-07-21 20:47 UTC",
-  "total": 4,
+  "scraped_at": "2026-07-22 20:21 UTC",
+  "total": 5,
   "new_count": 0,
   "jobs": [
     {
@@ -9,6 +9,18 @@
       "location": "Sacramento County",
       "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=522930",
       "date_posted": "2026-07-08",
+      "salary": "$9093.00 - $12480.00",
+      "ats": "CalCareers",
+      "telework": "In Office",
+      "job_type": "Permanent, Full Time",
+      "work_arrangement": "On-site"
+    },
+    {
+      "company": "Department of Justice",
+      "title": "Criminalist Supervisor",
+      "location": "Shasta County",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=524935",
+      "date_posted": "2026-07-22",
       "salary": "$9093.00 - $12480.00",
       "ats": "CalCareers",
       "telework": "In Office",
