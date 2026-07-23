@@ -1,141 +1,153 @@
 # 🔥 LinkedIn — Social Worker Roles
-*Last updated: 2026-07-23 22:48 UTC*
+*Last updated: 2026-07-23 23:56 UTC*
 
-**30 new role(s)** since last run · 30 total in last 1h
+**35 new role(s)** since last run · 40 total in last 1h
 
-### [Field Care Coordinator - Remote in Northern Idaho](https://www.linkedin.com/jobs/view/4444744215/) — UnitedHealthcare
-- 📍 **Location:** Lewiston, ID
-- 💰 **Salary:** $29 to $52 annually
+### [Family Time Case Manager](https://www.linkedin.com/jobs/view/4441569526/) — Larimer County Department of Health and Environment
+- 📍 **Location:** Spruce, CO
 - 🕒 **Posted:** 2026-07-23
 
-### [Field Care Coordinator - Remote in Ada County, ID and Surrounding Areas](https://www.linkedin.com/jobs/view/4444749004/) — UnitedHealthcare
-- 📍 **Location:** Bannock, ID
-- 💰 **Salary:** $29 to $52 annually
+### [PATH Case Manager- 11008](https://www.linkedin.com/jobs/view/4444754442/) — Colorado Coalition for the Homeless
+- 📍 **Location:** Denver, CO
+- 💰 **Salary:** $25 - $25
 - 🕒 **Posted:** 2026-07-23
 
-### [Program Coordinator](https://www.linkedin.com/jobs/view/4444759085/) — Lutheran Community Services Northwest
-- 📍 **Location:** Portland, OR
-- 💰 **Salary:** $20.96/hr - $31.45/hr
+### [Social Worker](https://www.linkedin.com/jobs/view/4444748349/) — CivicMinds, Inc
+- 📍 **Location:** Denver, CO
 - 🕒 **Posted:** 2026-07-23
 
-### [Experiential Life Skills Training Coordinator](https://www.linkedin.com/jobs/view/4444748091/) — Compass Connections
-- 📍 **Location:** Los Fresnos, TX
+### [Housing Specialist- 11004](https://www.linkedin.com/jobs/view/4444748518/) — Colorado Coalition for the Homeless
+- 📍 **Location:** Denver, CO
+- 💰 **Salary:** $30 - $30
 - 🕒 **Posted:** 2026-07-23
 
-### [Human Services Program Coordinator](https://www.linkedin.com/jobs/view/4444740439/) — Career Center at Portland State University
-- 📍 **Location:** Portland, OR
+### [Program Manager, Immigration](https://www.linkedin.com/jobs/view/4444052025/) — The GEO Group, Inc.
+- 📍 **Location:** Firestone, CO
 - 🕒 **Posted:** 2026-07-23
 
-### [Classified, 9 Month, Recurring, Program Coordinator for Access & Disability, and Counseling Services](https://www.linkedin.com/jobs/view/4435917395/) — Whatcom Community College
-- 📍 **Location:** Bellingham, WA
+### [Leave Case Manager](https://www.linkedin.com/jobs/view/4444748517/) — Colorado Coalition for the Homeless
+- 📍 **Location:** Denver, CO
+- 💰 **Salary:** $69,300 - $73,873
 - 🕒 **Posted:** 2026-07-23
 
-### [Case Manager II](https://www.linkedin.com/jobs/view/4444021677/) — Greater Washington Urban League
-- 📍 **Location:** Washington, DC
-- 💰 **Salary:** $62,000.00/yr - $64,000.00/yr
+### [Assistant Contract Supervisor](https://www.linkedin.com/jobs/view/4441572467/) — ServiceSource
+- 📍 **Location:** Aurora, CO
 - 🕒 **Posted:** 2026-07-23
 
-### [Residential Youth Counselor - On Call (360)](https://www.linkedin.com/jobs/view/4416856478/) — Fred Finch Youth & Family Services
-- 📍 **Location:** Oakland, CA
-- 💰 **Salary:** $22.88 - $29.86 per hour
+### [Shift Supervisor - Castle Rock Store](https://www.linkedin.com/jobs/view/4444041245/) — Goodwill of Colorado
+- 📍 **Location:** Castle Rock, CO
 - 🕒 **Posted:** 2026-07-23
 
-### [Substance Abuse Counselor II (Triumph Unit) - Springfield, IL](https://www.linkedin.com/jobs/view/4444027641/) — Gateway Foundation
-- 📍 **Location:** Springfield, IL
-- 💰 **Salary:** $25.64 - $32.28 per hour
-- 🕒 **Posted:** 2026-07-23
-
-### [Certified Peer Support Specialist- Part Time](https://www.linkedin.com/jobs/view/4444747350/) — Meritus Health
-- 📍 **Location:** Hagerstown, MD
-- 🕒 **Posted:** 2026-07-23
-
-### [Behavioral Health Specialist, Burnet ED](https://www.linkedin.com/jobs/view/4444731979/) — Cincinnati Children's
+### [Behavioral Health Specialist, Burnet ED (JR223231)](https://www.linkedin.com/jobs/view/4444762104/) — CCHMC Biomedical Research Technologies Masters Program
 - 📍 **Location:** Cincinnati, OH
-- 💰 **Salary:** $21.00 – $24.05
 - 🕒 **Posted:** 2026-07-23
 
-### [Correctional Case Manager](https://www.linkedin.com/jobs/view/4444032648/) — State of Oklahoma
-- 📍 **Location:** Pittsburg, OK
+### [Behavioral Health Specialist, Adolescent Psychiatry (JR223147)](https://www.linkedin.com/jobs/view/4444763014/) — CCHMC Biomedical Research Technologies Masters Program
+- 📍 **Location:** Cincinnati, OH
 - 🕒 **Posted:** 2026-07-23
 
-### [Behavioral Health Care Coordinator (QMHP / Licensed) - MD133](https://www.linkedin.com/jobs/view/4444738682/) — Native American Rehabilitation Association of the Northwest, Inc. (NARA)
-- 📍 **Location:** Portland, OR
-- 💰 **Salary:** $33.60/hr - $41.90/hr
+### [Program Coordinator, Curricular Affairs](https://www.linkedin.com/jobs/view/4441565627/) — Alice L. Walton School of Medicine
+- 📍 **Location:** Bentonville, AR
 - 🕒 **Posted:** 2026-07-23
 
-### [Field Care Coordinator - Northern VA](https://www.linkedin.com/jobs/view/4444726973/) — UnitedHealthcare
-- 📍 **Location:** Sterling, VA
-- 💰 **Salary:** $24 - $43 per hour
+### [Extension Program Coordinator (ANR) - University of Illinois Extension](https://www.linkedin.com/jobs/view/4444756302/) — University of Illinois Urbana-Champaign
+- 📍 **Location:** Joliet, IL
 - 🕒 **Posted:** 2026-07-23
 
-### [Patient Care Coordinator](https://www.linkedin.com/jobs/view/4444748013/) — Optum
-- 📍 **Location:** Worcester, MA
-- 💰 **Salary:** $18 - $32 per hour
+### [Extension Program Coordinator (ANR) - University of Illinois Extension](https://www.linkedin.com/jobs/view/4444750369/) — University of Illinois Urbana-Champaign
+- 📍 **Location:** Breese, IL
 - 🕒 **Posted:** 2026-07-23
 
-### [Patient Care Coordinator](https://www.linkedin.com/jobs/view/4444728705/) — US Fertility
-- 📍 **Location:** Raleigh, NC
+### [CHILD CARE COORDINATOR](https://www.linkedin.com/jobs/view/4444045124/) — The GEO Group, Inc.
+- 📍 **Location:** Los Lunas, NM
 - 🕒 **Posted:** 2026-07-23
 
-### [Field Based Clinical Care Coordinator - Morgan, Monroe County, IN](https://www.linkedin.com/jobs/view/4444743232/) — UnitedHealthcare
-- 📍 **Location:** Martinsville, IN
-- 💰 **Salary:** $29.00 to $52.00 per hour
+### [Housing Specialist- Flagstone](https://www.linkedin.com/jobs/view/4441374076/) — CAMBA
+- 📍 **Location:** Brooklyn, NY
+- 💰 **Salary:** $48,410.00/yr - $51,500.00/yr
 - 🕒 **Posted:** 2026-07-23
 
-### [Associate Clinical Care Coordinator](https://www.linkedin.com/jobs/view/4444747140/) — Optum
-- 📍 **Location:** Columbia, SC
-- 💰 **Salary:** $16 - $29 per hour
+### [School Social Worker](https://www.linkedin.com/jobs/view/4441564799/) — Faribault School District
+- 📍 **Location:** Faribault, MN
+- 💰 **Salary:** $259.04 - $485.53
 - 🕒 **Posted:** 2026-07-23
 
-### [Case Manager Coordinator](https://www.linkedin.com/jobs/view/4444755240/) — UNC Health
-- 📍 **Location:** Rocky Mount, NC
+### [SUBSTANCE ABUSE COUNSELOR](https://www.linkedin.com/jobs/view/4444051029/) — The GEO Group, Inc.
+- 📍 **Location:** Milton, FL
 - 🕒 **Posted:** 2026-07-23
 
-### [Care Coordinator](https://www.linkedin.com/jobs/view/4441571349/) — Humana
-- 📍 **Location:** Illinois, United States
-- 💰 **Salary:** $53,700.00/yr - $72,600.00/yr
+### [Substance Abuse Counselor III - Humble, TX](https://www.linkedin.com/jobs/view/4443426397/) — Gateway Foundation
+- 📍 **Location:** Humble, TX
+- 💰 **Salary:** $60,000-$65,000
 - 🕒 **Posted:** 2026-07-23
 
-### [Care Coordinator for LTSS Waiver Members/Medicaid - Remote in NOVA (Fairfax, Springfield and Alexandria, VA)](https://www.linkedin.com/jobs/view/4444038673/) — Sentara Health
-- 📍 **Location:** Fairfax, VA
+### [Peer Support Specialist/Counselor (Multilingual)](https://www.linkedin.com/jobs/view/4444761216/) — Lutheran Community Services Northwest
+- 📍 **Location:** Beaverton, OR
+- 💰 **Salary:** $20.93/hr - $31.45/hr
 - 🕒 **Posted:** 2026-07-23
 
-### [Patient Care Coordinator Per Diem](https://www.linkedin.com/jobs/view/4444727948/) — Optum
-- 📍 **Location:** Framingham, MA
-- 💰 **Salary:** $18 - $32 per hour
+### [Bilingual (Spanish-Speaking) Member Outreach Representative / Community Health Worker – Medicaid & Medicare – Remote in Richmond, VA](https://www.linkedin.com/jobs/view/4444036833/) — Sentara Health
+- 📍 **Location:** Richmond, VA
 - 🕒 **Posted:** 2026-07-23
 
-### [Program Coordinator](https://www.linkedin.com/jobs/view/4444740627/) — JPRO of the Greater Palm Beaches
-- 📍 **Location:** Alexandria, VA
-- 💰 **Salary:** $50,000–$55,000,
+### [Case Manager Immigration Bilingual Spanish](https://www.linkedin.com/jobs/view/4444053022/) — The GEO Group, Inc.
+- 📍 **Location:** Burlington, MA
 - 🕒 **Posted:** 2026-07-23
 
-### [Pomona Housing - Supervisor I, Housing](https://www.linkedin.com/jobs/view/4441579092/) — HealthRIGHT 360
-- 📍 **Location:** Pomona, CA
+### [Case Manager Immigration Bilingual Spanish](https://www.linkedin.com/jobs/view/4444040542/) — The GEO Group, Inc.
+- 📍 **Location:** North Charleston, SC
 - 🕒 **Posted:** 2026-07-23
 
-### [Substance Abuse Counselor II - Jacksonville, IL](https://www.linkedin.com/jobs/view/4444029673/) — Gateway Foundation
-- 📍 **Location:** Jacksonville, IL
-- 💰 **Salary:** $25.64 - $32.28 per hour
+### [Patient Care Coordinator - Bilingual (Spanish)](https://www.linkedin.com/jobs/view/4444759271/) — CloudRx Pharmacy Hub
+- 📍 **Location:** Dallas, TX
 - 🕒 **Posted:** 2026-07-23
 
-### [Behavioral Healthcare Provider Supervisor 1 (Richland Correctional Institution) - PN 20090982](https://www.linkedin.com/jobs/view/4441090198/) — Ohio Department of Behavioral Health
-- 📍 **Location:** Mansfield, OH
+### [Patient Care Coordinator - Remote](https://www.linkedin.com/jobs/view/4444032626/) — Xen Health Clinics
+- 📍 **Location:** United Kingdom
 - 🕒 **Posted:** 2026-07-23
 
-### [Family Support Worker](https://www.linkedin.com/jobs/view/4444732881/) — Nottinghamshire County Council
-- 📍 **Location:** Nottinghamshire, England, United Kingdom
+### [Patient Care Coordinator](https://www.linkedin.com/jobs/view/4444025954/) — Keplr Vision
+- 📍 **Location:** Boise, ID
 - 🕒 **Posted:** 2026-07-23
 
-### [Family Support Worker](https://www.linkedin.com/jobs/view/4444744171/) — Nottinghamshire County Council
-- 📍 **Location:** Nottinghamshire, England, United Kingdom
+### [Patient Care Coordinator I - 151](https://www.linkedin.com/jobs/view/4444023933/) — Keplr Vision
+- 📍 **Location:** Blacksburg-Christiansburg-Radford Area
 - 🕒 **Posted:** 2026-07-23
 
-### [Social Worker](https://www.linkedin.com/jobs/view/4444739441/) — Nottinghamshire County Council
-- 📍 **Location:** Nottinghamshire, England, United Kingdom
+### [Patient Care Coordinator](https://www.linkedin.com/jobs/view/4444748413/) — AEG Vision
+- 📍 **Location:** Ashtabula, OH
 - 🕒 **Posted:** 2026-07-23
 
-### [Case Manager (RN) - Utilization Management](https://www.linkedin.com/jobs/view/4444742115/) — San Dimas Community Hospital
-- 📍 **Location:** San Dimas, CA
-- 💰 **Salary:** $41.57 to $55.95
+### [Specialty Services Patient Care Coordinator](https://www.linkedin.com/jobs/view/4440842937/) — New England College of Optometry
+- 📍 **Location:** Boston, MA
+- 🕒 **Posted:** 2026-07-23
+
+### [CHOICES Care Coordinator- Maury, Williamson, and Giles Counties](https://www.linkedin.com/jobs/view/4444741777/) — BlueCross BlueShield of Tennessee
+- 📍 **Location:** Maury County, TN
+- 🕒 **Posted:** 2026-07-23
+
+### [CHOICES Care Coordinator- Maury, Williamson, and Giles Counties](https://www.linkedin.com/jobs/view/4444740766/) — BlueCross BlueShield of Tennessee
+- 📍 **Location:** Williamson County, TN
+- 🕒 **Posted:** 2026-07-23
+
+### [Resident Care Coordinator Assistant (RCCA)](https://www.linkedin.com/jobs/view/4444049032/) — Athena Health Care Systems
+- 📍 **Location:** Webster, MA
+- 💰 **Salary:** $22.00/hr - $22.00/hr
+- 🕒 **Posted:** 2026-07-23
+
+### [Extension Program Coordinator (4-H) - University of Illinois Extension](https://www.linkedin.com/jobs/view/4444751316/) — University of Illinois Urbana-Champaign
+- 📍 **Location:** Morris, IL
+- 🕒 **Posted:** 2026-07-23
+
+### [Family Time Case Manager](https://www.linkedin.com/jobs/view/4444037847/) — Larimer County
+- 📍 **Location:** Fort Collins, CO
+- 🕒 **Posted:** 2026-07-23
+
+### [Special Housing Program Coordinator, Correctional Counselor with Entry level option (Wilsonville)](https://www.linkedin.com/jobs/view/4444752499/) — State of Oregon
+- 📍 **Location:** Salem, OR
+- 💰 **Salary:** $6,895.00/mo - $9,140.00/mo
+- 🕒 **Posted:** 2026-07-23
+
+### [Child & Family Services Case Manager](https://www.linkedin.com/jobs/view/4441573421/) — State of Iowa - Executive Branch
+- 📍 **Location:** Des Moines, IA
 - 🕒 **Posted:** 2026-07-23
