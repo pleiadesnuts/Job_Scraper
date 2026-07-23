@@ -1,49 +1,44 @@
 # 🟦 Indeed — Social Worker Roles
-*Last updated: 2026-07-23 20:19 UTC*
+*Last updated: 2026-07-23 23:59 UTC*
 
-**7 new role(s)** since last run · 13 total in last 24h
+**6 new role(s)** since last run · 16 total in last 24h
 
-### [Case Manager Team Lead](https://www.indeed.com/viewjob?jk=8ece83a58fbc4aca) — CommonSpirit Health
-- 📍 **Location:** Lakewood, CO, US
-- 💰 **Salary:** $38–$68/hr
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-07-22
-
-### [Behavioral Health Specialist](https://www.indeed.com/viewjob?jk=f655bb09ef50f799) — Alternative Homes for Youth
-- 📍 **Location:** Greeley, CO, US
-- 💰 **Salary:** $21–$25/hr
-- **Work mode:** On-site
-- **Job type:** fulltime
+### [Case Manager](https://www.indeed.com/viewjob?jk=a38b989597bdf5c9) — Momentum 360
+- 📍 **Location:** Denver, CO, US
+- 💰 **Salary:** $20–$25/hr
+- **Work mode:** Remote in-state eligible
+- **Job type:** fulltime, contract
 - 🕒 **Posted:** 2026-07-23
 
-### [Behavioral Health Specialist](https://www.indeed.com/viewjob?jk=67b042eae1845811) — Children's Hospital Colorado
-- 📍 **Location:** Broomfield, CO, US
-- 💰 **Salary:** $21–$32/hr
-- **Work mode:** On-site
+### [Program Coordinator, Research Administration](https://www.indeed.com/viewjob?jk=ed1d11d4ab750a36) — UCHealth
+- 📍 **Location:** Denver, CO, US
+- 💰 **Salary:** $22–$29/hr
+- **Work mode:** Remote in-state eligible
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-07-23
 
-### [Workers Compensation Supervisor](https://www.indeed.com/viewjob?jk=57df21f6750893ff) — Revecore
-- 📍 **Location:** Remote, US
+### [Innovation Fellow - Program Coordinator](https://www.indeed.com/viewjob?jk=b71d796488b56ab8) — Jefferson County Colorado
+- 📍 **Location:** Golden, CO, US
+- 💰 **Salary:** $29–$33/hr
 - **Work mode:** Remote in-state eligible
+- **Job type:** fulltime
 - 🕒 **Posted:** 2026-07-23
 
-### [Health & Wellness Program Coordinator (Part-Time | ~20+ Hours/Week)](https://www.indeed.com/viewjob?jk=f19309cf409e2f24) — On-Site Solutions Physical Therapy
-- 📍 **Location:** Remote, US
-- 💰 **Salary:** $20–$30/hr
-- **Work mode:** Remote in-state eligible
-- **Job type:** parttime
+### [Campus Security Supervisor - Elementary](https://www.indeed.com/viewjob?jk=9c61c26f270be8dd) — 27J Schools
+- 📍 **Location:** Brighton, CO, US
+- **Work mode:** On-site
 - 🕒 **Posted:** 2026-07-23
 
-### [Operations Program Coordinator, MI](https://www.indeed.com/viewjob?jk=0639114bf99af717) — FujiFilm
+### [Program Manager, AI Dividend](https://www.indeed.com/viewjob?jk=77854289241e37fd) — Unknown
 - 📍 **Location:** Remote, US
+- 💰 **Salary:** $100k–$140k/yr
 - **Work mode:** Remote in-state eligible
-- 🕒 **Posted:** 2026-07-22
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-07-23
 
-### [Peer Support Specialist](https://www.indeed.com/viewjob?jk=9aa6ebd0e1972070) — Growth Wellness & Change Center
+### [Creator Program Coordinator (Contract)](https://www.indeed.com/viewjob?jk=0c31236170997e70) — Rippling
 - 📍 **Location:** Remote, US
-- 💰 **Salary:** $19–$25/hr
+- 💰 **Salary:** $25–$27/hr
 - **Work mode:** Remote in-state eligible
-- **Job type:** parttime, fulltime
-- 🕒 **Posted:** 2026-07-22
+- **Job type:** parttime, fulltime, contract
+- 🕒 **Posted:** 2026-07-23
