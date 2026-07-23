@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-07-22 20:46 UTC",
-  "total": 90,
-  "new_count": 1,
+  "scraped_at": "2026-07-23 00:18 UTC",
+  "total": 89,
+  "new_count": 4,
   "jobs": [
     {
       "company": "-",
@@ -32,20 +32,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Amphitheater Public Schools",
-      "title": "Social Worker",
-      "location": "Tucson, Arizona, United States",
-      "url": "https://jobs.amphi.com/jobs/7997270-social-worker",
-      "direct_url": "https://jobs.amphi.com/jobs/7997270-social-worker",
-      "date_posted": "2026-06-30T23:26:53.000Z",
-      "description": "Master's in social work (or equivalent), 1 year field instruction or school social work/child & family experience, Arizona Department of Education Social Worker Certificate, fingerprint clearance card, and submission of transcripts.",
-      "salary": "$52k–$55k/yr",
-      "job_type": "Part Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Barnes-Jewish Hospital",
       "title": "Social Worker",
       "location": "Saint Louis, Missouri, United States",
@@ -54,6 +40,20 @@
       "date_posted": "2026-07-02T15:21:54.000Z",
       "description": "Master's in social work required. Licensed Master Social Worker preferred. No prior experience required (2-5 years preferred). Provides clinical social work services, care planning, and community collaboration.",
       "salary": "$57k–$93k/yr",
+      "job_type": "Part Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Amphitheater Public Schools",
+      "title": "Social Worker",
+      "location": "Tucson, Arizona, United States",
+      "url": "https://jobs.amphi.com/jobs/7997270-social-worker",
+      "direct_url": "https://jobs.amphi.com/jobs/7997270-social-worker",
+      "date_posted": "2026-06-30T23:26:53.000Z",
+      "description": "Master's in social work (or equivalent), 1 year field instruction or school social work/child & family experience, Arizona Department of Education Social Worker Certificate, fingerprint clearance card, and submission of transcripts.",
+      "salary": "$52k–$55k/yr",
       "job_type": "Part Time",
       "is_remote": false,
       "work_arrangement": "On-site",
@@ -228,6 +228,20 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "Community Healthcare of Texas",
+      "title": "Social Worker",
+      "location": "Fort Worth, Texas, United States",
+      "url": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=bd15269d-4e6f-4700-a232-f9cbffb8d51a&ccId=19000101_000001&jobId=580314&lang=en_US",
+      "direct_url": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=bd15269d-4e6f-4700-a232-f9cbffb8d51a&ccId=19000101_000001&jobId=580314&lang=en_US",
+      "date_posted": "2026-07-02T13:48:00.000Z",
+      "description": "BSW with 1 year required (Master's preferred), Texas state social worker license, valid driver's license and reliable transportation, computer proficiency, hospice/healthcare experience preferred.",
+      "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
       "company": "University of Utah Health",
       "title": "Social Worker",
       "location": "Salt Lake City, Utah, United States",
@@ -326,34 +340,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Farah & Farah",
-      "title": "Case Manager",
-      "location": "Tampa, Florida, United States",
-      "url": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=7b14ce60-09ee-40ba-b236-a0fb6c98d59f&ccId=19000101_000001&jobId=950172&lang=en_US",
-      "direct_url": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=7b14ce60-09ee-40ba-b236-a0fb6c98d59f&ccId=19000101_000001&jobId=950172&lang=en_US",
-      "date_posted": "2026-07-07T13:37:00.000Z",
-      "description": "Manage pre-suit case investigations, negotiate with insurers, maintain client communication, supervise a legal assistant, organize case files, and enter data into the ATO database.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "STEVE DIMOPOULOS LLC",
-      "title": "Case Manager",
-      "location": "Las Vegas, Nevada, United States",
-      "url": "https://steve-dimopoulos-llc.gnahiring.com/job/1035132/case-manager",
-      "direct_url": "https://steve-dimopoulos-llc.gnahiring.com/job/1035132/case-manager",
-      "date_posted": "2026-06-22T23:45:01.000Z",
-      "description": "Previous legal case manager experience in a personal injury firm, proficiency with legal case management software, strong organization, attention to detail, and excellent interpersonal skills; bilingual English/Spanish a plus.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "TLC Care Center",
       "title": "Case Manager",
       "location": "Henderson, Nevada, United States",
@@ -396,20 +382,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Vincennes University",
-      "title": "Case Manager",
-      "location": "Vincennes or Gibson County",
-      "url": "https://secure7.saashr.com/ta/6051788.careers?ShowJob=604474824",
-      "direct_url": "https://secure7.saashr.com/ta/6051788.careers?ShowJob=604474824",
-      "date_posted": "2026-06-29T17:46:48.224Z",
-      "description": "Provide options counseling and case management, conduct assessments and home visits, develop person-centered plans, link clients to community resources; must obtain Division of Aging Case Management certification within six months.",
-      "salary": "$36k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Law Offices of Michael P McCready",
       "title": "Case Manager",
       "location": "Illinois or Indiana or Missouri or Michigan or Wisconsin or Georgia or Texas or North Carolina or Florida or Colorado or Ohio",
@@ -421,6 +393,20 @@
       "job_type": "Full Time",
       "is_remote": true,
       "work_arrangement": "Remote in-state eligible",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Vincennes University",
+      "title": "Case Manager",
+      "location": "Vincennes or Gibson County",
+      "url": "https://secure7.saashr.com/ta/6051788.careers?ShowJob=604474824",
+      "direct_url": "https://secure7.saashr.com/ta/6051788.careers?ShowJob=604474824",
+      "date_posted": "2026-06-29T17:46:48.224Z",
+      "description": "Provide options counseling and case management, conduct assessments and home visits, develop person-centered plans, link clients to community resources; must obtain Division of Aging Case Management certification within six months.",
+      "salary": "$36k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
       "ats": "HiringCafe"
     },
     {
@@ -461,20 +447,6 @@
       "description": "Coordinate interdisciplinary care, manage discharge planning, complete case management documentation, and meet certification eligibility within two years.",
       "salary": "",
       "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "HANAC, Inc.",
-      "title": "Case Manager",
-      "location": "Astoria, New York, United States",
-      "url": "http://hanac.applytojob.com/apply/EzLvIaStWe/Case-Manager",
-      "direct_url": "http://hanac.applytojob.com/apply/EzLvIaStWe/Case-Manager",
-      "date_posted": "2026-06-23T00:00:00.000Z",
-      "description": "Associate's or Bachelor's in human services/social work/criminal justice required, 1 year case management or victim services experience preferred, proficiency with Microsoft Office and electronic case management systems, strong communication and documentation skills; background check and fingerprinting required.",
-      "salary": "$46k/yr",
-      "job_type": "Part Time",
       "is_remote": false,
       "work_arrangement": "On-site",
       "ats": "HiringCafe"
@@ -620,6 +592,20 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "Guardian Tax",
+      "title": "Case Manager",
+      "location": "Irvine, California, United States",
+      "url": "https://guardian-tax-network.breezy.hr/p/5f8f37a1f02a-case-manager",
+      "direct_url": "https://guardian-tax-network.breezy.hr/p/5f8f37a1f02a-case-manager",
+      "date_posted": "2026-07-22T18:50:44.359Z",
+      "description": "Minimum 6 months case management experience, strong communication, organization, ability to learn new systems, client-focused and coachable.",
+      "salary": "$46k–$50k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
       "company": "YMCA of Greater Cincinnati",
       "title": "Program Coordinator",
       "location": "Hillsboro, Ohio, United States",
@@ -645,20 +631,6 @@
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "Telecommute eligible",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Bureau Veritas",
-      "title": "Program Coordinator",
-      "location": "McLean, Virginia, United States",
-      "url": "https://bureauveritas.phenompro.com/gb/en/job/211261/Program-Coordinator",
-      "direct_url": "https://bureauveritas.phenompro.com/gb/en/job/211261/Program-Coordinator",
-      "date_posted": "2026-06-23T00:00:00.000Z",
-      "description": "1+ year program coordination experience; skills in stakeholder communication, project management, scheduling, reporting, documentation, process improvement, budget tracking, and vendor management.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
       "ats": "HiringCafe"
     },
     {
@@ -732,20 +704,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "VOA Illinois",
-      "title": "Program Coordinator",
-      "location": "Chicago, Illinois, United States",
-      "url": "https://recruitingbypaycor.com/career/JobIntroduction.action?clientId=8a7883d0958c3c940195de2b4092554a&id=8a7883ac9efb8722019f1ea8d0c6158c&source=&lang=en",
-      "direct_url": "https://recruitingbypaycor.com/career/JobIntroduction.action?clientId=8a7883d0958c3c940195de2b4092554a&id=8a7883ac9efb8722019f1ea8d0c6158c&source=&lang=en",
-      "date_posted": "2026-07-01T17:16:18.000Z",
-      "description": "Bachelor's degree or veteran status required; minimum 2 years program coordination/logistics experience; valid driver’s license; ability to lift up to 50 lbs; strong communication and administrative skills.",
-      "salary": "$46k–$55k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Yale",
       "title": "Program Coordinator",
       "location": "New Haven, Connecticut, United States",
@@ -768,6 +726,20 @@
       "date_posted": "2026-07-08T16:23:09.000Z",
       "description": "Experience in program coordination or operations, ability to obtain NYS BPSS Agent certification, strong organizational and communication skills, proficiency with Google Workspace, Microsoft Office and CRM, grant administrative experience preferred.",
       "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "VOA Illinois",
+      "title": "Program Coordinator",
+      "location": "Chicago, Illinois, United States",
+      "url": "https://recruitingbypaycor.com/career/JobIntroduction.action?clientId=8a7883d0958c3c940195de2b4092554a&id=8a7883ac9efb8722019f1ea8d0c6158c&source=&lang=en",
+      "direct_url": "https://recruitingbypaycor.com/career/JobIntroduction.action?clientId=8a7883d0958c3c940195de2b4092554a&id=8a7883ac9efb8722019f1ea8d0c6158c&source=&lang=en",
+      "date_posted": "2026-07-01T17:16:18.000Z",
+      "description": "Bachelor's degree or veteran status required; minimum 2 years program coordination/logistics experience; valid driver’s license; ability to lift up to 50 lbs; strong communication and administrative skills.",
+      "salary": "$46k–$55k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
@@ -956,6 +928,20 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "Cherokee Federal",
+      "title": "Program Coordinator",
+      "location": "Tucson, Arizona, United States",
+      "url": "https://ibtcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/requisitions/job/43063",
+      "direct_url": "https://ibtcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/requisitions/job/43063",
+      "date_posted": "2026-07-20T15:36:38.000Z",
+      "description": "Associate's degree and 5+ years government program experience (Air Force/DOD preferred). Strong PowerPoint and Excel, program scheduling, reporting, communication, and administrative support skills.",
+      "salary": "$75k–$80k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
       "company": "The National Kidney Foundation of Michigan",
       "title": "Program Coordinator",
       "location": "Ann Arbor, Michigan, United States",
@@ -970,14 +956,14 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Cherokee Federal",
-      "title": "Program Coordinator",
-      "location": "Tucson, Arizona, United States",
-      "url": "https://ibtcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/requisitions/job/43063",
-      "direct_url": "https://ibtcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/requisitions/job/43063",
-      "date_posted": "2026-07-20T15:36:38.000Z",
-      "description": "Associate's degree and 5+ years government program experience (Air Force/DOD preferred). Strong PowerPoint and Excel, program scheduling, reporting, communication, and administrative support skills.",
-      "salary": "$75k–$80k/yr",
+      "company": "City of Pharr",
+      "title": "Program Coordinator - HCRMA",
+      "location": "Pharr, Texas, United States",
+      "url": "https://pharrtx.applicantpro.com/jobs/4152982",
+      "direct_url": "https://pharrtx.applicantpro.com/jobs/4152982",
+      "date_posted": "2026-07-20T00:00:00.000Z",
+      "description": "Coordinate program activities, vendors, contracts and prepare desktop-published materials; must hold TxDOT Local Government Project Procedures certification and be bilingual English/Spanish.",
+      "salary": "$60k–$80k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
@@ -998,20 +984,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "City of Pharr",
-      "title": "Program Coordinator - HCRMA",
-      "location": "Pharr, Texas, United States",
-      "url": "https://pharrtx.applicantpro.com/jobs/4152982",
-      "direct_url": "https://pharrtx.applicantpro.com/jobs/4152982",
-      "date_posted": "2026-07-20T00:00:00.000Z",
-      "description": "Coordinate program activities, vendors, contracts and prepare desktop-published materials; must hold TxDOT Local Government Project Procedures certification and be bilingual English/Spanish.",
-      "salary": "$60k–$80k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "DealerOn",
       "title": "OEM Program Coordinator",
       "location": "United States",
@@ -1026,17 +998,17 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Adventhealth",
-      "title": "Program Coordinator Exempt",
-      "location": "Maitland, Florida, United States",
-      "url": "https://adventhealth.wd12.myworkdayjobs.com/ah_external_career_site/job/01-WH-ADVENTHEALTH-WESTHALL/Program-Coordinator-Exempt_R-0385836",
-      "direct_url": "https://adventhealth.wd12.myworkdayjobs.com/ah_external_career_site/job/01-WH-ADVENTHEALTH-WESTHALL/Program-Coordinator-Exempt_R-0385836",
-      "date_posted": "2026-07-20T00:00:00.000Z",
-      "description": "2+ years healthcare program coordination experience, bachelor's required (master's preferred); strong presentation, communication, project management skills; Microsoft Office 365 and project tool proficiency.",
-      "salary": "$45k–$84k/yr",
+      "company": "UVA Health",
+      "title": "PFA Program Coordinator",
+      "location": "Charlottesville, Virginia, United States",
+      "url": "https://virginiahealth.phenompro.com/us/en/job/R0082289/PFA-Program-Coordinator",
+      "direct_url": "https://virginiahealth.phenompro.com/us/en/job/R0082289/PFA-Program-Coordinator",
+      "date_posted": "2026-06-24T00:00:00.000Z",
+      "description": "Bachelor's degree in a healthcare-related field plus 1 year program coordination or related experience; experience with policy, workflow design, Visio, budget management, stakeholder communication, and training.",
+      "salary": "$86k–$123k/yr",
       "job_type": "Full Time",
       "is_remote": false,
-      "work_arrangement": "Telecommute eligible",
+      "work_arrangement": "On-site",
       "ats": "HiringCafe"
     },
     {
@@ -1065,20 +1037,6 @@
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Massgeneralbrigham",
-      "title": "Community Health Worker",
-      "location": "Somerville or Boston or Northampton or Salem",
-      "url": "https://massgeneralbrigham.wd1.myworkdayjobs.com/mgbexternal/job/Somerville-MA/Community-Health-Worker_RQ4068891",
-      "direct_url": "https://massgeneralbrigham.wd1.myworkdayjobs.com/mgbexternal/job/Somerville-MA/Community-Health-Worker_RQ4068891",
-      "date_posted": "2026-06-23T00:00:00.000Z",
-      "description": "Bachelor's in Public Health/Social Work or equivalent experience, 2+ years community health outreach/SDOH experience, experience navigating social risks, CHW certification (MA DPH) preferred, bilingual Spanish preferred, basic Microsoft Office skills.",
-      "salary": "$59k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "Telecommute eligible",
       "ats": "HiringCafe"
     },
     {
@@ -1149,6 +1107,20 @@
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "Telecommute eligible",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Dignity Health - Yavapai Regional Medical Center (CommonSpirit Health)",
+      "title": "Community Health Worker",
+      "location": "Prescott, Arizona, United States",
+      "url": "https://affiliates-commonspirit.icims.com/jobs/484560/community-health-worker/job?in_iframe=1",
+      "direct_url": "https://affiliates-commonspirit.icims.com/jobs/484560/community-health-worker/job?in_iframe=1",
+      "date_posted": "2026-07-22T07:00:00.000Z",
+      "description": "High school diploma/GED required; will complete Community Health Worker (CHW) training; bilingual preferred; ability to conduct home visits, assess client needs, and connect to community resources.",
+      "salary": "$48k–$68k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
       "ats": "HiringCafe"
     },
     {
@@ -1262,21 +1234,77 @@
       "is_remote": false,
       "work_arrangement": "On-site",
       "ats": "HiringCafe"
+    },
+    {
+      "company": "Rural Resources Community Action",
+      "title": "Community Health Worker – Community Connect",
+      "location": "Colville, Washington, United States",
+      "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4313469",
+      "direct_url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4313469",
+      "date_posted": "2026-07-07T22:22:07.000Z",
+      "description": "High school diploma/GED required; CHW and health benefit exchange training (or willingness to complete); valid driver's license, reliable transportation, and auto insurance; background check required; First Aid/CPR preferred.",
+      "salary": "$45k–$49k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
     }
   ],
   "new_jobs": [
     {
-      "company": "Adventhealth",
-      "title": "Program Coordinator Exempt",
-      "location": "Maitland, Florida, United States",
-      "url": "https://adventhealth.wd12.myworkdayjobs.com/ah_external_career_site/job/01-WH-ADVENTHEALTH-WESTHALL/Program-Coordinator-Exempt_R-0385836",
-      "direct_url": "https://adventhealth.wd12.myworkdayjobs.com/ah_external_career_site/job/01-WH-ADVENTHEALTH-WESTHALL/Program-Coordinator-Exempt_R-0385836",
-      "date_posted": "2026-07-20T00:00:00.000Z",
-      "description": "2+ years healthcare program coordination experience, bachelor's required (master's preferred); strong presentation, communication, project management skills; Microsoft Office 365 and project tool proficiency.",
-      "salary": "$45k–$84k/yr",
+      "company": "Guardian Tax",
+      "title": "Case Manager",
+      "location": "Irvine, California, United States",
+      "url": "https://guardian-tax-network.breezy.hr/p/5f8f37a1f02a-case-manager",
+      "direct_url": "https://guardian-tax-network.breezy.hr/p/5f8f37a1f02a-case-manager",
+      "date_posted": "2026-07-22T18:50:44.359Z",
+      "description": "Minimum 6 months case management experience, strong communication, organization, ability to learn new systems, client-focused and coachable.",
+      "salary": "$46k–$50k/yr",
       "job_type": "Full Time",
       "is_remote": false,
-      "work_arrangement": "Telecommute eligible",
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "UVA Health",
+      "title": "PFA Program Coordinator",
+      "location": "Charlottesville, Virginia, United States",
+      "url": "https://virginiahealth.phenompro.com/us/en/job/R0082289/PFA-Program-Coordinator",
+      "direct_url": "https://virginiahealth.phenompro.com/us/en/job/R0082289/PFA-Program-Coordinator",
+      "date_posted": "2026-06-24T00:00:00.000Z",
+      "description": "Bachelor's degree in a healthcare-related field plus 1 year program coordination or related experience; experience with policy, workflow design, Visio, budget management, stakeholder communication, and training.",
+      "salary": "$86k–$123k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Dignity Health - Yavapai Regional Medical Center (CommonSpirit Health)",
+      "title": "Community Health Worker",
+      "location": "Prescott, Arizona, United States",
+      "url": "https://affiliates-commonspirit.icims.com/jobs/484560/community-health-worker/job?in_iframe=1",
+      "direct_url": "https://affiliates-commonspirit.icims.com/jobs/484560/community-health-worker/job?in_iframe=1",
+      "date_posted": "2026-07-22T07:00:00.000Z",
+      "description": "High school diploma/GED required; will complete Community Health Worker (CHW) training; bilingual preferred; ability to conduct home visits, assess client needs, and connect to community resources.",
+      "salary": "$48k–$68k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Rural Resources Community Action",
+      "title": "Community Health Worker – Community Connect",
+      "location": "Colville, Washington, United States",
+      "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4313469",
+      "direct_url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4313469",
+      "date_posted": "2026-07-07T22:22:07.000Z",
+      "description": "High school diploma/GED required; CHW and health benefit exchange training (or willingness to complete); valid driver's license, reliable transportation, and auto insurance; background check required; First Aid/CPR preferred.",
+      "salary": "$45k–$49k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
       "ats": "HiringCafe"
     }
   ]
