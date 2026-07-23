@@ -1,8 +1,6 @@
 # 🏛 Priority Employers — Social Worker Roles
-*Last updated: 2026-07-22 11:06 UTC*
+*Last updated: 2026-07-23 11:05 UTC*
 
-**1 new role(s)** since last run · 1 total in last 24h
+**0 new role(s)** since last run · 0 total in last 24h
 
-### [GMx Transition Specialist Tax - Senior](https://www.linkedin.com/jobs/view/4443115161/) — EY
-- 📍 **Location:** Bengaluru, Karnataka, India
-- 🕒 **Posted:** 2026-07-22
+No new priority-employer roles since the last run.
