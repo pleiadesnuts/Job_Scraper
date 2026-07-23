@@ -1,125 +1,302 @@
 # 🔥 LinkedIn — Social Worker Roles
-*Last updated: 2026-07-23 09:47 UTC*
+*Last updated: 2026-07-23 19:08 UTC*
 
-**26 new role(s)** since last run · 29 total in last 1h
+**68 new role(s)** since last run · 68 total in last 1h
 
-### [Vocational Case Manager](https://www.linkedin.com/jobs/view/4435849227/) — Enlyte
+### [Behavioral Health Specialist](https://www.linkedin.com/jobs/view/4402658579/) — Children's Hospital Colorado
+- 📍 **Location:** Aurora, CO
+- 💰 **Salary:** $21.35 to $32.03
+- 🕒 **Posted:** 2026-07-23
+
+### [School Social Worker](https://www.linkedin.com/jobs/view/4442155138/) — Stride, Inc.
+- 📍 **Location:** Colorado, United States
+- 💰 **Salary:** $21.37 - $26.71
+- 🕒 **Posted:** 2026-07-23
+
+### [Healthcare Coordinator](https://www.linkedin.com/jobs/view/4444492592/) — PDS Health
+- 📍 **Location:** Longmont, CO
+- 💰 **Salary:** $19.75/hr - $28.00/hr
+- 🕒 **Posted:** 2026-07-23
+
+### [CRT Clinical Supervisor](https://www.linkedin.com/jobs/view/4444492783/) — Douglas County
+- 📍 **Location:** Castle Rock, CO
+- 💰 **Salary:** $78,354.00/yr - $117,531.00/yr
+- 🕒 **Posted:** 2026-07-23
+
+### [Hearing Ambassador (Patient Care Coordinator)](https://www.linkedin.com/jobs/view/4444497480/) — NationsBenefits
+- 📍 **Location:** Evans, CO
+- 🕒 **Posted:** 2026-07-23
+
+### [Hearing Ambassador (Patient Care Coordinator)](https://www.linkedin.com/jobs/view/4444700323/) — NationsBenefits
+- 📍 **Location:** Longmont, CO
+- 🕒 **Posted:** 2026-07-23
+
+### [Clinical Social Worker I](https://www.linkedin.com/jobs/view/4435896770/) — Children's Hospital Colorado
+- 📍 **Location:** Aurora, CO
+- 💰 **Salary:** $73,171.39 to $109,757.08
+- 🕒 **Posted:** 2026-07-23
+
+### [Hearing Ambassador (Patient Care Coordinator)](https://www.linkedin.com/jobs/view/4444710091/) — NationsBenefits
 - 📍 **Location:** Denver, CO
-- 💰 **Salary:** $70,000 - $85,000 annually
 - 🕒 **Posted:** 2026-07-23
 
-### [Full-Time Supervisor, Beyond Yoga- Park Meadows, Denver, CO](https://www.linkedin.com/jobs/view/4435014146/) — Beyond Yoga
-- 📍 **Location:** Lone Tree, CO
-- 💰 **Salary:** $17.05 to $28.45 per hour
+### [Patient Care Coordinator](https://www.linkedin.com/jobs/view/4444490660/) — Specialty1 Partners
+- 📍 **Location:** Glendale, CO
+- 💰 **Salary:** $25 USD - $28 USD
 - 🕒 **Posted:** 2026-07-23
 
-### [Medical Assistant Supervisor - Dakota Ridge](https://www.linkedin.com/jobs/view/4444406510/) — Wilmington MGMA
-- 📍 **Location:** Littleton, CO
-- 💰 **Salary:** $27.00 to $32.00 Hourly
+### [Hearing Ambassador (Patient Care Coordinator)](https://www.linkedin.com/jobs/view/4444702252/) — NationsBenefits
+- 📍 **Location:** Arvada, CO
 - 🕒 **Posted:** 2026-07-23
 
-### [Program Manager](https://www.linkedin.com/jobs/view/4435421364/) — Goodera
-- 📍 **Location:** Bengaluru, Karnataka, India
+### [Hearing Ambassador (Patient Care Coordinator)](https://www.linkedin.com/jobs/view/4444707194/) — NationsBenefits
+- 📍 **Location:** Thornton, CO
 - 🕒 **Posted:** 2026-07-23
 
-### [Research Contracts Program Manager](https://www.linkedin.com/jobs/view/4443813841/) — Pinnacle Method Consulting
-- 📍 **Location:** United States
+### [Care Coordinator I (Client Care)](https://www.linkedin.com/jobs/view/4444474874/) — Headlight
+- 📍 **Location:** Denver, CO
+- 💰 **Salary:** $20.00/hr - $22.00/hr
 - 🕒 **Posted:** 2026-07-23
 
-### [IPV & SA Case Manager](https://www.linkedin.com/jobs/view/4444411690/) — Hilltop Community Resources
-- 📍 **Location:** Grand Junction, CO
-- 💰 **Salary:** $26.00 to $27.30 per hour
+### [Maintenance Supervisor](https://www.linkedin.com/jobs/view/4435849574/) — Related Affordable
+- 📍 **Location:** Denver, CO
+- 💰 **Salary:** $32.00 - $33.65
 - 🕒 **Posted:** 2026-07-23
 
-### [Social Worker - Income Support](https://www.linkedin.com/jobs/view/4444413472/) — Government of Yukon
-- 📍 **Location:** Whitehorse, Yukon Territory, Canada
+### [Supervisor Sterile Processing - Sterile Processing Department * Evenings - 40hrs/wk](https://www.linkedin.com/jobs/view/4426580124/) — University of Michigan Health-West
+- 📍 **Location:** Wyoming, MI
 - 🕒 **Posted:** 2026-07-23
 
-### [Community Health Worker](https://www.linkedin.com/jobs/view/4444298836/) — Oak Street Health, part of CVS Health
-- 📍 **Location:** Topeka, KS
+### [Behavioral Health Specialist](https://www.linkedin.com/jobs/view/4426529104/) — Children's Hospital Colorado
+- 📍 **Location:** Colorado Springs, CO
+- 💰 **Salary:** $21.35 to $32.03
+- 🕒 **Posted:** 2026-07-23
+
+### [Program Coordinator, Employee Training Institute](https://www.linkedin.com/jobs/view/4443899474/) — San Diego College of Continuing Education Foundation
+- 📍 **Location:** San Diego, CA
+- 🕒 **Posted:** 2026-07-23
+
+### [Alumni Travel Program Manager](https://www.linkedin.com/jobs/view/4441554286/) — MIT Alumni Association
+- 📍 **Location:** Cambridge, MA
+- 💰 **Salary:** $88,550.00/yr - $120,000.00/yr
+- 🕒 **Posted:** 2026-07-23
+
+### [Program Manager 1-Production](https://www.linkedin.com/jobs/view/4443897817/) — Draper
+- 📍 **Location:** Greater Boston
+- 💰 **Salary:** $95,000.00 - $245,000.00
+- 🕒 **Posted:** 2026-07-23
+
+### [Bilingual Spanish Community Health Worker (Orange County)](https://www.linkedin.com/jobs/view/4432721645/) — SCAN
+- 📍 **Location:** Santa Ana, CA
+- 💰 **Salary:** $21.78 to $31.52 per hour
+- 🕒 **Posted:** 2026-07-23
+
+### [Community Health Worker - Field- Must live in Louisiana](https://www.linkedin.com/jobs/view/4416283276/) — CVS Health
+- 📍 **Location:** Jefferson Parish County, LA
 - 💰 **Salary:** $18.50 - $31.72
 - 🕒 **Posted:** 2026-07-23
 
-### [Case Manager](https://www.linkedin.com/jobs/view/4434638131/) — Jobot
-- 📍 **Location:** Albuquerque, NM
-- 💰 **Salary:** $17.00/hr - $20.00/hr
-- 🕒 **Posted:** 2026-07-23
-
-### [CNM1 Health Care Coordinator HCC001](https://www.linkedin.com/jobs/view/4441091876/) — Health Service Executive
+### [CNM1 Health Care Coordinator HCC001](https://www.linkedin.com/jobs/view/4443893709/) — HSE Workplace Health & Wellbeing
 - 📍 **Location:** Kildare, County Kildare, Ireland
 - 🕒 **Posted:** 2026-07-23
 
-### [Supervisor Lifestyles](https://www.linkedin.com/jobs/view/4438564429/) — Lifespace Communities, Inc.
-- 📍 **Location:** Delray Beach, FL
-- 💰 **Salary:** $55,900.00/yr - $76,800.00/yr
+### [WELLNESS COORDINATOR - REMOTE (MUST BE BASED IN LOUISIANA OR TEXAS)](https://www.linkedin.com/jobs/view/4444287553/) — Compass Healthcare
+- 📍 **Location:** Dallas, TX
 - 🕒 **Posted:** 2026-07-23
 
-### [Patient Care Coordinator](https://www.linkedin.com/jobs/view/4443825281/) — UnitedHealth Group
-- 📍 **Location:** Seattle, WA
-- 💰 **Salary:** $17.98 to $32.12 per hour
+### [Community Health Worker](https://www.linkedin.com/jobs/view/4444714151/) — Mass General Brigham
+- 📍 **Location:** Salem, MA
+- 💰 **Salary:** $25.86 - $28.30/Hourly
 - 🕒 **Posted:** 2026-07-23
 
-### [Care Coordinator - Trillium Health Partners - Credit Valley Hospital](https://www.linkedin.com/jobs/view/4440302668/) — Ontario Health atHome
-- 📍 **Location:** Mississauga, Ontario, Canada
-- 💰 **Salary:** $43.55 to $50.67 per hour
+### [PROGRAM COORDINATOR YEMEN M/F](https://www.linkedin.com/jobs/view/4444499507/) — Secours Islamique France
+- 📍 **Location:** Aden City, Aden Governorate, Yemen
 - 🕒 **Posted:** 2026-07-23
 
-### [Wellness Coordinator](https://www.linkedin.com/jobs/view/4443830184/) — RemoteHunter
-- 📍 **Location:** United States
-- 💰 **Salary:** $18.00/hr - $32.00/hr
+### [PROGRAM COORDINATOR LEBANON M/F](https://www.linkedin.com/jobs/view/4444702459/) — Secours Islamique France
+- 📍 **Location:** Port, Berne, Switzerland
 - 🕒 **Posted:** 2026-07-23
 
-### [Care Coordinator - Toronto Western Hospital](https://www.linkedin.com/jobs/view/4440839052/) — Ontario Health atHome
-- 📍 **Location:** Toronto, Ontario, Canada
-- 💰 **Salary:** $79,853.82 to $93,232.59
+### [Volunteer Coordinator](https://www.linkedin.com/jobs/view/4444704291/) — Cedarbrook Senior Care & Rehab
+- 📍 **Location:** Allentown, PA
 - 🕒 **Posted:** 2026-07-23
 
-### [TAY Housing Specialist](https://www.linkedin.com/jobs/view/4426159484/) — Aspiranet
+### [Data and AI Literacy Program Coordinator](https://www.linkedin.com/jobs/view/4376108365/) — Bombardier
+- 📍 **Location:** Dorval, Quebec, Canada
+- 🕒 **Posted:** 2026-07-23
+
+### [Program Coordinator for Atlanta Rabbinic Leadership Lab - Candler School of Theology (Term-Limited 3-year position)](https://www.linkedin.com/jobs/view/4441552555/) — Emory University
+- 📍 **Location:** Atlanta, GA
+- 🕒 **Posted:** 2026-07-23
+
+### [Volunteer Coordinator - Hospice - FT](https://www.linkedin.com/jobs/view/4444712177/) — Sanford Health
+- 📍 **Location:** Fargo, ND
+- 🕒 **Posted:** 2026-07-23
+
+### [Education Program Coordinator](https://www.linkedin.com/jobs/view/4444010649/) — Welland Museum
+- 📍 **Location:** Welland, Ontario, Canada
+- 🕒 **Posted:** 2026-07-23
+
+### [Program Manager – Chatham-Kent/Sarnia-Lambton/Windsor-Essex](https://www.linkedin.com/jobs/view/4444708188/) — JA South Western Ontario
+- 📍 **Location:** Chatham-Kent, Ontario, Canada
+- 💰 **Salary:** $40,000 – $50,000
+- 🕒 **Posted:** 2026-07-23
+
+### [Healthcare Coordinator](https://www.linkedin.com/jobs/view/4444491650/) — PDS Health
+- 📍 **Location:** Laguna Niguel, CA
+- 💰 **Salary:** $18.00/hr - $25.50/hr
+- 🕒 **Posted:** 2026-07-23
+
+### [Healthcare Coordinator](https://www.linkedin.com/jobs/view/4444499238/) — PDS Health
+- 📍 **Location:** Harvey, LA
+- 💰 **Salary:** $15.75/hr - $22.00/hr
+- 🕒 **Posted:** 2026-07-23
+
+### [Healthcare Coordinator](https://www.linkedin.com/jobs/view/4444496513/) — PDS Health
+- 📍 **Location:** Rancho Palos Verdes, CA
+- 💰 **Salary:** $18.00/hr - $25.50/hr
+- 🕒 **Posted:** 2026-07-23
+
+### [Hearing Ambassador (Patient Care Coordinator)](https://www.linkedin.com/jobs/view/4444496538/) — NationsBenefits
+- 📍 **Location:** Fort Myers, FL
+- 🕒 **Posted:** 2026-07-23
+
+### [Hearing Ambassador (Patient Care Coordinator)](https://www.linkedin.com/jobs/view/4444496536/) — NationsBenefits
+- 📍 **Location:** Holland, MI
+- 🕒 **Posted:** 2026-07-23
+
+### [Hearing Ambassador (Patient Care Coordinator)](https://www.linkedin.com/jobs/view/4444493674/) — NationsBenefits
+- 📍 **Location:** Las Vegas, NV
+- 🕒 **Posted:** 2026-07-23
+
+### [Hearing Ambassador (Patient Care Coordinator)](https://www.linkedin.com/jobs/view/4444494536/) — NationsBenefits
+- 📍 **Location:** Durham, NC
+- 🕒 **Posted:** 2026-07-23
+
+### [Hearing Ambassador (Patient Care Coordinator)](https://www.linkedin.com/jobs/view/4444492691/) — NationsBenefits
+- 📍 **Location:** Scarborough, ME
+- 🕒 **Posted:** 2026-07-23
+
+### [Hearing Ambassador (Patient Care Coordinator)](https://www.linkedin.com/jobs/view/4444493683/) — NationsBenefits
+- 📍 **Location:** Sugar Land, TX
+- 🕒 **Posted:** 2026-07-23
+
+### [Hearing Ambassador (Patient Care Coordinator)](https://www.linkedin.com/jobs/view/4444700315/) — NationsBenefits
+- 📍 **Location:** Wake Forest, NC
+- 🕒 **Posted:** 2026-07-23
+
+### [Hearing Ambassador (Patient Care Coordinator)](https://www.linkedin.com/jobs/view/4444700316/) — NationsBenefits
+- 📍 **Location:** Tarentum, PA
+- 🕒 **Posted:** 2026-07-23
+
+### [Hearing Ambassador (Patient Care Coordinator)](https://www.linkedin.com/jobs/view/4444491753/) — NationsBenefits
+- 📍 **Location:** Fountain Valley, CA
+- 🕒 **Posted:** 2026-07-23
+
+### [Hearing Ambassador (Patient Care Coordinator)](https://www.linkedin.com/jobs/view/4444492677/) — NationsBenefits
+- 📍 **Location:** Round Rock, TX
+- 🕒 **Posted:** 2026-07-23
+
+### [Hearing Ambassador (Patient Care Coordinator)](https://www.linkedin.com/jobs/view/4444494508/) — NationsBenefits
+- 📍 **Location:** Austin, TX
+- 🕒 **Posted:** 2026-07-23
+
+### [Hearing Ambassador (Patient Care Coordinator)](https://www.linkedin.com/jobs/view/4444710074/) — NationsBenefits
+- 📍 **Location:** Charlottesville, VA
+- 🕒 **Posted:** 2026-07-23
+
+### [Care Coordinator, SW I](https://www.linkedin.com/jobs/view/4444006732/) — Orlando Health
+- 📍 **Location:** Orlando, FL
+- 🕒 **Posted:** 2026-07-23
+
+### [Case Manager](https://www.linkedin.com/jobs/view/4444235386/) — Veritas Management Group
+- 📍 **Location:** Colorado Springs, CO
+- 🕒 **Posted:** 2026-07-23
+
+### [Client Care Coordinator](https://www.linkedin.com/jobs/view/4444286414/) — Angels of Care Pediatric Home Health
+- 📍 **Location:** Temple, TX
+- 🕒 **Posted:** 2026-07-23
+
+### [WFS HEN Case Manager](https://www.linkedin.com/jobs/view/4444496906/) — Goodwill Industries of the Inland Northwest
+- 📍 **Location:** Spokane, WA
+- 🕒 **Posted:** 2026-07-23
+
+### [Housing Case Manager (HCRP)](https://www.linkedin.com/jobs/view/4443193216/) — Family Promise of Warren County
+- 📍 **Location:** Warren County, OH
+- 💰 **Salary:** $22.00–$24.00 per hour
+- 🕒 **Posted:** 2026-07-23
+
+### [Case Manager](https://www.linkedin.com/jobs/view/4413481743/) — Services for the UnderServed
+- 📍 **Location:** Brooklyn, NY
+- 🕒 **Posted:** 2026-07-23
+
+### [Administrative Care Coordinator - Hybrid](https://www.linkedin.com/jobs/view/4443180765/) — Avance Care
+- 📍 **Location:** Durham, NC
+- 🕒 **Posted:** 2026-07-23
+
+### [Substance Use Program Manager](https://www.linkedin.com/jobs/view/4423944556/) — Software Guidance & Assistance, Inc. (SGA, Inc.)
+- 📍 **Location:** Dobbs Ferry, NY
+- 💰 **Salary:** $80,000.00/yr - $92,000.00/yr
+- 🕒 **Posted:** 2026-07-23
+
+### [SOCIAL WORKER OR HUMAN SERVICES PROFESSIONAL III & IV-CORRECTIONS & INTAKE SVC CTR - MAUI (WIKIWIKI)](https://www.linkedin.com/jobs/view/4379203401/) — State of Hawaiʻi
+- 📍 **Location:** Maui County, HI
+- 💰 **Salary:** $5,107 to $6,221 per month
+- 🕒 **Posted:** 2026-07-23
+
+### [SOCIAL WORKER OR HUMAN SERVICES PROFESSIONAL II - CORRECTIONAL FACILITIES - STATEWIDE (WIKIWIKI)](https://www.linkedin.com/jobs/view/4379207394/) — State of Hawaiʻi
+- 📍 **Location:** Hawaii, United States
+- 🕒 **Posted:** 2026-07-23
+
+### [Social Worker](https://www.linkedin.com/jobs/view/4441554379/) — Department of Behavioral Health and Developmental Services
+- 📍 **Location:** Danville, VA
+- 💰 **Salary:** $70,701 - $97,567
+- 🕒 **Posted:** 2026-07-23
+
+### [Adults Social Worker (Carshalton / Sutton Localities Teams)](https://www.linkedin.com/jobs/view/4427581438/) — London Borough of Sutton
+- 📍 **Location:** London, England, United Kingdom
+- 🕒 **Posted:** 2026-07-23
+
+### [Social Worker, Psychiatry Clinic - Neurodevelopmental Health, Temporary Full-Time (1.0) (until March 2027)](https://www.linkedin.com/jobs/view/4444498508/) — CHEO
+- 📍 **Location:** Ottawa, Ontario, Canada
+- 💰 **Salary:** $46.69-$57.74
+- 🕒 **Posted:** 2026-07-23
+
+### [Kinship Assessing Social Worker - Form K](https://www.linkedin.com/jobs/view/4441075191/) — Plymouth City Council
+- 📍 **Location:** Plymouth, England, United Kingdom
+- 🕒 **Posted:** 2026-07-23
+
+### [Elementary School Social Worker](https://www.linkedin.com/jobs/view/4438257430/) — Uncommon Schools
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-07-23
+
+### [Social Services Case Manager #42 Mental Health & Behavioral Services](https://www.linkedin.com/jobs/view/4441548629/) — Stockton Unified School District
 - 📍 **Location:** Stockton, CA
-- 💰 **Salary:** $20.00-$22.00
 - 🕒 **Posted:** 2026-07-23
 
-### [SSVF Rapid Re-housing Program Manager](https://www.linkedin.com/jobs/view/4443829318/) — New England Center and Home for Veterans
-- 📍 **Location:** Haverhill, MA
-- 💰 **Salary:** $65,000 – $70,000
+### [Case Manager](https://www.linkedin.com/jobs/view/4444008651/) — Chicago Public Schools
+- 📍 **Location:** Chicago, IL
+- 💰 **Salary:** $64,469.94 to $82,839.39
 - 🕒 **Posted:** 2026-07-23
 
-### [Field Based Clinical Care Coordinator - Evansville, Vanderburgh County, IN](https://www.linkedin.com/jobs/view/4444407767/) — UnitedHealthcare
-- 📍 **Location:** Evansville, IN
-- 💰 **Salary:** $29.00 to $52.00 per hour
+### [Social Worker - SEND Family Help Service](https://www.linkedin.com/jobs/view/4444492615/) — London Borough of Sutton
+- 📍 **Location:** London, England, United Kingdom
 - 🕒 **Posted:** 2026-07-23
 
-### [Case Manager Substance Use Counselor - Mental Health 633](https://www.linkedin.com/jobs/view/4436177360/) — Telecare Corporation
-- 📍 **Location:** Bakersfield, CA
-- 💰 **Salary:** $27.85 - $34.42
+### [Foster Care Case Manager](https://www.linkedin.com/jobs/view/4441544655/) — Children's Hope Alliance
+- 📍 **Location:** Fayetteville, NC
 - 🕒 **Posted:** 2026-07-23
 
-### [Behavioral Health Supervisor - MATER - Family Center](https://www.linkedin.com/jobs/view/4414494545/) — Jefferson Health
-- 📍 **Location:** Philadelphia, PA
+### [SOCIAL WORKER OR HUMAN SERVICES PROFESSIONAL III & IV-CORRECTIONS & INTAKE SVC CTR - OAHU (WIKIWIKI)](https://www.linkedin.com/jobs/view/4379210314/) — State of Hawaiʻi
+- 📍 **Location:** Honolulu County, HI
+- 💰 **Salary:** $5,107 to $6,221 per month
 - 🕒 **Posted:** 2026-07-23
 
-### [Family Support Worker](https://www.linkedin.com/jobs/view/4444417503/) — Nottinghamshire County Council
-- 📍 **Location:** Nottinghamshire, England, United Kingdom
+### [SOCIAL WORKER OR HUMAN SERVICES PROFESSIONAL III & IV-CORRECTIONS & INTAKE SVC CTR-HAWAII(WIKIWIKI)](https://www.linkedin.com/jobs/view/4379273214/) — State of Hawaiʻi
+- 📍 **Location:** Hawaii County, HI
+- 💰 **Salary:** $5,107 to $6,221 per month
 - 🕒 **Posted:** 2026-07-23
 
-### [Peer Family Support Worker - Part Time](https://www.linkedin.com/jobs/view/4442014912/) — Wellways Australia
-- 📍 **Location:** Queensland, Australia
-- 💰 **Salary:** $40.49 - $43.42 per hour
-- 🕒 **Posted:** 2026-07-23
-
-### [Social Worker](https://www.linkedin.com/jobs/view/4444400955/) — Nottinghamshire County Council
-- 📍 **Location:** Nottinghamshire, England, United Kingdom
-- 🕒 **Posted:** 2026-07-23
-
-### [Social worker (CAAS) - 03307](https://www.linkedin.com/jobs/view/4443832178/) — West Berkshire Council
-- 📍 **Location:** Newbury, England, United Kingdom
-- 🕒 **Posted:** 2026-07-23
-
-### [Medical Social Worker II Full Time Days](https://www.linkedin.com/jobs/view/4444414504/) — Stanford Health Care Tri-Valley
-- 📍 **Location:** Pleasanton, CA
-- 💰 **Salary:** $48.42 - $65.93 per hour
-- 🕒 **Posted:** 2026-07-23
-
-### [Social Worker  - Long Term Team (4 posts)](https://www.linkedin.com/jobs/view/4435474566/) — Derbyshire County Council
-- 📍 **Location:** Derby, England, United Kingdom
+### [Social Worker - Referral and Assessment](https://www.linkedin.com/jobs/view/4443892720/) — London Borough of Bromley
+- 📍 **Location:** London, England, United Kingdom
 - 🕒 **Posted:** 2026-07-23
