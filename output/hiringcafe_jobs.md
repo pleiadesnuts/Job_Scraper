@@ -1,30 +1,31 @@
 # ☕ HiringCafe — Social Worker Roles
-*Last updated: 2026-07-24 21:53 UTC*
+*Last updated: 2026-07-24 22:49 UTC*
 
 **4 new role(s)** since last run · 95 total in last 30d
 
-### [Social Worker](https://careers-uuhc.icims.com/jobs/84616/social-worker/job?in_iframe=1) — University of Utah Health
-- 📍 **Location:** Salt Lake City, Utah, United States
-- **Work mode:** On-site
-- **Job type:** Part Time
-- 🕒 **Posted:** 2026-07-15T06:00:00.000Z
-
-### [Program Coordinator](https://kypersonnelcabinet.csod.com/ux/ats/careersite/49/home/requisition/79781?c=kypersonnelcabinet) — Energy & Environment Cabinet - Dept for Environmental Protection
-- 📍 **Location:** Paducah, Kentucky, United States
-- 💰 **Salary:** $47k–$49k/yr
+### [Case Manager](https://ascensionrecovery.bamboohr.com/careers/899) — Ascension Recovery Services
+- 📍 **Location:** Muncie, Indiana, United States
 - **Work mode:** On-site
 - **Job type:** Full Time
 - 🕒 **Posted:** 2026-07-17T00:00:00.000Z
 
-### [Community Health Worker](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4361314) — Cornerstone Family Healthcare
-- 📍 **Location:** Newburgh, New York, United States
-- 💰 **Salary:** $53k/yr
+### [Program Coordinator](https://upenn.wd1.myworkdayjobs.com/careers-at-penn/job/Presbyterian-Med-Ctr-FL7/Program-Coordinator_JR00123112-1) — Upenn
+- 📍 **Location:** Philadelphia, Pennsylvania, United States
+- 💰 **Salary:** $50k–$62k/yr
 - **Work mode:** On-site
 - **Job type:** Full Time
-- 🕒 **Posted:** 2026-07-24T14:55:00.000Z
+- 🕒 **Posted:** 2026-07-24T00:00:00.000Z
 
-### [Community Health Worker](https://myjobs.adp.com/ahfexternalcareers/cx/job-details?reqId=5001210196406) — AIDS Healthcare Foundation
-- 📍 **Location:** Houston, Texas, United States
+### [Program Coordinator](https://upenn.wd1.myworkdayjobs.com/psom/job/Presbyterian-Med-Ctr-FL7/Program-Coordinator_JR00123112) — Upenn
+- 📍 **Location:** Philadelphia, Pennsylvania, United States
+- 💰 **Salary:** $50k–$62k/yr
 - **Work mode:** On-site
 - **Job type:** Full Time
-- 🕒 **Posted:** 2026-07-24T15:18:16.000Z
+- 🕒 **Posted:** 2026-07-24T00:00:00.000Z
+
+### [Program Coordinator](https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25898&siteid=5283&PageType=JobDetails&jobid=918878) — Texas Tech University Health Sciences Center
+- 📍 **Location:** Texas, United States
+- 💰 **Salary:** $31k–$48k/yr
+- **Work mode:** On-site
+- **Job type:** Full Time
+- 🕒 **Posted:** 2026-07-22T12:00:00.000Z
