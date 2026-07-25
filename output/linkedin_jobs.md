@@ -1,72 +1,41 @@
 # 🔥 LinkedIn — Social Worker Roles
-*Last updated: 2026-07-25 19:45 UTC*
+*Last updated: 2026-07-25 21:18 UTC*
 
-**16 new role(s)** since last run · 17 total in last 1h
+**8 new role(s)** since last run · 8 total in last 1h
 
-### [Case Manager - Heir Location & Unclaimed Property](https://www.linkedin.com/jobs/view/4445346698/) — Lauth Investigations International
-- 📍 **Location:** Boulder, CO
-- 🕒 **Posted:** 2026-07-25
-
-### [Patient Care Coordinator](https://www.linkedin.com/jobs/view/4445342873/) — Specialty1 Partners
+### [Clinical Supervisor - Behavioral Health](https://www.linkedin.com/jobs/view/4445343955/) — Behavioral Health Solutions
 - 📍 **Location:** Denver, CO
-- 💰 **Salary:** $25 - $28 USD
 - 🕒 **Posted:** 2026-07-25
 
-### [Financial Stability Program Manager](https://www.linkedin.com/jobs/view/4445353413/) — Minnesota Assistance Council for Veterans
-- 📍 **Location:** St Paul, MN
+### [Deli/Bakery Team Supervisor](https://www.linkedin.com/jobs/view/4445360114/) — Walmart
+- 📍 **Location:** Broomfield, CO
+- 💰 **Salary:** $22.00/hr - $35.00/hr
 - 🕒 **Posted:** 2026-07-25
 
-### [PROGRAM COORDINATOR](https://www.linkedin.com/jobs/view/4442321310/) — GEORGID CONSULTING
-- 📍 **Location:** Indiana, United States
+### [Case Manager / Counselor - (Bachelor's) Hamilton & McMinn](https://www.linkedin.com/jobs/view/4444806055/) — Helen Ross McNabb Center
+- 📍 **Location:** Chattanooga, TN
 - 🕒 **Posted:** 2026-07-25
 
-### [Peer Support Specialist](https://www.linkedin.com/jobs/view/4445352510/) — Community Bridges
-- 📍 **Location:** Portland, OR
+### [Program Manager, Programs](https://www.linkedin.com/jobs/view/4444813022/) — RemoteHunter
+- 📍 **Location:** United States
+- 💰 **Salary:** $73,500.00 to $84,000.00
 - 🕒 **Posted:** 2026-07-25
 
-### [Peer Support Specialist I or II](https://www.linkedin.com/jobs/view/4445348815/) — Livingston County Community Mental Health
-- 📍 **Location:** Howell, MI
-- 💰 **Salary:** $17.84 - $20.51 per hour
+### [Wellness Coordinator](https://www.linkedin.com/jobs/view/4444803075/) — RemoteHunter
+- 📍 **Location:** United States
+- 💰 **Salary:** $18 to $32
 - 🕒 **Posted:** 2026-07-25
 
-### [Overnight Certified Intentional Peer Support Specialist](https://www.linkedin.com/jobs/view/4445348757/) — Spurwink
-- 📍 **Location:** Portland, ME
+### [Pharmacy Care Coordinator](https://www.linkedin.com/jobs/view/4444811015/) — RemoteHunter
+- 📍 **Location:** United States
+- 💰 **Salary:** $18 to $32
 - 🕒 **Posted:** 2026-07-25
 
-### [Overnight Certified Intentional Peer Support Specialist](https://www.linkedin.com/jobs/view/4445352452/) — Spurwink
-- 📍 **Location:** Lewiston, ME
+### [Program Coordinator - Youth Empowerment](https://www.linkedin.com/jobs/view/4445350710/) — Royce Simmons Foundation
+- 📍 **Location:** Paris, Île-de-France, France
 - 🕒 **Posted:** 2026-07-25
 
-### [Patient Care Coordinator](https://www.linkedin.com/jobs/view/4428135636/) — Results Physiotherapy
-- 📍 **Location:** Nashville, TN
-- 🕒 **Posted:** 2026-07-25
-
-### [Adult BHH Care Coordinator (Case Manager)](https://www.linkedin.com/jobs/view/4445345792/) — Spurwink
-- 📍 **Location:** Portland, ME
-- 💰 **Salary:** $23.00 to $26.00 per hour
-- 🕒 **Posted:** 2026-07-25
-
-### [Children's BHH Care Coordinator/Case Manager](https://www.linkedin.com/jobs/view/4445337982/) — Spurwink
-- 📍 **Location:** Biddeford, ME
-- 💰 **Salary:** $23.00-$27.00 per hour
-- 🕒 **Posted:** 2026-07-25
-
-### [Discharge Supervisor (bachelors)](https://www.linkedin.com/jobs/view/4445343801/) — Community Bridges
-- 📍 **Location:** Casa Grande, AZ
-- 🕒 **Posted:** 2026-07-25
-
-### [Case Manager for Elkhart County - H&W/TBI](https://www.linkedin.com/jobs/view/4445353437/) — Indiana Professional Management Group, Inc
-- 📍 **Location:** Goshen, IN
-- 🕒 **Posted:** 2026-07-25
-
-### [Housing Specialist](https://www.linkedin.com/jobs/view/4445350480/) — QUEENSHADE LLC
-- 📍 **Location:** City of Orange, NJ
-- 🕒 **Posted:** 2026-07-25
-
-### [Youth Site Supervisor](https://www.linkedin.com/jobs/view/4445344757/) — City Of Edinburg
-- 📍 **Location:** Edinburg, TX
-- 🕒 **Posted:** 2026-07-25
-
-### [Transitional Age Youth Case Manager](https://www.linkedin.com/jobs/view/4445351579/) — Spurwink
-- 📍 **Location:** Portland, ME
+### [Case Manager ( RN )](https://www.linkedin.com/jobs/view/4442229061/) — United Energy Workers Healthcare
+- 📍 **Location:** Kansas City, MO
+- 💰 **Salary:** USD $40.00 - USD $45.00 /Hr
 - 🕒 **Posted:** 2026-07-25
