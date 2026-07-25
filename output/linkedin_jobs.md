@@ -1,45 +1,35 @@
 # 🔥 LinkedIn — Social Worker Roles
-*Last updated: 2026-07-25 22:19 UTC*
+*Last updated: 2026-07-25 23:22 UTC*
 
-**9 new role(s)** since last run · 9 total in last 1h
+**7 new role(s)** since last run · 9 total in last 1h
 
-### [STEAM Program Coordinator](https://www.linkedin.com/jobs/view/4444694175/) — California State University, Northridge
-- 📍 **Location:** Los Angeles, CA
-- 💰 **Salary:** $5274 - $6303 per month
+### [Field Care Coordinator](https://www.linkedin.com/jobs/view/4442325298/) — Humana
+- 📍 **Location:** Ocala, FL
+- 💰 **Salary:** $53,700.00/yr - $72,600.00/yr
 - 🕒 **Posted:** 2026-07-25
 
-### [Extended School Program Coordinator](https://www.linkedin.com/jobs/view/4444800107/) — Fountain Valley School District
-- 📍 **Location:** Fountain Valley, CA
-- 💰 **Salary:** $4,918 - $5,981
+### [Field Care Coordinator](https://www.linkedin.com/jobs/view/4442313670/) — Humana
+- 📍 **Location:** Gainesville, FL
+- 💰 **Salary:** $53,700.00/yr - $72,600.00/yr
 - 🕒 **Posted:** 2026-07-25
 
-### [Patient Care Coordinator](https://www.linkedin.com/jobs/view/4444692680/) — University of the Pacific
-- 📍 **Location:** Stockton, CA
+### [Substance Abuse Counselor with LCAS-A or CADC](https://www.linkedin.com/jobs/view/4444803166/) — New Season
+- 📍 **Location:** Durham, NC
 - 🕒 **Posted:** 2026-07-25
 
-### [Associate Patient Care Coordinator](https://www.linkedin.com/jobs/view/4445363118/) — Optum
-- 📍 **Location:** Worcester, MA
-- 💰 **Salary:** $16.00 to $29.00 per hour
+### [Program Coordinator](https://www.linkedin.com/jobs/view/4442307914/) — GreenHubAfrica Foundation (Climate Change Education, Advocacy & Media)
+- 📍 **Location:** Lekki, Lagos State, Nigeria
 - 🕒 **Posted:** 2026-07-25
 
-### [Clinic Case Manager](https://www.linkedin.com/jobs/view/4445362103/) — Optum
-- 📍 **Location:** Albuquerque, NM
-- 💰 **Salary:** $60,200 to $107,400 annually
+### [Social Worker LMSW (Family Medicine- Bronx)](https://www.linkedin.com/jobs/view/4442322471/) — URBAN HEALTH PLAN, INC.
+- 📍 **Location:** Bronx, NY
 - 🕒 **Posted:** 2026-07-25
 
-### [RN Field Clinical Care Coordinator - Boston](https://www.linkedin.com/jobs/view/4445344970/) — UnitedHealthcare
-- 📍 **Location:** Boston, MA
-- 💰 **Salary:** $29 - $52 per hour
+### [School Social Worker](https://www.linkedin.com/jobs/view/4445354629/) — Therapeds Partners
+- 📍 **Location:** San Mateo, CA
+- 💰 **Salary:** $55-$85
 - 🕒 **Posted:** 2026-07-25
 
-### [Clinical Case Manager - Heart and Vascular Institute Heart Failure Services](https://www.linkedin.com/jobs/view/4442656461/) — Penn State Health
-- 📍 **Location:** Hershey, PA
-- 🕒 **Posted:** 2026-07-25
-
-### [Family Support Worker](https://www.linkedin.com/jobs/view/4445353636/) — Nottinghamshire County Council
-- 📍 **Location:** Nottinghamshire, England, United Kingdom
-- 🕒 **Posted:** 2026-07-25
-
-### [Family Support Worker](https://www.linkedin.com/jobs/view/4445355444/) — Nottinghamshire County Council
-- 📍 **Location:** Nottinghamshire, England, United Kingdom
+### [Care Team Leader - Thatto Heath, St Helens](https://www.linkedin.com/jobs/view/4444802130/) — Lifeways Group
+- 📍 **Location:** St Helens, England, United Kingdom
 - 🕒 **Posted:** 2026-07-25
