@@ -1,76 +1,64 @@
 # 🔥 LinkedIn — Social Worker Roles
-*Last updated: 2026-07-25 17:25 UTC*
+*Last updated: 2026-07-25 18:19 UTC*
 
-**16 new role(s)** since last run · 17 total in last 1h
+**15 new role(s)** since last run · 21 total in last 1h
 
-### [Peer Support Specialist](https://www.linkedin.com/jobs/view/4334972992/) — Behavioral Health Solutions
-- 📍 **Location:** Spokane, WA
-- 💰 **Salary:** $22 -$25/hr
+### [Grant writer](https://www.linkedin.com/jobs/view/4442308688/) — BOULDER OPERA
+- 📍 **Location:** Boulder, CO
 - 🕒 **Posted:** 2026-07-25
 
-### [Per Diem Psychiatric Social Worker - Brooklyn Children's Mobile Crisis](https://www.linkedin.com/jobs/view/4445339560/) — VNS Health
-- 📍 **Location:** Brooklyn, NY
-- 💰 **Salary:** USD $33.85 - USD $42.33 /Hr
+### [Peer Support Specialist/Counselor (Multilingual)/Parent Education Instructor](https://www.linkedin.com/jobs/view/4444676863/) — Lutheran Community Services Northwest
+- 📍 **Location:** McMinnville, OR
 - 🕒 **Posted:** 2026-07-25
 
-### [Program Coordinator](https://www.linkedin.com/jobs/view/4428161215/) — University of Mississippi
-- 📍 **Location:** University, MS
-- 💰 **Salary:** $18.64 - $27.96
+### [Front Desk / Patient Care Coordinator](https://www.linkedin.com/jobs/view/4444681858/) — Moxley Family Dental
+- 📍 **Location:** Wichita, Kansas Metropolitan Area
 - 🕒 **Posted:** 2026-07-25
 
-### [Meeting and Education Specialist](https://www.linkedin.com/jobs/view/4445339651/) — FAMU National Alumni Association
-- 📍 **Location:** Seattle, WA
+### [CRISIS COORDINATOR & PSYCHOSOCIAL CASE MANAGER](https://www.linkedin.com/jobs/view/4444672961/) — Pulso Benelux
+- 📍 **Location:** Leuven, Flemish Region, Belgium
 - 🕒 **Posted:** 2026-07-25
 
-### [WES Health Works Centene FT Case Manager](https://www.linkedin.com/jobs/view/4427642879/) — WES HEALTH SYSTEM
-- 📍 **Location:** Chicago, IL
-- 💰 **Salary:** $35,000.00/yr - $37,740.00/yr
+### [Case Manager](https://www.linkedin.com/jobs/view/4427987843/) — WorkSafeBC
+- 📍 **Location:** Kamloops, British Columbia, Canada
 - 🕒 **Posted:** 2026-07-25
 
-### [Spiritual Care Coordinator](https://www.linkedin.com/jobs/view/4435484232/) — The Salvation Army in Canada
-- 📍 **Location:** Langley, British Columbia, Canada
-- 💰 **Salary:** $58,531.20 to $73,174.40
+### [Case Manager, Shelter (Bilingual)](https://www.linkedin.com/jobs/view/4444223875/) — Hamilton Families
+- 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-07-25
 
-### [Language & Culture Specialist II / Spanish Interpreter](https://www.linkedin.com/jobs/view/4399430465/) — Children's Hospital Los Angeles (CHLA)
-- 📍 **Location:** Los Angeles, CA
+### [Patient Care Coordinator/Intake Authorization Coordinator- Beacon Summit Woods-Sharonville](https://www.linkedin.com/jobs/view/4416318305/) — Upstream Rehabilitation
+- 📍 **Location:** Cincinnati, OH
 - 🕒 **Posted:** 2026-07-25
 
-### [Associate Program Manager](https://www.linkedin.com/jobs/view/4433723394/) — Bayshore HealthCare
-- 📍 **Location:** Mississauga, Ontario, Canada
+### [Case Manager](https://www.linkedin.com/jobs/view/4425326559/) — Houston Methodist
+- 📍 **Location:** Sugar Land, TX
 - 🕒 **Posted:** 2026-07-25
 
-### [Program Coordinator - Ortho MedSurg Unit](https://www.linkedin.com/jobs/view/4414067879/) — Trinity Health
-- 📍 **Location:** Baker City, OR
+### [Social Worker PRN](https://www.linkedin.com/jobs/view/4428364118/) — Mountain View Hospital, Payson, UT
+- 📍 **Location:** Payson, UT
 - 🕒 **Posted:** 2026-07-25
 
-### [Care Coordinator](https://www.linkedin.com/jobs/view/4423039918/) — Ennoble Care
-- 📍 **Location:** Orlando, FL
-- 💰 **Salary:** $75,000- $85,000
+### [Transition Specialist - Community Support Specialist](https://www.linkedin.com/jobs/view/4444686891/) — Greystar
+- 📍 **Location:** Dallas, TX
 - 🕒 **Posted:** 2026-07-25
 
-### [CMA Transitional Care Coordinator (Prince Georges County, MD)](https://www.linkedin.com/jobs/view/4436199596/) — Ennoble Care
-- 📍 **Location:** Prince George's County, MD
-- 💰 **Salary:** $18.00-$19.00 hourly
+### [Program Coordinator, Outreach Masters in Teaching (MAT) Program](https://www.linkedin.com/jobs/view/4444689792/) — Asian University for Women
+- 📍 **Location:** Chattogram, Bangladesh
 - 🕒 **Posted:** 2026-07-25
 
-### [Care Coordinator (Medical Receptionist/PSR)](https://www.linkedin.com/jobs/view/4442302995/) — ProRehab
-- 📍 **Location:** Louisville, KY
+### [Social Worker Supervisor I/II](https://www.linkedin.com/jobs/view/4444674870/) — Colusa Inc
+- 📍 **Location:** Colusa, CA
 - 🕒 **Posted:** 2026-07-25
 
-### [Site Supervisor](https://www.linkedin.com/jobs/view/4442306749/) — Riverside Community Care
-- 📍 **Location:** Reading, MA
+### [Supportive Care Coordinator](https://www.linkedin.com/jobs/view/4444686844/) — Dorothy Ley Hospice
+- 📍 **Location:** Indiana, United States
 - 🕒 **Posted:** 2026-07-25
 
-### [Social Worker - Parent-Child Link Specialised Co-parenting Support Centre](https://www.linkedin.com/jobs/view/4444685682/) — The Boys' and Girls' Clubs Association of Hong Kong(BGCA)
-- 📍 **Location:** Hong Kong SAR
+### [Social Worker MSW](https://www.linkedin.com/jobs/view/4418023469/) — HCA Florida Westside Hospital
+- 📍 **Location:** Plantation, FL
 - 🕒 **Posted:** 2026-07-25
 
-### [Pediatric Clinical Social Worker - LICSW](https://www.linkedin.com/jobs/view/4418012163/) — Tufts Medicine
-- 📍 **Location:** Boston, MA
-- 💰 **Salary:** $77,333.26 - $98,603.60
-- 🕒 **Posted:** 2026-07-25
-
-### [Social Worker (Clinical)](https://www.linkedin.com/jobs/view/4445352220/) — PsycCareers
-- 📍 **Location:** Fort Sill, OK
+### [Ambulatory Social Worker Ambulatory - Shelby](https://www.linkedin.com/jobs/view/4398859439/) — Trinity Health MI
+- 📍 **Location:** Shelby, MI
 - 🕒 **Posted:** 2026-07-25
