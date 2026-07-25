@@ -1,6 +1,8 @@
 # 🏛 NEOGOV — State & Local Government Social Worker Roles
-*Last updated: 2026-07-23 20:37 UTC*
+*Last updated: 2026-07-25 17:29 UTC*
 
-**0 new role(s)** since last run · 0 total in recent GovernmentJobs postings
+**1 new role(s)** since last run · 1 total in recent GovernmentJobs postings
 
-No new state/local-gov roles since the last run.
+### [Water Quality & Environmental Compliance Supervisor](https://www.governmentjobs.com/jobs/5422948-0/water-quality-environmental-compliance-supervisor) — West Basin Municipal Water District
+- 📍 **Location:** Carson, CA
+- 💰 **Salary:** $138,534.00 - $190,484.00 Annually
