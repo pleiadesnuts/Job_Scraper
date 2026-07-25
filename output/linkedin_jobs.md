@@ -1,158 +1,125 @@
 # 🔥 LinkedIn — Social Worker Roles
-*Last updated: 2026-07-24 23:30 UTC*
+*Last updated: 2026-07-25 01:13 UTC*
 
-**35 new role(s)** since last run · 35 total in last 1h
+**27 new role(s)** since last run · 27 total in last 1h
 
-### [Housing Case Manager - Must be Bilingual - Full Time](https://www.linkedin.com/jobs/view/4445256669/) — Jewish Family Service of Colorado
-- 📍 **Location:** Denver, CO
-- 💰 **Salary:** $26.00 - $38.00 per hour
-- 🕒 **Posted:** 2026-07-24
+### [Coding Education Specialist](https://www.linkedin.com/jobs/view/4445275215/) — University of Colorado Medicine
+- 📍 **Location:** Aurora, CO
+- 🕒 **Posted:** 2026-07-25
 
-### [Intake Specialist](https://www.linkedin.com/jobs/view/4444600848/) — AdaptHealth
-- 📍 **Location:** United States
-- 🕒 **Posted:** 2026-07-24
+### [Full-Time Loss Prevention Supervisor](https://www.linkedin.com/jobs/view/4445261740/) — Kohl's
+- 📍 **Location:** Parker, CO
+- 💰 **Salary:** $20.75 - $32.20 K
+- 🕒 **Posted:** 2026-07-25
 
-### [Community Outreach Specialist](https://www.linkedin.com/jobs/view/4441823510/) — UnityPoint Health
-- 📍 **Location:** Cedar Rapids, IA
-- 🕒 **Posted:** 2026-07-24
+### [Physician Coding Education Specialist](https://www.linkedin.com/jobs/view/4445271376/) — University of Colorado Medicine
+- 📍 **Location:** Aurora, CO
+- 🕒 **Posted:** 2026-07-25
 
-### [Case Manager, Integrated Care](https://www.linkedin.com/jobs/view/4444754278/) — The George Washington University
-- 📍 **Location:** Washington, DC
-- 💰 **Salary:** $47,073.26 - $64,771.35
-- 🕒 **Posted:** 2026-07-24
+### [Behavioral Health Intake Specialist](https://www.linkedin.com/jobs/view/4441841883/) — MultiCare Health System
+- 📍 **Location:** Spokane, WA
+- 💰 **Salary:** $31.32 - $45.09 USD
+- 🕒 **Posted:** 2026-07-25
 
-### [Family Home Program Coordinator](https://www.linkedin.com/jobs/view/4445242990/) — Boys Town
-- 📍 **Location:** Omaha, NE
-- 🕒 **Posted:** 2026-07-24
+### [Professional I, Behavioral Health Specialist; Permanent Supportive Housing](https://www.linkedin.com/jobs/view/4445281237/) — The Centers
+- 📍 **Location:** Cleveland, OH
+- 🕒 **Posted:** 2026-07-25
 
-### [Program Coordinator – Center for the Environment](https://www.linkedin.com/jobs/view/4444383528/) — Washington University in St. Louis
-- 📍 **Location:** St Louis, MO
-- 💰 **Salary:** $49,700.00 - $82,100.00
-- 🕒 **Posted:** 2026-07-24
+### [Program Manager I (Faculty Development and Success)](https://www.linkedin.com/jobs/view/4441856152/) — Atrium Health Wake Forest Baptist
+- 📍 **Location:** Winston-Salem, NC
+- 💰 **Salary:** $28.55 - $42.85
+- 🕒 **Posted:** 2026-07-25
 
-### [Child First Care Coordinator](https://www.linkedin.com/jobs/view/4445271000/) — UCFS Healthcare
-- 📍 **Location:** Norwich, CT
-- 🕒 **Posted:** 2026-07-24
+### [Program Manager (PHCOE)](https://www.linkedin.com/jobs/view/4441847823/) — The Henry M. Jackson Foundation for the Advancement of Military Medicine
+- 📍 **Location:** Silver Spring, MD
+- 💰 **Salary:** $93,100-$150,000
+- 🕒 **Posted:** 2026-07-25
 
-### [Community Health Worker, Moving Mothers Health Forward Program](https://www.linkedin.com/jobs/view/4441855224/) — CAMBA
-- 📍 **Location:** Brooklyn, NY
-- 🕒 **Posted:** 2026-07-24
+### [Chief of Strategic Planning and Administration (CSPA) PROGRAM MANAGER SENIOR V](https://www.linkedin.com/jobs/view/4445285112/) — State of Maryland
+- 📍 **Location:** Maryland, United States
+- 🕒 **Posted:** 2026-07-25
 
-### [Social Worker](https://www.linkedin.com/jobs/view/4441859027/) — Harrison School District 2
-- 📍 **Location:** Colorado Springs, CO
-- 🕒 **Posted:** 2026-07-24
+### [Intake Specialist](https://www.linkedin.com/jobs/view/4445268706/) — Ontario Labour Market Report
+- 📍 **Location:** York, Ontario, Canada
+- 🕒 **Posted:** 2026-07-25
 
-### [Substance Abuse Counselor II (Triumph Unit) - Springfield, IL](https://www.linkedin.com/jobs/view/4444027641/) — Gateway Foundation
-- 📍 **Location:** Springfield, IL
-- 💰 **Salary:** $25.64 - $32.28 per hour
-- 🕒 **Posted:** 2026-07-24
+### [Social Worker](https://www.linkedin.com/jobs/view/4444620761/) — Nampa School District
+- 📍 **Location:** Nampa, ID
+- 🕒 **Posted:** 2026-07-25
 
-### [Substance Abuse Counselor (Hybrid)](https://www.linkedin.com/jobs/view/4444603757/) — Behavioral Health Group - BHG
-- 📍 **Location:** Spartanburg, SC
-- 💰 **Salary:** $23 - $26/hr
-- 🕒 **Posted:** 2026-07-24
+### [Advocate / Survivor Advocacy Coordinator I](https://www.linkedin.com/jobs/view/4444621652/) — Michigan State University College of Engineering
+- 📍 **Location:** East Lansing, MI
+- 🕒 **Posted:** 2026-07-25
 
-### [Crisis Peer Support Specialist - Port Orchard (30 Hours)](https://www.linkedin.com/jobs/view/4445245867/) — Kitsap Mental Health Services
-- 📍 **Location:** Bremerton, WA
-- 💰 **Salary:** $22.90 - $28.06 Per Hour
-- 🕒 **Posted:** 2026-07-24
+### [Community Health Worker](https://www.linkedin.com/jobs/view/4444616942/) — COPE Health Solutions
+- 📍 **Location:** Sacramento, CA
+- 💰 **Salary:** $26.00 - $30.00 per hour
+- 🕒 **Posted:** 2026-07-25
 
-### [QMHP Liaison TCOOMMI (Mental Health Case Manager)](https://www.linkedin.com/jobs/view/4431618107/) — Metrocare Services
-- 📍 **Location:** Dallas, TX
-- 🕒 **Posted:** 2026-07-24
+### [Case Manager](https://www.linkedin.com/jobs/view/4445266635/) — Maximus
+- 📍 **Location:** Burbank, CA
+- 💰 **Salary:** $22.00 - $22.00
+- 🕒 **Posted:** 2026-07-25
 
-### [Patient Care Coordinator](https://www.linkedin.com/jobs/view/4445268094/) — AltaMed Health Services
-- 📍 **Location:** Commerce, CA
-- 💰 **Salary:** $25.00 - $31.03 hourly
-- 🕒 **Posted:** 2026-07-24
+### [Program Manager in Bangalore | Swasti](https://www.linkedin.com/jobs/view/4441853446/) — aikyam jobs
+- 📍 **Location:** Bengaluru, Karnataka, India
+- 🕒 **Posted:** 2026-07-25
 
-### [Peer Support Specialist I](https://www.linkedin.com/jobs/view/4445249908/) — RI International
-- 📍 **Location:** Pachuca, Hidalgo, Mexico
-- 🕒 **Posted:** 2026-07-24
+### [Branch Care Coordinator](https://www.linkedin.com/jobs/view/4445273380/) — Air Liquide Healthcare
+- 📍 **Location:** Invermere, British Columbia, Canada
+- 🕒 **Posted:** 2026-07-25
 
-### [24/7 Peer Supervisor](https://www.linkedin.com/jobs/view/4445241990/) — Kitsap Mental Health Services
-- 📍 **Location:** Bremerton, WA
-- 💰 **Salary:** $36.15 - $38.53 per hour
-- 🕒 **Posted:** 2026-07-24
+### [Patient Care Coordinator - Kadlec - Multiple Clinics/Centralized Staffing](https://www.linkedin.com/jobs/view/4444637393/) — Kadlec
+- 📍 **Location:** Richland, WA
+- 💰 **Salary:** $20.92/hr - $32.00/hr
+- 🕒 **Posted:** 2026-07-25
 
-### [Patient Care Coordinator](https://www.linkedin.com/jobs/view/4445257589/) — Pastel Health
-- 📍 **Location:** Leyton, England, United Kingdom
-- 🕒 **Posted:** 2026-07-24
+### [Community Care Coordinator](https://www.linkedin.com/jobs/view/4445276216/) — Hanger, Inc.
+- 📍 **Location:** Little Rock Metropolitan Area
+- 🕒 **Posted:** 2026-07-25
 
-### [ADON Health and Wellness Coordinator](https://www.linkedin.com/jobs/view/4444614534/) — Brookdale
-- 📍 **Location:** Everett, WA
-- 💰 **Salary:** $37.31/hr - $57.74/hr
-- 🕒 **Posted:** 2026-07-24
+### [Healthcare Coordinator](https://www.linkedin.com/jobs/view/4445276239/) — PDS Health
+- 📍 **Location:** McDonough, GA
+- 💰 **Salary:** $18.00/hr - $25.50/hr
+- 🕒 **Posted:** 2026-07-25
 
-### [Associate Health Educator (DOH/PHD NW Region #11254)](https://www.linkedin.com/jobs/view/4441858104/) — New Mexico Department of Health
-- 📍 **Location:** Albuquerque, NM
-- 💰 **Salary:** $20.56 - $30.85 Hourly
-- 🕒 **Posted:** 2026-07-24
+### [Patient Care Coordinator](https://www.linkedin.com/jobs/view/4445287085/) — BenchMark Physical Therapy
+- 📍 **Location:** Gresham, OR
+- 🕒 **Posted:** 2026-07-25
 
-### [Transition Care Coordinator - PCC - Full Time/Days - Req #2117983517](https://www.linkedin.com/jobs/view/4445254651/) — Antelope Valley Medical Center
-- 📍 **Location:** Lancaster, CA
-- 🕒 **Posted:** 2026-07-24
+### [Healthcare Coordinator](https://www.linkedin.com/jobs/view/4445260685/) — PDS Health
+- 📍 **Location:** San Antonio, TX
+- 💰 **Salary:** $15.75/hr - $22.00/hr
+- 🕒 **Posted:** 2026-07-25
 
-### [Home Visit Program Coordinator](https://www.linkedin.com/jobs/view/4445269058/) — AltaMed Health Services
-- 📍 **Location:** Anaheim, CA
-- 💰 **Salary:** $26.91 - $33.53 hourly
-- 🕒 **Posted:** 2026-07-24
+### [Case Manager ERF](https://www.linkedin.com/jobs/view/4444634414/) — LifeMoves
+- 📍 **Location:** San Mateo, CA
+- 💰 **Salary:** $25.50/hr - $38.50/hr
+- 🕒 **Posted:** 2026-07-25
 
-### [Clinic Care Coordinator](https://www.linkedin.com/jobs/view/4445250937/) — AltaMed Health Services
-- 📍 **Location:** Commerce, CA
-- 💰 **Salary:** $25.00 - $31.25 hourly
-- 🕒 **Posted:** 2026-07-24
+### [Social Worker](https://www.linkedin.com/jobs/view/4441862070/) — Legal Aid Chicago
+- 📍 **Location:** Chicago, IL
+- 💰 **Salary:** $65,803-$71,001,
+- 🕒 **Posted:** 2026-07-25
 
-### [Case Manager, Health Home Plus](https://www.linkedin.com/jobs/view/4441841759/) — CAMBA
-- 📍 **Location:** Brooklyn, NY
-- 🕒 **Posted:** 2026-07-24
+### [Lead Licensed Mental Health Counselor LMHC Supervisor](https://www.linkedin.com/jobs/view/4445270760/) — Ellie Mental Health-Capital Region NY
+- 📍 **Location:** Newton, MA
+- 💰 **Salary:** $83,000 - $123,000
+- 🕒 **Posted:** 2026-07-25
 
-### [Youth Care Specialist Supervisor](https://www.linkedin.com/jobs/view/4444600849/) — Children's Network of Hillsborough
-- 📍 **Location:** Lutz, FL
-- 🕒 **Posted:** 2026-07-24
+### [Part-time Veterinary Receptionist, Swing Shift (Care Coordinator) - Crestview Animal Hospital & Emergency](https://www.linkedin.com/jobs/view/4445263633/) — PetVet Care Centers
+- 📍 **Location:** Cumming, GA
+- 💰 **Salary:** $16—$19 USD
+- 🕒 **Posted:** 2026-07-25
 
-### [Quality Assurance Policy & Program Coordinator](https://www.linkedin.com/jobs/view/4445272013/) — TimelyCare
-- 📍 **Location:** Fort Worth, TX
-- 💰 **Salary:** $65,000-$70,000 per year
-- 🕒 **Posted:** 2026-07-24
+### [Social Worker/Counselor II - Mental Health - SCCF 10251](https://www.linkedin.com/jobs/view/4444634078/) — Colorado Department of Corrections
+- 📍 **Location:** Pueblo, CO
+- 🕒 **Posted:** 2026-07-25
 
-### [Case Manager , CAMBA Gardens II Supportive Housing (CGII)](https://www.linkedin.com/jobs/view/4441553181/) — CAMBA
-- 📍 **Location:** Brooklyn, NY
-- 🕒 **Posted:** 2026-07-24
+### [Care Manager - Social Worker](https://www.linkedin.com/jobs/view/4444620404/) — Provident Behavioral Health
+- 📍 **Location:** Seattle, WA
+- 🕒 **Posted:** 2026-07-25
 
-### [Housing Support Case Manager](https://www.linkedin.com/jobs/view/4445257667/) — Claratel Behavioral Health
-- 📍 **Location:** Decatur, GA
-- 🕒 **Posted:** 2026-07-24
-
-### [Case Manager](https://www.linkedin.com/jobs/view/4444600917/) — The Salvation Army North & Central Illinois Division
-- 📍 **Location:** Duluth, MN
-- 💰 **Salary:** $20.81 to $23.29 per hour
-- 🕒 **Posted:** 2026-07-24
-
-### [Child and Family Service Case Manager](https://www.linkedin.com/jobs/view/4441844681/) — State of Iowa - Executive Branch
-- 📍 **Location:** Sioux City, IA
-- 🕒 **Posted:** 2026-07-24
-
-### [Correctional Case Manager](https://www.linkedin.com/jobs/view/4444607766/) — State of Oklahoma
-- 📍 **Location:** Atoka, OK
-- 🕒 **Posted:** 2026-07-24
-
-### [Team Leader (Days) Lighthouse Care](https://www.linkedin.com/jobs/view/4441835963/) — Bloomcare Group
-- 📍 **Location:** Manchester, England, United Kingdom
-- 🕒 **Posted:** 2026-07-24
-
-### [Child & Family Services Case Manager](https://www.linkedin.com/jobs/view/4441836902/) — State of Iowa - Executive Branch
-- 📍 **Location:** Des Moines, IA
-- 🕒 **Posted:** 2026-07-24
-
-### [Social Worker I (PO/DL) - Hilo, Hawaii](https://www.linkedin.com/jobs/view/4441858103/) — Hawai`i State Judiciary
-- 📍 **Location:** Hilo, HI
-- 🕒 **Posted:** 2026-07-24
-
-### [Child and Adolescent Case Manager](https://www.linkedin.com/jobs/view/4445264289/) — Claratel Behavioral Health
-- 📍 **Location:** Decatur, GA
-- 🕒 **Posted:** 2026-07-24
-
-### [Social Worker](https://www.linkedin.com/jobs/view/4441852300/) — Houston Methodist
-- 📍 **Location:** Cypress, TX
-- 🕒 **Posted:** 2026-07-24
+### [Clinical Social Worker, MSW, Weekend Days](https://www.linkedin.com/jobs/view/4444631310/) — Affinity Home Health Care Inc
+- 📍 **Location:** Boston, MA
+- 🕒 **Posted:** 2026-07-25
