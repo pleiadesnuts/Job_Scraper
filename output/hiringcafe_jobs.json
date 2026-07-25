@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-07-25 04:57 UTC",
-  "total": 96,
-  "new_count": 1,
+  "scraped_at": "2026-07-25 17:49 UTC",
+  "total": 95,
+  "new_count": 2,
   "jobs": [
     {
       "company": "-",
@@ -228,20 +228,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Community Healthcare of Texas",
-      "title": "Social Worker",
-      "location": "Fort Worth, Texas, United States",
-      "url": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=bd15269d-4e6f-4700-a232-f9cbffb8d51a&ccId=19000101_000001&jobId=580314&lang=en_US",
-      "direct_url": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=bd15269d-4e6f-4700-a232-f9cbffb8d51a&ccId=19000101_000001&jobId=580314&lang=en_US",
-      "date_posted": "2026-07-02T13:48:00.000Z",
-      "description": "BSW with 1 year required (Master's preferred), Texas state social worker license, valid driver's license and reliable transportation, computer proficiency, hospice/healthcare experience preferred.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "University of Utah Health",
       "title": "Social Worker",
       "location": "Salt Lake City, Utah, United States",
@@ -251,6 +237,20 @@
       "description": "Provides psychosocial assessment, counseling, case management, and community resource coordination; requires L.C.S.W. or Certified Social Worker in Utah and RQI eCredential; must perform moderate physical tasks.",
       "salary": "",
       "job_type": "Part Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Community Healthcare of Texas",
+      "title": "Social Worker",
+      "location": "Fort Worth, Texas, United States",
+      "url": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=bd15269d-4e6f-4700-a232-f9cbffb8d51a&ccId=19000101_000001&jobId=580314&lang=en_US",
+      "direct_url": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=bd15269d-4e6f-4700-a232-f9cbffb8d51a&ccId=19000101_000001&jobId=580314&lang=en_US",
+      "date_posted": "2026-07-02T13:48:00.000Z",
+      "description": "BSW with 1 year required (Master's preferred), Texas state social worker license, valid driver's license and reliable transportation, computer proficiency, hospice/healthcare experience preferred.",
+      "salary": "",
+      "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
       "ats": "HiringCafe"
@@ -438,20 +438,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Vincennes University",
-      "title": "Case Manager",
-      "location": "Vincennes or Gibson County",
-      "url": "https://secure7.saashr.com/ta/6051788.careers?ShowJob=604474824",
-      "direct_url": "https://secure7.saashr.com/ta/6051788.careers?ShowJob=604474824",
-      "date_posted": "2026-06-29T17:46:48.224Z",
-      "description": "Provide options counseling and case management, conduct assessments and home visits, develop person-centered plans, link clients to community resources; must obtain Division of Aging Case Management certification within six months.",
-      "salary": "$36k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Crossroads Talent Solutions",
       "title": "Lead Case Manager",
       "location": "Columbus, Ohio, United States",
@@ -459,20 +445,6 @@
       "direct_url": "https://crossroads-talent-solutions-llc.breezy.hr/p/c86dd4d27d3c-lead-case-manager",
       "date_posted": "2026-07-14T18:32:58.585Z",
       "description": "Ohio LPN, Direct Service Social Worker, or bachelor's in health-related field; 3+ years case management experience; supervisory experience; MEB experience; Microsoft Office 365 proficiency; ability to obtain CAC and complete Army/DoD training.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "EHC Career Site",
-      "title": "Case Manager",
-      "location": "Columbus, Georgia, United States",
-      "url": "https://ibwsjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/2532539",
-      "direct_url": "https://ibwsjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/2532539",
-      "date_posted": "2026-07-15T16:56:15.000Z",
-      "description": "Coordinate interdisciplinary care, manage discharge planning, complete case management documentation, and meet certification eligibility within two years.",
       "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
@@ -586,6 +558,20 @@
       "date_posted": "2026-07-22T18:50:44.359Z",
       "description": "Minimum 6 months case management experience, strong communication, organization, ability to learn new systems, client-focused and coachable.",
       "salary": "$46k–$50k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Ascension Recovery Services",
+      "title": "Case Manager",
+      "location": "Muncie, Indiana, United States",
+      "url": "https://ascensionrecovery.bamboohr.com/careers/899",
+      "direct_url": "https://ascensionrecovery.bamboohr.com/careers/899",
+      "date_posted": "2026-07-17T00:00:00.000Z",
+      "description": "Provide case management, discharge planning, resource coordination, EHR documentation, and advocacy for clients with substance use and mental health needs.",
+      "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
@@ -1138,20 +1124,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "The Harris Center for Mental Health and IDD",
-      "title": "Community Health Worker",
-      "location": "Houston, Texas, United States",
-      "url": "https://prd01-hcm01.prd.mykronos.com/ta/6140328.careers?ShowJob=2117973432",
-      "direct_url": "https://prd01-hcm01.prd.mykronos.com/ta/6140328.careers?ShowJob=2117973432",
-      "date_posted": "2026-07-15T14:33:38.802Z",
-      "description": "DSHS-certified Community Health Worker (or ability to obtain), high school diploma/GED, 1+ year related experience, strong communication, basic Microsoft Word/Excel skills, ability to work in community settings.",
-      "salary": "$46k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Essentiahealth",
       "title": "Community Health Worker",
       "location": "Grand Rapids, Minnesota, United States",
@@ -1334,6 +1306,20 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "Rural Resources Community Action",
+      "title": "Community Health Worker – Community Connect",
+      "location": "Colville, Washington, United States",
+      "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4313469",
+      "direct_url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4313469",
+      "date_posted": "2026-07-07T22:22:07.000Z",
+      "description": "High school diploma/GED required; CHW and health benefit exchange training (or willingness to complete); valid driver's license, reliable transportation, and auto insurance; background check required; First Aid/CPR preferred.",
+      "salary": "$45k–$49k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
       "company": "Hearing and Speech Center of Florida",
       "title": "Administratative -Patient Care Coordinator-Therapy / Medical Nonprofit Organization",
       "location": "Miami, Florida, United States",
@@ -1350,15 +1336,29 @@
   ],
   "new_jobs": [
     {
-      "company": "University of Utah Health",
-      "title": "Social Worker",
-      "location": "Salt Lake City, Utah, United States",
-      "url": "https://careers-uuhc.icims.com/jobs/84616/social-worker/job?in_iframe=1",
-      "direct_url": "https://careers-uuhc.icims.com/jobs/84616/social-worker/job?in_iframe=1",
-      "date_posted": "2026-07-15T06:00:00.000Z",
-      "description": "Provides psychosocial assessment, counseling, case management, and community resource coordination; requires L.C.S.W. or Certified Social Worker in Utah and RQI eCredential; must perform moderate physical tasks.",
+      "company": "Ascension Recovery Services",
+      "title": "Case Manager",
+      "location": "Muncie, Indiana, United States",
+      "url": "https://ascensionrecovery.bamboohr.com/careers/899",
+      "direct_url": "https://ascensionrecovery.bamboohr.com/careers/899",
+      "date_posted": "2026-07-17T00:00:00.000Z",
+      "description": "Provide case management, discharge planning, resource coordination, EHR documentation, and advocacy for clients with substance use and mental health needs.",
       "salary": "",
-      "job_type": "Part Time",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Rural Resources Community Action",
+      "title": "Community Health Worker – Community Connect",
+      "location": "Colville, Washington, United States",
+      "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4313469",
+      "direct_url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4313469",
+      "date_posted": "2026-07-07T22:22:07.000Z",
+      "description": "High school diploma/GED required; CHW and health benefit exchange training (or willingness to complete); valid driver's license, reliable transportation, and auto insurance; background check required; First Aid/CPR preferred.",
+      "salary": "$45k–$49k/yr",
+      "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
       "ats": "HiringCafe"
