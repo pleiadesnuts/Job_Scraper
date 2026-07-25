@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-07-23 20:22 UTC",
-  "total": 7,
+  "scraped_at": "2026-07-25 17:13 UTC",
+  "total": 8,
   "new_count": 0,
   "jobs": [
     {
@@ -38,6 +38,18 @@
       "telework": "In Office",
       "job_type": "Permanent, Full Time",
       "work_arrangement": "On-site"
+    },
+    {
+      "company": "Department of Insurance",
+      "title": "Sustainable Insurance and Protection Gap Research Supervisor",
+      "location": "Sacramento County",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=525645",
+      "date_posted": "2026-07-23",
+      "salary": "$8266.00 - $10269.00",
+      "ats": "CalCareers",
+      "telework": "Hybrid",
+      "job_type": "Permanent, Full Time",
+      "work_arrangement": "Telecommute eligible"
     },
     {
       "company": "Department of Corrections & Rehabilitation",
