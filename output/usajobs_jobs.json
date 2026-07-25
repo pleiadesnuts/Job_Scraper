@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-07-24 20:08 UTC",
-  "total": 17,
-  "new_count": 15,
+  "scraped_at": "2026-07-25 16:32 UTC",
+  "total": 16,
+  "new_count": 1,
   "jobs": [
     {
       "company": "Veterans Health Administration",
@@ -68,15 +68,6 @@
     },
     {
       "company": "Veterans Health Administration",
-      "title": "Registered Nurse - Polytrauma/Pain Management Case Manager",
-      "location": "Martinsburg, West Virginia",
-      "url": "https://www.usajobs.gov/job/877747700",
-      "date_posted": "2026-07-23",
-      "salary": "Starting at $70,938 Per year (VN 00)",
-      "ats": "USAJOBS"
-    },
-    {
-      "company": "Veterans Health Administration",
       "title": "Registered Nurse - Community Care Case Manager",
       "location": "Columbia, South Carolina",
       "url": "https://www.usajobs.gov/job/877527600",
@@ -103,6 +94,15 @@
       "ats": "USAJOBS"
     },
     {
+      "company": "Army National Guard Units",
+      "title": "SOCIAL WORKER",
+      "location": "Carson City, Nevada",
+      "url": "https://www.usajobs.gov/job/878003400",
+      "date_posted": "2026-07-24",
+      "salary": "Starting at $99,218 Per year (GS 12)",
+      "ats": "USAJOBS"
+    },
+    {
       "company": "Bureau of Prisons/Federal Prison System",
       "title": "Social Worker",
       "location": "Gregg Township, Pennsylvania",
@@ -136,15 +136,6 @@
       "url": "https://www.usajobs.gov/job/877754600",
       "date_posted": "2026-07-23",
       "salary": "Starting at $102,415 Per year (NF 4)",
-      "ats": "USAJOBS"
-    },
-    {
-      "company": "Veterans Health Administration",
-      "title": "Senior Social Worker - VJP Specialist",
-      "location": "Anchorage, Alaska",
-      "url": "https://www.usajobs.gov/job/877674300",
-      "date_posted": "2026-07-23",
-      "salary": "Starting at $106,811 Per year (GS 12)",
       "ats": "USAJOBS"
     },
     {
@@ -159,138 +150,12 @@
   ],
   "new_jobs": [
     {
-      "company": "Veterans Health Administration",
-      "title": "Social Worker - Acute Inpatient Medicine",
-      "location": "Iowa City, Iowa",
-      "url": "https://www.usajobs.gov/job/877992900",
+      "company": "Army National Guard Units",
+      "title": "SOCIAL WORKER",
+      "location": "Carson City, Nevada",
+      "url": "https://www.usajobs.gov/job/878003400",
       "date_posted": "2026-07-24",
-      "salary": "Starting at $66,958 Per year (GS 9-11)",
-      "ats": "USAJOBS"
-    },
-    {
-      "company": "Veterans Health Administration",
-      "title": "Senior Social Worker- Substance Use Disorder Services",
-      "location": "Johnson City, Tennessee",
-      "url": "https://www.usajobs.gov/job/877933000",
-      "date_posted": "2026-07-24",
-      "salary": "Starting at $94,424 Per year (GS 12)",
-      "ats": "USAJOBS"
-    },
-    {
-      "company": "Veterans Health Administration",
-      "title": "Social Worker - HUD-VASH",
-      "location": "Grand Junction, Colorado",
-      "url": "https://www.usajobs.gov/job/877922300",
-      "date_posted": "2026-07-24",
-      "salary": "Starting at $68,350 Per year (GS 9-11)",
-      "ats": "USAJOBS"
-    },
-    {
-      "company": "Veterans Health Administration",
-      "title": "Social Worker (Home-Based Primary Care)",
-      "location": "Walla Walla, Washington",
-      "url": "https://www.usajobs.gov/job/877824400",
-      "date_posted": "2026-07-23",
-      "salary": "Starting at $73,246 Per year (GS 9-11)",
-      "ats": "USAJOBS"
-    },
-    {
-      "company": "Veterans Health Administration",
-      "title": "Housekeeping Aid Supervisor",
-      "location": "McClellan, California",
-      "url": "https://www.usajobs.gov/job/877800200",
-      "date_posted": "2026-07-23",
-      "salary": "Starting at $29.28 Per hour (WS 2)",
-      "ats": "USAJOBS"
-    },
-    {
-      "company": "Veterans Health Administration",
-      "title": "Senior Social Worker",
-      "location": "Coralville, Iowa",
-      "url": "https://www.usajobs.gov/job/877790100",
-      "date_posted": "2026-07-23",
-      "salary": "Starting at $97,100 Per year (GS 12)",
-      "ats": "USAJOBS"
-    },
-    {
-      "company": "Veterans Health Administration",
-      "title": "Senior Social Worker",
-      "location": "Rancho Cucamonga, California",
-      "url": "https://www.usajobs.gov/job/877780900",
-      "date_posted": "2026-07-23",
-      "salary": "Starting at $114,695 Per year (GS 12)",
-      "ats": "USAJOBS"
-    },
-    {
-      "company": "Veterans Health Administration",
-      "title": "Registered Nurse - Polytrauma/Pain Management Case Manager",
-      "location": "Martinsburg, West Virginia",
-      "url": "https://www.usajobs.gov/job/877747700",
-      "date_posted": "2026-07-23",
-      "salary": "Starting at $70,938 Per year (VN 00)",
-      "ats": "USAJOBS"
-    },
-    {
-      "company": "Veterans Health Administration",
-      "title": "Registered Nurse - Community Care Case Manager",
-      "location": "Columbia, South Carolina",
-      "url": "https://www.usajobs.gov/job/877527600",
-      "date_posted": "2026-07-24",
-      "salary": "Starting at $80,126 Per year (VN 00)",
-      "ats": "USAJOBS"
-    },
-    {
-      "company": "Veterans Health Administration",
-      "title": "Registered Nurse -Community Care Case Manager",
-      "location": "Columbia, South Carolina",
-      "url": "https://www.usajobs.gov/job/877570600",
-      "date_posted": "2026-07-23",
-      "salary": "Starting at $80,126 Per year (VN 00)",
-      "ats": "USAJOBS"
-    },
-    {
-      "company": "Bureau of Prisons/Federal Prison System",
-      "title": "Social Worker",
-      "location": "Gregg Township, Pennsylvania",
-      "url": "https://www.usajobs.gov/job/877944100",
-      "date_posted": "2026-07-24",
-      "salary": "Starting at $74,678 Per year (GS 11)",
-      "ats": "USAJOBS"
-    },
-    {
-      "company": "Bureau of Prisons/Federal Prison System",
-      "title": "Social Worker",
-      "location": "Marion, Illinois",
-      "url": "https://www.usajobs.gov/job/877893500",
-      "date_posted": "2026-07-24",
-      "salary": "Starting at $74,678 Per year (GS 11)",
-      "ats": "USAJOBS"
-    },
-    {
-      "company": "Veterans Health Administration",
-      "title": "Social Worker (Readjustment Counselor)",
-      "location": "San Juan, Puerto Rico",
-      "url": "https://www.usajobs.gov/job/877835100",
-      "date_posted": "2026-07-23",
-      "salary": "Starting at $61,722 Per year (GS 9-11)",
-      "ats": "USAJOBS"
-    },
-    {
-      "company": "U.S. Marine Corps",
-      "title": "New Parent Support Program Manager NF4",
-      "location": "Quantico, Virginia",
-      "url": "https://www.usajobs.gov/job/877754600",
-      "date_posted": "2026-07-23",
-      "salary": "Starting at $102,415 Per year (NF 4)",
-      "ats": "USAJOBS"
-    },
-    {
-      "company": "Veterans Health Administration",
-      "title": "Senior Social Worker - VJP Specialist",
-      "location": "Anchorage, Alaska",
-      "url": "https://www.usajobs.gov/job/877674300",
-      "date_posted": "2026-07-23",
-      "salary": "Starting at $106,811 Per year (GS 12)",
+      "salary": "Starting at $99,218 Per year (GS 12)",
       "ats": "USAJOBS"
     }
   ]
