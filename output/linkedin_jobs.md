@@ -1,39 +1,41 @@
 # 🔥 LinkedIn — Social Worker Roles
-*Last updated: 2026-07-26 21:21 UTC*
+*Last updated: 2026-07-26 22:22 UTC*
 
-**8 new role(s)** since last run · 8 total in last 1h
+**9 new role(s)** since last run · 9 total in last 1h
 
-### [Housing Specialist](https://www.linkedin.com/jobs/view/4445229972/) — Merakey
-- 📍 **Location:** Monaca, PA
+### [Retail Supervisor-Centennial Promenade](https://www.linkedin.com/jobs/view/4445641569/) — Bath & Body Works
+- 📍 **Location:** Englewood, CO
 - 🕒 **Posted:** 2026-07-26
 
-### [Community Case Manager](https://www.linkedin.com/jobs/view/4445237510/) — Merakey
-- 📍 **Location:** Shreveport, LA
+### [Retail Supervisor-OUTLETS AT CASTLE ROCK](https://www.linkedin.com/jobs/view/4445649559/) — Bath & Body Works
+- 📍 **Location:** Castle Rock, CO
 - 🕒 **Posted:** 2026-07-26
 
-### [Care Coordinator Auth Scheduling Specialist](https://www.linkedin.com/jobs/view/4444856230/) — Atrium Health
-- 📍 **Location:** Charlotte, NC
-- 💰 **Salary:** $20.80 - $31.20
+### [Retail Supervisor-PARK MEADOWS](https://www.linkedin.com/jobs/view/4445641613/) — Bath & Body Works
+- 📍 **Location:** Lone Tree, CO
 - 🕒 **Posted:** 2026-07-26
 
-### [Shelter Supervisor](https://www.linkedin.com/jobs/view/4444037282/) — Montgomery County, PA
-- 📍 **Location:** Norristown, PA
-- 💰 **Salary:** $28.16/hr - $37.55/hr
+### [ICW Foster Care Program Coordinator](https://www.linkedin.com/jobs/view/4445646680/) — White Earth Public Works
+- 📍 **Location:** White Earth, MN
 - 🕒 **Posted:** 2026-07-26
 
-### [Program Manager](https://www.linkedin.com/jobs/view/4444869161/) — NeuLife Neurological Services, LLC
-- 📍 **Location:** Bowling Green Metropolitan Area
+### [Field Care Coordinator - Brentwood, TN](https://www.linkedin.com/jobs/view/4445646651/) — UnitedHealthcare
+- 📍 **Location:** Brentwood, TN
+- 💰 **Salary:** $29.00 to $52.00 per hour
 - 🕒 **Posted:** 2026-07-26
 
-### [Employment Counselors](https://www.linkedin.com/jobs/view/4445647402/) — FMS Workforce Development Board
-- 📍 **Location:** Indiana, United States
+### [Juvenile Wellness Case Manager](https://www.linkedin.com/jobs/view/4445631716/) — White Earth Public Works
+- 📍 **Location:** White Earth, MN
 - 🕒 **Posted:** 2026-07-26
 
-### [Program Coordinator II (Hybrid) - Molecular Microbiology](https://www.linkedin.com/jobs/view/4444868125/) — Society for Industrial Microbiology and Biotechnology
-- 📍 **Location:** St Louis, MO
-- 💰 **Salary:** $23.37 - $36.19
+### [Family Support Worker](https://www.linkedin.com/jobs/view/4445649602/) — Nottinghamshire County Council
+- 📍 **Location:** Nottinghamshire, England, United Kingdom
 - 🕒 **Posted:** 2026-07-26
 
-### [California Spanish speaking Clinical Social Worker, On-site](https://www.linkedin.com/jobs/view/4445643370/) — BayCal Health Providers
-- 📍 **Location:** Fremont, CA
+### [Family Support Worker](https://www.linkedin.com/jobs/view/4445630688/) — Nottinghamshire County Council
+- 📍 **Location:** Nottinghamshire, England, United Kingdom
+- 🕒 **Posted:** 2026-07-26
+
+### [ICW Family Preservation Social Worker](https://www.linkedin.com/jobs/view/4445640691/) — White Earth Public Works
+- 📍 **Location:** White Earth, MN
 - 🕒 **Posted:** 2026-07-26
