@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-07-26 21:47 UTC",
+  "scraped_at": "2026-07-26 22:47 UTC",
   "total": 92,
   "new_count": 0,
   "jobs": [
@@ -214,20 +214,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "University of Utah Health",
-      "title": "Social Worker",
-      "location": "Salt Lake City, Utah, United States",
-      "url": "https://careers-uuhc.icims.com/jobs/84616/social-worker/job?in_iframe=1",
-      "direct_url": "https://careers-uuhc.icims.com/jobs/84616/social-worker/job?in_iframe=1",
-      "date_posted": "2026-07-15T06:00:00.000Z",
-      "description": "Provides psychosocial assessment, counseling, case management, and community resource coordination; requires L.C.S.W. or Certified Social Worker in Utah and RQI eCredential; must perform moderate physical tasks.",
-      "salary": "",
-      "job_type": "Part Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Community Healthcare of Texas",
       "title": "Social Worker",
       "location": "Fort Worth, Texas, United States",
@@ -237,6 +223,20 @@
       "description": "BSW with 1 year required (Master's preferred), Texas state social worker license, valid driver's license and reliable transportation, computer proficiency, hospice/healthcare experience preferred.",
       "salary": "",
       "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "University of Utah Health",
+      "title": "Social Worker",
+      "location": "Salt Lake City, Utah, United States",
+      "url": "https://careers-uuhc.icims.com/jobs/84616/social-worker/job?in_iframe=1",
+      "direct_url": "https://careers-uuhc.icims.com/jobs/84616/social-worker/job?in_iframe=1",
+      "date_posted": "2026-07-15T06:00:00.000Z",
+      "description": "Provides psychosocial assessment, counseling, case management, and community resource coordination; requires L.C.S.W. or Certified Social Worker in Utah and RQI eCredential; must perform moderate physical tasks.",
+      "salary": "",
+      "job_type": "Part Time",
       "is_remote": false,
       "work_arrangement": "On-site",
       "ats": "HiringCafe"
@@ -312,6 +312,20 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "Catholic Charities Diocese of Cleveland",
+      "title": "Case Manager",
+      "location": "Painesville, Ohio, United States",
+      "url": "https://recruiting.ultipro.com/cat1012cacsc/JobBoard/41d1a852-e913-429a-93ff-1d024bc3206d/OpportunityDetail?opportunityId=d0772263-887f-4760-8ad0-293234407928",
+      "direct_url": "https://recruiting.ultipro.com/cat1012cacsc/JobBoard/41d1a852-e913-429a-93ff-1d024bc3206d/OpportunityDetail?opportunityId=d0772263-887f-4760-8ad0-293234407928",
+      "date_posted": "2026-07-20T18:13:42.282Z",
+      "description": "1–2 years case management experience; experience with justice-involved families, community outreach, in-home and office service delivery; ability to manage cases, document in EMR, and work independently.",
+      "salary": "",
+      "job_type": "Part Time",
+      "is_remote": false,
+      "work_arrangement": "Telecommute eligible",
+      "ats": "HiringCafe"
+    },
+    {
       "company": "Calcasieu Parish Police Jury, LA",
       "title": "CASE MANAGER",
       "location": "Lake Charles, Louisiana, United States",
@@ -337,20 +351,6 @@
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Catholic Charities Diocese of Cleveland",
-      "title": "Case Manager",
-      "location": "Painesville, Ohio, United States",
-      "url": "https://recruiting.ultipro.com/cat1012cacsc/JobBoard/41d1a852-e913-429a-93ff-1d024bc3206d/OpportunityDetail?opportunityId=d0772263-887f-4760-8ad0-293234407928",
-      "direct_url": "https://recruiting.ultipro.com/cat1012cacsc/JobBoard/41d1a852-e913-429a-93ff-1d024bc3206d/OpportunityDetail?opportunityId=d0772263-887f-4760-8ad0-293234407928",
-      "date_posted": "2026-07-20T18:13:42.282Z",
-      "description": "1–2 years case management experience; experience with justice-involved families, community outreach, in-home and office service delivery; ability to manage cases, document in EMR, and work independently.",
-      "salary": "",
-      "job_type": "Part Time",
-      "is_remote": false,
-      "work_arrangement": "Telecommute eligible",
       "ats": "HiringCafe"
     },
     {
@@ -382,20 +382,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Black Birth Justice",
-      "title": "Case Manager",
-      "location": "Louisville, Kentucky, United States",
-      "url": "https://blackbirthjustice.bamboohr.com/careers/66",
-      "direct_url": "https://blackbirthjustice.bamboohr.com/careers/66",
-      "date_posted": "2026-07-06T00:00:00.000Z",
-      "description": "Bachelors in social work or related field, 2+ years direct social services/case management, proficiency with Google Suite and case management software, ability to conduct assessments, crisis response, documentation, and do field outreach.",
-      "salary": "",
-      "job_type": "Contract",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Law Offices of Michael P McCready",
       "title": "Case Manager",
       "location": "Illinois or Indiana or Missouri or Michigan or Wisconsin or Georgia or Texas or North Carolina or Florida or Colorado or Ohio",
@@ -407,6 +393,20 @@
       "job_type": "Full Time",
       "is_remote": true,
       "work_arrangement": "Remote in-state eligible",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Black Birth Justice",
+      "title": "Case Manager",
+      "location": "Louisville, Kentucky, United States",
+      "url": "https://blackbirthjustice.bamboohr.com/careers/66",
+      "direct_url": "https://blackbirthjustice.bamboohr.com/careers/66",
+      "date_posted": "2026-07-06T00:00:00.000Z",
+      "description": "Bachelors in social work or related field, 2+ years direct social services/case management, proficiency with Google Suite and case management software, ability to conduct assessments, crisis response, documentation, and do field outreach.",
+      "salary": "",
+      "job_type": "Contract",
+      "is_remote": false,
+      "work_arrangement": "On-site",
       "ats": "HiringCafe"
     },
     {
@@ -592,20 +592,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "University of New Mexico",
-      "title": "Program Coordinator",
-      "location": "Albuquerque, New Mexico, United States",
-      "url": "https://unm.csod.com/ux/ats/careersite/18/home/requisition/37358?c=unm",
-      "direct_url": "https://unm.csod.com/ux/ats/careersite/18/home/requisition/37358?c=unm",
-      "date_posted": "2026-07-22T00:00:00.000Z",
-      "description": "Coordinate fiscal, administrative, and operational activities for federally funded training programs; manage budgets, purchasing, data collection and reporting; strong organization and communication skills required.",
-      "salary": "$41k–$56k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Upenn",
       "title": "Program Coordinator",
       "location": "Philadelphia, Pennsylvania, United States",
@@ -614,6 +600,20 @@
       "date_posted": "2026-07-24T00:00:00.000Z",
       "description": "Bachelor's degree and 2–3 years experience or equivalent; program/project coordination in academic healthcare, strong organization, scheduling, HRSA reporting familiarity, and excellent communication.",
       "salary": "$50k–$62k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "University of New Mexico",
+      "title": "Program Coordinator",
+      "location": "Albuquerque, New Mexico, United States",
+      "url": "https://unm.csod.com/ux/ats/careersite/18/home/requisition/37358?c=unm",
+      "direct_url": "https://unm.csod.com/ux/ats/careersite/18/home/requisition/37358?c=unm",
+      "date_posted": "2026-07-22T00:00:00.000Z",
+      "description": "Coordinate fiscal, administrative, and operational activities for federally funded training programs; manage budgets, purchasing, data collection and reporting; strong organization and communication skills required.",
+      "salary": "$41k–$56k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
@@ -662,14 +662,14 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Energy & Environment Cabinet - Dept for Environmental Protection",
+      "company": "Texas Tech University Health Sciences Center",
       "title": "Program Coordinator",
-      "location": "Paducah, Kentucky, United States",
-      "url": "https://kypersonnelcabinet.csod.com/ux/ats/careersite/49/home/requisition/79781?c=kypersonnelcabinet",
-      "direct_url": "https://kypersonnelcabinet.csod.com/ux/ats/careersite/49/home/requisition/79781?c=kypersonnelcabinet",
-      "date_posted": "2026-07-17T00:00:00.000Z",
-      "description": "Bachelor's degree and 3 years management/administration experience (or approved substitutions). Strong organization, written/verbal communication, Microsoft Office proficiency, attention to detail, and ability to coordinate program activities.",
-      "salary": "$47k–$49k/yr",
+      "location": "Texas, United States",
+      "url": "https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25898&siteid=5283&PageType=JobDetails&jobid=918878",
+      "direct_url": "https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25898&siteid=5283&PageType=JobDetails&jobid=918878",
+      "date_posted": "2026-07-22T12:00:00.000Z",
+      "description": "High school plus 6 years related experience (or equivalent education); experience coordinating GME/fellowship programs; knowledge of ACGME accreditation and clinical workflows; strong administrative and communication skills.",
+      "salary": "$31k–$48k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
@@ -690,14 +690,28 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Texas Tech University Health Sciences Center",
+      "company": "Energy & Environment Cabinet - Dept for Environmental Protection",
       "title": "Program Coordinator",
-      "location": "Texas, United States",
-      "url": "https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25898&siteid=5283&PageType=JobDetails&jobid=918878",
-      "direct_url": "https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25898&siteid=5283&PageType=JobDetails&jobid=918878",
-      "date_posted": "2026-07-22T12:00:00.000Z",
-      "description": "High school plus 6 years related experience (or equivalent education); experience coordinating GME/fellowship programs; knowledge of ACGME accreditation and clinical workflows; strong administrative and communication skills.",
-      "salary": "$31k–$48k/yr",
+      "location": "Paducah, Kentucky, United States",
+      "url": "https://kypersonnelcabinet.csod.com/ux/ats/careersite/49/home/requisition/79781?c=kypersonnelcabinet",
+      "direct_url": "https://kypersonnelcabinet.csod.com/ux/ats/careersite/49/home/requisition/79781?c=kypersonnelcabinet",
+      "date_posted": "2026-07-17T00:00:00.000Z",
+      "description": "Bachelor's degree and 3 years management/administration experience (or approved substitutions). Strong organization, written/verbal communication, Microsoft Office proficiency, attention to detail, and ability to coordinate program activities.",
+      "salary": "$47k–$49k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "VOA Illinois",
+      "title": "Program Coordinator",
+      "location": "Chicago, Illinois, United States",
+      "url": "https://recruitingbypaycor.com/career/JobIntroduction.action?clientId=8a7883d0958c3c940195de2b4092554a&id=8a7883ac9efb8722019f1ea8d0c6158c&source=&lang=en",
+      "direct_url": "https://recruitingbypaycor.com/career/JobIntroduction.action?clientId=8a7883d0958c3c940195de2b4092554a&id=8a7883ac9efb8722019f1ea8d0c6158c&source=&lang=en",
+      "date_posted": "2026-07-01T17:16:18.000Z",
+      "description": "Bachelor's degree or veteran status required; minimum 2 years program coordination/logistics experience; valid driver’s license; ability to lift up to 50 lbs; strong communication and administrative skills.",
+      "salary": "$46k–$55k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
@@ -726,20 +740,6 @@
       "date_posted": "2026-07-08T16:23:09.000Z",
       "description": "Experience in program coordination or operations, ability to obtain NYS BPSS Agent certification, strong organizational and communication skills, proficiency with Google Workspace, Microsoft Office and CRM, grant administrative experience preferred.",
       "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "VOA Illinois",
-      "title": "Program Coordinator",
-      "location": "Chicago, Illinois, United States",
-      "url": "https://recruitingbypaycor.com/career/JobIntroduction.action?clientId=8a7883d0958c3c940195de2b4092554a&id=8a7883ac9efb8722019f1ea8d0c6158c&source=&lang=en",
-      "direct_url": "https://recruitingbypaycor.com/career/JobIntroduction.action?clientId=8a7883d0958c3c940195de2b4092554a&id=8a7883ac9efb8722019f1ea8d0c6158c&source=&lang=en",
-      "date_posted": "2026-07-01T17:16:18.000Z",
-      "description": "Bachelor's degree or veteran status required; minimum 2 years program coordination/logistics experience; valid driver’s license; ability to lift up to 50 lbs; strong communication and administrative skills.",
-      "salary": "$46k–$55k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
@@ -858,20 +858,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Tamus",
-      "title": "Program Coordinator I",
-      "location": "Bryan, Texas, United States",
-      "url": "https://tamus.wd1.myworkdayjobs.com/system-wide_external/job/Bryan-TX/Program-Coordinator-I_R-094839",
-      "direct_url": "https://tamus.wd1.myworkdayjobs.com/system-wide_external/job/Bryan-TX/Program-Coordinator-I_R-094839",
-      "date_posted": "2026-07-13T00:00:00.000Z",
-      "description": "Bachelor's degree or equivalent and two years program coordination or administrative experience; skills in scheduling, communication, and office applications; bilingual (English/Spanish) preferred.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Constellation",
       "title": "Research Program Coordinator",
       "location": "Berkeley, California, United States",
@@ -880,6 +866,20 @@
       "date_posted": "2026-07-24T00:40:22.626Z",
       "description": "Experience in program coordination or operations, strong project-management instincts, excellent written and verbal communication, high organization, and ability to manage multiple priorities.",
       "salary": "$105k–$133k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Tamus",
+      "title": "Program Coordinator I",
+      "location": "Bryan, Texas, United States",
+      "url": "https://tamus.wd1.myworkdayjobs.com/system-wide_external/job/Bryan-TX/Program-Coordinator-I_R-094839",
+      "direct_url": "https://tamus.wd1.myworkdayjobs.com/system-wide_external/job/Bryan-TX/Program-Coordinator-I_R-094839",
+      "date_posted": "2026-07-13T00:00:00.000Z",
+      "description": "Bachelor's degree or equivalent and two years program coordination or administrative experience; skills in scheduling, communication, and office applications; bilingual (English/Spanish) preferred.",
+      "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
