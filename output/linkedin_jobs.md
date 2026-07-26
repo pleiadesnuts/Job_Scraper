@@ -1,41 +1,29 @@
 # 🔥 LinkedIn — Social Worker Roles
-*Last updated: 2026-07-26 22:22 UTC*
+*Last updated: 2026-07-26 23:21 UTC*
 
-**9 new role(s)** since last run · 9 total in last 1h
+**6 new role(s)** since last run · 6 total in last 1h
 
-### [Retail Supervisor-Centennial Promenade](https://www.linkedin.com/jobs/view/4445641569/) — Bath & Body Works
-- 📍 **Location:** Englewood, CO
+### [Emergency Diversion Mobile Respite Case Manager](https://www.linkedin.com/jobs/view/4442379728/) — Riverside Community Care
+- 📍 **Location:** Milford, MA
 - 🕒 **Posted:** 2026-07-26
 
-### [Retail Supervisor-OUTLETS AT CASTLE ROCK](https://www.linkedin.com/jobs/view/4445649559/) — Bath & Body Works
-- 📍 **Location:** Castle Rock, CO
+### [Care Coordinator](https://www.linkedin.com/jobs/view/4406757090/) — Ellie Mental Health
+- 📍 **Location:** Nashville, TN
+- 💰 **Salary:** $20.00 - $25.00 per hour
 - 🕒 **Posted:** 2026-07-26
 
-### [Retail Supervisor-PARK MEADOWS](https://www.linkedin.com/jobs/view/4445641613/) — Bath & Body Works
-- 📍 **Location:** Lone Tree, CO
+### [Program Manager](https://www.linkedin.com/jobs/view/4444854279/) — The Oxygen Project: Yoga For Youth
+- 📍 **Location:** Nirsa, Jharkhand, India
 - 🕒 **Posted:** 2026-07-26
 
-### [ICW Foster Care Program Coordinator](https://www.linkedin.com/jobs/view/4445646680/) — White Earth Public Works
-- 📍 **Location:** White Earth, MN
+### [Patient Care Coordinator-Beverly Hills, FL](https://www.linkedin.com/jobs/view/4445642810/) — Sonova Group
+- 📍 **Location:** Beverly Hills, FL
 - 🕒 **Posted:** 2026-07-26
 
-### [Field Care Coordinator - Brentwood, TN](https://www.linkedin.com/jobs/view/4445646651/) — UnitedHealthcare
-- 📍 **Location:** Brentwood, TN
-- 💰 **Salary:** $29.00 to $52.00 per hour
+### [Site Supervisor](https://www.linkedin.com/jobs/view/4442306749/) — Riverside Community Care
+- 📍 **Location:** Reading, MA
 - 🕒 **Posted:** 2026-07-26
 
-### [Juvenile Wellness Case Manager](https://www.linkedin.com/jobs/view/4445631716/) — White Earth Public Works
-- 📍 **Location:** White Earth, MN
-- 🕒 **Posted:** 2026-07-26
-
-### [Family Support Worker](https://www.linkedin.com/jobs/view/4445649602/) — Nottinghamshire County Council
-- 📍 **Location:** Nottinghamshire, England, United Kingdom
-- 🕒 **Posted:** 2026-07-26
-
-### [Family Support Worker](https://www.linkedin.com/jobs/view/4445630688/) — Nottinghamshire County Council
-- 📍 **Location:** Nottinghamshire, England, United Kingdom
-- 🕒 **Posted:** 2026-07-26
-
-### [ICW Family Preservation Social Worker](https://www.linkedin.com/jobs/view/4445640691/) — White Earth Public Works
-- 📍 **Location:** White Earth, MN
+### [Social Worker / Senior Social Worker (Supporting Disabled Children Service)](https://www.linkedin.com/jobs/view/4438412683/) — Richmond and Wandsworth Councils
+- 📍 **Location:** Wandsworth, England, United Kingdom
 - 🕒 **Posted:** 2026-07-26
