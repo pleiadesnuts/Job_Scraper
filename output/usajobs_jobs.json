@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-07-25 16:32 UTC",
+  "scraped_at": "2026-07-26 16:32 UTC",
   "total": 16,
-  "new_count": 1,
+  "new_count": 0,
   "jobs": [
     {
       "company": "Veterans Health Administration",
@@ -148,15 +148,5 @@
       "ats": "USAJOBS"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Army National Guard Units",
-      "title": "SOCIAL WORKER",
-      "location": "Carson City, Nevada",
-      "url": "https://www.usajobs.gov/job/878003400",
-      "date_posted": "2026-07-24",
-      "salary": "Starting at $99,218 Per year (GS 12)",
-      "ats": "USAJOBS"
-    }
-  ]
+  "new_jobs": []
 }
