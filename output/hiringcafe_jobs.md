@@ -1,6 +1,10 @@
 # ☕ HiringCafe — Social Worker Roles
-*Last updated: 2026-07-26 05:18 UTC*
+*Last updated: 2026-07-26 17:51 UTC*
 
-**0 new role(s)** since last run · 93 total in last 30d
+**1 new role(s)** since last run · 92 total in last 30d
 
-No new roles since the last run.
+### [Case Manager](https://blackbirthjustice.bamboohr.com/careers/66) — Black Birth Justice
+- 📍 **Location:** Louisville, Kentucky, United States
+- **Work mode:** On-site
+- **Job type:** Contract
+- 🕒 **Posted:** 2026-07-06T00:00:00.000Z
