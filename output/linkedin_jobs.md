@@ -1,57 +1,63 @@
 # 🔥 LinkedIn — Social Worker Roles
-*Last updated: 2026-07-26 18:22 UTC*
+*Last updated: 2026-07-26 19:47 UTC*
 
-**12 new role(s)** since last run · 13 total in last 1h
+**14 new role(s)** since last run · 14 total in last 1h
 
-### [Case Manager](https://www.linkedin.com/jobs/view/4444835926/) — Stokes & Associates, Inc.
-- 📍 **Location:** United States
-- 💰 **Salary:** $70,000–$135,000
+### [Peer Support Specialist](https://www.linkedin.com/jobs/view/4445646231/) — Pala Band of Mission Indians
+- 📍 **Location:** Pala, CA
 - 🕒 **Posted:** 2026-07-26
 
-### [Mental Health Targeted Case Manager](https://www.linkedin.com/jobs/view/4444839997/) — Chrysalis Health
-- 📍 **Location:** Fort Lauderdale, FL
-- 💰 **Salary:** $56,000.00/yr - $56,000.00/yr
+### [Program Coordinator](https://www.linkedin.com/jobs/view/4445640320/) — City of Albuquerque
+- 📍 **Location:** Albuquerque, NM
 - 🕒 **Posted:** 2026-07-26
 
-### [Shelter Aftercare Case Manager](https://www.linkedin.com/jobs/view/4444862015/) — Jackson Street Youth Services
-- 📍 **Location:** Corvallis, OR
+### [Community Development Program Coordinator, (A269720-1), 207, Housing Rehab](https://www.linkedin.com/jobs/view/4445635321/) — City of Laredo
+- 📍 **Location:** Laredo, TX
 - 🕒 **Posted:** 2026-07-26
 
-### [Program Coordinator](https://www.linkedin.com/jobs/view/4444822999/) — agilon health
-- 📍 **Location:** Grand Rapids, MI
-- 💰 **Salary:** $18.00-$22.10
+### [Program Coordinator and Program Assistant](https://www.linkedin.com/jobs/view/4445619794/) — The Washington Campus
+- 📍 **Location:** Washington, DC
 - 🕒 **Posted:** 2026-07-26
 
-### [Volunteer Coordinator](https://www.linkedin.com/jobs/view/4445628143/) — Canadian Centre for Bio-Ethical Reform
-- 📍 **Location:** Calgary, Alberta, Canada
+### [Community Services Program Coordinator (JMP)](https://www.linkedin.com/jobs/view/4445643221/) — City of Albuquerque
+- 📍 **Location:** Albuquerque, NM
 - 🕒 **Posted:** 2026-07-26
 
-### [School Nutrition Field Supervisor](https://www.linkedin.com/jobs/view/4445639122/) — Rutherford County Schools - Tennessee
-- 📍 **Location:** Murfreesboro, TN
+### [Program Manager, Nursing Professional Practice Mental Health](https://www.linkedin.com/jobs/view/4445637256/) — Vetted Solutions
+- 📍 **Location:** Plainfield, IL
 - 🕒 **Posted:** 2026-07-26
 
-### [Hospice Care Coordinator](https://www.linkedin.com/jobs/view/4428162515/) — Trinity Health
-- 📍 **Location:** Columbus, OH
+### [Case Manager (ASO2) - Veterans Treatment Court](https://www.linkedin.com/jobs/view/4445649168/) — Metropolitan Government of Nashville and Davidson County
+- 📍 **Location:** Nashville, TN
 - 🕒 **Posted:** 2026-07-26
 
-### [Care Coordinator (Care Manager) - Registered Nurse (RN), Social Worker, or Clinical Counselor - R10249-16](https://www.linkedin.com/jobs/view/4304703452/) — CareSource
-- 📍 **Location:** Bowling Green, OH
-- 💰 **Salary:** $62,700.00 - $100,400.00
+### [Care Coordinator RN - Part Time / Weekends](https://www.linkedin.com/jobs/view/4445628292/) — Vetted Solutions
+- 📍 **Location:** Grovetown, GA
 - 🕒 **Posted:** 2026-07-26
 
-### [Care Coordinator (Care Manager) - Registered Nurse (RN), Social Worker, or Clinical Counselor - R10249-27](https://www.linkedin.com/jobs/view/4348099229/) — CareSource
-- 📍 **Location:** Ohio, United States
-- 💰 **Salary:** $62,700.00 - $100,400.00
+### [Clinical Care Coordinator Horsham 3400](https://www.linkedin.com/jobs/view/4442359738/) — Lutheran Homes Group
+- 📍 **Location:** Horsham, Victoria, Australia
 - 🕒 **Posted:** 2026-07-26
 
-### [Senior Social Worker - Substance Use Disorder](https://www.linkedin.com/jobs/view/4445645072/) — Commission for Case Manager Certification (CCMC)
-- 📍 **Location:** Pueblo, CO
+### [Case Manager 2 - Aging, Disability, and Veteran Services (ADVSD)](https://www.linkedin.com/jobs/view/4445648292/) — Multnomah County
+- 📍 **Location:** Gresham, OR
+- 💰 **Salary:** $32.88 - $40.45 Hourly
 - 🕒 **Posted:** 2026-07-26
 
-### [Licensed Social Worker](https://www.linkedin.com/jobs/view/4444857009/) — RegalCare at Greenfield
-- 📍 **Location:** Wakefield, MA
+### [Pharmacy Technician-Care Coordinator-Canonsburg, PA (Hybrid)](https://www.linkedin.com/jobs/view/4445627657/) — Preferred Primary Care Physicians
+- 📍 **Location:** Canonsburg, PA
 - 🕒 **Posted:** 2026-07-26
 
-### [Developmental Disabilities (DD) Waiver Case Manager](https://www.linkedin.com/jobs/view/4439101020/) — Shakir Consulting Services,LLC
-- 📍 **Location:** Greater Minneapolis-St. Paul Area
+### [Teen Supervisor (New South Bronx Center)](https://www.linkedin.com/jobs/view/4445639395/) — Police Athletic League, Inc.
+- 📍 **Location:** Bronx, NY
+- 💰 **Salary:** $48,000-50,000 annually
+- 🕒 **Posted:** 2026-07-26
+
+### [Teen Supervisor (Harlem Center)](https://www.linkedin.com/jobs/view/4445638366/) — Police Athletic League, Inc.
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $48,000-50,000 annually
+- 🕒 **Posted:** 2026-07-26
+
+### [Medical Social Worker -Home Health, Full time](https://www.linkedin.com/jobs/view/4444862136/) — Dartmouth Health
+- 📍 **Location:** White River Junction, VT
 - 🕒 **Posted:** 2026-07-26
