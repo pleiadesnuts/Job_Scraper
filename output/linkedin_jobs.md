@@ -1,96 +1,34 @@
 # 🔥 LinkedIn — Social Worker Roles
-*Last updated: 2026-07-26 00:25 UTC*
+*Last updated: 2026-07-26 01:19 UTC*
 
-**23 new role(s)** since last run · 25 total in last 1h
+**7 new role(s)** since last run · 17 total in last 1h
 
-### [Registered Nurse Program Coordinator - Orthopedic Operating Room](https://www.linkedin.com/jobs/view/4444807460/) — DayToDay Health
-- 📍 **Location:** Denver, CO
+### [Medical Assistant (CMA)/Inpatient Care Coordinator](https://www.linkedin.com/jobs/view/4444695587/) — MaineHealth
+- 📍 **Location:** Damariscotta, ME
+- 💰 **Salary:** $20.68to $25.10 per hour
 - 🕒 **Posted:** 2026-07-26
 
-### [Registered Nurse Program Coordinator - Orthopedic Operating Room](https://www.linkedin.com/jobs/view/4444808279/) — Health Care Administrators Association® (HCAA)
-- 📍 **Location:** Wheat Ridge, CO
+### [Program Manager, Nursing Professional Practice - Mental Health](https://www.linkedin.com/jobs/view/4444698370/) — DayToDay Health
+- 📍 **Location:** Naperville, IL
 - 🕒 **Posted:** 2026-07-26
 
-### [Registered Nurse Case Manager](https://www.linkedin.com/jobs/view/4444816327/) — Mental Health Association of Rochester
-- 📍 **Location:** Denver, CO
+### [Program Manager, Nursing Professional Practice - Mental Health](https://www.linkedin.com/jobs/view/4444800486/) — Rock Health
+- 📍 **Location:** Romeoville, IL
 - 🕒 **Posted:** 2026-07-26
 
-### [Care Coordinator - Full Time](https://www.linkedin.com/jobs/view/4444804437/) — Health Here
-- 📍 **Location:** Wailuku, HI
+### [Dental Patient Care Coordinator - Spanish Speaking](https://www.linkedin.com/jobs/view/4444816426/) — Mynt Dental
+- 📍 **Location:** Mount Pleasant, WI
 - 🕒 **Posted:** 2026-07-26
 
-### [Peer Support Specialist/Counselor](https://www.linkedin.com/jobs/view/4444697492/) — Lutheran Community Services Northwest
-- 📍 **Location:** Spokane, WA
+### [School-Based ABA Program Supervisor](https://www.linkedin.com/jobs/view/4444806526/) — Accel Therapies
+- 📍 **Location:** Nampa, ID
+- 💰 **Salary:** $27-$30/hour
 - 🕒 **Posted:** 2026-07-26
 
-### [Gym Supervisor](https://www.linkedin.com/jobs/view/4445368280/) — The Social Hub (B Corp™)
-- 📍 **Location:** Florence, Tuscany, Italy
+### [Volunteer Coordinator](https://www.linkedin.com/jobs/view/4445364429/) — Volunteer Success
+- 📍 **Location:** Brantford, Ontario, Canada
 - 🕒 **Posted:** 2026-07-26
 
-### [RN Program Coordinator - Full Time](https://www.linkedin.com/jobs/view/4444806292/) — Provident Behavioral Health
-- 📍 **Location:** Verdi, NV
+### [Refuge Family Support Worker](https://www.linkedin.com/jobs/view/4445373156/) — TipTopJob
+- 📍 **Location:** Blackpool, England, United Kingdom
 - 🕒 **Posted:** 2026-07-26
-
-### [RN Stroke Program Coordinator](https://www.linkedin.com/jobs/view/4444699414/) — Health Wealth Safe
-- 📍 **Location:** Elmhurst, IL
-- 🕒 **Posted:** 2026-07-26
-
-### [RN Program Coordinator - Full Time](https://www.linkedin.com/jobs/view/4444809445/) — Seacrest Behavioral Health
-- 📍 **Location:** Sparks, NV
-- 🕒 **Posted:** 2026-07-26
-
-### [Program Coordinator - RN - Stroke](https://www.linkedin.com/jobs/view/4444816329/) — MEP Health
-- 📍 **Location:** Summerlin South, NV
-- 🕒 **Posted:** 2026-07-26
-
-### [RN - Robotics Program Coordinator](https://www.linkedin.com/jobs/view/4444810399/) — Affinity Home Health Care Inc
-- 📍 **Location:** Sparks, NV
-- 🕒 **Posted:** 2026-07-26
-
-### [RN Stroke Program Coordinator](https://www.linkedin.com/jobs/view/4444694520/) — Health Care Administrators Association® (HCAA)
-- 📍 **Location:** Lombard, IL
-- 🕒 **Posted:** 2026-07-26
-
-### [RN - Robotics Program Coordinator](https://www.linkedin.com/jobs/view/4444802319/) — CONSUMER DIRECTED SERVICES INC.
-- 📍 **Location:** Verdi, NV
-- 🕒 **Posted:** 2026-07-26
-
-### [Full-Time Case Manager](https://www.linkedin.com/jobs/view/4444805352/) — Rock Health
-- 📍 **Location:** Pembroke Pines, FL
-- 🕒 **Posted:** 2026-07-26
-
-### [Care Coordinator](https://www.linkedin.com/jobs/view/4444807446/) — Health Here
-- 📍 **Location:** Marietta, GA
-- 🕒 **Posted:** 2026-07-26
-
-### [Clinical Social Worker, Outpatient Endocrinology](https://www.linkedin.com/jobs/view/4444815362/) — Plan A Health
-- 📍 **Location:** Boston, MA
-- 🕒 **Posted:** 2026-07-26
-
-### [Clinical Social Worker, Part-Time](https://www.linkedin.com/jobs/view/4444814322/) — Personal Touch Home Health Care Services Inc.
-- 📍 **Location:** Boston, MA
-- 🕒 **Posted:** 2026-07-26
-
-### [Clinical Social Worker, Diabetes](https://www.linkedin.com/jobs/view/4444693568/) — Cherry Hill Free Clinic
-- 📍 **Location:** Boston, MA
-- 🕒 **Posted:** 2026-07-26
-
-### [Clinical Social Worker, Part-Time](https://www.linkedin.com/jobs/view/4444697357/) — Fairview Hospital / Cleveland Clinic
-- 📍 **Location:** Boston, MA
-- 🕒 **Posted:** 2026-07-26
-
-### [Social Worker - Case Manager Full Time / Day Shift](https://www.linkedin.com/jobs/view/4444802223/) — Health Wealth Safe
-- 📍 **Location:** Melrose, MA
-- 🕒 **Posted:** 2026-07-26
-
-### [Clinical Social Worker, LICSW](https://www.linkedin.com/jobs/view/4444810362/) — Fairview Hospital / Cleveland Clinic
-- 📍 **Location:** Boston, MA
-- 🕒 **Posted:** 2026-07-26
-
-### [Behavioral Health Specialist - Maryview Medical Center](https://www.linkedin.com/jobs/view/4444815136/) — Bon Secours
-- 📍 **Location:** Portsmouth, VA
-- 🕒 **Posted:** 2026-07-25
-
-### [Transitional Care Coordinator - (TCC) - FT - Mon - Fri](https://www.linkedin.com/jobs/view/4445370166/) — NACSW – North American Association of Christians in Social Work
-- 📍 **Location:** Gainesville, GA
-- 🕒 **Posted:** 2026-07-25
