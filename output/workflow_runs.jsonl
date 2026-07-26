@@ -1998,3 +1998,4 @@
 {"job_count": 14, "run_attempt": "1", "run_id": "30217139775", "timestamp": "2026-07-26T19:47:11Z", "workflow": "linkedin"}
 {"job_count": 0, "run_attempt": "1", "run_id": "30217551737", "timestamp": "2026-07-26T19:49:48Z", "workflow": "google_jobs"}
 {"job_count": 0, "run_attempt": "1", "run_id": "30217752416", "timestamp": "2026-07-26T19:55:06Z", "workflow": "indeed"}
+{"job_count": 92, "run_attempt": "1", "run_id": "30218049193", "timestamp": "2026-07-26T20:04:56Z", "workflow": "hiringcafe"}

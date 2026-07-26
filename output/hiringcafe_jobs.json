@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-07-26 18:50 UTC",
+  "scraped_at": "2026-07-26 20:04 UTC",
   "total": 92,
   "new_count": 0,
   "jobs": [
@@ -214,20 +214,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Community Healthcare of Texas",
-      "title": "Social Worker",
-      "location": "Fort Worth, Texas, United States",
-      "url": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=bd15269d-4e6f-4700-a232-f9cbffb8d51a&ccId=19000101_000001&jobId=580314&lang=en_US",
-      "direct_url": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=bd15269d-4e6f-4700-a232-f9cbffb8d51a&ccId=19000101_000001&jobId=580314&lang=en_US",
-      "date_posted": "2026-07-02T13:48:00.000Z",
-      "description": "BSW with 1 year required (Master's preferred), Texas state social worker license, valid driver's license and reliable transportation, computer proficiency, hospice/healthcare experience preferred.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "University of Utah Health",
       "title": "Social Worker",
       "location": "Salt Lake City, Utah, United States",
@@ -237,6 +223,20 @@
       "description": "Provides psychosocial assessment, counseling, case management, and community resource coordination; requires L.C.S.W. or Certified Social Worker in Utah and RQI eCredential; must perform moderate physical tasks.",
       "salary": "",
       "job_type": "Part Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Community Healthcare of Texas",
+      "title": "Social Worker",
+      "location": "Fort Worth, Texas, United States",
+      "url": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=bd15269d-4e6f-4700-a232-f9cbffb8d51a&ccId=19000101_000001&jobId=580314&lang=en_US",
+      "direct_url": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=bd15269d-4e6f-4700-a232-f9cbffb8d51a&ccId=19000101_000001&jobId=580314&lang=en_US",
+      "date_posted": "2026-07-02T13:48:00.000Z",
+      "description": "BSW with 1 year required (Master's preferred), Texas state social worker license, valid driver's license and reliable transportation, computer proficiency, hospice/healthcare experience preferred.",
+      "salary": "",
+      "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
       "ats": "HiringCafe"
@@ -312,20 +312,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Catholic Charities Diocese of Cleveland",
-      "title": "Case Manager",
-      "location": "Painesville, Ohio, United States",
-      "url": "https://recruiting.ultipro.com/cat1012cacsc/JobBoard/41d1a852-e913-429a-93ff-1d024bc3206d/OpportunityDetail?opportunityId=d0772263-887f-4760-8ad0-293234407928",
-      "direct_url": "https://recruiting.ultipro.com/cat1012cacsc/JobBoard/41d1a852-e913-429a-93ff-1d024bc3206d/OpportunityDetail?opportunityId=d0772263-887f-4760-8ad0-293234407928",
-      "date_posted": "2026-07-20T18:13:42.282Z",
-      "description": "1–2 years case management experience; experience with justice-involved families, community outreach, in-home and office service delivery; ability to manage cases, document in EMR, and work independently.",
-      "salary": "",
-      "job_type": "Part Time",
-      "is_remote": false,
-      "work_arrangement": "Telecommute eligible",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Calcasieu Parish Police Jury, LA",
       "title": "CASE MANAGER",
       "location": "Lake Charles, Louisiana, United States",
@@ -351,6 +337,20 @@
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Catholic Charities Diocese of Cleveland",
+      "title": "Case Manager",
+      "location": "Painesville, Ohio, United States",
+      "url": "https://recruiting.ultipro.com/cat1012cacsc/JobBoard/41d1a852-e913-429a-93ff-1d024bc3206d/OpportunityDetail?opportunityId=d0772263-887f-4760-8ad0-293234407928",
+      "direct_url": "https://recruiting.ultipro.com/cat1012cacsc/JobBoard/41d1a852-e913-429a-93ff-1d024bc3206d/OpportunityDetail?opportunityId=d0772263-887f-4760-8ad0-293234407928",
+      "date_posted": "2026-07-20T18:13:42.282Z",
+      "description": "1–2 years case management experience; experience with justice-involved families, community outreach, in-home and office service delivery; ability to manage cases, document in EMR, and work independently.",
+      "salary": "",
+      "job_type": "Part Time",
+      "is_remote": false,
+      "work_arrangement": "Telecommute eligible",
       "ats": "HiringCafe"
     },
     {
@@ -382,20 +382,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Law Offices of Michael P McCready",
-      "title": "Case Manager",
-      "location": "Illinois or Indiana or Missouri or Michigan or Wisconsin or Georgia or Texas or North Carolina or Florida or Colorado or Ohio",
-      "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/3987010",
-      "direct_url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/3987010",
-      "date_posted": "2026-07-21T20:31:08.000Z",
-      "description": "2+ years in personal injury law or medical case coordination, experience managing high-volume client files, strong documentation and case management software skills, excellent written/verbal communication, US residency required.",
-      "salary": "$50k/yr",
-      "job_type": "Full Time",
-      "is_remote": true,
-      "work_arrangement": "Remote in-state eligible",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Black Birth Justice",
       "title": "Case Manager",
       "location": "Louisville, Kentucky, United States",
@@ -407,6 +393,20 @@
       "job_type": "Contract",
       "is_remote": false,
       "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Law Offices of Michael P McCready",
+      "title": "Case Manager",
+      "location": "Illinois or Indiana or Missouri or Michigan or Wisconsin or Georgia or Texas or North Carolina or Florida or Colorado or Ohio",
+      "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/3987010",
+      "direct_url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/3987010",
+      "date_posted": "2026-07-21T20:31:08.000Z",
+      "description": "2+ years in personal injury law or medical case coordination, experience managing high-volume client files, strong documentation and case management software skills, excellent written/verbal communication, US residency required.",
+      "salary": "$50k/yr",
+      "job_type": "Full Time",
+      "is_remote": true,
+      "work_arrangement": "Remote in-state eligible",
       "ats": "HiringCafe"
     },
     {
@@ -522,20 +522,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Guardian Tax",
-      "title": "Case Manager",
-      "location": "Irvine, California, United States",
-      "url": "https://guardian-tax-network.breezy.hr/p/5f8f37a1f02a-case-manager",
-      "direct_url": "https://guardian-tax-network.breezy.hr/p/5f8f37a1f02a-case-manager",
-      "date_posted": "2026-07-22T18:50:44.359Z",
-      "description": "Minimum 6 months case management experience, strong communication, organization, ability to learn new systems, client-focused and coachable.",
-      "salary": "$46k–$50k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Ascension Recovery Services",
       "title": "Case Manager",
       "location": "Muncie, Indiana, United States",
@@ -544,6 +530,20 @@
       "date_posted": "2026-07-17T00:00:00.000Z",
       "description": "Provide case management, discharge planning, resource coordination, EHR documentation, and advocacy for clients with substance use and mental health needs.",
       "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Guardian Tax",
+      "title": "Case Manager",
+      "location": "Irvine, California, United States",
+      "url": "https://guardian-tax-network.breezy.hr/p/5f8f37a1f02a-case-manager",
+      "direct_url": "https://guardian-tax-network.breezy.hr/p/5f8f37a1f02a-case-manager",
+      "date_posted": "2026-07-22T18:50:44.359Z",
+      "description": "Minimum 6 months case management experience, strong communication, organization, ability to learn new systems, client-focused and coachable.",
+      "salary": "$46k–$50k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
@@ -662,14 +662,14 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Texas Tech University Health Sciences Center",
+      "company": "Energy & Environment Cabinet - Dept for Environmental Protection",
       "title": "Program Coordinator",
-      "location": "Texas, United States",
-      "url": "https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25898&siteid=5283&PageType=JobDetails&jobid=918878",
-      "direct_url": "https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25898&siteid=5283&PageType=JobDetails&jobid=918878",
-      "date_posted": "2026-07-22T12:00:00.000Z",
-      "description": "High school plus 6 years related experience (or equivalent education); experience coordinating GME/fellowship programs; knowledge of ACGME accreditation and clinical workflows; strong administrative and communication skills.",
-      "salary": "$31k–$48k/yr",
+      "location": "Paducah, Kentucky, United States",
+      "url": "https://kypersonnelcabinet.csod.com/ux/ats/careersite/49/home/requisition/79781?c=kypersonnelcabinet",
+      "direct_url": "https://kypersonnelcabinet.csod.com/ux/ats/careersite/49/home/requisition/79781?c=kypersonnelcabinet",
+      "date_posted": "2026-07-17T00:00:00.000Z",
+      "description": "Bachelor's degree and 3 years management/administration experience (or approved substitutions). Strong organization, written/verbal communication, Microsoft Office proficiency, attention to detail, and ability to coordinate program activities.",
+      "salary": "$47k–$49k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
@@ -690,28 +690,14 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Energy & Environment Cabinet - Dept for Environmental Protection",
+      "company": "Texas Tech University Health Sciences Center",
       "title": "Program Coordinator",
-      "location": "Paducah, Kentucky, United States",
-      "url": "https://kypersonnelcabinet.csod.com/ux/ats/careersite/49/home/requisition/79781?c=kypersonnelcabinet",
-      "direct_url": "https://kypersonnelcabinet.csod.com/ux/ats/careersite/49/home/requisition/79781?c=kypersonnelcabinet",
-      "date_posted": "2026-07-17T00:00:00.000Z",
-      "description": "Bachelor's degree and 3 years management/administration experience (or approved substitutions). Strong organization, written/verbal communication, Microsoft Office proficiency, attention to detail, and ability to coordinate program activities.",
-      "salary": "$47k–$49k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "VOA Illinois",
-      "title": "Program Coordinator",
-      "location": "Chicago, Illinois, United States",
-      "url": "https://recruitingbypaycor.com/career/JobIntroduction.action?clientId=8a7883d0958c3c940195de2b4092554a&id=8a7883ac9efb8722019f1ea8d0c6158c&source=&lang=en",
-      "direct_url": "https://recruitingbypaycor.com/career/JobIntroduction.action?clientId=8a7883d0958c3c940195de2b4092554a&id=8a7883ac9efb8722019f1ea8d0c6158c&source=&lang=en",
-      "date_posted": "2026-07-01T17:16:18.000Z",
-      "description": "Bachelor's degree or veteran status required; minimum 2 years program coordination/logistics experience; valid driver’s license; ability to lift up to 50 lbs; strong communication and administrative skills.",
-      "salary": "$46k–$55k/yr",
+      "location": "Texas, United States",
+      "url": "https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25898&siteid=5283&PageType=JobDetails&jobid=918878",
+      "direct_url": "https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25898&siteid=5283&PageType=JobDetails&jobid=918878",
+      "date_posted": "2026-07-22T12:00:00.000Z",
+      "description": "High school plus 6 years related experience (or equivalent education); experience coordinating GME/fellowship programs; knowledge of ACGME accreditation and clinical workflows; strong administrative and communication skills.",
+      "salary": "$31k–$48k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
@@ -740,6 +726,20 @@
       "date_posted": "2026-07-08T16:23:09.000Z",
       "description": "Experience in program coordination or operations, ability to obtain NYS BPSS Agent certification, strong organizational and communication skills, proficiency with Google Workspace, Microsoft Office and CRM, grant administrative experience preferred.",
       "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "VOA Illinois",
+      "title": "Program Coordinator",
+      "location": "Chicago, Illinois, United States",
+      "url": "https://recruitingbypaycor.com/career/JobIntroduction.action?clientId=8a7883d0958c3c940195de2b4092554a&id=8a7883ac9efb8722019f1ea8d0c6158c&source=&lang=en",
+      "direct_url": "https://recruitingbypaycor.com/career/JobIntroduction.action?clientId=8a7883d0958c3c940195de2b4092554a&id=8a7883ac9efb8722019f1ea8d0c6158c&source=&lang=en",
+      "date_posted": "2026-07-01T17:16:18.000Z",
+      "description": "Bachelor's degree or veteran status required; minimum 2 years program coordination/logistics experience; valid driver’s license; ability to lift up to 50 lbs; strong communication and administrative skills.",
+      "salary": "$46k–$55k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
