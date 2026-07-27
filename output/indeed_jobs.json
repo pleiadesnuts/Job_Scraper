@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-07-27 21:00 UTC",
-  "total": 5,
+  "scraped_at": "2026-07-27 22:39 UTC",
+  "total": 4,
   "new_count": 0,
   "jobs": [
     {
@@ -70,24 +70,6 @@
       "salary_source": "direct_data",
       "salary_currency": "USD",
       "job_type": "contract",
-      "is_remote": true,
-      "work_arrangement": "Remote in-state eligible",
-      "emails": "",
-      "ats": "Indeed"
-    },
-    {
-      "company": "Unknown",
-      "title": "Finance Program Coordinator — AI Training Data Operations",
-      "location": "Remote, US",
-      "url": "https://www.indeed.com/viewjob?jk=06d777d8f9982a2d",
-      "direct_url": "https://auraone.ai/public/ai-labs/jobs/finance-program-coordinator-ai-training-data-operations-aoj-861bb89e2d5ef192e7?utm_source=indeed&utm_medium=job_board&utm_campaign=ai_jobs&utm_content=aoj-861bb89e2d5ef192e7&role=Finance+Program+Coordinator+%E2%80%94+AI+Training+Data+Operations&category=finance-accounting-economic-ai&source=indeed&jobId=aoj-861bb89e2d5ef192e7&sourceJobId=aoj-861bb89e2d5ef192e7",
-      "company_url": "",
-      "date_posted": "2026-07-07",
-      "description": "Finance Program Coordinator — AI Training Data Operations is a remote review track for evaluating AI outputs across finance and risk workflows. Reviewers grade calculations, narrative reasoning, and policy adherence; flag compliance and reconciliation issues; and document the correct treatment so the modeling team can train on it.\n\n**Why this role matters**\n-------------------------\n\n\nFinance and risk workflows leave no room for fuzzy reasoning. AuraOne uses experienced finance\\-and\\-risk professionals to grade AI outputs the way an audit reviewer would — with citations, severity tags, and the corrected calculation alongside the original.\n\n**Responsibilities**\n--------------------\n\n* Review AI outputs against current finance and risk standards, regulations, and firm policy for Finance Program Coordinator — AI Training Data Operations assignments.\n* Re\\-perform calculations and flag rounding, classification, or treatment errors.\n* Tag compliance, reconciliation, and disclosure issues with structured severity scores.\n* Capture the corrected workpaper or narrative so the modeling team can train on it.\n* Adjudicate disputed treatments against published standards or firm guidance.\n* Maintain reviewer\\-quality scores in inter\\-rater calibration cycles.\n\n**Qualifications**\n------------------\n\n* Direct working experience with finance and risk on real engagements, transactions, or audits for Finance Program Coordinator — AI Training Data Operations work.\n* CPA, CFA, ACA, or comparable credential — or equivalent applied experience.\n* Comfort applying multi\\-page rubrics consistently across long batches.\n* Clear written reasoning that cites standards, regulations, or firm policy.\n* Reliable async availability for at least 10 hours per week.\n\n**Example tasks**\n-----------------\n\n* Re\\-perform a finance and risk calculation produced by a model and flag any rounding or classification errors.\n* Grade a model's narrative reasoning on a complex transaction and rate the citation quality.\n* Adjudicate a disputed treatment between two reviewers using current standards.\n* Audit a 25\\-row batch for rubric consistency and report drift to the program lead.\n\n**Nice to have**\n----------------\n\n* Big Four, bulge\\-bracket, or in\\-house controller / risk experience.\n* Familiarity with AI\\-assisted close, audit, or risk tooling and its failure modes.\n* Bilingual experience for cross\\-jurisdiction reviews.\n\n**Skills**\n----------\n\n* Financial analysis\n* Audit\\-grade review\n* Regulatory standards\n* Risk assessment\n* Finance and risk\n\n**Work model**\n--------------\n\n\nRemote — US\\-eligible. Remote · Independent specialist contractor. Employment type: CONTRACTOR. Applicants must be authorized to work from US.\n\n**Compensation**\n----------------\n\n\n$40–$60 / hr\n\n**Application process**\n-----------------------\n\n\nApply through AuraOne's specialist intake for role\\-specific routing and review. Final project scope, schedule, and contractor terms are confirmed before placement.",
-      "salary": "$40–$60/hr",
-      "salary_source": "direct_data",
-      "salary_currency": "USD",
-      "job_type": "",
       "is_remote": true,
       "work_arrangement": "Remote in-state eligible",
       "emails": "",
