@@ -1,8 +1,17 @@
 {
-  "scraped_at": "2026-07-27 18:03 UTC",
-  "total": 11,
-  "new_count": 0,
+  "scraped_at": "2026-07-28 17:56 UTC",
+  "total": 12,
+  "new_count": 1,
   "jobs": [
+    {
+      "company": "Redwood City",
+      "title": "Utilities Field Services Supervisor- Trees #26A-26",
+      "location": "San Francisco/Peninsula",
+      "url": "https://www.calopps.org/redwood-city/job-20762168",
+      "date_posted": "",
+      "salary": "$12,027.00-$14,430.00 Monthly",
+      "ats": "CalOpps"
+    },
     {
       "company": "San Mateo County Transit District Samtrans",
       "title": "IT Program Manager- 5 Year Limited Term",
@@ -103,5 +112,15 @@
       "ats": "CalOpps"
     }
   ],
-  "new_jobs": []
+  "new_jobs": [
+    {
+      "company": "Redwood City",
+      "title": "Utilities Field Services Supervisor- Trees #26A-26",
+      "location": "San Francisco/Peninsula",
+      "url": "https://www.calopps.org/redwood-city/job-20762168",
+      "date_posted": "",
+      "salary": "$12,027.00-$14,430.00 Monthly",
+      "ats": "CalOpps"
+    }
+  ]
 }
