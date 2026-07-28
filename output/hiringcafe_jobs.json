@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-07-28 20:13 UTC",
+  "scraped_at": "2026-07-28 21:55 UTC",
   "total": 95,
-  "new_count": 3,
+  "new_count": 0,
   "jobs": [
     {
       "company": "-",
@@ -1334,48 +1334,5 @@
       "ats": "HiringCafe"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "UT Southwestern Medical Center",
-      "title": "Program Coordinator",
-      "location": "Dallas, Texas, United States",
-      "url": "https://utsw.taleo.net/careersection/2/jobdetail.ftl?job=960970&lang=en",
-      "direct_url": "https://utsw.taleo.net/careersection/2/jobdetail.ftl?job=960970&lang=en",
-      "date_posted": "2026-07-28T10:27:35.000Z",
-      "description": "Bachelor's degree in a related field and 5+ years relevant experience; coordinates program operations, budgets, events, quality improvement, and may supervise staff.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "UTSW",
-      "title": "Program Coordinator",
-      "location": "Dallas, Texas, United States",
-      "url": "https://utsw.referrals.selectminds.com/jobs/program-coordinator-76325",
-      "direct_url": "https://utsw.referrals.selectminds.com/jobs/program-coordinator-76325",
-      "date_posted": "2026-07-28T15:01:54.958Z",
-      "description": "Bachelor's degree in related field and 5 years' relevant experience (may substitute experience for education); program coordination, budgeting, compliance, and quality improvement experience.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Conehealth",
-      "title": "Community Health Worker",
-      "location": "United States",
-      "url": "https://conehealth.wd12.myworkdayjobs.com/cone_health-careers/job/Market-Street---4411/Community-Health-Worker_JR152787",
-      "direct_url": "https://conehealth.wd12.myworkdayjobs.com/cone_health-careers/job/Market-Street---4411/Community-Health-Worker_JR152787",
-      "date_posted": "2026-07-28T00:00:00.000Z",
-      "description": "High school diploma/GED required, 2 years care management experience, valid driver’s license and reliable transportation, eligibility for NC Certified Community Health Worker listing within one year, community connection required.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    }
-  ]
+  "new_jobs": []
 }
