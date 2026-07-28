@@ -1,95 +1,83 @@
 # 🔥 LinkedIn — Social Worker Roles
-*Last updated: 2026-07-28 03:46 UTC*
+*Last updated: 2026-07-28 04:54 UTC*
 
-**22 new role(s)** since last run · 22 total in last 1h
+**18 new role(s)** since last run · 22 total in last 1h
 
-### [Licensed Master Social Worker](https://www.linkedin.com/jobs/view/4445443451/) — Parkview Counseling
-- 📍 **Location:** Wyoming, MI
+### [Operations Supervisor Day](https://www.linkedin.com/jobs/view/4445430824/) — Lowe's Companies, Inc.
+- 📍 **Location:** Cheyenne, WY
 - 🕒 **Posted:** 2026-07-28
 
-### [Special Programs Case Manager I](https://www.linkedin.com/jobs/view/4446184475/) — Elevance Health
-- 📍 **Location:** Atlanta, GA
+### [Care Coordinator](https://www.linkedin.com/jobs/view/4445438991/) — WebTPA
+- 📍 **Location:** United States
 - 🕒 **Posted:** 2026-07-28
 
-### [Health and Housing Specialist Position in Tempe; BHT; SMI; Housing & CM Exp. a Plus; +$3/hour Diff.](https://www.linkedin.com/jobs/view/4443221266/) — Terros Health
-- 📍 **Location:** Tempe, AZ
-- 💰 **Salary:** $17.87/hr - $21.37/hr
+### [STEM Education Program Manager](https://www.linkedin.com/jobs/view/4443215480/) — Nonprofit Connect
+- 📍 **Location:** Kansas City, MO
 - 🕒 **Posted:** 2026-07-28
 
-### [Special Programs Case Manager I (Complex Medical Clinical Care Advisor)](https://www.linkedin.com/jobs/view/4446178549/) — Elevance Health
-- 📍 **Location:** Durham, NC
+### [Program Manager for Transition-Age Youth](https://www.linkedin.com/jobs/view/4445457007/) — Mental Health America of Los Angeles
+- 📍 **Location:** Lancashire, England, United Kingdom
+- 💰 **Salary:** $71,890.00-$76,440.00
 - 🕒 **Posted:** 2026-07-28
 
-### [Emergency Management Program Coordinator](https://www.linkedin.com/jobs/view/4446175626/) — Jefferson County, Washington
-- 📍 **Location:** Jefferson County, WA
+### [Transition Specialist](https://www.linkedin.com/jobs/view/4443226008/) — Nonprofit Connect
+- 📍 **Location:** Kansas City, MO
 - 🕒 **Posted:** 2026-07-28
 
-### [Community Health Worker](https://www.linkedin.com/jobs/view/4441844360/) — OhioHealth
-- 📍 **Location:** Columbus, OH
+### [Peer Support Specialist - Veterans Grant and Per Diem](https://www.linkedin.com/jobs/view/4437627099/) — Central City Concern
+- 📍 **Location:** Portland, OR
+- 💰 **Salary:** $25.05 - $33.24/hr
 - 🕒 **Posted:** 2026-07-28
 
-### [Crisis Mental Health Counselor _ Social Worker](https://www.linkedin.com/jobs/view/4445435743/) — Ridgeview Behavioral Health Services
-- 📍 **Location:** Oak Ridge, TN
+### [Crisis Counselor](https://www.linkedin.com/jobs/view/4445425545/) — Genarate1
+- 📍 **Location:** Haworth, OK
 - 🕒 **Posted:** 2026-07-28
 
-### [LTSS Service Coordinator - Case Manager (Region H: Broward County)](https://www.linkedin.com/jobs/view/4436470380/) — Elevance Health
-- 📍 **Location:** Fort Lauderdale, FL
+### [Substance Abuse Counselor](https://www.linkedin.com/jobs/view/4445416017/) — Gateway Foundation
+- 📍 **Location:** Dallas, GA
 - 🕒 **Posted:** 2026-07-28
 
-### [Peer Support Specialist Addictions Services - St. Michael's Hospital](https://www.linkedin.com/jobs/view/4445441335/) — St. Michael's Hospital
-- 📍 **Location:** Toronto, Ontario, Canada
+### [Community Health Worker](https://www.linkedin.com/jobs/view/4443209456/) — RWJBarnabas Health
+- 📍 **Location:** Livingston, NJ
+- 💰 **Salary:** $21.69 - $30.64 per hour
 - 🕒 **Posted:** 2026-07-28
 
-### [Peer Support Specialist Addictions Services - St. Michael's Hospital](https://www.linkedin.com/jobs/view/4445435388/) — St. Michael's Hospital
-- 📍 **Location:** Toronto, Ontario, Canada
+### [Case Manager](https://www.linkedin.com/jobs/view/4443223548/) — Recovery Centers of America
+- 📍 **Location:** Indianapolis, IN
 - 🕒 **Posted:** 2026-07-28
 
-### [Veterinary Receptionist (Care Coordinator) - PetVax Complete Care Centers East Memphis](https://www.linkedin.com/jobs/view/4446189375/) — PetVet Care Centers
-- 📍 **Location:** Memphis, TN
+### [EEO Contract/Program Coordinator, Office of Contractor Compliance, PN 20058408](https://www.linkedin.com/jobs/view/4442886499/) — Ohio Department of Transportation
+- 📍 **Location:** Akron, OH
+- 💰 **Salary:** $28.76- $38.01
 - 🕒 **Posted:** 2026-07-28
 
-### [Patient Care Coordinator](https://www.linkedin.com/jobs/view/4446191325/) — Beacon Oral Specialists
-- 📍 **Location:** Los Gatos, CA
-- 💰 **Salary:** $25.00/hr - $29.00/hr
+### [RN Registered Nurse Program Coordinator (PT) - Pediatric Care Management](https://www.linkedin.com/jobs/view/4442660297/) — Penn State Health
+- 📍 **Location:** Hershey, PA
 - 🕒 **Posted:** 2026-07-28
 
-### [Collaborative Care Coordinator](https://www.linkedin.com/jobs/view/4443201340/) — Angel Kids Pediatrics
-- 📍 **Location:** Jacksonville, FL
+### [Care Coordinator](https://www.linkedin.com/jobs/view/4445442910/) — Radfield Home Care Chester & Ellesmere Port
+- 📍 **Location:** Chippenham, England, United Kingdom
 - 🕒 **Posted:** 2026-07-28
 
-### [Case Manager | Case Management| Day| Full Time](https://www.linkedin.com/jobs/view/4445429423/) — UF Health
-- 📍 **Location:** Jacksonville, FL
+### [Care Coordinator](https://www.linkedin.com/jobs/view/4445438929/) — 360 Behavioral Health
+- 📍 **Location:** Los Angeles, CA
+- 💰 **Salary:** $23.00–$25.00/hour
 - 🕒 **Posted:** 2026-07-28
 
-### [Clinical Supervisor-Recovery Center](https://www.linkedin.com/jobs/view/4445437556/) — SeaView Community Services
-- 📍 **Location:** Seward, AK
+### [Senior Social Worker - VJP Specialist](https://www.linkedin.com/jobs/view/4444471425/) — U.S. Department of Veterans Affairs
+- 📍 **Location:** Anchorage, AK
+- 💰 **Salary:** $106,811.00/yr - $138,857.00/yr
 - 🕒 **Posted:** 2026-07-28
 
-### [COUNSELOR SUPERVISOR - FORDLAND, MO](https://www.linkedin.com/jobs/view/4445431807/) — Gateway Foundation
+### [COUNSELOR SUPERVISOR - FORDLAND, MO](https://www.linkedin.com/jobs/view/4443200827/) — Gateway Foundation
 - 📍 **Location:** Fordland, MO
 - 🕒 **Posted:** 2026-07-28
 
-### [Outpatient Clinical Supervisor](https://www.linkedin.com/jobs/view/4445442490/) — SeaView Community Services
-- 📍 **Location:** Seward, AK
+### [Children's Social Worker](https://www.linkedin.com/jobs/view/4444645517/) — WMJobs
+- 📍 **Location:** Newcastle-Under-Lyme, England, United Kingdom
 - 🕒 **Posted:** 2026-07-28
 
-### [Family Support Worker](https://www.linkedin.com/jobs/view/4443219320/) — Nottinghamshire County Council
-- 📍 **Location:** Nottinghamshire, England, United Kingdom
-- 🕒 **Posted:** 2026-07-28
-
-### [Family Support Worker](https://www.linkedin.com/jobs/view/4443212369/) — Nottinghamshire County Council
-- 📍 **Location:** Nottinghamshire, England, United Kingdom
-- 🕒 **Posted:** 2026-07-28
-
-### [School Social Worker](https://www.linkedin.com/jobs/view/4443209358/) — Tuscarora Intermediate Unit 11
-- 📍 **Location:** McVeytown, PA
-- 💰 **Salary:** $52,000-$60,000
-- 🕒 **Posted:** 2026-07-28
-
-### [Social Worker](https://www.linkedin.com/jobs/view/4445436767/) — WMJobs
-- 📍 **Location:** Wolverhampton, England, United Kingdom
-- 🕒 **Posted:** 2026-07-28
-
-### [Social Worker](https://www.linkedin.com/jobs/view/4445439752/) — WMJobs
-- 📍 **Location:** Wolverhampton, England, United Kingdom
+### [Social Worker](https://www.linkedin.com/jobs/view/4443215411/) — VITAS Healthcare
+- 📍 **Location:** Fort Worth, TX
+- 💰 **Salary:** $28 - $33
 - 🕒 **Posted:** 2026-07-28
