@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-07-27 23:54 UTC",
+  "scraped_at": "2026-07-28 01:15 UTC",
   "total": 94,
-  "new_count": 7,
+  "new_count": 0,
   "jobs": [
     {
       "company": "-",
@@ -340,20 +340,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Catholic Charities Diocese of Cleveland",
-      "title": "Case Manager",
-      "location": "Painesville, Ohio, United States",
-      "url": "https://recruiting.ultipro.com/cat1012cacsc/JobBoard/41d1a852-e913-429a-93ff-1d024bc3206d/OpportunityDetail?opportunityId=d0772263-887f-4760-8ad0-293234407928",
-      "direct_url": "https://recruiting.ultipro.com/cat1012cacsc/JobBoard/41d1a852-e913-429a-93ff-1d024bc3206d/OpportunityDetail?opportunityId=d0772263-887f-4760-8ad0-293234407928",
-      "date_posted": "2026-07-20T18:13:42.282Z",
-      "description": "1–2 years case management experience; experience with justice-involved families, community outreach, in-home and office service delivery; ability to manage cases, document in EMR, and work independently.",
-      "salary": "",
-      "job_type": "Part Time",
-      "is_remote": false,
-      "work_arrangement": "Telecommute eligible",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Calcasieu Parish Police Jury, LA",
       "title": "CASE MANAGER",
       "location": "Lake Charles, Louisiana, United States",
@@ -379,6 +365,20 @@
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Catholic Charities Diocese of Cleveland",
+      "title": "Case Manager",
+      "location": "Painesville, Ohio, United States",
+      "url": "https://recruiting.ultipro.com/cat1012cacsc/JobBoard/41d1a852-e913-429a-93ff-1d024bc3206d/OpportunityDetail?opportunityId=d0772263-887f-4760-8ad0-293234407928",
+      "direct_url": "https://recruiting.ultipro.com/cat1012cacsc/JobBoard/41d1a852-e913-429a-93ff-1d024bc3206d/OpportunityDetail?opportunityId=d0772263-887f-4760-8ad0-293234407928",
+      "date_posted": "2026-07-20T18:13:42.282Z",
+      "description": "1–2 years case management experience; experience with justice-involved families, community outreach, in-home and office service delivery; ability to manage cases, document in EMR, and work independently.",
+      "salary": "",
+      "job_type": "Part Time",
+      "is_remote": false,
+      "work_arrangement": "Telecommute eligible",
       "ats": "HiringCafe"
     },
     {
@@ -606,20 +606,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Upenn",
-      "title": "Program Coordinator",
-      "location": "Philadelphia, Pennsylvania, United States",
-      "url": "https://upenn.wd1.myworkdayjobs.com/psom/job/Presbyterian-Med-Ctr-FL7/Program-Coordinator_JR00123112",
-      "direct_url": "https://upenn.wd1.myworkdayjobs.com/psom/job/Presbyterian-Med-Ctr-FL7/Program-Coordinator_JR00123112",
-      "date_posted": "2026-07-24T00:00:00.000Z",
-      "description": "Bachelor's degree and 2–3 years experience or equivalent; program/project coordination in academic healthcare, strong organization, scheduling, HRSA reporting familiarity, and excellent communication.",
-      "salary": "$50k–$62k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "University of New Mexico",
       "title": "Program Coordinator",
       "location": "Albuquerque, New Mexico, United States",
@@ -628,6 +614,20 @@
       "date_posted": "2026-07-22T00:00:00.000Z",
       "description": "Coordinate fiscal, administrative, and operational activities for federally funded training programs; manage budgets, purchasing, data collection and reporting; strong organization and communication skills required.",
       "salary": "$41k–$56k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Upenn",
+      "title": "Program Coordinator",
+      "location": "Philadelphia, Pennsylvania, United States",
+      "url": "https://upenn.wd1.myworkdayjobs.com/psom/job/Presbyterian-Med-Ctr-FL7/Program-Coordinator_JR00123112",
+      "direct_url": "https://upenn.wd1.myworkdayjobs.com/psom/job/Presbyterian-Med-Ctr-FL7/Program-Coordinator_JR00123112",
+      "date_posted": "2026-07-24T00:00:00.000Z",
+      "description": "Bachelor's degree and 2–3 years experience or equivalent; program/project coordination in academic healthcare, strong organization, scheduling, HRSA reporting familiarity, and excellent communication.",
+      "salary": "$50k–$62k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
@@ -928,20 +928,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Cherokee Federal",
-      "title": "Program Coordinator",
-      "location": "Tucson, Arizona, United States",
-      "url": "https://ibtcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/requisitions/job/43063",
-      "direct_url": "https://ibtcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/requisitions/job/43063",
-      "date_posted": "2026-07-20T15:36:38.000Z",
-      "description": "Associate's degree and 5+ years government program experience (Air Force/DOD preferred). Strong PowerPoint and Excel, program scheduling, reporting, communication, and administrative support skills.",
-      "salary": "$75k–$80k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "The National Kidney Foundation of Michigan",
       "title": "Program Coordinator",
       "location": "Ann Arbor, Michigan, United States",
@@ -956,14 +942,14 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "City of Pharr",
-      "title": "Program Coordinator - HCRMA",
-      "location": "Pharr, Texas, United States",
-      "url": "https://pharrtx.applicantpro.com/jobs/4152982",
-      "direct_url": "https://pharrtx.applicantpro.com/jobs/4152982",
-      "date_posted": "2026-07-20T00:00:00.000Z",
-      "description": "Coordinate program activities, vendors, contracts and prepare desktop-published materials; must hold TxDOT Local Government Project Procedures certification and be bilingual English/Spanish.",
-      "salary": "$60k–$80k/yr",
+      "company": "Cherokee Federal",
+      "title": "Program Coordinator",
+      "location": "Tucson, Arizona, United States",
+      "url": "https://ibtcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/requisitions/job/43063",
+      "direct_url": "https://ibtcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/requisitions/job/43063",
+      "date_posted": "2026-07-20T15:36:38.000Z",
+      "description": "Associate's degree and 5+ years government program experience (Air Force/DOD preferred). Strong PowerPoint and Excel, program scheduling, reporting, communication, and administrative support skills.",
+      "salary": "$75k–$80k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
@@ -978,6 +964,20 @@
       "date_posted": "2026-07-07T17:31:27.023Z",
       "description": "Bachelor's degree in business/healthcare/education or related field; 5+ years relevant experience (may substitute experience for education); experience with budgets, contracts, and program coordination.",
       "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "City of Pharr",
+      "title": "Program Coordinator - HCRMA",
+      "location": "Pharr, Texas, United States",
+      "url": "https://pharrtx.applicantpro.com/jobs/4152982",
+      "direct_url": "https://pharrtx.applicantpro.com/jobs/4152982",
+      "date_posted": "2026-07-20T00:00:00.000Z",
+      "description": "Coordinate program activities, vendors, contracts and prepare desktop-published materials; must hold TxDOT Local Government Project Procedures certification and be bilingual English/Spanish.",
+      "salary": "$60k–$80k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
@@ -1320,104 +1320,5 @@
       "ats": "HiringCafe"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Wilkes County Schools",
-      "title": "SOCIAL WORKER",
-      "location": "North Wilkesboro, North Carolina, United States",
-      "url": "https://www.schoolspring.com/jobdetail?jobId=5853307",
-      "direct_url": "https://www.schoolspring.com/jobdetail?jobId=5853307",
-      "date_posted": "2026-07-27T04:00:00.000Z",
-      "description": "Must be licensed social worker in North Carolina; master’s in social work preferred; skilled in assessment, counseling, crisis intervention, advocacy, and home-school-community collaboration.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Ascension",
-      "title": "Social Worker",
-      "location": "Tulsa, Oklahoma, United States",
-      "url": "https://jobs.ascension.org/jobs/458089?lang=en-us",
-      "direct_url": "https://jobs.ascension.org/jobs/458089?lang=en-us",
-      "date_posted": "2026-07-27T13:49:57.000Z",
-      "description": "Bachelor's in Social Work required. CCMC or ACM and Certified Social Worker preferred. 3 years' experience preferred; case management/discharge planning experience preferred.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Divine Arms of Love GRO LLC",
-      "title": "Case Manager",
-      "location": "Houston, Texas, United States",
-      "url": "https://jobs.gusto.com/postings/divine-arms-of-love-gro-llc-case-manager-aed0a9d9-e769-41ad-9d51-27ec7f558985",
-      "direct_url": "https://jobs.gusto.com/postings/divine-arms-of-love-gro-llc-case-manager-aed0a9d9-e769-41ad-9d51-27ec7f558985",
-      "date_posted": "2026-07-06T21:06:46.809Z",
-      "description": "Bachelor's degree in social work/psychology/human services, 2+ years case management experience, CPR and First Aid, valid driver's license and reliable transportation, proficient with case management software and Microsoft Office.",
-      "salary": "$42k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Mainstream Engineering",
-      "title": "Associate Program Coordinator",
-      "location": "Rockledge, Florida, United States",
-      "url": "https://mainstreamengr.applicantpro.com/jobs/4159515",
-      "direct_url": "https://mainstreamengr.applicantpro.com/jobs/4159515",
-      "date_posted": "2026-07-27T00:00:00.000Z",
-      "description": "Manage multiple program deliverables, track schedule and budget performance, report program status in an EVMS environment, and communicate with stakeholders. Bachelor's degree or 4 years' coordinator experience; 10–15% travel.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Eau Claire Cooperative Health Center, Inc.",
-      "title": "PAT Program Coordinator",
-      "location": "Columbia, South Carolina, United States",
-      "url": "https://secure2.entertimeonline.com/ta/INPECCHC.careers?ShowJob=855830018",
-      "direct_url": "https://secure2.entertimeonline.com/ta/INPECCHC.careers?ShowJob=855830018",
-      "date_posted": "2026-07-27T16:01:29.617Z",
-      "description": "Bachelor's degree required; experience with young children/parents and program coordination preferred; strong leadership, communication, decision-making, and confidentiality skills.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "University of Maryland Medical System",
-      "title": "Community Health Worker",
-      "location": "La Plata, Maryland, United States",
-      "url": "https://careers.umms.org/us/en/job/UOJUOMUSP106204EXTERNALENUS/community-health-worker",
-      "direct_url": "https://careers.umms.org/us/en/job/UOJUOMUSP106204EXTERNALENUS/community-health-worker",
-      "date_posted": "2026-07-27T00:00:00.000Z",
-      "description": "Knowledge of local population health disparities, outreach and education skills, ability to screen high-risk patients, document progress, communicate effectively, and work independently and in teams.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Seamar",
-      "title": "Community health worker",
-      "location": "Lynnwood or Monroe",
-      "url": "https://seamar.wd12.myworkdayjobs.com/sea_mar/job/LCN---Lynnwood---4111-Alderwood-Mall-Blvd/Community-health-worker_JR102279",
-      "direct_url": "https://seamar.wd12.myworkdayjobs.com/sea_mar/job/LCN---Lynnwood---4111-Alderwood-Mall-Blvd/Community-health-worker_JR102279",
-      "date_posted": "2026-07-27T00:00:00.000Z",
-      "description": "High school diploma or equivalent and/or 1+ year health/social services experience. Requires WA driver’s license, background check, annual TB test, BLS within 90 days; strong communication and case management skills.",
-      "salary": "$44k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    }
-  ]
+  "new_jobs": []
 }
