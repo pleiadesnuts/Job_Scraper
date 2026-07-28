@@ -1,140 +1,95 @@
 # 🔥 LinkedIn — Social Worker Roles
-*Last updated: 2026-07-28 01:08 UTC*
+*Last updated: 2026-07-28 03:46 UTC*
 
-**30 new role(s)** since last run · 30 total in last 1h
+**22 new role(s)** since last run · 22 total in last 1h
 
-### [Health & Wellness Coordinator](https://www.linkedin.com/jobs/view/4446165788/) — Red Oak Behavioral Health
-- 📍 **Location:** Parma, OH
+### [Licensed Master Social Worker](https://www.linkedin.com/jobs/view/4445443451/) — Parkview Counseling
+- 📍 **Location:** Wyoming, MI
 - 🕒 **Posted:** 2026-07-28
 
-### [Peer Support Specialist - Arkansas](https://www.linkedin.com/jobs/view/4445403875/) — Lucet
-- 📍 **Location:** Little Rock, AR
-- 💰 **Salary:** $19.75 - $21
+### [Special Programs Case Manager I](https://www.linkedin.com/jobs/view/4446184475/) — Elevance Health
+- 📍 **Location:** Atlanta, GA
 - 🕒 **Posted:** 2026-07-28
 
-### [Community Social Worker](https://www.linkedin.com/jobs/view/4443201033/) — Johns Hopkins Howard County Medical Center
-- 📍 **Location:** Columbia, MD
+### [Health and Housing Specialist Position in Tempe; BHT; SMI; Housing & CM Exp. a Plus; +$3/hour Diff.](https://www.linkedin.com/jobs/view/4443221266/) — Terros Health
+- 📍 **Location:** Tempe, AZ
+- 💰 **Salary:** $17.87/hr - $21.37/hr
 - 🕒 **Posted:** 2026-07-28
 
-### [Education Program Manager](https://www.linkedin.com/jobs/view/4446157782/) — Vineyard Cincinnati Church
-- 📍 **Location:** Cincinnati, OH
+### [Special Programs Case Manager I (Complex Medical Clinical Care Advisor)](https://www.linkedin.com/jobs/view/4446178549/) — Elevance Health
+- 📍 **Location:** Durham, NC
 - 🕒 **Posted:** 2026-07-28
 
-### [CDS Nurse Case Manager](https://www.linkedin.com/jobs/view/4446163708/) — Marklund
-- 📍 **Location:** Geneva, IL
-- 💰 **Salary:** $82,000 - $87,000
+### [Emergency Management Program Coordinator](https://www.linkedin.com/jobs/view/4446175626/) — Jefferson County, Washington
+- 📍 **Location:** Jefferson County, WA
 - 🕒 **Posted:** 2026-07-28
 
-### [Patient Care Coordinator - Neurosurgery](https://www.linkedin.com/jobs/view/4446167557/) — Providence Swedish
-- 📍 **Location:** Seattle, WA
-- 💰 **Salary:** $25.73/hr - $39.36/hr
+### [Community Health Worker](https://www.linkedin.com/jobs/view/4441844360/) — OhioHealth
+- 📍 **Location:** Columbus, OH
 - 🕒 **Posted:** 2026-07-28
 
-### [Veterinary Front Desk Receptionist (Care Coordinator) - Loving Hands Animal Clinic](https://www.linkedin.com/jobs/view/4446164443/) — PetVet Care Centers
-- 📍 **Location:** Alpharetta, GA
-- 💰 **Salary:** $16—$18 USD
+### [Crisis Mental Health Counselor _ Social Worker](https://www.linkedin.com/jobs/view/4445435743/) — Ridgeview Behavioral Health Services
+- 📍 **Location:** Oak Ridge, TN
 - 🕒 **Posted:** 2026-07-28
 
-### [Case Manager- Women's Shelter](https://www.linkedin.com/jobs/view/4446158745/) — The Family Place
-- 📍 **Location:** Dallas, TX
+### [LTSS Service Coordinator - Case Manager (Region H: Broward County)](https://www.linkedin.com/jobs/view/4436470380/) — Elevance Health
+- 📍 **Location:** Fort Lauderdale, FL
 - 🕒 **Posted:** 2026-07-28
 
-### [Social Worker](https://www.linkedin.com/jobs/view/4446162610/) — Sanford Health
-- 📍 **Location:** Sioux Falls, SD
-- 💰 **Salary:** $24.00 - $36.00
+### [Peer Support Specialist Addictions Services - St. Michael's Hospital](https://www.linkedin.com/jobs/view/4445441335/) — St. Michael's Hospital
+- 📍 **Location:** Toronto, Ontario, Canada
 - 🕒 **Posted:** 2026-07-28
 
-### [Social Worker/Counselor II - Mental Health - SCCF 10251](https://www.linkedin.com/jobs/view/4444634078/) — Colorado Department of Corrections
-- 📍 **Location:** Pueblo, CO
+### [Peer Support Specialist Addictions Services - St. Michael's Hospital](https://www.linkedin.com/jobs/view/4445435388/) — St. Michael's Hospital
+- 📍 **Location:** Toronto, Ontario, Canada
 - 🕒 **Posted:** 2026-07-28
 
-### [Patient Care Coordinator](https://www.linkedin.com/jobs/view/4446151594/) — Jaco Rehab
-- 📍 **Location:** Honolulu, HI
-- 💰 **Salary:** $20.00-$24.00/hr
+### [Veterinary Receptionist (Care Coordinator) - PetVax Complete Care Centers East Memphis](https://www.linkedin.com/jobs/view/4446189375/) — PetVet Care Centers
+- 📍 **Location:** Memphis, TN
 - 🕒 **Posted:** 2026-07-28
 
-### [Assistant Volunteer Coordinator Role](https://www.linkedin.com/jobs/view/4446149856/) — Volunteer Success
-- 📍 **Location:** Mississauga, Ontario, Canada
+### [Patient Care Coordinator](https://www.linkedin.com/jobs/view/4446191325/) — Beacon Oral Specialists
+- 📍 **Location:** Los Gatos, CA
+- 💰 **Salary:** $25.00/hr - $29.00/hr
 - 🕒 **Posted:** 2026-07-28
 
-### [Program Coordinator](https://www.linkedin.com/jobs/view/4446149600/) — Weill Cornell Medicine
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $43.96 - $50.44
+### [Collaborative Care Coordinator](https://www.linkedin.com/jobs/view/4443201340/) — Angel Kids Pediatrics
+- 📍 **Location:** Jacksonville, FL
 - 🕒 **Posted:** 2026-07-28
 
-### [Program Coordinator I - Behavioral Health](https://www.linkedin.com/jobs/view/4445430043/) — Children's Hospital of Philadelphia
-- 📍 **Location:** Philadelphia, PA
-- 💰 **Salary:** $58,300.00 - $72,900.00 Annually
+### [Case Manager | Case Management| Day| Full Time](https://www.linkedin.com/jobs/view/4445429423/) — UF Health
+- 📍 **Location:** Jacksonville, FL
 - 🕒 **Posted:** 2026-07-28
 
-### [Program Coordinator](https://www.linkedin.com/jobs/view/4446149931/) — Massachusetts General Hospital
-- 📍 **Location:** Boston, MA
-- 💰 **Salary:** $20.84 - $29.79/Hourly
+### [Clinical Supervisor-Recovery Center](https://www.linkedin.com/jobs/view/4445437556/) — SeaView Community Services
+- 📍 **Location:** Seward, AK
 - 🕒 **Posted:** 2026-07-28
 
-### [BSU Philanthropy Fellowship Program Coordinator (Contingent II)](https://www.linkedin.com/jobs/view/4446152519/) — Bowie State University
-- 📍 **Location:** Prince George's County, MD
-- 💰 **Salary:** $65,000 - $75,000
+### [COUNSELOR SUPERVISOR - FORDLAND, MO](https://www.linkedin.com/jobs/view/4445431807/) — Gateway Foundation
+- 📍 **Location:** Fordland, MO
 - 🕒 **Posted:** 2026-07-28
 
-### [Patient Care Coordinator](https://www.linkedin.com/jobs/view/4442889841/) — Ascension at Home
-- 📍 **Location:** Kokomo, IN
+### [Outpatient Clinical Supervisor](https://www.linkedin.com/jobs/view/4445442490/) — SeaView Community Services
+- 📍 **Location:** Seward, AK
 - 🕒 **Posted:** 2026-07-28
 
-### [Case Manager - Insurance Coverage](https://www.linkedin.com/jobs/view/4445414937/) — MaineHealth
-- 📍 **Location:** South Portland, ME
-- 💰 **Salary:** $52,499.20to $71,052.80per year
+### [Family Support Worker](https://www.linkedin.com/jobs/view/4443219320/) — Nottinghamshire County Council
+- 📍 **Location:** Nottinghamshire, England, United Kingdom
 - 🕒 **Posted:** 2026-07-28
 
-### [Care Coordinator - Wellness Village](https://www.linkedin.com/jobs/view/4446158644/) — Gaudenzia, Inc.
-- 📍 **Location:** Philadelphia, PA
+### [Family Support Worker](https://www.linkedin.com/jobs/view/4443212369/) — Nottinghamshire County Council
+- 📍 **Location:** Nottinghamshire, England, United Kingdom
 - 🕒 **Posted:** 2026-07-28
 
-### [Social Worker - Support Service Coordinator](https://www.linkedin.com/jobs/view/4445431048/) — Your Health
-- 📍 **Location:** Charleston County, SC
+### [School Social Worker](https://www.linkedin.com/jobs/view/4443209358/) — Tuscarora Intermediate Unit 11
+- 📍 **Location:** McVeytown, PA
+- 💰 **Salary:** $52,000-$60,000
 - 🕒 **Posted:** 2026-07-28
 
-### [Clinical Care Coordinator LPN,](https://www.linkedin.com/jobs/view/4442885824/) — UnitedHealth Group
-- 📍 **Location:** Alexandria, LA
-- 💰 **Salary:** $25.80 to $38.75 per hour
+### [Social Worker](https://www.linkedin.com/jobs/view/4445436767/) — WMJobs
+- 📍 **Location:** Wolverhampton, England, United Kingdom
 - 🕒 **Posted:** 2026-07-28
 
-### [Healthcare Coordinator](https://www.linkedin.com/jobs/view/4446150558/) — PDS Health
-- 📍 **Location:** Folsom, CA
-- 💰 **Salary:** $20.75/hr - $29.00/hr
-- 🕒 **Posted:** 2026-07-28
-
-### [Patient Care Coordinator - General Surgery](https://www.linkedin.com/jobs/view/4446161612/) — Providence Swedish
-- 📍 **Location:** Edmonds, WA
-- 💰 **Salary:** $25.73/hr - $39.36/hr
-- 🕒 **Posted:** 2026-07-28
-
-### [Program Manager, Care Operations](https://www.linkedin.com/jobs/view/4445402749/) — Chamber
-- 📍 **Location:** Boston, MA
-- 🕒 **Posted:** 2026-07-28
-
-### [Program Manager, Care Operations](https://www.linkedin.com/jobs/view/4445415614/) — Chamber
-- 📍 **Location:** Nashville, TN
-- 🕒 **Posted:** 2026-07-28
-
-### [Licensed Clinical Supervisor](https://www.linkedin.com/jobs/view/4446152596/) — County of Santa Clara
-- 📍 **Location:** Santa Clara County, CA
-- 🕒 **Posted:** 2026-07-28
-
-### [Youth Case Manager - Diversion & Prevention](https://www.linkedin.com/jobs/view/4445402914/) — Flintridge Center
-- 📍 **Location:** Pasadena, CA
-- 💰 **Salary:** $52,000.00 - $58,000.00 per year
-- 🕒 **Posted:** 2026-07-28
-
-### [Family Medicine Community Health Worker](https://www.linkedin.com/jobs/view/4438695723/) — University of Maryland Faculty Physicians
-- 📍 **Location:** Baltimore, MD
-- 🕒 **Posted:** 2026-07-28
-
-### [Instructor/Supervisor](https://www.linkedin.com/jobs/view/4445430094/) — Corlann
-- 📍 **Location:** County Galway, Ireland
-- 🕒 **Posted:** 2026-07-28
-
-### [Title 1 Social Worker (Grant Funded)](https://www.linkedin.com/jobs/view/4446152845/) — Nashua School District
-- 📍 **Location:** Nashua, NH
-- 💰 **Salary:** $49,000 - $100,386
+### [Social Worker](https://www.linkedin.com/jobs/view/4445439752/) — WMJobs
+- 📍 **Location:** Wolverhampton, England, United Kingdom
 - 🕒 **Posted:** 2026-07-28
