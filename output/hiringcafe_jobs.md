@@ -1,24 +1,18 @@
 # ☕ HiringCafe — Social Worker Roles
-*Last updated: 2026-07-28 04:57 UTC*
+*Last updated: 2026-07-28 18:08 UTC*
 
-**3 new role(s)** since last run · 97 total in last 30d
+**2 new role(s)** since last run · 96 total in last 30d
 
-### [Case Manager](https://ascensionrecovery.bamboohr.com/careers/899) — Ascension Recovery Services
-- 📍 **Location:** Muncie, Indiana, United States
+### [Program Coordinator II](https://jobs.rutgers.edu/postings/279135/pre_apply) — Rutgers University
+- 📍 **Location:** Camden, New Jersey, United States
+- 💰 **Salary:** $53k–$77k/yr
+- **Work mode:** Telecommute eligible
+- **Job type:** Full Time
+- 🕒 **Posted:** 2026-07-28T00:00:00.000Z
+
+### [Community Health Worker](https://recruiting.ultipro.com/nei1007nbhr/JobBoard/13d0e2c6-140c-45a9-9b75-3b2ef5191e20/OpportunityDetail?opportunityId=859a25ef-1259-4bb2-8828-fbb1ed2e3b82) — Neighborhood Health Center
+- 📍 **Location:** Blasdell, New York, United States
+- 💰 **Salary:** $46k/yr
 - **Work mode:** On-site
 - **Job type:** Full Time
-- 🕒 **Posted:** 2026-07-17T00:00:00.000Z
-
-### [Program Coordinator (DISP Court Coordinator)](https://oregon.wd5.myworkdayjobs.com/sor_external_career_site/job/Portland--Judicial--Multnomah-County-Circuit-Court/Program-Coordinator--DISP-Court-Coordinator-_REQ-204093) — Oregon
-- 📍 **Location:** Portland, Oregon, United States
-- 💰 **Salary:** $80k–$125k/yr
-- **Work mode:** On-site
-- **Job type:** Full Time
-- 🕒 **Posted:** 2026-07-27T00:00:00.000Z
-
-### [Community Health Worker – Community Connect](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4313469) — Rural Resources Community Action
-- 📍 **Location:** Colville, Washington, United States
-- 💰 **Salary:** $45k–$49k/yr
-- **Work mode:** On-site
-- **Job type:** Full Time
-- 🕒 **Posted:** 2026-07-07T22:22:07.000Z
+- 🕒 **Posted:** 2026-07-28T14:50:57.167Z
