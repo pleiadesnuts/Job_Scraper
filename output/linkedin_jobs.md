@@ -1,170 +1,144 @@
 # 🔥 LinkedIn — Social Worker Roles
-*Last updated: 2026-07-28 22:29 UTC*
+*Last updated: 2026-07-28 23:31 UTC*
 
-**37 new role(s)** since last run · 37 total in last 1h
+**32 new role(s)** since last run · 36 total in last 1h
 
-### [Practice Education Specialist, Capella and Strayer University](https://www.linkedin.com/jobs/view/4445792056/) — Capella University
+### [Care Coordinator - Davidson County](https://www.linkedin.com/jobs/view/4446502500/) — BlueCross BlueShield of Tennessee
+- 📍 **Location:** United States
+- 🕒 **Posted:** 2026-07-28
+
+### [Diabetes Educator - Clinical Guide(Certified Diabetes Care and Education Specialist)](https://www.linkedin.com/jobs/view/4445785332/) — Devoted Health
+- 📍 **Location:** United States
+- 💰 **Salary:** $80,000 - $95,000
+- 🕒 **Posted:** 2026-07-28
+
+### [Practice Education Specialist, Capella and Strayer University](https://www.linkedin.com/jobs/view/4446507276/) — Strategic Education, Inc
 - 📍 **Location:** United States
 - 💰 **Salary:** $85,000.00 - $95,000.00
 - 🕒 **Posted:** 2026-07-28
 
-### [Case Manager - Forensics (62821)](https://www.linkedin.com/jobs/view/4445780171/) — Aurora Mental Health & Recovery
-- 📍 **Location:** Aurora, CO
-- 💰 **Salary:** $21.03/hr - $31.56/hr
+### [CDOC Social Worker/Counselor III Mental Health Clinician /Gender Affirming Care - (DENVER))](https://www.linkedin.com/jobs/view/4446512265/) — State of Colorado
+- 📍 **Location:** Denver, CO
 - 🕒 **Posted:** 2026-07-28
 
-### [Competency Restoration Education Specialist (62616)](https://www.linkedin.com/jobs/view/4441777259/) — Aurora Mental Health & Recovery
-- 📍 **Location:** Aurora, CO
-- 💰 **Salary:** $21.03/hr - $31.56/hr
+### [Program Coordinator - Outpatient Restoration Program/Forensic Services Department](https://www.linkedin.com/jobs/view/4446512269/) — State of Colorado
+- 📍 **Location:** Colorado, United States
 - 🕒 **Posted:** 2026-07-28
 
-### [Front Desk Supervisor - The Eddy Taproom & Hotel](https://www.linkedin.com/jobs/view/4445776598/) — The Eddy Taproom & Hotel
-- 📍 **Location:** Golden, CO
+### [Correctional Support Trade Supervisor I at Platte Valley Youth Services Center](https://www.linkedin.com/jobs/view/4446507477/) — State of Colorado
+- 📍 **Location:** Greeley, CO
 - 🕒 **Posted:** 2026-07-28
 
-### [Front Desk Supervisor - The Eddy Taproom & Hotel](https://www.linkedin.com/jobs/view/4445791112/) — CoralTree Hospitality
-- 📍 **Location:** Golden, CO
+### [Integrated Nurse Case Manager/RN for Maternal Health/ Perinatal for South of Roanoke](https://www.linkedin.com/jobs/view/4445783382/) — Sentara Health
+- 📍 **Location:** Roanoke, VA
 - 🕒 **Posted:** 2026-07-28
 
-### [Supervisor - Medical Assistant](https://www.linkedin.com/jobs/view/4444264518/) — STRIDE Community Health Center
-- 📍 **Location:** Aurora, CO
-- 💰 **Salary:** $25.00 - $29.83
+### [Integrated Nurse Case Manager/RN for Maternal Health/ Perinatal for Central Richmond (Henrico, Hanover, Colonial Heights, VA)](https://www.linkedin.com/jobs/view/4445776882/) — Sentara Health
+- 📍 **Location:** Richmond, VA
 - 🕒 **Posted:** 2026-07-28
 
-### [AE - Merchandising Team Leader (Assistant Manager)](https://www.linkedin.com/jobs/view/4445782257/) — American Eagle Outfitters Inc.
-- 📍 **Location:** Cheyenne, WY
+### [Grant Writer](https://www.linkedin.com/jobs/view/4446001080/) — Opportunity Junction
+- 📍 **Location:** Concord, CA
+- 💰 **Salary:** $70,000-$96,000 per year
 - 🕒 **Posted:** 2026-07-28
 
-### [Wellness Coordinator](https://www.linkedin.com/jobs/view/4446501101/) — Optum
-- 📍 **Location:** New York, NY
+### [ACTT Peer Support Specialist](https://www.linkedin.com/jobs/view/4445781365/) — RHA Health Services, LLC
+- 📍 **Location:** Wilson, NC
 - 🕒 **Posted:** 2026-07-28
 
-### [Community Health Worker - Cradle](https://www.linkedin.com/jobs/view/4446505127/) — Cincinnati Children's
-- 📍 **Location:** Cincinnati, OH
-- 💰 **Salary:** $19.29 - $23.92
+### [Peer Support Specialist](https://www.linkedin.com/jobs/view/4446392916/) — United Health Services
+- 📍 **Location:** Binghamton, NY
+- 💰 **Salary:** $17.98 - $25.17 per hour
 - 🕒 **Posted:** 2026-07-28
 
-### [Program Coordinator](https://www.linkedin.com/jobs/view/4446390518/) — Eating Recovery Center
+### [Certified Peer Support Specialist - TMS Team South](https://www.linkedin.com/jobs/view/4445776866/) — RHA Health Services, LLC
+- 📍 **Location:** Laurinburg, NC
+- 🕒 **Posted:** 2026-07-28
+
+### [Peer Support Specialist](https://www.linkedin.com/jobs/view/4446508265/) — Ozark Center
+- 📍 **Location:** Joplin, MO
+- 🕒 **Posted:** 2026-07-28
+
+### [CPSS / Certified Peer Support Specialist / Paraprofessional / PP](https://www.linkedin.com/jobs/view/4445783393/) — RHA Health Services, LLC
+- 📍 **Location:** Concord, NC
+- 🕒 **Posted:** 2026-07-28
+
+### [Community Health Worker](https://www.linkedin.com/jobs/view/4437008109/) — Arkansas Children's
+- 📍 **Location:** Little Rock, AR
+- 💰 **Salary:** $20.50-$25.60 per hour
+- 🕒 **Posted:** 2026-07-28
+
+### [Patient Care Coordinator](https://www.linkedin.com/jobs/view/4446501504/) — AEG Vision
+- 📍 **Location:** Bee Cave, TX
+- 🕒 **Posted:** 2026-07-28
+
+### [Community Health Worker](https://www.linkedin.com/jobs/view/4436888967/) — Arkansas Children's
+- 📍 **Location:** Little Rock, AR
+- 💰 **Salary:** $20.50-$25.60 per hour
+- 🕒 **Posted:** 2026-07-28
+
+### [Care Coordinator - Davidson County](https://www.linkedin.com/jobs/view/4446397579/) — BlueCross BlueShield of Tennessee
+- 📍 **Location:** Davidson County, TN
+- 🕒 **Posted:** 2026-07-28
+
+### [Direct Support Program Coordinator](https://www.linkedin.com/jobs/view/4443646051/) — Sevita
+- 📍 **Location:** Arlington, TX
+- 🕒 **Posted:** 2026-07-28
+
+### [Care Coordinator - Davita IKC - White Plains, MD](https://www.linkedin.com/jobs/view/4446501565/) — DaVita Kidney Care
+- 📍 **Location:** White Plains, MD
+- 💰 **Salary:** $18.00/hr - $22.50/hr
+- 🕒 **Posted:** 2026-07-28
+
+### [Care Coordinator II - DME Coordinator](https://www.linkedin.com/jobs/view/4446102188/) — Housecall Providers
+- 📍 **Location:** Portland, OR
+- 💰 **Salary:** $28.81 - $35.22
+- 🕒 **Posted:** 2026-07-28
+
+### [Transitions of Care Behavioral Health Social Work Case Manager](https://www.linkedin.com/jobs/view/4445793227/) — Devoted Health
+- 📍 **Location:** United States
+- 💰 **Salary:** $55,000 - $79,000
+- 🕒 **Posted:** 2026-07-28
+
+### [Patient Care Coordinator](https://www.linkedin.com/jobs/view/4445610130/) — AEG Vision
+- 📍 **Location:** St Henry, OH
+- 🕒 **Posted:** 2026-07-28
+
+### [Youth Employment Counselor (2103)](https://www.linkedin.com/jobs/view/4432660594/) — BakerRipley
+- 📍 **Location:** Greater Houston
+- 🕒 **Posted:** 2026-07-28
+
+### [Case Manager](https://www.linkedin.com/jobs/view/4443644165/) — Metropolitan Family Services
 - 📍 **Location:** Chicago, IL
-- 💰 **Salary:** $18.25 - $29 USD
 - 🕒 **Posted:** 2026-07-28
 
-### [CCR-Care Coordinator](https://www.linkedin.com/jobs/view/4443633564/) — Lifemark Health Group
-- 📍 **Location:** Grimsby, Ontario, Canada
+### [Patient Care Coordinator](https://www.linkedin.com/jobs/view/4446399581/) — AEG Vision
+- 📍 **Location:** Baltimore, MD
+- 💰 **Salary:** $18.00/hr - $23.00/hr
 - 🕒 **Posted:** 2026-07-28
 
-### [Crisis Counselor TRP, PRN](https://www.linkedin.com/jobs/view/4446384946/) — Centerstone
-- 📍 **Location:** Tennessee, United States
+### [Program Coordinator (ECP)](https://www.linkedin.com/jobs/view/4442746999/) — Bucks County Intermediate Unit
+- 📍 **Location:** Doylestown, PA
 - 🕒 **Posted:** 2026-07-28
 
-### [Crisis Counselor TRP, PRN](https://www.linkedin.com/jobs/view/4446399079/) — Centerstone
-- 📍 **Location:** Nashville, TN
+### [Program Coordinator (FFTL)](https://www.linkedin.com/jobs/view/4442214092/) — Commonwealth of Kentucky
+- 📍 **Location:** Frankfort, KY
+- 💰 **Salary:** $3,600.84 - $4,699.50 Monthly
 - 🕒 **Posted:** 2026-07-28
 
-### [Substance Abuse Counselor (Master's Degree Required)](https://www.linkedin.com/jobs/view/4446385690/) — New Season
-- 📍 **Location:** Biloxi, MS
+### [COUNSELOR SUPERVISOR - FORDLAND, MO](https://www.linkedin.com/jobs/view/4443200827/) — Gateway Foundation
+- 📍 **Location:** Fordland, MO
 - 🕒 **Posted:** 2026-07-28
 
-### [(1226) Youth and Family Case Manager](https://www.linkedin.com/jobs/view/4443623792/) — Bluebonnet Trails Community Services
-- 📍 **Location:** Seguin, TX
-- 💰 **Salary:** $21.46 – $28.71
+### [Clinical Social Worker](https://www.linkedin.com/jobs/view/4446501453/) — Clinical Management Consultants
+- 📍 **Location:** New York, United States
+- 💰 **Salary:** $92,240.00/yr - $121,200.00/yr
 - 🕒 **Posted:** 2026-07-28
 
-### [Substance Abuse Counselor](https://www.linkedin.com/jobs/view/4443643220/) — Management & Training Corporation
-- 📍 **Location:** Marion, OH
+### [Social Worker III - Honolulu, Oahu](https://www.linkedin.com/jobs/view/4443646174/) — Hawai`i State Judiciary
+- 📍 **Location:** Honolulu, HI
 - 🕒 **Posted:** 2026-07-28
 
-### [Peer Support Specialist - Mobile Crisis Team (MCT)](https://www.linkedin.com/jobs/view/4445798041/) — Bowen Health
-- 📍 **Location:** Pierceton, IN
-- 🕒 **Posted:** 2026-07-28
-
-### [Case Manager, Dual Diagnosis](https://www.linkedin.com/jobs/view/4446510003/) — Cota
-- 📍 **Location:** Toronto, Ontario, Canada
-- 🕒 **Posted:** 2026-07-28
-
-### [Patient Care Coordinator](https://www.linkedin.com/jobs/view/4446502117/) — Optum
-- 📍 **Location:** Greenbrae, CA
-- 💰 **Salary:** $18 - $32 per hour
-- 🕒 **Posted:** 2026-07-28
-
-### [Patient Care Coordinator](https://www.linkedin.com/jobs/view/4446388890/) — University Health Network
-- 📍 **Location:** Toronto, Ontario, Canada
-- 💰 **Salary:** $45.85 to $57.31 per hour
-- 🕒 **Posted:** 2026-07-28
-
-### [Surgery Scheduling/Auth Care Coordinator-Indian Trail](https://www.linkedin.com/jobs/view/4445771952/) — Atrium Health
-- 📍 **Location:** Indian Trail, NC
-- 💰 **Salary:** $20.80 - $31.20
-- 🕒 **Posted:** 2026-07-28
-
-### [Care Coordinator Auth Scheduling Specialist - Atrium Health Pineville FT](https://www.linkedin.com/jobs/view/4445789050/) — Atrium Health
-- 📍 **Location:** Charlotte, NC
-- 💰 **Salary:** $20.80 - $31.20
-- 🕒 **Posted:** 2026-07-28
-
-### [Care Coordinator Auth Scheduling Specialist](https://www.linkedin.com/jobs/view/4445782136/) — Atrium Health
-- 📍 **Location:** Charlotte, NC
-- 💰 **Salary:** $20.80 - $31.20
-- 🕒 **Posted:** 2026-07-28
-
-### [Patient Care Coordinator](https://www.linkedin.com/jobs/view/4446506017/) — CloudRx Pharmacy Hub
-- 📍 **Location:** Dallas, TX
-- 🕒 **Posted:** 2026-07-28
-
-### [Care Coordinator](https://www.linkedin.com/jobs/view/4443626585/) — Valeris
-- 📍 **Location:** Indiana, United States
-- 🕒 **Posted:** 2026-07-28
-
-### [Foster Care Coordinator](https://www.linkedin.com/jobs/view/4446388542/) — Pathways
-- 📍 **Location:** Knoxville, TN
-- 🕒 **Posted:** 2026-07-28
-
-### [Associate Patient Care Coordinator](https://www.linkedin.com/jobs/view/4446503077/) — Optum
-- 📍 **Location:** Mukilteo, WA
-- 💰 **Salary:** $16 - $29 per hour
-- 🕒 **Posted:** 2026-07-28
-
-### [Associate Patient Care Coordinator](https://www.linkedin.com/jobs/view/4446395360/) — Optum
-- 📍 **Location:** Gilbert, AZ
-- 💰 **Salary:** $16 - $29 per hour
-- 🕒 **Posted:** 2026-07-28
-
-### [Associate Patient Care Coordinator](https://www.linkedin.com/jobs/view/4446504067/) — Optum
-- 📍 **Location:** Latrobe, PA
-- 💰 **Salary:** $16 - $29 per hour
-- 🕒 **Posted:** 2026-07-28
-
-### [Associate Patient Care Coordinator](https://www.linkedin.com/jobs/view/4446501105/) — Optum
-- 📍 **Location:** Latrobe, PA
-- 💰 **Salary:** $16 - $29 per hour
-- 🕒 **Posted:** 2026-07-28
-
-### [Case Manager I](https://www.linkedin.com/jobs/view/4446396111/) — SAFY of America
-- 📍 **Location:** Louisville, KY
-- 💰 **Salary:** $44,000.00/yr - $53,000.00/yr
-- 🕒 **Posted:** 2026-07-28
-
-### [Team Leader](https://www.linkedin.com/jobs/view/4444606629/) — National Youth Advocate Program (NYAP)
-- 📍 **Location:** Columbus, OH
-- 💰 **Salary:** $60,000-65,000/yr
-- 🕒 **Posted:** 2026-07-28
-
-### [Newborn Screening Coordinator (Program Coordinator II)-61081975](https://www.linkedin.com/jobs/view/4445776577/) — S.C. Department of Public Health
-- 📍 **Location:** Richland County, SC
-- 🕒 **Posted:** 2026-07-28
-
-### [Family Support Worker](https://www.linkedin.com/jobs/view/4446388797/) — Nottinghamshire County Council
-- 📍 **Location:** Nottinghamshire, England, United Kingdom
-- 🕒 **Posted:** 2026-07-28
-
-### [Family Support Worker](https://www.linkedin.com/jobs/view/4446383966/) — Nottinghamshire County Council
-- 📍 **Location:** Nottinghamshire, England, United Kingdom
-- 🕒 **Posted:** 2026-07-28
-
-### [1.0 FTE School Social Worker (3 positions)](https://www.linkedin.com/jobs/view/4445789228/) — Michigan Association of Secondary School Principals (MASSP)
-- 📍 **Location:** Sacré-Coeur, Quebec, Canada
-- 🕒 **Posted:** 2026-07-28
-
-### [School Social Worker](https://www.linkedin.com/jobs/view/4445798120/) — Michigan Association of Secondary School Principals (MASSP)
-- 📍 **Location:** Grand Rapids Metropolitan Area
+### [Social Worker II - Honolulu, Oahu](https://www.linkedin.com/jobs/view/4443646172/) — Hawai`i State Judiciary
+- 📍 **Location:** Honolulu, HI
 - 🕒 **Posted:** 2026-07-28
