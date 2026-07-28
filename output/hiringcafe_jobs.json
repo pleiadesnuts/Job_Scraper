@@ -1,22 +1,8 @@
 {
-  "scraped_at": "2026-07-28 22:48 UTC",
+  "scraped_at": "2026-07-28 23:47 UTC",
   "total": 96,
-  "new_count": 1,
+  "new_count": 0,
   "jobs": [
-    {
-      "company": "-",
-      "title": "Social Worker",
-      "location": "Wethersfield, Connecticut, United States",
-      "url": "https://careers-nathealthcare.icims.com/jobs/7331/social-worker/job?in_iframe=1",
-      "direct_url": "https://careers-nathealthcare.icims.com/jobs/7331/social-worker/job?in_iframe=1",
-      "date_posted": "2026-07-20T04:00:00.000Z",
-      "description": "Master's in social work, state licensure as a social worker, experience in long-term care, strong assessment, counseling, crisis intervention, and teamwork skills.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
     {
       "company": "Avant Rehabilitation and Care Center",
       "title": "Social Worker",
@@ -27,6 +13,20 @@
       "description": "Bachelor's degree in social work or psychology, licensed clinical social worker (LCSW), experience with vulnerable populations and LTC preferred, strong communication and empathy.",
       "salary": "",
       "job_type": "Part Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "-",
+      "title": "Social Worker",
+      "location": "Wethersfield, Connecticut, United States",
+      "url": "https://careers-nathealthcare.icims.com/jobs/7331/social-worker/job?in_iframe=1",
+      "direct_url": "https://careers-nathealthcare.icims.com/jobs/7331/social-worker/job?in_iframe=1",
+      "date_posted": "2026-07-20T04:00:00.000Z",
+      "description": "Master's in social work, state licensure as a social worker, experience in long-term care, strong assessment, counseling, crisis intervention, and teamwork skills.",
+      "salary": "",
+      "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
       "ats": "HiringCafe"
@@ -508,20 +508,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Ascension Recovery Services",
-      "title": "Case Manager",
-      "location": "Muncie, Indiana, United States",
-      "url": "https://ascensionrecovery.bamboohr.com/careers/899",
-      "direct_url": "https://ascensionrecovery.bamboohr.com/careers/899",
-      "date_posted": "2026-07-17T00:00:00.000Z",
-      "description": "Provide case management, discharge planning, resource coordination, EHR documentation, and advocacy for clients with substance use and mental health needs.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Guardian Tax",
       "title": "Case Manager",
       "location": "Irvine, California, United States",
@@ -530,6 +516,20 @@
       "date_posted": "2026-07-22T18:50:44.359Z",
       "description": "Minimum 6 months case management experience, strong communication, organization, ability to learn new systems, client-focused and coachable.",
       "salary": "$46k–$50k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Ascension Recovery Services",
+      "title": "Case Manager",
+      "location": "Muncie, Indiana, United States",
+      "url": "https://ascensionrecovery.bamboohr.com/careers/899",
+      "direct_url": "https://ascensionrecovery.bamboohr.com/careers/899",
+      "date_posted": "2026-07-17T00:00:00.000Z",
+      "description": "Provide case management, discharge planning, resource coordination, EHR documentation, and advocacy for clients with substance use and mental health needs.",
+      "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
@@ -662,6 +662,20 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "Texas Tech University Health Sciences Center",
+      "title": "Program Coordinator",
+      "location": "Texas, United States",
+      "url": "https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25898&siteid=5283&PageType=JobDetails&jobid=918878",
+      "direct_url": "https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25898&siteid=5283&PageType=JobDetails&jobid=918878",
+      "date_posted": "2026-07-22T12:00:00.000Z",
+      "description": "High school plus 6 years related experience (or equivalent education); experience coordinating GME/fellowship programs; knowledge of ACGME accreditation and clinical workflows; strong administrative and communication skills.",
+      "salary": "$31k–$48k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
       "company": "Energy & Environment Cabinet - Dept for Environmental Protection",
       "title": "Program Coordinator",
       "location": "Paducah, Kentucky, United States",
@@ -690,14 +704,14 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Texas Tech University Health Sciences Center",
+      "company": "VOA Illinois",
       "title": "Program Coordinator",
-      "location": "Texas, United States",
-      "url": "https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25898&siteid=5283&PageType=JobDetails&jobid=918878",
-      "direct_url": "https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25898&siteid=5283&PageType=JobDetails&jobid=918878",
-      "date_posted": "2026-07-22T12:00:00.000Z",
-      "description": "High school plus 6 years related experience (or equivalent education); experience coordinating GME/fellowship programs; knowledge of ACGME accreditation and clinical workflows; strong administrative and communication skills.",
-      "salary": "$31k–$48k/yr",
+      "location": "Chicago, Illinois, United States",
+      "url": "https://recruitingbypaycor.com/career/JobIntroduction.action?clientId=8a7883d0958c3c940195de2b4092554a&id=8a7883ac9efb8722019f1ea8d0c6158c&source=&lang=en",
+      "direct_url": "https://recruitingbypaycor.com/career/JobIntroduction.action?clientId=8a7883d0958c3c940195de2b4092554a&id=8a7883ac9efb8722019f1ea8d0c6158c&source=&lang=en",
+      "date_posted": "2026-07-01T17:16:18.000Z",
+      "description": "Bachelor's degree or veteran status required; minimum 2 years program coordination/logistics experience; valid driver’s license; ability to lift up to 50 lbs; strong communication and administrative skills.",
+      "salary": "$46k–$55k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
@@ -726,20 +740,6 @@
       "date_posted": "2026-07-08T16:23:09.000Z",
       "description": "Experience in program coordination or operations, ability to obtain NYS BPSS Agent certification, strong organizational and communication skills, proficiency with Google Workspace, Microsoft Office and CRM, grant administrative experience preferred.",
       "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "VOA Illinois",
-      "title": "Program Coordinator",
-      "location": "Chicago, Illinois, United States",
-      "url": "https://recruitingbypaycor.com/career/JobIntroduction.action?clientId=8a7883d0958c3c940195de2b4092554a&id=8a7883ac9efb8722019f1ea8d0c6158c&source=&lang=en",
-      "direct_url": "https://recruitingbypaycor.com/career/JobIntroduction.action?clientId=8a7883d0958c3c940195de2b4092554a&id=8a7883ac9efb8722019f1ea8d0c6158c&source=&lang=en",
-      "date_posted": "2026-07-01T17:16:18.000Z",
-      "description": "Bachelor's degree or veteran status required; minimum 2 years program coordination/logistics experience; valid driver’s license; ability to lift up to 50 lbs; strong communication and administrative skills.",
-      "salary": "$46k–$55k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
@@ -886,20 +886,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Rutgers University",
-      "title": "Program Coordinator II",
-      "location": "Camden, New Jersey, United States",
-      "url": "https://jobs.rutgers.edu/postings/279135/pre_apply",
-      "direct_url": "https://jobs.rutgers.edu/postings/279135/pre_apply",
-      "date_posted": "2026-07-28T00:00:00.000Z",
-      "description": "Bachelor's degree or equivalent; minimum 1 year program coordination or administrative experience; grant management, reporting, documentation, strong communication and computer literacy.",
-      "salary": "$53k–$77k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "Telecommute eligible",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Constellation",
       "title": "Research Program Coordinator",
       "location": "Berkeley, California, United States",
@@ -911,6 +897,20 @@
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Rutgers University",
+      "title": "Program Coordinator II",
+      "location": "Camden, New Jersey, United States",
+      "url": "https://jobs.rutgers.edu/postings/279135/pre_apply",
+      "direct_url": "https://jobs.rutgers.edu/postings/279135/pre_apply",
+      "date_posted": "2026-07-28T00:00:00.000Z",
+      "description": "Bachelor's degree or equivalent; minimum 1 year program coordination or administrative experience; grant management, reporting, documentation, strong communication and computer literacy.",
+      "salary": "$53k–$77k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "Telecommute eligible",
       "ats": "HiringCafe"
     },
     {
@@ -1348,20 +1348,5 @@
       "ats": "HiringCafe"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "City of Pharr",
-      "title": "Program Coordinator - HCRMA",
-      "location": "Pharr, Texas, United States",
-      "url": "https://pharrtx.applicantpro.com/jobs/4152982",
-      "direct_url": "https://pharrtx.applicantpro.com/jobs/4152982",
-      "date_posted": "2026-07-20T00:00:00.000Z",
-      "description": "Coordinate program activities, vendors, contracts and prepare desktop-published materials; must hold TxDOT Local Government Project Procedures certification and be bilingual English/Spanish.",
-      "salary": "$60k–$80k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    }
-  ]
+  "new_jobs": []
 }
