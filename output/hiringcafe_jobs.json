@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-07-29 05:02 UTC",
-  "total": 98,
-  "new_count": 3,
+  "scraped_at": "2026-07-29 18:03 UTC",
+  "total": 93,
+  "new_count": 1,
   "jobs": [
     {
       "company": "-",
@@ -144,20 +144,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Centennial School District 12",
-      "title": "Social Worker",
-      "location": "Blaine or Centerville or Circle Pines or Lexington or Lino Lakes",
-      "url": "https://www.applitrack.com/isd12/onlineapp/jobpostings/view.asp?AppliTrackJobId=3089",
-      "direct_url": "https://www.applitrack.com/isd12/onlineapp/jobpostings/view.asp?AppliTrackJobId=3089",
-      "date_posted": "2026-06-29T12:00:00.000Z",
-      "description": "Bachelor's in Social Work required (Master's preferred), Minnesota Board of Social Work or ability to obtain, valid Minnesota school social worker (PELSB) license, experience in secondary schools, MTSS/restorative/trauma-informed knowledge, special education and crisis intervention skills.",
-      "salary": "$52k–$101k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Specialized Education Services",
       "title": "Social Worker",
       "location": "Cincinnati, Ohio, United States",
@@ -180,20 +166,6 @@
       "date_posted": "2026-07-13T04:00:00.000Z",
       "description": "Licensed master social worker with 2+ years experience; case management, crisis intervention, assessment, documentation, and community resource coordination skills required.",
       "salary": "$70k–$80k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "The Goodman Group and Affiliates",
-      "title": "Social Worker",
-      "location": "Missoula, Montana, United States",
-      "url": "https://myjobs.adp.com/thegoodmangroupexternalcs/cx/job-details?reqId=5001206742306",
-      "direct_url": "https://myjobs.adp.com/thegoodmangroupexternalcs/cx/job-details?reqId=5001206742306",
-      "date_posted": "2026-06-30T01:48:32.415Z",
-      "description": "Licensed social worker (LSW/LCSW) or licensed nurse required; perform social assessments (MMSE, MDS), develop care plans, discharge planning, coordinate community resources, lift up to 50 lbs, and use Microsoft Office.",
-      "salary": "$38k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
@@ -228,20 +200,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "University of Utah Health",
-      "title": "Social Worker",
-      "location": "Salt Lake City, Utah, United States",
-      "url": "https://careers-uuhc.icims.com/jobs/84616/social-worker/job?in_iframe=1",
-      "direct_url": "https://careers-uuhc.icims.com/jobs/84616/social-worker/job?in_iframe=1",
-      "date_posted": "2026-07-15T06:00:00.000Z",
-      "description": "Provides psychosocial assessment, counseling, case management, and community resource coordination; requires L.C.S.W. or Certified Social Worker in Utah and RQI eCredential; must perform moderate physical tasks.",
-      "salary": "",
-      "job_type": "Part Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Community Healthcare of Texas",
       "title": "Social Worker",
       "location": "Fort Worth, Texas, United States",
@@ -251,6 +209,20 @@
       "description": "BSW with 1 year required (Master's preferred), Texas state social worker license, valid driver's license and reliable transportation, computer proficiency, hospice/healthcare experience preferred.",
       "salary": "",
       "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "University of Utah Health",
+      "title": "Social Worker",
+      "location": "Salt Lake City, Utah, United States",
+      "url": "https://careers-uuhc.icims.com/jobs/84616/social-worker/job?in_iframe=1",
+      "direct_url": "https://careers-uuhc.icims.com/jobs/84616/social-worker/job?in_iframe=1",
+      "date_posted": "2026-07-15T06:00:00.000Z",
+      "description": "Provides psychosocial assessment, counseling, case management, and community resource coordination; requires L.C.S.W. or Certified Social Worker in Utah and RQI eCredential; must perform moderate physical tasks.",
+      "salary": "",
+      "job_type": "Part Time",
       "is_remote": false,
       "work_arrangement": "On-site",
       "ats": "HiringCafe"
@@ -340,20 +312,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Catholic Charities Diocese of Cleveland",
-      "title": "Case Manager",
-      "location": "Painesville, Ohio, United States",
-      "url": "https://recruiting.ultipro.com/cat1012cacsc/JobBoard/41d1a852-e913-429a-93ff-1d024bc3206d/OpportunityDetail?opportunityId=d0772263-887f-4760-8ad0-293234407928",
-      "direct_url": "https://recruiting.ultipro.com/cat1012cacsc/JobBoard/41d1a852-e913-429a-93ff-1d024bc3206d/OpportunityDetail?opportunityId=d0772263-887f-4760-8ad0-293234407928",
-      "date_posted": "2026-07-20T18:13:42.282Z",
-      "description": "1–2 years case management experience; experience with justice-involved families, community outreach, in-home and office service delivery; ability to manage cases, document in EMR, and work independently.",
-      "salary": "",
-      "job_type": "Part Time",
-      "is_remote": false,
-      "work_arrangement": "Telecommute eligible",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Calcasieu Parish Police Jury, LA",
       "title": "CASE MANAGER",
       "location": "Lake Charles, Louisiana, United States",
@@ -382,6 +340,20 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "Catholic Charities Diocese of Cleveland",
+      "title": "Case Manager",
+      "location": "Painesville, Ohio, United States",
+      "url": "https://recruiting.ultipro.com/cat1012cacsc/JobBoard/41d1a852-e913-429a-93ff-1d024bc3206d/OpportunityDetail?opportunityId=d0772263-887f-4760-8ad0-293234407928",
+      "direct_url": "https://recruiting.ultipro.com/cat1012cacsc/JobBoard/41d1a852-e913-429a-93ff-1d024bc3206d/OpportunityDetail?opportunityId=d0772263-887f-4760-8ad0-293234407928",
+      "date_posted": "2026-07-20T18:13:42.282Z",
+      "description": "1–2 years case management experience; experience with justice-involved families, community outreach, in-home and office service delivery; ability to manage cases, document in EMR, and work independently.",
+      "salary": "",
+      "job_type": "Part Time",
+      "is_remote": false,
+      "work_arrangement": "Telecommute eligible",
+      "ats": "HiringCafe"
+    },
+    {
       "company": "Asheville City Schools",
       "title": "Case Manager",
       "location": "Asheville, North Carolina, United States",
@@ -391,6 +363,20 @@
       "description": "Coordinate student services, conduct assessments, provide crisis intervention and case management; bachelor's degree required, 2+ years experience in case management or student support, familiarity with IEPs/BIPs and mental health interventions.",
       "salary": "",
       "job_type": "Full Time, Temporary",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Divine Arms of Love GRO LLC",
+      "title": "Case Manager",
+      "location": "Houston, Texas, United States",
+      "url": "https://jobs.gusto.com/postings/divine-arms-of-love-gro-llc-case-manager-aed0a9d9-e769-41ad-9d51-27ec7f558985",
+      "direct_url": "https://jobs.gusto.com/postings/divine-arms-of-love-gro-llc-case-manager-aed0a9d9-e769-41ad-9d51-27ec7f558985",
+      "date_posted": "2026-07-06T21:06:46.809Z",
+      "description": "Bachelor's degree in social work/psychology/human services, 2+ years case management experience, CPR and First Aid, valid driver's license and reliable transportation, proficient with case management software and Microsoft Office.",
+      "salary": "$42k/yr",
+      "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
       "ats": "HiringCafe"
@@ -432,20 +418,6 @@
       "date_posted": "2026-07-14T18:32:58.585Z",
       "description": "Ohio LPN, Direct Service Social Worker, or bachelor's in health-related field; 3+ years case management experience; supervisory experience; MEB experience; Microsoft Office 365 proficiency; ability to obtain CAC and complete Army/DoD training.",
       "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "State of Arizona",
-      "title": "CASE MANAGER",
-      "location": "Show Low or Winslow or Phoenix",
-      "url": "https://careers.pageuppeople.com/1045/ci/en/job/542333",
-      "direct_url": "https://careers.pageuppeople.com/1045/ci/en/job/542333",
-      "date_posted": "2026-07-15T16:00:00.000Z",
-      "description": "Bachelor's or master's degree OR 4 years as a DCS Case Aide; valid driver's license and satisfactory driving record; ability to obtain Level One Fingerprint Clearance Card; complete 22-week training; courtroom and case management skills.",
-      "salary": "$45k–$58k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
@@ -662,20 +634,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Associated",
-      "title": "Program Coordinator",
-      "location": "Baltimore, Maryland, United States",
-      "url": "https://jobs.dayforcehcm.com/en-US/associated/jcccandidateportal/jobs/10250",
-      "direct_url": "https://jobs.dayforcehcm.com/en-US/associated/jcccandidateportal/jobs/10250",
-      "date_posted": "2026-07-14T04:00:00.000Z",
-      "description": "Experience coordinating programs, supervising staff, strong customer service, proficiency with CRM and Microsoft Office, ability to lift up to 25 lbs, and excellent communication and organizational skills.",
-      "salary": "$43k–$48k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "The Center for Courageous Kids",
       "title": "Program Coordinator",
       "location": "Scottsville, Kentucky, United States",
@@ -684,6 +642,20 @@
       "date_posted": "2026-07-24T00:00:00.000Z",
       "description": "Plan, coordinate, and deliver year-round camp programs and events; design safe, inclusive age-appropriate activities; assist camp operations to support campers, families, staff, and volunteers.",
       "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Texas Tech University Health Sciences Center",
+      "title": "Program Coordinator",
+      "location": "Texas, United States",
+      "url": "https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25898&siteid=5283&PageType=JobDetails&jobid=918878",
+      "direct_url": "https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25898&siteid=5283&PageType=JobDetails&jobid=918878",
+      "date_posted": "2026-07-22T12:00:00.000Z",
+      "description": "High school plus 6 years related experience (or equivalent education); experience coordinating GME/fellowship programs; knowledge of ACGME accreditation and clinical workflows; strong administrative and communication skills.",
+      "salary": "$31k–$48k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
@@ -718,14 +690,14 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Texas Tech University Health Sciences Center",
+      "company": "VOA Illinois",
       "title": "Program Coordinator",
-      "location": "Texas, United States",
-      "url": "https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25898&siteid=5283&PageType=JobDetails&jobid=918878",
-      "direct_url": "https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25898&siteid=5283&PageType=JobDetails&jobid=918878",
-      "date_posted": "2026-07-22T12:00:00.000Z",
-      "description": "High school plus 6 years related experience (or equivalent education); experience coordinating GME/fellowship programs; knowledge of ACGME accreditation and clinical workflows; strong administrative and communication skills.",
-      "salary": "$31k–$48k/yr",
+      "location": "Chicago, Illinois, United States",
+      "url": "https://recruitingbypaycor.com/career/JobIntroduction.action?clientId=8a7883d0958c3c940195de2b4092554a&id=8a7883ac9efb8722019f1ea8d0c6158c&source=&lang=en",
+      "direct_url": "https://recruitingbypaycor.com/career/JobIntroduction.action?clientId=8a7883d0958c3c940195de2b4092554a&id=8a7883ac9efb8722019f1ea8d0c6158c&source=&lang=en",
+      "date_posted": "2026-07-01T17:16:18.000Z",
+      "description": "Bachelor's degree or veteran status required; minimum 2 years program coordination/logistics experience; valid driver’s license; ability to lift up to 50 lbs; strong communication and administrative skills.",
+      "salary": "$46k–$55k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
@@ -754,20 +726,6 @@
       "date_posted": "2026-07-08T16:23:09.000Z",
       "description": "Experience in program coordination or operations, ability to obtain NYS BPSS Agent certification, strong organizational and communication skills, proficiency with Google Workspace, Microsoft Office and CRM, grant administrative experience preferred.",
       "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "VOA Illinois",
-      "title": "Program Coordinator",
-      "location": "Chicago, Illinois, United States",
-      "url": "https://recruitingbypaycor.com/career/JobIntroduction.action?clientId=8a7883d0958c3c940195de2b4092554a&id=8a7883ac9efb8722019f1ea8d0c6158c&source=&lang=en",
-      "direct_url": "https://recruitingbypaycor.com/career/JobIntroduction.action?clientId=8a7883d0958c3c940195de2b4092554a&id=8a7883ac9efb8722019f1ea8d0c6158c&source=&lang=en",
-      "date_posted": "2026-07-01T17:16:18.000Z",
-      "description": "Bachelor's degree or veteran status required; minimum 2 years program coordination/logistics experience; valid driver’s license; ability to lift up to 50 lbs; strong communication and administrative skills.",
-      "salary": "$46k–$55k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
@@ -1124,20 +1082,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Wvumedicine",
-      "title": "Community Health Worker",
-      "location": "Oakland, Maryland, United States",
-      "url": "https://wvumedicine.wd1.myworkdayjobs.com/wvuh/job/Garrett-Regional-Medical-Center-GRMC/Community-Health-Worker_JR26-39560",
-      "direct_url": "https://wvumedicine.wd1.myworkdayjobs.com/wvuh/job/Garrett-Regional-Medical-Center-GRMC/Community-Health-Worker_JR26-39560",
-      "date_posted": "2026-07-06T00:00:00.000Z",
-      "description": "High school diploma or equivalent, valid driver’s license, CPR preferred, experience with electronic health records, strong communication and organizational skills.",
-      "salary": "$35k–$52k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Essentiahealth",
       "title": "Community Health Worker",
       "location": "Grand Rapids, Minnesota, United States",
@@ -1247,20 +1191,6 @@
       "job_type": "Full Time",
       "is_remote": true,
       "work_arrangement": "Remote in-state eligible",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Presbyterian Healthcare Services",
-      "title": "Community Health Worker",
-      "location": "Santa Fe or Española",
-      "url": "https://phsorg.wd1.myworkdayjobs.com/careers/job/Presbyterian-Santa-Fe-Medical-Center/Community-Health-Worker-SF_R-5929",
-      "direct_url": "https://phsorg.wd1.myworkdayjobs.com/careers/job/Presbyterian-Santa-Fe-Medical-Center/Community-Health-Worker-SF_R-5929",
-      "date_posted": "2026-06-30T00:00:00.000Z",
-      "description": "High school/GED required; CHW certification (Level II/III preferred) and 3 years community health experience preferred; ability to speak population language; comfortable with EPIC and Microsoft Office; experience with care navigation and community resource connection.",
-      "salary": "$38k–$57k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
       "ats": "HiringCafe"
     },
     {
@@ -1378,45 +1308,17 @@
   ],
   "new_jobs": [
     {
-      "company": "Specialized Education Services",
-      "title": "Social Worker",
-      "location": "Cincinnati, Ohio, United States",
-      "url": "https://careers.fullbloom.org/jobs/37423?lang=en-us",
-      "direct_url": "https://careers.fullbloom.org/jobs/37423?lang=en-us",
-      "date_posted": "2026-07-28T21:15:05.000Z",
-      "description": "Licensed clinical social worker or counselor (LPC/LCPC, LCSW/LMSW, LMFT/LMHC/LCMHC), master’s degree in social work/human services/related field, 2 years working with children/adolescents preferred.",
-      "salary": "$60k/yr",
+      "company": "Divine Arms of Love GRO LLC",
+      "title": "Case Manager",
+      "location": "Houston, Texas, United States",
+      "url": "https://jobs.gusto.com/postings/divine-arms-of-love-gro-llc-case-manager-aed0a9d9-e769-41ad-9d51-27ec7f558985",
+      "direct_url": "https://jobs.gusto.com/postings/divine-arms-of-love-gro-llc-case-manager-aed0a9d9-e769-41ad-9d51-27ec7f558985",
+      "date_posted": "2026-07-06T21:06:46.809Z",
+      "description": "Bachelor's degree in social work/psychology/human services, 2+ years case management experience, CPR and First Aid, valid driver's license and reliable transportation, proficient with case management software and Microsoft Office.",
+      "salary": "$42k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Asu",
-      "title": "Program Coordinator",
-      "location": "Tempe, Arizona, United States",
-      "url": "https://asu.wd1.myworkdayjobs.com/asustaffcareers/job/Campus-Tempe/Program-Coordinator_JR122930",
-      "direct_url": "https://asu.wd1.myworkdayjobs.com/asustaffcareers/job/Campus-Tempe/Program-Coordinator_JR122930",
-      "date_posted": "2026-07-28T00:00:00.000Z",
-      "description": "Bachelor's degree plus 3 years' relevant experience (or equivalent), strong event coordination, communications, program support, Microsoft Office and Salesforce experience.",
-      "salary": "$55k–$68k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "Telecommute eligible",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Evergreen Nephrology",
-      "title": "Community Health Worker",
-      "location": "United States",
-      "url": "https://job-boards.greenhouse.io/evergreennephrology/jobs/4719117005",
-      "direct_url": "https://job-boards.greenhouse.io/evergreennephrology/jobs/4719117005",
-      "date_posted": "2026-07-28T15:47:05.000Z",
-      "description": "Active CHW certification, 3+ years care coordination/community health experience, team-based care experience, strong communication, MS Office (Outlook, Teams) skills, ability to work remotely with reliable internet; bilingual Spanish/English preferred.",
-      "salary": "$46k–$52k/yr",
-      "job_type": "Full Time",
-      "is_remote": true,
-      "work_arrangement": "Remote in-state eligible",
       "ats": "HiringCafe"
     }
   ]
