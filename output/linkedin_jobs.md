@@ -1,135 +1,113 @@
 # 🔥 LinkedIn — Social Worker Roles
-*Last updated: 2026-07-29 18:29 UTC*
+*Last updated: 2026-07-29 19:59 UTC*
 
-**31 new role(s)** since last run · 32 total in last 1h
+**26 new role(s)** since last run · 33 total in last 1h
 
-### [Program Coordinator](https://www.linkedin.com/jobs/view/4444150385/) — Alsana
-- 📍 **Location:** Birmingham, AL
+### [Intake Case Manager](https://www.linkedin.com/jobs/view/4446854341/) — University of Colorado Boulder
+- 📍 **Location:** Boulder, CO
+- 💰 **Salary:** $53,000-$58,240
 - 🕒 **Posted:** 2026-07-29
 
-### [Program Coordinator (FFTL)](https://www.linkedin.com/jobs/view/4442214092/) — Commonwealth of Kentucky
-- 📍 **Location:** Frankfort, KY
-- 💰 **Salary:** $3,600.84 - $4,699.50 Monthly
+### [Human Services Specialist II - Case Manager (Take Out Recovery Coach)](https://www.linkedin.com/jobs/view/4444156745/) — City of Alexandria, Virginia
+- 📍 **Location:** Alexandria, VA
 - 🕒 **Posted:** 2026-07-29
 
-### [Grant Writer/Executive Assistant](https://www.linkedin.com/jobs/view/4437071549/) — The Centers
-- 📍 **Location:** Little Rock, AR
+### [Community Health Program Coordinator](https://www.linkedin.com/jobs/view/4446840565/) — Osceola County Government
+- 📍 **Location:** Kissimmee, FL
 - 🕒 **Posted:** 2026-07-29
 
-### [Full-Time Youth Counselor](https://www.linkedin.com/jobs/view/4446820957/) — Stars Behavioral Health Group
-- 📍 **Location:** Bakersfield, CA
+### [Youth Counselor](https://www.linkedin.com/jobs/view/4446430314/) — Apis Services, Inc.
+- 📍 **Location:** Philadelphia, PA
 - 🕒 **Posted:** 2026-07-29
 
-### [Youth Counselor](https://www.linkedin.com/jobs/view/4446825939/) — Stars Behavioral Health Group
-- 📍 **Location:** Bakersfield, CA
+### [AFTERSCHOOL/DAY CAMP YOUTH COUNSELOR](https://www.linkedin.com/jobs/view/4446835903/) — Henry County Government
+- 📍 **Location:** McDonough, GA
 - 🕒 **Posted:** 2026-07-29
 
-### [Part-Time Youth Counselor](https://www.linkedin.com/jobs/view/4446355148/) — Stars Behavioral Health Group
-- 📍 **Location:** Bakersfield, CA
+### [Social Worker 1-2 (Term)](https://www.linkedin.com/jobs/view/4446852184/) — Government of Nova Scotia
+- 📍 **Location:** New Glasgow, Nova Scotia, Canada
+- 💰 **Salary:** $2,385.98 - $3,693.39
 - 🕒 **Posted:** 2026-07-29
 
-### [Youth Counselor](https://www.linkedin.com/jobs/view/4445296912/) — Stars Behavioral Health Group
-- 📍 **Location:** Torrance, CA
+### [Community Health Worker (CHW)](https://www.linkedin.com/jobs/view/4446840071/) — Community Care Pathway
+- 📍 **Location:** Atlanta Metropolitan Area
 - 🕒 **Posted:** 2026-07-29
 
-### [On-Call Youth Counselor](https://www.linkedin.com/jobs/view/4446836433/) — Stars Behavioral Health Group
-- 📍 **Location:** Bakersfield, CA
+### [Housing Specialist (BHT) (Housing Services, Tucson)](https://www.linkedin.com/jobs/view/4444147860/) — Catholic Community Services of Southern Arizona
+- 📍 **Location:** Tucson, AZ
 - 🕒 **Posted:** 2026-07-29
 
-### [Community Health Worker](https://www.linkedin.com/jobs/view/4444138960/) — Mercy Hospital St. Louis Critical Care Medicine Fellowship
-- 📍 **Location:** Oklahoma City Metropolitan Area
+### [Case Manager - Working Well Practitioner](https://www.linkedin.com/jobs/view/4446847414/) — NHS Ayrshire & Arran
+- 📍 **Location:** South Lanarkshire, Scotland, United Kingdom
 - 🕒 **Posted:** 2026-07-29
 
-### [Health Educator-Jackson](https://www.linkedin.com/jobs/view/4443192112/) — Georgia Department of Public Health
-- 📍 **Location:** Commerce, GA
+### [Program Coordinator](https://www.linkedin.com/jobs/view/4446445235/) — Gleaners Community Food Bank of Southeastern Michigan
+- 📍 **Location:** Detroit Metropolitan Area
 - 🕒 **Posted:** 2026-07-29
 
-### [Care Coordinator (Care Manager) - Registered Nurse (RN), Social Worker, or Clinical Counselor - R10249-18](https://www.linkedin.com/jobs/view/4304702515/) — CareSource
-- 📍 **Location:** Wooster, OH
-- 💰 **Salary:** $62,700.00 - $100,400.00
+### [Program Coordinator](https://www.linkedin.com/jobs/view/4439878214/) — RIO GRANDE WATER CONSERVATION DISTRICT
+- 📍 **Location:** Alamosa, CO
 - 🕒 **Posted:** 2026-07-29
 
-### [Healthcare Coordinator](https://www.linkedin.com/jobs/view/4446824762/) — PDS Health
-- 📍 **Location:** Santa Rosa, CA
-- 💰 **Salary:** $20.75/hr - $29.00/hr
-- 🕒 **Posted:** 2026-07-29
-
-### [Community Based Care Coordinator I - R10259-7](https://www.linkedin.com/jobs/view/4387512382/) — CareSource
-- 📍 **Location:** Van Buren, AR
-- 💰 **Salary:** $37,080.00 - $59,400.00
-- 🕒 **Posted:** 2026-07-29
-
-### [Patient Care Coordinator](https://www.linkedin.com/jobs/view/4446430042/) — Allied OMS
-- 📍 **Location:** Marble Falls, TX
-- 🕒 **Posted:** 2026-07-29
-
-### [Patient Care Coordinator](https://www.linkedin.com/jobs/view/4445610130/) — AEG Vision
-- 📍 **Location:** St Henry, OH
-- 🕒 **Posted:** 2026-07-29
-
-### [Patient Care Coordinator](https://www.linkedin.com/jobs/view/4446823545/) — AEG Vision
-- 📍 **Location:** Draper, UT
-- 🕒 **Posted:** 2026-07-29
-
-### [Patient Care Coordinator](https://www.linkedin.com/jobs/view/4445604196/) — AEG Vision
-- 📍 **Location:** Kennebunk, ME
-- 🕒 **Posted:** 2026-07-29
-
-### [Client Care Coordinator](https://www.linkedin.com/jobs/view/4446829826/) — Angels of Care Pediatric Home Health
+### [Program Coordinator](https://www.linkedin.com/jobs/view/4444149817/) — Mid South Transport, Inc.
 - 📍 **Location:** Memphis, TN
 - 🕒 **Posted:** 2026-07-29
 
-### [Patient Care Coordinator Part Time](https://www.linkedin.com/jobs/view/4437824763/) — BJ's Wholesale Club
-- 📍 **Location:** Pittsfield, MA
+### [Care Coordinator](https://www.linkedin.com/jobs/view/4444162518/) — Radfield Home Care (UK)
+- 📍 **Location:** Chippenham, England, United Kingdom
 - 🕒 **Posted:** 2026-07-29
 
-### [D171 - Housing Outreach Coord-Case Manager](https://www.linkedin.com/jobs/view/4446826711/) — River Edge Behavioral Health
-- 📍 **Location:** Atlanta, GA
+### [Service Coordinator | Mental Health Case Manager](https://www.linkedin.com/jobs/view/4446853088/) — Crestwood Behavioral Health, Inc.
+- 📍 **Location:** Santa Barbara, CA
+- 💰 **Salary:** $24.20 USD - $25.68 USD
 - 🕒 **Posted:** 2026-07-29
 
-### [Case Manager, Shelter (Bilingual)](https://www.linkedin.com/jobs/view/4444223875/) — Hamilton Families
-- 📍 **Location:** San Francisco, CA
+### [Care Coordinator Social Worker](https://www.linkedin.com/jobs/view/4446832943/) — Wellstar Health System
+- 📍 **Location:** Griffin, GA
 - 🕒 **Posted:** 2026-07-29
 
-### [CASE MANAGER](https://www.linkedin.com/jobs/view/4446439024/) — Arizona Department of Child Safety
-- 📍 **Location:** Queen Creek, AZ
+### [Human Services Case Manager](https://www.linkedin.com/jobs/view/4445305917/) — Oregon Department of Human Services
+- 📍 **Location:** Oregon City, OR
+- 💰 **Salary:** $5,193.00/mo - $6,904.00/mo
 - 🕒 **Posted:** 2026-07-29
 
-### [Community Health Worker (Community Programs)](https://www.linkedin.com/jobs/view/4446832404/) — The Johns Hopkins University
-- 📍 **Location:** Baltimore, MD
-- 💰 **Salary:** $15.70 - $26.25
+### [Case Manager](https://www.linkedin.com/jobs/view/4441564086/) — Equus Workforce Solutions
+- 📍 **Location:** Springfield, MO
 - 🕒 **Posted:** 2026-07-29
 
-### [CASE MANAGER](https://www.linkedin.com/jobs/view/4446442010/) — Arizona Department of Child Safety
-- 📍 **Location:** Glendale, AZ
+### [PROGRAM COORDINATOR, CTE](https://www.linkedin.com/jobs/view/4444163826/) — Orange County Public Schools
+- 📍 **Location:** Orlando, FL
 - 🕒 **Posted:** 2026-07-29
 
-### [Reentry Center Program Coordinator](https://www.linkedin.com/jobs/view/4444148396/) — Navajo County
-- 📍 **Location:** Holbrook, AZ
+### [Substance Abuse Counselor - LAG-USC](https://www.linkedin.com/jobs/view/4444161355/) — Wesley Health Centers - JWCH Institute, Inc.
+- 📍 **Location:** Los Angeles, CA
 - 🕒 **Posted:** 2026-07-29
 
-### [Substance Abuse Counselor - Master's Degree](https://www.linkedin.com/jobs/view/4446415763/) — New Season
-- 📍 **Location:** Huntsville, AL
+### [Behavioral Health Specialist (Substance Abuse Focused)- Fairfield County](https://www.linkedin.com/jobs/view/4446427432/) — OhioGuidestone
+- 📍 **Location:** Lancaster, OH
 - 🕒 **Posted:** 2026-07-29
 
-### [Nursing Supervisor (RN) - Labor Pool - Nights - Mental Health](https://www.linkedin.com/jobs/view/4446830780/) — Riverside Health
-- 📍 **Location:** Hampton, VA
-- 💰 **Salary:** $43.40 - $59.68/Hourly
+### [Remote Public Social Worker (Child & Family)](https://www.linkedin.com/jobs/view/4446428355/) — Turing
+- 📍 **Location:** United States
 - 🕒 **Posted:** 2026-07-29
 
-### [Care Coordinator (Administrator)](https://www.linkedin.com/jobs/view/4446843250/) — HCRG Care Group
-- 📍 **Location:** Preston, England, United Kingdom
+### [Social Worker](https://www.linkedin.com/jobs/view/4444157752/) — Northwest Tri-County Intermediate Unit 5 (IU5)
+- 📍 **Location:** Edinboro, PA
 - 🕒 **Posted:** 2026-07-29
 
-### [Social Worker (MSW)](https://www.linkedin.com/jobs/view/4446833709/) — Crossbridge Hospice, LLC
-- 📍 **Location:** Akron, OH
+### [Program Manager, Coordinated Services- Student Welfare & Attendance](https://www.linkedin.com/jobs/view/4446437371/) — Alameda County Office of Education
+- 📍 **Location:** Hayward, CA
 - 🕒 **Posted:** 2026-07-29
 
-### [Care Coordinator (Care Manager) - Registered Nurse (RN), Social Worker, or Clinical Counselor - R10249-15](https://www.linkedin.com/jobs/view/4304296584/) — CareSource
-- 📍 **Location:** Cincinnati, OH
-- 💰 **Salary:** $62,700.00 - $100,400.00
+### [Family Case Manager](https://www.linkedin.com/jobs/view/4444152551/) — State of Indiana
+- 📍 **Location:** Martinsville, IN
 - 🕒 **Posted:** 2026-07-29
 
-### [Social Worker III-Social Service Agency - DAAS](https://www.linkedin.com/jobs/view/4446440093/) — County of Santa Clara
-- 📍 **Location:** Santa Clara County, CA
+### [Social Worker](https://www.linkedin.com/jobs/view/4444174124/) — Metropolitan Government of Nashville and Davidson County
+- 📍 **Location:** Nashville, TN
+- 🕒 **Posted:** 2026-07-29
+
+### [Clinical Social Worker (Health/Correctional Facility)-North Kern State Prison, Delano](https://www.linkedin.com/jobs/view/4446835619/) — California Correctional Health Care Services
+- 📍 **Location:** Kern County, CA
+- 💰 **Salary:** $5,188.00/mo - $10,569.00/mo
 - 🕒 **Posted:** 2026-07-29
