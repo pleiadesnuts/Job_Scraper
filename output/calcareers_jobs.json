@@ -1,68 +1,8 @@
 {
-  "scraped_at": "2026-07-28 17:46 UTC",
-  "total": 10,
+  "scraped_at": "2026-07-29 17:29 UTC",
+  "total": 7,
   "new_count": 0,
   "jobs": [
-    {
-      "company": "Department of Justice",
-      "title": "Criminalist Supervisor (Quality Assurance Specialist)",
-      "location": "Sacramento County",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=522930",
-      "date_posted": "2026-07-08",
-      "salary": "$9093.00 - $12480.00",
-      "ats": "CalCareers",
-      "telework": "In Office",
-      "job_type": "Permanent, Full Time",
-      "work_arrangement": "On-site"
-    },
-    {
-      "company": "Department of Justice",
-      "title": "Criminalist Supervisor",
-      "location": "Shasta County",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=524935",
-      "date_posted": "2026-07-22",
-      "salary": "$9093.00 - $12480.00",
-      "ats": "CalCareers",
-      "telework": "In Office",
-      "job_type": "Permanent, Full Time",
-      "work_arrangement": "On-site"
-    },
-    {
-      "company": "Department of Justice",
-      "title": "Criminalist Supervisor",
-      "location": "Butte County",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=524945",
-      "date_posted": "2026-07-22",
-      "salary": "$9093.00 - $12480.00",
-      "ats": "CalCareers",
-      "telework": "In Office",
-      "job_type": "Permanent, Full Time",
-      "work_arrangement": "On-site"
-    },
-    {
-      "company": "Department of Fish and Wildlife",
-      "title": "Northern Lands, Program Coordinator",
-      "location": "Los Angeles County",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=526357",
-      "date_posted": "2026-07-27",
-      "salary": "$4418.00 - $9321.00",
-      "ats": "CalCareers",
-      "telework": "Hybrid",
-      "job_type": "Permanent, Full Time",
-      "work_arrangement": "Telecommute eligible"
-    },
-    {
-      "company": "Department of Fish and Wildlife",
-      "title": "Northern Lands, Program Coordinator",
-      "location": "Ventura County",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=526362",
-      "date_posted": "2026-07-27",
-      "salary": "$4418.00 - $9321.00",
-      "ats": "CalCareers",
-      "telework": "Hybrid",
-      "job_type": "Permanent, Full Time",
-      "work_arrangement": "Telecommute eligible"
-    },
     {
       "company": "Department of Insurance",
       "title": "Sustainable Insurance and Protection Gap Research Supervisor",
@@ -70,10 +10,7 @@
       "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=525645",
       "date_posted": "2026-07-23",
       "salary": "$8266.00 - $10269.00",
-      "ats": "CalCareers",
-      "telework": "Hybrid",
-      "job_type": "Permanent, Full Time",
-      "work_arrangement": "Telecommute eligible"
+      "ats": "CalCareers"
     },
     {
       "company": "Department of Corrections & Rehabilitation",
@@ -88,16 +25,31 @@
       "work_arrangement": "On-site"
     },
     {
+      "company": "Department of Justice",
+      "title": "Criminalist Supervisor (Quality Assurance Specialist)",
+      "location": "Sacramento County",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=522930",
+      "date_posted": "2026-07-08",
+      "salary": "$9093.00 - $12480.00",
+      "ats": "CalCareers"
+    },
+    {
+      "company": "Employment Development Department",
+      "title": "Supervisor II",
+      "location": "Sacramento County",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=526580",
+      "date_posted": "2026-07-28",
+      "salary": "$7872.00 - $9781.00",
+      "ats": "CalCareers"
+    },
+    {
       "company": "CA High Speed Rail Authority",
       "title": "Attorney Supervisor",
       "location": "Sacramento County",
       "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=523748",
       "date_posted": "2026-07-06",
       "salary": "$11867.00 - $16900.00",
-      "ats": "CalCareers",
-      "telework": "Hybrid",
-      "job_type": "Permanent, Full Time",
-      "work_arrangement": "Telecommute eligible"
+      "ats": "CalCareers"
     },
     {
       "company": "State Water Resources Control Board",
