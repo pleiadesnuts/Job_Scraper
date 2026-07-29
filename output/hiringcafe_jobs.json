@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-07-29 22:48 UTC",
-  "total": 94,
-  "new_count": 1,
+  "scraped_at": "2026-07-29 23:51 UTC",
+  "total": 93,
+  "new_count": 0,
   "jobs": [
     {
       "company": "Avant Rehabilitation and Care Center",
@@ -1138,20 +1138,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Wilmington Community Clinic",
-      "title": "Community Health Worker",
-      "location": "Wilmington or Los Angeles",
-      "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4293116",
-      "direct_url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4293116",
-      "date_posted": "2026-06-29T23:04:09.000Z",
-      "description": "Bilingual English/Spanish required; HS diploma/GED required; CHW certification preferred; experience in community health, patient navigation, or care coordination preferred; proficiency with EPIC and Microsoft Office; Strong communication and outreach skills.",
-      "salary": "$46k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Compass Health Network",
       "title": "Community Health Worker",
       "location": "Wentzville, Missouri, United States",
@@ -1320,20 +1306,5 @@
       "ats": "HiringCafe"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "EHC Career Site",
-      "title": "Case Manager",
-      "location": "Bedford, Texas, United States",
-      "url": "https://ibwsjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/2526612",
-      "direct_url": "https://ibwsjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/2526612",
-      "date_posted": "2026-07-29T19:09:12.000Z",
-      "description": "Coordinate patient care from admission to post-discharge, perform assessments, manage resources, document case management tasks, and participate in utilization review and on-call schedule.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    }
-  ]
+  "new_jobs": []
 }
