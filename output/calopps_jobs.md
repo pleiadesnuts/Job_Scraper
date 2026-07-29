@@ -1,8 +1,12 @@
 # 🏛 CalOpps — California Local-Agency Social Worker Roles
-*Last updated: 2026-07-28 17:56 UTC*
+*Last updated: 2026-07-29 17:51 UTC*
 
-**1 new role(s)** since last run · 12 total in recent CalOpps postings
+**2 new role(s)** since last run · 14 total in recent CalOpps postings
 
-### [Utilities Field Services Supervisor- Trees #26A-26](https://www.calopps.org/redwood-city/job-20762168) — Redwood City
+### [Operations Supervisor](https://www.calopps.org/purissima-hills-water-district/job-20763391) — Purissima Hills Water District
 - 📍 **Location:** San Francisco/Peninsula
-- 💰 **Salary:** $12,027.00-$14,430.00 Monthly
+- 💰 **Salary:** $129,458.00-$175,536.00 Annually
+
+### [HHSA Program Manager- Social Services](https://www.calopps.org/glenn/job-20763304) — Glenn
+- 📍 **Location:** Northern California Inland
+- 💰 **Salary:** $44.20-$53.73 Hourly

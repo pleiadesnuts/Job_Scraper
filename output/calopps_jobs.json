@@ -1,8 +1,26 @@
 {
-  "scraped_at": "2026-07-28 17:56 UTC",
-  "total": 12,
-  "new_count": 1,
+  "scraped_at": "2026-07-29 17:51 UTC",
+  "total": 14,
+  "new_count": 2,
   "jobs": [
+    {
+      "company": "Purissima Hills Water District",
+      "title": "Operations Supervisor",
+      "location": "San Francisco/Peninsula",
+      "url": "https://www.calopps.org/purissima-hills-water-district/job-20763391",
+      "date_posted": "",
+      "salary": "$129,458.00-$175,536.00 Annually",
+      "ats": "CalOpps"
+    },
+    {
+      "company": "Glenn",
+      "title": "HHSA Program Manager- Social Services",
+      "location": "Northern California Inland",
+      "url": "https://www.calopps.org/glenn/job-20763304",
+      "date_posted": "",
+      "salary": "$44.20-$53.73 Hourly",
+      "ats": "CalOpps"
+    },
     {
       "company": "Redwood City",
       "title": "Utilities Field Services Supervisor- Trees #26A-26",
@@ -114,12 +132,21 @@
   ],
   "new_jobs": [
     {
-      "company": "Redwood City",
-      "title": "Utilities Field Services Supervisor- Trees #26A-26",
+      "company": "Purissima Hills Water District",
+      "title": "Operations Supervisor",
       "location": "San Francisco/Peninsula",
-      "url": "https://www.calopps.org/redwood-city/job-20762168",
+      "url": "https://www.calopps.org/purissima-hills-water-district/job-20763391",
       "date_posted": "",
-      "salary": "$12,027.00-$14,430.00 Monthly",
+      "salary": "$129,458.00-$175,536.00 Annually",
+      "ats": "CalOpps"
+    },
+    {
+      "company": "Glenn",
+      "title": "HHSA Program Manager- Social Services",
+      "location": "Northern California Inland",
+      "url": "https://www.calopps.org/glenn/job-20763304",
+      "date_posted": "",
+      "salary": "$44.20-$53.73 Hourly",
       "ats": "CalOpps"
     }
   ]
