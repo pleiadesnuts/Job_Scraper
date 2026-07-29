@@ -1,136 +1,120 @@
 # 🔥 LinkedIn — Social Worker Roles
-*Last updated: 2026-07-29 22:27 UTC*
+*Last updated: 2026-07-29 23:27 UTC*
 
-**30 new role(s)** since last run · 31 total in last 1h
+**26 new role(s)** since last run · 28 total in last 1h
 
-### [Bilingual Case Manager_JOR](https://www.linkedin.com/jobs/view/4446006609/) — National Youth Advocate Program (NYAP)
-- 📍 **Location:** Aurora, CO
+### [Telephonic Case Manager](https://www.linkedin.com/jobs/view/4446440878/) — Enlyte
+- 📍 **Location:** United States
+- 💰 **Salary:** $74,000 - $86,000 annually
 - 🕒 **Posted:** 2026-07-29
 
-### [PA Program Coordinator](https://www.linkedin.com/jobs/view/4436426074/) — Rocky Vista University
-- 📍 **Location:** Englewood, CO
-- 💰 **Salary:** $23.25 - $27.50 per hour
-- 🕒 **Posted:** 2026-07-29
-
-### [Shift Supervisor - Clayton Donation Center](https://www.linkedin.com/jobs/view/4446874247/) — Goodwill of Colorado
+### [CDOC (Social Worker/Counselor III) Mental Health Clinician - (DENVER)](https://www.linkedin.com/jobs/view/4446873848/) — State of Colorado
 - 📍 **Location:** Denver, CO
 - 🕒 **Posted:** 2026-07-29
 
-### [DSHS WSH Behavioral Health Specialist 3](https://www.linkedin.com/jobs/view/4446856920/) — Washington State Department of Social and Health Services
-- 📍 **Location:** Lakewood, WA
+### [Disability Navigator Case Manager I/II - Limited Term](https://www.linkedin.com/jobs/view/4444185577/) — Larimer County Department of Health and Environment
+- 📍 **Location:** Spruce, CO
 - 🕒 **Posted:** 2026-07-29
 
-### [Community Services Program Coordinator 1B](https://www.linkedin.com/jobs/view/4446868601/) — Area Agency on Aging & Disabilities of Southwest Washington
-- 📍 **Location:** Vancouver, WA
-- 💰 **Salary:** $66,096 - $91,128, annually
+### [Program Manager, Business Funding and Incentives Division](https://www.linkedin.com/jobs/view/4446884366/) — State of Colorado
+- 📍 **Location:** Denver, CO
+- 💰 **Salary:** $65,000 - $75,000 Annually
 - 🕒 **Posted:** 2026-07-29
 
-### [Queens Program Coordinator](https://www.linkedin.com/jobs/view/4446437685/) — Apex for Youth
-- 📍 **Location:** New York City Metropolitan Area
-- 💰 **Salary:** $59,000.00/yr - $64,000.00/yr
+### [Peer Support Specialist](https://www.linkedin.com/jobs/view/4446877456/) — SSG Project 180
+- 📍 **Location:** Los Angeles, CA
+- 💰 **Salary:** $27.84 - $30.62
 - 🕒 **Posted:** 2026-07-29
 
-### [Immigration Program Coordinator](https://www.linkedin.com/jobs/view/4446416280/) — South Brooklyn Sanctuary
+### [Senior Program Manager, Strategic Program Management and Advancement](https://www.linkedin.com/jobs/view/4446881400/) — ICMA - International City/County Management Association
+- 📍 **Location:** Washington, DC
+- 💰 **Salary:** $78,450 to $98,062
+- 🕒 **Posted:** 2026-07-29
+
+### [YESS SUPERVISOR](https://www.linkedin.com/jobs/view/4444193078/) — Catholic Charities of the Diocese of Rochester
+- 📍 **Location:** Nichols, NY
+- 💰 **Salary:** $24-$25/hr
+- 🕒 **Posted:** 2026-07-29
+
+### [Substance Use Counselor/Case Manager](https://www.linkedin.com/jobs/view/4444175817/) — Wisconsin Community Services, Inc.
+- 📍 **Location:** Milwaukee, WI
+- 🕒 **Posted:** 2026-07-29
+
+### [Patient Care Coordinator](https://www.linkedin.com/jobs/view/4446873820/) — AEG Vision
+- 📍 **Location:** Austin, TX
+- 🕒 **Posted:** 2026-07-29
+
+### [Extension Program Coordinator (ANR) - University of Illinois Extension](https://www.linkedin.com/jobs/view/4446890028/) — University of Illinois Urbana-Champaign
+- 📍 **Location:** Edwardsville, IL
+- 🕒 **Posted:** 2026-07-29
+
+### [Patient Care Coordinator](https://www.linkedin.com/jobs/view/4446453001/) — Dr. Kim Facial Plastics
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $35.00/hr - $45.00/hr
+- 🕒 **Posted:** 2026-07-29
+
+### [Patient Care Coordinator](https://www.linkedin.com/jobs/view/4446882534/) — AEG Vision
+- 📍 **Location:** Livermore, CA
+- 💰 **Salary:** $22.54/hr - $29.74/hr
+- 🕒 **Posted:** 2026-07-29
+
+### [Virtual Medical Receptionist / Patient Care Coordinator Bilingual](https://www.linkedin.com/jobs/view/4444170910/) — Staffing For Doctors
+- 📍 **Location:** Peru
+- 🕒 **Posted:** 2026-07-29
+
+### [LMSW-Client Care Coordinator](https://www.linkedin.com/jobs/view/4446877335/) — Women In Need, Inc. (Win)
 - 📍 **Location:** Brooklyn, NY
+- 💰 **Salary:** $65,000-$70,000
 - 🕒 **Posted:** 2026-07-29
 
-### [DSHS WSH Program Coordinator - Centralized Staffing Coordinator](https://www.linkedin.com/jobs/view/4446868258/) — Washington State Department of Social and Health Services
-- 📍 **Location:** Lakewood, WA
+### [Team Leader](https://www.linkedin.com/jobs/view/4446429997/) — Reliance Nippon Life Insurance
+- 📍 **Location:** Kolkata, West Bengal, India
 - 🕒 **Posted:** 2026-07-29
 
-### [DSHS Lake Burien Psychiatric Youth Counselor 2](https://www.linkedin.com/jobs/view/4446868256/) — Washington State Department of Social and Health Services
-- 📍 **Location:** Burien, WA
+### [Program Coordinator-Children's Justice (D4 Cass 111134)](https://www.linkedin.com/jobs/view/4444193067/) — State of Iowa - Executive Branch
+- 📍 **Location:** Atlantic, IA
+- 💰 **Salary:** $21.98 - $34.74 per hour
 - 🕒 **Posted:** 2026-07-29
 
-### [Peer Support Specialist - 16xBurn](https://www.linkedin.com/jobs/view/4444190193/) — Central City Concern
-- 📍 **Location:** Portland, OR
-- 💰 **Salary:** $25.05-$33.24
+### [Youth Development Specialist (hourly)](https://www.linkedin.com/jobs/view/4417683551/) — Metropolitan Family Services
+- 📍 **Location:** Chicago, IL
 - 🕒 **Posted:** 2026-07-29
 
-### [Bilingual Spanish Case Manager](https://www.linkedin.com/jobs/view/4446874469/) — Women In Need, Inc. (Win)
+### [Teacher Pipelines and Licensure Support Program Coordinator (SY26-27)](https://www.linkedin.com/jobs/view/4444186417/) — Boston Public Schools
+- 📍 **Location:** Boston, MA
+- 🕒 **Posted:** 2026-07-29
+
+### [Care Coordinator Support Worker- $2000 Sign On Bonus](https://www.linkedin.com/jobs/view/4425561890/) — One Hope United
+- 📍 **Location:** Olney, IL
+- 🕒 **Posted:** 2026-07-29
+
+### [Social Worker](https://www.linkedin.com/jobs/view/4446445802/) — Eastern Health
+- 📍 **Location:** Box Hill, Victoria, Australia
+- 💰 **Salary:** $45.67/hr - A$52.49/hr
+- 🕒 **Posted:** 2026-07-29
+
+### [School Social Worker at Brooklyn Scholars Charter School](https://www.linkedin.com/jobs/view/4446871844/) — National Heritage Academies
 - 📍 **Location:** Brooklyn, NY
+- 💰 **Salary:** $70,400.00 to $81,897.00
 - 🕒 **Posted:** 2026-07-29
 
-### [Case Manager](https://www.linkedin.com/jobs/view/4446860691/) — Heartshare
-- 📍 **Location:** Brooklyn, NY
-- 🕒 **Posted:** 2026-07-29
-
-### [Case Manager - Hazel Heights](https://www.linkedin.com/jobs/view/4444173584/) — Central City Concern
-- 📍 **Location:** Portland, OR
-- 💰 **Salary:** $23.30 - $30.91/hr
-- 🕒 **Posted:** 2026-07-29
-
-### [Community Health Worker](https://www.linkedin.com/jobs/view/4446870406/) — University Health Network
-- 📍 **Location:** Toronto, Ontario, Canada
-- 💰 **Salary:** $65,919 - $82,389 per annum
-- 🕒 **Posted:** 2026-07-29
-
-### [Health Educator](https://www.linkedin.com/jobs/view/4446859897/) — CancerCare Manitoba
-- 📍 **Location:** Winnipeg, Manitoba, Canada
-- 🕒 **Posted:** 2026-07-29
-
-### [Community Health Worker](https://www.linkedin.com/jobs/view/4446443626/) — Volunteers of America Colorado
-- 📍 **Location:** Colorado Springs, CO
-- 💰 **Salary:** $21.50-$24.00/hour
-- 🕒 **Posted:** 2026-07-29
-
-### [Patient Care Coordinator](https://www.linkedin.com/jobs/view/4444174534/) — Flowers Medical Group
-- 📍 **Location:** Atlanta Metropolitan Area
-- 🕒 **Posted:** 2026-07-29
-
-### [Managed Care Coordinator](https://www.linkedin.com/jobs/view/4444183387/) — eTeam
-- 📍 **Location:** Newark, NJ
-- 🕒 **Posted:** 2026-07-29
-
-### [Clinical Pharmacy Care Coordinator](https://www.linkedin.com/jobs/view/4444173505/) — RiteChoice Rx
-- 📍 **Location:** Chester, PA
-- 🕒 **Posted:** 2026-07-29
-
-### [Patient Care Coordinator](https://www.linkedin.com/jobs/view/4446430681/) — Moon Physical Therapy
-- 📍 **Location:** Kailua, HI
-- 🕒 **Posted:** 2026-07-29
-
-### [Specialty Patient Care Coordinator](https://www.linkedin.com/jobs/view/4446442705/) — Arcare
-- 📍 **Location:** Jonesboro, AR
-- 🕒 **Posted:** 2026-07-29
-
-### [Patient Care Coordinator-Infectious Disease](https://www.linkedin.com/jobs/view/4446423955/) — Arcare
-- 📍 **Location:** Bentonville, AR
-- 🕒 **Posted:** 2026-07-29
-
-### [Field Case Manager Marion and Alachua Counties, FL](https://www.linkedin.com/jobs/view/4446864616/) — UnitedHealthcare
-- 📍 **Location:** Ocala, FL
-- 💰 **Salary:** $24.00 - $43.00 per hour
-- 🕒 **Posted:** 2026-07-29
-
-### [Case Manager | Western Region of South Dakota](https://www.linkedin.com/jobs/view/4446871261/) — Benchmark Human Services
-- 📍 **Location:** Spearfish, SD
-- 💰 **Salary:** $43,888 - $49,910
-- 🕒 **Posted:** 2026-07-29
-
-### [Clinical Social Worker](https://www.linkedin.com/jobs/view/4446861980/) — University of California, San Francisco
+### [Clinical Social Worker](https://www.linkedin.com/jobs/view/4439588250/) — University of California, San Francisco
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-07-29
 
-### [School Social Worker](https://www.linkedin.com/jobs/view/4444981649/) — Birch Agency
-- 📍 **Location:** Chicago Ridge, IL
+### [Social Worker](https://www.linkedin.com/jobs/view/4446882606/) — DaVita Kidney Care
+- 📍 **Location:** Alhambra, CA
+- 💰 **Salary:** $78,000.00/yr - $128,000.00/yr
 - 🕒 **Posted:** 2026-07-29
 
-### [School Social Worker - $48 per hour](https://www.linkedin.com/jobs/view/4446862853/) — Supplemental Health Care
-- 📍 **Location:** Los Angeles, CA
-- 💰 **Salary:** $44.40 - $47.85 per hour
+### [Social Worker III - Honolulu, Oahu](https://www.linkedin.com/jobs/view/4444174869/) — Hawai`i State Judiciary
+- 📍 **Location:** Honolulu, HI
 - 🕒 **Posted:** 2026-07-29
 
-### [Clinical Social Worker-MSW-  Outpatient OBGYN](https://www.linkedin.com/jobs/view/4446865440/) — Boston Medical Center (BMC)
-- 📍 **Location:** Boston, MA
-- 💰 **Salary:** $34.81- $43.26
+### [Social Worker II - Honolulu, Oahu](https://www.linkedin.com/jobs/view/4444170950/) — Hawai`i State Judiciary
+- 📍 **Location:** Honolulu, HI
 - 🕒 **Posted:** 2026-07-29
 
-### [Clinical Social Worker-LICSW- Maternal Child Health](https://www.linkedin.com/jobs/view/4446870188/) — Boston Medical Center (BMC)
-- 📍 **Location:** Boston, MA
-- 💰 **Salary:** $42.60- $51.92
-- 🕒 **Posted:** 2026-07-29
-
-### [Licensed Fee for Service Social Worker - Hybrid](https://www.linkedin.com/jobs/view/4446863460/) — Jewish Board of Family and Children's Services
-- 📍 **Location:** Staten Island, NY
+### [Child Protective Services - Social Worker - SISA Unit](https://www.linkedin.com/jobs/view/4446868929/) — Wake County
+- 📍 **Location:** Raleigh, NC
 - 🕒 **Posted:** 2026-07-29
