@@ -1,11 +1,18 @@
 # 🟦 Indeed — Social Worker Roles
-*Last updated: 2026-07-29 21:40 UTC*
+*Last updated: 2026-07-29 22:36 UTC*
 
-**1 new role(s)** since last run · 9 total in last 24h
+**2 new role(s)** since last run · 11 total in last 24h
 
-### [Hospice Registered Nurse Case Manager](https://www.indeed.com/viewjob?jk=0382a01b84091f98) — Monarch Hospice & Palliative Care
+### [Medical Social Worker](https://www.indeed.com/viewjob?jk=e56d11f26fe3080a) — PINNACLE HOSPICE CARE
 - 📍 **Location:** Denver, CO, US
-- 💰 **Salary:** $85k–$100k/yr
+- 💰 **Salary:** $70k–$75k/yr
 - **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-07-20
+
+### [Care Coordinator](https://www.indeed.com/viewjob?jk=5adf22750d94d1ed) — UCHealth
+- 📍 **Location:** Aurora, CO, US
+- 💰 **Salary:** $21–$27/hr
+- **Work mode:** Remote in-state eligible
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-07-29
