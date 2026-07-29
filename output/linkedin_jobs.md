@@ -1,144 +1,116 @@
 # 🔥 LinkedIn — Social Worker Roles
-*Last updated: 2026-07-28 23:31 UTC*
+*Last updated: 2026-07-29 00:25 UTC*
 
-**32 new role(s)** since last run · 36 total in last 1h
+**25 new role(s)** since last run · 35 total in last 1h
 
-### [Care Coordinator - Davidson County](https://www.linkedin.com/jobs/view/4446502500/) — BlueCross BlueShield of Tennessee
-- 📍 **Location:** United States
+### [Healthcare Coordinator](https://www.linkedin.com/jobs/view/4446507677/) — PDS Health
+- 📍 **Location:** Arvada, CO
+- 💰 **Salary:** $19.75/hr - $28.00/hr
+- 🕒 **Posted:** 2026-07-29
+
+### [Behavioral Health Specialist II - Multiple Locations](https://www.linkedin.com/jobs/view/4410821846/) — County of Riverside
+- 📍 **Location:** Riverside County, CA
+- 🕒 **Posted:** 2026-07-29
+
+### [Community Social Worker](https://www.linkedin.com/jobs/view/4443201033/) — Johns Hopkins Howard County Medical Center
+- 📍 **Location:** Columbia, MD
+- 🕒 **Posted:** 2026-07-29
+
+### [Independent Living Case Manager for Refugee and Immigrant Youth](https://www.linkedin.com/jobs/view/4445799455/) — Lutheran Community Services Northwest
+- 📍 **Location:** Seattle, WA
+- 🕒 **Posted:** 2026-07-29
+
+### [Adults Case Manager, Spanish Speaking](https://www.linkedin.com/jobs/view/4446517251/) — San Andreas Regional Center
+- 📍 **Location:** Salinas, CA
+- 💰 **Salary:** $6,101 - $7,422 Monthly
+- 🕒 **Posted:** 2026-07-29
+
+### [Transitional Age Services Case Manager, Spanish Speaking](https://www.linkedin.com/jobs/view/4446511669/) — San Andreas Regional Center
+- 📍 **Location:** Salinas, CA
+- 💰 **Salary:** $6,101.00 - $7,422.00
+- 🕒 **Posted:** 2026-07-29
+
+### [Program Coordinator](https://www.linkedin.com/jobs/view/4443630971/) — North Carolina Department of Public Safety
+- 📍 **Location:** Durham, NC
+- 💰 **Salary:** $52,592 - $92,036
+- 🕒 **Posted:** 2026-07-29
+
+### [Healthcare Coordinator](https://www.linkedin.com/jobs/view/4446503810/) — PDS Health
+- 📍 **Location:** University Place, WA
+- 💰 **Salary:** $21.50/hr - $30.25/hr
+- 🕒 **Posted:** 2026-07-29
+
+### [Therapy Client Care Coordinator](https://www.linkedin.com/jobs/view/4446512635/) — Angels of Care Pediatric Home Health
+- 📍 **Location:** Dallas, TX
+- 💰 **Salary:** $18 to $22 per hour
+- 🕒 **Posted:** 2026-07-29
+
+### [Healthcare Coordinator](https://www.linkedin.com/jobs/view/4446399868/) — PDS Health
+- 📍 **Location:** Beaumont, CA
+- 💰 **Salary:** $18.00/hr - $25.50/hr
+- 🕒 **Posted:** 2026-07-29
+
+### [Veterinary Receptionist (Care Coordinator) - Stine Veterinary Hospital](https://www.linkedin.com/jobs/view/4446510725/) — PetVet Care Centers
+- 📍 **Location:** Bakersfield, CA
+- 💰 **Salary:** $17.33—$21.18 USD
+- 🕒 **Posted:** 2026-07-29
+
+### [Self Determination Specialist, Supervisor](https://www.linkedin.com/jobs/view/4446511660/) — San Andreas Regional Center
+- 📍 **Location:** San Jose, CA
+- 💰 **Salary:** $8,024 - $9,756 Monthly
+- 🕒 **Posted:** 2026-07-29
+
+### [Social Worker II - Department of Aging /Adults - DAAS](https://www.linkedin.com/jobs/view/4445793614/) — County of Santa Clara
+- 📍 **Location:** Santa Clara County, CA
+- 🕒 **Posted:** 2026-07-29
+
+### [CLINICAL SOCIAL WORKER (HEALTH/CORRECTIONAL FACILITY) - Sierra Conservation Center (SCC)](https://www.linkedin.com/jobs/view/4446512700/) — California Correctional Health Care Services
+- 📍 **Location:** Tuolumne, CA
+- 💰 **Salary:** $8,678.00/mo - $10,569.00/mo
+- 🕒 **Posted:** 2026-07-29
+
+### [Case Manager - West Scattered Site - 11016](https://www.linkedin.com/jobs/view/4446391959/) — Colorado Coalition for the Homeless
+- 📍 **Location:** Denver, CO
+- 💰 **Salary:** $20.64 - $25.14
 - 🕒 **Posted:** 2026-07-28
 
-### [Diabetes Educator - Clinical Guide(Certified Diabetes Care and Education Specialist)](https://www.linkedin.com/jobs/view/4445785332/) — Devoted Health
-- 📍 **Location:** United States
-- 💰 **Salary:** $80,000 - $95,000
-- 🕒 **Posted:** 2026-07-28
-
-### [Practice Education Specialist, Capella and Strayer University](https://www.linkedin.com/jobs/view/4446507276/) — Strategic Education, Inc
-- 📍 **Location:** United States
-- 💰 **Salary:** $85,000.00 - $95,000.00
-- 🕒 **Posted:** 2026-07-28
-
-### [CDOC Social Worker/Counselor III Mental Health Clinician /Gender Affirming Care - (DENVER))](https://www.linkedin.com/jobs/view/4446512265/) — State of Colorado
+### [CDOC Social Worker/Counselor III Mental Health Clinician /Gender Affirming Care - (DENVER))](https://www.linkedin.com/jobs/view/4446002362/) — Colorado Department of Corrections
 - 📍 **Location:** Denver, CO
 - 🕒 **Posted:** 2026-07-28
 
-### [Program Coordinator - Outpatient Restoration Program/Forensic Services Department](https://www.linkedin.com/jobs/view/4446512269/) — State of Colorado
-- 📍 **Location:** Colorado, United States
+### [Bilingual Client Intake Specialist](https://www.linkedin.com/jobs/view/4445778737/) — Boesen Law, LLC
+- 📍 **Location:** Greenwood Village, CO
 - 🕒 **Posted:** 2026-07-28
 
-### [Correctional Support Trade Supervisor I at Platte Valley Youth Services Center](https://www.linkedin.com/jobs/view/4446507477/) — State of Colorado
-- 📍 **Location:** Greeley, CO
+### [Intelligence Program Manager](https://www.linkedin.com/jobs/view/4446505658/) — Riverside Research
+- 📍 **Location:** Dayton, OH
+- 💰 **Salary:** $130,000- $150,000
 - 🕒 **Posted:** 2026-07-28
 
-### [Integrated Nurse Case Manager/RN for Maternal Health/ Perinatal for South of Roanoke](https://www.linkedin.com/jobs/view/4445783382/) — Sentara Health
-- 📍 **Location:** Roanoke, VA
+### [Case Manager Immigration Bilingual Spanish](https://www.linkedin.com/jobs/view/4445787591/) — The GEO Group, Inc.
+- 📍 **Location:** Philadelphia, PA
 - 🕒 **Posted:** 2026-07-28
 
-### [Integrated Nurse Case Manager/RN for Maternal Health/ Perinatal for Central Richmond (Henrico, Hanover, Colonial Heights, VA)](https://www.linkedin.com/jobs/view/4445776882/) — Sentara Health
-- 📍 **Location:** Richmond, VA
+### [Case Manager Immigration Bilingual Spanish](https://www.linkedin.com/jobs/view/4446000340/) — The GEO Group, Inc.
+- 📍 **Location:** Delray Beach, FL
 - 🕒 **Posted:** 2026-07-28
 
-### [Grant Writer](https://www.linkedin.com/jobs/view/4446001080/) — Opportunity Junction
-- 📍 **Location:** Concord, CA
-- 💰 **Salary:** $70,000-$96,000 per year
+### [Case Manager, Disability Management](https://www.linkedin.com/jobs/view/4442248623/) — Homewood Health Centre
+- 📍 **Location:** Greater Winnipeg Metropolitan Area
 - 🕒 **Posted:** 2026-07-28
 
-### [ACTT Peer Support Specialist](https://www.linkedin.com/jobs/view/4445781365/) — RHA Health Services, LLC
-- 📍 **Location:** Wilson, NC
+### [Program Coordinator I / Branch Supervisor II - 191106](https://www.linkedin.com/jobs/view/4445797394/) — South Carolina Department of Motor Vehicles
+- 📍 **Location:** Kershaw County, SC
 - 🕒 **Posted:** 2026-07-28
 
-### [Peer Support Specialist](https://www.linkedin.com/jobs/view/4446392916/) — United Health Services
-- 📍 **Location:** Binghamton, NY
-- 💰 **Salary:** $17.98 - $25.17 per hour
+### [SUBSTANCE ABUSE COUNSELOR I](https://www.linkedin.com/jobs/view/4445778696/) — The GEO Group, Inc.
+- 📍 **Location:** Hillsboro, IL
 - 🕒 **Posted:** 2026-07-28
 
-### [Certified Peer Support Specialist - TMS Team South](https://www.linkedin.com/jobs/view/4445776866/) — RHA Health Services, LLC
-- 📍 **Location:** Laurinburg, NC
+### [Social Worker - MSW School Based Health Centers](https://www.linkedin.com/jobs/view/4446391981/) — Nemours Children's Health
+- 📍 **Location:** Seaford, DE
 - 🕒 **Posted:** 2026-07-28
 
-### [Peer Support Specialist](https://www.linkedin.com/jobs/view/4446508265/) — Ozark Center
-- 📍 **Location:** Joplin, MO
-- 🕒 **Posted:** 2026-07-28
-
-### [CPSS / Certified Peer Support Specialist / Paraprofessional / PP](https://www.linkedin.com/jobs/view/4445783393/) — RHA Health Services, LLC
-- 📍 **Location:** Concord, NC
-- 🕒 **Posted:** 2026-07-28
-
-### [Community Health Worker](https://www.linkedin.com/jobs/view/4437008109/) — Arkansas Children's
-- 📍 **Location:** Little Rock, AR
-- 💰 **Salary:** $20.50-$25.60 per hour
-- 🕒 **Posted:** 2026-07-28
-
-### [Patient Care Coordinator](https://www.linkedin.com/jobs/view/4446501504/) — AEG Vision
-- 📍 **Location:** Bee Cave, TX
-- 🕒 **Posted:** 2026-07-28
-
-### [Community Health Worker](https://www.linkedin.com/jobs/view/4436888967/) — Arkansas Children's
-- 📍 **Location:** Little Rock, AR
-- 💰 **Salary:** $20.50-$25.60 per hour
-- 🕒 **Posted:** 2026-07-28
-
-### [Care Coordinator - Davidson County](https://www.linkedin.com/jobs/view/4446397579/) — BlueCross BlueShield of Tennessee
-- 📍 **Location:** Davidson County, TN
-- 🕒 **Posted:** 2026-07-28
-
-### [Direct Support Program Coordinator](https://www.linkedin.com/jobs/view/4443646051/) — Sevita
-- 📍 **Location:** Arlington, TX
-- 🕒 **Posted:** 2026-07-28
-
-### [Care Coordinator - Davita IKC - White Plains, MD](https://www.linkedin.com/jobs/view/4446501565/) — DaVita Kidney Care
-- 📍 **Location:** White Plains, MD
-- 💰 **Salary:** $18.00/hr - $22.50/hr
-- 🕒 **Posted:** 2026-07-28
-
-### [Care Coordinator II - DME Coordinator](https://www.linkedin.com/jobs/view/4446102188/) — Housecall Providers
-- 📍 **Location:** Portland, OR
-- 💰 **Salary:** $28.81 - $35.22
-- 🕒 **Posted:** 2026-07-28
-
-### [Transitions of Care Behavioral Health Social Work Case Manager](https://www.linkedin.com/jobs/view/4445793227/) — Devoted Health
-- 📍 **Location:** United States
-- 💰 **Salary:** $55,000 - $79,000
-- 🕒 **Posted:** 2026-07-28
-
-### [Patient Care Coordinator](https://www.linkedin.com/jobs/view/4445610130/) — AEG Vision
-- 📍 **Location:** St Henry, OH
-- 🕒 **Posted:** 2026-07-28
-
-### [Youth Employment Counselor (2103)](https://www.linkedin.com/jobs/view/4432660594/) — BakerRipley
-- 📍 **Location:** Greater Houston
-- 🕒 **Posted:** 2026-07-28
-
-### [Case Manager](https://www.linkedin.com/jobs/view/4443644165/) — Metropolitan Family Services
-- 📍 **Location:** Chicago, IL
-- 🕒 **Posted:** 2026-07-28
-
-### [Patient Care Coordinator](https://www.linkedin.com/jobs/view/4446399581/) — AEG Vision
-- 📍 **Location:** Baltimore, MD
-- 💰 **Salary:** $18.00/hr - $23.00/hr
-- 🕒 **Posted:** 2026-07-28
-
-### [Program Coordinator (ECP)](https://www.linkedin.com/jobs/view/4442746999/) — Bucks County Intermediate Unit
-- 📍 **Location:** Doylestown, PA
-- 🕒 **Posted:** 2026-07-28
-
-### [Program Coordinator (FFTL)](https://www.linkedin.com/jobs/view/4442214092/) — Commonwealth of Kentucky
-- 📍 **Location:** Frankfort, KY
-- 💰 **Salary:** $3,600.84 - $4,699.50 Monthly
-- 🕒 **Posted:** 2026-07-28
-
-### [COUNSELOR SUPERVISOR - FORDLAND, MO](https://www.linkedin.com/jobs/view/4443200827/) — Gateway Foundation
-- 📍 **Location:** Fordland, MO
-- 🕒 **Posted:** 2026-07-28
-
-### [Clinical Social Worker](https://www.linkedin.com/jobs/view/4446501453/) — Clinical Management Consultants
-- 📍 **Location:** New York, United States
-- 💰 **Salary:** $92,240.00/yr - $121,200.00/yr
-- 🕒 **Posted:** 2026-07-28
-
-### [Social Worker III - Honolulu, Oahu](https://www.linkedin.com/jobs/view/4443646174/) — Hawai`i State Judiciary
-- 📍 **Location:** Honolulu, HI
-- 🕒 **Posted:** 2026-07-28
-
-### [Social Worker II - Honolulu, Oahu](https://www.linkedin.com/jobs/view/4443646172/) — Hawai`i State Judiciary
-- 📍 **Location:** Honolulu, HI
+### [Social Worker III - Department of Aging and Adult Services](https://www.linkedin.com/jobs/view/4433009193/) — County of Santa Clara
+- 📍 **Location:** Santa Clara County, CA
 - 🕒 **Posted:** 2026-07-28
