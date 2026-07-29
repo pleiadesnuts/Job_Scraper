@@ -1,18 +1,25 @@
 # 🟦 Indeed — Social Worker Roles
-*Last updated: 2026-07-29 17:00 UTC*
+*Last updated: 2026-07-29 18:37 UTC*
 
-**2 new role(s)** since last run · 15 total in last 24h
+**3 new role(s)** since last run · 15 total in last 24h
 
-### [CDOC Social Worker/Counselor III Mental Health Clinician /Gender Affirming Care - (DENVER))](https://www.indeed.com/viewjob?jk=232f5ad0e0b46f87) — State of Colorado
-- 📍 **Location:** Denver, CO, US
-- 💰 **Salary:** $6954–$9735/mo
-- **Work mode:** On-site
+### [Subrogation Supervisor](https://www.indeed.com/viewjob?jk=e10e4e7be0aadcc7) — MEM
+- 📍 **Location:** Remote, US
+- 💰 **Salary:** $78k–$118k/yr
+- **Work mode:** Remote in-state eligible
 - **Job type:** fulltime
-- 🕒 **Posted:** 2026-07-28
+- 🕒 **Posted:** 2026-07-29
 
-### [Registered Nurse Case Manager](https://www.indeed.com/viewjob?jk=66eabfb256808018) — RiseUP
-- 📍 **Location:** Denver, CO, US
-- 💰 **Salary:** $65k–$80k/yr
-- **Work mode:** On-site
+### [Volunteer Position - Program Manager (Care Package Logistics)](https://www.indeed.com/viewjob?jk=bde4e114ea10b721) — Missing Pieces Support Group Inc.
+- 📍 **Location:** Remote, US
+- 💰 **Salary:** $1–$20/yr
+- **Work mode:** Remote in-state eligible
+- **Job type:** parttime
+- 🕒 **Posted:** 2026-07-29
+
+### [Acquisition Program Coordinator](https://www.indeed.com/viewjob?jk=9d28d988d961b392) — LMI
+- 📍 **Location:** Remote, US
+- 💰 **Salary:** $123k–$211k/yr
+- **Work mode:** Remote in-state eligible
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-07-28
