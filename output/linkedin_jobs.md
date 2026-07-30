@@ -1,120 +1,144 @@
 # 🔥 LinkedIn — Social Worker Roles
-*Last updated: 2026-07-29 23:27 UTC*
+*Last updated: 2026-07-30 00:25 UTC*
 
-**26 new role(s)** since last run · 28 total in last 1h
+**32 new role(s)** since last run · 41 total in last 1h
 
-### [Telephonic Case Manager](https://www.linkedin.com/jobs/view/4446440878/) — Enlyte
-- 📍 **Location:** United States
-- 💰 **Salary:** $74,000 - $86,000 annually
-- 🕒 **Posted:** 2026-07-29
+### [Behavioral Health Specialist III - Multiple Locations](https://www.linkedin.com/jobs/view/4424474595/) — County of Riverside
+- 📍 **Location:** Riverside County, CA
+- 🕒 **Posted:** 2026-07-30
 
-### [CDOC (Social Worker/Counselor III) Mental Health Clinician - (DENVER)](https://www.linkedin.com/jobs/view/4446873848/) — State of Colorado
+### [Center of Excellence Program Coordinator (120 day assignment)](https://www.linkedin.com/jobs/view/4446455044/) — Janus of Santa Cruz
+- 📍 **Location:** Santa Cruz County, CA
+- 💰 **Salary:** $30-$33/hour
+- 🕒 **Posted:** 2026-07-30
+
+### [Sr. Student Program Coordinator](https://www.linkedin.com/jobs/view/4446883972/) — University of Oklahoma
+- 📍 **Location:** Oklahoma City, OK
+- 🕒 **Posted:** 2026-07-30
+
+### [Healthcare Coordinator](https://www.linkedin.com/jobs/view/4446880765/) — PDS Health
+- 📍 **Location:** Clearwater, FL
+- 💰 **Salary:** $16.50/hr - $23.00/hr
+- 🕒 **Posted:** 2026-07-30
+
+### [Healthcare Coordinator](https://www.linkedin.com/jobs/view/4446879866/) — PDS Health
+- 📍 **Location:** San Marcos, CA
+- 💰 **Salary:** $18.00/hr - $25.50/hr
+- 🕒 **Posted:** 2026-07-30
+
+### [Healthcare Coordinator](https://www.linkedin.com/jobs/view/4446895234/) — PDS Health
+- 📍 **Location:** Columbia, SC
+- 💰 **Salary:** $16.50/hr - $23.00/hr
+- 🕒 **Posted:** 2026-07-30
+
+### [Healthcare Coordinator](https://www.linkedin.com/jobs/view/4446896093/) — PDS Health
+- 📍 **Location:** Springdale, OH
+- 💰 **Salary:** $16.50/hr - $23.00/hr
+- 🕒 **Posted:** 2026-07-30
+
+### [Veterinary Receptionist (Care Coordinator) - Olympia Pet Emergency](https://www.linkedin.com/jobs/view/4444199075/) — PetVet Care Centers
+- 📍 **Location:** Lacey, WA
+- 💰 **Salary:** $18—$18 USD
+- 🕒 **Posted:** 2026-07-30
+
+### [Specialty Healthcare Coordinator](https://www.linkedin.com/jobs/view/4446878992/) — PDS Health
+- 📍 **Location:** Issaquah, WA
+- 💰 **Salary:** $21.50/hr - $30.25/hr
+- 🕒 **Posted:** 2026-07-30
+
+### [Team Leader](https://www.linkedin.com/jobs/view/4446509657/) — Karis Disability Services
+- 📍 **Location:** Waldheim, Saskatchewan, Canada
+- 🕒 **Posted:** 2026-07-30
+
+### [CDOC (Social Worker/Counselor III) Mental Health Clinician - (DENVER)](https://www.linkedin.com/jobs/view/4444192542/) — Colorado Department of Corrections
 - 📍 **Location:** Denver, CO
 - 🕒 **Posted:** 2026-07-29
 
-### [Disability Navigator Case Manager I/II - Limited Term](https://www.linkedin.com/jobs/view/4444185577/) — Larimer County Department of Health and Environment
-- 📍 **Location:** Spruce, CO
-- 🕒 **Posted:** 2026-07-29
-
-### [Program Manager, Business Funding and Incentives Division](https://www.linkedin.com/jobs/view/4446884366/) — State of Colorado
+### [Case Manager - Uptown Lofts- 10976](https://www.linkedin.com/jobs/view/4446873931/) — Colorado Coalition for the Homeless
 - 📍 **Location:** Denver, CO
-- 💰 **Salary:** $65,000 - $75,000 Annually
+- 💰 **Salary:** $20.64 - $25.14
 - 🕒 **Posted:** 2026-07-29
 
-### [Peer Support Specialist](https://www.linkedin.com/jobs/view/4446877456/) — SSG Project 180
-- 📍 **Location:** Los Angeles, CA
-- 💰 **Salary:** $27.84 - $30.62
+### [Case Processing Supervisor](https://www.linkedin.com/jobs/view/4446447942/) — The GEO Group, Inc.
+- 📍 **Location:** Hudson, CO
 - 🕒 **Posted:** 2026-07-29
 
-### [Senior Program Manager, Strategic Program Management and Advancement](https://www.linkedin.com/jobs/view/4446881400/) — ICMA - International City/County Management Association
-- 📍 **Location:** Washington, DC
-- 💰 **Salary:** $78,450 to $98,062
+### [Shift Supervisor - Longmont Store](https://www.linkedin.com/jobs/view/4446878674/) — Goodwill of Colorado
+- 📍 **Location:** Longmont, CO
 - 🕒 **Posted:** 2026-07-29
 
-### [YESS SUPERVISOR](https://www.linkedin.com/jobs/view/4444193078/) — Catholic Charities of the Diocese of Rochester
-- 📍 **Location:** Nichols, NY
-- 💰 **Salary:** $24-$25/hr
+### [Shift Supervisor - Clayton Donation Center](https://www.linkedin.com/jobs/view/4446875873/) — Goodwill of Colorado
+- 📍 **Location:** Denver, CO
 - 🕒 **Posted:** 2026-07-29
 
-### [Substance Use Counselor/Case Manager](https://www.linkedin.com/jobs/view/4444175817/) — Wisconsin Community Services, Inc.
-- 📍 **Location:** Milwaukee, WI
+### [Social Worker / Abuse Coordinator](https://www.linkedin.com/jobs/view/4446447905/) — Peaks Healthcare Consulting
+- 📍 **Location:** Casper, WY
 - 🕒 **Posted:** 2026-07-29
 
-### [Patient Care Coordinator](https://www.linkedin.com/jobs/view/4446873820/) — AEG Vision
-- 📍 **Location:** Austin, TX
+### [Behavioral Health Specialist](https://www.linkedin.com/jobs/view/4446881783/) — georgia department of juvenile justices
+- 📍 **Location:** Jackson, MI
 - 🕒 **Posted:** 2026-07-29
 
-### [Extension Program Coordinator (ANR) - University of Illinois Extension](https://www.linkedin.com/jobs/view/4446890028/) — University of Illinois Urbana-Champaign
-- 📍 **Location:** Edwardsville, IL
+### [Community Outreach Program Coordinator- Pulmonary Critical Care and Sleep](https://www.linkedin.com/jobs/view/4444182849/) — The Ohio State University Wexner Medical Center
+- 📍 **Location:** Columbus, OH
 - 🕒 **Posted:** 2026-07-29
 
-### [Patient Care Coordinator](https://www.linkedin.com/jobs/view/4446453001/) — Dr. Kim Facial Plastics
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $35.00/hr - $45.00/hr
+### [Program Coordinator](https://www.linkedin.com/jobs/view/4446444890/) — Commonwealth of Kentucky
+- 📍 **Location:** Frankfort, KY
+- 💰 **Salary:** $43,210.08 - $64,816.08 Annually
 - 🕒 **Posted:** 2026-07-29
 
-### [Patient Care Coordinator](https://www.linkedin.com/jobs/view/4446882534/) — AEG Vision
-- 📍 **Location:** Livermore, CA
-- 💰 **Salary:** $22.54/hr - $29.74/hr
+### [Residency/Fellowship Program Coordinator - Pediatric Endocrinology](https://www.linkedin.com/jobs/view/4446410774/) — Washington University in St. Louis
+- 📍 **Location:** St Louis, MO
+- 💰 **Salary:** $23.37 - $36.19
 - 🕒 **Posted:** 2026-07-29
 
-### [Virtual Medical Receptionist / Patient Care Coordinator Bilingual](https://www.linkedin.com/jobs/view/4444170910/) — Staffing For Doctors
-- 📍 **Location:** Peru
+### [CDOC (Social Worker/Counselor III) Mental Health Clinician - CANON CITY](https://www.linkedin.com/jobs/view/4444180903/) — Colorado Department of Corrections
+- 📍 **Location:** Canon City, CO
 - 🕒 **Posted:** 2026-07-29
 
-### [LMSW-Client Care Coordinator](https://www.linkedin.com/jobs/view/4446877335/) — Women In Need, Inc. (Win)
+### [Peer Support Specialist](https://www.linkedin.com/jobs/view/4444182777/) — Archdiocese of St. Louis
+- 📍 **Location:** St Louis, MO
+- 🕒 **Posted:** 2026-07-29
+
+### [Program Coordinator](https://www.linkedin.com/jobs/view/4440406206/) — HealthFitness
+- 📍 **Location:** Neenah, WI
+- 💰 **Salary:** $17.00 - $20.00 per hour
+- 🕒 **Posted:** 2026-07-29
+
+### [Program Coordinator, Dean’s Office in Lee Business School [R0152773]](https://www.linkedin.com/jobs/view/4446892005/) — University of Nevada-Las Vegas
+- 📍 **Location:** Las Vegas, NV
+- 🕒 **Posted:** 2026-07-29
+
+### [Volunteer Coordinator](https://www.linkedin.com/jobs/view/4446886414/) — Skagit Symphony
+- 📍 **Location:** Mount Vernon, WA
+- 🕒 **Posted:** 2026-07-29
+
+### [Patient Care Coordinator](https://www.linkedin.com/jobs/view/4446435887/) — Keplr Vision
+- 📍 **Location:** Thief River Falls, MN
+- 🕒 **Posted:** 2026-07-29
+
+### [LPN Care Coordinator](https://www.linkedin.com/jobs/view/4446122505/) — The MedElite Group
 - 📍 **Location:** Brooklyn, NY
-- 💰 **Salary:** $65,000-$70,000
 - 🕒 **Posted:** 2026-07-29
 
-### [Team Leader](https://www.linkedin.com/jobs/view/4446429997/) — Reliance Nippon Life Insurance
-- 📍 **Location:** Kolkata, West Bengal, India
+### [Case Manager SUDP - Community Mental Health 267](https://www.linkedin.com/jobs/view/4446893036/) — Telecare Corporation
+- 📍 **Location:** Tukwila, WA
+- 💰 **Salary:** $26.46 - $32.69
 - 🕒 **Posted:** 2026-07-29
 
-### [Program Coordinator-Children's Justice (D4 Cass 111134)](https://www.linkedin.com/jobs/view/4444193067/) — State of Iowa - Executive Branch
-- 📍 **Location:** Atlantic, IA
-- 💰 **Salary:** $21.98 - $34.74 per hour
+### [Field Based Social Worker - Substance Abuse Service Center](https://www.linkedin.com/jobs/view/4446877749/) — Bowery Residents' Committee
+- 📍 **Location:** Manhattan, NY
 - 🕒 **Posted:** 2026-07-29
 
-### [Youth Development Specialist (hourly)](https://www.linkedin.com/jobs/view/4417683551/) — Metropolitan Family Services
-- 📍 **Location:** Chicago, IL
+### [Senior Social Workers - Assessment & Intervention (Locality)](https://www.linkedin.com/jobs/view/4446891210/) — Sandwell Children's Trust
+- 📍 **Location:** Oldbury, England, United Kingdom
 - 🕒 **Posted:** 2026-07-29
 
-### [Teacher Pipelines and Licensure Support Program Coordinator (SY26-27)](https://www.linkedin.com/jobs/view/4444186417/) — Boston Public Schools
-- 📍 **Location:** Boston, MA
+### [Senior Social Workers - Child Protection & Court (Locality)_](https://www.linkedin.com/jobs/view/4446897055/) — Sandwell Children's Trust
+- 📍 **Location:** Oldbury, England, United Kingdom
 - 🕒 **Posted:** 2026-07-29
 
-### [Care Coordinator Support Worker- $2000 Sign On Bonus](https://www.linkedin.com/jobs/view/4425561890/) — One Hope United
-- 📍 **Location:** Olney, IL
-- 🕒 **Posted:** 2026-07-29
-
-### [Social Worker](https://www.linkedin.com/jobs/view/4446445802/) — Eastern Health
-- 📍 **Location:** Box Hill, Victoria, Australia
-- 💰 **Salary:** $45.67/hr - A$52.49/hr
-- 🕒 **Posted:** 2026-07-29
-
-### [School Social Worker at Brooklyn Scholars Charter School](https://www.linkedin.com/jobs/view/4446871844/) — National Heritage Academies
-- 📍 **Location:** Brooklyn, NY
-- 💰 **Salary:** $70,400.00 to $81,897.00
-- 🕒 **Posted:** 2026-07-29
-
-### [Clinical Social Worker](https://www.linkedin.com/jobs/view/4439588250/) — University of California, San Francisco
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-07-29
-
-### [Social Worker](https://www.linkedin.com/jobs/view/4446882606/) — DaVita Kidney Care
-- 📍 **Location:** Alhambra, CA
-- 💰 **Salary:** $78,000.00/yr - $128,000.00/yr
-- 🕒 **Posted:** 2026-07-29
-
-### [Social Worker III - Honolulu, Oahu](https://www.linkedin.com/jobs/view/4444174869/) — Hawai`i State Judiciary
+### [Social Worker IV - Honolulu, Oahu](https://www.linkedin.com/jobs/view/4444178819/) — Hawai`i State Judiciary
 - 📍 **Location:** Honolulu, HI
-- 🕒 **Posted:** 2026-07-29
-
-### [Social Worker II - Honolulu, Oahu](https://www.linkedin.com/jobs/view/4444170950/) — Hawai`i State Judiciary
-- 📍 **Location:** Honolulu, HI
-- 🕒 **Posted:** 2026-07-29
-
-### [Child Protective Services - Social Worker - SISA Unit](https://www.linkedin.com/jobs/view/4446868929/) — Wake County
-- 📍 **Location:** Raleigh, NC
 - 🕒 **Posted:** 2026-07-29
