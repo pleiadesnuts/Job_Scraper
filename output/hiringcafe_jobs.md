@@ -1,6 +1,17 @@
 # ☕ HiringCafe — Social Worker Roles
-*Last updated: 2026-07-29 23:51 UTC*
+*Last updated: 2026-07-30 01:11 UTC*
 
-**0 new role(s)** since last run · 93 total in last 30d
+**2 new role(s)** since last run · 93 total in last 30d
 
-No new roles since the last run.
+### [SOCIAL WORKER](https://www.schoolspring.com/jobdetail?jobId=5853307) — Wilkes County Schools
+- 📍 **Location:** North Wilkesboro, North Carolina, United States
+- **Work mode:** On-site
+- **Job type:** Full Time
+- 🕒 **Posted:** 2026-07-27T04:00:00.000Z
+
+### [Program Coordinator](https://jobs.dayforcehcm.com/en-US/associated/jcccandidateportal/jobs/10250) — Associated
+- 📍 **Location:** Baltimore, Maryland, United States
+- 💰 **Salary:** $43k–$48k/yr
+- **Work mode:** On-site
+- **Job type:** Full Time
+- 🕒 **Posted:** 2026-07-14T04:00:00.000Z
