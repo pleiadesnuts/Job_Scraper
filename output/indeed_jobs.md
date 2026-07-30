@@ -1,22 +1,24 @@
 # 🟦 Indeed — Social Worker Roles
-*Last updated: 2026-07-30 20:54 UTC*
+*Last updated: 2026-07-30 21:53 UTC*
 
-**3 new role(s)** since last run · 13 total in last 24h
+**3 new role(s)** since last run · 15 total in last 24h
 
-### [Bridge Inspection Project Manager/Team Leader](https://www.indeed.com/viewjob?jk=14f612d65994d382) — Benesch
+### [Case Manager](https://www.indeed.com/viewjob?jk=d1043f6db36218e1) — URBAN PEAK
 - 📍 **Location:** Denver, CO, US
-- 💰 **Salary:** $124k–$160k/yr
-- **Work mode:** Remote in-state eligible
-- 🕒 **Posted:** 2026-07-30
-
-### [Workers Compensation Program Manager](https://www.indeed.com/viewjob?jk=dc72b5439346fb66) — Congruex
-- 📍 **Location:** Boulder, CO, US
-- 💰 **Salary:** $100k–$125k/yr
 - **Work mode:** On-site
+- **Job type:** fulltime
 - 🕒 **Posted:** 2026-07-30
 
-### [Peer Support Specialist II - Part Time](https://www.indeed.com/viewjob?jk=766f4256566b7fb1) — Rutgers University
-- 📍 **Location:** Remote, US
+### [RN Case Manager Advanced (IKC)](https://www.indeed.com/viewjob?jk=9eddac994de855d3) — DaVita
+- 📍 **Location:** Denver, CO, US
+- 💰 **Salary:** $80k–$104k/yr
 - **Work mode:** Remote in-state eligible
-- **Job type:** parttime
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-07-30
+
+### [School Social Worker](https://www.indeed.com/viewjob?jk=bb2f8f07b0315f09) — Ampersand Therapy
+- 📍 **Location:** Arvada, CO, US
+- 💰 **Salary:** $50–$60/hr
+- **Work mode:** On-site
+- **Job type:** fulltime
 - 🕒 **Posted:** 2026-07-30
