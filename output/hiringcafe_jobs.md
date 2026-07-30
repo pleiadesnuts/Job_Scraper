@@ -1,17 +1,17 @@
 # ☕ HiringCafe — Social Worker Roles
-*Last updated: 2026-07-30 01:11 UTC*
+*Last updated: 2026-07-30 04:53 UTC*
 
-**2 new role(s)** since last run · 93 total in last 30d
+**2 new role(s)** since last run · 94 total in last 30d
 
-### [SOCIAL WORKER](https://www.schoolspring.com/jobdetail?jobId=5853307) — Wilkes County Schools
-- 📍 **Location:** North Wilkesboro, North Carolina, United States
+### [Case Manager](https://ascensionrecovery.bamboohr.com/careers/899) — Ascension Recovery Services
+- 📍 **Location:** Muncie, Indiana, United States
 - **Work mode:** On-site
 - **Job type:** Full Time
-- 🕒 **Posted:** 2026-07-27T04:00:00.000Z
+- 🕒 **Posted:** 2026-07-17T00:00:00.000Z
 
-### [Program Coordinator](https://jobs.dayforcehcm.com/en-US/associated/jcccandidateportal/jobs/10250) — Associated
-- 📍 **Location:** Baltimore, Maryland, United States
-- 💰 **Salary:** $43k–$48k/yr
+### [Program Coordinator,  Categorical](https://www.governmentjobs.com/careers/socccd/jobs/5427278) — South Orange County Community College District, CA
+- 📍 **Location:** Irvine, California, United States
+- 💰 **Salary:** $43k–$61k/yr
 - **Work mode:** On-site
-- **Job type:** Full Time
-- 🕒 **Posted:** 2026-07-14T04:00:00.000Z
+- **Job type:** Part Time
+- 🕒 **Posted:** 2026-07-30T00:12:22.000Z
