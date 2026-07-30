@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-07-30 20:12 UTC",
+  "scraped_at": "2026-07-30 21:58 UTC",
   "total": 92,
-  "new_count": 2,
+  "new_count": 0,
   "jobs": [
     {
       "company": "-",
@@ -1292,34 +1292,5 @@
       "ats": "HiringCafe"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Wilkes County Schools",
-      "title": "SOCIAL WORKER",
-      "location": "North Wilkesboro, North Carolina, United States",
-      "url": "https://www.schoolspring.com/jobdetail?jobId=5853307",
-      "direct_url": "https://www.schoolspring.com/jobdetail?jobId=5853307",
-      "date_posted": "2026-07-27T04:00:00.000Z",
-      "description": "Must be licensed social worker in North Carolina; master’s in social work preferred; skilled in assessment, counseling, crisis intervention, advocacy, and home-school-community collaboration.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Ascension Recovery Services",
-      "title": "Case Manager",
-      "location": "Muncie, Indiana, United States",
-      "url": "https://ascensionrecovery.bamboohr.com/careers/899",
-      "direct_url": "https://ascensionrecovery.bamboohr.com/careers/899",
-      "date_posted": "2026-07-17T00:00:00.000Z",
-      "description": "Provide case management, discharge planning, resource coordination, EHR documentation, and advocacy for clients with substance use and mental health needs.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    }
-  ]
+  "new_jobs": []
 }
