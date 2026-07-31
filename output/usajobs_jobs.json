@@ -1,33 +1,69 @@
 {
-  "scraped_at": "2026-07-29 16:57 UTC",
+  "scraped_at": "2026-07-31 17:14 UTC",
   "total": 17,
-  "new_count": 8,
+  "new_count": 13,
   "jobs": [
     {
       "company": "Veterans Health Administration",
-      "title": "Senior Social Worker (Inpatient/Med/Surg)",
-      "location": "Mather AFB, California",
-      "url": "https://www.usajobs.gov/job/878447300",
-      "date_posted": "2026-07-29",
-      "salary": "Starting at $123,105 Per year (GS 12)",
+      "title": "Social Worker - Caregiver Support Program",
+      "location": "Wilmington, Delaware",
+      "url": "https://www.usajobs.gov/job/878812500",
+      "date_posted": "2026-07-31",
+      "salary": "Starting at $70,781 Per year (GS 9-11)",
       "ats": "USAJOBS"
     },
     {
-      "company": "Immigration and Customs Enforcement",
-      "title": "Facility Healthcare Program Manager (O-5) Non-Supervisory",
-      "location": "Folkston, Georgia",
-      "url": "https://www.usajobs.gov/job/878343300",
-      "date_posted": "2026-07-29",
-      "salary": "Starting at $1 Per year (CC 5)",
+      "company": "Animal and Plant Health Inspection Service",
+      "title": "Supervisory Wildlife Biologist (Assistant District Supervisor)",
+      "location": "Kahului, Hawaii",
+      "url": "https://www.usajobs.gov/job/878736100",
+      "date_posted": "2026-07-31",
+      "salary": "Starting at $52,680 Per year (GS 7)",
       "ats": "USAJOBS"
     },
     {
-      "company": "U.S. Marine Corps",
-      "title": "LIFEGUARD SUPERVISOR, NF-03/RFT, CAMP COURTNEY",
-      "location": "Camp Courtney Okinawa, Japan",
-      "url": "https://www.usajobs.gov/job/878371000",
+      "company": "Veterans Health Administration",
+      "title": "Social Worker- Community Living Center",
+      "location": "Fort Meade, South Dakota",
+      "url": "https://www.usajobs.gov/job/878630300",
+      "date_posted": "2026-07-30",
+      "salary": "Starting at $63,272 Per year (GS 9-11)",
+      "ats": "USAJOBS"
+    },
+    {
+      "company": "Veterans Health Administration",
+      "title": "Social Worker (Program Coordinator)",
+      "location": "Albuquerque, New Mexico",
+      "url": "https://www.usajobs.gov/job/878616500",
+      "date_posted": "2026-07-30",
+      "salary": "Starting at $121,840 Per year (GS 13)",
+      "ats": "USAJOBS"
+    },
+    {
+      "company": "Veterans Health Administration",
+      "title": "Registered Nurse - Accreditation Program Manager",
+      "location": "Bronx, New York",
+      "url": "https://www.usajobs.gov/job/878578500",
+      "date_posted": "2026-07-30",
+      "salary": "Starting at $108,092 Per year (VN 00)",
+      "ats": "USAJOBS"
+    },
+    {
+      "company": "Veterans Health Administration",
+      "title": "Social Worker-Home Based Primary Care",
+      "location": "Yakima, Washington",
+      "url": "https://www.usajobs.gov/job/878548900",
       "date_posted": "2026-07-29",
-      "salary": "Starting at $17 Per hour (NF 3)",
+      "salary": "Starting at $73,264 Per year (GS 9-11)",
+      "ats": "USAJOBS"
+    },
+    {
+      "company": "Veterans Health Administration",
+      "title": "Compounded Sterile Preparation and Medication Safety Pharmacy Program Manager",
+      "location": "Seattle, Washington",
+      "url": "https://www.usajobs.gov/job/878543400",
+      "date_posted": "2026-07-29",
+      "salary": "Starting at $143,662 Per year (GS 13)",
       "ats": "USAJOBS"
     },
     {
@@ -41,20 +77,56 @@
     },
     {
       "company": "Veterans Health Administration",
-      "title": "Registered Nurse -Community Care Case Manager",
-      "location": "Columbia, South Carolina",
-      "url": "https://www.usajobs.gov/job/877570600",
-      "date_posted": "2026-07-23",
-      "salary": "Starting at $80,126 Per year (VN 00)",
+      "title": "Social Worker - Substance Abuse Treatment Team",
+      "location": "Jacksonville, Florida",
+      "url": "https://www.usajobs.gov/job/878840700",
+      "date_posted": "2026-07-31",
+      "salary": "Starting at $62,655 Per year (GS 9-11)",
       "ats": "USAJOBS"
     },
     {
       "company": "Veterans Health Administration",
-      "title": "Registered Nurse - Case Manager - Surgical Service",
-      "location": "Columbia, South Carolina",
-      "url": "https://www.usajobs.gov/job/876570200",
-      "date_posted": "2026-07-20",
-      "salary": "Starting at $80,126 Per year (VN 00)",
+      "title": "Senior Social Worker (Community Care)",
+      "location": "Corpus Christi, Texas",
+      "url": "https://www.usajobs.gov/job/878800700",
+      "date_posted": "2026-07-31",
+      "salary": "Starting at $94,019 Per year (GS 12)",
+      "ats": "USAJOBS"
+    },
+    {
+      "company": "Veterans Health Administration",
+      "title": "Senior Social Worker - Behavioral Health Access Team - EDRP Approved",
+      "location": "El Paso, Texas",
+      "url": "https://www.usajobs.gov/job/878708500",
+      "date_posted": "2026-07-30",
+      "salary": "Starting at $97,987 Per year (GS 12)",
+      "ats": "USAJOBS"
+    },
+    {
+      "company": "Bureau of Prisons/Federal Prison System",
+      "title": "Social Worker",
+      "location": "Lompoc, California",
+      "url": "https://www.usajobs.gov/job/878703500",
+      "date_posted": "2026-07-30",
+      "salary": "Starting at $87,061 Per year (GS 11)",
+      "ats": "USAJOBS"
+    },
+    {
+      "company": "Veterans Health Administration",
+      "title": "Social Worker - Suicide Prevention",
+      "location": "Wilkes Barre, Pennsylvania",
+      "url": "https://www.usajobs.gov/job/878654800",
+      "date_posted": "2026-07-30",
+      "salary": "Starting at $74,678 Per year (GS 11)",
+      "ats": "USAJOBS"
+    },
+    {
+      "company": "Veterans Health Administration",
+      "title": "Senior Social Worker - Behavioral Health Interdisciplinary Program (BHIP)",
+      "location": "Las Vegas, Nevada",
+      "url": "https://www.usajobs.gov/job/878598200",
+      "date_posted": "2026-07-30",
+      "salary": "Starting at $108,557 Per year (GS 12)",
       "ats": "USAJOBS"
     },
     {
@@ -68,83 +140,11 @@
     },
     {
       "company": "Veterans Health Administration",
-      "title": "Registered Nurse - Home Telehealth Case Manager",
-      "location": "Hampton, Virginia",
-      "url": "https://www.usajobs.gov/job/878386800",
-      "date_posted": "2026-07-29",
-      "salary": "Starting at $83,487 Per year (VN 00)",
-      "ats": "USAJOBS"
-    },
-    {
-      "company": "Veterans Health Administration",
       "title": "Social Worker",
       "location": "Baltimore, Maryland",
       "url": "https://www.usajobs.gov/job/878380000",
       "date_posted": "2026-07-29",
       "salary": "Starting at $52,727 Per year (GS 9-11)",
-      "ats": "USAJOBS"
-    },
-    {
-      "company": "Veterans Health Administration",
-      "title": "Supervisory Social Worker - Primary Care Behavioral Health (PCBH)",
-      "location": "Las Vegas, Nevada",
-      "url": "https://www.usajobs.gov/job/878368600",
-      "date_posted": "2026-07-28",
-      "salary": "Starting at $129,114 Per year (GS 13)",
-      "ats": "USAJOBS"
-    },
-    {
-      "company": "Veterans Health Administration",
-      "title": "Senior Social Worker (WVVP) - Recruitment/Relocation/EDRP Incentive Authorized",
-      "location": "Harlingen, Texas",
-      "url": "https://www.usajobs.gov/job/878314100",
-      "date_posted": "2026-07-28",
-      "salary": "Starting at $93,537 Per year (GS 12)",
-      "ats": "USAJOBS"
-    },
-    {
-      "company": "Veterans Health Administration",
-      "title": "Social Worker- Readjustment Counselor",
-      "location": "Eagan, Minnesota",
-      "url": "https://www.usajobs.gov/job/878260100",
-      "date_posted": "2026-07-28",
-      "salary": "Starting at $73,306 Per year (GS 9-11)",
-      "ats": "USAJOBS"
-    },
-    {
-      "company": "Veterans Health Administration",
-      "title": "Senior Social Worker",
-      "location": "Farmington, New Mexico",
-      "url": "https://www.usajobs.gov/job/878169100",
-      "date_posted": "2026-07-27",
-      "salary": "Starting at $102,460 Per year (GS 12)",
-      "ats": "USAJOBS"
-    },
-    {
-      "company": "Joint Activities",
-      "title": "IT PROGRAM MANAGER",
-      "location": "Doral, Florida",
-      "url": "https://www.usajobs.gov/job/878159400",
-      "date_posted": "2026-07-27",
-      "salary": "Starting at $157,563 Per year (GS 15)",
-      "ats": "USAJOBS"
-    },
-    {
-      "company": "Veterans Health Administration",
-      "title": "Senior Social Worker",
-      "location": "Augusta, Georgia",
-      "url": "https://www.usajobs.gov/job/878139800",
-      "date_posted": "2026-07-27",
-      "salary": "Starting at $92,903 Per year (GS 12)",
-      "ats": "USAJOBS"
-    },
-    {
-      "company": "Veterans Health Administration",
-      "title": "Senior Social Worker - Emergency Department Mental Health Clinician",
-      "location": "Milwaukee, Wisconsin",
-      "url": "https://www.usajobs.gov/job/878105800",
-      "date_posted": "2026-07-27",
-      "salary": "Starting at $94,539 Per year (GS 12)",
       "ats": "USAJOBS"
     },
     {
@@ -160,74 +160,119 @@
   "new_jobs": [
     {
       "company": "Veterans Health Administration",
-      "title": "Senior Social Worker (Inpatient/Med/Surg)",
-      "location": "Mather AFB, California",
-      "url": "https://www.usajobs.gov/job/878447300",
-      "date_posted": "2026-07-29",
-      "salary": "Starting at $123,105 Per year (GS 12)",
+      "title": "Social Worker - Caregiver Support Program",
+      "location": "Wilmington, Delaware",
+      "url": "https://www.usajobs.gov/job/878812500",
+      "date_posted": "2026-07-31",
+      "salary": "Starting at $70,781 Per year (GS 9-11)",
       "ats": "USAJOBS"
     },
     {
-      "company": "Immigration and Customs Enforcement",
-      "title": "Facility Healthcare Program Manager (O-5) Non-Supervisory",
-      "location": "Folkston, Georgia",
-      "url": "https://www.usajobs.gov/job/878343300",
-      "date_posted": "2026-07-29",
-      "salary": "Starting at $1 Per year (CC 5)",
-      "ats": "USAJOBS"
-    },
-    {
-      "company": "U.S. Marine Corps",
-      "title": "LIFEGUARD SUPERVISOR, NF-03/RFT, CAMP COURTNEY",
-      "location": "Camp Courtney Okinawa, Japan",
-      "url": "https://www.usajobs.gov/job/878371000",
-      "date_posted": "2026-07-29",
-      "salary": "Starting at $17 Per hour (NF 3)",
+      "company": "Animal and Plant Health Inspection Service",
+      "title": "Supervisory Wildlife Biologist (Assistant District Supervisor)",
+      "location": "Kahului, Hawaii",
+      "url": "https://www.usajobs.gov/job/878736100",
+      "date_posted": "2026-07-31",
+      "salary": "Starting at $52,680 Per year (GS 7)",
       "ats": "USAJOBS"
     },
     {
       "company": "Veterans Health Administration",
-      "title": "Senior Social Worker- Home Based Primary Care Service",
-      "location": "Klamath Falls, Oregon",
-      "url": "https://www.usajobs.gov/job/878431200",
-      "date_posted": "2026-07-29",
-      "salary": "Starting at $104,372 Per year (GS 12)",
+      "title": "Social Worker- Community Living Center",
+      "location": "Fort Meade, South Dakota",
+      "url": "https://www.usajobs.gov/job/878630300",
+      "date_posted": "2026-07-30",
+      "salary": "Starting at $63,272 Per year (GS 9-11)",
       "ats": "USAJOBS"
     },
     {
       "company": "Veterans Health Administration",
-      "title": "Registered Nurse - Home Telehealth Case Manager",
-      "location": "Hampton, Virginia",
-      "url": "https://www.usajobs.gov/job/878386800",
-      "date_posted": "2026-07-29",
-      "salary": "Starting at $83,487 Per year (VN 00)",
+      "title": "Social Worker (Program Coordinator)",
+      "location": "Albuquerque, New Mexico",
+      "url": "https://www.usajobs.gov/job/878616500",
+      "date_posted": "2026-07-30",
+      "salary": "Starting at $121,840 Per year (GS 13)",
       "ats": "USAJOBS"
     },
     {
       "company": "Veterans Health Administration",
+      "title": "Registered Nurse - Accreditation Program Manager",
+      "location": "Bronx, New York",
+      "url": "https://www.usajobs.gov/job/878578500",
+      "date_posted": "2026-07-30",
+      "salary": "Starting at $108,092 Per year (VN 00)",
+      "ats": "USAJOBS"
+    },
+    {
+      "company": "Veterans Health Administration",
+      "title": "Social Worker-Home Based Primary Care",
+      "location": "Yakima, Washington",
+      "url": "https://www.usajobs.gov/job/878548900",
+      "date_posted": "2026-07-29",
+      "salary": "Starting at $73,264 Per year (GS 9-11)",
+      "ats": "USAJOBS"
+    },
+    {
+      "company": "Veterans Health Administration",
+      "title": "Compounded Sterile Preparation and Medication Safety Pharmacy Program Manager",
+      "location": "Seattle, Washington",
+      "url": "https://www.usajobs.gov/job/878543400",
+      "date_posted": "2026-07-29",
+      "salary": "Starting at $143,662 Per year (GS 13)",
+      "ats": "USAJOBS"
+    },
+    {
+      "company": "Veterans Health Administration",
+      "title": "Social Worker - Substance Abuse Treatment Team",
+      "location": "Jacksonville, Florida",
+      "url": "https://www.usajobs.gov/job/878840700",
+      "date_posted": "2026-07-31",
+      "salary": "Starting at $62,655 Per year (GS 9-11)",
+      "ats": "USAJOBS"
+    },
+    {
+      "company": "Veterans Health Administration",
+      "title": "Senior Social Worker (Community Care)",
+      "location": "Corpus Christi, Texas",
+      "url": "https://www.usajobs.gov/job/878800700",
+      "date_posted": "2026-07-31",
+      "salary": "Starting at $94,019 Per year (GS 12)",
+      "ats": "USAJOBS"
+    },
+    {
+      "company": "Veterans Health Administration",
+      "title": "Senior Social Worker - Behavioral Health Access Team - EDRP Approved",
+      "location": "El Paso, Texas",
+      "url": "https://www.usajobs.gov/job/878708500",
+      "date_posted": "2026-07-30",
+      "salary": "Starting at $97,987 Per year (GS 12)",
+      "ats": "USAJOBS"
+    },
+    {
+      "company": "Bureau of Prisons/Federal Prison System",
       "title": "Social Worker",
-      "location": "Baltimore, Maryland",
-      "url": "https://www.usajobs.gov/job/878380000",
-      "date_posted": "2026-07-29",
-      "salary": "Starting at $52,727 Per year (GS 9-11)",
+      "location": "Lompoc, California",
+      "url": "https://www.usajobs.gov/job/878703500",
+      "date_posted": "2026-07-30",
+      "salary": "Starting at $87,061 Per year (GS 11)",
       "ats": "USAJOBS"
     },
     {
       "company": "Veterans Health Administration",
-      "title": "Supervisory Social Worker - Primary Care Behavioral Health (PCBH)",
+      "title": "Social Worker - Suicide Prevention",
+      "location": "Wilkes Barre, Pennsylvania",
+      "url": "https://www.usajobs.gov/job/878654800",
+      "date_posted": "2026-07-30",
+      "salary": "Starting at $74,678 Per year (GS 11)",
+      "ats": "USAJOBS"
+    },
+    {
+      "company": "Veterans Health Administration",
+      "title": "Senior Social Worker - Behavioral Health Interdisciplinary Program (BHIP)",
       "location": "Las Vegas, Nevada",
-      "url": "https://www.usajobs.gov/job/878368600",
-      "date_posted": "2026-07-28",
-      "salary": "Starting at $129,114 Per year (GS 13)",
-      "ats": "USAJOBS"
-    },
-    {
-      "company": "Veterans Health Administration",
-      "title": "Senior Social Worker (WVVP) - Recruitment/Relocation/EDRP Incentive Authorized",
-      "location": "Harlingen, Texas",
-      "url": "https://www.usajobs.gov/job/878314100",
-      "date_posted": "2026-07-28",
-      "salary": "Starting at $93,537 Per year (GS 12)",
+      "url": "https://www.usajobs.gov/job/878598200",
+      "date_posted": "2026-07-30",
+      "salary": "Starting at $108,557 Per year (GS 12)",
       "ats": "USAJOBS"
     }
   ]
