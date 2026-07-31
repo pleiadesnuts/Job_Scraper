@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-07-30 23:00 UTC",
-  "total": 91,
-  "new_count": 3,
+  "scraped_at": "2026-07-31 00:01 UTC",
+  "total": 90,
+  "new_count": 1,
   "jobs": [
     {
       "company": "-",
@@ -69,20 +69,6 @@
       "description": "Licensed social worker in South Dakota with 1+ year supervised healthcare social work experience; bachelor\\u0002s degree in social work or related human services field; strong communication and documentation skills.",
       "salary": "$50k–$77k/yr",
       "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Amphitheater Public Schools",
-      "title": "Social Worker",
-      "location": "Tucson, Arizona, United States",
-      "url": "https://jobs.amphi.com/jobs/7997270-social-worker",
-      "direct_url": "https://jobs.amphi.com/jobs/7997270-social-worker",
-      "date_posted": "2026-06-30T23:26:53.000Z",
-      "description": "Master's in social work (or equivalent), 1 year field instruction or school social work/child & family experience, Arizona Department of Education Social Worker Certificate, fingerprint clearance card, and submission of transcripts.",
-      "salary": "$52k–$55k/yr",
-      "job_type": "Part Time",
       "is_remote": false,
       "work_arrangement": "On-site",
       "ats": "HiringCafe"
@@ -200,20 +186,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "University of Utah Health",
-      "title": "Social Worker",
-      "location": "Salt Lake City, Utah, United States",
-      "url": "https://careers-uuhc.icims.com/jobs/84616/social-worker/job?in_iframe=1",
-      "direct_url": "https://careers-uuhc.icims.com/jobs/84616/social-worker/job?in_iframe=1",
-      "date_posted": "2026-07-15T06:00:00.000Z",
-      "description": "Provides psychosocial assessment, counseling, case management, and community resource coordination; requires L.C.S.W. or Certified Social Worker in Utah and RQI eCredential; must perform moderate physical tasks.",
-      "salary": "",
-      "job_type": "Part Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Community Healthcare of Texas",
       "title": "Social Worker",
       "location": "Fort Worth, Texas, United States",
@@ -223,6 +195,20 @@
       "description": "BSW with 1 year required (Master's preferred), Texas state social worker license, valid driver's license and reliable transportation, computer proficiency, hospice/healthcare experience preferred.",
       "salary": "",
       "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "University of Utah Health",
+      "title": "Social Worker",
+      "location": "Salt Lake City, Utah, United States",
+      "url": "https://careers-uuhc.icims.com/jobs/84616/social-worker/job?in_iframe=1",
+      "direct_url": "https://careers-uuhc.icims.com/jobs/84616/social-worker/job?in_iframe=1",
+      "date_posted": "2026-07-15T06:00:00.000Z",
+      "description": "Provides psychosocial assessment, counseling, case management, and community resource coordination; requires L.C.S.W. or Certified Social Worker in Utah and RQI eCredential; must perform moderate physical tasks.",
+      "salary": "",
+      "job_type": "Part Time",
       "is_remote": false,
       "work_arrangement": "On-site",
       "ats": "HiringCafe"
@@ -368,20 +354,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Divine Arms of Love GRO LLC",
-      "title": "Case Manager",
-      "location": "Houston, Texas, United States",
-      "url": "https://jobs.gusto.com/postings/divine-arms-of-love-gro-llc-case-manager-aed0a9d9-e769-41ad-9d51-27ec7f558985",
-      "direct_url": "https://jobs.gusto.com/postings/divine-arms-of-love-gro-llc-case-manager-aed0a9d9-e769-41ad-9d51-27ec7f558985",
-      "date_posted": "2026-07-06T21:06:46.809Z",
-      "description": "Bachelor's degree in social work/psychology/human services, 2+ years case management experience, CPR and First Aid, valid driver's license and reliable transportation, proficient with case management software and Microsoft Office.",
-      "salary": "$42k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Black Birth Justice",
       "title": "Case Manager",
       "location": "Louisville, Kentucky, United States",
@@ -424,6 +396,20 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "Healthcare Systems of America",
+      "title": "Case Manager",
+      "location": "Port Arthur, Texas, United States",
+      "url": "https://medicalcentersetexas.isolvedhire.com/jobs/1811407",
+      "direct_url": "https://medicalcentersetexas.isolvedhire.com/jobs/1811407",
+      "date_posted": "2026-07-01T00:00:00.000Z",
+      "description": "Current Texas RN or LVN license required. Experience in healthcare delivery with focus on case management or performance improvement preferred.",
+      "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
       "company": "BrightSpring Health Services",
       "title": "Case Manager",
       "location": "Florence, Kentucky, United States",
@@ -446,20 +432,6 @@
       "date_posted": "2026-07-20T04:00:00.000Z",
       "description": "Bachelor's in human services or nursing, valid driver's license, 2 years of case management experience, strong verbal and written communication.",
       "salary": "$40k–$40k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Healthcare Systems of America",
-      "title": "Case Manager",
-      "location": "Port Arthur, Texas, United States",
-      "url": "https://medicalcentersetexas.isolvedhire.com/jobs/1811407",
-      "direct_url": "https://medicalcentersetexas.isolvedhire.com/jobs/1811407",
-      "date_posted": "2026-07-01T00:00:00.000Z",
-      "description": "Current Texas RN or LVN license required. Experience in healthcare delivery with focus on case management or performance improvement preferred.",
-      "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
@@ -502,6 +474,20 @@
       "date_posted": "2026-07-08T03:00:00.000Z",
       "description": "Provide intensive case management with weekly client contact; conduct assessments, develop case plans, coordinate services, and document progress. Requires fingerprint clearance and 1+ year case management experience.",
       "salary": "$50k–$52k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Ascension Recovery Services",
+      "title": "Case Manager",
+      "location": "Muncie, Indiana, United States",
+      "url": "https://ascensionrecovery.bamboohr.com/careers/899",
+      "direct_url": "https://ascensionrecovery.bamboohr.com/careers/899",
+      "date_posted": "2026-07-17T00:00:00.000Z",
+      "description": "Provide case management, discharge planning, resource coordination, EHR documentation, and advocacy for clients with substance use and mental health needs.",
+      "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
@@ -620,20 +606,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Upenn",
-      "title": "Program Coordinator",
-      "location": "Philadelphia, Pennsylvania, United States",
-      "url": "https://upenn.wd1.myworkdayjobs.com/psom/job/Presbyterian-Med-Ctr-FL7/Program-Coordinator_JR00123112",
-      "direct_url": "https://upenn.wd1.myworkdayjobs.com/psom/job/Presbyterian-Med-Ctr-FL7/Program-Coordinator_JR00123112",
-      "date_posted": "2026-07-24T00:00:00.000Z",
-      "description": "Bachelor's degree and 2–3 years experience or equivalent; program/project coordination in academic healthcare, strong organization, scheduling, HRSA reporting familiarity, and excellent communication.",
-      "salary": "$50k–$62k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "University of New Mexico",
       "title": "Program Coordinator",
       "location": "Albuquerque, New Mexico, United States",
@@ -642,6 +614,20 @@
       "date_posted": "2026-07-22T00:00:00.000Z",
       "description": "Coordinate fiscal, administrative, and operational activities for federally funded training programs; manage budgets, purchasing, data collection and reporting; strong organization and communication skills required.",
       "salary": "$41k–$56k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Upenn",
+      "title": "Program Coordinator",
+      "location": "Philadelphia, Pennsylvania, United States",
+      "url": "https://upenn.wd1.myworkdayjobs.com/psom/job/Presbyterian-Med-Ctr-FL7/Program-Coordinator_JR00123112",
+      "direct_url": "https://upenn.wd1.myworkdayjobs.com/psom/job/Presbyterian-Med-Ctr-FL7/Program-Coordinator_JR00123112",
+      "date_posted": "2026-07-24T00:00:00.000Z",
+      "description": "Bachelor's degree and 2–3 years experience or equivalent; program/project coordination in academic healthcare, strong organization, scheduling, HRSA reporting familiarity, and excellent communication.",
+      "salary": "$50k–$62k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
@@ -900,20 +886,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Constellation",
-      "title": "Research Program Coordinator",
-      "location": "Berkeley, California, United States",
-      "url": "https://jobs.gem.com/constellation-institute/am9icG9zdDqQ3K4Os3255D-29b31KiPW",
-      "direct_url": "https://jobs.gem.com/constellation-institute/am9icG9zdDqQ3K4Os3255D-29b31KiPW",
-      "date_posted": "2026-07-24T00:40:22.626Z",
-      "description": "Experience in program coordination or operations, strong project-management instincts, excellent written and verbal communication, high organization, and ability to manage multiple priorities.",
-      "salary": "$105k–$133k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Rutgers University",
       "title": "Program Coordinator II",
       "location": "Camden, New Jersey, United States",
@@ -925,6 +897,20 @@
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "Telecommute eligible",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Constellation",
+      "title": "Research Program Coordinator",
+      "location": "Berkeley, California, United States",
+      "url": "https://jobs.gem.com/constellation-institute/am9icG9zdDqQ3K4Os3255D-29b31KiPW",
+      "direct_url": "https://jobs.gem.com/constellation-institute/am9icG9zdDqQ3K4Os3255D-29b31KiPW",
+      "date_posted": "2026-07-24T00:40:22.626Z",
+      "description": "Experience in program coordination or operations, strong project-management instincts, excellent written and verbal communication, high organization, and ability to manage multiple priorities.",
+      "salary": "$105k–$133k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
       "ats": "HiringCafe"
     },
     {
@@ -1280,45 +1266,17 @@
   ],
   "new_jobs": [
     {
-      "company": "unomaha",
-      "title": "Program Coordinator",
-      "location": "Omaha, Nebraska, United States",
-      "url": "https://unomaha.peopleadmin.com/postings/26182",
-      "direct_url": "https://unomaha.peopleadmin.com/postings/26182",
-      "date_posted": "2026-07-30T15:26:57.000Z",
-      "description": "Bachelor's degree required, minimum 2 years office coordination/administrative or customer service experience, strong Microsoft Office/Excel skills, CRM (Salesforce) experience, program coordination and financial tracking skills.",
-      "salary": "$114400k/yr",
+      "company": "Ascension Recovery Services",
+      "title": "Case Manager",
+      "location": "Muncie, Indiana, United States",
+      "url": "https://ascensionrecovery.bamboohr.com/careers/899",
+      "direct_url": "https://ascensionrecovery.bamboohr.com/careers/899",
+      "date_posted": "2026-07-17T00:00:00.000Z",
+      "description": "Provide case management, discharge planning, resource coordination, EHR documentation, and advocacy for clients with substance use and mental health needs.",
+      "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
-      "work_arrangement": "Telecommute eligible",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Healthresearch",
-      "title": "Health Program Coordinator",
-      "location": "Albany, New York, United States",
-      "url": "https://healthresearch.wd1.myworkdayjobs.com/hri_careers/job/Albany-NY/Health-Program-Coordinator_JR-0002247",
-      "direct_url": "https://healthresearch.wd1.myworkdayjobs.com/hri_careers/job/Albany-NY/Health-Program-Coordinator_JR-0002247",
-      "date_posted": "2026-07-30T00:00:00.000Z",
-      "description": "Bachelor's degree or equivalent experience with 2 years coordinating program activities in public health or human services; grant compliance, stakeholder coordination, report preparation, and travel up to 25% required.",
-      "salary": "$70k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "Telecommute eligible",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Evergreen Nephrology",
-      "title": "Community Health Worker",
-      "location": "United States",
-      "url": "https://job-boards.greenhouse.io/evergreennephrology/jobs/4719117005",
-      "direct_url": "https://job-boards.greenhouse.io/evergreennephrology/jobs/4719117005",
-      "date_posted": "2026-07-28T15:47:05.000Z",
-      "description": "Active CHW certification, 3+ years care coordination/community health experience, team-based care experience, strong communication, MS Office (Outlook, Teams) skills, ability to work remotely with reliable internet; bilingual Spanish/English preferred.",
-      "salary": "$46k–$52k/yr",
-      "job_type": "Full Time",
-      "is_remote": true,
-      "work_arrangement": "Remote in-state eligible",
+      "work_arrangement": "On-site",
       "ats": "HiringCafe"
     }
   ]
