@@ -1,120 +1,151 @@
 # 🔥 LinkedIn — Social Worker Roles
-*Last updated: 2026-07-31 05:13 UTC*
+*Last updated: 2026-07-31 17:09 UTC*
 
-**27 new role(s)** since last run · 28 total in last 1h
+**33 new role(s)** since last run · 33 total in last 1h
 
-### [Lead Social Services Care Coordinator - Phoenix Children's Care Network](https://www.linkedin.com/jobs/view/4447247968/) — Phoenix Children's
+### [Supervisor Case Management](https://www.linkedin.com/jobs/view/4447555599/) — BlueCross BlueShield of Tennessee
 - 📍 **Location:** United States
 - 🕒 **Posted:** 2026-07-31
 
-### [Licensed Practical Nurse (LPN) - Behavioral Health Specialist - Conduit Health Partners](https://www.linkedin.com/jobs/view/4447257900/) — Mercy Health
+### [Program Coordinator : Meals On Wheels](https://www.linkedin.com/jobs/view/4447155192/) — Volunteers of America Colorado
+- 📍 **Location:** Commerce City, CO
+- 🕒 **Posted:** 2026-07-31
+
+### [Counselor – Student Success Program Coordinator](https://www.linkedin.com/jobs/view/4447169037/) — Wyoming Life Resource Center
+- 📍 **Location:** Powell, WY
+- 🕒 **Posted:** 2026-07-31
+
+### [Program Coordinator](https://www.linkedin.com/jobs/view/4447556528/) — International Microbiome and Multi-`Omics Standards Alliance (IMMSA)
 - 📍 **Location:** United States
 - 🕒 **Posted:** 2026-07-31
 
-### [Retail Experience Supervisor](https://www.linkedin.com/jobs/view/4445068789/) — Best Buy
+### [Patient Care Coordinator - Women's Clinic](https://www.linkedin.com/jobs/view/4447539744/) — Fred Hutch
+- 📍 **Location:** Seattle, WA
+- 💰 **Salary:** $27.01 to $38.45
+- 🕒 **Posted:** 2026-07-31
+
+### [Youth Counselor III Part Time](https://www.linkedin.com/jobs/view/4447152327/) — Aspiranet
+- 📍 **Location:** Turlock, CA
+- 💰 **Salary:** $25.50 - $27.00
+- 🕒 **Posted:** 2026-07-31
+
+### [INTENSIVE CASE MANAGER](https://www.linkedin.com/jobs/view/4445535417/) — Catholic Charities of the Diocese of Rochester
+- 📍 **Location:** Ithaca, NY
+- 🕒 **Posted:** 2026-07-31
+
+### [FPS Family Support Worker- Wichita](https://www.linkedin.com/jobs/view/4429703321/) — DCCCA
+- 📍 **Location:** Wichita, KS
+- 🕒 **Posted:** 2026-07-31
+
+### [Non-Medical Case Manager](https://www.linkedin.com/jobs/view/4447223193/) — State of Utah
+- 📍 **Location:** Salt Lake City, UT
+- 💰 **Salary:** $21.48 - $28.00 Hourly
+- 🕒 **Posted:** 2026-07-31
+
+### [Community Health Worker](https://www.linkedin.com/jobs/view/4447160284/) — Sentara Health
+- 📍 **Location:** Harrisonburg, VA
+- 🕒 **Posted:** 2026-07-31
+
+### [Youth Development Specialist](https://www.linkedin.com/jobs/view/4447172080/) — TAG MedStaffing
+- 📍 **Location:** Bronx, NY
+- 💰 **Salary:** $50,000.00/yr - $55,000.00/yr
+- 🕒 **Posted:** 2026-07-31
+
+### [Housing Case Manager - 2362-0-5](https://www.linkedin.com/jobs/view/4447150450/) — Piedmont Community Services
+- 📍 **Location:** Martinsville, VA
+- 🕒 **Posted:** 2026-07-31
+
+### [Community Recreation Supervisor-EN](https://www.linkedin.com/jobs/view/4443423626/) — Canadian Forces Morale and Welfare Services
+- 📍 **Location:** Ottawa, Ontario, Canada
+- 💰 **Salary:** $20.55/hr - CA$30.85/hr
+- 🕒 **Posted:** 2026-07-31
+
+### [Program Coordinator , Punjab Districts (Amritsar ,Ferozepur , Gurdaspur ,Sri Muktsar Sahib & Bathinda)](https://www.linkedin.com/jobs/view/4447542481/) — Noora Health
+- 📍 **Location:** Ludhiana, Punjab, India
+- 🕒 **Posted:** 2026-07-31
+
+### [Community Health Worker](https://www.linkedin.com/jobs/view/4429557754/) — AltaMed Health Services
+- 📍 **Location:** Anaheim, CA
+- 💰 **Salary:** $26.91 - $33.53 hourly
+- 🕒 **Posted:** 2026-07-31
+
+### [Disability Case Manager](https://www.linkedin.com/jobs/view/4446934305/) — NorthStream Safety and Rehab 🇨🇦
+- 📍 **Location:** Thunder Bay, Ontario, Canada
+- 💰 **Salary:** $62,000 - $90,000
+- 🕒 **Posted:** 2026-07-31
+
+### [Community Health Worker - Massachusetts (Suffolk / Norfolk /Surrounding Areas) - R13126](https://www.linkedin.com/jobs/view/4435906974/) — Commonwealth Care Alliance
+- 📍 **Location:** Massachusetts, United States
+- 💰 **Salary:** $54,500.00 - $87,300.00
+- 🕒 **Posted:** 2026-07-31
+
+### [Health Professions Education Specialist 3](https://www.linkedin.com/jobs/view/4446393606/) — University of California, San Francisco
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-07-31
+
+### [Community Outreach Specialist](https://www.linkedin.com/jobs/view/4438841499/) — Enterprise Bank & Trust
+- 📍 **Location:** Los Alamos, NM
+- 🕒 **Posted:** 2026-07-31
+
+### [Care Coordinator (OhioRISE)](https://www.linkedin.com/jobs/view/4447166138/) — Integrated Services for Behavioral Health
+- 📍 **Location:** McArthur, OH
+- 💰 **Salary:** $20.19 - $25.03 per hour
+- 🕒 **Posted:** 2026-07-31
+
+### [Client Care Coordinator](https://www.linkedin.com/jobs/view/4447159198/) — CareTen Inc.
+- 📍 **Location:** Hackensack, NJ
+- 🕒 **Posted:** 2026-07-31
+
+### [Case Manager-SW Afternoons](https://www.linkedin.com/jobs/view/4447552719/) — Henry Ford Health
+- 📍 **Location:** Detroit, MI
+- 🕒 **Posted:** 2026-07-31
+
+### [Patient Care Coordinator-Upland, CA](https://www.linkedin.com/jobs/view/4447542831/) — Sonova Group
+- 📍 **Location:** Upland, CA
+- 🕒 **Posted:** 2026-07-31
+
+### [Community Health Worker](https://www.linkedin.com/jobs/view/4400124455/) — Fund for Public Health in NYC
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-07-31
+
+### [Supervisor- Youth Care](https://www.linkedin.com/jobs/view/4444613632/) — Mercy Home for Boys & Girls
+- 📍 **Location:** Chicago, IL
+- 💰 **Salary:** $57,000-$58,000/year
+- 🕒 **Posted:** 2026-07-31
+
+### [Case Manager](https://www.linkedin.com/jobs/view/4447152502/) — The Salvation Army North & Central Illinois Division
+- 📍 **Location:** Detroit, MI
+- 🕒 **Posted:** 2026-07-31
+
+### [Client Transition Specialist](https://www.linkedin.com/jobs/view/4447160330/) — IQVIA
+- 📍 **Location:** Parsippany, NJ
+- 💰 **Salary:** $73,400.00 - $183,600.00
+- 🕒 **Posted:** 2026-07-31
+
+### [Client Transition Specialist](https://www.linkedin.com/jobs/view/4447153515/) — IQVIA
+- 📍 **Location:** Wayne, PA
+- 💰 **Salary:** $73,400.00 - $183,600.00
+- 🕒 **Posted:** 2026-07-31
+
+### [training coordinator](https://www.linkedin.com/jobs/view/4447170034/) — Sechan Electronics, Inc.
+- 📍 **Location:** Lititz, PA
+- 🕒 **Posted:** 2026-07-31
+
+### [School Social Worker (State Teacher II) - Campus at Mount View Youth Services Center](https://www.linkedin.com/jobs/view/4447542881/) — State of Colorado
 - 📍 **Location:** Lakewood, CO
-- 💰 **Salary:** $20.39/hr - $31.30/hr
 - 🕒 **Posted:** 2026-07-31
 
-### [Maintenance Supervisor](https://www.linkedin.com/jobs/view/4446978075/) — Willow Bridge Property Company
-- 📍 **Location:** Boulder, CO
-- 💰 **Salary:** $34.00 to $36.00 per hour
+### [Family Case Manager, Foster Care](https://www.linkedin.com/jobs/view/4445526430/) — Lutheran Social Services of Illinois
+- 📍 **Location:** Galesburg, IL
+- 💰 **Salary:** $60,000-$67,000/Annually
 - 🕒 **Posted:** 2026-07-31
 
-### [Youth Development Specialist, Alpha - $120,000/year USD](https://www.linkedin.com/jobs/view/4445767862/) — Crossover
-- 📍 **Location:** Greenwich, CT
-- 💰 **Salary:** $60.00/hr - $60.00/hr
+### [Social Worker](https://www.linkedin.com/jobs/view/4429410540/) — The Judge Group
+- 📍 **Location:** Cranston, RI
+- 💰 **Salary:** $40.00/hr - $46.00/hr
 - 🕒 **Posted:** 2026-07-31
 
-### [Case Manager -Domestic Violence Programs](https://www.linkedin.com/jobs/view/4447240981/) — Urban Resource Institute (URI)
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-07-31
-
-### [Case Manager - Supportive Housing](https://www.linkedin.com/jobs/view/4447249944/) — Urban Resource Institute (URI)
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $60,000 - $70,000
-- 🕒 **Posted:** 2026-07-31
-
-### [Clinical Social Worker](https://www.linkedin.com/jobs/view/4447250800/) — VITAS Healthcare
-- 📍 **Location:** Riverside, CA
-- 🕒 **Posted:** 2026-07-31
-
-### [Community Resource Coordinator IV (Program Coordinator)](https://www.linkedin.com/jobs/view/4446970752/) — University of Louisville
-- 📍 **Location:** Louisville, KY
-- 🕒 **Posted:** 2026-07-31
-
-### [Peer Support Specialist](https://www.linkedin.com/jobs/view/4446967643/) — Hope Dealer Community
-- 📍 **Location:** Peer, Flemish Region, Belgium
-- 🕒 **Posted:** 2026-07-31
-
-### [ADON Health and Wellness Coordinator](https://www.linkedin.com/jobs/view/4446959841/) — Brookdale
-- 📍 **Location:** Fayetteville, NY
-- 💰 **Salary:** $30.13/hr - $38.38/hr
-- 🕒 **Posted:** 2026-07-31
-
-### [Remote Healthcare Coordinator](https://www.linkedin.com/jobs/view/4444193173/) — ConeHealths
-- 📍 **Location:** Atlanta, GA
-- 🕒 **Posted:** 2026-07-31
-
-### [Client Care Coordinator (Social Worker) - Homeless Families](https://www.linkedin.com/jobs/view/4447249938/) — Urban Resource Institute (URI)
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-07-31
-
-### [Care Coordinator](https://www.linkedin.com/jobs/view/4447250851/) — Radfield Home Care Chester & Ellesmere Port
-- 📍 **Location:** Chippenham, England, United Kingdom
-- 🕒 **Posted:** 2026-07-31
-
-### [Patient Care Coordinator](https://www.linkedin.com/jobs/view/4447274014/) — AEG Vision
-- 📍 **Location:** Grabill, IN
-- 🕒 **Posted:** 2026-07-31
-
-### [Change Management Program Manager](https://www.linkedin.com/jobs/view/4447267030/) — ALASKA AIRLINES PILOTS CHARITABLE FUND
-- 📍 **Location:** SeaTac, WA
-- 💰 **Salary:** $122,800 - $184,200
-- 🕒 **Posted:** 2026-07-31
-
-### [Youth Outreach Case Manager](https://www.linkedin.com/jobs/view/4446708193/) — The Salvation Army Australia
-- 📍 **Location:** Bundaberg, Queensland, Australia
-- 🕒 **Posted:** 2026-07-31
-
-### [Program Coordinator](https://www.linkedin.com/jobs/view/4446978039/) — Sutter Health
-- 📍 **Location:** Burlingame, CA
-- 💰 **Salary:** $37.32 to $55.99
-- 🕒 **Posted:** 2026-07-31
-
-### [Lunchroom Supervisor](https://www.linkedin.com/jobs/view/4447261143/) — Indian Prairie School District 204
-- 📍 **Location:** Naperville, IL
-- 🕒 **Posted:** 2026-07-31
-
-### [Lunchroom Supervisor](https://www.linkedin.com/jobs/view/4447264035/) — Indian Prairie School District 204
-- 📍 **Location:** Naperville, IL
-- 🕒 **Posted:** 2026-07-31
-
-### [Substance Abuse Counselor (Bachelor's and CDCA II)](https://www.linkedin.com/jobs/view/4446978136/) — New Season
-- 📍 **Location:** Toledo, OH
-- 🕒 **Posted:** 2026-07-31
-
-### [Substance Abuse Counselor (LADC)](https://www.linkedin.com/jobs/view/4446977160/) — New Season
-- 📍 **Location:** Roseville, MN
-- 🕒 **Posted:** 2026-07-31
-
-### [Community Health Worker or Housing Transition Coordinator](https://www.linkedin.com/jobs/view/4443212143/) — National Church Residences
-- 📍 **Location:** Cincinnati, OH
-- 🕒 **Posted:** 2026-07-31
-
-### [Community Health Worker or Housing Transition Coordinator](https://www.linkedin.com/jobs/view/4429483968/) — National Church Residences
-- 📍 **Location:** Warren, OH
-- 🕒 **Posted:** 2026-07-31
-
-### [Team Leader Student Wellbeing](https://www.linkedin.com/jobs/view/4446955939/) — UNSW College
-- 📍 **Location:** Kensington, New South Wales, Australia
-- 🕒 **Posted:** 2026-07-31
-
-### [Case Manager- Case Management Operations](https://www.linkedin.com/jobs/view/4447254937/) — BioSpace
-- 📍 **Location:** Indianapolis, IN
-- 💰 **Salary:** $65,250 - $148,500
-- 🕒 **Posted:** 2026-07-31
-
-### [Social Worker (2 Posts)](https://www.linkedin.com/jobs/view/4446783919/) — Barnsley Council
-- 📍 **Location:** Barnsley, England, United Kingdom
+### [Social Worker or Counselor](https://www.linkedin.com/jobs/view/4447556541/) — Sheppard Pratt
+- 📍 **Location:** Elkridge, MD
+- 💰 **Salary:** $60k - $105k
 - 🕒 **Posted:** 2026-07-31
