@@ -2454,3 +2454,4 @@
 {"job_count": 0, "run_attempt": "1", "run_id": "30666986160", "timestamp": "2026-07-31T21:38:07Z", "workflow": "ziprecruiter"}
 {"job_count": 0, "run_attempt": "1", "run_id": "30667490800", "timestamp": "2026-07-31T21:46:58Z", "workflow": "google_jobs"}
 {"job_count": 21, "run_attempt": "1", "run_id": "30667762025", "timestamp": "2026-07-31T21:51:02Z", "workflow": "indeed"}
+{"job_count": 88, "run_attempt": "1", "run_id": "30668100144", "timestamp": "2026-07-31T21:57:34Z", "workflow": "hiringcafe"}

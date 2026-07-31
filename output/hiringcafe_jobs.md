@@ -1,11 +1,11 @@
 # ☕ HiringCafe — Social Worker Roles
-*Last updated: 2026-07-31 20:15 UTC*
+*Last updated: 2026-07-31 21:57 UTC*
 
-**1 new role(s)** since last run · 87 total in last 30d
+**1 new role(s)** since last run · 88 total in last 30d
 
-### [Program Coordinator, Health](https://unidosus.org/about/jobs/careers-job-listing/?gh_jid=4701020006) — UnidosUS
-- 📍 **Location:** Washington, District of Columbia, United States
-- 💰 **Salary:** $63k–$66k/yr
-- **Work mode:** Telecommute eligible
+### [CASE MANAGER](https://careers.pageuppeople.com/1045/ci/en/job/542629) — State of Arizona
+- 📍 **Location:** Avondale or Glendale or Peoria or Phoenix
+- 💰 **Salary:** $45k–$58k/yr
+- **Work mode:** On-site
 - **Job type:** Full Time
-- 🕒 **Posted:** 2026-07-31T17:32:54.000Z
+- 🕒 **Posted:** 2026-07-31T16:00:00.000Z
