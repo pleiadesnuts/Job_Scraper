@@ -1,24 +1,31 @@
 # 🟦 Indeed — Social Worker Roles
-*Last updated: 2026-08-01 04:10 UTC*
+*Last updated: 2026-08-01 16:36 UTC*
 
-**3 new role(s)** since last run · 23 total in last 24h
+**4 new role(s)** since last run · 20 total in last 24h
 
-### [Research Program Manager](https://www.indeed.com/viewjob?jk=eff71f213eee3dce) — University of Colorado
-- 📍 **Location:** Aurora, CO, US
-- 💰 **Salary:** $70k–$90k/yr
-- **Work mode:** On-site
+### [School Social Worker (State Teacher II) - Campus at Mount View Youth Services Center](https://www.indeed.com/viewjob?jk=c888e73dcd98ae51) — State of Colorado
+- 📍 **Location:** Lakewood, CO, US
+- **Work mode:** Remote in-state eligible
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-07-31
 
-### [PACE Social Worker](https://www.indeed.com/viewjob?jk=45674cb3ffebf55b) — TRU Community Care
-- 📍 **Location:** Lafayette, CO, US
-- 💰 **Salary:** $69k–$92k/yr
-- **Work mode:** On-site
+### [Youth care Coordinator](https://www.indeed.com/viewjob?jk=b56e131b6d162eae) — Transformative Justice Project of Colorado
+- 📍 **Location:** Denver, CO, US
+- 💰 **Salary:** $65k–$70k/yr
+- **Work mode:** Remote in-state eligible
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-07-31
 
-### [Heavy Equipment Supervisor](https://www.indeed.com/viewjob?jk=391cee75ac77f901) — Tlingit Haida Tribal Business Corporation
-- 📍 **Location:** Castle Rock, CO, US
-- 💰 **Salary:** $70k–$80k/yr
-- **Work mode:** On-site
+### [Forensic Social Worker](https://www.indeed.com/viewjob?jk=e42325356e2837e3) — Transformative Justice Project of Colorado
+- 📍 **Location:** Denver, CO, US
+- 💰 **Salary:** $81k–$85k/yr
+- **Work mode:** Remote in-state eligible
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-07-31
+
+### [Medical Social Worker](https://www.indeed.com/viewjob?jk=4077b2e6d1169268) — Oregon Health & Science University
+- 📍 **Location:** Remote, US
+- 💰 **Salary:** $45–$62/hr
+- **Work mode:** Remote in-state eligible
+- **Job type:** fulltime
 - 🕒 **Posted:** 2026-07-31
