@@ -1,129 +1,86 @@
 # 🔥 LinkedIn — Social Worker Roles
-*Last updated: 2026-08-01 19:46 UTC*
+*Last updated: 2026-08-01 21:22 UTC*
 
-**29 new role(s)** since last run · 30 total in last 1h
+**18 new role(s)** since last run · 18 total in last 1h
 
-### [Engagement Supervisor](https://www.linkedin.com/jobs/view/4447845064/) — Cerula Care
+### [[REMOTE] Intake Specialist - ENTRY LEVEL - START IMMEDIATELY](https://www.linkedin.com/jobs/view/4445823126/) — Consórcio Embracon
 - 📍 **Location:** United States
 - 🕒 **Posted:** 2026-08-01
 
-### [Case Manager - Residential Center for Healing & Resilience](https://www.linkedin.com/jobs/view/4447843033/) — Idaho Youth Ranch
-- 📍 **Location:** Caldwell, ID
+### [Katie Miller Program Coordinator](https://www.linkedin.com/jobs/view/4447620044/) — Helen Ross McNabb Center
+- 📍 **Location:** Knoxville, TN
 - 🕒 **Posted:** 2026-08-01
 
-### [Housing Specialist (Plymouth)](https://www.linkedin.com/jobs/view/4447831358/) — AgeSpan
-- 📍 **Location:** Plymouth, MA
+### [Community Health Worker](https://www.linkedin.com/jobs/view/4447622030/) — Health & Welfare Council of Long Island
+- 📍 **Location:** Huntington, NY
+- 💰 **Salary:** $50,000- $55,000/year
 - 🕒 **Posted:** 2026-08-01
 
-### [Substance Abuse Counselor- La Entrada](https://www.linkedin.com/jobs/view/4447841269/) — Amity Foundation
-- 📍 **Location:** Los Angeles, CA
-- 💰 **Salary:** $20-$26/hr
+### [Case Manager - Crestview Mobile Response Team](https://www.linkedin.com/jobs/view/4447851060/) — Lakeview Center
+- 📍 **Location:** Crestview, FL
 - 🕒 **Posted:** 2026-08-01
 
-### [Program Coordinator, Data Philanthropy](https://www.linkedin.com/jobs/view/4430901254/) — Fred Hutch
-- 📍 **Location:** Seattle, WA
-- 💰 **Salary:** $31.26 to $44.51
-- 🕒 **Posted:** 2026-08-01
-
-### [SafeCare® Colorado Supervisor](https://www.linkedin.com/jobs/view/4447838241/) — Lutheran Family Services Rocky Mountains
-- 📍 **Location:** Colorado Springs, CO
-- 🕒 **Posted:** 2026-08-01
-
-### [Case Manager Adults](https://www.linkedin.com/jobs/view/4447836295/) — The Guidance Center
-- 📍 **Location:** Taylor, MI
-- 🕒 **Posted:** 2026-08-01
-
-### [Grant Writer II](https://www.linkedin.com/jobs/view/4447837298/) — Fresno Economic Opportunities Commission (Fresno EOC)
-- 📍 **Location:** Fresno, CA
-- 🕒 **Posted:** 2026-08-01
-
-### [Outreach Case Manager](https://www.linkedin.com/jobs/view/4447832320/) — Call to Freedom
-- 📍 **Location:** Sioux Falls, SD
-- 💰 **Salary:** $18–$23 per hour
-- 🕒 **Posted:** 2026-08-01
-
-### [Case Manager](https://www.linkedin.com/jobs/view/4447826466/) — Deborah's Place
+### [Resource Coordinator Service Environmental Science EVS Discharge Team Supervisor](https://www.linkedin.com/jobs/view/4447184624/) — Northwestern Memorial Hospital
 - 📍 **Location:** Chicago, IL
+- 💰 **Salary:** $24.72 - $39.30
 - 🕒 **Posted:** 2026-08-01
 
-### [Clinical Program Manager](https://www.linkedin.com/jobs/view/4447845216/) — First Place for Youth
-- 📍 **Location:** Oakland, CA
+### [Research Senior Supervisor](https://www.linkedin.com/jobs/view/4447579888/) — Michigan Medicine
+- 📍 **Location:** Ann Arbor, MI
 - 🕒 **Posted:** 2026-08-01
 
-### [Education Supervisor](https://www.linkedin.com/jobs/view/4447835346/) — Arizona Humane Society
-- 📍 **Location:** Phoenix, AZ
+### [Hamilton County Supportive Housing Team Leader](https://www.linkedin.com/jobs/view/4447616095/) — Helen Ross McNabb Center
+- 📍 **Location:** Chattanooga, TN
 - 🕒 **Posted:** 2026-08-01
 
-### [Intensive Care Coordinator](https://www.linkedin.com/jobs/view/4447845146/) — Rockbridge Area Community Services
-- 📍 **Location:** Lexington, VA
+### [Intake Specialist](https://www.linkedin.com/jobs/view/4446447675/) — Law Firms
+- 📍 **Location:** Houston, TX
+- 💰 **Salary:** $60,000.00/yr - $80,000.00/yr
 - 🕒 **Posted:** 2026-08-01
 
-### [Social Worker](https://www.linkedin.com/jobs/view/4447832375/) — Thom Child and Family Services
-- 📍 **Location:** Norwood, MA
-- 💰 **Salary:** $56,000 to $65,000
+### [Case Manager / Counselor - (Bachelor's) Knox, Blount, & Anderson](https://www.linkedin.com/jobs/view/4447603381/) — Helen Ross McNabb Center
+- 📍 **Location:** Knoxville, TN
+- 💰 **Salary:** $17.97 – $19.92
 - 🕒 **Posted:** 2026-08-01
 
-### [Social Worker](https://www.linkedin.com/jobs/view/4447839291/) — Metropolitan Government of Nashville and Davidson County
-- 📍 **Location:** Nashville, TN
+### [BlountTransition Recovery Home Case Manager](https://www.linkedin.com/jobs/view/4447498979/) — Helen Ross McNabb Center
+- 📍 **Location:** Maryville, TN
 - 🕒 **Posted:** 2026-08-01
 
-### [Substance Abuse Counselor](https://www.linkedin.com/jobs/view/4447842182/) — Avenues Recovery Center
-- 📍 **Location:** Swanzey, NH
+### [Residential QMHS Case Manager](https://www.linkedin.com/jobs/view/4447621059/) — North Community Counseling Centers
+- 📍 **Location:** Columbus, OH
+- 💰 **Salary:** $42,000 - $44,000
 - 🕒 **Posted:** 2026-08-01
 
-### [Substance Abuse Counselors](https://www.linkedin.com/jobs/view/4447844083/) — Avenues Recovery Center
-- 📍 **Location:** Covington, LA
+### [Patient Care Coordinator](https://www.linkedin.com/jobs/view/4447623024/) — RemoteHunter
+- 📍 **Location:** United States
 - 🕒 **Posted:** 2026-08-01
 
-### [Make an IMPACT: School-Based Substance Abuse Counselor](https://www.linkedin.com/jobs/view/4419078392/) — Invo Healthcare
-- 📍 **Location:** Waianae, HI
+### [Program Coordinator - OFFICE OF CNO -Remote](https://www.linkedin.com/jobs/view/4447602472/) — RemoteHunter
+- 📍 **Location:** United States
+- 💰 **Salary:** $20.43 to $27.92 per hour
 - 🕒 **Posted:** 2026-08-01
 
-### [Case Manager - FACT](https://www.linkedin.com/jobs/view/4447825451/) — Suncoast Center, Inc.
-- 📍 **Location:** St. Petersburg, FL
+### [Case Manager Care Coordination Full Time Days](https://www.linkedin.com/jobs/view/4447616122/) — Northwestern Medicine Central DuPage Hospital
+- 📍 **Location:** Winfield, IL
+- 💰 **Salary:** $40.50 - $64.80
 - 🕒 **Posted:** 2026-08-01
 
-### [Health Home Care Coordinator, Social Service Coordinator, Social Services,](https://www.linkedin.com/jobs/view/4447844060/) — KWA (Korean Women's Association)
-- 📍 **Location:** Tacoma, WA
-- 💰 **Salary:** $21.00–$23.00
+### [RN Care Coordinator](https://www.linkedin.com/jobs/view/4447618120/) — CommonSpirit Health
+- 📍 **Location:** Council Bluffs, IA
+- 💰 **Salary:** $32.70 - $48.65 /hour
 - 🕒 **Posted:** 2026-08-01
 
-### [Mobile Response Peer Support Specialist](https://www.linkedin.com/jobs/view/4447825427/) — Crestwood Behavioral Health, Inc.
-- 📍 **Location:** Lompoc, CA
-- 💰 **Salary:** $23 - $24.17 USD
+### [Recreation Program Supervisor I - Early Childhood/Youth Enrichment](https://www.linkedin.com/jobs/view/4447607342/) — NRPA Leadership Development Network
+- 📍 **Location:** Orland Park, IL
+- 💰 **Salary:** $67,599-$81,118
 - 🕒 **Posted:** 2026-08-01
 
-### [Community Health Worker - Mobile Clinic Champion](https://www.linkedin.com/jobs/view/4447841207/) — Mission Mobile Medical
-- 📍 **Location:** Fremont, CA
+### [Grant Writer, CLAN (Caring & Living As Neighbours)](https://www.linkedin.com/jobs/view/4445834012/) — Public Health Matters
+- 📍 **Location:** Grant, IL
 - 🕒 **Posted:** 2026-08-01
 
-### [Foster Care Clinical Care Coordinator](https://www.linkedin.com/jobs/view/4447842209/) — Epworth Children & Family Services
-- 📍 **Location:** Rock Hill, SC
-- 🕒 **Posted:** 2026-08-01
-
-### [Care Coordinator - Beverly Hills](https://www.linkedin.com/jobs/view/4447830337/) — Atria Health and Research Institute
-- 📍 **Location:** Beverly Hills, CA
-- 💰 **Salary:** $85,000 - 100,000
-- 🕒 **Posted:** 2026-08-01
-
-### [Tacoma/Lakewood Home Care Supervisor - Scheduler, Pierce County, Manager, Healthcare, Home Care](https://www.linkedin.com/jobs/view/4447836252/) — KWA (Korean Women's Association)
-- 📍 **Location:** Lakewood, WA
-- 💰 **Salary:** $23.92 - $26.00
-- 🕒 **Posted:** 2026-08-01
-
-### [Residential Program Manager - Manchester, CT](https://www.linkedin.com/jobs/view/4447836236/) — MARCH
-- 📍 **Location:** Manchester, CT
-- 🕒 **Posted:** 2026-08-01
-
-### [Residential Site Supervisor](https://www.linkedin.com/jobs/view/4447824938/) — Mozaic
-- 📍 **Location:** Seneca Falls, NY
-- 💰 **Salary:** $25.95 - $29.63 per hour
-- 🕒 **Posted:** 2026-08-01
-
-### [Case Manager II, Kinship Specialist (Foster Care and Kinship; Pinal County)](https://www.linkedin.com/jobs/view/4447825467/) — Catholic Community Services of Southern Arizona
-- 📍 **Location:** Tucson, AZ
-- 🕒 **Posted:** 2026-08-01
-
-### [Social Worker - MSW](https://www.linkedin.com/jobs/view/4447606232/) — Dartmouth Health
-- 📍 **Location:** Lebanon, NH
+### [Content And Ambassador Program Manager](https://www.linkedin.com/jobs/view/4447608270/) — Visit Southeast Montana
+- 📍 **Location:** Billings, MT
+- 💰 **Salary:** $50,000-$55,000 annually
 - 🕒 **Posted:** 2026-08-01
