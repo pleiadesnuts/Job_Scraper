@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-01 05:09 UTC",
-  "total": 96,
-  "new_count": 0,
+  "scraped_at": "2026-08-01 17:54 UTC",
+  "total": 93,
+  "new_count": 1,
   "jobs": [
     {
       "company": "Avant Rehabilitation and Care Center",
@@ -116,13 +116,13 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Riverview Health & Rehab Center - Jefferson",
+      "company": "RIVERVIEW HEALTH GROUP",
       "title": "Social Worker",
       "location": "Detroit, Michigan, United States",
-      "url": "https://www.paycomonline.net/v4/ats/web.php/jobs/ViewJobDetails?job=174605&clientkey=5E4FC8C819F2A5B62D672E294B1353BB",
-      "direct_url": "https://www.paycomonline.net/v4/ats/web.php/jobs/ViewJobDetails?job=174605&clientkey=5E4FC8C819F2A5B62D672E294B1353BB",
+      "url": "https://www.paycomonline.net/v4/ats/web.php/jobs/ViewJobDetails?job=174605&clientkey=674C5E6E9D5651D6FB1EC4FD60A322D9",
+      "direct_url": "https://www.paycomonline.net/v4/ats/web.php/jobs/ViewJobDetails?job=174605&clientkey=674C5E6E9D5651D6FB1EC4FD60A322D9",
       "date_posted": "2026-07-23T00:00:00.000Z",
-      "description": "Bachelor's in Social Work required (MSW preferred), 1 year supervised social work in long-term or sub-acute care, Michigan social worker license, knowledge of regulations, computer proficiency, strong communication and analytical skills.",
+      "description": "Licensed social worker in Michigan with bachelor\\u0002s in social work (master\\u0002s preferred), 1 year supervised social work experience in long-term/sub-acute care, knowledge of regulations, strong communication and assessment skills.",
       "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
@@ -256,20 +256,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Steno",
-      "title": "Case Manager",
-      "location": "United States",
-      "url": "https://ats.rippling.com/steno-careers-page/jobs/c14beec4-1ee9-4604-bf13-1d93c9cb1c3d",
-      "direct_url": "https://ats.rippling.com/steno-careers-page/jobs/c14beec4-1ee9-4604-bf13-1d93c9cb1c3d",
-      "date_posted": "2026-07-23T22:43:18.956Z",
-      "description": "Experience managing complex litigation cases, client-facing case execution, CRM and electronic document management experience, strong communication, organization, and negotiation skills.",
-      "salary": "$88k–$115k/yr",
-      "job_type": "Full Time",
-      "is_remote": true,
-      "work_arrangement": "Remote in-state eligible",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "The Salvation Army Central Territory",
       "title": "Case Manager",
       "location": "Chicago, Illinois, United States",
@@ -363,20 +349,6 @@
       "description": "Manage pre-suit case investigations, negotiate with insurers, maintain client communication, supervise a legal assistant, organize case files, and enter data into the ATO database.",
       "salary": "",
       "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Asheville City Schools",
-      "title": "Case Manager",
-      "location": "Asheville, North Carolina, United States",
-      "url": "https://www.applitrack.com/asheville/onlineapp/jobpostings/view.asp?AppliTrackJobId=3123",
-      "direct_url": "https://www.applitrack.com/asheville/onlineapp/jobpostings/view.asp?AppliTrackJobId=3123",
-      "date_posted": "2026-07-02T12:00:00.000Z",
-      "description": "Coordinate student services, conduct assessments, provide crisis intervention and case management; bachelor's degree required, 2+ years experience in case management or student support, familiarity with IEPs/BIPs and mental health interventions.",
-      "salary": "",
-      "job_type": "Full Time, Temporary",
       "is_remote": false,
       "work_arrangement": "On-site",
       "ats": "HiringCafe"
@@ -494,20 +466,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Volunteers of America Los Angeles (VOALA)",
-      "title": "Case Manager Specialist",
-      "location": "Los Angeles, California, United States",
-      "url": "https://scadpinc.hrmdirect.com/employment/job-opening.php?req=3757331&req_loc=1385105",
-      "direct_url": "https://scadpinc.hrmdirect.com/employment/job-opening.php?req=3757331&req_loc=1385105",
-      "date_posted": "2026-07-08T03:00:00.000Z",
-      "description": "Provide intensive case management with weekly client contact; conduct assessments, develop case plans, coordinate services, and document progress. Requires fingerprint clearance and 1+ year case management experience.",
-      "salary": "$50k–$52k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Ascension Recovery Services",
       "title": "Case Manager",
       "location": "Muncie, Indiana, United States",
@@ -530,6 +488,20 @@
       "date_posted": "2026-07-22T18:50:44.359Z",
       "description": "Minimum 6 months case management experience, strong communication, organization, ability to learn new systems, client-focused and coachable.",
       "salary": "$46k–$50k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Volunteers of America Los Angeles (VOALA)",
+      "title": "Case Manager Specialist",
+      "location": "Los Angeles, California, United States",
+      "url": "https://scadpinc.hrmdirect.com/employment/job-opening.php?req=3757331&req_loc=1385105",
+      "direct_url": "https://scadpinc.hrmdirect.com/employment/job-opening.php?req=3757331&req_loc=1385105",
+      "date_posted": "2026-07-08T03:00:00.000Z",
+      "description": "Provide intensive case management with weekly client contact; conduct assessments, develop case plans, coordinate services, and document progress. Requires fingerprint clearance and 1+ year case management experience.",
+      "salary": "$50k–$52k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
@@ -564,6 +536,20 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "Pascack Valley Medical Center",
+      "title": "Case Manager / RN",
+      "location": "Westwood, New Jersey, United States",
+      "url": "https://jobs.ardenthealth.com/jobs/138395?lang=en-us",
+      "direct_url": "https://jobs.ardenthealth.com/jobs/138395?lang=en-us",
+      "date_posted": "2026-07-29T18:26:49.000Z",
+      "description": "RN with an associate degree or higher; case management experience in acute hospital settings preferred; certification in case management (ACM or CCM) preferred.",
+      "salary": "$82k–$106k/yr",
+      "job_type": "Part Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
       "company": "YMCA of Greater Cincinnati",
       "title": "Program Coordinator",
       "location": "Hillsboro, Ohio, United States",
@@ -592,14 +578,14 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Raymondjames",
+      "company": "Asu",
       "title": "Program Coordinator",
-      "location": "Saint Petersburg, Florida, United States",
-      "url": "https://raymondjames.wd1.myworkdayjobs.com/raymondjamescareers/job/Saint-Petersburg-Florida---United-States/Project-Coordinator_R-0011940-1",
-      "direct_url": "https://raymondjames.wd1.myworkdayjobs.com/raymondjamescareers/job/Saint-Petersburg-Florida---United-States/Project-Coordinator_R-0011940-1",
-      "date_posted": "2026-07-09T00:00:00.000Z",
-      "description": "Bachelor's degree or equivalent experience, 3+ years general experience preferred, program/project coordination, stakeholder communication, reporting, and process improvement skills.",
-      "salary": "",
+      "location": "Tempe, Arizona, United States",
+      "url": "https://asu.wd1.myworkdayjobs.com/asustaffcareers/job/Campus-Tempe/Program-Coordinator_JR122930",
+      "direct_url": "https://asu.wd1.myworkdayjobs.com/asustaffcareers/job/Campus-Tempe/Program-Coordinator_JR122930",
+      "date_posted": "2026-07-28T00:00:00.000Z",
+      "description": "Bachelor's degree plus 3 years' relevant experience (or equivalent), strong event coordination, communications, program support, Microsoft Office and Salesforce experience.",
+      "salary": "$55k–$68k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "Telecommute eligible",
@@ -620,31 +606,17 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Asu",
+      "company": "Raymondjames",
       "title": "Program Coordinator",
-      "location": "Tempe, Arizona, United States",
-      "url": "https://asu.wd1.myworkdayjobs.com/asustaffcareers/job/Campus-Tempe/Program-Coordinator_JR122930",
-      "direct_url": "https://asu.wd1.myworkdayjobs.com/asustaffcareers/job/Campus-Tempe/Program-Coordinator_JR122930",
-      "date_posted": "2026-07-28T00:00:00.000Z",
-      "description": "Bachelor's degree plus 3 years' relevant experience (or equivalent), strong event coordination, communications, program support, Microsoft Office and Salesforce experience.",
-      "salary": "$55k–$68k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "Telecommute eligible",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "UTSW",
-      "title": "Program Coordinator",
-      "location": "Dallas, Texas, United States",
-      "url": "https://utsw.referrals.selectminds.com/jobs/program-coordinator-76325",
-      "direct_url": "https://utsw.referrals.selectminds.com/jobs/program-coordinator-76325",
-      "date_posted": "2026-07-28T15:01:54.958Z",
-      "description": "Bachelor's degree in related field and 5 years' relevant experience (may substitute experience for education); program coordination, budgeting, compliance, and quality improvement experience.",
+      "location": "Saint Petersburg, Florida, United States",
+      "url": "https://raymondjames.wd1.myworkdayjobs.com/raymondjamescareers/job/Saint-Petersburg-Florida---United-States/Project-Coordinator_R-0011940-1",
+      "direct_url": "https://raymondjames.wd1.myworkdayjobs.com/raymondjamescareers/job/Saint-Petersburg-Florida---United-States/Project-Coordinator_R-0011940-1",
+      "date_posted": "2026-07-09T00:00:00.000Z",
+      "description": "Bachelor's degree or equivalent experience, 3+ years general experience preferred, program/project coordination, stakeholder communication, reporting, and process improvement skills.",
       "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
-      "work_arrangement": "On-site",
+      "work_arrangement": "Telecommute eligible",
       "ats": "HiringCafe"
     },
     {
@@ -662,14 +634,14 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Upenn",
+      "company": "UTSW",
       "title": "Program Coordinator",
-      "location": "Philadelphia, Pennsylvania, United States",
-      "url": "https://upenn.wd1.myworkdayjobs.com/psom/job/Presbyterian-Med-Ctr-FL7/Program-Coordinator_JR00123112",
-      "direct_url": "https://upenn.wd1.myworkdayjobs.com/psom/job/Presbyterian-Med-Ctr-FL7/Program-Coordinator_JR00123112",
-      "date_posted": "2026-07-24T00:00:00.000Z",
-      "description": "Bachelor's degree and 2–3 years experience or equivalent; program/project coordination in academic healthcare, strong organization, scheduling, HRSA reporting familiarity, and excellent communication.",
-      "salary": "$50k–$62k/yr",
+      "location": "Dallas, Texas, United States",
+      "url": "https://utsw.referrals.selectminds.com/jobs/program-coordinator-76325",
+      "direct_url": "https://utsw.referrals.selectminds.com/jobs/program-coordinator-76325",
+      "date_posted": "2026-07-28T15:01:54.958Z",
+      "description": "Bachelor's degree in related field and 5 years' relevant experience (may substitute experience for education); program coordination, budgeting, compliance, and quality improvement experience.",
+      "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
@@ -684,6 +656,20 @@
       "date_posted": "2026-07-22T00:00:00.000Z",
       "description": "Coordinate fiscal, administrative, and operational activities for federally funded training programs; manage budgets, purchasing, data collection and reporting; strong organization and communication skills required.",
       "salary": "$41k–$56k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Upenn",
+      "title": "Program Coordinator",
+      "location": "Philadelphia, Pennsylvania, United States",
+      "url": "https://upenn.wd1.myworkdayjobs.com/psom/job/Presbyterian-Med-Ctr-FL7/Program-Coordinator_JR00123112",
+      "direct_url": "https://upenn.wd1.myworkdayjobs.com/psom/job/Presbyterian-Med-Ctr-FL7/Program-Coordinator_JR00123112",
+      "date_posted": "2026-07-24T00:00:00.000Z",
+      "description": "Bachelor's degree and 2–3 years experience or equivalent; program/project coordination in academic healthcare, strong organization, scheduling, HRSA reporting familiarity, and excellent communication.",
+      "salary": "$50k–$62k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
@@ -732,14 +718,14 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Energy & Environment Cabinet - Dept for Environmental Protection",
+      "company": "Texas Tech University Health Sciences Center",
       "title": "Program Coordinator",
-      "location": "Paducah, Kentucky, United States",
-      "url": "https://kypersonnelcabinet.csod.com/ux/ats/careersite/49/home/requisition/79781?c=kypersonnelcabinet",
-      "direct_url": "https://kypersonnelcabinet.csod.com/ux/ats/careersite/49/home/requisition/79781?c=kypersonnelcabinet",
-      "date_posted": "2026-07-17T00:00:00.000Z",
-      "description": "Bachelor's degree and 3 years management/administration experience (or approved substitutions). Strong organization, written/verbal communication, Microsoft Office proficiency, attention to detail, and ability to coordinate program activities.",
-      "salary": "$47k–$49k/yr",
+      "location": "Texas, United States",
+      "url": "https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25898&siteid=5283&PageType=JobDetails&jobid=918878",
+      "direct_url": "https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25898&siteid=5283&PageType=JobDetails&jobid=918878",
+      "date_posted": "2026-07-22T12:00:00.000Z",
+      "description": "High school plus 6 years related experience (or equivalent education); experience coordinating GME/fellowship programs; knowledge of ACGME accreditation and clinical workflows; strong administrative and communication skills.",
+      "salary": "$31k–$48k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
@@ -754,20 +740,6 @@
       "date_posted": "2026-07-07T00:00:00.000Z",
       "description": "Bachelor's in public health/related and minimum 3 years research/project coordination or grant experience; program administration, evaluation, financial management, public speaking; English/Spanish fluency desired.",
       "salary": "$41k–$62k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Texas Tech University Health Sciences Center",
-      "title": "Program Coordinator",
-      "location": "Texas, United States",
-      "url": "https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25898&siteid=5283&PageType=JobDetails&jobid=918878",
-      "direct_url": "https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25898&siteid=5283&PageType=JobDetails&jobid=918878",
-      "date_posted": "2026-07-22T12:00:00.000Z",
-      "description": "High school plus 6 years related experience (or equivalent education); experience coordinating GME/fellowship programs; knowledge of ACGME accreditation and clinical workflows; strong administrative and communication skills.",
-      "salary": "$31k–$48k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
@@ -970,20 +942,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "The National Kidney Foundation of Michigan",
-      "title": "Program Coordinator",
-      "location": "Ann Arbor, Michigan, United States",
-      "url": "https://apply.appone.com/job/6a50ecc3d12a86db70ff21ef",
-      "direct_url": "https://apply.appone.com/job/6a50ecc3d12a86db70ff21ef",
-      "date_posted": "2026-07-10T13:30:53.000Z",
-      "description": "1–2 years community partnership or program experience or a Bachelor’s degree; CHW certificate, proficiency with Microsoft Office, strong communication, program planning, recruitment, and evaluation skills.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "Telecommute eligible",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "City of Lodi, CA",
       "title": "P/T - Program Coordinator",
       "location": "Lodi, California, United States",
@@ -998,17 +956,17 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "City of Pharr",
-      "title": "Program Coordinator - HCRMA",
-      "location": "Pharr, Texas, United States",
-      "url": "https://pharrtx.applicantpro.com/jobs/4152982",
-      "direct_url": "https://pharrtx.applicantpro.com/jobs/4152982",
-      "date_posted": "2026-07-20T00:00:00.000Z",
-      "description": "Coordinate program activities, vendors, contracts and prepare desktop-published materials; must hold TxDOT Local Government Project Procedures certification and be bilingual English/Spanish.",
-      "salary": "$60k–$80k/yr",
+      "company": "The National Kidney Foundation of Michigan",
+      "title": "Program Coordinator",
+      "location": "Ann Arbor, Michigan, United States",
+      "url": "https://apply.appone.com/job/6a50ecc3d12a86db70ff21ef",
+      "direct_url": "https://apply.appone.com/job/6a50ecc3d12a86db70ff21ef",
+      "date_posted": "2026-07-10T13:30:53.000Z",
+      "description": "1–2 years community partnership or program experience or a Bachelor’s degree; CHW certificate, proficiency with Microsoft Office, strong communication, program planning, recruitment, and evaluation skills.",
+      "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
-      "work_arrangement": "On-site",
+      "work_arrangement": "Telecommute eligible",
       "ats": "HiringCafe"
     },
     {
@@ -1026,14 +984,14 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Canvasinc",
-      "title": "Security Program Coordinator",
-      "location": "Eglin AFB, Florida, United States",
-      "url": "https://canvasinc.wd108.myworkdayjobs.com/canvas/job/Eglin-AFB-FL/Security-Program-Coordinator_JR100587",
-      "direct_url": "https://canvasinc.wd108.myworkdayjobs.com/canvas/job/Eglin-AFB-FL/Security-Program-Coordinator_JR100587",
-      "date_posted": "2026-07-22T00:00:00.000Z",
-      "description": "Bachelor's degree or equivalent experience,3+ years program coordination experience,ability to obtain Secret clearance,proficient with Microsoft Suite and OMAHA,strong oral and written communication.",
-      "salary": "",
+      "company": "City of Pharr",
+      "title": "Program Coordinator - HCRMA",
+      "location": "Pharr, Texas, United States",
+      "url": "https://pharrtx.applicantpro.com/jobs/4152982",
+      "direct_url": "https://pharrtx.applicantpro.com/jobs/4152982",
+      "date_posted": "2026-07-20T00:00:00.000Z",
+      "description": "Coordinate program activities, vendors, contracts and prepare desktop-published materials; must hold TxDOT Local Government Project Procedures certification and be bilingual English/Spanish.",
+      "salary": "$60k–$80k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
@@ -1051,6 +1009,20 @@
       "job_type": "Full Time",
       "is_remote": true,
       "work_arrangement": "Remote in-state eligible",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Canvasinc",
+      "title": "Security Program Coordinator",
+      "location": "Eglin AFB, Florida, United States",
+      "url": "https://canvasinc.wd108.myworkdayjobs.com/canvas/job/Eglin-AFB-FL/Security-Program-Coordinator_JR100587",
+      "direct_url": "https://canvasinc.wd108.myworkdayjobs.com/canvas/job/Eglin-AFB-FL/Security-Program-Coordinator_JR100587",
+      "date_posted": "2026-07-22T00:00:00.000Z",
+      "description": "Bachelor's degree or equivalent experience,3+ years program coordination experience,ability to obtain Secret clearance,proficient with Microsoft Suite and OMAHA,strong oral and written communication.",
+      "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
       "ats": "HiringCafe"
     },
     {
@@ -1166,20 +1138,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Dignity Health - Yavapai Regional Medical Center (CommonSpirit Health)",
-      "title": "Community Health Worker",
-      "location": "Prescott, Arizona, United States",
-      "url": "https://affiliates-commonspirit.icims.com/jobs/484560/community-health-worker/job?in_iframe=1",
-      "direct_url": "https://affiliates-commonspirit.icims.com/jobs/484560/community-health-worker/job?in_iframe=1",
-      "date_posted": "2026-07-22T07:00:00.000Z",
-      "description": "High school diploma/GED required; will complete Community Health Worker (CHW) training; bilingual preferred; ability to conduct home visits, assess client needs, and connect to community resources.",
-      "salary": "$48k–$68k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Suvida Healthcare LLC",
       "title": "Community Health Worker",
       "location": "Katy, Texas, United States",
@@ -1222,20 +1180,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Parklandhospital",
-      "title": "Community Health Worker",
-      "location": "Dallas, Texas, United States",
-      "url": "https://parklandhospital.wd12.myworkdayjobs.com/parkland_careers/job/Moody-Outpatient-Center/Community-Health-Worker_988710",
-      "direct_url": "https://parklandhospital.wd12.myworkdayjobs.com/parkland_careers/job/Moody-Outpatient-Center/Community-Health-Worker_988710",
-      "date_posted": "2026-07-17T00:00:00.000Z",
-      "description": "High school diploma or GED required, 1 year community experience, Texas CHW certification within 12 months, Heart Saver CPR within 90 days, Spanish preferred, ability to perform basic health screenings and community outreach.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Evergreen Nephrology",
       "title": "Community Health Worker",
       "location": "United States",
@@ -1247,6 +1191,20 @@
       "job_type": "Full Time",
       "is_remote": true,
       "work_arrangement": "Remote in-state eligible",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Parklandhospital",
+      "title": "Community Health Worker",
+      "location": "Dallas, Texas, United States",
+      "url": "https://parklandhospital.wd12.myworkdayjobs.com/parkland_careers/job/Moody-Outpatient-Center/Community-Health-Worker_988710",
+      "direct_url": "https://parklandhospital.wd12.myworkdayjobs.com/parkland_careers/job/Moody-Outpatient-Center/Community-Health-Worker_988710",
+      "date_posted": "2026-07-17T00:00:00.000Z",
+      "description": "High school diploma or GED required, 1 year community experience, Texas CHW certification within 12 months, Heart Saver CPR within 90 days, Spanish preferred, ability to perform basic health screenings and community outreach.",
+      "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
       "ats": "HiringCafe"
     },
     {
@@ -1348,5 +1306,20 @@
       "ats": "HiringCafe"
     }
   ],
-  "new_jobs": []
+  "new_jobs": [
+    {
+      "company": "Pascack Valley Medical Center",
+      "title": "Case Manager / RN",
+      "location": "Westwood, New Jersey, United States",
+      "url": "https://jobs.ardenthealth.com/jobs/138395?lang=en-us",
+      "direct_url": "https://jobs.ardenthealth.com/jobs/138395?lang=en-us",
+      "date_posted": "2026-07-29T18:26:49.000Z",
+      "description": "RN with an associate degree or higher; case management experience in acute hospital settings preferred; certification in case management (ACM or CCM) preferred.",
+      "salary": "$82k–$106k/yr",
+      "job_type": "Part Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    }
+  ]
 }
