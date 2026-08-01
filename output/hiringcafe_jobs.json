@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-01 18:55 UTC",
-  "total": 92,
-  "new_count": 0,
+  "scraped_at": "2026-08-01 20:09 UTC",
+  "total": 93,
+  "new_count": 1,
   "jobs": [
     {
       "company": "Avant Rehabilitation and Care Center",
@@ -46,20 +46,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "CommonSpirit Health",
-      "title": "Social Worker",
-      "location": "Los Angeles, California, United States",
-      "url": "https://commonspirit.jibeapply.com/jobs/483621",
-      "direct_url": "https://commonspirit.jibeapply.com/jobs/483621",
-      "date_posted": "2026-07-24T17:12:03.000Z",
-      "description": "Master's in social work, minimum 2 years clinical/medical social work experience, fire safety, CA Licensed Clinical Social Worker preferred; strong crisis management and community resource knowledge.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Winner Regional Healthcare Center",
       "title": "Social Worker",
       "location": "Winner, South Dakota, United States",
@@ -68,6 +54,20 @@
       "date_posted": "2026-07-30T13:53:35.000Z",
       "description": "Licensed social worker in South Dakota with 1+ year supervised healthcare social work experience; bachelor\\u0002s degree in social work or related human services field; strong communication and documentation skills.",
       "salary": "$50k–$77k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "CommonSpirit Health",
+      "title": "Social Worker",
+      "location": "Los Angeles, California, United States",
+      "url": "https://commonspirit.jibeapply.com/jobs/483621",
+      "direct_url": "https://commonspirit.jibeapply.com/jobs/483621",
+      "date_posted": "2026-07-24T17:12:03.000Z",
+      "description": "Master's in social work, minimum 2 years clinical/medical social work experience, fire safety, CA Licensed Clinical Social Worker preferred; strong crisis management and community resource knowledge.",
+      "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
@@ -116,13 +116,13 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "RIVERVIEW HEALTH GROUP",
+      "company": "Riverview Health & Rehab Center - Jefferson",
       "title": "Social Worker",
       "location": "Detroit, Michigan, United States",
-      "url": "https://www.paycomonline.net/v4/ats/web.php/jobs/ViewJobDetails?job=174605&clientkey=674C5E6E9D5651D6FB1EC4FD60A322D9",
-      "direct_url": "https://www.paycomonline.net/v4/ats/web.php/jobs/ViewJobDetails?job=174605&clientkey=674C5E6E9D5651D6FB1EC4FD60A322D9",
+      "url": "https://www.paycomonline.net/v4/ats/web.php/jobs/ViewJobDetails?job=174605&clientkey=5E4FC8C819F2A5B62D672E294B1353BB",
+      "direct_url": "https://www.paycomonline.net/v4/ats/web.php/jobs/ViewJobDetails?job=174605&clientkey=5E4FC8C819F2A5B62D672E294B1353BB",
       "date_posted": "2026-07-23T00:00:00.000Z",
-      "description": "Licensed social worker in Michigan with bachelor\\u0002s in social work (master\\u0002s preferred), 1 year supervised social work experience in long-term/sub-acute care, knowledge of regulations, strong communication and assessment skills.",
+      "description": "Bachelor's in Social Work required (MSW preferred), 1 year supervised social work in long-term or sub-acute care, Michigan social worker license, knowledge of regulations, computer proficiency, strong communication and analytical skills.",
       "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
@@ -312,20 +312,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Catholic Charities Diocese of Cleveland",
-      "title": "Case Manager",
-      "location": "Painesville, Ohio, United States",
-      "url": "https://recruiting.ultipro.com/cat1012cacsc/JobBoard/41d1a852-e913-429a-93ff-1d024bc3206d/OpportunityDetail?opportunityId=d0772263-887f-4760-8ad0-293234407928",
-      "direct_url": "https://recruiting.ultipro.com/cat1012cacsc/JobBoard/41d1a852-e913-429a-93ff-1d024bc3206d/OpportunityDetail?opportunityId=d0772263-887f-4760-8ad0-293234407928",
-      "date_posted": "2026-07-20T18:13:42.282Z",
-      "description": "1–2 years case management experience; experience with justice-involved families, community outreach, in-home and office service delivery; ability to manage cases, document in EMR, and work independently.",
-      "salary": "",
-      "job_type": "Part Time",
-      "is_remote": false,
-      "work_arrangement": "Telecommute eligible",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Mainspring Recovery",
       "title": "Case Manager",
       "location": "Dumfries, Virginia, United States",
@@ -337,6 +323,20 @@
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Catholic Charities Diocese of Cleveland",
+      "title": "Case Manager",
+      "location": "Painesville, Ohio, United States",
+      "url": "https://recruiting.ultipro.com/cat1012cacsc/JobBoard/41d1a852-e913-429a-93ff-1d024bc3206d/OpportunityDetail?opportunityId=d0772263-887f-4760-8ad0-293234407928",
+      "direct_url": "https://recruiting.ultipro.com/cat1012cacsc/JobBoard/41d1a852-e913-429a-93ff-1d024bc3206d/OpportunityDetail?opportunityId=d0772263-887f-4760-8ad0-293234407928",
+      "date_posted": "2026-07-20T18:13:42.282Z",
+      "description": "1–2 years case management experience; experience with justice-involved families, community outreach, in-home and office service delivery; ability to manage cases, document in EMR, and work independently.",
+      "salary": "",
+      "job_type": "Part Time",
+      "is_remote": false,
+      "work_arrangement": "Telecommute eligible",
       "ats": "HiringCafe"
     },
     {
@@ -466,6 +466,20 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "Volunteers of America Los Angeles (VOALA)",
+      "title": "Case Manager Specialist",
+      "location": "Los Angeles, California, United States",
+      "url": "https://scadpinc.hrmdirect.com/employment/job-opening.php?req=3757331&req_loc=1385105",
+      "direct_url": "https://scadpinc.hrmdirect.com/employment/job-opening.php?req=3757331&req_loc=1385105",
+      "date_posted": "2026-07-08T03:00:00.000Z",
+      "description": "Provide intensive case management with weekly client contact; conduct assessments, develop case plans, coordinate services, and document progress. Requires fingerprint clearance and 1+ year case management experience.",
+      "salary": "$50k–$52k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
       "company": "Ascension Recovery Services",
       "title": "Case Manager",
       "location": "Muncie, Indiana, United States",
@@ -488,20 +502,6 @@
       "date_posted": "2026-07-22T18:50:44.359Z",
       "description": "Minimum 6 months case management experience, strong communication, organization, ability to learn new systems, client-focused and coachable.",
       "salary": "$46k–$50k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Volunteers of America Los Angeles (VOALA)",
-      "title": "Case Manager Specialist",
-      "location": "Los Angeles, California, United States",
-      "url": "https://scadpinc.hrmdirect.com/employment/job-opening.php?req=3757331&req_loc=1385105",
-      "direct_url": "https://scadpinc.hrmdirect.com/employment/job-opening.php?req=3757331&req_loc=1385105",
-      "date_posted": "2026-07-08T03:00:00.000Z",
-      "description": "Provide intensive case management with weekly client contact; conduct assessments, develop case plans, coordinate services, and document progress. Requires fingerprint clearance and 1+ year case management experience.",
-      "salary": "$50k–$52k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
@@ -956,6 +956,20 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "City of Pharr",
+      "title": "Program Coordinator - HCRMA",
+      "location": "Pharr, Texas, United States",
+      "url": "https://pharrtx.applicantpro.com/jobs/4152982",
+      "direct_url": "https://pharrtx.applicantpro.com/jobs/4152982",
+      "date_posted": "2026-07-20T00:00:00.000Z",
+      "description": "Coordinate program activities, vendors, contracts and prepare desktop-published materials; must hold TxDOT Local Government Project Procedures certification and be bilingual English/Spanish.",
+      "salary": "$60k–$80k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
       "company": "UnidosUS",
       "title": "Program Coordinator, Health",
       "location": "Washington, District of Columbia, United States",
@@ -970,14 +984,14 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "City of Pharr",
-      "title": "Program Coordinator - HCRMA",
-      "location": "Pharr, Texas, United States",
-      "url": "https://pharrtx.applicantpro.com/jobs/4152982",
-      "direct_url": "https://pharrtx.applicantpro.com/jobs/4152982",
-      "date_posted": "2026-07-20T00:00:00.000Z",
-      "description": "Coordinate program activities, vendors, contracts and prepare desktop-published materials; must hold TxDOT Local Government Project Procedures certification and be bilingual English/Spanish.",
-      "salary": "$60k–$80k/yr",
+      "company": "Canvasinc",
+      "title": "Security Program Coordinator",
+      "location": "Eglin AFB, Florida, United States",
+      "url": "https://canvasinc.wd108.myworkdayjobs.com/canvas/job/Eglin-AFB-FL/Security-Program-Coordinator_JR100587",
+      "direct_url": "https://canvasinc.wd108.myworkdayjobs.com/canvas/job/Eglin-AFB-FL/Security-Program-Coordinator_JR100587",
+      "date_posted": "2026-07-22T00:00:00.000Z",
+      "description": "Bachelor's degree or equivalent experience,3+ years program coordination experience,ability to obtain Secret clearance,proficient with Microsoft Suite and OMAHA,strong oral and written communication.",
+      "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
@@ -998,14 +1012,14 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Canvasinc",
-      "title": "Security Program Coordinator",
-      "location": "Eglin AFB, Florida, United States",
-      "url": "https://canvasinc.wd108.myworkdayjobs.com/canvas/job/Eglin-AFB-FL/Security-Program-Coordinator_JR100587",
-      "direct_url": "https://canvasinc.wd108.myworkdayjobs.com/canvas/job/Eglin-AFB-FL/Security-Program-Coordinator_JR100587",
-      "date_posted": "2026-07-22T00:00:00.000Z",
-      "description": "Bachelor's degree or equivalent experience,3+ years program coordination experience,ability to obtain Secret clearance,proficient with Microsoft Suite and OMAHA,strong oral and written communication.",
-      "salary": "",
+      "company": "Overview",
+      "title": "Program Coordinator II",
+      "location": "Logan, Utah, United States",
+      "url": "https://careers-usu.icims.com/jobs/10495/program-coordinator-ii/job?in_iframe=1",
+      "direct_url": "https://careers-usu.icims.com/jobs/10495/program-coordinator-ii/job?in_iframe=1",
+      "date_posted": "2026-07-09T04:00:00.000Z",
+      "description": "Bachelor's in a related field plus 2 years' relevant experience (or equivalent); program coordination, student support, supervision, teaching 1-2 courses, grant writing and outreach experience preferred.",
+      "salary": "$53k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
@@ -1292,5 +1306,20 @@
       "ats": "HiringCafe"
     }
   ],
-  "new_jobs": []
+  "new_jobs": [
+    {
+      "company": "Overview",
+      "title": "Program Coordinator II",
+      "location": "Logan, Utah, United States",
+      "url": "https://careers-usu.icims.com/jobs/10495/program-coordinator-ii/job?in_iframe=1",
+      "direct_url": "https://careers-usu.icims.com/jobs/10495/program-coordinator-ii/job?in_iframe=1",
+      "date_posted": "2026-07-09T04:00:00.000Z",
+      "description": "Bachelor's in a related field plus 2 years' relevant experience (or equivalent); program coordination, student support, supervision, teaching 1-2 courses, grant writing and outreach experience preferred.",
+      "salary": "$53k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    }
+  ]
 }
