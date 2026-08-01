@@ -1,159 +1,107 @@
 # 🔥 LinkedIn — Social Worker Roles
-*Last updated: 2026-08-01 16:26 UTC*
+*Last updated: 2026-08-01 17:30 UTC*
 
-**35 new role(s)** since last run · 35 total in last 1h
+**23 new role(s)** since last run · 23 total in last 1h
 
-### [Assistant Group Supervisor](https://www.linkedin.com/jobs/view/4447485812/) — YWCA
-- 📍 **Location:** York, PA
+### [Front End Service Team Supervisor](https://www.linkedin.com/jobs/view/4431118822/) — Walmart
+- 📍 **Location:** Brighton, CO
+- 💰 **Salary:** $22.00/hr - $35.00/hr
 - 🕒 **Posted:** 2026-08-01
 
-### [Assistant Cottage Supervisor](https://www.linkedin.com/jobs/view/4447489696/) — Children's Home of Poughkeepsie
-- 📍 **Location:** Poughkeepsie, NY
+### [Clinical Education Specialist RN Cardiac Procedural Services](https://www.linkedin.com/jobs/view/4346536189/) — Children's Hospital Colorado
+- 📍 **Location:** Aurora, CO
+- 💰 **Salary:** $97,718.13 to $146,577.19
 - 🕒 **Posted:** 2026-08-01
 
-### [Vocational Case Manager - WIN](https://www.linkedin.com/jobs/view/4447489695/) — NADAP
-- 📍 **Location:** Hempstead, NY
+### [Operations Supervisor - 3rd Shift](https://www.linkedin.com/jobs/view/4446935217/) — DHL eCommerce
+- 📍 **Location:** Denver, CO
+- 💰 **Salary:** $69,525 - $92,700
 - 🕒 **Posted:** 2026-08-01
 
-### [Grant Writer (Sr Specialist), Advancement](https://www.linkedin.com/jobs/view/4439329545/) — Communities In Schools National Office
-- 📍 **Location:** Arlington, VA
+### [Mobile FAP Case Manager](https://www.linkedin.com/jobs/view/4378556678/) — Zeiders Enterprises, Inc.
+- 📍 **Location:** Woodbridge, VA
 - 🕒 **Posted:** 2026-08-01
 
-### [Case Manager-Transitional Housing](https://www.linkedin.com/jobs/view/4447819414/) — Women In Need, Inc. (Win)
-- 📍 **Location:** Brooklyn, NY
+### [Field Education Specialist, Ultrasound](https://www.linkedin.com/jobs/view/4366520280/) — Antech Diagnostics
+- 📍 **Location:** Colorado, United States
+- 💰 **Salary:** $71,000 - $89,000 annually
 - 🕒 **Posted:** 2026-08-01
 
-### [Social Worker](https://www.linkedin.com/jobs/view/4447489698/) — NADAP
-- 📍 **Location:** Hempstead, NY
-- 💰 **Salary:** $75,000 - $80,000
+### [SUPPORTIVE HOUSING CASE MANAGER](https://www.linkedin.com/jobs/view/4447813872/) — Hospitality Newfoundland and Labrador
+- 📍 **Location:** Happy Valley–Goose Bay, Newfoundland and Labrador, Canada
 - 🕒 **Posted:** 2026-08-01
 
-### [Case Manager-Supportive Housing](https://www.linkedin.com/jobs/view/4446877336/) — Women In Need, Inc. (Win)
-- 📍 **Location:** Brooklyn, NY
+### [UNIV - Research Program Coordinator I - Journey - Department of PHS](https://www.linkedin.com/jobs/view/4447191825/) — MUSC Health
+- 📍 **Location:** Charleston, SC
 - 🕒 **Posted:** 2026-08-01
 
-### [Program Manager I - Center for Advancing Population Science](https://www.linkedin.com/jobs/view/4430736012/) — Medical College of Wisconsin
-- 📍 **Location:** Milwaukee, WI
+### [Residential Program Supervisor I](https://www.linkedin.com/jobs/view/4431125905/) — Opportunity Partners
+- 📍 **Location:** Minneapolis, MN
 - 🕒 **Posted:** 2026-08-01
 
-### [Maternal Health Supervisor](https://www.linkedin.com/jobs/view/4447493680/) — Lifesteps, Inc.
-- 📍 **Location:** Pittsburgh, PA
+### [Supervisor of Clinical Therapy - Crisis Assessment Center - Nights](https://www.linkedin.com/jobs/view/4419993245/) — Children's Nebraska
+- 📍 **Location:** Omaha, NE
 - 🕒 **Posted:** 2026-08-01
 
-### [Program Manager I - Center for Advancing Population Science](https://www.linkedin.com/jobs/view/4430714986/) — Medical College of Wisconsin
-- 📍 **Location:** Wauwatosa, WI
+### [Case Manager Assistant - Full Time - Day Shift - Jackson](https://www.linkedin.com/jobs/view/4447599964/) — Henry Ford Health
+- 📍 **Location:** Jackson, MI
 - 🕒 **Posted:** 2026-08-01
 
-### [Youth Counselor  Bilingual Preferred](https://www.linkedin.com/jobs/view/4447481865/) — Children's Home of Poughkeepsie
-- 📍 **Location:** Poughkeepsie, NY
-- 🕒 **Posted:** 2026-08-01
-
-### [Overnight Youth Counselor  Bilingual Preferred](https://www.linkedin.com/jobs/view/4447485797/) — Children's Home of Poughkeepsie
-- 📍 **Location:** Poughkeepsie, NY
-- 🕒 **Posted:** 2026-08-01
-
-### [LMSW-Client Care Coordinator](https://www.linkedin.com/jobs/view/4447200881/) — Women In Need, Inc. (Win)
-- 📍 **Location:** Brooklyn, NY
-- 💰 **Salary:** $65,000-$70,000
-- 🕒 **Posted:** 2026-08-01
-
-### [Social Worker](https://www.linkedin.com/jobs/view/4447811594/) — Northwell Health
-- 📍 **Location:** New Hyde Park, NY
-- 💰 **Salary:** $70,470.00/yr - $116,870.00/yr
-- 🕒 **Posted:** 2026-08-01
-
-### [Social Worker](https://www.linkedin.com/jobs/view/4447017837/) — Northwell Health
-- 📍 **Location:** Mount Kisco, NY
-- 💰 **Salary:** $70,470.00/yr - $116,870.00/yr
-- 🕒 **Posted:** 2026-08-01
-
-### [Behavioral Health Case Manager  Orange County](https://www.linkedin.com/jobs/view/4447497551/) — Children's Home of Poughkeepsie
-- 📍 **Location:** Newburgh, NY
-- 🕒 **Posted:** 2026-08-01
-
-### [Community Health Worker](https://www.linkedin.com/jobs/view/4429557759/) — AltaMed Health Services
-- 📍 **Location:** Santa Ana, CA
-- 💰 **Salary:** $26.91 - $33.53 hourly
-- 🕒 **Posted:** 2026-08-01
-
-### [School Based Case Manager - 232532](https://www.linkedin.com/jobs/view/4447476989/) — Piedmont Community Services
-- 📍 **Location:** Stuart, VA
-- 🕒 **Posted:** 2026-08-01
-
-### [Behavioral Health Clinical Supervisor](https://www.linkedin.com/jobs/view/4439314085/) — Chestnut Health Systems
-- 📍 **Location:** Granite City, IL
-- 💰 **Salary:** $49,000 - $68,500
-- 🕒 **Posted:** 2026-08-01
-
-### [Case Manager - Parents as Teachers](https://www.linkedin.com/jobs/view/4429734781/) — Yakima Valley Farm Workers Clinic
-- 📍 **Location:** Toppenish, WA
-- 💰 **Salary:** $24.77-$30.34
-- 🕒 **Posted:** 2026-08-01
-
-### [Community Health Worker - Sharp Rees-Stealy - Telecommuter - Full-Time - Day Shift](https://www.linkedin.com/jobs/view/4446814547/) — Sharp HealthCare
-- 📍 **Location:** San Diego, CA
-- 🕒 **Posted:** 2026-08-01
-
-### [Community Health Worker](https://www.linkedin.com/jobs/view/4438359753/) — RWJBarnabas Health
-- 📍 **Location:** New Brunswick, NJ
-- 💰 **Salary:** $21.69 - $30.64 per hour
-- 🕒 **Posted:** 2026-08-01
-
-### [Patient Care Coordinator](https://www.linkedin.com/jobs/view/4439369721/) — AltaMed Health Services
-- 📍 **Location:** Santa Ana, CA
+### [Patient Care Coordinator](https://www.linkedin.com/jobs/view/4439366790/) — AltaMed Health Services
+- 📍 **Location:** Commerce, CA
 - 💰 **Salary:** $25.00 - $31.03 hourly
 - 🕒 **Posted:** 2026-08-01
 
-### [IBHS Care Coordinator](https://www.linkedin.com/jobs/view/4439370212/) — Public Health Management Corporation
-- 📍 **Location:** Philadelphia, PA
+### [Licensed Baccalaureate Social Worker (LBSW) Texas - Greater Houston Area](https://www.linkedin.com/jobs/view/4447821451/) — McKesson
+- 📍 **Location:** The Woodlands, TX
+- 💰 **Salary:** $24.50 - $40.83
 - 🕒 **Posted:** 2026-08-01
 
-### [Client Care Coordinator](https://www.linkedin.com/jobs/view/4447495554/) — Home Instead
-- 📍 **Location:** Cleveland, TN
+### [Gestionnaire de cas - Case Manager](https://www.linkedin.com/jobs/view/4436639352/) — Bayshore HealthCare
+- 📍 **Location:** Mississauga, Ontario, Canada
 - 🕒 **Posted:** 2026-08-01
 
-### [LMSW-Client Care Coordinator](https://www.linkedin.com/jobs/view/4447821419/) — Women In Need, Inc. (Win)
-- 📍 **Location:** Brooklyn, NY
-- 💰 **Salary:** $65,000-$70,000
+### [Retirement Plan Services Education Specialist (Bilingual Preferred)](https://www.linkedin.com/jobs/view/4389738898/) — Nicolet National Bank
+- 📍 **Location:** Green Bay, WI
 - 🕒 **Posted:** 2026-08-01
 
-### [Environmental Educator and Program Coordinator](https://www.linkedin.com/jobs/view/4447496579/) — GoodWork.ca
-- 📍 **Location:** Canmore, Alberta, Canada
-- 💰 **Salary:** $60,000–$67,000
+### [Group Fitness - Program Manager](https://www.linkedin.com/jobs/view/4445811753/) — HealthFitness
+- 📍 **Location:** Bentonville, AR
+- 💰 **Salary:** $50,000 - $57,000 annually
 - 🕒 **Posted:** 2026-08-01
 
-### [Home Health and Hospice Nurse and Clinician Residency Program Coordinator](https://www.linkedin.com/jobs/view/4436629643/) — VNA & Hospice of the Southwest Region
-- 📍 **Location:** Bennington, VT
+### [Patient Care Coordinator (Marlton, NJ)](https://www.linkedin.com/jobs/view/4438825652/) — Ennoble Care
+- 📍 **Location:** Marlton, NJ
+- 💰 **Salary:** $17.00 - $18.00
 - 🕒 **Posted:** 2026-08-01
 
-### [Dental Health Educator - Designed to Smile](https://www.linkedin.com/jobs/view/4447806613/) — Betsi Cadwaladr University Health Board
-- 📍 **Location:** Rhyl, Wales, United Kingdom
+### [Patient Care Coordinator](https://www.linkedin.com/jobs/view/4447827005/) — AEG Vision
+- 📍 **Location:** Round Rock, TX
 - 🕒 **Posted:** 2026-08-01
 
-### [Behavioral Health Case Manager  Dutchess County](https://www.linkedin.com/jobs/view/4447487780/) — Children's Home of Poughkeepsie
-- 📍 **Location:** Poughkeepsie, NY
+### [ED Case Manager RN](https://www.linkedin.com/jobs/view/4411006289/) — MercyOne
+- 📍 **Location:** Des Moines, IA
 - 🕒 **Posted:** 2026-08-01
 
-### [Phamily Care Coordinator (North Carolina Nephrology)](https://www.linkedin.com/jobs/view/4361836108/) — Phamily
-- 📍 **Location:** Wilson, NC
-- 💰 **Salary:** $17–$19 per hour
+### [Project Specialist & Training coordinator](https://www.linkedin.com/jobs/view/4402169442/) — Accelleron
+- 📍 **Location:** Vadodara, Gujarat, India
 - 🕒 **Posted:** 2026-08-01
 
-### [Behavioral Health Care Coordinator](https://www.linkedin.com/jobs/view/4420603641/) — Behavioral Health Solutions
-- 📍 **Location:** Topeka, KS
+### [Program Coordinator](https://www.linkedin.com/jobs/view/4445808793/) — City of New York
+- 📍 **Location:** Manhattan, NY
+- 💰 **Salary:** $78,740.00 – $114,033.00
 - 🕒 **Posted:** 2026-08-01
 
-### [RN Case Manager - Full Time - Days](https://www.linkedin.com/jobs/view/4436615213/) — Mohawk Valley Health System
-- 📍 **Location:** Utica, NY
-- 💰 **Salary:** $40 - $56 per hour
+### [Program Coordinator](https://www.linkedin.com/jobs/view/4445803867/) — City of New York
+- 📍 **Location:** Manhattan, NY
+- 💰 **Salary:** $75,777.00 – $111,552.00
 - 🕒 **Posted:** 2026-08-01
 
-### [Community Health Worker](https://www.linkedin.com/jobs/view/4447810592/) — Northwell Health
-- 📍 **Location:** Melville, NY
-- 💰 **Salary:** $34,820.00/yr - $51,950.00/yr
+### [MILITARY PROGRAM COORDINATOR](https://www.linkedin.com/jobs/view/4438372093/) — State of Arkansas
+- 📍 **Location:** Fort Smith, AR
+- 💰 **Salary:** $52,137 – $77,163
 - 🕒 **Posted:** 2026-08-01
 
-### [School Social Worker](https://www.linkedin.com/jobs/view/4447484848/) — Tuscarora Intermediate Unit 11
-- 📍 **Location:** McConnellsburg, PA
-- 💰 **Salary:** $52,000-$60,000
+### [SOCIAL WORKER MSW - THORACIC TRANSPLANT ADMIN](https://www.linkedin.com/jobs/view/4445596950/) — Froedtert Health
+- 📍 **Location:** Milwaukee, WI
 - 🕒 **Posted:** 2026-08-01
