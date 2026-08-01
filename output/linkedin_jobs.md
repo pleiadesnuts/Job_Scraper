@@ -1,29 +1,16 @@
 # 🔥 LinkedIn — Social Worker Roles
-*Last updated: 2026-08-01 22:22 UTC*
+*Last updated: 2026-08-01 23:22 UTC*
 
-**6 new role(s)** since last run · 8 total in last 1h
+**3 new role(s)** since last run · 8 total in last 1h
 
-### [Recreation - Aquatics Supervisor - Programming](https://www.linkedin.com/jobs/view/4447853115/) — Keepers of the Rock
-- 📍 **Location:** Castle Rock, CO
+### [PROGRAM COORDINATOR](https://www.linkedin.com/jobs/view/4445824172/) — Greater Fort Walton Beach Chamber of Commerce
+- 📍 **Location:** Santa Rosa Beach, FL
 - 🕒 **Posted:** 2026-08-01
 
-### [Student Advocacy Case Manager - NLC - req13989](https://www.linkedin.com/jobs/view/4445829120/) — Alamo Colleges District
-- 📍 **Location:** Universal City, TX
+### [Supervisor, Project Engineering](https://www.linkedin.com/jobs/view/4447618185/) — Carrier
+- 📍 **Location:** Santa Catarina, Nuevo León, Mexico
 - 🕒 **Posted:** 2026-08-01
 
-### [SART Program Coordinator RN](https://www.linkedin.com/jobs/view/4447620100/) — CommonSpirit Health
-- 📍 **Location:** Santa Maria, CA
-- 💰 **Salary:** $57.02 - $86.80 /hour
-- 🕒 **Posted:** 2026-08-01
-
-### [Housing Program Coordinator](https://www.linkedin.com/jobs/view/4447618152/) — Willits Shelter Action Group
-- 📍 **Location:** Willits, CA
-- 🕒 **Posted:** 2026-08-01
-
-### [Cash Academy Program Coordinator](https://www.linkedin.com/jobs/view/4447844928/) — Julisha.cd
-- 📍 **Location:** Kinshasa, Kinshasa, Democratic Republic of the Congo
-- 🕒 **Posted:** 2026-08-01
-
-### [Training Coordinator](https://www.linkedin.com/jobs/view/4447852143/) — DYNE Hospitality Group
-- 📍 **Location:** Greater Fayetteville, AR Area
+### [KfW Program Coordinator](https://www.linkedin.com/jobs/view/4447862055/) — Julisha.cd
+- 📍 **Location:** North Kivu, Democratic Republic of the Congo
 - 🕒 **Posted:** 2026-08-01
