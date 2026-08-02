@@ -1,14 +1,14 @@
 {
-  "scraped_at": "2026-08-01 17:16 UTC",
-  "total": 10,
+  "scraped_at": "2026-08-02 17:14 UTC",
+  "total": 8,
   "new_count": 0,
   "jobs": [
     {
       "company": "Department of Justice",
-      "title": "Criminalist Supervisor (DNA Special Skills)",
-      "location": "Shasta County",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=525307",
-      "date_posted": "2026-07-28",
+      "title": "Criminalist Supervisor (Quality Assurance Specialist)",
+      "location": "Sacramento County",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=522930",
+      "date_posted": "2026-07-08",
       "salary": "$9093.00 - $12480.00",
       "ats": "CalCareers",
       "telework": "In Office",
@@ -41,10 +41,10 @@
     },
     {
       "company": "Department of Justice",
-      "title": "Criminalist Supervisor (Quality Assurance Specialist)",
-      "location": "Sacramento County",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=522930",
-      "date_posted": "2026-07-08",
+      "title": "Criminalist Supervisor (DNA Special Skills)",
+      "location": "Shasta County",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=525307",
+      "date_posted": "2026-07-28",
       "salary": "$9093.00 - $12480.00",
       "ats": "CalCareers",
       "telework": "In Office",
@@ -62,30 +62,6 @@
       "telework": "In Office",
       "job_type": "Permanent, Full Time",
       "work_arrangement": "On-site"
-    },
-    {
-      "company": "Department of Fish and Wildlife",
-      "title": "Northern Lands, Program Coordinator",
-      "location": "Los Angeles County",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=526357",
-      "date_posted": "2026-07-27",
-      "salary": "$4418.00 - $9321.00",
-      "ats": "CalCareers",
-      "telework": "Hybrid",
-      "job_type": "Permanent, Full Time",
-      "work_arrangement": "Telecommute eligible"
-    },
-    {
-      "company": "Department of Fish and Wildlife",
-      "title": "Northern Lands, Program Coordinator",
-      "location": "Ventura County",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=526362",
-      "date_posted": "2026-07-27",
-      "salary": "$4418.00 - $9321.00",
-      "ats": "CalCareers",
-      "telework": "Hybrid",
-      "job_type": "Permanent, Full Time",
-      "work_arrangement": "Telecommute eligible"
     },
     {
       "company": "Department of Insurance",
