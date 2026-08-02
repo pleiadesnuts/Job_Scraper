@@ -1,30 +1,29 @@
 # 🔥 LinkedIn — Social Worker Roles
-*Last updated: 2026-08-02 20:41 UTC*
+*Last updated: 2026-08-02 21:20 UTC*
 
-**6 new role(s)** since last run · 21 total in last 1h
+**6 new role(s)** since last run · 7 total in last 1h
 
-### [Case Manager II](https://www.linkedin.com/jobs/view/4447897860/) — Larkin Street Youth Services
-- 📍 **Location:** San Francisco, CA
+### [Senior Program Manager](https://www.linkedin.com/jobs/view/4447655640/) — RemoteHunter
+- 📍 **Location:** United States
 - 🕒 **Posted:** 2026-08-02
 
-### [Travel Program Coordinator](https://www.linkedin.com/jobs/view/4447897767/) — City of Charlotte
-- 📍 **Location:** Charlotte, NC
-- 💰 **Salary:** $29.71 - $42.70
+### [Case Manager, Family Support Center](https://www.linkedin.com/jobs/view/4445840953/) — Catholic Charities of Northeast Kansas
+- 📍 **Location:** Overland Park, KS
 - 🕒 **Posted:** 2026-08-02
 
-### [Program Coordinator](https://www.linkedin.com/jobs/view/4448114468/) — Arizona State University
-- 📍 **Location:** Tempe, AZ
-- 💰 **Salary:** $54,600 - $68,300 annually
+### [Case Manager, Family Support Center](https://www.linkedin.com/jobs/view/4445856808/) — Catholic Charities of Northeast Kansas
+- 📍 **Location:** Olathe, KS
 - 🕒 **Posted:** 2026-08-02
 
-### [Senior Volunteer Coordinator Part-time - Permanent -  30.4 Hours per week flexible](https://www.linkedin.com/jobs/view/4445845780/) — MiCare
-- 📍 **Location:** Carrum Downs, Victoria, Australia
+### [Finance Careers Program Manager](https://www.linkedin.com/jobs/view/4447884781/) — University of Chicago
+- 📍 **Location:** Chicago, IL
+- 💰 **Salary:** $87,000.00/yr - $113,000.00/yr
 - 🕒 **Posted:** 2026-08-02
 
-### [Volunteer Coordinator Part-time - Permanent - 2 days per week flexible](https://www.linkedin.com/jobs/view/4445842883/) — MiCare
-- 📍 **Location:** Birkdale, Queensland, Australia
+### [Program Manager, Transitional Living](https://www.linkedin.com/jobs/view/4445861071/) — Catholic Charities of Northeast Kansas
+- 📍 **Location:** House, NM
 - 🕒 **Posted:** 2026-08-02
 
-### [CPRC Supervisor Youth](https://www.linkedin.com/jobs/view/4448101585/) — Compass Health Network
-- 📍 **Location:** High Ridge, MO
+### [Medical Spanish Interpreters (Per Hour Rate)](https://www.linkedin.com/jobs/view/4448101695/) — INTELEX
+- 📍 **Location:** Bogota, D.C., Capital District, Colombia
 - 🕒 **Posted:** 2026-08-02
