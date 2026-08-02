@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-07-31 18:08 UTC",
-  "total": 16,
-  "new_count": 2,
+  "scraped_at": "2026-08-02 17:39 UTC",
+  "total": 15,
+  "new_count": 0,
   "jobs": [
     {
       "company": "Union City",
@@ -62,15 +62,6 @@
       "title": "Behavioral Health Specialist I/II/III- Wellness Center- Bilingual",
       "location": "Los Angeles Area",
       "url": "https://www.calopps.org/tri-city-mental-health-authority/job-20761436",
-      "date_posted": "",
-      "salary": "$25.67-$39.91 Hourly",
-      "ats": "CalOpps"
-    },
-    {
-      "company": "Tri City Mental Health Authority",
-      "title": "Behavioral Health Specialist I/II/III- Full-Service Partnership Adult (FSP)",
-      "location": "Los Angeles Area",
-      "url": "https://www.calopps.org/tri-city-mental-health-authority/job-20759672",
       "date_posted": "",
       "salary": "$25.67-$39.91 Hourly",
       "ats": "CalOpps"
@@ -148,24 +139,5 @@
       "ats": "CalOpps"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Union City",
-      "title": "Preschool Site Supervisor I/II",
-      "location": "East Bay",
-      "url": "https://www.calopps.org/union-city/job-20764153",
-      "date_posted": "",
-      "salary": "$4,965.00-$6,035.00 Monthly",
-      "ats": "CalOpps"
-    },
-    {
-      "company": "Redwood City",
-      "title": "Recreation and Community Services Program Coordinator – Special Events #26A-35",
-      "location": "San Francisco/Peninsula",
-      "url": "https://www.calopps.org/redwood-city/job-20764067",
-      "date_posted": "",
-      "salary": "$8,228.33-$10,003.22 Monthly",
-      "ats": "CalOpps"
-    }
-  ]
+  "new_jobs": []
 }
