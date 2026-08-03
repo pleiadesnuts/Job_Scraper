@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-03 01:22 UTC",
-  "total": 2,
-  "new_count": 0,
+  "scraped_at": "2026-08-03 05:29 UTC",
+  "total": 3,
+  "new_count": 1,
   "jobs": [
     {
       "company": "Denver Health",
@@ -38,7 +38,44 @@
       "work_arrangement": "On-site",
       "emails": "",
       "ats": "Indeed"
+    },
+    {
+      "company": "NEW LEAF PEER SUPPORT LLC",
+      "title": "Certified Peer Support Specialist – Community Outreach",
+      "location": "Denver, CO, US",
+      "url": "https://www.indeed.com/viewjob?jk=87ff3380e5cebd49",
+      "direct_url": "http://www.indeed.com/job/certified-peer-support-specialist-community-outreach-87ff3380e5cebd49",
+      "company_url": "https://www.indeed.com/cmp/New-Leaf-Peer-Support-LLC",
+      "date_posted": "2026-08-03",
+      "description": "Certified Peer Support Specialist – Community Outreach\n\n**New Leaf Peer Support LLC** is seeking a motivated and compassionate **Certified Peer Support Specialist** to join our growing behavioral health team in the Denver Metro area.\n\nThis position is primarily focused on **community outreach, engagement, and peer support services** for individuals experiencing mental health challenges, substance use disorders, homelessness, justice involvement, or housing instability.\n\nResponsibilities\n\n* Conduct outreach in the community, including shelters, hospitals, treatment centers, probation/parole offices, and other referral sources.\n* Build relationships with community organizations and referral partners.\n* Identify and engage individuals who could benefit from behavioral health and recovery services.\n* Assist with client recruitment and referrals into our programs.\n* Provide one\\-on\\-one peer support services using your lived experience and recovery journey.\n* Facilitate peer support groups as assigned.\n* Assist clients with accessing housing, Medicaid, employment, transportation, and community resources.\n* Complete documentation in a timely and accurate manner.\n* Work closely with our clinical and case management teams to support client success.\n\nQualifications\n\n* **Current Colorado Certified Peer Support Specialist (CPSS) certification is required.**\n* Minimum of **1 year of peer support or behavioral health experience preferred.**\n* Outreach, community engagement, or street outreach experience strongly preferred.\n* Excellent communication and relationship\\-building skills.\n* Ability to work independently and manage daily outreach activities.\n* Reliable transportation and willingness to travel throughout the Denver Metro area.\n* Experience working with individuals experiencing homelessness, mental illness, or substance use disorders is highly preferred\n\nPreferred Qualifications\n\n* Existing relationships with referral agencies, shelters, hospitals, or community organizations.\n* Ability to bring referrals or assist in growing the client census.\n* Knowledge of Colorado Medicaid behavioral health services and community resources.\n\nWhat We Offer\n\n* Competitive pay based on experience.\n* Opportunity for advancement within a growing organization.\n* Supportive team environment.\n* Meaningful work helping individuals achieve recovery, stability, and independence.\n\nIf you are passionate about helping others and enjoy working in the community to connect individuals with life\\-changing services, we encourage you to apply.\n\nPay: $21\\.00 \\- $22\\.00 per hour\n\nBenefits:\n\n* Paid time off\n\nWork Location: In person",
+      "salary": "$21–$22/hr",
+      "salary_source": "direct_data",
+      "salary_currency": "USD",
+      "job_type": "contract",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "emails": "",
+      "ats": "Indeed"
     }
   ],
-  "new_jobs": []
+  "new_jobs": [
+    {
+      "company": "NEW LEAF PEER SUPPORT LLC",
+      "title": "Certified Peer Support Specialist – Community Outreach",
+      "location": "Denver, CO, US",
+      "url": "https://www.indeed.com/viewjob?jk=87ff3380e5cebd49",
+      "direct_url": "http://www.indeed.com/job/certified-peer-support-specialist-community-outreach-87ff3380e5cebd49",
+      "company_url": "https://www.indeed.com/cmp/New-Leaf-Peer-Support-LLC",
+      "date_posted": "2026-08-03",
+      "description": "Certified Peer Support Specialist – Community Outreach\n\n**New Leaf Peer Support LLC** is seeking a motivated and compassionate **Certified Peer Support Specialist** to join our growing behavioral health team in the Denver Metro area.\n\nThis position is primarily focused on **community outreach, engagement, and peer support services** for individuals experiencing mental health challenges, substance use disorders, homelessness, justice involvement, or housing instability.\n\nResponsibilities\n\n* Conduct outreach in the community, including shelters, hospitals, treatment centers, probation/parole offices, and other referral sources.\n* Build relationships with community organizations and referral partners.\n* Identify and engage individuals who could benefit from behavioral health and recovery services.\n* Assist with client recruitment and referrals into our programs.\n* Provide one\\-on\\-one peer support services using your lived experience and recovery journey.\n* Facilitate peer support groups as assigned.\n* Assist clients with accessing housing, Medicaid, employment, transportation, and community resources.\n* Complete documentation in a timely and accurate manner.\n* Work closely with our clinical and case management teams to support client success.\n\nQualifications\n\n* **Current Colorado Certified Peer Support Specialist (CPSS) certification is required.**\n* Minimum of **1 year of peer support or behavioral health experience preferred.**\n* Outreach, community engagement, or street outreach experience strongly preferred.\n* Excellent communication and relationship\\-building skills.\n* Ability to work independently and manage daily outreach activities.\n* Reliable transportation and willingness to travel throughout the Denver Metro area.\n* Experience working with individuals experiencing homelessness, mental illness, or substance use disorders is highly preferred\n\nPreferred Qualifications\n\n* Existing relationships with referral agencies, shelters, hospitals, or community organizations.\n* Ability to bring referrals or assist in growing the client census.\n* Knowledge of Colorado Medicaid behavioral health services and community resources.\n\nWhat We Offer\n\n* Competitive pay based on experience.\n* Opportunity for advancement within a growing organization.\n* Supportive team environment.\n* Meaningful work helping individuals achieve recovery, stability, and independence.\n\nIf you are passionate about helping others and enjoy working in the community to connect individuals with life\\-changing services, we encourage you to apply.\n\nPay: $21\\.00 \\- $22\\.00 per hour\n\nBenefits:\n\n* Paid time off\n\nWork Location: In person",
+      "salary": "$21–$22/hr",
+      "salary_source": "direct_data",
+      "salary_currency": "USD",
+      "job_type": "contract",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "emails": "",
+      "ats": "Indeed"
+    }
+  ]
 }
