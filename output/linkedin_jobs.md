@@ -1,161 +1,87 @@
 # 🔥 LinkedIn — Social Worker Roles
-*Last updated: 2026-08-03 22:49 UTC*
+*Last updated: 2026-08-03 23:35 UTC*
 
-**37 new role(s)** since last run · 39 total in last 1h
+**18 new role(s)** since last run · 42 total in last 1h
 
-### [Operations Supervisor Weekend](https://www.linkedin.com/jobs/view/4448230935/) — Lowe's Companies, Inc.
-- 📍 **Location:** Cheyenne, WY
-- 🕒 **Posted:** 2026-08-03
-
-### [Unit Care Coordinator (Registered Nurse/RN)](https://www.linkedin.com/jobs/view/4446252945/) — Life Care Centers of America
-- 📍 **Location:** Denver, CO
-- 💰 **Salary:** $47-$49
-- 🕒 **Posted:** 2026-08-03
-
-### [Unit Care Coordinator (Registered Nurse/RN) $5,000 Sign on Bonus](https://www.linkedin.com/jobs/view/4446250956/) — Life Care Centers of America
-- 📍 **Location:** Parker, CO
-- 🕒 **Posted:** 2026-08-03
-
-### [Behavioral Health Specialist](https://www.linkedin.com/jobs/view/4448241854/) — RHA Health Services, LLC
-- 📍 **Location:** Albemarle, NC
-- 🕒 **Posted:** 2026-08-03
-
-### [Behavioral Health Specialist](https://www.linkedin.com/jobs/view/4448252373/) — RHA Health Services, LLC
-- 📍 **Location:** Concord, NC
-- 🕒 **Posted:** 2026-08-03
-
-### [Behavioral Health Care Coordinator (QMHA / QMHP / Licensed) - MD133](https://www.linkedin.com/jobs/view/4448631688/) — Native American Rehabilitation Association of the Northwest, Inc. (NARA)
-- 📍 **Location:** Portland, OR
-- 💰 **Salary:** $28.00/hr - $41.90/hr
-- 🕒 **Posted:** 2026-08-03
-
-### [Treatment Foster Care Coordinator](https://www.linkedin.com/jobs/view/4448229938/) — National Youth Advocate Program (NYAP)
-- 📍 **Location:** Newark, OH
-- 🕒 **Posted:** 2026-08-03
-
-### [Field Care Coordinator / Field Case Management](https://www.linkedin.com/jobs/view/4448234950/) — Pair Team
-- 📍 **Location:** Huntington Beach, CA
-- 🕒 **Posted:** 2026-08-03
-
-### [Social Worker - MSW - FT - Days - JDCH](https://www.linkedin.com/jobs/view/4448254090/) — Memorial Healthcare System
-- 📍 **Location:** Hollywood, FL
-- 🕒 **Posted:** 2026-08-03
-
-### [Clinical Care Social Worker](https://www.linkedin.com/jobs/view/4446253961/) — WVU Medicine
-- 📍 **Location:** Morgantown, WV
-- 🕒 **Posted:** 2026-08-03
-
-### [Care Coordinator](https://www.linkedin.com/jobs/view/4448250409/) — North Homes Children and Family Services
-- 📍 **Location:** Grand Rapids, MN
-- 💰 **Salary:** $19.00 to $21.00 per hour
-- 🕒 **Posted:** 2026-08-03
-
-### [Supportive Housing Specialist](https://www.linkedin.com/jobs/view/4448621637/) — Pioneer Human Services
-- 📍 **Location:** Bellingham, WA
-- 🕒 **Posted:** 2026-08-03
-
-### [Assistant Program Manager](https://www.linkedin.com/jobs/view/4448632555/) — Advocates
-- 📍 **Location:** Natick, MA
-- 🕒 **Posted:** 2026-08-03
-
-### [Education and Volunteer Coordinator - Dominican Republic](https://www.linkedin.com/jobs/view/4448629772/) — Operation Smile
-- 📍 **Location:** Santo Domingo, Dominican Republic
-- 🕒 **Posted:** 2026-08-03
-
-### [Case Manager-Supportive Housing](https://www.linkedin.com/jobs/view/4447818417/) — Women In Need, Inc. (Win)
-- 📍 **Location:** Bronx, NY
-- 🕒 **Posted:** 2026-08-03
-
-### [Substance Abuse Counselor](https://www.linkedin.com/jobs/view/4438749729/) — Contra Costa County
-- 📍 **Location:** Contra Costa County, CA
-- 🕒 **Posted:** 2026-08-03
-
-### [Social Worker](https://www.linkedin.com/jobs/view/4448635303/) — Novamed
-- 📍 **Location:** The Ave
-- 🕒 **Posted:** 2026-08-03
-
-### [Mental Health Counselor Supervisor](https://www.linkedin.com/jobs/view/4448626505/) — SailFuture
-- 📍 **Location:** St. Petersburg, FL
-- 🕒 **Posted:** 2026-08-03
-
-### [Substance Abuse Counselor](https://www.linkedin.com/jobs/view/4448257004/) — Oliver Lee Consulting PLLC
-- 📍 **Location:** Monroe, MI
-- 🕒 **Posted:** 2026-08-03
-
-### [Social Worker MSW](https://www.linkedin.com/jobs/view/4448234936/) — RWJBarnabas Health
-- 📍 **Location:** Somerville, NJ
-- 💰 **Salary:** $85,100.00 - $109,100.00 per year
-- 🕒 **Posted:** 2026-08-03
-
-### [Peer Support Specialist-Eyerly Ball](https://www.linkedin.com/jobs/view/4446230739/) — UnityPoint Health
-- 📍 **Location:** Des Moines, IA
-- 🕒 **Posted:** 2026-08-03
-
-### [Training Coordinator](https://www.linkedin.com/jobs/view/4448244581/) — Legacy Capital Services
-- 📍 **Location:** Las Vegas, NV
-- 💰 **Salary:** $23.00/hr - $25.00/hr
-- 🕒 **Posted:** 2026-08-03
-
-### [Hospice Volunteer Coordinator](https://www.linkedin.com/jobs/view/4446250984/) — Elara Caring
-- 📍 **Location:** Toledo, OH
-- 🕒 **Posted:** 2026-08-03
-
-### [Program Coordinator](https://www.linkedin.com/jobs/view/4448636423/) — VBeyond Corporation
-- 📍 **Location:** New York, United States
-- 🕒 **Posted:** 2026-08-03
-
-### [Program Coordinator](https://www.linkedin.com/jobs/view/4448253035/) — Big Brothers Big Sisters of Idaho
-- 📍 **Location:** Boise, ID
-- 💰 **Salary:** $5,000-$8,000
-- 🕒 **Posted:** 2026-08-03
-
-### [Program Coordinator-Opeartions -Only W2](https://www.linkedin.com/jobs/view/4448618971/) — VBeyond Corporation
+### [Intake Specialist](https://www.linkedin.com/jobs/view/4448246784/) — AdaptHealth
 - 📍 **Location:** United States
-- 💰 **Salary:** $34.00/hr - $35.00/hr
 - 🕒 **Posted:** 2026-08-03
 
-### [Program Coordinator](https://www.linkedin.com/jobs/view/4446252927/) — Humana
-- 📍 **Location:** Louisville, KY
-- 💰 **Salary:** $71,100.00/yr - $97,800.00/yr
+### [Case Manager](https://www.linkedin.com/jobs/view/4443614384/) — Point C
+- 📍 **Location:** United States
+- 💰 **Salary:** $70,000—$80,000 USD
 - 🕒 **Posted:** 2026-08-03
 
-### [Program Coordinator (GME)](https://www.linkedin.com/jobs/view/4446266107/) — MedStar Health
-- 📍 **Location:** Washington, DC
-- 💰 **Salary:** USD $59,820.00 - USD $101,836.00 /Yr
+### [School Social Worker (State Teacher II) - Platte Valley Youth Services Center in Greeley](https://www.linkedin.com/jobs/view/4448646208/) — State of Colorado
+- 📍 **Location:** Greeley, CO
 - 🕒 **Posted:** 2026-08-03
 
-### [Supervisor](https://www.linkedin.com/jobs/view/4448246791/) — Pittsburgh Mercy
-- 📍 **Location:** Pittsburgh, PA
+### [Intake Specialist](https://www.linkedin.com/jobs/view/4448253213/) — AdaptHealth
+- 📍 **Location:** United States
 - 🕒 **Posted:** 2026-08-03
 
-### [Field Care Coordinator / Field Case Management](https://www.linkedin.com/jobs/view/4448246716/) — Pair Team
-- 📍 **Location:** Irvine, CA
+### [Patient Care Coordinator - Evergreen](https://www.linkedin.com/jobs/view/4448630859/) — Fred Hutch
+- 📍 **Location:** Kirkland, WA
+- 💰 **Salary:** $27.01 to $38.45
 - 🕒 **Posted:** 2026-08-03
 
-### [Patient Care Coordinator](https://www.linkedin.com/jobs/view/4448236870/) — Lifesmiles Family Dentistry
-- 📍 **Location:** Bloomington, MN
+### [Residential Program Manager - Developmental Services](https://www.linkedin.com/jobs/view/4448627619/) — Advocates
+- 📍 **Location:** Brookline, MA
+- 💰 **Salary:** $49,920-$55,120
 - 🕒 **Posted:** 2026-08-03
 
-### [Community Health Worker - Grant](https://www.linkedin.com/jobs/view/4446259210/) — SSM Health
-- 📍 **Location:** Greater St. Louis
+### [Program Coordinator I (Part Time)](https://www.linkedin.com/jobs/view/4448249491/) — Solano Transportation Authority
+- 📍 **Location:** Suisun City, CA
+- 💰 **Salary:** $26.55 - $32.25 Per Hour
 - 🕒 **Posted:** 2026-08-03
 
-### [Life Consultant (Case Manager) - QIDP](https://www.linkedin.com/jobs/view/4391222924/) — Aspire Chicago
-- 📍 **Location:** Greater Chicago Area
+### [Bilingual Community Health Worker](https://www.linkedin.com/jobs/view/4446268188/) — Suvida Healthcare
+- 📍 **Location:** Dallas, TX
 - 🕒 **Posted:** 2026-08-03
 
-### [Supervisor Case Management](https://www.linkedin.com/jobs/view/4437641519/) — MyMichigan Health
-- 📍 **Location:** Sault Ste. Marie, MI
+### [Patient Care Coordinator](https://www.linkedin.com/jobs/view/4448630608/) — LaserAway
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $70,000–$95,000
 - 🕒 **Posted:** 2026-08-03
 
-### [Program Supervisor](https://www.linkedin.com/jobs/view/4446259305/) — Sevita
-- 📍 **Location:** Rockford, IL
+### [LPN Health and Wellness Coordinator](https://www.linkedin.com/jobs/view/4448245773/) — Brookdale
+- 📍 **Location:** Nashville, TN
 - 🕒 **Posted:** 2026-08-03
 
-### [Substance Abuse Case Manager](https://www.linkedin.com/jobs/view/4448624652/) — Pinnacle Treatment Centers, Inc.
-- 📍 **Location:** Pittsburgh, PA
+### [Program Coordinator](https://www.linkedin.com/jobs/view/4446444890/) — Commonwealth of Kentucky
+- 📍 **Location:** Frankfort, KY
+- 💰 **Salary:** $43,210.08 - $64,816.08 Annually
 - 🕒 **Posted:** 2026-08-03
 
-### [Family Support Worker](https://www.linkedin.com/jobs/view/4448631476/) — Nottinghamshire County Council
-- 📍 **Location:** Nottinghamshire, England, United Kingdom
+### [Program Coordinator](https://www.linkedin.com/jobs/view/4448250808/) — Commonwealth of Kentucky
+- 📍 **Location:** Frankfort, KY
+- 💰 **Salary:** $43,210.08 - $64,816.08 Annually
+- 🕒 **Posted:** 2026-08-03
+
+### [Behavioral Health Unit Supervisor I/II](https://www.linkedin.com/jobs/view/4446275102/) — Kern County
+- 📍 **Location:** Bakersfield, CA
+- 💰 **Salary:** $ 3,908.88 - $4,671.47
+- 🕒 **Posted:** 2026-08-03
+
+### [Case Manager - Pathway of Hope](https://www.linkedin.com/jobs/view/4448247832/) — The Salvation Army North & Central Illinois Division
+- 📍 **Location:** Kansas City, MO
+- 🕒 **Posted:** 2026-08-03
+
+### [Social Worker - Full Time Days](https://www.linkedin.com/jobs/view/4448249690/) — Good Samaritan
+- 📍 **Location:** St Paul, MN
+- 💰 **Salary:** $25.50 - $34.50
+- 🕒 **Posted:** 2026-08-03
+
+### [Housing Case Manager Support Specialist (Washington County)](https://www.linkedin.com/jobs/view/4446255982/) — Immigrant and Refugee Community Organization
+- 📍 **Location:** Beaverton, OR
+- 🕒 **Posted:** 2026-08-03
+
+### [Youth Supports Coordinator / Case Manager](https://www.linkedin.com/jobs/view/4448636834/) — Newaygo County Mental Health
+- 📍 **Location:** White Cloud, MI
+- 💰 **Salary:** $59,469.00/yr - $77,182.00/yr
+- 🕒 **Posted:** 2026-08-03
+
+### [Program Coordinator, GPM Executive Operations](https://www.linkedin.com/jobs/view/4448252384/) — St. Jude Children's Research Hospital
+- 📍 **Location:** Memphis, TN
+- 💰 **Salary:** $70,720 - $126,880 per year
 - 🕒 **Posted:** 2026-08-03
