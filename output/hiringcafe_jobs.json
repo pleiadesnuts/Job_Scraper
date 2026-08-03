@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-03 05:35 UTC",
+  "scraped_at": "2026-08-03 18:36 UTC",
   "total": 92,
-  "new_count": 1,
+  "new_count": 0,
   "jobs": [
     {
       "company": "Avant Rehabilitation and Care Center",
@@ -1292,20 +1292,5 @@
       "ats": "HiringCafe"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Ecumen",
-      "title": "Hospice Social Worker",
-      "location": "Saint Cloud, Minnesota, United States",
-      "url": "https://gusea1p01.rec.pro.ukg.net/ECU1001ECUME/JobBoard/207e3ae3-3dc1-41dd-955c-28a1f0a24775/OpportunityDetail?opportunityId=084cc734-9273-4262-9024-b00f943167d0",
-      "direct_url": "https://gusea1p01.rec.pro.ukg.net/ECU1001ECUME/JobBoard/207e3ae3-3dc1-41dd-955c-28a1f0a24775/OpportunityDetail?opportunityId=084cc734-9273-4262-9024-b00f943167d0",
-      "date_posted": "2026-08-03T01:23:35.486Z",
-      "description": "Bachelor's in social work, licensed social worker in Minnesota, valid driver’s license, 2 years healthcare social work experience, CPR/ability to communicate, and Microsoft Office proficiency.",
-      "salary": "$62k–$73k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    }
-  ]
+  "new_jobs": []
 }
