@@ -1,22 +1,8 @@
 {
-  "scraped_at": "2026-08-03 23:03 UTC",
+  "scraped_at": "2026-08-03 23:59 UTC",
   "total": 93,
-  "new_count": 1,
+  "new_count": 0,
   "jobs": [
-    {
-      "company": "-",
-      "title": "Social Worker",
-      "location": "Wethersfield, Connecticut, United States",
-      "url": "https://careers-nathealthcare.icims.com/jobs/7331/social-worker/job?in_iframe=1",
-      "direct_url": "https://careers-nathealthcare.icims.com/jobs/7331/social-worker/job?in_iframe=1",
-      "date_posted": "2026-07-20T04:00:00.000Z",
-      "description": "Master's in social work, state licensure as a social worker, experience in long-term care, strong assessment, counseling, crisis intervention, and teamwork skills.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
     {
       "company": "Avant Rehabilitation and Care Center",
       "title": "Social Worker",
@@ -27,6 +13,20 @@
       "description": "Bachelor's degree in social work or psychology, licensed clinical social worker (LCSW), experience with vulnerable populations and LTC preferred, strong communication and empathy.",
       "salary": "",
       "job_type": "Part Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "-",
+      "title": "Social Worker",
+      "location": "Wethersfield, Connecticut, United States",
+      "url": "https://careers-nathealthcare.icims.com/jobs/7331/social-worker/job?in_iframe=1",
+      "direct_url": "https://careers-nathealthcare.icims.com/jobs/7331/social-worker/job?in_iframe=1",
+      "date_posted": "2026-07-20T04:00:00.000Z",
+      "description": "Master's in social work, state licensure as a social worker, experience in long-term care, strong assessment, counseling, crisis intervention, and teamwork skills.",
+      "salary": "",
+      "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
       "ats": "HiringCafe"
@@ -648,20 +648,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "University of New Mexico",
-      "title": "Program Coordinator",
-      "location": "Albuquerque, New Mexico, United States",
-      "url": "https://unm.csod.com/ux/ats/careersite/18/home/requisition/37358?c=unm",
-      "direct_url": "https://unm.csod.com/ux/ats/careersite/18/home/requisition/37358?c=unm",
-      "date_posted": "2026-07-22T00:00:00.000Z",
-      "description": "Coordinate fiscal, administrative, and operational activities for federally funded training programs; manage budgets, purchasing, data collection and reporting; strong organization and communication skills required.",
-      "salary": "$41k–$56k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Upenn",
       "title": "Program Coordinator",
       "location": "Philadelphia, Pennsylvania, United States",
@@ -670,6 +656,20 @@
       "date_posted": "2026-07-24T00:00:00.000Z",
       "description": "Bachelor's degree and 2–3 years experience or equivalent; program/project coordination in academic healthcare, strong organization, scheduling, HRSA reporting familiarity, and excellent communication.",
       "salary": "$50k–$62k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "University of New Mexico",
+      "title": "Program Coordinator",
+      "location": "Albuquerque, New Mexico, United States",
+      "url": "https://unm.csod.com/ux/ats/careersite/18/home/requisition/37358?c=unm",
+      "direct_url": "https://unm.csod.com/ux/ats/careersite/18/home/requisition/37358?c=unm",
+      "date_posted": "2026-07-22T00:00:00.000Z",
+      "description": "Coordinate fiscal, administrative, and operational activities for federally funded training programs; manage budgets, purchasing, data collection and reporting; strong organization and communication skills required.",
+      "salary": "$41k–$56k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
@@ -1236,20 +1236,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Seamar",
-      "title": "Community health worker",
-      "location": "Lynnwood or Monroe",
-      "url": "https://seamar.wd12.myworkdayjobs.com/sea_mar/job/LCN---Lynnwood---4111-Alderwood-Mall-Blvd/Community-health-worker_JR102279",
-      "direct_url": "https://seamar.wd12.myworkdayjobs.com/sea_mar/job/LCN---Lynnwood---4111-Alderwood-Mall-Blvd/Community-health-worker_JR102279",
-      "date_posted": "2026-07-27T00:00:00.000Z",
-      "description": "High school diploma or equivalent and/or 1+ year health/social services experience. Requires WA driver’s license, background check, annual TB test, BLS within 90 days; strong communication and case management skills.",
-      "salary": "$44k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Hartford HealthCare",
       "title": "Community Health Educator (CHW) - Community Health",
       "location": "New Britain, Connecticut, United States",
@@ -1259,6 +1245,20 @@
       "description": "High school diploma required (associate preferred); 6 months community outreach or direct service experience; CHW certification; reliable transportation; bilingual Spanish required; strong communication and community engagement skills.",
       "salary": "",
       "job_type": "Part Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Seamar",
+      "title": "Community health worker",
+      "location": "Lynnwood or Monroe",
+      "url": "https://seamar.wd12.myworkdayjobs.com/sea_mar/job/LCN---Lynnwood---4111-Alderwood-Mall-Blvd/Community-health-worker_JR102279",
+      "direct_url": "https://seamar.wd12.myworkdayjobs.com/sea_mar/job/LCN---Lynnwood---4111-Alderwood-Mall-Blvd/Community-health-worker_JR102279",
+      "date_posted": "2026-07-27T00:00:00.000Z",
+      "description": "High school diploma or equivalent and/or 1+ year health/social services experience. Requires WA driver’s license, background check, annual TB test, BLS within 90 days; strong communication and case management skills.",
+      "salary": "$44k/yr",
+      "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
       "ats": "HiringCafe"
@@ -1306,20 +1306,5 @@
       "ats": "HiringCafe"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Overview",
-      "title": "Program Coordinator II",
-      "location": "Logan, Utah, United States",
-      "url": "https://careers-usu.icims.com/jobs/10495/program-coordinator-ii/job?in_iframe=1",
-      "direct_url": "https://careers-usu.icims.com/jobs/10495/program-coordinator-ii/job?in_iframe=1",
-      "date_posted": "2026-07-09T04:00:00.000Z",
-      "description": "Bachelor's in a related field plus 2 years' relevant experience (or equivalent); program coordination, student support, supervision, teaching 1-2 courses, grant writing and outreach experience preferred.",
-      "salary": "$53k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    }
-  ]
+  "new_jobs": []
 }

@@ -1,11 +1,6 @@
 # ☕ HiringCafe — Social Worker Roles
-*Last updated: 2026-08-03 23:03 UTC*
+*Last updated: 2026-08-03 23:59 UTC*
 
-**1 new role(s)** since last run · 93 total in last 30d
+**0 new role(s)** since last run · 93 total in last 30d
 
-### [Program Coordinator II](https://careers-usu.icims.com/jobs/10495/program-coordinator-ii/job?in_iframe=1) — Overview
-- 📍 **Location:** Logan, Utah, United States
-- 💰 **Salary:** $53k/yr
-- **Work mode:** On-site
-- **Job type:** Full Time
-- 🕒 **Posted:** 2026-07-09T04:00:00.000Z
+No new roles since the last run.
