@@ -1,11 +1,11 @@
 # 🟦 Indeed — Social Worker Roles
-*Last updated: 2026-08-03 05:29 UTC*
+*Last updated: 2026-08-03 17:42 UTC*
 
-**1 new role(s)** since last run · 3 total in last 24h
+**1 new role(s)** since last run · 2 total in last 24h
 
-### [Certified Peer Support Specialist – Community Outreach](https://www.indeed.com/viewjob?jk=87ff3380e5cebd49) — NEW LEAF PEER SUPPORT LLC
+### [Home Health Medical Social Worker](https://www.indeed.com/viewjob?jk=c5a5b7b4d02031d0) — Gateway Home Health and Hospice
 - 📍 **Location:** Denver, CO, US
-- 💰 **Salary:** $21–$22/hr
+- 💰 **Salary:** $35–$45/hr
 - **Work mode:** On-site
-- **Job type:** contract
+- **Job type:** parttime
 - 🕒 **Posted:** 2026-08-03
