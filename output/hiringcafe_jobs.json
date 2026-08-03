@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-03 20:28 UTC",
+  "scraped_at": "2026-08-03 22:00 UTC",
   "total": 92,
-  "new_count": 1,
+  "new_count": 0,
   "jobs": [
     {
       "company": "-",
@@ -1292,20 +1292,5 @@
       "ats": "HiringCafe"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Humana",
-      "title": "Program Coordinator",
-      "location": "Louisville, Kentucky, United States",
-      "url": "https://humana.wd5.myworkdayjobs.com/humana_external_career_site/job/Louisville-KY/Program-Coordinator_R-420566",
-      "direct_url": "https://humana.wd5.myworkdayjobs.com/humana_external_career_site/job/Louisville-KY/Program-Coordinator_R-420566",
-      "date_posted": "2026-08-03T00:00:00.000Z",
-      "description": "2+ years supporting PMO/program coordination with data analysis, financial tracking, ServiceNow/Jira Align experience, advanced Excel and PowerPoint, strong analytical and communication skills.",
-      "salary": "$71k–$98k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    }
-  ]
+  "new_jobs": []
 }
