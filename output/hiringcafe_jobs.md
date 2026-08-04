@@ -1,25 +1,24 @@
 # ☕ HiringCafe — Social Worker Roles
-*Last updated: 2026-08-04 20:25 UTC*
+*Last updated: 2026-08-04 22:06 UTC*
 
-**3 new role(s)** since last run · 92 total in last 30d
+**3 new role(s)** since last run · 93 total in last 30d
 
-### [Hospice Social Worker](https://ecumen.rec.pro.ukg.net/ECU1001ECUME/JobBoard/207e3ae3-3dc1-41dd-955c-28a1f0a24775/OpportunityDetail?opportunityId=084cc734-9273-4262-9024-b00f943167d0) — Ecumen
-- 📍 **Location:** Saint Cloud, Minnesota, United States
-- 💰 **Salary:** $62k–$73k/yr
+### [Case Manager](https://jobs.workable.com/view/3sC5obz5y2LBfjtW2et3tn/case-manager-in-bayville-at-bright-harbor-healthcare) — Bright Harbor Healthcare
+- 📍 **Location:** Bayville or Toms River or Berkeley Township
 - **Work mode:** On-site
 - **Job type:** Full Time
-- 🕒 **Posted:** 2026-08-03T01:23:35.486Z
+- 🕒 **Posted:** 2026-08-04T15:48:15.271Z
 
-### [Case Manager / RN](https://jobs.ardenthealth.com/jobs/138395?lang=en-us) — Pascack Valley Medical Center
-- 📍 **Location:** Westwood, New Jersey, United States
-- 💰 **Salary:** $82k–$106k/yr
+### [Program Coordinator](https://spreadthewordnevada.isolvedhire.com/jobs/1637926) — Spread the Word Nevada
+- 📍 **Location:** Las Vegas, Nevada, United States
+- 💰 **Salary:** $42k–$46k/yr
+- **Work mode:** On-site
+- **Job type:** Full Time
+- 🕒 **Posted:** 2026-08-04T00:00:00.000Z
+
+### [Program Coordinator](https://www.governmentjobs.com/careers/elmonteca/jobs/5435042) — City of El Monte, CA
+- 📍 **Location:** El Monte, California, United States
+- 💰 **Salary:** $61k/yr
 - **Work mode:** On-site
 - **Job type:** Part Time
-- 🕒 **Posted:** 2026-07-29T18:26:49.000Z
-
-### [Program Coordinator II](https://careers-usu.icims.com/jobs/10495/program-coordinator-ii/job?in_iframe=1) — Overview
-- 📍 **Location:** Logan, Utah, United States
-- 💰 **Salary:** $53k/yr
-- **Work mode:** On-site
-- **Job type:** Full Time
-- 🕒 **Posted:** 2026-07-09T04:00:00.000Z
+- 🕒 **Posted:** 2026-08-04T00:45:58.000Z
