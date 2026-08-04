@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-04 01:58 UTC",
-  "total": 92,
-  "new_count": 0,
+  "scraped_at": "2026-08-04 05:05 UTC",
+  "total": 91,
+  "new_count": 2,
   "jobs": [
     {
       "company": "-",
@@ -116,13 +116,13 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "RIVERVIEW HEALTH GROUP",
+      "company": "Riverview Health & Rehab Center - Jefferson",
       "title": "Social Worker",
       "location": "Detroit, Michigan, United States",
-      "url": "https://www.paycomonline.net/v4/ats/web.php/jobs/ViewJobDetails?job=174605&clientkey=674C5E6E9D5651D6FB1EC4FD60A322D9",
-      "direct_url": "https://www.paycomonline.net/v4/ats/web.php/jobs/ViewJobDetails?job=174605&clientkey=674C5E6E9D5651D6FB1EC4FD60A322D9",
+      "url": "https://www.paycomonline.net/v4/ats/web.php/jobs/ViewJobDetails?job=174605&clientkey=5E4FC8C819F2A5B62D672E294B1353BB",
+      "direct_url": "https://www.paycomonline.net/v4/ats/web.php/jobs/ViewJobDetails?job=174605&clientkey=5E4FC8C819F2A5B62D672E294B1353BB",
       "date_posted": "2026-07-23T00:00:00.000Z",
-      "description": "Licensed social worker in Michigan with bachelor\\u0002s in social work (master\\u0002s preferred), 1 year supervised social work experience in long-term/sub-acute care, knowledge of regulations, strong communication and assessment skills.",
+      "description": "Bachelor's in Social Work required (MSW preferred), 1 year supervised social work in long-term or sub-acute care, Michigan social worker license, knowledge of regulations, computer proficiency, strong communication and analytical skills.",
       "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
@@ -214,6 +214,20 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "Cxb",
+      "title": "Social Worker ",
+      "location": "New York, New York, United States",
+      "url": "https://jobs.dayforcehcm.com/en-US/cxb/candidateportal/jobs/21666",
+      "direct_url": "https://jobs.dayforcehcm.com/en-US/cxb/candidateportal/jobs/21666",
+      "date_posted": "2026-08-03T04:00:00.000Z",
+      "description": "NYS Licensed Masters Social Worker required; obtain 9.58 credential within 3 months; experience in crisis intervention, motivational interviewing, harm reduction, and documentation; strong communication and collaborative skills.",
+      "salary": "",
+      "job_type": "Part Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
       "company": "Lifespacecommunities",
       "title": "Qualified Social Worker",
       "location": "Delray Beach, Florida, United States",
@@ -250,20 +264,6 @@
       "date_posted": "2026-07-19T01:49:44.000Z",
       "description": "Bachelor's in social work/social science, licensed social worker, up to 1 year clinical/community healthcare experience, strong assessment/intervention skills, payer/resource knowledge, and computer literacy.",
       "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Ecumen",
-      "title": "Hospice Social Worker",
-      "location": "Saint Cloud, Minnesota, United States",
-      "url": "https://ecumen.rec.pro.ukg.net/ECU1001ECUME/JobBoard/207e3ae3-3dc1-41dd-955c-28a1f0a24775/OpportunityDetail?opportunityId=084cc734-9273-4262-9024-b00f943167d0",
-      "direct_url": "https://ecumen.rec.pro.ukg.net/ECU1001ECUME/JobBoard/207e3ae3-3dc1-41dd-955c-28a1f0a24775/OpportunityDetail?opportunityId=084cc734-9273-4262-9024-b00f943167d0",
-      "date_posted": "2026-08-03T01:23:35.486Z",
-      "description": "Bachelor's in social work, licensed social worker in Minnesota, 2 years healthcare social work experience, valid driver's license and insurance, Microsoft Office proficiency, strong communication and assessment skills.",
-      "salary": "$62k–$73k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
@@ -340,6 +340,20 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "Mainspring Recovery",
+      "title": "Case Manager",
+      "location": "Dumfries, Virginia, United States",
+      "url": "https://ats.rippling.com/mainspringrecovery/jobs/ff006bf6-b50d-439e-9cb1-44911a0e7385",
+      "direct_url": "https://ats.rippling.com/mainspringrecovery/jobs/ff006bf6-b50d-439e-9cb1-44911a0e7385",
+      "date_posted": "2026-07-20T17:17:01.026Z",
+      "description": "Coordinate discharge planning, facilitate Medicaid enrollment, schedule appointments, arrange transportation, document case management in EHR; associate degree or CSAC-A required; prior case management experience preferred.",
+      "salary": "$50k–$65k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
       "company": "Catholic Charities Diocese of Cleveland",
       "title": "Case Manager",
       "location": "Painesville, Ohio, United States",
@@ -354,15 +368,15 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Mainspring Recovery",
+      "company": "Black Birth Justice",
       "title": "Case Manager",
-      "location": "Dumfries, Virginia, United States",
-      "url": "https://ats.rippling.com/mainspringrecovery/jobs/ff006bf6-b50d-439e-9cb1-44911a0e7385",
-      "direct_url": "https://ats.rippling.com/mainspringrecovery/jobs/ff006bf6-b50d-439e-9cb1-44911a0e7385",
-      "date_posted": "2026-07-20T17:17:01.026Z",
-      "description": "Coordinate discharge planning, facilitate Medicaid enrollment, schedule appointments, arrange transportation, document case management in EHR; associate degree or CSAC-A required; prior case management experience preferred.",
-      "salary": "$50k–$65k/yr",
-      "job_type": "Full Time",
+      "location": "Louisville, Kentucky, United States",
+      "url": "https://blackbirthjustice.bamboohr.com/careers/66",
+      "direct_url": "https://blackbirthjustice.bamboohr.com/careers/66",
+      "date_posted": "2026-07-06T00:00:00.000Z",
+      "description": "Bachelors in social work or related field, 2+ years direct social services/case management, proficiency with Google Suite and case management software, ability to conduct assessments, crisis response, documentation, and do field outreach.",
+      "salary": "",
+      "job_type": "Contract",
       "is_remote": false,
       "work_arrangement": "On-site",
       "ats": "HiringCafe"
@@ -379,20 +393,6 @@
       "job_type": "Full Time",
       "is_remote": true,
       "work_arrangement": "Remote in-state eligible",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Black Birth Justice",
-      "title": "Case Manager",
-      "location": "Louisville, Kentucky, United States",
-      "url": "https://blackbirthjustice.bamboohr.com/careers/66",
-      "direct_url": "https://blackbirthjustice.bamboohr.com/careers/66",
-      "date_posted": "2026-07-06T00:00:00.000Z",
-      "description": "Bachelors in social work or related field, 2+ years direct social services/case management, proficiency with Google Suite and case management software, ability to conduct assessments, crisis response, documentation, and do field outreach.",
-      "salary": "",
-      "job_type": "Contract",
-      "is_remote": false,
-      "work_arrangement": "On-site",
       "ats": "HiringCafe"
     },
     {
@@ -536,20 +536,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Pascack Valley Medical Center",
-      "title": "Case Manager / RN",
-      "location": "Westwood, New Jersey, United States",
-      "url": "https://jobs.ardenthealth.com/jobs/138395?lang=en-us",
-      "direct_url": "https://jobs.ardenthealth.com/jobs/138395?lang=en-us",
-      "date_posted": "2026-07-29T18:26:49.000Z",
-      "description": "RN with an associate degree or higher; case management experience in acute hospital settings preferred; certification in case management (ACM or CCM) preferred.",
-      "salary": "$82k–$106k/yr",
-      "job_type": "Part Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "YMCA of Greater Cincinnati",
       "title": "Program Coordinator",
       "location": "Hillsboro, Ohio, United States",
@@ -676,20 +662,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Associated",
-      "title": "Program Coordinator",
-      "location": "Baltimore, Maryland, United States",
-      "url": "https://jobs.dayforcehcm.com/en-US/associated/jcccandidateportal/jobs/10250",
-      "direct_url": "https://jobs.dayforcehcm.com/en-US/associated/jcccandidateportal/jobs/10250",
-      "date_posted": "2026-07-14T04:00:00.000Z",
-      "description": "Experience coordinating programs, supervising staff, strong customer service, proficiency with CRM and Microsoft Office, ability to lift up to 25 lbs, and excellent communication and organizational skills.",
-      "salary": "$43k–$48k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Humana",
       "title": "Program Coordinator",
       "location": "Louisville, Kentucky, United States",
@@ -698,6 +670,20 @@
       "date_posted": "2026-08-03T00:00:00.000Z",
       "description": "2+ years supporting PMO/program coordination with data analysis, financial tracking, ServiceNow/Jira Align experience, advanced Excel and PowerPoint, strong analytical and communication skills.",
       "salary": "$71k–$98k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Associated",
+      "title": "Program Coordinator",
+      "location": "Baltimore, Maryland, United States",
+      "url": "https://jobs.dayforcehcm.com/en-US/associated/jcccandidateportal/jobs/10250",
+      "direct_url": "https://jobs.dayforcehcm.com/en-US/associated/jcccandidateportal/jobs/10250",
+      "date_posted": "2026-07-14T04:00:00.000Z",
+      "description": "Experience coordinating programs, supervising staff, strong customer service, proficiency with CRM and Microsoft Office, ability to lift up to 25 lbs, and excellent communication and organizational skills.",
+      "salary": "$43k–$48k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
@@ -1026,6 +1012,20 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "Overview",
+      "title": "Program Coordinator II",
+      "location": "Logan, Utah, United States",
+      "url": "https://careers-usu.icims.com/jobs/10495/program-coordinator-ii/job?in_iframe=1",
+      "direct_url": "https://careers-usu.icims.com/jobs/10495/program-coordinator-ii/job?in_iframe=1",
+      "date_posted": "2026-07-09T04:00:00.000Z",
+      "description": "Bachelor's in a related field plus 2 years' relevant experience (or equivalent); program coordination, student support, supervision, teaching 1-2 courses, grant writing and outreach experience preferred.",
+      "salary": "$53k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
       "company": "Sault Tribe",
       "title": "Health - Community Health Educator",
       "location": "Sault Ste. Marie, Michigan, United States",
@@ -1180,20 +1180,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Evergreen Nephrology",
-      "title": "Community Health Worker",
-      "location": "United States",
-      "url": "https://job-boards.greenhouse.io/evergreennephrology/jobs/4719117005",
-      "direct_url": "https://job-boards.greenhouse.io/evergreennephrology/jobs/4719117005",
-      "date_posted": "2026-07-28T15:47:05.000Z",
-      "description": "Active CHW certification, 3+ years care coordination/community health experience, team-based care experience, strong communication, MS Office (Outlook, Teams) skills, ability to work remotely with reliable internet; bilingual Spanish/English preferred.",
-      "salary": "$46k–$52k/yr",
-      "job_type": "Full Time",
-      "is_remote": true,
-      "work_arrangement": "Remote in-state eligible",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Parklandhospital",
       "title": "Community Health Worker",
       "location": "Dallas, Texas, United States",
@@ -1205,6 +1191,20 @@
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Evergreen Nephrology",
+      "title": "Community Health Worker",
+      "location": "United States",
+      "url": "https://job-boards.greenhouse.io/evergreennephrology/jobs/4719117005",
+      "direct_url": "https://job-boards.greenhouse.io/evergreennephrology/jobs/4719117005",
+      "date_posted": "2026-07-28T15:47:05.000Z",
+      "description": "Active CHW certification, 3+ years care coordination/community health experience, team-based care experience, strong communication, MS Office (Outlook, Teams) skills, ability to work remotely with reliable internet; bilingual Spanish/English preferred.",
+      "salary": "$46k–$52k/yr",
+      "job_type": "Full Time",
+      "is_remote": true,
+      "work_arrangement": "Remote in-state eligible",
       "ats": "HiringCafe"
     },
     {
@@ -1222,20 +1222,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Hartford HealthCare",
-      "title": "Community Health Educator (CHW) - Community Health",
-      "location": "New Britain, Connecticut, United States",
-      "url": "https://hhccareers.taleo.net/careersection/hhc_ext/jobdetail.ftl?job=26157030&lang=en",
-      "direct_url": "https://hhccareers.taleo.net/careersection/hhc_ext/jobdetail.ftl?job=26157030&lang=en",
-      "date_posted": "2026-07-08T12:00:00.000Z",
-      "description": "High school diploma required (associate preferred); 6 months community outreach or direct service experience; CHW certification; reliable transportation; bilingual Spanish required; strong communication and community engagement skills.",
-      "salary": "",
-      "job_type": "Part Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Seamar",
       "title": "Community health worker",
       "location": "Lynnwood or Monroe",
@@ -1245,6 +1231,20 @@
       "description": "High school diploma or equivalent and/or 1+ year health/social services experience. Requires WA driver’s license, background check, annual TB test, BLS within 90 days; strong communication and case management skills.",
       "salary": "$44k/yr",
       "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Hartford HealthCare",
+      "title": "Community Health Educator (CHW) - Community Health",
+      "location": "New Britain, Connecticut, United States",
+      "url": "https://hhccareers.taleo.net/careersection/hhc_ext/jobdetail.ftl?job=26157030&lang=en",
+      "direct_url": "https://hhccareers.taleo.net/careersection/hhc_ext/jobdetail.ftl?job=26157030&lang=en",
+      "date_posted": "2026-07-08T12:00:00.000Z",
+      "description": "High school diploma required (associate preferred); 6 months community outreach or direct service experience; CHW certification; reliable transportation; bilingual Spanish required; strong communication and community engagement skills.",
+      "salary": "",
+      "job_type": "Part Time",
       "is_remote": false,
       "work_arrangement": "On-site",
       "ats": "HiringCafe"
@@ -1276,21 +1276,36 @@
       "is_remote": false,
       "work_arrangement": "On-site",
       "ats": "HiringCafe"
+    }
+  ],
+  "new_jobs": [
+    {
+      "company": "Cxb",
+      "title": "Social Worker ",
+      "location": "New York, New York, United States",
+      "url": "https://jobs.dayforcehcm.com/en-US/cxb/candidateportal/jobs/21666",
+      "direct_url": "https://jobs.dayforcehcm.com/en-US/cxb/candidateportal/jobs/21666",
+      "date_posted": "2026-08-03T04:00:00.000Z",
+      "description": "NYS Licensed Masters Social Worker required; obtain 9.58 credential within 3 months; experience in crisis intervention, motivational interviewing, harm reduction, and documentation; strong communication and collaborative skills.",
+      "salary": "",
+      "job_type": "Part Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
     },
     {
-      "company": "Engaging Solutions, LLC",
-      "title": "Certified Community Health Worker",
-      "location": "Kokomo, Indiana, United States",
-      "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4377541",
-      "direct_url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4377541",
-      "date_posted": "2026-07-30T16:18:15.000Z",
-      "description": "Reside near Kokomo, IN; Community Health Worker certification; valid driver's license, insurance, reliable transportation; HS diploma/GED; 1-3 years in health/behavioral services; ability to conduct ~35 community visits/week and handle PHI per HIPAA.",
-      "salary": "",
+      "company": "Overview",
+      "title": "Program Coordinator II",
+      "location": "Logan, Utah, United States",
+      "url": "https://careers-usu.icims.com/jobs/10495/program-coordinator-ii/job?in_iframe=1",
+      "direct_url": "https://careers-usu.icims.com/jobs/10495/program-coordinator-ii/job?in_iframe=1",
+      "date_posted": "2026-07-09T04:00:00.000Z",
+      "description": "Bachelor's in a related field plus 2 years' relevant experience (or equivalent); program coordination, student support, supervision, teaching 1-2 courses, grant writing and outreach experience preferred.",
+      "salary": "$53k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
       "ats": "HiringCafe"
     }
-  ],
-  "new_jobs": []
+  ]
 }
