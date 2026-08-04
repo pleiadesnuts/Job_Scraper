@@ -1,122 +1,182 @@
 # 🔥 LinkedIn — Social Worker Roles
-*Last updated: 2026-08-04 04:58 UTC*
+*Last updated: 2026-08-04 17:19 UTC*
 
-**26 new role(s)** since last run · 29 total in last 1h
+**39 new role(s)** since last run · 39 total in last 1h
 
-### [Supply Chain Supervisor](https://www.linkedin.com/jobs/view/4448806508/) — HCA Healthcare
-- 📍 **Location:** Englewood, CO
-- 💰 **Salary:** $24.61 - $34.45
+### [Supervisor Safety](https://www.linkedin.com/jobs/view/4437281476/) — Peabody Energy
+- 📍 **Location:** Wright, WY
 - 🕒 **Posted:** 2026-08-04
 
-### [SOCIAL WORKER](https://www.linkedin.com/jobs/view/4448809243/) — U.S. Fleet Forces Command
-- 📍 **Location:** Fort Meade, MD
+### [Behavioral Health Case Manager](https://www.linkedin.com/jobs/view/4446676255/) — The Hartford
+- 📍 **Location:** Sunrise, FL
+- 💰 **Salary:** $74,800 - $112,200
 - 🕒 **Posted:** 2026-08-04
 
-### [Program Manager](https://www.linkedin.com/jobs/view/4448687969/) — CARE Wellness Center & Services
-- 📍 **Location:** Olympia, WA
+### [Behavioral Health Case Manager](https://www.linkedin.com/jobs/view/4446673334/) — The Hartford
+- 📍 **Location:** Scottsdale, AZ
+- 💰 **Salary:** $74,800 - $112,200
 - 🕒 **Posted:** 2026-08-04
 
-### [Behavioral Health Supervisor](https://www.linkedin.com/jobs/view/4448692990/) — University of California, San Francisco
-- 📍 **Location:** San Francisco, CA
+### [Behavioral Health Case Manager](https://www.linkedin.com/jobs/view/4446667503/) — The Hartford
+- 📍 **Location:** Hartford, CT
+- 💰 **Salary:** $74,800 - $112,200
 - 🕒 **Posted:** 2026-08-04
 
-### [Care Coordinator](https://www.linkedin.com/jobs/view/4448692975/) — 360 Behavioral Health
-- 📍 **Location:** Palmdale, CA
-- 💰 **Salary:** $23.00–$25.00/hour
+### [Behavioral Health Case Manager](https://www.linkedin.com/jobs/view/4446660671/) — The Hartford
+- 📍 **Location:** San Antonio, TX
+- 💰 **Salary:** $74,800 - $112,200
 - 🕒 **Posted:** 2026-08-04
 
-### [Village Team Leader](https://www.linkedin.com/jobs/view/4446298193/) — Stand Childrens Services Tu Maia Whanau
-- 📍 **Location:** Whangarei, Northland, New Zealand
+### [Behavioral Health Case Manager](https://www.linkedin.com/jobs/view/4446673333/) — The Hartford
+- 📍 **Location:** Lake Mary, FL
+- 💰 **Salary:** $74,800 - $112,200
 - 🕒 **Posted:** 2026-08-04
 
-### [Clinical Social Worker Supervisor](https://www.linkedin.com/jobs/view/4447288582/) — University of California, San Francisco
-- 📍 **Location:** San Francisco, CA
+### [Didactic Program Coordinator for PA Program](https://www.linkedin.com/jobs/view/4448554114/) — Carroll College
+- 📍 **Location:** Helena, MT
 - 🕒 **Posted:** 2026-08-04
 
-### [Community Health Worker - Fulltime - Monday - Friday - Brooklyn ( Spanish or Mandarin Speaking)](https://www.linkedin.com/jobs/view/4446299273/) — NYU Langone Health
-- 📍 **Location:** Brooklyn, NY
-- 💰 **Salary:** $50,467.14 - $50,467.14 Annually
+### [Faculty Affairs Program Coordinator II](https://www.linkedin.com/jobs/view/4440310333/) — Texas A&M University
+- 📍 **Location:** Bryan, TX
 - 🕒 **Posted:** 2026-08-04
 
-### [Bilingual Assistant Behavioral Health Supervisor (English/Spanish)](https://www.linkedin.com/jobs/view/4441934165/) — Arlington County Government
-- 📍 **Location:** Arlington, VA
+### [Enforcement Program Coordinator](https://www.linkedin.com/jobs/view/4448541342/) — New York City Department of Consumer and Worker Protection
+- 📍 **Location:** New York City Metropolitan Area
+- 💰 **Salary:** $55,105.00/yr - $68,000.00/yr
 - 🕒 **Posted:** 2026-08-04
 
-### [Field Care Coordinator](https://www.linkedin.com/jobs/view/4448697917/) — Humana
-- 📍 **Location:** Delray Beach, FL
-- 💰 **Salary:** $53,700 - $72,600 per year
+### [NSD Education Specialist (5387)](https://www.linkedin.com/jobs/view/4449016304/) — Together for Youth
+- 📍 **Location:** Canaan, NY
 - 🕒 **Posted:** 2026-08-04
 
-### [Field Care Coordinator](https://www.linkedin.com/jobs/view/4448804771/) — Humana
-- 📍 **Location:** Boynton Beach, FL
-- 💰 **Salary:** $53,700 - $72,600 per year
+### [Substance Abuse Counselor (Co-Ed Unit) - Springfield, IL](https://www.linkedin.com/jobs/view/4448533458/) — Gateway Foundation
+- 📍 **Location:** Springfield, IL
+- 💰 **Salary:** $19.23 - $24.47 per hour
 - 🕒 **Posted:** 2026-08-04
 
-### [Field Care Coordinator](https://www.linkedin.com/jobs/view/4448816054/) — Humana
-- 📍 **Location:** Boca Raton, FL
-- 💰 **Salary:** $53,700 - $72,600 per year
+### [School Social Worker at Stambaugh Charter Academy](https://www.linkedin.com/jobs/view/4449009436/) — National Heritage Academies
+- 📍 **Location:** Youngstown, OH
 - 🕒 **Posted:** 2026-08-04
 
-### [Prevention Program Manager](https://www.linkedin.com/jobs/view/4446602239/) — DCCCA
-- 📍 **Location:** Lawrence, KS
+### [Medical Social Worker](https://www.linkedin.com/jobs/view/4448531585/) — Sutter Health
+- 📍 **Location:** Oakland, CA
+- 💰 **Salary:** $54.08 to $75.71
 - 🕒 **Posted:** 2026-08-04
 
-### [Program Coordinator - Alzheimer Research](https://www.linkedin.com/jobs/view/4448823089/) — Mayo Clinic
-- 📍 **Location:** Rochester, MN
-- 💰 **Salary:** $59,904-89,960 annually
+### [Substance Abuse Counselor](https://www.linkedin.com/jobs/view/4448535345/) — Behavioral Health Group - BHG
+- 📍 **Location:** Westerly, RI
 - 🕒 **Posted:** 2026-08-04
 
-### [Community Based Care Coordinator - Duals Integrated Care - R13373](https://www.linkedin.com/jobs/view/4448800909/) — CareSource
-- 📍 **Location:** Ohio, United States
-- 💰 **Salary:** $62,700.00 - $100,400.00
+### [Social Worker](https://www.linkedin.com/jobs/view/4448545367/) — TaraVista Behavioral Health Center
+- 📍 **Location:** Devens, MA
+- 💰 **Salary:** $65,000.00/yr - $83,000.00/yr
 - 🕒 **Posted:** 2026-08-04
 
-### [Field Care Coordinator](https://www.linkedin.com/jobs/view/4400494430/) — Humana
-- 📍 **Location:** Boynton Beach, FL
-- 💰 **Salary:** $53,700 - $72,600 per year
+### [Peer Support Specialist II](https://www.linkedin.com/jobs/view/4449012308/) — RI International
+- 📍 **Location:** Crutchfield, NC
 - 🕒 **Posted:** 2026-08-04
 
-### [Residential Supervisor](https://www.linkedin.com/jobs/view/4446606128/) — Sevita
-- 📍 **Location:** Louisville, KY
+### [Peer Support Specialist](https://www.linkedin.com/jobs/view/4449002719/) — Kansas Traffic Safety Resource Office
+- 📍 **Location:** Pratt, KS
 - 🕒 **Posted:** 2026-08-04
 
-### [Patient Access - Intake Specialist - Emergency Department](https://www.linkedin.com/jobs/view/4448809387/) — UNC Health
-- 📍 **Location:** Rocky Mount, NC
+### [Street Health ECM Care Coordinator](https://www.linkedin.com/jobs/view/4444234016/) — Father Joe's Villages
+- 📍 **Location:** San Diego, CA
+- 💰 **Salary:** $24.00/yr - $27.61/yr
 - 🕒 **Posted:** 2026-08-04
 
-### [Home Care Case Manager (Bilingual in Vietnamese & English)](https://www.linkedin.com/jobs/view/4446604160/) — Sunnycare Group
-- 📍 **Location:** Brisbane, Queensland, Australia
+### [Patient Care Coordinator](https://www.linkedin.com/jobs/view/4446673244/) — Beltone
+- 📍 **Location:** Saint Cloud Manor, FL
 - 🕒 **Posted:** 2026-08-04
 
-### [Substance Abuse Case Manager](https://www.linkedin.com/jobs/view/4448624652/) — Pinnacle Treatment Centers, Inc.
-- 📍 **Location:** Pittsburgh, PA
+### [Patient Care Coordinator](https://www.linkedin.com/jobs/view/4449001627/) — Emory Healthcare
+- 📍 **Location:** Atlanta, GA
 - 🕒 **Posted:** 2026-08-04
 
-### [Licensed Program Supervisor- Children's Targeted Case Management](https://www.linkedin.com/jobs/view/4448692968/) — People Incorporated Mental Health Services
-- 📍 **Location:** New Hope, MN
-- 💰 **Salary:** $78,000.00/yr - $88,000.00/yr
+### [Patient Care Coordinator](https://www.linkedin.com/jobs/view/4448893833/) — Emory Healthcare
+- 📍 **Location:** Atlanta, GA
 - 🕒 **Posted:** 2026-08-04
 
-### [Licensed Professional Mental Health Counselor (Program Manager) - Vet Center Director](https://www.linkedin.com/jobs/view/4444478185/) — U.S. Department of Veterans Affairs
-- 📍 **Location:** Tampa, FL
-- 💰 **Salary:** $106,437.00/yr - $138,370.00/yr
+### [Care Coordinator RN](https://www.linkedin.com/jobs/view/4428966114/) — Nexus Health Systems
+- 📍 **Location:** Houston, TX
 - 🕒 **Posted:** 2026-08-04
 
-### [Licensed Independent Social Worker-Lakeview](https://www.linkedin.com/jobs/view/4446600298/) — UnityPoint Health
-- 📍 **Location:** West Des Moines, IA
+### [Healthcare Coordinator - AI Trainer](https://www.linkedin.com/jobs/view/4309805056/) — DataAnnotation
+- 📍 **Location:** Hawaii, United States
+- 💰 **Salary:** $50-$100
 - 🕒 **Posted:** 2026-08-04
 
-### [NDIS Social Worker and Support Coordinator Contractor](https://www.linkedin.com/jobs/view/4446286317/) — Evina Connect Pty Ltd
-- 📍 **Location:** Adelaide, South Australia, Australia
-- 💰 **Salary:** $96-$106/hour
+### [Healthcare Coordinator - AI Trainer](https://www.linkedin.com/jobs/view/4309693708/) — DataAnnotation
+- 📍 **Location:** Washington, DC
+- 💰 **Salary:** $50-$100
 - 🕒 **Posted:** 2026-08-04
 
-### [Clinical Social Worker (Licensed or Associate) Spanish Bilingual](https://www.linkedin.com/jobs/view/4446291322/) — Lyon-Martin Community Health Services
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $38.93/hr - $49.17/hr
+### [Patient Care Coordinator – Part-Time](https://www.linkedin.com/jobs/view/4446672245/) — Beltone
+- 📍 **Location:** Kearney, NE
 - 🕒 **Posted:** 2026-08-04
 
-### [Supervisory Social Worker - Vet Center Director](https://www.linkedin.com/jobs/view/4444474339/) — U.S. Department of Veterans Affairs
-- 📍 **Location:** Tampa, FL
-- 💰 **Salary:** $116,520.00/yr - $151,478.00/yr
+### [Healthcare Coordinator - AI Trainer](https://www.linkedin.com/jobs/view/4309807017/) — DataAnnotation
+- 📍 **Location:** Nebraska, United States
+- 💰 **Salary:** $50-$100
+- 🕒 **Posted:** 2026-08-04
+
+### [Healthcare Coordinator - AI Trainer](https://www.linkedin.com/jobs/view/4309692775/) — DataAnnotation
+- 📍 **Location:** Oklahoma, United States
+- 💰 **Salary:** $50-$100
+- 🕒 **Posted:** 2026-08-04
+
+### [Healthcare Coordinator - AI Trainer](https://www.linkedin.com/jobs/view/4309806029/) — DataAnnotation
+- 📍 **Location:** Mississippi, United States
+- 💰 **Salary:** $50-$100
+- 🕒 **Posted:** 2026-08-04
+
+### [Behavioral Health Case Manager](https://www.linkedin.com/jobs/view/4446672334/) — The Hartford
+- 📍 **Location:** Alpharetta, GA
+- 💰 **Salary:** $74,800 - $112,200
+- 🕒 **Posted:** 2026-08-04
+
+### [LPN Care Coordinator](https://www.linkedin.com/jobs/view/4425279822/) — Monarch Healthcare Management
+- 📍 **Location:** Waseca, MN
+- 💰 **Salary:** $28.00/hr - $35.00/hr
+- 🕒 **Posted:** 2026-08-04
+
+### [Medical Case Manager](https://www.linkedin.com/jobs/view/4446919714/) — Ho-Chunk, Inc.
+- 📍 **Location:** Robins Air Force Base, GA
+- 🕒 **Posted:** 2026-08-04
+
+### [Child Welfare Supervisor](https://www.linkedin.com/jobs/view/4423178448/) — Lutheran Social Services of Illinois
+- 📍 **Location:** Marion, IL
+- 💰 **Salary:** $80,000-87,000/Annually
+- 🕒 **Posted:** 2026-08-04
+
+### [Case Manager - Non RN](https://www.linkedin.com/jobs/view/4448532587/) — MUSC Health
+- 📍 **Location:** Charleston, SC
+- 🕒 **Posted:** 2026-08-04
+
+### [Youth Program Supervisor](https://www.linkedin.com/jobs/view/4449013158/) — NYS Office for People With Developmental Disabilities
+- 📍 **Location:** Hauppauge, NY
+- 💰 **Salary:** $63,994.00/yr - $80,359.00/yr
+- 🕒 **Posted:** 2026-08-04
+
+### [Social Worker II](https://www.linkedin.com/jobs/view/4446667643/) — City of New York
+- 📍 **Location:** Queens, NY
+- 💰 **Salary:** $71,008.00 – $81,659.00
+- 🕒 **Posted:** 2026-08-04
+
+### [Family Support Worker](https://www.linkedin.com/jobs/view/4449003679/) — Kansas Traffic Safety Resource Office
+- 📍 **Location:** Mission, KS
+- 🕒 **Posted:** 2026-08-04
+
+### [Social Worker - DCT](https://www.linkedin.com/jobs/view/4449002607/) — Bath & North East Somerset Council
+- 📍 **Location:** Keynsham, England, United Kingdom
+- 🕒 **Posted:** 2026-08-04
+
+### [CASE MANAGEMENT SUPERVISOR](https://www.linkedin.com/jobs/view/4446661762/) — NYC Department of Social Services
+- 📍 **Location:** Manhattan, NY
+- 💰 **Salary:** $60,275.00 – $69,316.00
+- 🕒 **Posted:** 2026-08-04
+
+### [Care Coordinator MSW](https://www.linkedin.com/jobs/view/4449011069/) — Endeavor Health
+- 📍 **Location:** Evanston, IL
+- 💰 **Salary:** $30.46 - $45.69
 - 🕒 **Posted:** 2026-08-04
