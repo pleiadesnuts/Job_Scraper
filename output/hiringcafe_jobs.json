@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-04 05:05 UTC",
-  "total": 91,
-  "new_count": 2,
+  "scraped_at": "2026-08-04 18:29 UTC",
+  "total": 90,
+  "new_count": 0,
   "jobs": [
     {
       "company": "-",
@@ -494,20 +494,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Guardian Tax",
-      "title": "Case Manager",
-      "location": "Irvine, California, United States",
-      "url": "https://guardian-tax-network.breezy.hr/p/5f8f37a1f02a-case-manager",
-      "direct_url": "https://guardian-tax-network.breezy.hr/p/5f8f37a1f02a-case-manager",
-      "date_posted": "2026-07-22T18:50:44.359Z",
-      "description": "Minimum 6 months case management experience, strong communication, organization, ability to learn new systems, client-focused and coachable.",
-      "salary": "$46k–$50k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Ascension Recovery Services",
       "title": "Case Manager",
       "location": "Muncie, Indiana, United States",
@@ -516,6 +502,20 @@
       "date_posted": "2026-07-17T00:00:00.000Z",
       "description": "Provide case management, discharge planning, resource coordination, EHR documentation, and advocacy for clients with substance use and mental health needs.",
       "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Guardian Tax",
+      "title": "Case Manager",
+      "location": "Irvine, California, United States",
+      "url": "https://guardian-tax-network.breezy.hr/p/5f8f37a1f02a-case-manager",
+      "direct_url": "https://guardian-tax-network.breezy.hr/p/5f8f37a1f02a-case-manager",
+      "date_posted": "2026-07-22T18:50:44.359Z",
+      "description": "Minimum 6 months case management experience, strong communication, organization, ability to learn new systems, client-focused and coachable.",
+      "salary": "$46k–$50k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
@@ -662,20 +662,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Humana",
-      "title": "Program Coordinator",
-      "location": "Louisville, Kentucky, United States",
-      "url": "https://humana.wd5.myworkdayjobs.com/humana_external_career_site/job/Louisville-KY/Program-Coordinator_R-420566",
-      "direct_url": "https://humana.wd5.myworkdayjobs.com/humana_external_career_site/job/Louisville-KY/Program-Coordinator_R-420566",
-      "date_posted": "2026-08-03T00:00:00.000Z",
-      "description": "2+ years supporting PMO/program coordination with data analysis, financial tracking, ServiceNow/Jira Align experience, advanced Excel and PowerPoint, strong analytical and communication skills.",
-      "salary": "$71k–$98k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Associated",
       "title": "Program Coordinator",
       "location": "Baltimore, Maryland, United States",
@@ -684,6 +670,20 @@
       "date_posted": "2026-07-14T04:00:00.000Z",
       "description": "Experience coordinating programs, supervising staff, strong customer service, proficiency with CRM and Microsoft Office, ability to lift up to 25 lbs, and excellent communication and organizational skills.",
       "salary": "$43k–$48k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Humana",
+      "title": "Program Coordinator",
+      "location": "Louisville, Kentucky, United States",
+      "url": "https://humana.wd5.myworkdayjobs.com/humana_external_career_site/job/Louisville-KY/Program-Coordinator_R-420566",
+      "direct_url": "https://humana.wd5.myworkdayjobs.com/humana_external_career_site/job/Louisville-KY/Program-Coordinator_R-420566",
+      "date_posted": "2026-08-03T00:00:00.000Z",
+      "description": "2+ years supporting PMO/program coordination with data analysis, financial tracking, ServiceNow/Jira Align experience, advanced Excel and PowerPoint, strong analytical and communication skills.",
+      "salary": "$71k–$98k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
@@ -1012,20 +1012,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Overview",
-      "title": "Program Coordinator II",
-      "location": "Logan, Utah, United States",
-      "url": "https://careers-usu.icims.com/jobs/10495/program-coordinator-ii/job?in_iframe=1",
-      "direct_url": "https://careers-usu.icims.com/jobs/10495/program-coordinator-ii/job?in_iframe=1",
-      "date_posted": "2026-07-09T04:00:00.000Z",
-      "description": "Bachelor's in a related field plus 2 years' relevant experience (or equivalent); program coordination, student support, supervision, teaching 1-2 courses, grant writing and outreach experience preferred.",
-      "salary": "$53k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Sault Tribe",
       "title": "Health - Community Health Educator",
       "location": "Sault Ste. Marie, Michigan, United States",
@@ -1278,34 +1264,5 @@
       "ats": "HiringCafe"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Cxb",
-      "title": "Social Worker ",
-      "location": "New York, New York, United States",
-      "url": "https://jobs.dayforcehcm.com/en-US/cxb/candidateportal/jobs/21666",
-      "direct_url": "https://jobs.dayforcehcm.com/en-US/cxb/candidateportal/jobs/21666",
-      "date_posted": "2026-08-03T04:00:00.000Z",
-      "description": "NYS Licensed Masters Social Worker required; obtain 9.58 credential within 3 months; experience in crisis intervention, motivational interviewing, harm reduction, and documentation; strong communication and collaborative skills.",
-      "salary": "",
-      "job_type": "Part Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Overview",
-      "title": "Program Coordinator II",
-      "location": "Logan, Utah, United States",
-      "url": "https://careers-usu.icims.com/jobs/10495/program-coordinator-ii/job?in_iframe=1",
-      "direct_url": "https://careers-usu.icims.com/jobs/10495/program-coordinator-ii/job?in_iframe=1",
-      "date_posted": "2026-07-09T04:00:00.000Z",
-      "description": "Bachelor's in a related field plus 2 years' relevant experience (or equivalent); program coordination, student support, supervision, teaching 1-2 courses, grant writing and outreach experience preferred.",
-      "salary": "$53k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    }
-  ]
+  "new_jobs": []
 }
