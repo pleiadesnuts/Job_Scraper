@@ -1,354 +1,209 @@
 # 🔥 LinkedIn — Social Worker Roles
-*Last updated: 2026-08-04 21:02 UTC*
+*Last updated: 2026-08-04 22:38 UTC*
 
-**79 new role(s)** since last run · 79 total in last 1h
+**47 new role(s)** since last run · 47 total in last 1h
 
-### [Clinical Case Manager I/II - High Intensity Treatment Team](https://www.linkedin.com/jobs/view/4414660353/) — WellPower
-- 📍 **Location:** Denver, CO
-- 🕒 **Posted:** 2026-08-04
-
-### [Program Manager - Team 805](https://www.linkedin.com/jobs/view/4449043792/) — WellPower
-- 📍 **Location:** Denver, CO
-- 💰 **Salary:** $75,004.80 - $113,006.40 per year
-- 🕒 **Posted:** 2026-08-04
-
-### [Case Manager Behavioral Health (Remote) Pennsylvania](https://www.linkedin.com/jobs/view/4449033609/) — Highmark
+### [Case Manager, Rare Disease Patient Services-East](https://www.linkedin.com/jobs/view/4449074572/) — Kyowa Kirin, Inc.- U.S.
 - 📍 **Location:** United States
+- 💰 **Salary:** $95,000 to $118,000
 - 🕒 **Posted:** 2026-08-04
 
-### [Mental Health Clinical Supervisor](https://www.linkedin.com/jobs/view/4449040368/) — Hoffmann Center
-- 📍 **Location:** New Ulm, MN
+### [Nurse Case Manager, Colorado](https://www.linkedin.com/jobs/view/4446688834/) — argenx
+- 📍 **Location:** Denver, CO
 - 🕒 **Posted:** 2026-08-04
 
-### [Program Coordinator, Student Culture and Community](https://www.linkedin.com/jobs/view/4448571440/) — University of Nebraska-Lincoln
-- 📍 **Location:** Lincoln, Nebraska Metropolitan Area
+### [SUPERVISOR, EXTENDED LEARNING](https://www.linkedin.com/jobs/view/4446694696/) — Denver Public Schools
+- 📍 **Location:** Denver, CO
+- 💰 **Salary:** $56,505 to $67,805
 - 🕒 **Posted:** 2026-08-04
 
-### [Care Coordinator](https://www.linkedin.com/jobs/view/4409712974/) — Senior Services of Will County Inc.
-- 📍 **Location:** Romeoville, IL
+### [House Supervisor (Days)](https://www.linkedin.com/jobs/view/4446299074/) — AdventHealth
+- 📍 **Location:** Parker, CO
+- 💰 **Salary:** $42.40 - $78.86
 - 🕒 **Posted:** 2026-08-04
 
-### [HEALTH PROGRAM COORDINATOR](https://www.linkedin.com/jobs/view/4448578594/) — State of Arkansas
-- 📍 **Location:** Little Rock, AR
-- 💰 **Salary:** $57,351 - $84,879
+### [Dining Room Supervisor](https://www.linkedin.com/jobs/view/4449073842/) — Century Park Associates
+- 📍 **Location:** Cheyenne, WY
 - 🕒 **Posted:** 2026-08-04
 
-### [Scientific Program Coordinator](https://www.linkedin.com/jobs/view/4446695319/) — American College of Physicians
-- 📍 **Location:** Greater Philadelphia
+### [Behavioral Health Specialist full-time, part-time, SRU Float Pool (JR211346)](https://www.linkedin.com/jobs/view/4449085044/) — CCHMC Biomedical Research Technologies Masters Program
+- 📍 **Location:** Cincinnati, OH
 - 🕒 **Posted:** 2026-08-04
 
-### [Family Care Coordinator / Metro Atlanta, GA - $3,000 Sign-on-Bonus](https://www.linkedin.com/jobs/view/4446683779/) — LifeLink Foundation
-- 📍 **Location:** Norcross, GA
+### [Social Worker - Consult Liaison Program](https://www.linkedin.com/jobs/view/4434509846/) — Trinity Health MI
+- 📍 **Location:** Ann Arbor, MI
 - 🕒 **Posted:** 2026-08-04
 
-### [Training Coordinator - Holy Cross Medical Group](https://www.linkedin.com/jobs/view/4449044872/) — IHA
-- 📍 **Location:** Fort Lauderdale, FL
+### [Case Manager](https://www.linkedin.com/jobs/view/4449057953/) — Centerstone
+- 📍 **Location:** Bradenton, FL
 - 🕒 **Posted:** 2026-08-04
 
-### [School Social Worker/Adjustment Counselor - All Levels](https://www.linkedin.com/jobs/view/4449039837/) — Springfield Empowerment Zone Partnership
-- 📍 **Location:** Springfield, MA
+### [Case Manager](https://www.linkedin.com/jobs/view/4394203950/) — Bay Cove Human Services
+- 📍 **Location:** Cambridge, MA
 - 🕒 **Posted:** 2026-08-04
 
-### [Residence Life Community Case Manager](https://www.linkedin.com/jobs/view/4448565433/) — York University
-- 📍 **Location:** Toronto, Ontario, Canada
-- 💰 **Salary:** $92,231 - $100,127
+### [Peer Support Specialist](https://www.linkedin.com/jobs/view/4449054857/) — Paradise Valley Hospital
+- 📍 **Location:** Chula Vista, CA
+- 💰 **Salary:** $23.00 to $26.22
 - 🕒 **Posted:** 2026-08-04
 
-### [SOCIAL WORKER, MENTAL HEALTH SUBSTANCE SPECIAL OUTREACH](https://www.linkedin.com/jobs/view/4449053126/) — Northern Health - BC
-- 📍 **Location:** Dawson Creek, British Columbia, Canada
+### [Case Manager](https://www.linkedin.com/jobs/view/4447305257/) — Vynca
+- 📍 **Location:** Eureka, CA
 - 🕒 **Posted:** 2026-08-04
 
-### [Substance Abuse Counselor](https://www.linkedin.com/jobs/view/4449052735/) — New Season
-- 📍 **Location:** San Antonio, TX
+### [Program Coordinator, QIDP](https://www.linkedin.com/jobs/view/4448565986/) — Envision Unlimited
+- 📍 **Location:** Chicago, IL
 - 🕒 **Posted:** 2026-08-04
 
-### [Substance Abuse Counselor (Master's Degree Required)](https://www.linkedin.com/jobs/view/4449061267/) — New Season
-- 📍 **Location:** Birmingham, AL
+### [Program Coordinator](https://www.linkedin.com/jobs/view/4449078044/) — Howard University
+- 📍 **Location:** Washington DC-Baltimore Area
+- 💰 **Salary:** $55,000-$65,000
 - 🕒 **Posted:** 2026-08-04
 
-### [Social Worker II MSW](https://www.linkedin.com/jobs/view/4448572584/) — MUSC Children's Health
-- 📍 **Location:** North Charleston, SC
+### [Care Coordinator](https://www.linkedin.com/jobs/view/4448577945/) — Bay Cove Human Services
+- 📍 **Location:** Somerville, MA
 - 🕒 **Posted:** 2026-08-04
 
-### [Behavioral Health Specialist MRSS Fairfield County Full Time 8am-8pm](https://www.linkedin.com/jobs/view/4448573412/) — OhioGuidestone
-- 📍 **Location:** Lancaster, OH
+### [Medical Case Manager I - The Project](https://www.linkedin.com/jobs/view/4448587255/) — Primary Health Care, Inc (PHC)
+- 📍 **Location:** Des Moines, IA
+- 💰 **Salary:** $18.65/hr - $27.98/hr
 - 🕒 **Posted:** 2026-08-04
 
-### [Bilingual Housing Case Manager](https://www.linkedin.com/jobs/view/4449029989/) — Victory Programs
-- 📍 **Location:** Boston, MA
+### [Community Health Worker - Cradle (JR218494)](https://www.linkedin.com/jobs/view/4449085033/) — CCHMC Biomedical Research Technologies Masters Program
+- 📍 **Location:** Cincinnati, OH
 - 🕒 **Posted:** 2026-08-04
 
-### [Community Health Worker](https://www.linkedin.com/jobs/view/4449039885/) — Community Health Partnership of Illinois (CHP)
-- 📍 **Location:** Kankakee, IL
+### [Youth Counselor](https://www.linkedin.com/jobs/view/4446288218/) — Heartshare
+- 📍 **Location:** Staten Island, NY
 - 🕒 **Posted:** 2026-08-04
 
-### [Community Health Worker](https://www.linkedin.com/jobs/view/4449034959/) — Community Health Partnership of Illinois (CHP)
-- 📍 **Location:** Harvard, IL
+### [Social Worker (Police)](https://www.linkedin.com/jobs/view/4444084299/) — Village of Schaumburg
+- 📍 **Location:** Schaumburg, IL
+- 💰 **Salary:** $95,822.00/yr - $106,602.00/yr
 - 🕒 **Posted:** 2026-08-04
 
-### [Community Health Worker](https://www.linkedin.com/jobs/view/4446683748/) — Elderwood
-- 📍 **Location:** Monroe County, NY
+### [Case Manager](https://www.linkedin.com/jobs/view/4449063953/) — Safe Harbor
+- 📍 **Location:** Henrico, VA
+- 💰 **Salary:** $47,000 – $52,000
 - 🕒 **Posted:** 2026-08-04
 
-### [Housing Case Manager -Supportive YHDP](https://www.linkedin.com/jobs/view/4449052750/) — Spring Branch Community Health Center
-- 📍 **Location:** Houston, TX
+### [Community Health Worker, Full Time, Day Shift](https://www.linkedin.com/jobs/view/4448591006/) — Adventist Health
+- 📍 **Location:** Willits, CA
+- 💰 **Salary:** $25.00 to $30.01
 - 🕒 **Posted:** 2026-08-04
 
-### [Case Manager](https://www.linkedin.com/jobs/view/4444722614/) — The Fedcap Group
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $23.08-$24.04/hr
+### [Care Coordinator, India](https://www.linkedin.com/jobs/view/4449066675/) — Wellthy
+- 📍 **Location:** Hyderabad, Telangana, India
 - 🕒 **Posted:** 2026-08-04
 
-### [Adult Case Manager](https://www.linkedin.com/jobs/view/4448561835/) — Jewish Family & Children's Service of Arizona
+### [Program Coordinator](https://www.linkedin.com/jobs/view/4448561992/) — Public Allies Arizona
 - 📍 **Location:** Phoenix, AZ
-- 💰 **Salary:** $22.00/hr - $22.50/hr
 - 🕒 **Posted:** 2026-08-04
 
-### [Peer Support Specialist - Two Positions](https://www.linkedin.com/jobs/view/4449069259/) — Anne Arundel County Sheriff's Office
-- 📍 **Location:** Jackson, MI
+### [Program Coordinator](https://www.linkedin.com/jobs/view/4448594053/) — Kidvento Education and Research
+- 📍 **Location:** Michigan, United States
 - 🕒 **Posted:** 2026-08-04
 
-### [Peer Support Specialist - JRDC, ORCC](https://www.linkedin.com/jobs/view/4449068288/) — Anne Arundel County Sheriff's Office
-- 📍 **Location:** Jackson, MI
+### [Program Coordinator - Somers](https://www.linkedin.com/jobs/view/4449055771/) — Partners For Community
+- 📍 **Location:** Somers, CT
 - 🕒 **Posted:** 2026-08-04
 
-### [Peer Support Specialist](https://www.linkedin.com/jobs/view/4449050996/) — Anne Arundel County Sheriff's Office
-- 📍 **Location:** Jackson, MI
-- 🕒 **Posted:** 2026-08-04
-
-### [Family Coach, Peer Support Specialist](https://www.linkedin.com/jobs/view/4449060376/) — Anne Arundel County Sheriff's Office
-- 📍 **Location:** Jackson, MI
-- 🕒 **Posted:** 2026-08-04
-
-### [Peer Support Specialist, Outreach](https://www.linkedin.com/jobs/view/4449051910/) — Anne Arundel County Sheriff's Office
-- 📍 **Location:** Jackson, MI
-- 🕒 **Posted:** 2026-08-04
-
-### [Part-time Certified Peer Support Specialist - COMCARE](https://www.linkedin.com/jobs/view/4448562389/) — Sedgwick County Sheriff's Office
-- 📍 **Location:** Wichita, KS
-- 🕒 **Posted:** 2026-08-04
-
-### [Peer Support Specialist FT](https://www.linkedin.com/jobs/view/4449056054/) — Highland Hospital
-- 📍 **Location:** Charleston, WV
-- 🕒 **Posted:** 2026-08-04
-
-### [Patient Care Coordinator](https://www.linkedin.com/jobs/view/4448566319/) — RemoteHunter
-- 📍 **Location:** United States
-- 🕒 **Posted:** 2026-08-04
-
-### [Patient Care Coordinator](https://www.linkedin.com/jobs/view/4449035472/) — Specialty1 Partners
+### [Program Coordinator, Residential Programs](https://www.linkedin.com/jobs/view/4449054937/) — The Sustainable Business Network of Greater Philadelphia
 - 📍 **Location:** Philadelphia, PA
-- 💰 **Salary:** $21 - $23 USD
+- 💰 **Salary:** $55,000 to $65,000
 - 🕒 **Posted:** 2026-08-04
 
-### [Patient Care Coordinator](https://www.linkedin.com/jobs/view/4449048888/) — Shady Grove Fertility
+### [Transitional Program Coordinator -](https://www.linkedin.com/jobs/view/4449059618/) — Partners For Community
+- 📍 **Location:** Wilton Center, CT
+- 🕒 **Posted:** 2026-08-04
+
+### [Care Coordinator](https://www.linkedin.com/jobs/view/4447300453/) — CCIHSS
+- 📍 **Location:** San Diego, CA
+- 🕒 **Posted:** 2026-08-04
+
+### [Patient Care Coordinator](https://www.linkedin.com/jobs/view/4449067441/) — US Fertility
 - 📍 **Location:** Columbia, MD
 - 💰 **Salary:** $22 to $25 per hour
 - 🕒 **Posted:** 2026-08-04
 
-### [Care Coordinator - can be RN, LPN or MSW](https://www.linkedin.com/jobs/view/4449047920/) — eQHealth Solutions
-- 📍 **Location:** Miami, FL
+### [Patient Care Coordinator](https://www.linkedin.com/jobs/view/4449070787/) — University Cancer & Blood Center
+- 📍 **Location:** Covington, GA
 - 🕒 **Posted:** 2026-08-04
 
-### [Community Health Worker](https://www.linkedin.com/jobs/view/4449039881/) — Community Health Partnership of Illinois (CHP)
-- 📍 **Location:** Champaign, IL
+### [Mental Health Virtual Receptionist & Patient Care Coordinator](https://www.linkedin.com/jobs/view/4449075518/) — Winning Assistants LLC
+- 📍 **Location:** Philippines
+- 💰 **Salary:** $10,400.00/yr - $12,480.00/yr
 - 🕒 **Posted:** 2026-08-04
 
-### [Literacy Program Coordinator, Alpha - $120,000/year USD](https://www.linkedin.com/jobs/view/4448573591/) — Crossover
-- 📍 **Location:** Malibu, CA
-- 💰 **Salary:** $60.00/hr - $60.00/hr
+### [Home Care Coordinator](https://www.linkedin.com/jobs/view/4447305224/) — Capital Health Care Network
+- 📍 **Location:** Dublin, OH
 - 🕒 **Posted:** 2026-08-04
 
-### [Literacy Program Coordinator, Alpha - $120,000/year USD](https://www.linkedin.com/jobs/view/4448555970/) — Crossover
-- 📍 **Location:** Boston, MA
-- 💰 **Salary:** $60.00/hr - $60.00/hr
+### [Care Coordinator](https://www.linkedin.com/jobs/view/4448566868/) — Macon County Health Department
+- 📍 **Location:** Decatur, IL
 - 🕒 **Posted:** 2026-08-04
 
-### [Literacy Program Coordinator, Alpha - $120,000/year USD](https://www.linkedin.com/jobs/view/4448568639/) — Crossover
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $60.00/hr - $60.00/hr
-- 🕒 **Posted:** 2026-08-04
-
-### [Reading Program Coordinator, Alpha - $100,000/year USD](https://www.linkedin.com/jobs/view/4448564708/) — Crossover
-- 📍 **Location:** Tulsa, OK
-- 💰 **Salary:** $50.00/hr - $50.00/hr
-- 🕒 **Posted:** 2026-08-04
-
-### [Literacy Program Coordinator, Alpha - $100,000/year USD](https://www.linkedin.com/jobs/view/4448566651/) — Crossover
-- 📍 **Location:** Tulsa, OK
-- 💰 **Salary:** $50.00/hr - $50.00/hr
-- 🕒 **Posted:** 2026-08-04
-
-### [Literacy Program Coordinator, Alpha - $100,000/year USD](https://www.linkedin.com/jobs/view/4448562673/) — Crossover
-- 📍 **Location:** Oklahoma City, OK
-- 💰 **Salary:** $50.00/hr - $50.00/hr
-- 🕒 **Posted:** 2026-08-04
-
-### [Reading Program Coordinator, Alpha - $120,000/year USD](https://www.linkedin.com/jobs/view/4448580014/) — Crossover
-- 📍 **Location:** Seattle, WA
-- 💰 **Salary:** $60.00/hr - $60.00/hr
-- 🕒 **Posted:** 2026-08-04
-
-### [Reading Program Coordinator, Alpha - $120,000/year USD](https://www.linkedin.com/jobs/view/4448561733/) — Crossover
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $60.00/hr - $60.00/hr
-- 🕒 **Posted:** 2026-08-04
-
-### [Reading Program Coordinator, Alpha - $120,000/year USD](https://www.linkedin.com/jobs/view/4448572669/) — Crossover
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $60.00/hr - $60.00/hr
-- 🕒 **Posted:** 2026-08-04
-
-### [Reading Program Coordinator, Alpha - $120,000/year USD](https://www.linkedin.com/jobs/view/4448566666/) — Crossover
-- 📍 **Location:** Boston, MA
-- 💰 **Salary:** $60.00/hr - $60.00/hr
-- 🕒 **Posted:** 2026-08-04
-
-### [Bilingual Care Coordinator, Regular Full-Time, Montfort Hospital](https://www.linkedin.com/jobs/view/4445232599/) — Ontario Health atHome
-- 📍 **Location:** Ottawa, Ontario, Canada
-- 🕒 **Posted:** 2026-08-04
-
-### [Patient Care Coordinator](https://www.linkedin.com/jobs/view/4449040134/) — BenchMark Physical Therapy
-- 📍 **Location:** Hillsboro, OR
-- 🕒 **Posted:** 2026-08-04
-
-### [Managed Care Coordinator](https://www.linkedin.com/jobs/view/4449043144/) — MJHS
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $38,545.00/yr - $48,181.00/yr
-- 🕒 **Posted:** 2026-08-04
-
-### [Veterinary Receptionist (Care Coordinator) - Shane Veterinary Medical Center](https://www.linkedin.com/jobs/view/4449054395/) — PetVet Care Centers
-- 📍 **Location:** Marina del Rey, CA
-- 💰 **Salary:** $18.47—$20 USD
-- 🕒 **Posted:** 2026-08-04
-
-### [Care Coordinator](https://www.linkedin.com/jobs/view/4449044514/) — Gastro Health
-- 📍 **Location:** Miami, FL
-- 🕒 **Posted:** 2026-08-04
-
-### [DD Case Manager - Michel P Waiver](https://www.linkedin.com/jobs/view/4446698186/) — Seven Counties Services
-- 📍 **Location:** Louisville, KY
-- 🕒 **Posted:** 2026-08-04
-
-### [Clinical Case Manager (CMA/RMA or LPN) - Transitions of Care](https://www.linkedin.com/jobs/view/4446689564/) — Full Circle Health
-- 📍 **Location:** Boise, ID
-- 🕒 **Posted:** 2026-08-04
-
-### [CLINICAL CARE COORDINATOR: Cross Sectional Interventional Radiology (CSIR)](https://www.linkedin.com/jobs/view/4448399968/) — Michigan Medicine
-- 📍 **Location:** Ann Arbor, MI
-- 💰 **Salary:** $89,648.00/yr - $142,126.00/yr
-- 🕒 **Posted:** 2026-08-04
-
-### [Social Worker](https://www.linkedin.com/jobs/view/4446687510/) — Elderwood
-- 📍 **Location:** Cheektowaga, NY
-- 🕒 **Posted:** 2026-08-04
-
-### [Emergency Financial Assistance Case Manager](https://www.linkedin.com/jobs/view/4446697213/) — Catholic Charities Jacksonville
-- 📍 **Location:** Jacksonville, FL
-- 💰 **Salary:** $21 to $23
-- 🕒 **Posted:** 2026-08-04
-
-### [Social Worker - Preparing for Adulthood Team (Adult Social Care)](https://www.linkedin.com/jobs/view/4449072128/) — Wokingham Borough Council
-- 📍 **Location:** Wokingham, England, United Kingdom
-- 🕒 **Posted:** 2026-08-04
-
-### [Youth Development Specialist, Alpha - $100,000/year USD](https://www.linkedin.com/jobs/view/4448558779/) — Crossover
-- 📍 **Location:** Brownsville, TX
-- 💰 **Salary:** $50.00/hr - $50.00/hr
-- 🕒 **Posted:** 2026-08-04
-
-### [Youth Development Specialist, Alpha - $100,000/year USD](https://www.linkedin.com/jobs/view/4448558782/) — Crossover
-- 📍 **Location:** Oklahoma City, OK
-- 💰 **Salary:** $50.00/hr - $50.00/hr
-- 🕒 **Posted:** 2026-08-04
-
-### [Youth Development Specialist, Alpha - $150,000/year USD](https://www.linkedin.com/jobs/view/4448555978/) — Crossover
-- 📍 **Location:** Austin, TX
-- 💰 **Salary:** $75.00/hr - $75.00/hr
-- 🕒 **Posted:** 2026-08-04
-
-### [Youth Development Specialist, Alpha - $100,000/year USD](https://www.linkedin.com/jobs/view/4448560689/) — Crossover
-- 📍 **Location:** New Jersey, United States
-- 💰 **Salary:** $50.00/hr - $50.00/hr
-- 🕒 **Posted:** 2026-08-04
-
-### [Youth Development Specialist, Alpha - $100,000/year USD](https://www.linkedin.com/jobs/view/4448559800/) — Crossover
-- 📍 **Location:** Alexandria, VA
-- 💰 **Salary:** $50.00/hr - $50.00/hr
-- 🕒 **Posted:** 2026-08-04
-
-### [Youth Development Specialist, Alpha - $150,000/year USD](https://www.linkedin.com/jobs/view/4448564693/) — Crossover
-- 📍 **Location:** Dallas, TX
-- 💰 **Salary:** $75.00/hr - $75.00/hr
-- 🕒 **Posted:** 2026-08-04
-
-### [Youth Development Specialist, Alpha - $120,000/year USD](https://www.linkedin.com/jobs/view/4448574612/) — Crossover
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $60.00/hr - $60.00/hr
-- 🕒 **Posted:** 2026-08-04
-
-### [Youth Development Specialist, Alpha - $100,000/year USD](https://www.linkedin.com/jobs/view/4448559798/) — Crossover
+### [Supported Housing Care Coordinator](https://www.linkedin.com/jobs/view/4449069596/) — CarePath Behavioral Health
 - 📍 **Location:** Baltimore, MD
-- 💰 **Salary:** $50.00/hr - $50.00/hr
 - 🕒 **Posted:** 2026-08-04
 
-### [Youth Development Specialist, Alpha - $100,000/year USD](https://www.linkedin.com/jobs/view/4448580007/) — Crossover
-- 📍 **Location:** Houston, TX
-- 💰 **Salary:** $50.00/hr - $50.00/hr
+### [Admissions Care Coordinator I](https://www.linkedin.com/jobs/view/4449074555/) — Pinnacle Treatment Centers, Inc.
+- 📍 **Location:** Mt. Laurel, NJ
 - 🕒 **Posted:** 2026-08-04
 
-### [Youth Development Specialist, Alpha - $120,000/year USD](https://www.linkedin.com/jobs/view/4448570580/) — Crossover
+### [QIDP Case Manager](https://www.linkedin.com/jobs/view/4448578911/) — Envision Unlimited
+- 📍 **Location:** Chicago, IL
+- 🕒 **Posted:** 2026-08-04
+
+### [Case Manager - Temporary (Up to 15 Months)](https://www.linkedin.com/jobs/view/4449056975/) — City of Kingston
+- 📍 **Location:** Kingston, Ontario, Canada
+- 💰 **Salary:** $32.36/hr - CA$40.33/hr
+- 🕒 **Posted:** 2026-08-04
+
+### [Case Manager](https://www.linkedin.com/jobs/view/4448589155/) — Aspiranet
+- 📍 **Location:** Bakersfield, CA
+- 💰 **Salary:** $ 23.00 - $24.00/Hour
+- 🕒 **Posted:** 2026-08-04
+
+### [Case Manager Employment Consultant](https://www.linkedin.com/jobs/view/4446397246/) — YMCA of Greater Toronto
+- 📍 **Location:** Mississauga, Ontario, Canada
+- 🕒 **Posted:** 2026-08-04
+
+### [Case Manager Employment Consultant](https://www.linkedin.com/jobs/view/4446391508/) — YMCA of Greater Toronto
+- 📍 **Location:** Brampton, Ontario, Canada
+- 🕒 **Posted:** 2026-08-04
+
+### [Behavioral Healthcare Provider Supervisor 1 (Richland Correctional Institution) - PN 20090982](https://www.linkedin.com/jobs/view/4446663401/) — Ohio Department of Behavioral Health
+- 📍 **Location:** Mansfield, OH
+- 🕒 **Posted:** 2026-08-04
+
+### [Integrated Care Social Worker](https://www.linkedin.com/jobs/view/4446688908/) — CenterWell Senior Primary Care
 - 📍 **Location:** Orlando, FL
-- 💰 **Salary:** $60.00/hr - $60.00/hr
+- 💰 **Salary:** $65,000.00/yr - $88,600.00/yr
 - 🕒 **Posted:** 2026-08-04
 
-### [Case Manager](https://www.linkedin.com/jobs/view/4449053318/) — Alcohol And Drug Information Center Alcoholism
-- 📍 **Location:** California, United States
+### [Family Support Worker](https://www.linkedin.com/jobs/view/4449056936/) — Nottinghamshire County Council
+- 📍 **Location:** Nottinghamshire, England, United Kingdom
 - 🕒 **Posted:** 2026-08-04
 
-### [TEAM LEADER](https://www.linkedin.com/jobs/view/4392960655/) — Buckelew Programs Inc
-- 📍 **Location:** San Rafael, CA
+### [Team Leader - Internal only](https://www.linkedin.com/jobs/view/4447300412/) — North Northamptonshire Council
+- 📍 **Location:** Northamptonshire, England, United Kingdom
 - 🕒 **Posted:** 2026-08-04
 
-### [Child Welfare Worker](https://www.linkedin.com/jobs/view/4448571462/) — Kenora-Rainy River Districts Child and Family Services
-- 📍 **Location:** Kenora, Ontario, Canada
+### [Clinical Counselor (LPCC) or Social Worker (LISW), Outpatient Psychiatry (JR223620)](https://www.linkedin.com/jobs/view/4449069961/) — CCHMC Biomedical Research Technologies Masters Program
+- 📍 **Location:** Cincinnati, OH
 - 🕒 **Posted:** 2026-08-04
 
-### [Family Help Social Worker, Children's Services](https://www.linkedin.com/jobs/view/4449073063/) — Wokingham Borough Council
-- 📍 **Location:** Wokingham, England, United Kingdom
+### [Licensed Master Social Worker (NY HELPS)](https://www.linkedin.com/jobs/view/4449087026/) — NYS Office of Children and Family Services
+- 📍 **Location:** Claverack, NY
+- 💰 **Salary:** $74,193.00/yr - $94,121.00/yr
 - 🕒 **Posted:** 2026-08-04
 
-### [Patient Transport Supervisor](https://www.linkedin.com/jobs/view/4448573382/) — Ascension
-- 📍 **Location:** Tulsa, OK
+### [Social Worker - Adult Protection Clinical Lead](https://www.linkedin.com/jobs/view/4448588121/) — Vancouver Coastal Health
+- 📍 **Location:** Richmond, British Columbia, Canada
+- 💰 **Salary:** $50.19/hr - CA$62.69/hr
 - 🕒 **Posted:** 2026-08-04
 
-### [School Social Worker - (2026/2027)](https://www.linkedin.com/jobs/view/4446671982/) — San Marcos Unified School District
-- 📍 **Location:** San Marcos, Ancash, Peru
-- 🕒 **Posted:** 2026-08-04
-
-### [Hospice Medical Social Worker](https://www.linkedin.com/jobs/view/4449053311/) — The Highlands At Wyomissing
-- 📍 **Location:** Reading, PA
-- 🕒 **Posted:** 2026-08-04
-
-### [Social Worker (SW)](https://www.linkedin.com/jobs/view/4449037797/) — VITAS Healthcare
-- 📍 **Location:** San Jose, CA
-- 💰 **Salary:** $90000 - $120000
-- 🕒 **Posted:** 2026-08-04
-
-### [Acute Social Worker-LICSW](https://www.linkedin.com/jobs/view/4448568490/) — Fairview Health Services
-- 📍 **Location:** Minneapolis, MN
-- 🕒 **Posted:** 2026-08-04
-
-### [Social Worker](https://www.linkedin.com/jobs/view/4443215411/) — VITAS Healthcare
-- 📍 **Location:** Fort Worth, TX
-- 💰 **Salary:** $28 - $33
-- 🕒 **Posted:** 2026-08-04
-
-### [Case Manager](https://www.linkedin.com/jobs/view/4449060383/) — Merakey
-- 📍 **Location:** Wilkes-Barre, PA
-- 🕒 **Posted:** 2026-08-04
-
-### [Social Worker Hospice Full-time](https://www.linkedin.com/jobs/view/4443213451/) — VITAS Healthcare
-- 📍 **Location:** San Antonio, TX
-- 💰 **Salary:** $60,230 - $69,830
+### [Social Worker I/A&T - Department of Social Services](https://www.linkedin.com/jobs/view/4446694636/) — Beaufort County NC Economic Development
+- 📍 **Location:** Dharavi, Maharashtra, India
 - 🕒 **Posted:** 2026-08-04
