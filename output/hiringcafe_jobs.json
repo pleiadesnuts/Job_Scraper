@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-04 22:06 UTC",
-  "total": 93,
-  "new_count": 3,
+  "scraped_at": "2026-08-04 23:57 UTC",
+  "total": 94,
+  "new_count": 1,
   "jobs": [
     {
       "company": "-",
@@ -116,13 +116,13 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Riverview Health & Rehab Center - Jefferson",
+      "company": "RIVERVIEW HEALTH GROUP",
       "title": "Social Worker",
       "location": "Detroit, Michigan, United States",
-      "url": "https://www.paycomonline.net/v4/ats/web.php/jobs/ViewJobDetails?job=174605&clientkey=5E4FC8C819F2A5B62D672E294B1353BB",
-      "direct_url": "https://www.paycomonline.net/v4/ats/web.php/jobs/ViewJobDetails?job=174605&clientkey=5E4FC8C819F2A5B62D672E294B1353BB",
+      "url": "https://www.paycomonline.net/v4/ats/web.php/jobs/ViewJobDetails?job=174605&clientkey=674C5E6E9D5651D6FB1EC4FD60A322D9",
+      "direct_url": "https://www.paycomonline.net/v4/ats/web.php/jobs/ViewJobDetails?job=174605&clientkey=674C5E6E9D5651D6FB1EC4FD60A322D9",
       "date_posted": "2026-07-23T00:00:00.000Z",
-      "description": "Bachelor's in Social Work required (MSW preferred), 1 year supervised social work in long-term or sub-acute care, Michigan social worker license, knowledge of regulations, computer proficiency, strong communication and analytical skills.",
+      "description": "Licensed social worker in Michigan with bachelor\\u0002s in social work (master\\u0002s preferred), 1 year supervised social work experience in long-term/sub-acute care, knowledge of regulations, strong communication and assessment skills.",
       "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
@@ -550,6 +550,20 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "Pascack Valley Medical Center",
+      "title": "Case Manager / RN",
+      "location": "Westwood, New Jersey, United States",
+      "url": "https://jobs.ardenthealth.com/jobs/138395?lang=en-us",
+      "direct_url": "https://jobs.ardenthealth.com/jobs/138395?lang=en-us",
+      "date_posted": "2026-07-29T18:26:49.000Z",
+      "description": "RN with an associate degree or higher; case management experience in acute hospital settings preferred; certification in case management (ACM or CCM) preferred.",
+      "salary": "$82k–$106k/yr",
+      "job_type": "Part Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
       "company": "YMCA of Greater Cincinnati",
       "title": "Program Coordinator",
       "location": "Hillsboro, Ohio, United States",
@@ -732,6 +746,20 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "University Health - San Antonio",
+      "title": "Program Coordinator",
+      "location": "San Antonio, Texas, United States",
+      "url": "https://pm.healthcaresource.com/CS/universityhealthsystem/#/job/60589",
+      "direct_url": "https://pm.healthcaresource.com/CS/universityhealthsystem/#/job/60589",
+      "date_posted": "2026-07-07T00:00:00.000Z",
+      "description": "Bachelor's in public health/related and minimum 3 years research/project coordination or grant experience; program administration, evaluation, financial management, public speaking; English/Spanish fluency desired.",
+      "salary": "$41k–$62k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
       "company": "Texas Tech University Health Sciences Center",
       "title": "Program Coordinator",
       "location": "Texas, United States",
@@ -754,20 +782,6 @@
       "date_posted": "2026-08-04T00:00:00.000Z",
       "description": "Coordinate and support early childhood literacy programs, communicate with families and schools, assist with events and grant reporting, must have valid Nevada driver license/insurance and be proficient in Microsoft 365.",
       "salary": "$42k–$46k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "University Health - San Antonio",
-      "title": "Program Coordinator",
-      "location": "San Antonio, Texas, United States",
-      "url": "https://pm.healthcaresource.com/CS/universityhealthsystem/#/job/60589",
-      "direct_url": "https://pm.healthcaresource.com/CS/universityhealthsystem/#/job/60589",
-      "date_posted": "2026-07-07T00:00:00.000Z",
-      "description": "Bachelor's in public health/related and minimum 3 years research/project coordination or grant experience; program administration, evaluation, financial management, public speaking; English/Spanish fluency desired.",
-      "salary": "$41k–$62k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
@@ -998,20 +1012,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "City of Pharr",
-      "title": "Program Coordinator - HCRMA",
-      "location": "Pharr, Texas, United States",
-      "url": "https://pharrtx.applicantpro.com/jobs/4152982",
-      "direct_url": "https://pharrtx.applicantpro.com/jobs/4152982",
-      "date_posted": "2026-07-20T00:00:00.000Z",
-      "description": "Coordinate program activities, vendors, contracts and prepare desktop-published materials; must hold TxDOT Local Government Project Procedures certification and be bilingual English/Spanish.",
-      "salary": "$60k–$80k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "UnidosUS",
       "title": "Program Coordinator, Health",
       "location": "Washington, District of Columbia, United States",
@@ -1023,6 +1023,20 @@
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "Telecommute eligible",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "City of Pharr",
+      "title": "Program Coordinator - HCRMA",
+      "location": "Pharr, Texas, United States",
+      "url": "https://pharrtx.applicantpro.com/jobs/4152982",
+      "direct_url": "https://pharrtx.applicantpro.com/jobs/4152982",
+      "date_posted": "2026-07-20T00:00:00.000Z",
+      "description": "Coordinate program activities, vendors, contracts and prepare desktop-published materials; must hold TxDOT Local Government Project Procedures certification and be bilingual English/Spanish.",
+      "salary": "$60k–$80k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
       "ats": "HiringCafe"
     },
     {
@@ -1208,20 +1222,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Evergreen Nephrology",
-      "title": "Community Health Worker",
-      "location": "United States",
-      "url": "https://job-boards.greenhouse.io/evergreennephrology/jobs/4719117005",
-      "direct_url": "https://job-boards.greenhouse.io/evergreennephrology/jobs/4719117005",
-      "date_posted": "2026-07-28T15:47:05.000Z",
-      "description": "Active CHW certification, 3+ years care coordination/community health experience, team-based care experience, strong communication, MS Office (Outlook, Teams) skills, ability to work remotely with reliable internet; bilingual Spanish/English preferred.",
-      "salary": "$46k–$52k/yr",
-      "job_type": "Full Time",
-      "is_remote": true,
-      "work_arrangement": "Remote in-state eligible",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Parklandhospital",
       "title": "Community Health Worker",
       "location": "Dallas, Texas, United States",
@@ -1233,6 +1233,20 @@
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Evergreen Nephrology",
+      "title": "Community Health Worker",
+      "location": "United States",
+      "url": "https://job-boards.greenhouse.io/evergreennephrology/jobs/4719117005",
+      "direct_url": "https://job-boards.greenhouse.io/evergreennephrology/jobs/4719117005",
+      "date_posted": "2026-07-28T15:47:05.000Z",
+      "description": "Active CHW certification, 3+ years care coordination/community health experience, team-based care experience, strong communication, MS Office (Outlook, Teams) skills, ability to work remotely with reliable internet; bilingual Spanish/English preferred.",
+      "salary": "$46k–$52k/yr",
+      "job_type": "Full Time",
+      "is_remote": true,
+      "work_arrangement": "Remote in-state eligible",
       "ats": "HiringCafe"
     },
     {
@@ -1308,42 +1322,14 @@
   ],
   "new_jobs": [
     {
-      "company": "Bright Harbor Healthcare",
-      "title": "Case Manager",
-      "location": "Bayville or Toms River or Berkeley Township",
-      "url": "https://jobs.workable.com/view/3sC5obz5y2LBfjtW2et3tn/case-manager-in-bayville-at-bright-harbor-healthcare",
-      "direct_url": "https://jobs.workable.com/view/3sC5obz5y2LBfjtW2et3tn/case-manager-in-bayville-at-bright-harbor-healthcare",
-      "date_posted": "2026-08-04T15:48:15.271Z",
-      "description": "Bachelor's in a related healthcare field, proven case management experience, knowledge of case management and behavioral health, strong communication and documentation skills.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Spread the Word Nevada",
-      "title": "Program Coordinator",
-      "location": "Las Vegas, Nevada, United States",
-      "url": "https://spreadthewordnevada.isolvedhire.com/jobs/1637926",
-      "direct_url": "https://spreadthewordnevada.isolvedhire.com/jobs/1637926",
-      "date_posted": "2026-08-04T00:00:00.000Z",
-      "description": "Coordinate and support early childhood literacy programs, communicate with families and schools, assist with events and grant reporting, must have valid Nevada driver license/insurance and be proficient in Microsoft 365.",
-      "salary": "$42k–$46k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "City of El Monte, CA",
-      "title": "Program Coordinator",
-      "location": "El Monte, California, United States",
-      "url": "https://www.governmentjobs.com/careers/elmonteca/jobs/5435042",
-      "direct_url": "https://www.governmentjobs.com/careers/elmonteca/jobs/5435042",
-      "date_posted": "2026-08-04T00:45:58.000Z",
-      "description": "Associate degree (or equivalent) in recreation or related field and five years progressively responsible recreation program coordination experience; valid California driver\\u0019s license; American Red Cross CPR, First Aid, and AED certification within 30 days.",
-      "salary": "$61k/yr",
+      "company": "Pascack Valley Medical Center",
+      "title": "Case Manager / RN",
+      "location": "Westwood, New Jersey, United States",
+      "url": "https://jobs.ardenthealth.com/jobs/138395?lang=en-us",
+      "direct_url": "https://jobs.ardenthealth.com/jobs/138395?lang=en-us",
+      "date_posted": "2026-07-29T18:26:49.000Z",
+      "description": "RN with an associate degree or higher; case management experience in acute hospital settings preferred; certification in case management (ACM or CCM) preferred.",
+      "salary": "$82k–$106k/yr",
       "job_type": "Part Time",
       "is_remote": false,
       "work_arrangement": "On-site",
