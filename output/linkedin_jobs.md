@@ -1,121 +1,122 @@
 # 🔥 LinkedIn — Social Worker Roles
-*Last updated: 2026-08-04 03:49 UTC*
+*Last updated: 2026-08-04 04:58 UTC*
 
-**27 new role(s)** since last run · 27 total in last 1h
+**26 new role(s)** since last run · 29 total in last 1h
 
-### [Customer Education Program Manager](https://www.linkedin.com/jobs/view/4446282694/) — Ashby
-- 📍 **Location:** United States
-- 💰 **Salary:** $135,000.00/yr - $176,813.00/yr
+### [Supply Chain Supervisor](https://www.linkedin.com/jobs/view/4448806508/) — HCA Healthcare
+- 📍 **Location:** Englewood, CO
+- 💰 **Salary:** $24.61 - $34.45
 - 🕒 **Posted:** 2026-08-04
 
-### [House Supervisor (Days)](https://www.linkedin.com/jobs/view/4446299074/) — AdventHealth
-- 📍 **Location:** Parker, CO
-- 💰 **Salary:** $42.40 - $78.86
+### [SOCIAL WORKER](https://www.linkedin.com/jobs/view/4448809243/) — U.S. Fleet Forces Command
+- 📍 **Location:** Fort Meade, MD
 - 🕒 **Posted:** 2026-08-04
 
-### [Principal Training and Education Specialist - Robotics - Lafayette, CO](https://www.linkedin.com/jobs/view/4448677610/) — Medtronic
-- 📍 **Location:** Lafayette, CO
-- 💰 **Salary:** $109,600.00 - $164,400.00
+### [Program Manager](https://www.linkedin.com/jobs/view/4448687969/) — CARE Wellness Center & Services
+- 📍 **Location:** Olympia, WA
 - 🕒 **Posted:** 2026-08-04
 
-### [Global Learning Program Manager](https://www.linkedin.com/jobs/view/4446281828/) — Santa Clara University
-- 📍 **Location:** Santa Clara, CA
-- 💰 **Salary:** $70,600 - $84,700
+### [Behavioral Health Supervisor](https://www.linkedin.com/jobs/view/4448692990/) — University of California, San Francisco
+- 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-08-04
 
-### [LADDER Peer Support Specialist - Phoenix, AZ 85029](https://www.linkedin.com/jobs/view/4446295152/) — Terros Health
-- 📍 **Location:** Phoenix, AZ
+### [Care Coordinator](https://www.linkedin.com/jobs/view/4448692975/) — 360 Behavioral Health
+- 📍 **Location:** Palmdale, CA
+- 💰 **Salary:** $23.00–$25.00/hour
 - 🕒 **Posted:** 2026-08-04
 
-### [Adult Community Support Supervisor](https://www.linkedin.com/jobs/view/4448809044/) — Beacon Mental Health
-- 📍 **Location:** Kansas City, MO
+### [Village Team Leader](https://www.linkedin.com/jobs/view/4446298193/) — Stand Childrens Services Tu Maia Whanau
+- 📍 **Location:** Whangarei, Northland, New Zealand
 - 🕒 **Posted:** 2026-08-04
 
-### [Patient Service Representative - Supervisor](https://www.linkedin.com/jobs/view/4448693791/) — Outreach Community Health Centers
-- 📍 **Location:** Milwaukee, WI
+### [Clinical Social Worker Supervisor](https://www.linkedin.com/jobs/view/4447288582/) — University of California, San Francisco
+- 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-08-04
 
-### [Youth Counselor](https://www.linkedin.com/jobs/view/4446288218/) — Heartshare
-- 📍 **Location:** Staten Island, NY
+### [Community Health Worker - Fulltime - Monday - Friday - Brooklyn ( Spanish or Mandarin Speaking)](https://www.linkedin.com/jobs/view/4446299273/) — NYU Langone Health
+- 📍 **Location:** Brooklyn, NY
+- 💰 **Salary:** $50,467.14 - $50,467.14 Annually
 - 🕒 **Posted:** 2026-08-04
 
-### [DSHS CSTC Psychiatric Youth Counselor 2](https://www.linkedin.com/jobs/view/4446281908/) — Washington State Department of Social and Health Services
-- 📍 **Location:** Lakewood, WA
+### [Bilingual Assistant Behavioral Health Supervisor (English/Spanish)](https://www.linkedin.com/jobs/view/4441934165/) — Arlington County Government
+- 📍 **Location:** Arlington, VA
 - 🕒 **Posted:** 2026-08-04
 
-### [Social Worker - Consult Liaison Program](https://www.linkedin.com/jobs/view/4434509846/) — Trinity Health MI
-- 📍 **Location:** Ann Arbor, MI
+### [Field Care Coordinator](https://www.linkedin.com/jobs/view/4448697917/) — Humana
+- 📍 **Location:** Delray Beach, FL
+- 💰 **Salary:** $53,700 - $72,600 per year
 - 🕒 **Posted:** 2026-08-04
 
-### [Clinical Services Supervisor](https://www.linkedin.com/jobs/view/4446292192/) — Neighborhood Healthcare
-- 📍 **Location:** San Marcos, CA
-- 💰 **Salary:** $73,500.00 to $104,400.00 annually
+### [Field Care Coordinator](https://www.linkedin.com/jobs/view/4448804771/) — Humana
+- 📍 **Location:** Boynton Beach, FL
+- 💰 **Salary:** $53,700 - $72,600 per year
 - 🕒 **Posted:** 2026-08-04
 
-### [Peer Support Specialist - LADDER; McDowell Rd Phoenix, AZ 85008; Adult SUD & COD](https://www.linkedin.com/jobs/view/4446282884/) — Terros Health
-- 📍 **Location:** Phoenix, AZ
+### [Field Care Coordinator](https://www.linkedin.com/jobs/view/4448816054/) — Humana
+- 📍 **Location:** Boca Raton, FL
+- 💰 **Salary:** $53,700 - $72,600 per year
 - 🕒 **Posted:** 2026-08-04
 
-### [PEER SUPPORT SPECIALIST
-& FAMILY SUPPORT PARTNER](https://www.linkedin.com/jobs/view/4446262942/) — PORTNEUF VALLEY FAMILY CENTER
-- 📍 **Location:** Pocatello, ID
+### [Prevention Program Manager](https://www.linkedin.com/jobs/view/4446602239/) — DCCCA
+- 📍 **Location:** Lawrence, KS
 - 🕒 **Posted:** 2026-08-04
 
-### [Certified Peer Support Specialist II](https://www.linkedin.com/jobs/view/4446281758/) — Texas Health and Human Services
-- 📍 **Location:** Harlingen, TX
-- 💰 **Salary:** $2,820.00 - $4,149.83
+### [Program Coordinator - Alzheimer Research](https://www.linkedin.com/jobs/view/4448823089/) — Mayo Clinic
+- 📍 **Location:** Rochester, MN
+- 💰 **Salary:** $59,904-89,960 annually
 - 🕒 **Posted:** 2026-08-04
 
-### [SSVF Case Manager](https://www.linkedin.com/jobs/view/4434274120/) — YWCA Seattle | King | Snohomish
-- 📍 **Location:** Renton, WA
+### [Community Based Care Coordinator - Duals Integrated Care - R13373](https://www.linkedin.com/jobs/view/4448800909/) — CareSource
+- 📍 **Location:** Ohio, United States
+- 💰 **Salary:** $62,700.00 - $100,400.00
 - 🕒 **Posted:** 2026-08-04
 
-### [Care Coordinator/Patient Care Coordinator](https://www.linkedin.com/jobs/view/4448699651/) — Traditional Home Health Care
-- 📍 **Location:** Dunmore, PA
+### [Field Care Coordinator](https://www.linkedin.com/jobs/view/4400494430/) — Humana
+- 📍 **Location:** Boynton Beach, FL
+- 💰 **Salary:** $53,700 - $72,600 per year
 - 🕒 **Posted:** 2026-08-04
 
-### [Care Coordinator, Departments (Marlton, NJ)](https://www.linkedin.com/jobs/view/4446279905/) — Ennoble Care
-- 📍 **Location:** Marlton, NJ
+### [Residential Supervisor](https://www.linkedin.com/jobs/view/4446606128/) — Sevita
+- 📍 **Location:** Louisville, KY
 - 🕒 **Posted:** 2026-08-04
 
-### [Case Manager](https://www.linkedin.com/jobs/view/4448801329/) — Encompass Health
-- 📍 **Location:** Winston-Salem, NC
+### [Patient Access - Intake Specialist - Emergency Department](https://www.linkedin.com/jobs/view/4448809387/) — UNC Health
+- 📍 **Location:** Rocky Mount, NC
 - 🕒 **Posted:** 2026-08-04
 
-### [Case Manager](https://www.linkedin.com/jobs/view/4448692391/) — Encompass Health
-- 📍 **Location:** Cleveland, TN
-- 💰 **Salary:** $33.00/hr - $41.00/hr
+### [Home Care Case Manager (Bilingual in Vietnamese & English)](https://www.linkedin.com/jobs/view/4446604160/) — Sunnycare Group
+- 📍 **Location:** Brisbane, Queensland, Australia
 - 🕒 **Posted:** 2026-08-04
 
-### [Clinical Care Coordinator](https://www.linkedin.com/jobs/view/4448807368/) — Calvary Health Care
-- 📍 **Location:** Warabrook, New South Wales, Australia
+### [Substance Abuse Case Manager](https://www.linkedin.com/jobs/view/4448624652/) — Pinnacle Treatment Centers, Inc.
+- 📍 **Location:** Pittsburgh, PA
 - 🕒 **Posted:** 2026-08-04
 
-### [Kinship Care Coordinator](https://www.linkedin.com/jobs/view/4447194636/) — National Youth Advocate Program (NYAP)
-- 📍 **Location:** Columbus, OH
-- 💰 **Salary:** $45,000.00 to $48,000.00
+### [Licensed Program Supervisor- Children's Targeted Case Management](https://www.linkedin.com/jobs/view/4448692968/) — People Incorporated Mental Health Services
+- 📍 **Location:** New Hope, MN
+- 💰 **Salary:** $78,000.00/yr - $88,000.00/yr
 - 🕒 **Posted:** 2026-08-04
 
-### [Neonatal Program Coordinator](https://www.linkedin.com/jobs/view/4448803667/) — Medical City Healthcare
-- 📍 **Location:** Lewisville, TX
+### [Licensed Professional Mental Health Counselor (Program Manager) - Vet Center Director](https://www.linkedin.com/jobs/view/4444478185/) — U.S. Department of Veterans Affairs
+- 📍 **Location:** Tampa, FL
+- 💰 **Salary:** $106,437.00/yr - $138,370.00/yr
 - 🕒 **Posted:** 2026-08-04
 
-### [Behavioral Health Specialist I - Livingston County](https://www.linkedin.com/jobs/view/4437610806/) — Trinity Health MI
-- 📍 **Location:** Ann Arbor, MI
+### [Licensed Independent Social Worker-Lakeview](https://www.linkedin.com/jobs/view/4446600298/) — UnityPoint Health
+- 📍 **Location:** West Des Moines, IA
 - 🕒 **Posted:** 2026-08-04
 
-### [Social Worker MSW-$5,000 Sign On Bonus](https://www.linkedin.com/jobs/view/4446281742/) — Miami Jewish Health
-- 📍 **Location:** Miami, FL
+### [NDIS Social Worker and Support Coordinator Contractor](https://www.linkedin.com/jobs/view/4446286317/) — Evina Connect Pty Ltd
+- 📍 **Location:** Adelaide, South Australia, Australia
+- 💰 **Salary:** $96-$106/hour
 - 🕒 **Posted:** 2026-08-04
 
-### [Treatment Foster Care Coordinator](https://www.linkedin.com/jobs/view/4448229938/) — National Youth Advocate Program (NYAP)
-- 📍 **Location:** Newark, OH
+### [Clinical Social Worker (Licensed or Associate) Spanish Bilingual](https://www.linkedin.com/jobs/view/4446291322/) — Lyon-Martin Community Health Services
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $38.93/hr - $49.17/hr
 - 🕒 **Posted:** 2026-08-04
 
-### [Social Worker MSW](https://www.linkedin.com/jobs/view/4448696719/) — HCA Houston Healthcare
-- 📍 **Location:** Pasadena, TX
-- 🕒 **Posted:** 2026-08-04
-
-### [Social Worker](https://www.linkedin.com/jobs/view/4446600109/) — Nottinghamshire County Council
-- 📍 **Location:** Nottinghamshire, England, United Kingdom
+### [Supervisory Social Worker - Vet Center Director](https://www.linkedin.com/jobs/view/4444474339/) — U.S. Department of Veterans Affairs
+- 📍 **Location:** Tampa, FL
+- 💰 **Salary:** $116,520.00/yr - $151,478.00/yr
 - 🕒 **Posted:** 2026-08-04
