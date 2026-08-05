@@ -1,27 +1,32 @@
 # 🟦 Indeed — Social Worker Roles
-*Last updated: 2026-08-05 01:04 UTC*
+*Last updated: 2026-08-05 17:17 UTC*
 
-**4 new role(s)** since last run · 17 total in last 24h
+**4 new role(s)** since last run · 9 total in last 24h
 
-### [Care Ally, SW/LPN/RN Case Manager - Remote - PST Hours](https://www.indeed.com/viewjob?jk=a3a374dcf382476f) — Curana Health
-- 📍 **Location:** Remote, US
+### [Program Manager, Ways of Working](https://www.indeed.com/viewjob?jk=b0a4c2f93414ca94) — Fivetran
+- 📍 **Location:** Denver, CO, US
+- 💰 **Salary:** $145k–$181k/yr
 - **Work mode:** Remote in-state eligible
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-08-04
 
-### [RN Care Coordinator, Lancaster/Kershaw, South Carolina](https://www.indeed.com/viewjob?jk=196375fbe35e3f17) — PEOple Premier, Inc.
-- 📍 **Location:** Remote, US
-- **Work mode:** Remote in-state eligible
+### [Data Analyst and Aftercare Coordinator](https://www.indeed.com/viewjob?jk=a9970dc64906eeff) — Unknown
+- 📍 **Location:** Denver, CO, US
+- 💰 **Salary:** $30–$31/hr
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-08-05
+
+### [Specialty Healthcare Coordinator](https://www.indeed.com/viewjob?jk=69f64935eb3f75bd) — PDS Health
+- 📍 **Location:** Superior, CO, US
+- 💰 **Salary:** $19–$28/hr
+- **Work mode:** On-site
+- **Job type:** fulltime
 - 🕒 **Posted:** 2026-08-04
 
-### [RN Care Coordinator, Cherokee, South Carolina](https://www.indeed.com/viewjob?jk=2172824ac34ab601) — PEOple Premier, Inc.
+### [Medical Assistant Patient Care Coordinator](https://www.indeed.com/viewjob?jk=c4fbe6866ea9e047) — Cosan Group
 - 📍 **Location:** Remote, US
-- **Work mode:** Remote in-state eligible
-- 🕒 **Posted:** 2026-08-04
-
-### [Peer Support Specialist](https://www.indeed.com/viewjob?jk=0f2ee9179f6bc10b) — Trillium Health Resources
-- 📍 **Location:** Remote, US
-- 💰 **Salary:** $43k–$54k/yr
+- 💰 **Salary:** $16–$24/hr
 - **Work mode:** Remote in-state eligible
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-08-04
