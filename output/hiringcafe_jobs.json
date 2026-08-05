@@ -1,22 +1,8 @@
 {
-  "scraped_at": "2026-08-04 23:57 UTC",
-  "total": 94,
-  "new_count": 1,
+  "scraped_at": "2026-08-05 01:18 UTC",
+  "total": 90,
+  "new_count": 0,
   "jobs": [
-    {
-      "company": "-",
-      "title": "Social Worker",
-      "location": "Wethersfield, Connecticut, United States",
-      "url": "https://careers-nathealthcare.icims.com/jobs/7331/social-worker/job?in_iframe=1",
-      "direct_url": "https://careers-nathealthcare.icims.com/jobs/7331/social-worker/job?in_iframe=1",
-      "date_posted": "2026-07-20T04:00:00.000Z",
-      "description": "Master's in social work, state licensure as a social worker, experience in long-term care, strong assessment, counseling, crisis intervention, and teamwork skills.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
     {
       "company": "Avant Rehabilitation and Care Center",
       "title": "Social Worker",
@@ -27,6 +13,20 @@
       "description": "Bachelor's degree in social work or psychology, licensed clinical social worker (LCSW), experience with vulnerable populations and LTC preferred, strong communication and empathy.",
       "salary": "",
       "job_type": "Part Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "-",
+      "title": "Social Worker",
+      "location": "Wethersfield, Connecticut, United States",
+      "url": "https://careers-nathealthcare.icims.com/jobs/7331/social-worker/job?in_iframe=1",
+      "direct_url": "https://careers-nathealthcare.icims.com/jobs/7331/social-worker/job?in_iframe=1",
+      "date_posted": "2026-07-20T04:00:00.000Z",
+      "description": "Master's in social work, state licensure as a social worker, experience in long-term care, strong assessment, counseling, crisis intervention, and teamwork skills.",
+      "salary": "",
+      "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
       "ats": "HiringCafe"
@@ -74,20 +74,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Clement Manor",
-      "title": "Social Worker",
-      "location": "Greenfield, Wisconsin, United States",
-      "url": "https://clementmanor.employ.onshift.com/job_positions/view/192887/50797353",
-      "direct_url": "https://clementmanor.employ.onshift.com/job_positions/view/192887/50797353",
-      "date_posted": "2026-07-20T14:05:50.000Z",
-      "description": "Bachelor's in social work/psychology/sociology preferred, current Wisconsin social worker license required, discharge planning and MDS experience preferred, strong communication and documentation skills.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Northern Maine Medical Center",
       "title": "Social Worker",
       "location": "Fort Kent, Maine, United States",
@@ -95,6 +81,20 @@
       "direct_url": "https://secure6.saashr.com/ta/6033683.careers?ShowJob=705332483",
       "date_posted": "2026-07-23T19:58:45.898Z",
       "description": "Provide psychosocial assessments, discharge planning, case management, referrals, and interdisciplinary coordination; must hold a Maine social worker license and bachelor\\u0002s degree in social work.",
+      "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Clement Manor",
+      "title": "Social Worker",
+      "location": "Greenfield, Wisconsin, United States",
+      "url": "https://clementmanor.employ.onshift.com/job_positions/view/192887/50797353",
+      "direct_url": "https://clementmanor.employ.onshift.com/job_positions/view/192887/50797353",
+      "date_posted": "2026-07-20T14:05:50.000Z",
+      "description": "Bachelor's in social work/psychology/sociology preferred, current Wisconsin social worker license required, discharge planning and MDS experience preferred, strong communication and documentation skills.",
       "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
@@ -396,20 +396,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Black Birth Justice",
-      "title": "Case Manager",
-      "location": "Louisville, Kentucky, United States",
-      "url": "https://blackbirthjustice.bamboohr.com/careers/66",
-      "direct_url": "https://blackbirthjustice.bamboohr.com/careers/66",
-      "date_posted": "2026-07-06T00:00:00.000Z",
-      "description": "Bachelors in social work or related field, 2+ years direct social services/case management, proficiency with Google Suite and case management software, ability to conduct assessments, crisis response, documentation, and do field outreach.",
-      "salary": "",
-      "job_type": "Contract",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Crossroads Talent Solutions",
       "title": "Lead Case Manager",
       "location": "Columbus, Ohio, United States",
@@ -516,20 +502,6 @@
       "date_posted": "2026-07-17T00:00:00.000Z",
       "description": "Provide case management, discharge planning, resource coordination, EHR documentation, and advocacy for clients with substance use and mental health needs.",
       "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Guardian Tax",
-      "title": "Case Manager",
-      "location": "Irvine, California, United States",
-      "url": "https://guardian-tax-network.breezy.hr/p/5f8f37a1f02a-case-manager",
-      "direct_url": "https://guardian-tax-network.breezy.hr/p/5f8f37a1f02a-case-manager",
-      "date_posted": "2026-07-22T18:50:44.359Z",
-      "description": "Minimum 6 months case management experience, strong communication, organization, ability to learn new systems, client-focused and coachable.",
-      "salary": "$46k–$50k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
@@ -760,20 +732,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Texas Tech University Health Sciences Center",
-      "title": "Program Coordinator",
-      "location": "Texas, United States",
-      "url": "https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25898&siteid=5283&PageType=JobDetails&jobid=918878",
-      "direct_url": "https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25898&siteid=5283&PageType=JobDetails&jobid=918878",
-      "date_posted": "2026-07-22T12:00:00.000Z",
-      "description": "High school plus 6 years related experience (or equivalent education); experience coordinating GME/fellowship programs; knowledge of ACGME accreditation and clinical workflows; strong administrative and communication skills.",
-      "salary": "$31k–$48k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Spread the Word Nevada",
       "title": "Program Coordinator",
       "location": "Las Vegas, Nevada, United States",
@@ -788,6 +746,20 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "Texas Tech University Health Sciences Center",
+      "title": "Program Coordinator",
+      "location": "Texas, United States",
+      "url": "https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25898&siteid=5283&PageType=JobDetails&jobid=918878",
+      "direct_url": "https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25898&siteid=5283&PageType=JobDetails&jobid=918878",
+      "date_posted": "2026-07-22T12:00:00.000Z",
+      "description": "High school plus 6 years related experience (or equivalent education); experience coordinating GME/fellowship programs; knowledge of ACGME accreditation and clinical workflows; strong administrative and communication skills.",
+      "salary": "$31k–$48k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
       "company": "Yale",
       "title": "Program Coordinator",
       "location": "New Haven, Connecticut, United States",
@@ -796,20 +768,6 @@
       "date_posted": "2026-07-17T00:00:00.000Z",
       "description": "Bachelor's degree plus two years' related experience (or equivalent), program and event coordination, advanced Microsoft Office and Adobe Acrobat proficiency, strong communication and organizational skills, background check required.",
       "salary": "$62k–$92k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Buffalo Center for Arts and Technology",
-      "title": "Program Coordinator",
-      "location": "Buffalo, New York, United States",
-      "url": "https://apply.appone.com/job/6a4d48e7d12a86db70ff1ffa",
-      "direct_url": "https://apply.appone.com/job/6a4d48e7d12a86db70ff1ffa",
-      "date_posted": "2026-07-08T16:23:09.000Z",
-      "description": "Experience in program coordination or operations, ability to obtain NYS BPSS Agent certification, strong organizational and communication skills, proficiency with Google Workspace, Microsoft Office and CRM, grant administrative experience preferred.",
-      "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
@@ -1236,20 +1194,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Evergreen Nephrology",
-      "title": "Community Health Worker",
-      "location": "United States",
-      "url": "https://job-boards.greenhouse.io/evergreennephrology/jobs/4719117005",
-      "direct_url": "https://job-boards.greenhouse.io/evergreennephrology/jobs/4719117005",
-      "date_posted": "2026-07-28T15:47:05.000Z",
-      "description": "Active CHW certification, 3+ years care coordination/community health experience, team-based care experience, strong communication, MS Office (Outlook, Teams) skills, ability to work remotely with reliable internet; bilingual Spanish/English preferred.",
-      "salary": "$46k–$52k/yr",
-      "job_type": "Full Time",
-      "is_remote": true,
-      "work_arrangement": "Remote in-state eligible",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Nevada Behavioral Health / NovumHealth",
       "title": "Community Health Worker",
       "location": "Las Vegas, Nevada, United States",
@@ -1320,20 +1264,5 @@
       "ats": "HiringCafe"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Pascack Valley Medical Center",
-      "title": "Case Manager / RN",
-      "location": "Westwood, New Jersey, United States",
-      "url": "https://jobs.ardenthealth.com/jobs/138395?lang=en-us",
-      "direct_url": "https://jobs.ardenthealth.com/jobs/138395?lang=en-us",
-      "date_posted": "2026-07-29T18:26:49.000Z",
-      "description": "RN with an associate degree or higher; case management experience in acute hospital settings preferred; certification in case management (ACM or CCM) preferred.",
-      "salary": "$82k–$106k/yr",
-      "job_type": "Part Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    }
-  ]
+  "new_jobs": []
 }
