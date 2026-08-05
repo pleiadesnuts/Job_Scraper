@@ -1,29 +1,23 @@
 # ☕ HiringCafe — Social Worker Roles
-*Last updated: 2026-08-05 18:22 UTC*
+*Last updated: 2026-08-05 20:25 UTC*
 
-**4 new role(s)** since last run · 92 total in last 30d
+**3 new role(s)** since last run · 93 total in last 30d
 
-### [Social Worker](https://lifecarecareers.hcshiring.com/jobs/vQNl-ryfBUemF0jx105nuQ) — Life Care Center of Boise
-- 📍 **Location:** Boise, Idaho, United States
+### [Social Worker](https://www.schoolspring.com/jobdetail?jobId=5871675) — Elida Local School District
+- 📍 **Location:** Elida, Ohio, United States
 - **Work mode:** On-site
 - **Job type:** Full Time
-- 🕒 **Posted:** 2026-08-05T12:10:12.921Z
+- 🕒 **Posted:** 2026-08-05T00:00:00.000Z
 
-### [Case Manager](https://jobs.gusto.com/postings/divine-arms-of-love-gro-llc-case-manager-aed0a9d9-e769-41ad-9d51-27ec7f558985) — Divine Arms of Love GRO LLC
-- 📍 **Location:** Houston, Texas, United States
-- 💰 **Salary:** $42k/yr
+### [OEM Program Coordinator](https://ats.rippling.com/dealeron/jobs/896755ae-f6a0-4683-b174-2db49de391d7) — DealerOn
+- 📍 **Location:** United States
+- 💰 **Salary:** $38k–$52k/yr
+- **Work mode:** Remote in-state eligible
+- **Job type:** Full Time
+- 🕒 **Posted:** 2026-07-16T21:05:44.891Z
+
+### [Community Health Worker](https://parklandhospital.wd12.myworkdayjobs.com/parkland_careers/job/Moody-Outpatient-Center/Community-Health-Worker_988710) — Parklandhospital
+- 📍 **Location:** Dallas, Texas, United States
 - **Work mode:** On-site
 - **Job type:** Full Time
-- 🕒 **Posted:** 2026-07-06T21:06:46.809Z
-
-### [Case Manager](https://primehealthcare.jibeapply.com/jobs/273006) — Prime Healthcare
-- 📍 **Location:** Mission, Texas, United States
-- **Work mode:** On-site
-- **Job type:** Contract
-- 🕒 **Posted:** 2026-08-05T13:03:46.000Z
-
-### [Program Coordinator I](https://tamus.wd1.myworkdayjobs.com/system-wide_external/job/College-Station-TX/Program-Coordinator-I_R-095619) — Tamus
-- 📍 **Location:** College Station, Texas, United States
-- **Work mode:** On-site
-- **Job type:** Full Time
-- 🕒 **Posted:** 2026-08-04T00:00:00.000Z
+- 🕒 **Posted:** 2026-07-17T00:00:00.000Z
