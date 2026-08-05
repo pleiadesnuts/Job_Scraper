@@ -1,6 +1,8 @@
 # 🏛 CalOpps — California Local-Agency Social Worker Roles
-*Last updated: 2026-08-04 18:22 UTC*
+*Last updated: 2026-08-05 18:07 UTC*
 
-**0 new role(s)** since last run · 15 total in recent CalOpps postings
+**1 new role(s)** since last run · 16 total in recent CalOpps postings
 
-No new CalOpps roles since the last run.
+### [HHSA Case Manager I/II](https://www.calopps.org/glenn/job-20765661) — Glenn
+- 📍 **Location:** Northern California Inland
+- 💰 **Salary:** $24.66-$33.12

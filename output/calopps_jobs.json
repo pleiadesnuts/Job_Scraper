@@ -1,8 +1,17 @@
 {
-  "scraped_at": "2026-08-04 18:22 UTC",
-  "total": 15,
-  "new_count": 0,
+  "scraped_at": "2026-08-05 18:07 UTC",
+  "total": 16,
+  "new_count": 1,
   "jobs": [
+    {
+      "company": "Glenn",
+      "title": "HHSA Case Manager I/II",
+      "location": "Northern California Inland",
+      "url": "https://www.calopps.org/glenn/job-20765661",
+      "date_posted": "",
+      "salary": "$24.66-$33.12",
+      "ats": "CalOpps"
+    },
     {
       "company": "Union City",
       "title": "Preschool Site Supervisor I/II",
@@ -139,5 +148,15 @@
       "ats": "CalOpps"
     }
   ],
-  "new_jobs": []
+  "new_jobs": [
+    {
+      "company": "Glenn",
+      "title": "HHSA Case Manager I/II",
+      "location": "Northern California Inland",
+      "url": "https://www.calopps.org/glenn/job-20765661",
+      "date_posted": "",
+      "salary": "$24.66-$33.12",
+      "ats": "CalOpps"
+    }
+  ]
 }
