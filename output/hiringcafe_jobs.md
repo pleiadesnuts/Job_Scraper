@@ -1,17 +1,24 @@
 # ☕ HiringCafe — Social Worker Roles
-*Last updated: 2026-08-07 05:36 UTC*
+*Last updated: 2026-08-07 17:45 UTC*
 
-**2 new role(s)** since last run · 93 total in last 30d
+**3 new role(s)** since last run · 90 total in last 30d
 
-### [Social Worker](https://eexs.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/AllJobs/requisitions/job/38797) — The Arlington of Naples
-- 📍 **Location:** Naples, Florida, United States
+### [Social Worker MSW](https://nyuhs.wd12.myworkdayjobs.com/nyuhscareers1/job/Binghamton-NY/Social-Worker-MSW_R0000015318-1) — United Health Services
+- 📍 **Location:** Binghamton, New York, United States
+- 💰 **Salary:** $64k–$95k/yr
 - **Work mode:** On-site
 - **Job type:** Full Time
-- 🕒 **Posted:** 2026-08-06T21:51:25.000Z
+- 🕒 **Posted:** 2026-08-05T00:00:00.000Z
 
-### [Case Manager](https://brownhealth.wd12.myworkdayjobs.com/external_careers/job/The-Miriam-Hospital/Case-Manager_JR-112292) — Brownhealth
-- 📍 **Location:** Providence, Rhode Island, United States
-- 💰 **Salary:** $80k–$161k/yr
+### [Social Worker - BSW](https://recruiting2.ultipro.com/nat1059nhth/JobBoard/02b4dc6027be428baa7b4f7b89a29f7a/OpportunityDetail?opportunityId=6ca5de26-9e30-40ff-afb5-c4575584195a) — NHC
+- 📍 **Location:** Osage Beach, Missouri, United States
 - **Work mode:** On-site
-- **Job type:** Full Time, Part Time
-- 🕒 **Posted:** 2026-07-28T00:00:00.000Z
+- **Job type:** Full Time
+- 🕒 **Posted:** 2026-07-31T14:06:21.871Z
+
+### [Program Coordinator II](https://careers-usu.icims.com/jobs/10495/job?utm_source=hiringcafe_integration&iis=Job%20Board&iisn=HiringCafe) — Utah State University
+- 📍 **Location:** Logan, Utah, United States
+- 💰 **Salary:** $53k/yr
+- **Work mode:** On-site
+- **Job type:** Full Time
+- 🕒 **Posted:** 2026-07-09T22:52:00.000Z
