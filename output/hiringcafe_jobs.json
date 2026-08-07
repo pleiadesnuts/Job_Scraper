@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-07 22:30 UTC",
+  "scraped_at": "2026-08-07 23:32 UTC",
   "total": 91,
   "new_count": 1,
   "jobs": [
@@ -242,6 +242,20 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "Lifespacecommunities",
+      "title": "Qualified Social Worker",
+      "location": "Delray Beach, Florida, United States",
+      "url": "https://lifespacecommunities.wd1.myworkdayjobs.com/careers/job/Delray-Beach-FL/Qualified-Social-Worker_JR2602451-1",
+      "direct_url": "https://lifespacecommunities.wd1.myworkdayjobs.com/careers/job/Delray-Beach-FL/Qualified-Social-Worker_JR2602451-1",
+      "date_posted": "2026-07-23T00:00:00.000Z",
+      "description": "Master's in social work with 1 year healthcare experience OR bachelor's in social work/related field with 3 years; licensed social worker required; proficiency in documentation and resident advocacy.",
+      "salary": "$57k–$78k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
       "company": "Ecumen",
       "title": "Hospice Social Worker",
       "location": "Saint Cloud, Minnesota, United States",
@@ -256,14 +270,14 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Lifespacecommunities",
-      "title": "Qualified Social Worker",
-      "location": "Delray Beach, Florida, United States",
-      "url": "https://lifespacecommunities.wd1.myworkdayjobs.com/careers/job/Delray-Beach-FL/Qualified-Social-Worker_JR2602451-1",
-      "direct_url": "https://lifespacecommunities.wd1.myworkdayjobs.com/careers/job/Delray-Beach-FL/Qualified-Social-Worker_JR2602451-1",
-      "date_posted": "2026-07-23T00:00:00.000Z",
-      "description": "Master's in social work with 1 year healthcare experience OR bachelor's in social work/related field with 3 years; licensed social worker required; proficiency in documentation and resident advocacy.",
-      "salary": "$57k–$78k/yr",
+      "company": "Huron Academy",
+      "title": "School Social Worker",
+      "location": "Utica, Michigan, United States",
+      "url": "https://huron-academy.prismhr-hire.com/job/1047119/school-social-worker",
+      "direct_url": "https://huron-academy.prismhr-hire.com/job/1047119/school-social-worker",
+      "date_posted": "2026-08-06T17:13:23.000Z",
+      "description": "Master's degree in social work, valid school social worker licensure, temporary or full social worker approval, and experience with children and families in a school setting.",
+      "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
@@ -307,20 +321,6 @@
       "description": "Master of Social Work from a CSWE-accredited school required. Kentucky Certified Social Worker license preferred at hire and required within two years. Two years of social work experience preferred.",
       "salary": "",
       "job_type": "Part Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "United Health Services",
-      "title": "Social Worker MSW",
-      "location": "Binghamton, New York, United States",
-      "url": "https://nyuhs.wd12.myworkdayjobs.com/nyuhscareers1/job/Binghamton-NY/Social-Worker-MSW_R0000015318-1",
-      "direct_url": "https://nyuhs.wd12.myworkdayjobs.com/nyuhscareers1/job/Binghamton-NY/Social-Worker-MSW_R0000015318-1",
-      "date_posted": "2026-08-05T00:00:00.000Z",
-      "description": "Master of Social Work required; NYS LMSW license or limited permit required, with current NYS license required for clinic social workers. Three years of postgraduate experience preferred.",
-      "salary": "$64k–$95k/yr",
-      "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
       "ats": "HiringCafe"
@@ -662,20 +662,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Associated",
-      "title": "Program Coordinator",
-      "location": "Baltimore, Maryland, United States",
-      "url": "https://jobs.dayforcehcm.com/en-US/associated/jcccandidateportal/jobs/10250",
-      "direct_url": "https://jobs.dayforcehcm.com/en-US/associated/jcccandidateportal/jobs/10250",
-      "date_posted": "2026-07-14T04:00:00.000Z",
-      "description": "Experience coordinating programs, supervising staff, strong customer service, proficiency with CRM and Microsoft Office, ability to lift up to 25 lbs, and excellent communication and organizational skills.",
-      "salary": "$43k–$48k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Bollinger Shipyards",
       "title": "Program Coordinator",
       "location": "Houma, Louisiana, United States",
@@ -684,6 +670,20 @@
       "date_posted": "2026-08-06T18:34:14.000Z",
       "description": "Requires 5–10 years of program coordination, project management, or related experience, an associate's degree or equivalent, strong organization, communication, analysis, leadership, and process optimization skills.",
       "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Associated",
+      "title": "Program Coordinator",
+      "location": "Baltimore, Maryland, United States",
+      "url": "https://jobs.dayforcehcm.com/en-US/associated/jcccandidateportal/jobs/10250",
+      "direct_url": "https://jobs.dayforcehcm.com/en-US/associated/jcccandidateportal/jobs/10250",
+      "date_posted": "2026-07-14T04:00:00.000Z",
+      "description": "Experience coordinating programs, supervising staff, strong customer service, proficiency with CRM and Microsoft Office, ability to lift up to 25 lbs, and excellent communication and organizational skills.",
+      "salary": "$43k–$48k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
@@ -1280,17 +1280,17 @@
   ],
   "new_jobs": [
     {
-      "company": "University of Wisconsin–Madison",
-      "title": "Community Health Worker",
-      "location": "Madison or Milwaukee",
-      "url": "https://wisconsin.wd1.myworkdayjobs.com/uw_madison/job/Madison-WI/Community-Health-Worker_JR10013765-1",
-      "direct_url": "https://wisconsin.wd1.myworkdayjobs.com/uw_madison/job/Madison-WI/Community-Health-Worker_JR10013765-1",
-      "date_posted": "2026-08-07T00:00:00.000Z",
-      "description": "Community health worker training, lived diabetes experience, and 2+ years supporting underserved individuals through community engagement. Requires strong communication, Microsoft Word and Excel proficiency, and independent teamwork.",
-      "salary": "$54k/yr",
-      "job_type": "Part Time, Temporary",
+      "company": "Huron Academy",
+      "title": "School Social Worker",
+      "location": "Utica, Michigan, United States",
+      "url": "https://huron-academy.prismhr-hire.com/job/1047119/school-social-worker",
+      "direct_url": "https://huron-academy.prismhr-hire.com/job/1047119/school-social-worker",
+      "date_posted": "2026-08-06T17:13:23.000Z",
+      "description": "Master's degree in social work, valid school social worker licensure, temporary or full social worker approval, and experience with children and families in a school setting.",
+      "salary": "",
+      "job_type": "Full Time",
       "is_remote": false,
-      "work_arrangement": "Telecommute eligible",
+      "work_arrangement": "On-site",
       "ats": "HiringCafe"
     }
   ]
