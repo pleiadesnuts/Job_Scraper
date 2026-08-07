@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-07 20:33 UTC",
-  "total": 93,
-  "new_count": 4,
+  "scraped_at": "2026-08-07 21:34 UTC",
+  "total": 92,
+  "new_count": 0,
   "jobs": [
     {
       "company": "Hertford Rehabilitation and Healthcare",
@@ -572,20 +572,6 @@
       "date_posted": "2026-07-22T23:15:55.000Z",
       "description": "2+ years personal injury case management experience, excellent written and verbal communication, strong attention to detail, and exceptional customer service.",
       "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "YMCA of Greater Cincinnati",
-      "title": "Program Coordinator",
-      "location": "Hillsboro, Ohio, United States",
-      "url": "https://secure.entertimeonline.com/ta/QULP0136.careers?ShowJob=520423650",
-      "direct_url": "https://secure.entertimeonline.com/ta/QULP0136.careers?ShowJob=520423650",
-      "date_posted": "2026-07-08T21:24:46.844Z",
-      "description": "1+ year supervising or program coordination experience, high school diploma, current lifeguard and CPR/AED/First Aid certifications, ability to recruit/train staff and manage program operations.",
-      "salary": "$35k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
@@ -1306,62 +1292,5 @@
       "ats": "HiringCafe"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Moments Hospice",
-      "title": "Hospice Social Worker",
-      "location": "Appleton, Wisconsin, United States",
-      "url": "https://jobs.lever.co/momentshospice-2/3118f75b-0842-4d29-8143-b93af37bcea7",
-      "direct_url": "https://jobs.lever.co/momentshospice-2/3118f75b-0842-4d29-8143-b93af37bcea7",
-      "date_posted": "2026-08-07T14:05:34.065Z",
-      "description": "Social worker license, valid driver's license and auto insurance, two years of social work experience in healthcare or social services, and a social work degree; hospice experience preferred.",
-      "salary": "$54k–$73k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Naqvi Injury Law",
-      "title": "Case Manager",
-      "location": "Las Vegas, Nevada, United States",
-      "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4356712",
-      "direct_url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4356712",
-      "date_posted": "2026-07-22T23:15:55.000Z",
-      "description": "2+ years personal injury case management experience, excellent written and verbal communication, strong attention to detail, and exceptional customer service.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "NYC Health + Hospitals",
-      "title": "Community Health Worker - Behavioral Health",
-      "location": "Queens, New York, United States",
-      "url": "https://careers.nychhc.org/psc/hrtam/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&Action=U&FOCUS=Applicant&JobOpeningId=138078&PostingSeq=1&SiteId=1",
-      "direct_url": "https://careers.nychhc.org/psc/hrtam/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&Action=U&FOCUS=Applicant&JobOpeningId=138078&PostingSeq=1&SiteId=1",
-      "date_posted": "2026-08-07T12:00:00.000Z",
-      "description": "Requires 3 years of community, counseling, or community health experience, or equivalent education and experience with at least 1 year required; outreach, communication, documentation, and computer skills.",
-      "salary": "",
-      "job_type": "Full Time, Temporary",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Connecticut Children's",
-      "title": "Community Health Worker",
-      "location": "Hartford or Connecticut",
-      "url": "https://fa-evav-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/connecticutchildrenscareers/requisitions/job/5411",
-      "direct_url": "https://fa-evav-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/connecticutchildrenscareers/requisitions/job/5411",
-      "date_posted": "2026-08-07T13:14:17.000Z",
-      "description": "High school diploma or GED and one year of experience in medical case management, community health, community programs, or supporting people affected by health or social challenges.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    }
-  ]
+  "new_jobs": []
 }
