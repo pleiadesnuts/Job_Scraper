@@ -1,16 +1,16 @@
 # ☕ HiringCafe — Social Worker Roles
-*Last updated: 2026-08-08 18:23 UTC*
+*Last updated: 2026-08-08 19:30 UTC*
 
-**2 new role(s)** since last run · 91 total in last 30d
+**2 new role(s)** since last run · 92 total in last 30d
 
-### [Social Worker](https://secure6.saashr.com/ta/6033683.careers?ShowJob=705332483) — Northern Maine Medical Center
-- 📍 **Location:** Fort Kent, Maine, United States
+### [Social Worker](https://clementmanor.employ.onshift.com/job_positions/view/192887/50797353) — Clement Manor
+- 📍 **Location:** Greenfield, Wisconsin, United States
 - **Work mode:** On-site
 - **Job type:** Full Time
-- 🕒 **Posted:** 2026-07-23T19:58:45.898Z
+- 🕒 **Posted:** 2026-07-20T14:05:50.000Z
 
-### [Case Manager](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4356712) — Naqvi Injury Law
-- 📍 **Location:** Las Vegas, Nevada, United States
+### [Community Health Worker](https://fa-evav-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/connecticutchildrenscareers/requisitions/job/5411) — Connecticut Children's
+- 📍 **Location:** Hartford or Connecticut
 - **Work mode:** On-site
 - **Job type:** Full Time
-- 🕒 **Posted:** 2026-07-22T23:15:55.000Z
+- 🕒 **Posted:** 2026-08-07T13:14:17.000Z
