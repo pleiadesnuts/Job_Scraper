@@ -1,115 +1,180 @@
 # 🔥 LinkedIn — Social Worker Roles
-*Last updated: 2026-08-08 04:57 UTC*
+*Last updated: 2026-08-08 16:04 UTC*
 
-**25 new role(s)** since last run · 25 total in last 1h
+**39 new role(s)** since last run · 39 total in last 1h
 
-### [Program Manager, Medicare Stars & Quality Improvement](https://www.linkedin.com/jobs/view/4450581123/) — Molina Healthcare
-- 📍 **Location:** United States
-- 💰 **Salary:** $65,791.66 - $142,548.59
+### [Case Supervisor (Practicum Student)](https://www.linkedin.com/jobs/view/4442126882/) — Soar Autism Center
+- 📍 **Location:** Arvada, CO
+- 💰 **Salary:** $22.50 - $27.00/hour
 - 🕒 **Posted:** 2026-08-08
 
-### [Program Manager for Faculty Affairs](https://www.linkedin.com/jobs/view/4442117340/) — Metropolitan State University of Denver
+### [Case Supervisor (Practicum Student)](https://www.linkedin.com/jobs/view/4442137541/) — Soar Autism Center
+- 📍 **Location:** Broomfield, CO
+- 💰 **Salary:** $22.50 - $27.00/hour
+- 🕒 **Posted:** 2026-08-08
+
+### [Case Supervisor (Practicum Student)](https://www.linkedin.com/jobs/view/4442140312/) — Soar Autism Center
 - 📍 **Location:** Denver, CO
-- 💰 **Salary:** $65,000 to $75,000
+- 💰 **Salary:** $22.50 - $27.00/hour
 - 🕒 **Posted:** 2026-08-08
 
-### [Retail Experience Supervisor](https://www.linkedin.com/jobs/view/4450558576/) — Best Buy
-- 📍 **Location:** Loveland, CO
-- 💰 **Salary:** $18.77/hr - $28.79/hr
+### [Case Supervisor (Practicum Student)](https://www.linkedin.com/jobs/view/4442127875/) — Soar Autism Center
+- 📍 **Location:** Englewood, CO
+- 💰 **Salary:** $22.50 - $27.00/hour
 - 🕒 **Posted:** 2026-08-08
 
-### [Substance Use Disorder (SUD) Case Manager, Contingency Management Program](https://www.linkedin.com/jobs/view/4447428493/) — GLIDEsf
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $31 - $33
+### [Case Supervisor (Practicum Student)](https://www.linkedin.com/jobs/view/4442136574/) — Soar Autism Center
+- 📍 **Location:** Englewood, CO
+- 💰 **Salary:** $22.50 - $27.00/hour
 - 🕒 **Posted:** 2026-08-08
 
-### [Early Psychosis SEES and Case Manager Training Lead](https://www.linkedin.com/jobs/view/4451035679/) — UC Davis Health
-- 📍 **Location:** Sacramento, CA
-- 💰 **Salary:** $2,800.00-$4,996.55
+### [Lead Case Supervisor (Practicum Student)](https://www.linkedin.com/jobs/view/4442134610/) — Soar Autism Center
+- 📍 **Location:** Denver, CO
 - 🕒 **Posted:** 2026-08-08
 
-### [Social Worker](https://www.linkedin.com/jobs/view/4450550586/) — TriStar Summit Medical Center
-- 📍 **Location:** Hermitage, TN
+### [Lead Case Supervisor (Practicum Student)](https://www.linkedin.com/jobs/view/4442123991/) — Soar Autism Center
+- 📍 **Location:** Aurora, CO
 - 🕒 **Posted:** 2026-08-08
 
-### [Social Worker MSW Emergency Services](https://www.linkedin.com/jobs/view/4450540856/) — St. David's HealthCare
-- 📍 **Location:** Austin, TX
+### [Lead Case Supervisor (Practicum Student)](https://www.linkedin.com/jobs/view/4442181898/) — Soar Autism Center
+- 📍 **Location:** Englewood, CO
 - 🕒 **Posted:** 2026-08-08
 
-### [Social Worker MSW](https://www.linkedin.com/jobs/view/4450554916/) — Cedars-Sinai
-- 📍 **Location:** Los Angeles, CA
-- 💰 **Salary:** $41.65/hr - $64.56/hr
+### [Senior Program Manager](https://www.linkedin.com/jobs/view/4424107535/) — CesiumAstro
+- 📍 **Location:** Denver Metropolitan Area
+- 💰 **Salary:** $184,000 - $225,000
 - 🕒 **Posted:** 2026-08-08
 
-### [Assistant Program Manager for Veteran Mental Health Services](https://www.linkedin.com/jobs/view/4450563761/) — Mental Health America of Los Angeles
-- 📍 **Location:** Long Beach, CA
-- 💰 **Salary:** $35.00 - $36.00 per hour
+### [Fleet Maintenance Supervisor](https://www.linkedin.com/jobs/view/4439264318/) — Penske Truck Leasing
+- 📍 **Location:** Denver, CO
+- 💰 **Salary:** $71,800- $95,200/annually
 - 🕒 **Posted:** 2026-08-08
 
-### [Program Coordinator - Hope Station](https://www.linkedin.com/jobs/view/4451049204/) — Carlisle Area Chamber of Commerce
-- 📍 **Location:** Carlisle, PA
+### [Case Supervisor (Practicum Student)](https://www.linkedin.com/jobs/view/4442136579/) — Soar Autism Center
+- 📍 **Location:** Denver, CO
+- 💰 **Salary:** $22.50 - $27.00/hour
 - 🕒 **Posted:** 2026-08-08
 
-### [Program Coordinator II](https://www.linkedin.com/jobs/view/4451033523/) — San Diego State University
-- 📍 **Location:** San Diego, CA
-- 💰 **Salary:** $5,858.67 - $9,347.58
+### [Case Supervisor (Practicum Student)](https://www.linkedin.com/jobs/view/4442143134/) — Soar Autism Center
+- 📍 **Location:** Golden, CO
+- 💰 **Salary:** $22.50 - $27.00/hour
 - 🕒 **Posted:** 2026-08-08
 
-### [Program Coordinator](https://www.linkedin.com/jobs/view/4451046300/) — Sevita
-- 📍 **Location:** San Angelo, TX
+### [Case Supervisor (Practicum Student)](https://www.linkedin.com/jobs/view/4442143130/) — Soar Autism Center
+- 📍 **Location:** Denver, CO
+- 💰 **Salary:** $22.50 - $27.00/hour
 - 🕒 **Posted:** 2026-08-08
 
-### [Case Manager (Briarwood Family Residence)](https://www.linkedin.com/jobs/view/4451043395/) — The Salvation Army
-- 📍 **Location:** Jamaica, NY
+### [Case Supervisor (Practicum Student)](https://www.linkedin.com/jobs/view/4442143131/) — Soar Autism Center
+- 📍 **Location:** Denver, CO
+- 💰 **Salary:** $22.50 - $27.00/hour
 - 🕒 **Posted:** 2026-08-08
 
-### [Life Enrichment Supervisor](https://www.linkedin.com/jobs/view/4451046305/) — Greencroft Communities
-- 📍 **Location:** Savoy, IL
-- 💰 **Salary:** $18.71 - $30.21
+### [Associate Case Manager](https://www.linkedin.com/jobs/view/4362326269/) — Greater Cincinnati Behavioral Health Services
+- 📍 **Location:** Cincinnati, OH
+- 💰 **Salary:** $17.11/hr - $17.11/hr
 - 🕒 **Posted:** 2026-08-08
 
-### [Mobile Health - Program Manager](https://www.linkedin.com/jobs/view/4440165435/) — Central City Concern
-- 📍 **Location:** Portland, OR
-- 💰 **Salary:** $79,000- $111,000
+### [Family Support Worker / Parent and Early Childhood Educator](https://www.linkedin.com/jobs/view/4311596878/) — Greater Cincinnati Behavioral Health Services
+- 📍 **Location:** Cincinnati, OH
+- 💰 **Salary:** $38,000.00/yr - $40,000.00/yr
 - 🕒 **Posted:** 2026-08-08
 
-### [Case Manager (Towards Ending Homelessness for Young Queenslanders). Maximum Term, Full Time - Moreton Region](https://www.linkedin.com/jobs/view/4450548766/) — DUO Services Australia
-- 📍 **Location:** Brisbane, Queensland, Australia
+### [Family Partner Behavioral Health Specialist (Baltimore City)](https://www.linkedin.com/jobs/view/4451095015/) — The Parents' Place of Maryland
+- 📍 **Location:** Lake County, IN
 - 🕒 **Posted:** 2026-08-08
 
-### [Social Worker](https://www.linkedin.com/jobs/view/4450557310/) — Genesis
-- 📍 **Location:** Lancaster, PA
-- 💰 **Salary:** $24.00/hr - $28.00/hr
+### [Care Coordinator](https://www.linkedin.com/jobs/view/4428862725/) — Jewish Board of Family and Children's Services
+- 📍 **Location:** Bronx, NY
 - 🕒 **Posted:** 2026-08-08
 
-### [Supervisor Case Management Social Work](https://www.linkedin.com/jobs/view/4450558198/) — St. David's HealthCare
-- 📍 **Location:** Austin, TX
+### [RESIDENTIAL PROGRAM SUPERVISOR](https://www.linkedin.com/jobs/view/4451074993/) — RISE Housing and Support Services
+- 📍 **Location:** Indiana, United States
+- 💰 **Salary:** $21 to $24 per hour
 - 🕒 **Posted:** 2026-08-08
 
-### [Supervisor, Campus Behavioral Health Operations and External Relations](https://www.linkedin.com/jobs/view/4451032712/) — Texas Child Psychiatry Access Network (CPAN)
-- 📍 **Location:** Austin, TX
+### [Case Manager LTFC](https://www.linkedin.com/jobs/view/4442415912/) — Holy Family Institute
+- 📍 **Location:** Moon, PA
 - 🕒 **Posted:** 2026-08-08
 
-### [Case Manager Social Worker](https://www.linkedin.com/jobs/view/4439280037/) — Trinity Health MI
-- 📍 **Location:** Livonia, MI
+### [Crisis Program Supervisor](https://www.linkedin.com/jobs/view/4439268153/) — Pacific Clinics
+- 📍 **Location:** Fairfield, CA
+- 💰 **Salary:** $79,295 - $97,523 per year
 - 🕒 **Posted:** 2026-08-08
 
-### [Spa Supervisor - The Wickaninnish Inn](https://www.linkedin.com/jobs/view/4451052067/) — Wickaninnish Inn
-- 📍 **Location:** Ucluelet, British Columbia, Canada
+### [Family Strengthening Supervisor](https://www.linkedin.com/jobs/view/4433538761/) — Bethany Christian Services
+- 📍 **Location:** Effingham, IL
 - 🕒 **Posted:** 2026-08-08
 
-### [Mental Health Team Leader. Permanent Full Time - Fremantle](https://www.linkedin.com/jobs/view/4450544842/) — DUO Services Australia
-- 📍 **Location:** Perth, Western Australia, Australia
+### [Social Worker – MSW – FT – Day – MHW](https://www.linkedin.com/jobs/view/4414700806/) — Memorial Healthcare System
+- 📍 **Location:** Pembroke Pines, FL
 - 🕒 **Posted:** 2026-08-08
 
-### [REACH Program Supervisor](https://www.linkedin.com/jobs/view/4451047251/) — Easterseals PORT Health
-- 📍 **Location:** Staunton, VA
+### [Clinical Supervisor - Child ACT Program](https://www.linkedin.com/jobs/view/4397984086/) — Sweetser
+- 📍 **Location:** Saco, ME
+- 💰 **Salary:** $70,000 - $78,000
 - 🕒 **Posted:** 2026-08-08
 
-### [Advanced Social Worker - Warwick](https://www.linkedin.com/jobs/view/4450050431/) — WMJobs
-- 📍 **Location:** Warwick, England, United Kingdom
+### [Social Worker, South Hospital](https://www.linkedin.com/jobs/view/4451081414/) — UofL Health
+- 📍 **Location:** Louisville, KY
 - 🕒 **Posted:** 2026-08-08
 
-### [Children's Senior Social Worker - Family Safeguarding](https://www.linkedin.com/jobs/view/4450044590/) — WMJobs
-- 📍 **Location:** Telford, England, United Kingdom
+### [In-house Family Care Coordinator](https://www.linkedin.com/jobs/view/4444373234/) — DCI Donor Services, Inc.
+- 📍 **Location:** Albuquerque, NM
+- 🕒 **Posted:** 2026-08-08
+
+### [Peer Support Specialist](https://www.linkedin.com/jobs/view/4450902919/) — WNY Independent Living Inc.
+- 📍 **Location:** Buffalo, NY
+- 💰 **Salary:** $40,000- $42,000/Year
+- 🕒 **Posted:** 2026-08-08
+
+### [Community Health Worker - DSNP (Honolulu)](https://www.linkedin.com/jobs/view/4442464073/) — HMSA
+- 📍 **Location:** Honolulu, HI
+- 💰 **Salary:** $47,500 - $88,000
+- 🕒 **Posted:** 2026-08-08
+
+### [Social Worker](https://www.linkedin.com/jobs/view/4451079522/) — Brant Community Healthcare System
+- 📍 **Location:** Brantford, Ontario, Canada
+- 🕒 **Posted:** 2026-08-08
+
+### [Mental Health Case Manager](https://www.linkedin.com/jobs/view/4345827609/) — Greater Cincinnati Behavioral Health Services
+- 📍 **Location:** Amelia, OH
+- 🕒 **Posted:** 2026-08-08
+
+### [RN Case Manager (Full-Time) - Case Management](https://www.linkedin.com/jobs/view/4441315499/) — McLeod Health
+- 📍 **Location:** South Carolina, United States
+- 🕒 **Posted:** 2026-08-08
+
+### [Senior Vocational Case Manager](https://www.linkedin.com/jobs/view/4450911258/) — NADAP
+- 📍 **Location:** Hempstead, NY
+- 🕒 **Posted:** 2026-08-08
+
+### [Social Worker](https://www.linkedin.com/jobs/view/4415952559/) — Ascension
+- 📍 **Location:** Nashville, TN
+- 🕒 **Posted:** 2026-08-08
+
+### [Crisis Counselor/Specialist (Residential Program)](https://www.linkedin.com/jobs/view/4442171706/) — Chimes
+- 📍 **Location:** Exton, PA
+- 🕒 **Posted:** 2026-08-08
+
+### [Crisis Counselor/Specialist (Intervention Program) - Full-Time](https://www.linkedin.com/jobs/view/4442173702/) — Holcomb Behavioral Health Systems - A Chimes Company
+- 📍 **Location:** Exton, PA
+- 🕒 **Posted:** 2026-08-08
+
+### [Program Coordinator II, STEP UP  Monroe Community College](https://www.linkedin.com/jobs/view/4450919126/) — Monroe Community College
+- 📍 **Location:** Rochester, NY
+- 🕒 **Posted:** 2026-08-08
+
+### [Social Worker Licensed](https://www.linkedin.com/jobs/view/4433406031/) — RWJBarnabas Health
+- 📍 **Location:** Elizabeth, NJ
+- 💰 **Salary:** $37.41 - $46.77 per hour
+- 🕒 **Posted:** 2026-08-08
+
+### [Social Worker (SW) - Case Management](https://www.linkedin.com/jobs/view/4451073975/) — Desert Care Network
+- 📍 **Location:** Palm Springs, CA
+- 💰 **Salary:** $35.32 - $54.75 hourly
+- 🕒 **Posted:** 2026-08-08
+
+### [Social Worker](https://www.linkedin.com/jobs/view/4451097004/) — Nottinghamshire County Council
+- 📍 **Location:** Nottinghamshire, England, United Kingdom
 - 🕒 **Posted:** 2026-08-08
