@@ -1,48 +1,60 @@
 # 🔥 LinkedIn — Social Worker Roles
-*Last updated: 2026-08-08 21:03 UTC*
+*Last updated: 2026-08-08 22:02 UTC*
 
-**10 new role(s)** since last run · 10 total in last 1h
+**12 new role(s)** since last run · 22 total in last 1h
 
-### [BCBA Candidate | Program Manager](https://www.linkedin.com/jobs/view/4450911661/) — Autism Learning Partners
-- 📍 **Location:** Silver Spring, MD
-- 💰 **Salary:** $24.00 - $28.85 per hour
+### [Social Worker](https://www.linkedin.com/jobs/view/4451307149/) — Nottinghamshire County Council
+- 📍 **Location:** Nottinghamshire, England, United Kingdom
 - 🕒 **Posted:** 2026-08-08
 
-### [BCBA Candidate | Program Manager](https://www.linkedin.com/jobs/view/4450923425/) — Autism Learning Partners
-- 📍 **Location:** Bronx, NY
-- 💰 **Salary:** $24.00 - $28.85 per hour
+### [Bilingual Disability Case Manager II](https://www.linkedin.com/jobs/view/4451092999/) — Co-operators
+- 📍 **Location:** Calgary, Alberta, Canada
+- 💰 **Salary:** $60,574 - $100,956
 - 🕒 **Posted:** 2026-08-08
 
-### [Case Manager - MEB (OHARNG)](https://www.linkedin.com/jobs/view/4450369576/) — KSA Integration
-- 📍 **Location:** Columbus, OH
+### [Disability Case Manager II](https://www.linkedin.com/jobs/view/4451308102/) — Co-operators
+- 📍 **Location:** Greater Montreal Metropolitan Area
+- 💰 **Salary:** $60,574 - $100,956
 - 🕒 **Posted:** 2026-08-08
 
-### [Program Coordinator-PHS-Workforce Development/Chronic Disease](https://www.linkedin.com/jobs/view/4451098639/) — County Health Executives Association of California (CHEAC)
-- 📍 **Location:** San Diego, CA
+### [Disability Case Manager II](https://www.linkedin.com/jobs/view/4451302346/) — Co-operators
+- 📍 **Location:** Toronto, Ontario, Canada
+- 💰 **Salary:** $60,574 - $100,956
 - 🕒 **Posted:** 2026-08-08
 
-### [Program Coordinator](https://www.linkedin.com/jobs/view/4451301520/) — JPRO of the Greater Palm Beaches
-- 📍 **Location:** New York, NY
+### [Disability Case Manager II](https://www.linkedin.com/jobs/view/4451310100/) — Co-operators
+- 📍 **Location:** Mississauga, Ontario, Canada
+- 💰 **Salary:** $60,574 - $100,956
 - 🕒 **Posted:** 2026-08-08
 
-### [Social Worker Kāpiti and Porirua](https://www.linkedin.com/jobs/view/4450927291/) — Oranga Tamariki—Ministry for Children
-- 📍 **Location:** Porirua, Wellington, New Zealand
-- 💰 **Salary:** $81,206 to $97,557
+### [Bilingual Disability Case Manager II](https://www.linkedin.com/jobs/view/4451094841/) — Co-operators
+- 📍 **Location:** Toronto, Ontario, Canada
+- 💰 **Salary:** $60,574 - $100,956
 - 🕒 **Posted:** 2026-08-08
 
-### [Community Care Coordinator (Ogden, Utah) Full-Time](https://www.linkedin.com/jobs/view/4449262617/) — NovumHealth
-- 📍 **Location:** Murray, UT
+### [Program Coordinator](https://www.linkedin.com/jobs/view/4449272497/) — Partnership for After School Education (PASE)
+- 📍 **Location:** Queens, NY
 - 🕒 **Posted:** 2026-08-08
 
-### [Home Team Supervisor](https://www.linkedin.com/jobs/view/4451302198/) — Walmart
-- 📍 **Location:** El Reno, OK
-- 💰 **Salary:** $19.00/hr - $32.00/hr
+### [Field Care Coordinator in TN](https://www.linkedin.com/jobs/view/4451093949/) — UnitedHealthcare
+- 📍 **Location:** Lexington, TN
+- 💰 **Salary:** $29.00 to $52.00 per hour
 - 🕒 **Posted:** 2026-08-08
 
-### [Lead Case Manager (OHARNG)](https://www.linkedin.com/jobs/view/4450376492/) — KSA Integration
-- 📍 **Location:** Columbus, OH
+### [Case Manager](https://www.linkedin.com/jobs/view/4451090980/) — Augusta Richmond County Judicial Center
+- 📍 **Location:** Augusta, GA
 - 🕒 **Posted:** 2026-08-08
 
-### [restaurant supervisor](https://www.linkedin.com/jobs/view/4451096724/) — Rickys Group of Family-Style Restaurants
-- 📍 **Location:** Camrose, Alberta, Canada
+### [Disability Case Manager II](https://www.linkedin.com/jobs/view/4451307150/) — Co-operators
+- 📍 **Location:** Regina, Saskatchewan, Canada
+- 💰 **Salary:** $60,574 - $100,956
+- 🕒 **Posted:** 2026-08-08
+
+### [Rooms Controller Supervisor](https://www.linkedin.com/jobs/view/4451089970/) — Marriott Pittsburgh City Center
+- 📍 **Location:** Pittsburgh, PA
+- 🕒 **Posted:** 2026-08-08
+
+### [Disability Case Manager II](https://www.linkedin.com/jobs/view/4451097745/) — Co-operators
+- 📍 **Location:** Guelph, Ontario, Canada
+- 💰 **Salary:** $60,574 - $100,956
 - 🕒 **Posted:** 2026-08-08
