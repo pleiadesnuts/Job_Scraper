@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-08 22:18 UTC",
-  "total": 93,
-  "new_count": 1,
+  "scraped_at": "2026-08-08 23:22 UTC",
+  "total": 92,
+  "new_count": 0,
   "jobs": [
     {
       "company": "Hertford Rehabilitation and Healthcare",
@@ -130,20 +130,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Northern Maine Medical Center",
-      "title": "Social Worker",
-      "location": "Fort Kent, Maine, United States",
-      "url": "https://secure6.saashr.com/ta/6033683.careers?ShowJob=705332483",
-      "direct_url": "https://secure6.saashr.com/ta/6033683.careers?ShowJob=705332483",
-      "date_posted": "2026-07-23T19:58:45.898Z",
-      "description": "Provide psychosocial assessments, discharge planning, case management, referrals, and interdisciplinary coordination; must hold a Maine social worker license and bachelor\\u0002s degree in social work.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "JGS Lifecare",
       "title": "Social Worker",
       "location": "Longmeadow, Massachusetts, United States",
@@ -256,20 +242,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Ecumen",
-      "title": "Hospice Social Worker",
-      "location": "Saint Cloud, Minnesota, United States",
-      "url": "https://gusea1p01.rec.pro.ukg.net/ECU1001ECUME/JobBoard/207e3ae3-3dc1-41dd-955c-28a1f0a24775/OpportunityDetail?opportunityId=084cc734-9273-4262-9024-b00f943167d0",
-      "direct_url": "https://gusea1p01.rec.pro.ukg.net/ECU1001ECUME/JobBoard/207e3ae3-3dc1-41dd-955c-28a1f0a24775/OpportunityDetail?opportunityId=084cc734-9273-4262-9024-b00f943167d0",
-      "date_posted": "2026-08-03T01:23:35.486Z",
-      "description": "Bachelor's in social work, licensed social worker in Minnesota, valid driver’s license, 2 years healthcare social work experience, CPR/ability to communicate, and Microsoft Office proficiency.",
-      "salary": "$62k–$73k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Lifespacecommunities",
       "title": "Qualified Social Worker",
       "location": "Delray Beach, Florida, United States",
@@ -278,6 +250,20 @@
       "date_posted": "2026-07-23T00:00:00.000Z",
       "description": "Master's in social work with 1 year healthcare experience OR bachelor's in social work/related field with 3 years; licensed social worker required; proficiency in documentation and resident advocacy.",
       "salary": "$57k–$78k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Ecumen",
+      "title": "Hospice Social Worker",
+      "location": "Saint Cloud, Minnesota, United States",
+      "url": "https://gusea1p01.rec.pro.ukg.net/ECU1001ECUME/JobBoard/207e3ae3-3dc1-41dd-955c-28a1f0a24775/OpportunityDetail?opportunityId=084cc734-9273-4262-9024-b00f943167d0",
+      "direct_url": "https://gusea1p01.rec.pro.ukg.net/ECU1001ECUME/JobBoard/207e3ae3-3dc1-41dd-955c-28a1f0a24775/OpportunityDetail?opportunityId=084cc734-9273-4262-9024-b00f943167d0",
+      "date_posted": "2026-08-03T01:23:35.486Z",
+      "description": "Bachelor's in social work, licensed social worker in Minnesota, valid driver’s license, 2 years healthcare social work experience, CPR/ability to communicate, and Microsoft Office proficiency.",
+      "salary": "$62k–$73k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
@@ -690,20 +676,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Bollinger Shipyards",
-      "title": "Program Coordinator",
-      "location": "Houma, Louisiana, United States",
-      "url": "https://bollingershipyards.exacthire.com/job/205502",
-      "direct_url": "https://bollingershipyards.exacthire.com/job/205502",
-      "date_posted": "2026-08-06T18:34:14.000Z",
-      "description": "Requires 5–10 years of program coordination, project management, or related experience, an associate's degree or equivalent, strong organization, communication, analysis, leadership, and process optimization skills.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Associated",
       "title": "Program Coordinator",
       "location": "Baltimore, Maryland, United States",
@@ -712,6 +684,20 @@
       "date_posted": "2026-07-14T04:00:00.000Z",
       "description": "Experience coordinating programs, supervising staff, strong customer service, proficiency with CRM and Microsoft Office, ability to lift up to 25 lbs, and excellent communication and organizational skills.",
       "salary": "$43k–$48k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Bollinger Shipyards",
+      "title": "Program Coordinator",
+      "location": "Houma, Louisiana, United States",
+      "url": "https://bollingershipyards.exacthire.com/job/205502",
+      "direct_url": "https://bollingershipyards.exacthire.com/job/205502",
+      "date_posted": "2026-08-06T18:34:14.000Z",
+      "description": "Requires 5–10 years of program coordination, project management, or related experience, an associate's degree or equivalent, strong organization, communication, analysis, leadership, and process optimization skills.",
+      "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
@@ -1306,20 +1292,5 @@
       "ats": "HiringCafe"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Northern Maine Medical Center",
-      "title": "Social Worker",
-      "location": "Fort Kent, Maine, United States",
-      "url": "https://secure6.saashr.com/ta/6033683.careers?ShowJob=705332483",
-      "direct_url": "https://secure6.saashr.com/ta/6033683.careers?ShowJob=705332483",
-      "date_posted": "2026-07-23T19:58:45.898Z",
-      "description": "Provide psychosocial assessments, discharge planning, case management, referrals, and interdisciplinary coordination; must hold a Maine social worker license and bachelor\\u0002s degree in social work.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    }
-  ]
+  "new_jobs": []
 }
