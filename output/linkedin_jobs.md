@@ -1,24 +1,28 @@
 # 🔥 LinkedIn — Social Worker Roles
-*Last updated: 2026-08-09 20:06 UTC*
+*Last updated: 2026-08-09 21:05 UTC*
 
-**5 new role(s)** since last run · 17 total in last 1h
+**5 new role(s)** since last run · 5 total in last 1h
 
-### [Mission Services - Case Manager (Staff Support Program)](https://www.linkedin.com/jobs/view/4451363463/) — Goodwill Industries of Greater Cleveland and East Central Ohio, Inc.
-- 📍 **Location:** Canton, OH
+### [Program Manager of Community Nutrition and Food as Medicine Initiatives](https://www.linkedin.com/jobs/view/4448042344/) — 4Saints Episcopal Food Pantry
+- 📍 **Location:** Fort Worth, TX
 - 🕒 **Posted:** 2026-08-09
 
-### [Supervisor](https://www.linkedin.com/jobs/view/4450995466/) — Queensland Corrective Services
-- 📍 **Location:** Ipswich, Queensland, Australia
+### [Onboarding supervisor Night shift](https://www.linkedin.com/jobs/view/4451367405/) — Pilgrim's
+- 📍 **Location:** Canton, GA
+- 💰 **Salary:** $50k -$60k
 - 🕒 **Posted:** 2026-08-09
 
-### [Health Educator II, (A266027-2), 204, Healthy Texas Babies](https://www.linkedin.com/jobs/view/4451364437/) — City of Laredo
-- 📍 **Location:** Laredo, TX
+### [Legal Intake Specialist (Bilingual)](https://www.linkedin.com/jobs/view/4450972863/) — Brandon J. Broderick, Personal Injury Attorney at Law
+- 📍 **Location:** Hackensack, NJ
+- 💰 **Salary:** $55,000—$60,000 USD
 - 🕒 **Posted:** 2026-08-09
 
-### [Health Educator](https://www.linkedin.com/jobs/view/4451373003/) — Adagio Health
-- 📍 **Location:** Pittsburgh, PA
+### [Team Leader Better Living (HM3) - Forensic Hospital, Malabar Justice Health - PFT](https://www.linkedin.com/jobs/view/4446575117/) — NSW Justice Health & Forensic Mental Health Network
+- 📍 **Location:** Sydney, New South Wales, Australia
+- 💰 **Salary:** $137,525 - $156,231
 - 🕒 **Posted:** 2026-08-09
 
-### [Program Coordinator](https://www.linkedin.com/jobs/view/4451361508/) — USC Marshall School of Business
-- 📍 **Location:** Huntington, WV
+### [Home Team Supervisor](https://www.linkedin.com/jobs/view/4451353832/) — Walmart
+- 📍 **Location:** Davenport, IA
+- 💰 **Salary:** $21.00/hr - $34.00/hr
 - 🕒 **Posted:** 2026-08-09
