@@ -1,42 +1,96 @@
 # 🔥 LinkedIn — Social Worker Roles
-*Last updated: 2026-08-09 02:44 UTC*
+*Last updated: 2026-08-09 16:03 UTC*
 
-**9 new role(s)** since last run · 9 total in last 1h
+**21 new role(s)** since last run · 21 total in last 1h
 
-### [Concierge Security Supervisor](https://www.linkedin.com/jobs/view/4450935147/) — GardaWorld
-- 📍 **Location:** Cheyenne, WY
+### [[REMOTE] Intake Specialist - ENTRY LEVEL - START IMMEDIATELY](https://www.linkedin.com/jobs/view/4451361192/) — World In Progress
+- 📍 **Location:** United States
 - 🕒 **Posted:** 2026-08-09
 
-### [Medical Social Worker - Hospice -Full time](https://www.linkedin.com/jobs/view/4450938105/) — Dartmouth Health
-- 📍 **Location:** White River Junction, VT
+### [Site Supervisor](https://www.linkedin.com/jobs/view/4414717206/) — SBM Management Services, LP
+- 📍 **Location:** Denver, CO
 - 🕒 **Posted:** 2026-08-09
 
-### [Social Worker - Children in Care/ LAC](https://www.linkedin.com/jobs/view/4444946405/) — London Borough of Newham
-- 📍 **Location:** London, England, United Kingdom
+### [Care Coordinator](https://www.linkedin.com/jobs/view/4450962006/) — Umpqua Health
+- 📍 **Location:** Roseburg, OR
+- 💰 **Salary:** $80,470- $92,000
 - 🕒 **Posted:** 2026-08-09
 
-### [Lunchtime Supervisor](https://www.linkedin.com/jobs/view/4450928780/) — Compass Community
-- 📍 **Location:** Sowerby Bridge, England, United Kingdom
+### [Social Worker](https://www.linkedin.com/jobs/view/4451345956/) — Brant Community Healthcare System
+- 📍 **Location:** Brantford, Ontario, Canada
 - 🕒 **Posted:** 2026-08-09
 
-### [Entertainment Team Supervisor](https://www.linkedin.com/jobs/view/4451322428/) — Walmart
-- 📍 **Location:** Gainesville, TX
-- 💰 **Salary:** $19.00/hr - $32.00/hr
+### [Education Specialist, Sim Center](https://www.linkedin.com/jobs/view/4448584155/) — WakeMed
+- 📍 **Location:** Raleigh, NC
 - 🕒 **Posted:** 2026-08-09
 
-### [SNF Case Manager](https://www.linkedin.com/jobs/view/4449271271/) — Astrana Health
-- 📍 **Location:** Houston, TX
-- 💰 **Salary:** $27.00/hr - $42.00/hr
+### [DHS PROGRAM MANAGER - 08042026- 79733](https://www.linkedin.com/jobs/view/4448292061/) — State of Tennessee
+- 📍 **Location:** Nashville, TN
+- 💰 **Salary:** $5,100.00 - $6,373.00
 - 🕒 **Posted:** 2026-08-09
 
-### [Residential Team Leader - Liskeard](https://www.linkedin.com/jobs/view/4450924842/) — Five Rivers
-- 📍 **Location:** Cornwall, England, United Kingdom
+### [Patient Care Coordinator](https://www.linkedin.com/jobs/view/4442466850/) — Smile Brands Inc.
+- 📍 **Location:** Janesville, WI
+- 💰 **Salary:** $18-$22/hour
 - 🕒 **Posted:** 2026-08-09
 
-### [Campus Experience & Security Supervisor](https://www.linkedin.com/jobs/view/4450929645/) — BIMM University
-- 📍 **Location:** Essex, England, United Kingdom
+### [Social Worker IV (Court Appointed Special Advocates) - Kapolei, Oahu](https://www.linkedin.com/jobs/view/4450954496/) — Hawai`i State Judiciary Careers
+- 📍 **Location:** Kapolei, HI
 - 🕒 **Posted:** 2026-08-09
 
-### [SWRK 5231 - G3 Social Worker (609283)](https://www.linkedin.com/jobs/view/4450920886/) — South Lanarkshire Council
-- 📍 **Location:** South Lanarkshire, Scotland, United Kingdom
+### [Program Manager  Residential](https://www.linkedin.com/jobs/view/4450965051/) — Unity House
+- 📍 **Location:** Auburn, NY
+- 🕒 **Posted:** 2026-08-09
+
+### [Field Implementation Support Program Manager, FISP](https://www.linkedin.com/jobs/view/4424928644/) — University of Illinois Urbana-Champaign
+- 📍 **Location:** Urbana, IL
+- 💰 **Salary:** $78,000 - $82,000
+- 🕒 **Posted:** 2026-08-09
+
+### [Copy Supervisor](https://www.linkedin.com/jobs/view/4415541316/) — BGBx
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $95,000 - $130,000 USD
+- 🕒 **Posted:** 2026-08-09
+
+### [Social Worker IV (DL) - Kailua-Kona, Hawaii](https://www.linkedin.com/jobs/view/4444825790/) — Hawai`i State Judiciary Careers
+- 📍 **Location:** Kailua-Kona, HI
+- 🕒 **Posted:** 2026-08-09
+
+### [Licensed Master Social Worker](https://www.linkedin.com/jobs/view/4424952112/) — Ascension Living
+- 📍 **Location:** Wichita, KS
+- 💰 **Salary:** $52,117.00 - $76,221.11 per year
+- 🕒 **Posted:** 2026-08-09
+
+### [Social Worker - Gumdale State School](https://www.linkedin.com/jobs/view/4451362152/) — Queensland Government
+- 📍 **Location:** East Brisbane, Queensland, Australia
+- 🕒 **Posted:** 2026-08-09
+
+### [Community & Executive Escalations Program Manager](https://www.linkedin.com/jobs/view/4433432558/) — Anthropic
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $210,000—$260,000 USD
+- 🕒 **Posted:** 2026-08-09
+
+### [Assistant / Care Coordinator*](https://www.linkedin.com/jobs/view/3570088273/) — National University Polyclinics
+- 📍 **Location:** Singapore, Singapore
+- 🕒 **Posted:** 2026-08-09
+
+### [Sr. Medical Case Manager](https://www.linkedin.com/jobs/view/4393598048/) — Crawford & Company
+- 📍 **Location:** Los Angeles, CA
+- 💰 **Salary:** $26.65 – $48.74 per hour
+- 🕒 **Posted:** 2026-08-09
+
+### [Social Worker (Location: Restoration Home)](https://www.linkedin.com/jobs/view/4451360234/) — Blanket Fort Hope
+- 📍 **Location:** Home, KS
+- 🕒 **Posted:** 2026-08-09
+
+### [Family Support Worker](https://www.linkedin.com/jobs/view/4450966043/) — WMJobs
+- 📍 **Location:** Warwickshire, England, United Kingdom
+- 🕒 **Posted:** 2026-08-09
+
+### [Retail Supervisor](https://www.linkedin.com/jobs/view/4451348817/) — Welcome Break
+- 📍 **Location:** Lisburn, Northern Ireland, United Kingdom
+- 🕒 **Posted:** 2026-08-09
+
+### [Social Worker](https://www.linkedin.com/jobs/view/4451354371/) — Nottinghamshire County Council
+- 📍 **Location:** Nottinghamshire, England, United Kingdom
 - 🕒 **Posted:** 2026-08-09
