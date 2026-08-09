@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-08-08 23:22 UTC",
-  "total": 92,
+  "scraped_at": "2026-08-09 00:46 UTC",
+  "total": 91,
   "new_count": 0,
   "jobs": [
     {
@@ -242,20 +242,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Lifespacecommunities",
-      "title": "Qualified Social Worker",
-      "location": "Delray Beach, Florida, United States",
-      "url": "https://lifespacecommunities.wd1.myworkdayjobs.com/careers/job/Delray-Beach-FL/Qualified-Social-Worker_JR2602451-1",
-      "direct_url": "https://lifespacecommunities.wd1.myworkdayjobs.com/careers/job/Delray-Beach-FL/Qualified-Social-Worker_JR2602451-1",
-      "date_posted": "2026-07-23T00:00:00.000Z",
-      "description": "Master's in social work with 1 year healthcare experience OR bachelor's in social work/related field with 3 years; licensed social worker required; proficiency in documentation and resident advocacy.",
-      "salary": "$57k–$78k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Ecumen",
       "title": "Hospice Social Worker",
       "location": "Saint Cloud, Minnesota, United States",
@@ -264,6 +250,20 @@
       "date_posted": "2026-08-03T01:23:35.486Z",
       "description": "Bachelor's in social work, licensed social worker in Minnesota, valid driver’s license, 2 years healthcare social work experience, CPR/ability to communicate, and Microsoft Office proficiency.",
       "salary": "$62k–$73k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Lifespacecommunities",
+      "title": "Qualified Social Worker",
+      "location": "Delray Beach, Florida, United States",
+      "url": "https://lifespacecommunities.wd1.myworkdayjobs.com/careers/job/Delray-Beach-FL/Qualified-Social-Worker_JR2602451-1",
+      "direct_url": "https://lifespacecommunities.wd1.myworkdayjobs.com/careers/job/Delray-Beach-FL/Qualified-Social-Worker_JR2602451-1",
+      "date_posted": "2026-07-23T00:00:00.000Z",
+      "description": "Master's in social work with 1 year healthcare experience OR bachelor's in social work/related field with 3 years; licensed social worker required; proficiency in documentation and resident advocacy.",
+      "salary": "$57k–$78k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
@@ -573,20 +573,6 @@
       "description": "RN with an associate degree or higher; case management experience in acute hospital settings preferred; certification in case management (ACM or CCM) preferred.",
       "salary": "$82k–$106k/yr",
       "job_type": "Part Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Naqvi Injury Law",
-      "title": "Case Manager",
-      "location": "Las Vegas, Nevada, United States",
-      "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4356712",
-      "direct_url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4356712",
-      "date_posted": "2026-07-22T23:15:55.000Z",
-      "description": "2+ years personal injury case management experience, excellent written and verbal communication, strong attention to detail, and exceptional customer service.",
-      "salary": "",
-      "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
       "ats": "HiringCafe"
