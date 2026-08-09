@@ -1,6 +1,10 @@
 # ☕ HiringCafe — Social Worker Roles
-*Last updated: 2026-08-09 18:31 UTC*
+*Last updated: 2026-08-09 19:32 UTC*
 
-**0 new role(s)** since last run · 91 total in last 30d
+**1 new role(s)** since last run · 92 total in last 30d
 
-No new roles since the last run.
+### [Case Manager](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4356712) — Naqvi Injury Law
+- 📍 **Location:** Las Vegas, Nevada, United States
+- **Work mode:** On-site
+- **Job type:** Full Time
+- 🕒 **Posted:** 2026-07-22T23:15:55.000Z
