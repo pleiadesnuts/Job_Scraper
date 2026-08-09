@@ -1,96 +1,90 @@
 # 🔥 LinkedIn — Social Worker Roles
-*Last updated: 2026-08-09 16:03 UTC*
+*Last updated: 2026-08-09 17:16 UTC*
 
-**21 new role(s)** since last run · 21 total in last 1h
+**20 new role(s)** since last run · 20 total in last 1h
 
-### [[REMOTE] Intake Specialist - ENTRY LEVEL - START IMMEDIATELY](https://www.linkedin.com/jobs/view/4451361192/) — World In Progress
-- 📍 **Location:** United States
+### [Case Manager Shelter](https://www.linkedin.com/jobs/view/4451359270/) — Porchlight | Building Home Improvement Brands
+- 📍 **Location:** Madison, WI
 - 🕒 **Posted:** 2026-08-09
 
-### [Site Supervisor](https://www.linkedin.com/jobs/view/4414717206/) — SBM Management Services, LP
-- 📍 **Location:** Denver, CO
+### [Associate Program Manager – WellSky Foundation](https://www.linkedin.com/jobs/view/4450972042/) — Nonprofit Connect
+- 📍 **Location:** Overland Park, KS
 - 🕒 **Posted:** 2026-08-09
 
-### [Care Coordinator](https://www.linkedin.com/jobs/view/4450962006/) — Umpqua Health
-- 📍 **Location:** Roseburg, OR
-- 💰 **Salary:** $80,470- $92,000
+### [Community Based Care Coordinator I - R10259-15](https://www.linkedin.com/jobs/view/4396756902/) — CareSource
+- 📍 **Location:** Monticello, AR
+- 💰 **Salary:** $37,080.00 - $59,400.00
 - 🕒 **Posted:** 2026-08-09
 
-### [Social Worker](https://www.linkedin.com/jobs/view/4451345956/) — Brant Community Healthcare System
-- 📍 **Location:** Brantford, Ontario, Canada
+### [Community Based Care Coordinator I - R10259-10](https://www.linkedin.com/jobs/view/4396763613/) — CareSource
+- 📍 **Location:** Malvern, AR
+- 💰 **Salary:** $37,080.00 - $59,400.00
 - 🕒 **Posted:** 2026-08-09
 
-### [Education Specialist, Sim Center](https://www.linkedin.com/jobs/view/4448584155/) — WakeMed
-- 📍 **Location:** Raleigh, NC
+### [Residential Program Supervisor II-Group Homes](https://www.linkedin.com/jobs/view/4244067916/) — Opportunity Partners
+- 📍 **Location:** Greater Minneapolis-St. Paul Area
 - 🕒 **Posted:** 2026-08-09
 
-### [DHS PROGRAM MANAGER - 08042026- 79733](https://www.linkedin.com/jobs/view/4448292061/) — State of Tennessee
-- 📍 **Location:** Nashville, TN
-- 💰 **Salary:** $5,100.00 - $6,373.00
+### [TDCJ - Program Supervisor IV - Production Coordina](https://www.linkedin.com/jobs/view/4451363187/) — Texas Department Of Criminal Justice
+- 📍 **Location:** Plainview, TX
 - 🕒 **Posted:** 2026-08-09
 
-### [Patient Care Coordinator](https://www.linkedin.com/jobs/view/4442466850/) — Smile Brands Inc.
-- 📍 **Location:** Janesville, WI
-- 💰 **Salary:** $18-$22/hour
+### [TDCJ - Case Manager I I- Special Populations](https://www.linkedin.com/jobs/view/4451355350/) — Texas Department Of Criminal Justice
+- 📍 **Location:** Huntsville, TX
 - 🕒 **Posted:** 2026-08-09
 
-### [Social Worker IV (Court Appointed Special Advocates) - Kapolei, Oahu](https://www.linkedin.com/jobs/view/4450954496/) — Hawai`i State Judiciary Careers
-- 📍 **Location:** Kapolei, HI
+### [Supervisor, Student Services](https://www.linkedin.com/jobs/view/4449508641/) — Broward College
+- 📍 **Location:** Fort Lauderdale, FL
+- 💰 **Salary:** $56,160 - $64,584
 - 🕒 **Posted:** 2026-08-09
 
-### [Program Manager  Residential](https://www.linkedin.com/jobs/view/4450965051/) — Unity House
-- 📍 **Location:** Auburn, NY
+### [Case Manager](https://www.linkedin.com/jobs/view/4451352555/) — TFI, Inc.
+- 📍 **Location:** Hutchinson, KS
 - 🕒 **Posted:** 2026-08-09
 
-### [Field Implementation Support Program Manager, FISP](https://www.linkedin.com/jobs/view/4424928644/) — University of Illinois Urbana-Champaign
-- 📍 **Location:** Urbana, IL
-- 💰 **Salary:** $78,000 - $82,000
+### [TDCJ - Substance Abuse Counselor I,II - Substance](https://www.linkedin.com/jobs/view/4451342987/) — Texas Department Of Criminal Justice
+- 📍 **Location:** Bryan, TX
 - 🕒 **Posted:** 2026-08-09
 
-### [Copy Supervisor](https://www.linkedin.com/jobs/view/4415541316/) — BGBx
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $95,000 - $130,000 USD
+### [Education Program Coordinator](https://www.linkedin.com/jobs/view/4451361284/) — Department of Education and Training
+- 📍 **Location:** Darwin, Northern Territory, Australia
+- 💰 **Salary:** $138,289 - $148,633
 - 🕒 **Posted:** 2026-08-09
 
-### [Social Worker IV (DL) - Kailua-Kona, Hawaii](https://www.linkedin.com/jobs/view/4444825790/) — Hawai`i State Judiciary Careers
-- 📍 **Location:** Kailua-Kona, HI
+### [Domestic Violence Program Manager – Bridge Program](https://www.linkedin.com/jobs/view/4450973020/) — Nonprofit Connect
+- 📍 **Location:** Kansas City, MO
 - 🕒 **Posted:** 2026-08-09
 
-### [Licensed Master Social Worker](https://www.linkedin.com/jobs/view/4424952112/) — Ascension Living
-- 📍 **Location:** Wichita, KS
-- 💰 **Salary:** $52,117.00 - $76,221.11 per year
+### [Home Care Case Manager](https://www.linkedin.com/jobs/view/4451354407/) — LifePath
+- 📍 **Location:** Greenfield, MA
 - 🕒 **Posted:** 2026-08-09
 
-### [Social Worker - Gumdale State School](https://www.linkedin.com/jobs/view/4451362152/) — Queensland Government
-- 📍 **Location:** East Brisbane, Queensland, Australia
+### [TMD - Resident Specialist II (Team Leader)](https://www.linkedin.com/jobs/view/4451362186/) — Texas Military Department
+- 📍 **Location:** Eagle Lake, TX
 - 🕒 **Posted:** 2026-08-09
 
-### [Community & Executive Escalations Program Manager](https://www.linkedin.com/jobs/view/4433432558/) — Anthropic
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $210,000—$260,000 USD
+### [Program Manager](https://www.linkedin.com/jobs/view/4450983017/) — RenuKiran Welfare Foundation
+- 📍 **Location:** Jaipur, Rajasthan, India
 - 🕒 **Posted:** 2026-08-09
 
-### [Assistant / Care Coordinator*](https://www.linkedin.com/jobs/view/3570088273/) — National University Polyclinics
-- 📍 **Location:** Singapore, Singapore
+### [Community Based Care Coordinator I - R10259-9](https://www.linkedin.com/jobs/view/4396760712/) — CareSource
+- 📍 **Location:** Corning, AR
+- 💰 **Salary:** $37,080.00 - $59,400.00
 - 🕒 **Posted:** 2026-08-09
 
-### [Sr. Medical Case Manager](https://www.linkedin.com/jobs/view/4393598048/) — Crawford & Company
+### [RN Case Manager - Value Based Service Organization - Full Time 8 Hour Days (Non-Exempt) (Non-Union)](https://www.linkedin.com/jobs/view/4451364218/) — Keck Medicine of USC
 - 📍 **Location:** Los Angeles, CA
-- 💰 **Salary:** $26.65 – $48.74 per hour
+- 💰 **Salary:** $53.00 - $87.45
 - 🕒 **Posted:** 2026-08-09
 
-### [Social Worker (Location: Restoration Home)](https://www.linkedin.com/jobs/view/4451360234/) — Blanket Fort Hope
-- 📍 **Location:** Home, KS
+### [Case Manager](https://www.linkedin.com/jobs/view/4451358291/) — TFI, Inc.
+- 📍 **Location:** Great Bend, KS
 - 🕒 **Posted:** 2026-08-09
 
-### [Family Support Worker](https://www.linkedin.com/jobs/view/4450966043/) — WMJobs
-- 📍 **Location:** Warwickshire, England, United Kingdom
+### [TDCJ - Case Manager II - Special Populations Progr](https://www.linkedin.com/jobs/view/4451363193/) — Texas Department Of Criminal Justice
+- 📍 **Location:** Huntsville, TX
 - 🕒 **Posted:** 2026-08-09
 
-### [Retail Supervisor](https://www.linkedin.com/jobs/view/4451348817/) — Welcome Break
-- 📍 **Location:** Lisburn, Northern Ireland, United Kingdom
-- 🕒 **Posted:** 2026-08-09
-
-### [Social Worker](https://www.linkedin.com/jobs/view/4451354371/) — Nottinghamshire County Council
-- 📍 **Location:** Nottinghamshire, England, United Kingdom
+### [Before and/or After School Site Supervisor](https://www.linkedin.com/jobs/view/4450945865/) — YMCA of the Suncoast
+- 📍 **Location:** Lecanto, FL
 - 🕒 **Posted:** 2026-08-09
