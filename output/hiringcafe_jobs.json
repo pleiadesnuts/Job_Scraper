@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-09 17:32 UTC",
+  "scraped_at": "2026-08-09 18:31 UTC",
   "total": 91,
-  "new_count": 1,
+  "new_count": 0,
   "jobs": [
     {
       "company": "Hertford Rehabilitation and Healthcare",
@@ -1278,20 +1278,5 @@
       "ats": "HiringCafe"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Specialized Education Services",
-      "title": "Social Worker",
-      "location": "Cincinnati, Ohio, United States",
-      "url": "https://careers.fullbloom.org/jobs/37423?lang=en-us",
-      "direct_url": "https://careers.fullbloom.org/jobs/37423?lang=en-us",
-      "date_posted": "2026-07-28T21:15:05.000Z",
-      "description": "Licensed clinical social worker or counselor (LPC/LCPC, LCSW/LMSW, LMFT/LMHC/LCMHC), master’s degree in social work/human services/related field, 2 years working with children/adolescents preferred.",
-      "salary": "$60k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    }
-  ]
+  "new_jobs": []
 }
