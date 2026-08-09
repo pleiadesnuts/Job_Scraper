@@ -1,6 +1,10 @@
 # ☕ HiringCafe — Social Worker Roles
-*Last updated: 2026-08-09 21:30 UTC*
+*Last updated: 2026-08-09 22:23 UTC*
 
-**0 new role(s)** since last run · 88 total in last 30d
+**1 new role(s)** since last run · 88 total in last 30d
 
-No new roles since the last run.
+### [Social Worker](https://secure6.saashr.com/ta/6033683.careers?ShowJob=705332483) — Northern Maine Medical Center
+- 📍 **Location:** Fort Kent, Maine, United States
+- **Work mode:** On-site
+- **Job type:** Full Time
+- 🕒 **Posted:** 2026-07-23T19:58:45.898Z
