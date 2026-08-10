@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-07 16:36 UTC",
-  "total": 16,
-  "new_count": 15,
+  "scraped_at": "2026-08-10 16:37 UTC",
+  "total": 11,
+  "new_count": 4,
   "jobs": [
     {
       "company": "U.S. Coast Guard",
@@ -10,6 +10,15 @@
       "url": "https://www.usajobs.gov/job/879733700",
       "date_posted": "2026-08-07",
       "salary": "Starting at $89,508 Per year (GS 12)",
+      "ats": "USAJOBS"
+    },
+    {
+      "company": "Veterans Health Administration",
+      "title": "Senior Social Worker (Suicide Prevention)",
+      "location": "El Paso, Texas",
+      "url": "https://www.usajobs.gov/job/879859300",
+      "date_posted": "2026-08-07",
+      "salary": "Starting at $97,987 Per year (GS 12)",
       "ats": "USAJOBS"
     },
     {
@@ -32,56 +41,20 @@
     },
     {
       "company": "Veterans Health Administration",
-      "title": "Senior Social Worker (HUD-VASH)",
-      "location": "Seattle, Washington",
-      "url": "https://www.usajobs.gov/job/879611100",
-      "date_posted": "2026-08-06",
-      "salary": "Starting at $104,892 Per year (GS 12)",
+      "title": "Social Worker (Substance Use Disorder)",
+      "location": "Tuskegee, Alabama",
+      "url": "https://www.usajobs.gov/job/879827100",
+      "date_posted": "2026-08-10",
+      "salary": "Starting at $63,536 Per year (GS 9-11)",
       "ats": "USAJOBS"
     },
     {
       "company": "Veterans Health Administration",
-      "title": "Senior Social Worker (HUD-VASH)",
-      "location": "Tacoma, Washington",
-      "url": "https://www.usajobs.gov/job/879600500",
-      "date_posted": "2026-08-06",
-      "salary": "Starting at $104,892 Per year (GS 12)",
-      "ats": "USAJOBS"
-    },
-    {
-      "company": "Veterans Health Administration",
-      "title": "Social Worker-Mental Health Out Patient",
-      "location": "Saint Cloud, Minnesota",
-      "url": "https://www.usajobs.gov/job/879563100",
-      "date_posted": "2026-08-06",
-      "salary": "Starting at $72,784 Per year (GS 9-11)",
-      "ats": "USAJOBS"
-    },
-    {
-      "company": "Veterans Health Administration",
-      "title": "Social Worker - Homeless Veterans Program HUD-VASH",
-      "location": "Des Moines, Iowa",
-      "url": "https://www.usajobs.gov/job/879554700",
-      "date_posted": "2026-08-06",
-      "salary": "Starting at $67,933 Per year (GS 9-11)",
-      "ats": "USAJOBS"
-    },
-    {
-      "company": "Indian Health Service",
-      "title": "Social Worker",
-      "location": "Camp Verde, Arizona",
-      "url": "https://www.usajobs.gov/job/879543600",
-      "date_posted": "2026-08-06",
-      "salary": "Starting at $65,381 Per year (GS 9-11)",
-      "ats": "USAJOBS"
-    },
-    {
-      "company": "Veterans Health Administration",
-      "title": "Primary Care Social Worker",
-      "location": "Manchester, New Hampshire",
-      "url": "https://www.usajobs.gov/job/879316200",
-      "date_posted": "2026-08-06",
-      "salary": "Starting at $69,905 Per year (GS 9-11)",
+      "title": "Senior Social Worker",
+      "location": "West Haven, Connecticut",
+      "url": "https://www.usajobs.gov/job/879807800",
+      "date_posted": "2026-08-07",
+      "salary": "Starting at $105,481 Per year (GS 12)",
       "ats": "USAJOBS"
     },
     {
@@ -91,6 +64,15 @@
       "url": "https://www.usajobs.gov/job/850453900",
       "date_posted": "2026-08-07",
       "salary": "Starting at $90,067 Per year (GS 12)",
+      "ats": "USAJOBS"
+    },
+    {
+      "company": "Veterans Health Administration",
+      "title": "Social Worker - Mental Health Case Manager",
+      "location": "Vineland, New Jersey",
+      "url": "https://www.usajobs.gov/job/879840500",
+      "date_posted": "2026-08-07",
+      "salary": "Starting at $102,644 Per year (GS 12)",
       "ats": "USAJOBS"
     },
     {
@@ -109,33 +91,6 @@
       "url": "https://www.usajobs.gov/job/879688600",
       "date_posted": "2026-08-06",
       "salary": "Starting at $79,091 Per year (GS 9-11)",
-      "ats": "USAJOBS"
-    },
-    {
-      "company": "Veterans Health Administration",
-      "title": "Supervisory Social Worker",
-      "location": "Great Falls, Montana",
-      "url": "https://www.usajobs.gov/job/879676900",
-      "date_posted": "2026-08-06",
-      "salary": "Starting at $93,537 Per year (GS 12)",
-      "ats": "USAJOBS"
-    },
-    {
-      "company": "Veterans Health Administration",
-      "title": "Senior Social Worker",
-      "location": "Augusta, Georgia",
-      "url": "https://www.usajobs.gov/job/879667000",
-      "date_posted": "2026-08-06",
-      "salary": "Starting at $92,903 Per year (GS 12)",
-      "ats": "USAJOBS"
-    },
-    {
-      "company": "Veterans Health Administration",
-      "title": "Social Worker (Program Coordinator) - Intimate Partner Violence Assistance Program",
-      "location": "Oklahoma City, Oklahoma",
-      "url": "https://www.usajobs.gov/job/879544200",
-      "date_posted": "2026-08-06",
-      "salary": "Starting at $100,266 Per year (GS 12)",
       "ats": "USAJOBS"
     },
     {
@@ -150,138 +105,39 @@
   ],
   "new_jobs": [
     {
-      "company": "U.S. Coast Guard",
-      "title": "Lead Environmental Program Manager",
-      "location": "Warrenton, Oregon",
-      "url": "https://www.usajobs.gov/job/879733700",
+      "company": "Veterans Health Administration",
+      "title": "Senior Social Worker (Suicide Prevention)",
+      "location": "El Paso, Texas",
+      "url": "https://www.usajobs.gov/job/879859300",
       "date_posted": "2026-08-07",
-      "salary": "Starting at $89,508 Per year (GS 12)",
+      "salary": "Starting at $97,987 Per year (GS 12)",
       "ats": "USAJOBS"
     },
     {
       "company": "Veterans Health Administration",
-      "title": "Social Worker (Mental Health)",
-      "location": "Lyons, New Jersey",
-      "url": "https://www.usajobs.gov/job/879729800",
-      "date_posted": "2026-08-07",
-      "salary": "Starting at $72,737 Per year (GS 9-11)",
-      "ats": "USAJOBS"
-    },
-    {
-      "company": "Veterans Health Administration",
-      "title": "Registered Nurse- Falls Prevention Program Coordinator",
-      "location": "Nashville, Tennessee",
-      "url": "https://www.usajobs.gov/job/879714300",
-      "date_posted": "2026-08-07",
-      "salary": "Starting at $82,230 Per year (VN 00)",
-      "ats": "USAJOBS"
-    },
-    {
-      "company": "Veterans Health Administration",
-      "title": "Senior Social Worker (HUD-VASH)",
-      "location": "Seattle, Washington",
-      "url": "https://www.usajobs.gov/job/879611100",
-      "date_posted": "2026-08-06",
-      "salary": "Starting at $104,892 Per year (GS 12)",
-      "ats": "USAJOBS"
-    },
-    {
-      "company": "Veterans Health Administration",
-      "title": "Senior Social Worker (HUD-VASH)",
-      "location": "Tacoma, Washington",
-      "url": "https://www.usajobs.gov/job/879600500",
-      "date_posted": "2026-08-06",
-      "salary": "Starting at $104,892 Per year (GS 12)",
-      "ats": "USAJOBS"
-    },
-    {
-      "company": "Veterans Health Administration",
-      "title": "Social Worker-Mental Health Out Patient",
-      "location": "Saint Cloud, Minnesota",
-      "url": "https://www.usajobs.gov/job/879563100",
-      "date_posted": "2026-08-06",
-      "salary": "Starting at $72,784 Per year (GS 9-11)",
-      "ats": "USAJOBS"
-    },
-    {
-      "company": "Veterans Health Administration",
-      "title": "Social Worker - Homeless Veterans Program HUD-VASH",
-      "location": "Des Moines, Iowa",
-      "url": "https://www.usajobs.gov/job/879554700",
-      "date_posted": "2026-08-06",
-      "salary": "Starting at $67,933 Per year (GS 9-11)",
-      "ats": "USAJOBS"
-    },
-    {
-      "company": "Indian Health Service",
-      "title": "Social Worker",
-      "location": "Camp Verde, Arizona",
-      "url": "https://www.usajobs.gov/job/879543600",
-      "date_posted": "2026-08-06",
-      "salary": "Starting at $65,381 Per year (GS 9-11)",
-      "ats": "USAJOBS"
-    },
-    {
-      "company": "Veterans Health Administration",
-      "title": "Primary Care Social Worker",
-      "location": "Manchester, New Hampshire",
-      "url": "https://www.usajobs.gov/job/879316200",
-      "date_posted": "2026-08-06",
-      "salary": "Starting at $69,905 Per year (GS 9-11)",
-      "ats": "USAJOBS"
-    },
-    {
-      "company": "HQDA Field Operating Agencies and Staff Support Agencies",
-      "title": "Social Worker",
-      "location": "Fort Leavenworth, Kansas",
-      "url": "https://www.usajobs.gov/job/850453900",
-      "date_posted": "2026-08-07",
-      "salary": "Starting at $90,067 Per year (GS 12)",
-      "ats": "USAJOBS"
-    },
-    {
-      "company": "Federal Highway Administration",
-      "title": "Program Manager (DDA) - DIRECT HIRE",
-      "location": "Montgomery, Alabama",
-      "url": "https://www.usajobs.gov/job/879686100",
-      "date_posted": "2026-08-07",
-      "salary": "Starting at $107,446 Per year (GS 14)",
-      "ats": "USAJOBS"
-    },
-    {
-      "company": "Veterans Health Administration",
-      "title": "Social Worker (Community Resource and Referral Center)",
-      "location": "Santa Ana, California",
-      "url": "https://www.usajobs.gov/job/879688600",
-      "date_posted": "2026-08-06",
-      "salary": "Starting at $79,091 Per year (GS 9-11)",
-      "ats": "USAJOBS"
-    },
-    {
-      "company": "Veterans Health Administration",
-      "title": "Supervisory Social Worker",
-      "location": "Great Falls, Montana",
-      "url": "https://www.usajobs.gov/job/879676900",
-      "date_posted": "2026-08-06",
-      "salary": "Starting at $93,537 Per year (GS 12)",
+      "title": "Social Worker (Substance Use Disorder)",
+      "location": "Tuskegee, Alabama",
+      "url": "https://www.usajobs.gov/job/879827100",
+      "date_posted": "2026-08-10",
+      "salary": "Starting at $63,536 Per year (GS 9-11)",
       "ats": "USAJOBS"
     },
     {
       "company": "Veterans Health Administration",
       "title": "Senior Social Worker",
-      "location": "Augusta, Georgia",
-      "url": "https://www.usajobs.gov/job/879667000",
-      "date_posted": "2026-08-06",
-      "salary": "Starting at $92,903 Per year (GS 12)",
+      "location": "West Haven, Connecticut",
+      "url": "https://www.usajobs.gov/job/879807800",
+      "date_posted": "2026-08-07",
+      "salary": "Starting at $105,481 Per year (GS 12)",
       "ats": "USAJOBS"
     },
     {
       "company": "Veterans Health Administration",
-      "title": "Social Worker (Program Coordinator) - Intimate Partner Violence Assistance Program",
-      "location": "Oklahoma City, Oklahoma",
-      "url": "https://www.usajobs.gov/job/879544200",
-      "date_posted": "2026-08-06",
-      "salary": "Starting at $100,266 Per year (GS 12)",
+      "title": "Social Worker - Mental Health Case Manager",
+      "location": "Vineland, New Jersey",
+      "url": "https://www.usajobs.gov/job/879840500",
+      "date_posted": "2026-08-07",
+      "salary": "Starting at $102,644 Per year (GS 12)",
       "ats": "USAJOBS"
     }
   ]
