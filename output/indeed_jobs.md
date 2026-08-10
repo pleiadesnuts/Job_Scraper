@@ -1,11 +1,10 @@
 # 🟦 Indeed — Social Worker Roles
-*Last updated: 2026-08-10 18:41 UTC*
+*Last updated: 2026-08-10 20:35 UTC*
 
-**1 new role(s)** since last run · 1 total in last 24h
+**1 new role(s)** since last run · 2 total in last 24h
 
-### [Social Worker](https://www.indeed.com/viewjob?jk=315e7b28d9afb2bf) — SECORCares
-- 📍 **Location:** Parker, CO, US
-- 💰 **Salary:** $27–$35/hr
+### [Event Parking Supervisor](https://www.indeed.com/viewjob?jk=59fa76268ed62beb) — Univeristy Of Colorado Boulder
+- 📍 **Location:** Boulder, CO, US
 - **Work mode:** On-site
-- **Job type:** parttime
+- **Job type:** fulltime
 - 🕒 **Posted:** 2026-08-10
