@@ -1,7 +1,45 @@
 {
-  "scraped_at": "2026-08-10 17:47 UTC",
-  "total": 0,
-  "new_count": 0,
-  "jobs": [],
-  "new_jobs": []
+  "scraped_at": "2026-08-10 18:41 UTC",
+  "total": 1,
+  "new_count": 1,
+  "jobs": [
+    {
+      "company": "SECORCares",
+      "title": "Social Worker",
+      "location": "Parker, CO, US",
+      "url": "https://www.indeed.com/viewjob?jk=315e7b28d9afb2bf",
+      "direct_url": "http://www.indeed.com/job/social-worker-315e7b28d9afb2bf",
+      "company_url": "https://www.indeed.com/cmp/Secorcares",
+      "date_posted": "2026-08-10",
+      "description": "**Job Summary**\n\n**About SECOR Cares**\n\nSECOR Cares is a mission\\-driven nonprofit free food market serving individuals and families experiencing food insecurity in suburban Colorado. Our work is rooted in compassion, dignity, and service to the community.\n\n**Position Summary**\n\nThe Social Worker will work closely with the SECOR Cares guests to assess needs and develop service plans to navigate resources and improve the overall well\\-being of guests. Applicants for this position should have a depth of knowledge in resource navigation, particularly in the areas of housing, food, and health.\n\n**Key Responsibilities**\n\n* Conduct comprehensive and personalized assessments to understand guest needs and barriers\n* Develop, implement, and review individualized service plans regularly maintain detailed, confidential records of guest interaction in compliance with legal and organizational standards\n* Track, and document individual barriers to report consistent needs in our growing community and develop recommendations on best practices to address them\n* Connect guests with resources including housing, healthcare, financial literacy, tech education, and employment services.\n* Liaise with other service providers while advocating for guests and ensuring continuity of care.\n* Develop a calendar of planned health education activities for the benefit of guests’ overall well\\-being\n\n**Licenses, Registrations, and Certificates:**\n\n* Bachelor’s or master’s degree in social work or related field\n* Licensed Social Worker (LSW, LMSW, or equivalent preferred)\n\n**Minimum Qualifications**\n\n* Excellent communication, advocacy and organizational skills\n* Possess a strong understanding of local community resources and ability to navigate social service systems\n* Minimum two years of experience as a social worker or in healthcare\n\n**Schedule \\& Classification**\n\n* **Schedule:** Monday\\-Saturday availability\n* **Hours:** 20 hours/week\n* **FLSA Status**: Non\\-exempt\n\n**Pay Range: $26\\-$35/hour**\n\n**Benefits:**\n\n* Paid Time Off (PTO) including paid sick leave under the Colorado Healthy Families and Workplaces Act\n* Retirement plan\n\n**Mission Alignment**\n\nSECOR Cares is a faith\\-based nonprofit organization. Employees are expected to respect and support the organization’s mission, values, and service\\-oriented approach.\n\n**Equal Employment Opportunity**\n\nSECOR Cares is an Equal Opportunity Employer and complies with all applicable federal, state, and local laws.\n\nJob Type: Part\\-time\n\nPay: $27\\.00 \\- $35\\.00 per hour\n\nBenefits:\n\n* Paid time off\n* Retirement plan\n\nWork Location: In person",
+      "salary": "$27–$35/hr",
+      "salary_source": "direct_data",
+      "salary_currency": "USD",
+      "job_type": "parttime",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "emails": "",
+      "ats": "Indeed"
+    }
+  ],
+  "new_jobs": [
+    {
+      "company": "SECORCares",
+      "title": "Social Worker",
+      "location": "Parker, CO, US",
+      "url": "https://www.indeed.com/viewjob?jk=315e7b28d9afb2bf",
+      "direct_url": "http://www.indeed.com/job/social-worker-315e7b28d9afb2bf",
+      "company_url": "https://www.indeed.com/cmp/Secorcares",
+      "date_posted": "2026-08-10",
+      "description": "**Job Summary**\n\n**About SECOR Cares**\n\nSECOR Cares is a mission\\-driven nonprofit free food market serving individuals and families experiencing food insecurity in suburban Colorado. Our work is rooted in compassion, dignity, and service to the community.\n\n**Position Summary**\n\nThe Social Worker will work closely with the SECOR Cares guests to assess needs and develop service plans to navigate resources and improve the overall well\\-being of guests. Applicants for this position should have a depth of knowledge in resource navigation, particularly in the areas of housing, food, and health.\n\n**Key Responsibilities**\n\n* Conduct comprehensive and personalized assessments to understand guest needs and barriers\n* Develop, implement, and review individualized service plans regularly maintain detailed, confidential records of guest interaction in compliance with legal and organizational standards\n* Track, and document individual barriers to report consistent needs in our growing community and develop recommendations on best practices to address them\n* Connect guests with resources including housing, healthcare, financial literacy, tech education, and employment services.\n* Liaise with other service providers while advocating for guests and ensuring continuity of care.\n* Develop a calendar of planned health education activities for the benefit of guests’ overall well\\-being\n\n**Licenses, Registrations, and Certificates:**\n\n* Bachelor’s or master’s degree in social work or related field\n* Licensed Social Worker (LSW, LMSW, or equivalent preferred)\n\n**Minimum Qualifications**\n\n* Excellent communication, advocacy and organizational skills\n* Possess a strong understanding of local community resources and ability to navigate social service systems\n* Minimum two years of experience as a social worker or in healthcare\n\n**Schedule \\& Classification**\n\n* **Schedule:** Monday\\-Saturday availability\n* **Hours:** 20 hours/week\n* **FLSA Status**: Non\\-exempt\n\n**Pay Range: $26\\-$35/hour**\n\n**Benefits:**\n\n* Paid Time Off (PTO) including paid sick leave under the Colorado Healthy Families and Workplaces Act\n* Retirement plan\n\n**Mission Alignment**\n\nSECOR Cares is a faith\\-based nonprofit organization. Employees are expected to respect and support the organization’s mission, values, and service\\-oriented approach.\n\n**Equal Employment Opportunity**\n\nSECOR Cares is an Equal Opportunity Employer and complies with all applicable federal, state, and local laws.\n\nJob Type: Part\\-time\n\nPay: $27\\.00 \\- $35\\.00 per hour\n\nBenefits:\n\n* Paid time off\n* Retirement plan\n\nWork Location: In person",
+      "salary": "$27–$35/hr",
+      "salary_source": "direct_data",
+      "salary_currency": "USD",
+      "job_type": "parttime",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "emails": "",
+      "ats": "Indeed"
+    }
+  ]
 }
