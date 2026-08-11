@@ -1,17 +1,23 @@
 # ☕ HiringCafe — Social Worker Roles
-*Last updated: 2026-08-11 22:46 UTC*
+*Last updated: 2026-08-11 23:42 UTC*
 
-**2 new role(s)** since last run · 92 total in last 30d
+**3 new role(s)** since last run · 93 total in last 30d
 
-### [Social Worker MSW](https://careers.hcahealthcare.com/jobs/18102762) — HCA Healthcare
-- 📍 **Location:** Brevard, North Carolina, United States
+### [Social Worker](https://secure6.saashr.com/ta/6033683.careers?ShowJob=705332483) — Northern Maine Medical Center
+- 📍 **Location:** Fort Kent, Maine, United States
 - **Work mode:** On-site
 - **Job type:** Full Time
-- 🕒 **Posted:** 2026-08-11T12:53:07.000Z
+- 🕒 **Posted:** 2026-07-23T19:58:45.898Z
 
-### [Case Manager](https://eckb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/requisitions/job/103375) — The Fedcap Group
+### [Case Manager](https://eckb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/requisitions/job/103374) — The Fedcap Group
 - 📍 **Location:** Washington, District of Columbia, United States
 - 💰 **Salary:** $52k/yr
 - **Work mode:** On-site
 - **Job type:** Full Time
-- 🕒 **Posted:** 2026-08-06T14:55:35.000Z
+- 🕒 **Posted:** 2026-08-06T14:53:58.000Z
+
+### [Case Manager](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4356712) — Naqvi Injury Law
+- 📍 **Location:** Las Vegas, Nevada, United States
+- **Work mode:** On-site
+- **Job type:** Full Time
+- 🕒 **Posted:** 2026-07-22T23:15:55.000Z
