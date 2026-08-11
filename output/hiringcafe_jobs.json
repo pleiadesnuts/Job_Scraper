@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-11 21:46 UTC",
-  "total": 93,
-  "new_count": 0,
+  "scraped_at": "2026-08-11 22:46 UTC",
+  "total": 92,
+  "new_count": 2,
   "jobs": [
     {
       "company": "Hertford Rehabilitation and Healthcare",
@@ -130,20 +130,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Northern Maine Medical Center",
-      "title": "Social Worker",
-      "location": "Fort Kent, Maine, United States",
-      "url": "https://secure6.saashr.com/ta/6033683.careers?ShowJob=705332483",
-      "direct_url": "https://secure6.saashr.com/ta/6033683.careers?ShowJob=705332483",
-      "date_posted": "2026-07-23T19:58:45.898Z",
-      "description": "Provide psychosocial assessments, discharge planning, case management, referrals, and interdisciplinary coordination; must hold a Maine social worker license and bachelor\\u0002s degree in social work.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Epic Healthcare",
       "title": "Social Worker",
       "location": "Cranford, New Jersey, United States",
@@ -158,13 +144,13 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Riverview Health & Rehab Center - Jefferson",
+      "company": "RIVERVIEW HEALTH GROUP",
       "title": "Social Worker",
       "location": "Detroit, Michigan, United States",
-      "url": "https://www.paycomonline.net/v4/ats/web.php/jobs/ViewJobDetails?job=174605&clientkey=5E4FC8C819F2A5B62D672E294B1353BB",
-      "direct_url": "https://www.paycomonline.net/v4/ats/web.php/jobs/ViewJobDetails?job=174605&clientkey=5E4FC8C819F2A5B62D672E294B1353BB",
+      "url": "https://www.paycomonline.net/v4/ats/web.php/jobs/ViewJobDetails?job=174605&clientkey=674C5E6E9D5651D6FB1EC4FD60A322D9",
+      "direct_url": "https://www.paycomonline.net/v4/ats/web.php/jobs/ViewJobDetails?job=174605&clientkey=674C5E6E9D5651D6FB1EC4FD60A322D9",
       "date_posted": "2026-07-23T00:00:00.000Z",
-      "description": "Bachelor's in Social Work required (MSW preferred), 1 year supervised social work in long-term or sub-acute care, Michigan social worker license, knowledge of regulations, computer proficiency, strong communication and analytical skills.",
+      "description": "Licensed social worker in Michigan with bachelor\\u0002s in social work (master\\u0002s preferred), 1 year supervised social work experience in long-term/sub-acute care, knowledge of regulations, strong communication and assessment skills.",
       "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
@@ -242,6 +228,20 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "HCA Healthcare",
+      "title": "Social Worker MSW",
+      "location": "Brevard, North Carolina, United States",
+      "url": "https://careers.hcahealthcare.com/jobs/18102762",
+      "direct_url": "https://careers.hcahealthcare.com/jobs/18102762",
+      "date_posted": "2026-08-11T12:53:07.000Z",
+      "description": "Master's degree in social work and 1+ year of experience or MSW internship. Licensed Clinical Social Worker and social work certification preferred.",
+      "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
       "company": "Elida Local School District",
       "title": "Social Worker",
       "location": "Elida, Ohio, United States",
@@ -298,20 +298,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Ecumen",
-      "title": "Hospice Social Worker",
-      "location": "Saint Cloud, Minnesota, United States",
-      "url": "https://gusea1p01.rec.pro.ukg.net/ECU1001ECUME/JobBoard/207e3ae3-3dc1-41dd-955c-28a1f0a24775/OpportunityDetail?opportunityId=084cc734-9273-4262-9024-b00f943167d0",
-      "direct_url": "https://gusea1p01.rec.pro.ukg.net/ECU1001ECUME/JobBoard/207e3ae3-3dc1-41dd-955c-28a1f0a24775/OpportunityDetail?opportunityId=084cc734-9273-4262-9024-b00f943167d0",
-      "date_posted": "2026-08-03T01:23:35.486Z",
-      "description": "Bachelor's in social work, licensed social worker in Minnesota, valid driver’s license, 2 years healthcare social work experience, CPR/ability to communicate, and Microsoft Office proficiency.",
-      "salary": "$62k–$73k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Lifespacecommunities",
       "title": "Qualified Social Worker",
       "location": "Delray Beach, Florida, United States",
@@ -320,6 +306,20 @@
       "date_posted": "2026-07-23T00:00:00.000Z",
       "description": "Master's in social work with 1 year healthcare experience OR bachelor's in social work/related field with 3 years; licensed social worker required; proficiency in documentation and resident advocacy.",
       "salary": "$57k–$78k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Ecumen",
+      "title": "Hospice Social Worker",
+      "location": "Saint Cloud, Minnesota, United States",
+      "url": "https://gusea1p01.rec.pro.ukg.net/ECU1001ECUME/JobBoard/207e3ae3-3dc1-41dd-955c-28a1f0a24775/OpportunityDetail?opportunityId=084cc734-9273-4262-9024-b00f943167d0",
+      "direct_url": "https://gusea1p01.rec.pro.ukg.net/ECU1001ECUME/JobBoard/207e3ae3-3dc1-41dd-955c-28a1f0a24775/OpportunityDetail?opportunityId=084cc734-9273-4262-9024-b00f943167d0",
+      "date_posted": "2026-08-03T01:23:35.486Z",
+      "description": "Bachelor's in social work, licensed social worker in Minnesota, valid driver’s license, 2 years healthcare social work experience, CPR/ability to communicate, and Microsoft Office proficiency.",
+      "salary": "$62k–$73k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
@@ -363,20 +363,6 @@
       "description": "Master's degree in social work and clinical social worker certification required. Requires psychosocial assessment, counseling, discharge planning, community resource coordination, and supervision experience.",
       "salary": "",
       "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Baptist Health",
-      "title": "Social Worker PRN",
-      "location": "Elizabethtown, Kentucky, United States",
-      "url": "https://bhs.wd1.myworkdayjobs.com/careers/job/Elizabethtown-KY/Social-Worker-PRN_R26104851",
-      "direct_url": "https://bhs.wd1.myworkdayjobs.com/careers/job/Elizabethtown-KY/Social-Worker-PRN_R26104851",
-      "date_posted": "2026-08-05T00:00:00.000Z",
-      "description": "Master of Social Work from a CSWE-accredited school required. Kentucky Certified Social Worker license preferred at hire and required within two years. Two years of social work experience preferred.",
-      "salary": "",
-      "job_type": "Part Time",
       "is_remote": false,
       "work_arrangement": "On-site",
       "ats": "HiringCafe"
@@ -483,10 +469,10 @@
       "company": "The Fedcap Group",
       "title": "Case Manager",
       "location": "Washington, District of Columbia, United States",
-      "url": "https://eckb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/requisitions/job/103374",
-      "direct_url": "https://eckb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/requisitions/job/103374",
-      "date_posted": "2026-08-06T14:53:58.000Z",
-      "description": "Bachelor’s degree in social work, social services, counseling, business administration, or related field and 3 years’ vocational rehabilitation or case management experience; 5 years’ case management may substitute.",
+      "url": "https://eckb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/requisitions/job/103375",
+      "direct_url": "https://eckb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/requisitions/job/103375",
+      "date_posted": "2026-08-06T14:55:35.000Z",
+      "description": "Bachelor's degree in social work, social services, counseling, business administration, or related field and 3 years' vocational rehabilitation or case management experience; 5 years' case management may substitute.",
       "salary": "$52k/yr",
       "job_type": "Full Time",
       "is_remote": false,
@@ -704,20 +690,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Associated",
-      "title": "Program Coordinator",
-      "location": "Baltimore, Maryland, United States",
-      "url": "https://jobs.dayforcehcm.com/en-US/associated/jcccandidateportal/jobs/10250",
-      "direct_url": "https://jobs.dayforcehcm.com/en-US/associated/jcccandidateportal/jobs/10250",
-      "date_posted": "2026-07-14T04:00:00.000Z",
-      "description": "Experience coordinating programs, supervising staff, strong customer service, proficiency with CRM and Microsoft Office, ability to lift up to 25 lbs, and excellent communication and organizational skills.",
-      "salary": "$43k–$48k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Bollinger Shipyards",
       "title": "Program Coordinator",
       "location": "Houma, Louisiana, United States",
@@ -726,6 +698,20 @@
       "date_posted": "2026-08-06T18:34:14.000Z",
       "description": "Requires 5–10 years of program coordination, project management, or related experience, an associate's degree or equivalent, strong organization, communication, analysis, leadership, and process optimization skills.",
       "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Associated",
+      "title": "Program Coordinator",
+      "location": "Baltimore, Maryland, United States",
+      "url": "https://jobs.dayforcehcm.com/en-US/associated/jcccandidateportal/jobs/10250",
+      "direct_url": "https://jobs.dayforcehcm.com/en-US/associated/jcccandidateportal/jobs/10250",
+      "date_posted": "2026-07-14T04:00:00.000Z",
+      "description": "Experience coordinating programs, supervising staff, strong customer service, proficiency with CRM and Microsoft Office, ability to lift up to 25 lbs, and excellent communication and organizational skills.",
+      "salary": "$43k–$48k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
@@ -956,20 +942,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Biofire",
-      "title": "Strategic Program Coordinator",
-      "location": "Salt Lake City, Utah, United States",
-      "url": "https://jobs.dayforcehcm.com/en-US/biofire/candidateportal/jobs/187",
-      "direct_url": "https://jobs.dayforcehcm.com/en-US/biofire/candidateportal/jobs/187",
-      "date_posted": "2026-07-20T06:00:00.000Z",
-      "description": "Enterprise-level project coordination across cross-functional teams, program governance, risk mitigation, lifecycle management, regulatory and quality compliance, and technical writing.",
-      "salary": "$75k–$87k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Tamus",
       "title": "Program Coordinator I",
       "location": "College Station, Texas, United States",
@@ -978,6 +950,20 @@
       "date_posted": "2026-08-04T00:00:00.000Z",
       "description": "Bachelor's degree or equivalent, two years related experience, program/event coordination, record and database management, budget monitoring, strong written and verbal communication.",
       "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Biofire",
+      "title": "Strategic Program Coordinator",
+      "location": "Salt Lake City, Utah, United States",
+      "url": "https://jobs.dayforcehcm.com/en-US/biofire/candidateportal/jobs/187",
+      "direct_url": "https://jobs.dayforcehcm.com/en-US/biofire/candidateportal/jobs/187",
+      "date_posted": "2026-07-20T06:00:00.000Z",
+      "description": "Enterprise-level project coordination across cross-functional teams, program governance, risk mitigation, lifecycle management, regulatory and quality compliance, and technical writing.",
+      "salary": "$75k–$87k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
@@ -995,6 +981,20 @@
       "job_type": "Part Time, Temporary",
       "is_remote": false,
       "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "UnidosUS",
+      "title": "Program Coordinator, Health",
+      "location": "Washington, District of Columbia, United States",
+      "url": "https://unidosus.org/about/jobs/careers-job-listing/?gh_jid=4701020006",
+      "direct_url": "https://unidosus.org/about/jobs/careers-job-listing/?gh_jid=4701020006",
+      "date_posted": "2026-07-31T17:32:54.000Z",
+      "description": "Associate's degree or equivalent and 3+ years coordinating programs or providing administrative support; experience with event logistics, document management, grant administration, and community health preferred.",
+      "salary": "$63k–$66k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "Telecommute eligible",
       "ats": "HiringCafe"
     },
     {
@@ -1023,20 +1023,6 @@
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "UnidosUS",
-      "title": "Program Coordinator, Health",
-      "location": "Washington, District of Columbia, United States",
-      "url": "https://unidosus.org/about/jobs/careers-job-listing/?gh_jid=4701020006",
-      "direct_url": "https://unidosus.org/about/jobs/careers-job-listing/?gh_jid=4701020006",
-      "date_posted": "2026-07-31T17:32:54.000Z",
-      "description": "Associate's degree or equivalent and 3+ years coordinating programs or providing administrative support; experience with event logistics, document management, grant administration, and community health preferred.",
-      "salary": "$63k–$66k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "Telecommute eligible",
       "ats": "HiringCafe"
     },
     {
@@ -1306,5 +1292,34 @@
       "ats": "HiringCafe"
     }
   ],
-  "new_jobs": []
+  "new_jobs": [
+    {
+      "company": "HCA Healthcare",
+      "title": "Social Worker MSW",
+      "location": "Brevard, North Carolina, United States",
+      "url": "https://careers.hcahealthcare.com/jobs/18102762",
+      "direct_url": "https://careers.hcahealthcare.com/jobs/18102762",
+      "date_posted": "2026-08-11T12:53:07.000Z",
+      "description": "Master's degree in social work and 1+ year of experience or MSW internship. Licensed Clinical Social Worker and social work certification preferred.",
+      "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "The Fedcap Group",
+      "title": "Case Manager",
+      "location": "Washington, District of Columbia, United States",
+      "url": "https://eckb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/requisitions/job/103375",
+      "direct_url": "https://eckb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/requisitions/job/103375",
+      "date_posted": "2026-08-06T14:55:35.000Z",
+      "description": "Bachelor's degree in social work, social services, counseling, business administration, or related field and 3 years' vocational rehabilitation or case management experience; 5 years' case management may substitute.",
+      "salary": "$52k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    }
+  ]
 }
