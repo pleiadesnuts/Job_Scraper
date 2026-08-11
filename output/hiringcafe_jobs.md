@@ -1,18 +1,10 @@
 # ☕ HiringCafe — Social Worker Roles
-*Last updated: 2026-08-11 18:59 UTC*
+*Last updated: 2026-08-11 20:05 UTC*
 
-**2 new role(s)** since last run · 93 total in last 30d
+**1 new role(s)** since last run · 93 total in last 30d
 
-### [Case Manager](https://eckb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/requisitions/job/103374) — The Fedcap Group
-- 📍 **Location:** Washington, District of Columbia, United States
-- 💰 **Salary:** $52k/yr
+### [Community Health Worker](https://fa-evav-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/connecticutchildrenscareers/requisitions/job/5411) — Connecticut Children's
+- 📍 **Location:** Hartford or Connecticut
 - **Work mode:** On-site
 - **Job type:** Full Time
-- 🕒 **Posted:** 2026-08-06T14:53:58.000Z
-
-### [Community Health Worker](https://adventhealth.wd12.myworkdayjobs.com/ah_external_career_site/job/ADVENTHEALTH-MANCHESTER/Community-Health-Worker_R-0368467-1) — AdventHealth
-- 📍 **Location:** Manchester, Kentucky, United States
-- 💰 **Salary:** $38k–$61k/yr
-- **Work mode:** On-site
-- **Job type:** Full Time
-- 🕒 **Posted:** 2026-08-10T00:00:00.000Z
+- 🕒 **Posted:** 2026-08-07T13:14:17.000Z
