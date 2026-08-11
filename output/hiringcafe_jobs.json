@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-08-11 00:48 UTC",
-  "total": 91,
+  "scraped_at": "2026-08-11 03:14 UTC",
+  "total": 93,
   "new_count": 2,
   "jobs": [
     {
@@ -592,6 +592,20 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "Naqvi Injury Law",
+      "title": "Case Manager",
+      "location": "Las Vegas, Nevada, United States",
+      "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4356712",
+      "direct_url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4356712",
+      "date_posted": "2026-07-22T23:15:55.000Z",
+      "description": "2+ years personal injury case management experience, excellent written and verbal communication, strong attention to detail, and exceptional customer service.",
+      "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
       "company": "RIX Industries",
       "title": "Program Coordinator",
       "location": "Benicia, California, United States",
@@ -746,20 +760,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Oregon",
-      "title": "Program Coordinator (Family Court Program Coordinator)",
-      "location": "Eugene or Clayton County or Cobb County or DeKalb County or Douglas County or Fayette County or Fulton County or Gwinnett County or Henry County or Jackson County or Rockdale County",
-      "url": "https://oregon.wd5.myworkdayjobs.com/sor_external_career_site/job/Eugene--Judicial--Lane-County-Circuit-Court/Program-Coordinator--Family-Court-Program-Coordinator-_REQ-204530",
-      "direct_url": "https://oregon.wd5.myworkdayjobs.com/sor_external_career_site/job/Eugene--Judicial--Lane-County-Circuit-Court/Program-Coordinator--Family-Court-Program-Coordinator-_REQ-204530",
-      "date_posted": "2026-08-07T00:00:00.000Z",
-      "description": "Bachelor's degree in business/public administration, behavioral or social/human services, or related field plus 3 years of program experience, or equivalent combination totaling 7 years. Requires program coordination, analysis, training, and computer proficiency.",
-      "salary": "$8067–$125k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Spread the Word Nevada",
       "title": "Program Coordinator",
       "location": "Las Vegas, Nevada, United States",
@@ -768,6 +768,20 @@
       "date_posted": "2026-08-04T00:00:00.000Z",
       "description": "Coordinate and support early childhood literacy programs, communicate with families and schools, assist with events and grant reporting, must have valid Nevada driver license/insurance and be proficient in Microsoft 365.",
       "salary": "$42k–$46k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Oregon",
+      "title": "Program Coordinator (Family Court Program Coordinator)",
+      "location": "Eugene or Clayton County or Cobb County or DeKalb County or Douglas County or Fayette County or Fulton County or Gwinnett County or Henry County or Jackson County or Rockdale County",
+      "url": "https://oregon.wd5.myworkdayjobs.com/sor_external_career_site/job/Eugene--Judicial--Lane-County-Circuit-Court/Program-Coordinator--Family-Court-Program-Coordinator-_REQ-204530",
+      "direct_url": "https://oregon.wd5.myworkdayjobs.com/sor_external_career_site/job/Eugene--Judicial--Lane-County-Circuit-Court/Program-Coordinator--Family-Court-Program-Coordinator-_REQ-204530",
+      "date_posted": "2026-08-07T00:00:00.000Z",
+      "description": "Bachelor's degree in business/public administration, behavioral or social/human services, or related field plus 3 years of program experience, or equivalent combination totaling 7 years. Requires program coordination, analysis, training, and computer proficiency.",
+      "salary": "$8067–$125k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
@@ -788,20 +802,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "The Aspen Institute",
-      "title": "Program Coordinator, Cybersecurity Program",
-      "location": "Washington or Colorado",
-      "url": "https://aspeninstitute.hrmdirect.com/employment/job-opening.php?req=3777140&req_loc=1417075",
-      "direct_url": "https://aspeninstitute.hrmdirect.com/employment/job-opening.php?req=3777140&req_loc=1417075",
-      "date_posted": "2026-08-03T03:00:00.000Z",
-      "description": "Requires 1–3 years in program coordination, executive support, or operations; strong organization, prioritization, communication, adaptability, and collaboration skills; occasional travel; interest in cybersecurity and technology policy.",
-      "salary": "$60k–$68k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "Telecommute eligible",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "City of El Monte, CA",
       "title": "Program Coordinator",
       "location": "El Monte, California, United States",
@@ -813,6 +813,20 @@
       "job_type": "Part Time",
       "is_remote": false,
       "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "The Aspen Institute",
+      "title": "Program Coordinator, Cybersecurity Program",
+      "location": "Washington or Colorado",
+      "url": "https://aspeninstitute.hrmdirect.com/employment/job-opening.php?req=3777140&req_loc=1417075",
+      "direct_url": "https://aspeninstitute.hrmdirect.com/employment/job-opening.php?req=3777140&req_loc=1417075",
+      "date_posted": "2026-08-03T03:00:00.000Z",
+      "description": "Requires 1–3 years in program coordination, executive support, or operations; strong organization, prioritization, communication, adaptability, and collaboration skills; occasional travel; interest in cybersecurity and technology policy.",
+      "salary": "$60k–$68k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "Telecommute eligible",
       "ats": "HiringCafe"
     },
     {
@@ -1180,6 +1194,20 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "Houston County Minnesota",
+      "title": "Community Health Worker",
+      "location": "Caledonia, Minnesota, United States",
+      "url": "https://www.governmentjobs.com/careers/houstonmn/jobs/5441794",
+      "direct_url": "https://www.governmentjobs.com/careers/houstonmn/jobs/5441794",
+      "date_posted": "2026-08-10T22:01:08.387Z",
+      "description": "High school diploma or equivalent, one year of related community health experience, CHW certificate or ability to obtain within one year, Minnesota DHS Merit qualification, and background check.",
+      "salary": "$49k–$64k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
       "company": "Parklandhospital",
       "title": "Community Health Worker",
       "location": "Dallas, Texas, United States",
@@ -1280,28 +1308,28 @@
   ],
   "new_jobs": [
     {
-      "company": "Community Counseling Center",
-      "title": "Program Coordinator",
-      "location": "Bollinger County or Cape Girardeau or Cape Girardeau County or Perry County",
-      "url": "https://cccntr.isolvedhire.com/jobs/1839617",
-      "direct_url": "https://cccntr.isolvedhire.com/jobs/1839617",
-      "date_posted": "2026-08-10T00:00:00.000Z",
-      "description": "Associate degree or equivalent experience; 1–3 years in healthcare operations, community health, care coordination, or related work; project coordination experience; Missouri Class E or Illinois Class D license, insurance, and reliable transportation.",
-      "salary": "$55k–$60k/yr",
+      "company": "Naqvi Injury Law",
+      "title": "Case Manager",
+      "location": "Las Vegas, Nevada, United States",
+      "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4356712",
+      "direct_url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4356712",
+      "date_posted": "2026-07-22T23:15:55.000Z",
+      "description": "2+ years personal injury case management experience, excellent written and verbal communication, strong attention to detail, and exceptional customer service.",
+      "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
       "ats": "HiringCafe"
     },
     {
-      "company": "Connecticut Children's",
+      "company": "Houston County Minnesota",
       "title": "Community Health Worker",
-      "location": "Hartford or Connecticut",
-      "url": "https://fa-evav-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/connecticutchildrenscareers/requisitions/job/5411",
-      "direct_url": "https://fa-evav-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/connecticutchildrenscareers/requisitions/job/5411",
-      "date_posted": "2026-08-07T13:14:17.000Z",
-      "description": "High school diploma or GED and one year of experience in medical case management, community health, community programs, or supporting people affected by health or social challenges.",
-      "salary": "",
+      "location": "Caledonia, Minnesota, United States",
+      "url": "https://www.governmentjobs.com/careers/houstonmn/jobs/5441794",
+      "direct_url": "https://www.governmentjobs.com/careers/houstonmn/jobs/5441794",
+      "date_posted": "2026-08-10T22:01:08.387Z",
+      "description": "High school diploma or equivalent, one year of related community health experience, CHW certificate or ability to obtain within one year, Minnesota DHS Merit qualification, and background check.",
+      "salary": "$49k–$64k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
