@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-12 18:41 UTC",
+  "scraped_at": "2026-08-12 19:51 UTC",
   "total": 13,
-  "new_count": 1,
+  "new_count": 0,
   "jobs": [
     {
       "company": "State of Wyoming",
@@ -238,24 +238,5 @@
       "ats": "Indeed"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "ClearCaptions, LLC",
-      "title": "PMO Supervisor (100% Remote)",
-      "location": "Remote, US",
-      "url": "https://www.indeed.com/viewjob?jk=30d12807b481698b",
-      "direct_url": "https://jobs.dayforcehcm.com/en-US/clearcaptions/CANDIDATEPORTAL/jobs/10083",
-      "company_url": "https://www.indeed.com/cmp/Clearcaptions,-LLC",
-      "date_posted": "2026-08-12",
-      "description": "Since our founding in 2011, our mission has been to improve the lives of seniors and their caregivers. We are deeply passionate about communication and committed to becoming the foremost provider of services and solutions that enable seniors to lead more meaningful and independent lives. We also understand the power of connection and the profound impact it has on the lives of individuals who are hard\\-of\\-hearing. By utilizing enhanced automatic speech recognition, human captioning, and innovative product development, we deliver easy\\-to\\-use, cutting\\-edge technology to our primarily senior customer base. Our near real\\-time phone captioning technology allows individuals with hearing loss to see what callers are saying, enabling them to regain their connection to the world.\n  \nClearCaptions is a Federal Communications Commission (FCC)\\-certified telephone captioning provider, adhering to the highest industry standards of privacy, security, and professionalism. We recognize the importance of maintaining the trust and confidence of our customers, and we continually strive to exceed their expectations.\n  \nFor more information about our services please visit clearcaptions.com.\n  \n  \n\n**The kind of people we look for:**  \n\n* Versatile people who thrive on variety and challenge\n* Excited about working in a fast\\-paced environment.\n* Innate problem solvers who want to grow in a flexible, collaborative culture.\n* Takes initiative, pushes boundaries, motivated to innovate.\n* Individuals with a growth mindset who want to use their learning and relationship\\-building skills.\n* Align with our company core values: Integrity, Accountability, Collaboration, Service and Quality.\n\n\n**Summary:**  \n\nThe PMO Supervisor will support the delivery engine of the PMO. This role is responsible for ensuring consistent, high\\-quality execution across all projects by overseeing project management standards, auditing delivery practices, and coaching project teams. Under the direction of the Manager, PMO, the PMO Supervisor maintains operational discipline across Project Managers, Scrum Masters, and Project Coordinators. This role serves as the day\\-to\\-day quality control function of the PMO, ensuring all work is executed in alignment with PMO standards, methodologies, and expectations.\n  \n  \n\n**What This Role Does:**  \n\n* Reviews and validates project plans to ensure alignment with PMO standards, templates, and delivery methodology.\n* Ensures all projects maintain accurate schedules, milestones, dependencies, and resource alignment.\n* Provides feedback to project managers on gaps, inconsistencies, risks and stakeholders alignment based on project plans built by PMs and enforce corrective actions.\n* Monitors execution across project managers to ensure consistency and adoption of stage gates process.\n* Establishes and enforces PMO operating rhythms (weekly status, bi\\-weekly project health checks).\n* Defines regular project audits and health checks across active projects.\n* Ensures adherence to PMO standards, SDLC, Agile practices, and governance frameworks, including artifacts completion for each stage gate and maintains traceability across decisions, approvals and deliverables.\n* Tracks project plans audit findings, creates an action plan and shares remediation actions with PMO leadership.\n* Escalates systemic execution issues and risks to PMO leadership on project managers having challenges with driving timelines, decision points and following escalation paths.\n* Provides hands\\-on coaching to Project Managers, Scrum Masters, and Project Coordinators.\n* Partners with Supervisor of business and technical analyst to recommend PMO process improvements towards achieving optimal resource balance, scalability and operational efficiency.\n* Reinforces PMO best practices in planning, risk management, and communication, while driving consistency and standardization across delivery teams.\n* Acts as a point of escalation for delivery challenges and supports resolution of risks, issues, and blockers.\n* Ensures timely and accurate project status reporting and provides visibility into project health and execution trends.\n* Identifies trends across projects and recommends process and execution improvements to enhance delivery effectiveness.\n* Takes an active approach to talent management by onboarding, mentoring, and inspiring a diverse, highly engaged, and skilled team. Continuously strengthens team capability through talent development, succession planning, and recruitment.\n* Performs other duties as assigned.\n\n\n**What You Will Bring:**  \n\n* A high school diploma or equivalent is required, a bachelor’s degree is preferred. Equivalent combinations of education and relevant experience will be considered.\n* A minimum of seven (7\\) years of proven experience as a Project Manager or Senior Project Manager is required; 10 years is preferred.\n* A minimum of seven (7\\) years of experience leading PMO operations, with a minimum of three (3\\) years in people management. This includes accountability for performance, development, and delivery of results aligned with organizational objectives.\n* Experience adopting PMO or governance\\-driven environment.\n* Strong knowledge of project planning, scheduling, and dependency management.\n* Strong understanding of risk, issue, and change management.\n* Support managing resource capacity plans.\n* Experience assessing and improving project plans, managing multiple concurrent projects, and conducting project audits or health checks.\n* Ability to coach and develop delivery teams, hold peers accountable, and drive corrective action.\n* Strong analytical and problem\\-solving skills.\n* Ability to identify trends across multiple projects.\n* Proficiency with tools such as JIRA, Smartsheet, MS Project, Confluence.\n* Demonstrated ability to lead through influence, including mentoring others, leading initiatives or workstreams, contributing to best practices, and driving cross\\-functional outcomes.\n* Respectful ",
-      "salary": "$115k–$125k/yr",
-      "salary_source": "direct_data",
-      "salary_currency": "USD",
-      "job_type": "",
-      "is_remote": true,
-      "work_arrangement": "Remote in-state eligible",
-      "emails": "recruiting@clearcaptions.com",
-      "ats": "Indeed"
-    }
-  ]
+  "new_jobs": []
 }
