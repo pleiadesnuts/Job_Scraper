@@ -1,6 +1,11 @@
 # 🟦 Indeed — Social Worker Roles
-*Last updated: 2026-08-12 19:51 UTC*
+*Last updated: 2026-08-12 20:35 UTC*
 
-**0 new role(s)** since last run · 13 total in last 24h
+**1 new role(s)** since last run · 14 total in last 24h
 
-No new roles since the last run.
+### [Peer Support Specialist](https://www.indeed.com/viewjob?jk=35cee69f95995ba4) — University of Colorado
+- 📍 **Location:** Aurora, CO, US
+- 💰 **Salary:** $44k–$51k/yr
+- **Work mode:** Remote in-state eligible
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-08-12
