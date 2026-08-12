@@ -1,23 +1,24 @@
 # ☕ HiringCafe — Social Worker Roles
-*Last updated: 2026-08-12 22:42 UTC*
+*Last updated: 2026-08-12 23:41 UTC*
 
 **3 new role(s)** since last run · 90 total in last 30d
 
-### [Social Worker](https://pm.healthcaresource.com/CS/chc/#/job/21700) — Med Center Health
-- 📍 **Location:** Bowling Green, Kentucky, United States
-- 💰 **Salary:** $43k–$64k/yr
+### [Case Manager](https://eckb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/requisitions/job/103374) — The Fedcap Group
+- 📍 **Location:** Washington, District of Columbia, United States
+- 💰 **Salary:** $52k/yr
 - **Work mode:** On-site
 - **Job type:** Full Time
-- 🕒 **Posted:** 2026-08-12T00:00:00.000Z
+- 🕒 **Posted:** 2026-08-06T14:53:58.000Z
 
-### [Social Worker](https://www.applitrack.com/plpsk12/onlineapp/jobpostings/view.asp?AppliTrackJobId=331) — Pompton Lakes School District
-- 📍 **Location:** Pompton Lakes, New Jersey, United States
+### [Case Manager](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4356712) — Naqvi Injury Law
+- 📍 **Location:** Las Vegas, Nevada, United States
 - **Work mode:** On-site
 - **Job type:** Full Time
-- 🕒 **Posted:** 2026-08-12T12:00:00.000Z
+- 🕒 **Posted:** 2026-07-22T23:15:55.000Z
 
-### [Community Health Worker](http://goodneighborcommunityhealthcenter.applytojob.com/apply/wuaNKhZ0gO/Community-Health-Worker) — East Central District Health Department/Good Neighbor Community Health Center
-- 📍 **Location:** Columbus, Nebraska, United States
+### [Program Coordinator - MicroEnterprise](https://goodwillswfl.applicantpro.com/jobs/4169156) — Goodwill Industries of Southwest Florida
+- 📍 **Location:** Fort Myers, Florida, United States
+- 💰 **Salary:** $44k–$47k/yr
 - **Work mode:** On-site
 - **Job type:** Full Time
-- 🕒 **Posted:** 2026-08-12T00:00:00.000Z
+- 🕒 **Posted:** 2026-08-06T00:00:00.000Z
