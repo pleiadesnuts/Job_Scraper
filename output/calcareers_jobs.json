@@ -1,32 +1,8 @@
 {
-  "scraped_at": "2026-08-11 17:17 UTC",
-  "total": 6,
+  "scraped_at": "2026-08-12 17:17 UTC",
+  "total": 4,
   "new_count": 0,
   "jobs": [
-    {
-      "company": "Department of Justice",
-      "title": "Criminalist Supervisor (DNA Special Skills)",
-      "location": "Shasta County",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=525307",
-      "date_posted": "2026-07-28",
-      "salary": "$9093.00 - $12480.00",
-      "ats": "CalCareers",
-      "telework": "In Office",
-      "job_type": "Permanent, Full Time",
-      "work_arrangement": "On-site"
-    },
-    {
-      "company": "Department of Justice",
-      "title": "Senior Criminalist - Program Coordinator",
-      "location": "Contra Costa County",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=524906",
-      "date_posted": "2026-07-28",
-      "salary": "$7935.00 - $11151.00",
-      "ats": "CalCareers",
-      "telework": "In Office",
-      "job_type": "Permanent, Full Time",
-      "work_arrangement": "On-site"
-    },
     {
       "company": "State Water Resources Control Board",
       "title": "Cannabis Regulatory Unit Supervisor",
