@@ -1,86 +1,158 @@
 # 🔥 LinkedIn — Social Worker Roles
-*Last updated: 2026-08-13 00:19 UTC*
+*Last updated: 2026-08-13 03:07 UTC*
 
-**19 new role(s)** since last run · 45 total in last 1h
+**35 new role(s)** since last run · 35 total in last 1h
 
-### [Case Manager (58291)](https://www.linkedin.com/jobs/view/4453600562/) — Phoenix House
-- 📍 **Location:** Jamaica, NY
+### [Peer Support Specialist, Pueblo](https://www.linkedin.com/jobs/view/4450423192/) — University of Colorado
+- 📍 **Location:** Aurora, CO
+- 💰 **Salary:** $44,256 to $51,341
 - 🕒 **Posted:** 2026-08-13
 
-### [Organ and Tissue Donation Aftercare Coordinator](https://www.linkedin.com/jobs/view/4450198789/) — UW Health
-- 📍 **Location:** Madison, WI
-- 🕒 **Posted:** 2026-08-13
-
-### [Social Worker](https://www.linkedin.com/jobs/view/4453396394/) — Nemours Children's Health
-- 📍 **Location:** United States
-- 🕒 **Posted:** 2026-08-12
-
-### [Nurse Supervisor - Denver 34111 8220 14113 8227](https://www.linkedin.com/jobs/view/4453395026/) — State of Colorado
+### [ABA Clinic Licensing Supervisor.](https://www.linkedin.com/jobs/view/4453628608/) — State of Colorado
 - 📍 **Location:** Denver, CO
-- 🕒 **Posted:** 2026-08-12
+- 🕒 **Posted:** 2026-08-13
 
-### [Part-Time Program Coordinator, College and Career Preparation](https://www.linkedin.com/jobs/view/4453605088/) — Latino Education Advancement Foundation
-- 📍 **Location:** San Jose, CA
-- 💰 **Salary:** $30-$34/Hr
-- 🕒 **Posted:** 2026-08-12
+### [ABA Clinic Licensing Supervisor.](https://www.linkedin.com/jobs/view/4453635289/) — State of Colorado
+- 📍 **Location:** Denver, CO
+- 🕒 **Posted:** 2026-08-13
 
-### [Community Outreach Specialist (PANYNJ)](https://www.linkedin.com/jobs/view/4451956962/) — Techno Consult
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $40-$55/hr
-- 🕒 **Posted:** 2026-08-12
+### [Assistant Program Manager - BASE](https://www.linkedin.com/jobs/view/4453367351/) — Douglas County School District
+- 📍 **Location:** Parker, CO
+- 💰 **Salary:** $20.25 USD - $32.28 USD Hourly
+- 🕒 **Posted:** 2026-08-13
 
-### [Child & Youth Development Specialist](https://www.linkedin.com/jobs/view/4453601178/) — The Brenda Strafford Foundation
-- 📍 **Location:** Calgary, Alberta, Canada
-- 🕒 **Posted:** 2026-08-12
+### [Nurse Supervisor - Denver 34111 8220 14113 8227.](https://www.linkedin.com/jobs/view/4453632426/) — State of Colorado
+- 📍 **Location:** Denver, CO
+- 🕒 **Posted:** 2026-08-13
 
-### [School Social Worker](https://www.linkedin.com/jobs/view/4450405009/) — Chapel Hill-Carrboro City Schools
-- 📍 **Location:** Carrboro, NC
-- 🕒 **Posted:** 2026-08-12
-
-### [Asthma Community Health Worker (Bilingual English/Spanish)](https://www.linkedin.com/jobs/view/4450185660/) — URBAN HEALTH PLAN, INC.
-- 📍 **Location:** Bronx, NY
-- 🕒 **Posted:** 2026-08-12
-
-### [Public Health Educator](https://www.linkedin.com/jobs/view/4450199327/) — Texas Department of State Health Services
-- 📍 **Location:** Abilene, TX
-- 💰 **Salary:** $4,020.33 - $4,564.17
-- 🕒 **Posted:** 2026-08-12
-
-### [Care Coordinator - WISe](https://www.linkedin.com/jobs/view/4451967360/) — Comprehensive Healthcare
-- 📍 **Location:** Ellensburg, WA
-- 🕒 **Posted:** 2026-08-12
-
-### [Case Manager](https://www.linkedin.com/jobs/view/4450190823/) — Archdiocese of St. Louis
-- 📍 **Location:** St Louis, MO
-- 🕒 **Posted:** 2026-08-12
-
-### [Program Coordinator](https://www.linkedin.com/jobs/view/4448250808/) — Commonwealth of Kentucky
-- 📍 **Location:** Frankfort, KY
-- 💰 **Salary:** $43,210.08 - $64,816.08 Annually
-- 🕒 **Posted:** 2026-08-12
-
-### [Health Educator 2 SV - ACO - MSSP - FT Days](https://www.linkedin.com/jobs/view/4453397579/) — UCI Health
-- 📍 **Location:** Orange, CA
-- 🕒 **Posted:** 2026-08-12
-
-### [Care Coordinator](https://www.linkedin.com/jobs/view/4452198519/) — Churches of Christ in Queensland
-- 📍 **Location:** Warwick, Queensland, Australia
-- 🕒 **Posted:** 2026-08-12
-
-### [Housing Specialist - WHRC](https://www.linkedin.com/jobs/view/4453610133/) — Catholic Charities of Baltimore
+### [Peer Supervisor](https://www.linkedin.com/jobs/view/4453625543/) — Smith and Wright Way Wellness Village
 - 📍 **Location:** Baltimore, MD
-- 🕒 **Posted:** 2026-08-12
+- 🕒 **Posted:** 2026-08-13
 
-### [Forensic Case Manager - Residential Services](https://www.linkedin.com/jobs/view/4450401043/) — The Bridge
-- 📍 **Location:** Bronx, NY
-- 🕒 **Posted:** 2026-08-12
+### [Case Manager II (TUC – Strength United)](https://www.linkedin.com/jobs/view/4450446695/) — California State University, Northridge
+- 📍 **Location:** Northridge, CA
+- 💰 **Salary:** $24.04 - $27.00 per hour
+- 🕒 **Posted:** 2026-08-13
 
-### [Case Manager Substance Use Counselor - Mental Health 148](https://www.linkedin.com/jobs/view/4453329364/) — Telecare Corporation
+### [Licensed Master Social Worker](https://www.linkedin.com/jobs/view/4453635173/) — Lutheran Health Network
+- 📍 **Location:** Fort Wayne, IN
+- 🕒 **Posted:** 2026-08-13
+
+### [NAVIGATE Program Coordinator](https://www.linkedin.com/jobs/view/4451483881/) — University of Minnesota Physicians
+- 📍 **Location:** St Louis Park, MN
+- 🕒 **Posted:** 2026-08-13
+
+### [Program Coordinator](https://www.linkedin.com/jobs/view/4453363986/) — Specialized Education Services, Inc.
+- 📍 **Location:** Hoffman Estates, IL
+- 💰 **Salary:** USD $63,000.00 - USD $65,000.00 /Yr
+- 🕒 **Posted:** 2026-08-13
+
+### [Standardized Patient Program Coordinator](https://www.linkedin.com/jobs/view/4453630581/) — Baylor Scott & White Health
+- 📍 **Location:** Temple, TX
+- 🕒 **Posted:** 2026-08-13
+
+### [Program Coordinator or Program Specialist](https://www.linkedin.com/jobs/view/4453375071/) — The University of Texas at Austin
+- 📍 **Location:** Austin, TX
+- 🕒 **Posted:** 2026-08-13
+
+### [Program Manager - Hoag Health Labs, San Clemente](https://www.linkedin.com/jobs/view/4453617770/) — Hoag Health System
+- 📍 **Location:** San Clemente, CA
+- 🕒 **Posted:** 2026-08-13
+
+### [Community Health Worker](https://www.linkedin.com/jobs/view/4443729161/) — Institute on Aging
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $30 - $34/Hourly
+- 🕒 **Posted:** 2026-08-13
+
+### [Case Manager](https://www.linkedin.com/jobs/view/4453626619/) — WestCoast Children's Clinic
 - 📍 **Location:** Oakland, CA
-- 💰 **Salary:** $27.85 - $34.42
-- 🕒 **Posted:** 2026-08-12
+- 🕒 **Posted:** 2026-08-13
 
-### [Case Manager Substance Use Specialist - Mental Health 179](https://www.linkedin.com/jobs/view/4453600386/) — Telecare Corporation
-- 📍 **Location:** San Bernardino, CA
-- 💰 **Salary:** $23.00 - $25.15
-- 🕒 **Posted:** 2026-08-12
+### [Case Manager Generalist](https://www.linkedin.com/jobs/view/4450435060/) — Volunteers of America Los Angeles
+- 📍 **Location:** Garden Grove, CA
+- 💰 **Salary:** $22.91 - $24.12 Per Hour
+- 🕒 **Posted:** 2026-08-13
+
+### [Case Manager - Co-Occurring Residential Program](https://www.linkedin.com/jobs/view/4453631380/) — Volunteers of America, Utah
+- 📍 **Location:** Salt Lake City, UT
+- 🕒 **Posted:** 2026-08-13
+
+### [Case Manager/Outreach Intake Specialist](https://www.linkedin.com/jobs/view/4450952275/) — Endeavors
+- 📍 **Location:** Tyler, TX
+- 🕒 **Posted:** 2026-08-13
+
+### [Case Manager for Homeless Housing Outreach Mental Health Services](https://www.linkedin.com/jobs/view/4453620581/) — Mental Health America of Los Angeles
+- 📍 **Location:** Long Beach, CA
+- 🕒 **Posted:** 2026-08-13
+
+### [Social Worker](https://www.linkedin.com/jobs/view/4452153267/) — Oranga Tamariki—Ministry for Children
+- 📍 **Location:** Hamilton, Waikato, New Zealand
+- 💰 **Salary:** $81,206 - $97,557
+- 🕒 **Posted:** 2026-08-13
+
+### [LTSS Service Coordinator - Case Manager (Region A: Okaloosa/Walton/Santa Rosa)](https://www.linkedin.com/jobs/view/4453622735/) — Elevance Health
+- 📍 **Location:** Tallahassee, FL
+- 🕒 **Posted:** 2026-08-13
+
+### [Case Manager/ Housing Navigator](https://www.linkedin.com/jobs/view/4451932741/) — Endeavors
+- 📍 **Location:** Tempe, AZ
+- 🕒 **Posted:** 2026-08-13
+
+### [Social Worker (Level 1/2) - Adult Drug Court](https://www.linkedin.com/jobs/view/4453039443/) — Sydney Local Health District
+- 📍 **Location:** Sydney, New South Wales, Australia
+- 💰 **Salary:** $79,419 - $113,301 per annum
+- 🕒 **Posted:** 2026-08-13
+
+### [COMMUNITY HEALTH WORKER II](https://www.linkedin.com/jobs/view/4453621546/) — Northern Health - BC
+- 📍 **Location:** Valemount, British Columbia, Canada
+- 🕒 **Posted:** 2026-08-13
+
+### [Outreach & Intake Specialist II](https://www.linkedin.com/jobs/view/4450956008/) — Endeavors
+- 📍 **Location:** Diboll, TX
+- 🕒 **Posted:** 2026-08-13
+
+### [Care Coordinator II](https://www.linkedin.com/jobs/view/4450441042/) — Health Net Health Plan of Oregon, Inc.
+- 📍 **Location:** Johnson County, KS
+- 💰 **Salary:** $17.84 - $28.02 per hour
+- 🕒 **Posted:** 2026-08-13
+
+### [Student Supervisor](https://www.linkedin.com/jobs/view/4453627610/) — Township High School District 211
+- 📍 **Location:** Hoffman Estates, IL
+- 🕒 **Posted:** 2026-08-13
+
+### [Care Coordinator (Administrative Officer Level 4) - Out of Hospital Care](https://www.linkedin.com/jobs/view/4453636208/) — Sydney Local Health District
+- 📍 **Location:** Sydney, New South Wales, Australia
+- 💰 **Salary:** $1,498.38 - $1,532.68 per week
+- 🕒 **Posted:** 2026-08-13
+
+### [MIX Program Coordinator](https://www.linkedin.com/jobs/view/4453629560/) — Virginia Workers' Compensation Commission
+- 📍 **Location:** Fairfax, VA
+- 🕒 **Posted:** 2026-08-13
+
+### [[B] Resident Care Coordinator Regular Full Time [BHR RCC 1.00] AgeCare Holyrood](https://www.linkedin.com/jobs/view/4453617825/) — AgeCare
+- 📍 **Location:** Maple Ridge, British Columbia, Canada
+- 💰 **Salary:** $74,000.00 - $82,000.00 per year
+- 🕒 **Posted:** 2026-08-13
+
+### [Case Manager](https://www.linkedin.com/jobs/view/4453379330/) — Encompass Health
+- 📍 **Location:** Las Vegas, NV
+- 💰 **Salary:** $35.00/hr - $47.00/hr
+- 🕒 **Posted:** 2026-08-13
+
+### [Case Manager/Outreach Intake Specialist](https://www.linkedin.com/jobs/view/4451902663/) — Endeavors
+- 📍 **Location:** Las Vegas, NV
+- 🕒 **Posted:** 2026-08-13
+
+### [FT - Recreation Supervisor I - Recreation Division](https://www.linkedin.com/jobs/view/4453628602/) — Ogden City Economic Development Division
+- 📍 **Location:** Ogden, UT
+- 💰 **Salary:** $64,176.38 - $93,055.74
+- 🕒 **Posted:** 2026-08-13
+
+### [Social Worker (Level 4) - Adult Drug Court, Drug Health Services RPAH](https://www.linkedin.com/jobs/view/4453048353/) — Sydney Local Health District
+- 📍 **Location:** Sydney, New South Wales, Australia
+- 💰 **Salary:** $131,585 - $134,775 per annum
+- 🕒 **Posted:** 2026-08-13
+
+### [Social Worker - S&FS (permanent)](https://www.linkedin.com/jobs/view/4453637291/) — Slough Children First
+- 📍 **Location:** Slough, England, United Kingdom
+- 🕒 **Posted:** 2026-08-13
