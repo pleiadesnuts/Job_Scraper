@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-13 16:40 UTC",
-  "total": 13,
-  "new_count": 2,
+  "scraped_at": "2026-08-14 16:37 UTC",
+  "total": 16,
+  "new_count": 8,
   "jobs": [
     {
       "company": "U.S. Coast Guard",
@@ -10,6 +10,42 @@
       "url": "https://www.usajobs.gov/job/879733700",
       "date_posted": "2026-08-07",
       "salary": "Starting at $89,508 Per year (GS 12)",
+      "ats": "USAJOBS"
+    },
+    {
+      "company": "Veterans Health Administration",
+      "title": "Social Worker- Community Living Center",
+      "location": "Fort Meade, South Dakota",
+      "url": "https://www.usajobs.gov/job/880565800",
+      "date_posted": "2026-08-13",
+      "salary": "Starting at $63,272 Per year (GS 9-11)",
+      "ats": "USAJOBS"
+    },
+    {
+      "company": "Veterans Health Administration",
+      "title": "Registered Nurse - Education Supervisor",
+      "location": "Omaha, Nebraska",
+      "url": "https://www.usajobs.gov/job/880564500",
+      "date_posted": "2026-08-13",
+      "salary": "Starting at $65,500 Per year (VN 00)",
+      "ats": "USAJOBS"
+    },
+    {
+      "company": "Veterans Health Administration",
+      "title": "Senior Social Worker - Outpatient Substance Use Disorders Program",
+      "location": "Cedar Rapids, Iowa",
+      "url": "https://www.usajobs.gov/job/880508500",
+      "date_posted": "2026-08-13",
+      "salary": "Starting at $97,100 Per year (GS 12)",
+      "ats": "USAJOBS"
+    },
+    {
+      "company": "Veterans Health Administration",
+      "title": "Social Worker - Intimate Partner Violence Assistance Program",
+      "location": "Coralville, Iowa",
+      "url": "https://www.usajobs.gov/job/880504600",
+      "date_posted": "2026-08-13",
+      "salary": "Starting at $66,958 Per year (GS 9-11)",
       "ats": "USAJOBS"
     },
     {
@@ -23,11 +59,29 @@
     },
     {
       "company": "Veterans Health Administration",
-      "title": "Social Worker",
-      "location": "Knoxville, Tennessee",
-      "url": "https://www.usajobs.gov/job/880230100",
-      "date_posted": "2026-08-12",
-      "salary": "Starting at $65,113 Per year (GS 9-11)",
+      "title": "Social Worker (Home Based Primary Care)",
+      "location": "Poplar Bluff, Missouri",
+      "url": "https://www.usajobs.gov/job/880616400",
+      "date_posted": "2026-08-14",
+      "salary": "Starting at $82,040 Per year (GS 11)",
+      "ats": "USAJOBS"
+    },
+    {
+      "company": "Department of Education Headquarters",
+      "title": "IT Program Manager",
+      "location": "Washington, District of Columbia",
+      "url": "https://www.usajobs.gov/job/880605200",
+      "date_posted": "2026-08-14",
+      "salary": "Starting at $169,279 Per year (GS 15)",
+      "ats": "USAJOBS"
+    },
+    {
+      "company": "Veterans Health Administration",
+      "title": "Social Worker - Senior Social Worker Home Based Primary Care (HBPC)",
+      "location": "Las Vegas, Nevada",
+      "url": "https://www.usajobs.gov/job/880581400",
+      "date_posted": "2026-08-13",
+      "salary": "Starting at $108,577 Per year (GS 12)",
       "ats": "USAJOBS"
     },
     {
@@ -37,6 +91,15 @@
       "url": "https://www.usajobs.gov/job/880436200",
       "date_posted": "2026-08-13",
       "salary": "Starting at $99,157 Per year (GS 12)",
+      "ats": "USAJOBS"
+    },
+    {
+      "company": "Veterans Health Administration",
+      "title": "Social Worker (Program Coordinator) Caregiver Support - Education Debt Reduction Program Approved",
+      "location": "Corpus Christi, Texas",
+      "url": "https://www.usajobs.gov/job/880576700",
+      "date_posted": "2026-08-13",
+      "salary": "Starting at $89,508 Per year (GS 12)",
       "ats": "USAJOBS"
     },
     {
@@ -76,42 +139,6 @@
       "ats": "USAJOBS"
     },
     {
-      "company": "Veterans Health Administration",
-      "title": "Nurse - Caregiver Support Program Coordinator",
-      "location": "San Jose, California",
-      "url": "https://www.usajobs.gov/job/880195900",
-      "date_posted": "2026-08-11",
-      "salary": "Starting at $153,887 Per year (VN 00)",
-      "ats": "USAJOBS"
-    },
-    {
-      "company": "Veterans Health Administration",
-      "title": "Social Worker (Readjustment Counselor)",
-      "location": "Clearwater, Florida",
-      "url": "https://www.usajobs.gov/job/880192600",
-      "date_posted": "2026-08-11",
-      "salary": "Starting at $67,570 Per year (GS 9-11)",
-      "ats": "USAJOBS"
-    },
-    {
-      "company": "Veterans Health Administration",
-      "title": "Senior Social Worker",
-      "location": "Monroe, Louisiana",
-      "url": "https://www.usajobs.gov/job/880144600",
-      "date_posted": "2026-08-11",
-      "salary": "Starting at $108,119 Per year (GS 12)",
-      "ats": "USAJOBS"
-    },
-    {
-      "company": "Veterans Health Administration",
-      "title": "Social Worker- Behavioral Health Interdisciplinary Program (SUD)",
-      "location": "Detroit, Michigan",
-      "url": "https://www.usajobs.gov/job/880056600",
-      "date_posted": "2026-08-11",
-      "salary": "Starting at $69,716 Per year (GS 9-11)",
-      "ats": "USAJOBS"
-    },
-    {
       "company": "Air Force Materiel Command",
       "title": "PROGRAM MANAGER - DIRECT HIRE AUTHORITY",
       "location": "Kelly AFB, Texas",
@@ -124,20 +151,74 @@
   "new_jobs": [
     {
       "company": "Veterans Health Administration",
-      "title": "Social Worker-PACT",
-      "location": "Vincennes, Indiana",
-      "url": "https://www.usajobs.gov/job/880476900",
+      "title": "Social Worker- Community Living Center",
+      "location": "Fort Meade, South Dakota",
+      "url": "https://www.usajobs.gov/job/880565800",
       "date_posted": "2026-08-13",
-      "salary": "Starting at $68,018 Per year (GS 9-11)",
+      "salary": "Starting at $63,272 Per year (GS 9-11)",
       "ats": "USAJOBS"
     },
     {
       "company": "Veterans Health Administration",
-      "title": "Senior Social Worker - Home Based Primary Care",
-      "location": "Lebanon, Pennsylvania",
-      "url": "https://www.usajobs.gov/job/880436200",
+      "title": "Registered Nurse - Education Supervisor",
+      "location": "Omaha, Nebraska",
+      "url": "https://www.usajobs.gov/job/880564500",
       "date_posted": "2026-08-13",
-      "salary": "Starting at $99,157 Per year (GS 12)",
+      "salary": "Starting at $65,500 Per year (VN 00)",
+      "ats": "USAJOBS"
+    },
+    {
+      "company": "Veterans Health Administration",
+      "title": "Senior Social Worker - Outpatient Substance Use Disorders Program",
+      "location": "Cedar Rapids, Iowa",
+      "url": "https://www.usajobs.gov/job/880508500",
+      "date_posted": "2026-08-13",
+      "salary": "Starting at $97,100 Per year (GS 12)",
+      "ats": "USAJOBS"
+    },
+    {
+      "company": "Veterans Health Administration",
+      "title": "Social Worker - Intimate Partner Violence Assistance Program",
+      "location": "Coralville, Iowa",
+      "url": "https://www.usajobs.gov/job/880504600",
+      "date_posted": "2026-08-13",
+      "salary": "Starting at $66,958 Per year (GS 9-11)",
+      "ats": "USAJOBS"
+    },
+    {
+      "company": "Veterans Health Administration",
+      "title": "Social Worker (Home Based Primary Care)",
+      "location": "Poplar Bluff, Missouri",
+      "url": "https://www.usajobs.gov/job/880616400",
+      "date_posted": "2026-08-14",
+      "salary": "Starting at $82,040 Per year (GS 11)",
+      "ats": "USAJOBS"
+    },
+    {
+      "company": "Department of Education Headquarters",
+      "title": "IT Program Manager",
+      "location": "Washington, District of Columbia",
+      "url": "https://www.usajobs.gov/job/880605200",
+      "date_posted": "2026-08-14",
+      "salary": "Starting at $169,279 Per year (GS 15)",
+      "ats": "USAJOBS"
+    },
+    {
+      "company": "Veterans Health Administration",
+      "title": "Social Worker - Senior Social Worker Home Based Primary Care (HBPC)",
+      "location": "Las Vegas, Nevada",
+      "url": "https://www.usajobs.gov/job/880581400",
+      "date_posted": "2026-08-13",
+      "salary": "Starting at $108,577 Per year (GS 12)",
+      "ats": "USAJOBS"
+    },
+    {
+      "company": "Veterans Health Administration",
+      "title": "Social Worker (Program Coordinator) Caregiver Support - Education Debt Reduction Program Approved",
+      "location": "Corpus Christi, Texas",
+      "url": "https://www.usajobs.gov/job/880576700",
+      "date_posted": "2026-08-13",
+      "salary": "Starting at $89,508 Per year (GS 12)",
       "ats": "USAJOBS"
     }
   ]
