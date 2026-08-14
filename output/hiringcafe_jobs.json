@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-14 17:54 UTC",
+  "scraped_at": "2026-08-14 18:51 UTC",
   "total": 91,
-  "new_count": 6,
+  "new_count": 0,
   "jobs": [
     {
       "company": "Hertford Rehabilitation and Healthcare",
@@ -1278,90 +1278,5 @@
       "ats": "HiringCafe"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "The Fedcap Group",
-      "title": "Case Manager",
-      "location": "Washington, District of Columbia, United States",
-      "url": "https://eckb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/requisitions/job/103374",
-      "direct_url": "https://eckb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/requisitions/job/103374",
-      "date_posted": "2026-08-06T14:53:58.000Z",
-      "description": "Bachelor’s degree in social work, social services, counseling, business administration, or related field and 3 years’ vocational rehabilitation or case management experience; 5 years’ case management may substitute.",
-      "salary": "$52k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Consilio",
-      "title": "Case Manager",
-      "location": "United States",
-      "url": "https://careers-consilio.icims.com/jobs/4145/case-manager/job?in_iframe=1",
-      "direct_url": "https://careers-consilio.icims.com/jobs/4145/case-manager/job?in_iframe=1",
-      "date_posted": "2026-08-12T04:00:00.000Z",
-      "description": "BA/BS degree or 5 years in litigation support/legal industry; 3+ years as a project manager; experience managing concurrent cross-functional projects, budgets, schedules, teams, and client relationships.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": true,
-      "work_arrangement": "Remote in-state eligible",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Kennesaw State University",
-      "title": "Program Coordinator, CARPE",
-      "location": "Marietta or Kennesaw",
-      "url": "https://careers.hprod.onehcm.usg.edu/psc/careers/CAREERS/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&Action=U&FOCUS=Applicant&JobOpeningId=302290&PostingSeq=1&SiteId=1",
-      "direct_url": "https://careers.hprod.onehcm.usg.edu/psc/careers/CAREERS/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&Action=U&FOCUS=Applicant&JobOpeningId=302290&PostingSeq=1&SiteId=1",
-      "date_posted": "2026-08-14T12:00:00.000Z",
-      "description": "Bachelor's degree in a related field, one year of related experience, unrestricted driver's license, program coordination, data analysis, communication, project management, and presentation skills.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Henry M. Jackson Foundation for the Advancement of Military Medicine",
-      "title": "Program Coordinator - MRBD",
-      "location": "Silver Spring, Maryland, United States",
-      "url": "https://iaaxmg.fa.ocs.oraclegovcloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/requisitions/job/11287",
-      "direct_url": "https://iaaxmg.fa.ocs.oraclegovcloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/requisitions/job/11287",
-      "date_posted": "2026-08-13T12:27:15.000Z",
-      "description": "Bachelor's degree in a scientific field, 0–2 years of experience, project management knowledge, federal budget process knowledge, strong communication, independent judgment, and ability to coordinate complex programs.",
-      "salary": "$53k–$65k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Shawnee Christian Healthcare",
-      "title": "Community Health Worker (Community Health)",
-      "location": "Louisville, Kentucky, United States",
-      "url": "https://www.joblinkapply.com/Joblink/6346/Job/Index/864686",
-      "direct_url": "https://www.joblinkapply.com/Joblink/6346/Job/Index/864686",
-      "date_posted": "2026-08-14T12:50:48.087Z",
-      "description": "Requires high school diploma, 2 years of health or social services experience and/or education, reliable transportation, computer skills, communication, organization, and cultural competence.",
-      "salary": "$2080–$4160/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "CommonSpirit Health",
-      "title": "Community Health Worker",
-      "location": "Merced, California, United States",
-      "url": "https://commonspirit.jibeapply.com/jobs/487992",
-      "direct_url": "https://commonspirit.jibeapply.com/jobs/487992",
-      "date_posted": "2026-08-13T20:44:38.000Z",
-      "description": "Requires 1 year each in healthcare and community outreach, high school diploma/GED, Community Health Worker certification within 12 months, Google Workspace proficiency, communication skills, and culturally appropriate service.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    }
-  ]
+  "new_jobs": []
 }
