@@ -1,11 +1,17 @@
 # 🟦 Indeed — Social Worker Roles
-*Last updated: 2026-08-14 19:47 UTC*
+*Last updated: 2026-08-14 21:18 UTC*
 
-**1 new role(s)** since last run · 13 total in last 24h
+**2 new role(s)** since last run · 14 total in last 24h
 
-### [School Social Worker](https://www.indeed.com/viewjob?jk=f9722e9ba65d6536) — Ampersand Therapy
-- 📍 **Location:** Greeley, CO, US
-- 💰 **Salary:** $48–$58/hr
-- **Work mode:** On-site
+### [PLADS Leave Case Manager](https://www.indeed.com/viewjob?jk=74ff4f3548ac1b5a) — Aflac
+- 📍 **Location:** Remote, US
+- 💰 **Salary:** $40k–$58k/yr
+- **Work mode:** Remote in-state eligible
+- 🕒 **Posted:** 2026-01-07
+
+### [TMS/Spravato Intake Specialist](https://www.indeed.com/viewjob?jk=4cde3c057c6fc98a) — TMS Marketing Solutions
+- 📍 **Location:** Remote, US
+- 💰 **Salary:** $50k–$55k/yr
+- **Work mode:** Remote in-state eligible
 - **Job type:** fulltime
-- 🕒 **Posted:** 2026-08-13
+- 🕒 **Posted:** 2026-08-14
