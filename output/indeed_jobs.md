@@ -1,38 +1,28 @@
 # 🟦 Indeed — Social Worker Roles
-*Last updated: 2026-08-14 03:19 UTC*
+*Last updated: 2026-08-14 16:46 UTC*
 
-**5 new role(s)** since last run · 16 total in last 24h
+**4 new role(s)** since last run · 18 total in last 24h
 
-### [School Social Worker](https://www.indeed.com/viewjob?jk=b65e63a327561504) — Ampersand Therapy
-- 📍 **Location:** Greeley, CO, US
-- 💰 **Salary:** $48–$58/hr
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-08-13
-
-### [School Social Worker](https://www.indeed.com/viewjob?jk=1c01904d96e70c47) — Ampersand Therapy
-- 📍 **Location:** Aurora, CO, US
-- 💰 **Salary:** $50–$60/hr
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-08-13
-
-### [Variable Case Manager PREVAIL](https://www.indeed.com/viewjob?jk=462d9ad4296bf83f) — CITY OF LAKEWOOD
-- 📍 **Location:** Lakewood, CO, US
-- 💰 **Salary:** $33–$47/hr
-- **Work mode:** On-site
-- **Job type:** parttime
-- 🕒 **Posted:** 2026-08-13
-
-### [Social Worker (Principal Level)](https://www.indeed.com/viewjob?jk=a4111db8dea0f910) — University of Colorado
-- 📍 **Location:** Aurora, CO, US
-- **Work mode:** Remote in-state eligible
-- **Job type:** parttime
-- 🕒 **Posted:** 2026-08-13
-
-### [Behavioral Health Specialist I](https://www.indeed.com/viewjob?jk=81b1ac2b73bde491) — UCHealth
-- 📍 **Location:** Aurora, CO, US
-- 💰 **Salary:** $20–$27/hr
+### [Behavioral Health Specialist, Social Work/Counselor III - Gilliam](https://www.indeed.com/viewjob?jk=fb6eb74bcb4ee99c) — State of Colorado
+- 📍 **Location:** Denver, CO, US
 - **Work mode:** Remote in-state eligible
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-08-13
+
+### [Case Manager II](https://www.indeed.com/viewjob?jk=c36653902082ce97) — Kindred Hospitals
+- 📍 **Location:** Denver, CO, US
+- 💰 **Salary:** $43–$55/hr
+- **Work mode:** On-site
+- 🕒 **Posted:** 2026-08-13
+
+### [Faculty Development Program Coordinator](https://www.indeed.com/viewjob?jk=52ae3f804559f45a) — American Indian College Fund
+- 📍 **Location:** Denver, CO, US
+- 💰 **Salary:** $49k–$56k/yr
+- **Work mode:** Remote in-state eligible
+- 🕒 **Posted:** 2026-08-13
+
+### [Case Manager](https://www.indeed.com/viewjob?jk=725e20941808a750) — General Dynamics Information Technology
+- 📍 **Location:** Remote, US
+- 💰 **Salary:** $94k–$126k/yr
+- **Work mode:** Remote in-state eligible
+- 🕒 **Posted:** 2026-08-14
