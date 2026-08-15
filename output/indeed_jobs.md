@@ -1,10 +1,11 @@
 # 🟦 Indeed — Social Worker Roles
-*Last updated: 2026-08-15 21:15 UTC*
+*Last updated: 2026-08-15 23:17 UTC*
 
-**1 new role(s)** since last run · 16 total in last 24h
+**1 new role(s)** since last run · 13 total in last 24h
 
-### [Virtual Reentry Peer Support Specialist](https://www.indeed.com/viewjob?jk=61621a8acedaa964) — New Purpose House
-- 📍 **Location:** Remote, US
-- **Work mode:** Remote in-state eligible
-- **Job type:** contract
+### [Specialty Healthcare Coordinator](https://www.indeed.com/viewjob?jk=71c3eb502923ae81) — PDS Health
+- 📍 **Location:** Parker, CO, US
+- 💰 **Salary:** $19–$28/hr
+- **Work mode:** On-site
+- **Job type:** fulltime
 - 🕒 **Posted:** 2026-08-15
