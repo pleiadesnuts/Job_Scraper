@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-15 04:34 UTC",
-  "total": 92,
-  "new_count": 0,
+  "scraped_at": "2026-08-15 17:26 UTC",
+  "total": 89,
+  "new_count": 1,
   "jobs": [
     {
       "company": "Hertford Rehabilitation and Healthcare",
@@ -32,20 +32,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Hightower Trail Operations LLC",
-      "title": "Social Worker",
-      "location": "Des Moines, Iowa, United States",
-      "url": "https://hightowertrailop.applicantstack.com/x/detail-arborsprings/a2b92vkxojw9",
-      "direct_url": "https://hightowertrailop.applicantstack.com/x/detail-arborsprings/a2b92vkxojw9",
-      "date_posted": "2026-08-07T18:08:38.000Z",
-      "description": "Certified Social Worker in good standing or in training, secondary education at an approved school of social work, English proficiency, and prior experience or appropriate training.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "-",
       "title": "Social Worker",
       "location": "Wethersfield, Connecticut, United States",
@@ -53,6 +39,20 @@
       "direct_url": "https://careers-nathealthcare.icims.com/jobs/7331/social-worker/job?in_iframe=1",
       "date_posted": "2026-07-20T04:00:00.000Z",
       "description": "Master's in social work, state licensure as a social worker, experience in long-term care, strong assessment, counseling, crisis intervention, and teamwork skills.",
+      "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Hightower Trail Operations LLC",
+      "title": "Social Worker",
+      "location": "Des Moines, Iowa, United States",
+      "url": "https://hightowertrailop.applicantstack.com/x/detail-arborsprings/a2b92vkxojw9",
+      "direct_url": "https://hightowertrailop.applicantstack.com/x/detail-arborsprings/a2b92vkxojw9",
+      "date_posted": "2026-08-07T18:08:38.000Z",
+      "description": "Certified Social Worker in good standing or in training, secondary education at an approved school of social work, English proficiency, and prior experience or appropriate training.",
       "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
@@ -88,20 +88,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Allina",
-      "title": "Social Worker",
-      "location": "Minneapolis, Minnesota, United States",
-      "url": "https://allina.wd5.myworkdayjobs.com/external/job/Allina-Commons/Social-Worker_R-0073448",
-      "direct_url": "https://allina.wd5.myworkdayjobs.com/external/job/Allina-Commons/Social-Worker_R-0073448",
-      "date_posted": "2026-08-05T00:00:00.000Z",
-      "description": "Bachelor's degree in Social Work, Minnesota social worker license, and 2+ years of social work experience required; acute care experience and MSW preferred. Driver's license required for specified care positions.",
-      "salary": "$65k–$104k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Winner Regional Healthcare Center",
       "title": "Social Worker",
       "location": "Winner, South Dakota, United States",
@@ -110,6 +96,20 @@
       "date_posted": "2026-07-30T13:53:35.000Z",
       "description": "Licensed social worker in South Dakota with 1+ year supervised healthcare social work experience; bachelor\\u0002s degree in social work or related human services field; strong communication and documentation skills.",
       "salary": "$50k–$77k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Allina",
+      "title": "Social Worker",
+      "location": "Minneapolis, Minnesota, United States",
+      "url": "https://allina.wd5.myworkdayjobs.com/external/job/Allina-Commons/Social-Worker_R-0073448",
+      "direct_url": "https://allina.wd5.myworkdayjobs.com/external/job/Allina-Commons/Social-Worker_R-0073448",
+      "date_posted": "2026-08-05T00:00:00.000Z",
+      "description": "Bachelor's degree in Social Work, Minnesota social worker license, and 2+ years of social work experience required; acute care experience and MSW preferred. Driver's license required for specified care positions.",
+      "salary": "$65k–$104k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
@@ -130,13 +130,13 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Northern Maine Medical Center",
+      "company": "Clement Manor",
       "title": "Social Worker",
-      "location": "Fort Kent, Maine, United States",
-      "url": "https://secure6.saashr.com/ta/6033683.careers?ShowJob=705332483",
-      "direct_url": "https://secure6.saashr.com/ta/6033683.careers?ShowJob=705332483",
-      "date_posted": "2026-07-23T19:58:45.898Z",
-      "description": "Provide psychosocial assessments, discharge planning, case management, referrals, and interdisciplinary coordination; must hold a Maine social worker license and bachelor\\u0002s degree in social work.",
+      "location": "Greenfield, Wisconsin, United States",
+      "url": "https://clementmanor.employ.onshift.com/job_positions/view/192887/50797353",
+      "direct_url": "https://clementmanor.employ.onshift.com/job_positions/view/192887/50797353",
+      "date_posted": "2026-07-20T14:05:50.000Z",
+      "description": "Bachelor's in social work/psychology/sociology preferred, current Wisconsin social worker license required, discharge planning and MDS experience preferred, strong communication and documentation skills.",
       "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
@@ -153,20 +153,6 @@
       "description": "Master's degree in social work, social worker licensure or certification, driver’s license, reliable transportation, communication and documentation skills, and knowledge of family systems and early childhood development.",
       "salary": "$56k–$65k/yr",
       "job_type": "Full Time, Part Time, Temporary",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Clement Manor",
-      "title": "Social Worker",
-      "location": "Greenfield, Wisconsin, United States",
-      "url": "https://clementmanor.employ.onshift.com/job_positions/view/192887/50797353",
-      "direct_url": "https://clementmanor.employ.onshift.com/job_positions/view/192887/50797353",
-      "date_posted": "2026-07-20T14:05:50.000Z",
-      "description": "Bachelor's in social work/psychology/sociology preferred, current Wisconsin social worker license required, discharge planning and MDS experience preferred, strong communication and documentation skills.",
-      "salary": "",
-      "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
       "ats": "HiringCafe"
@@ -326,20 +312,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Ecumen",
-      "title": "Hospice Social Worker",
-      "location": "Saint Cloud, Minnesota, United States",
-      "url": "https://gusea1p01.rec.pro.ukg.net/ECU1001ECUME/JobBoard/207e3ae3-3dc1-41dd-955c-28a1f0a24775/OpportunityDetail?opportunityId=084cc734-9273-4262-9024-b00f943167d0",
-      "direct_url": "https://gusea1p01.rec.pro.ukg.net/ECU1001ECUME/JobBoard/207e3ae3-3dc1-41dd-955c-28a1f0a24775/OpportunityDetail?opportunityId=084cc734-9273-4262-9024-b00f943167d0",
-      "date_posted": "2026-08-03T01:23:35.486Z",
-      "description": "Bachelor's in social work, licensed social worker in Minnesota, valid driver’s license, 2 years healthcare social work experience, CPR/ability to communicate, and Microsoft Office proficiency.",
-      "salary": "$62k–$73k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Lifespacecommunities",
       "title": "Qualified Social Worker",
       "location": "Delray Beach, Florida, United States",
@@ -348,6 +320,20 @@
       "date_posted": "2026-07-23T00:00:00.000Z",
       "description": "Master's in social work with 1 year healthcare experience OR bachelor's in social work/related field with 3 years; licensed social worker required; proficiency in documentation and resident advocacy.",
       "salary": "$57k–$78k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Ecumen",
+      "title": "Hospice Social Worker",
+      "location": "Saint Cloud, Minnesota, United States",
+      "url": "https://gusea1p01.rec.pro.ukg.net/ECU1001ECUME/JobBoard/207e3ae3-3dc1-41dd-955c-28a1f0a24775/OpportunityDetail?opportunityId=084cc734-9273-4262-9024-b00f943167d0",
+      "direct_url": "https://gusea1p01.rec.pro.ukg.net/ECU1001ECUME/JobBoard/207e3ae3-3dc1-41dd-955c-28a1f0a24775/OpportunityDetail?opportunityId=084cc734-9273-4262-9024-b00f943167d0",
+      "date_posted": "2026-08-03T01:23:35.486Z",
+      "description": "Bachelor's in social work, licensed social worker in Minnesota, valid driver’s license, 2 years healthcare social work experience, CPR/ability to communicate, and Microsoft Office proficiency.",
+      "salary": "$62k–$73k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
@@ -802,20 +788,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Spread the Word Nevada",
-      "title": "Program Coordinator",
-      "location": "Las Vegas, Nevada, United States",
-      "url": "https://spreadthewordnevada.isolvedhire.com/jobs/1637926",
-      "direct_url": "https://spreadthewordnevada.isolvedhire.com/jobs/1637926",
-      "date_posted": "2026-08-04T00:00:00.000Z",
-      "description": "Coordinate and support early childhood literacy programs, communicate with families and schools, assist with events and grant reporting, must have valid Nevada driver license/insurance and be proficient in Microsoft 365.",
-      "salary": "$42k–$46k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Oregon",
       "title": "Program Coordinator (Family Court Program Coordinator)",
       "location": "Eugene or Clayton County or Cobb County or DeKalb County or Douglas County or Fayette County or Fulton County or Gwinnett County or Henry County or Jackson County or Rockdale County",
@@ -970,14 +942,28 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Kennesaw State University",
-      "title": "Program Coordinator, CARPE",
-      "location": "Marietta or Kennesaw",
-      "url": "https://careers.hprod.onehcm.usg.edu/psc/careers/CAREERS/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&Action=U&FOCUS=Applicant&JobOpeningId=302290&PostingSeq=1&SiteId=1",
-      "direct_url": "https://careers.hprod.onehcm.usg.edu/psc/careers/CAREERS/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&Action=U&FOCUS=Applicant&JobOpeningId=302290&PostingSeq=1&SiteId=1",
-      "date_posted": "2026-08-14T12:00:00.000Z",
-      "description": "Bachelor's degree in a related field, one year of related experience, unrestricted driver's license, program coordination, data analysis, communication, project management, and presentation skills.",
-      "salary": "",
+      "company": "UnidosUS",
+      "title": "Program Coordinator, Health",
+      "location": "Washington, District of Columbia, United States",
+      "url": "https://unidosus.org/about/jobs/careers-job-listing/?gh_jid=4701020006",
+      "direct_url": "https://unidosus.org/about/jobs/careers-job-listing/?gh_jid=4701020006",
+      "date_posted": "2026-07-31T17:32:54.000Z",
+      "description": "Associate's degree or equivalent and 3+ years coordinating programs or providing administrative support; experience with event logistics, document management, grant administration, and community health preferred.",
+      "salary": "$63k–$66k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "Telecommute eligible",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "City of Pharr",
+      "title": "Program Coordinator - HCRMA",
+      "location": "Pharr, Texas, United States",
+      "url": "https://pharrtx.applicantpro.com/jobs/4152982",
+      "direct_url": "https://pharrtx.applicantpro.com/jobs/4152982",
+      "date_posted": "2026-07-20T00:00:00.000Z",
+      "description": "Coordinate program activities, vendors, contracts and prepare desktop-published materials; must hold TxDOT Local Government Project Procedures certification and be bilingual English/Spanish.",
+      "salary": "$60k–$80k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
@@ -998,31 +984,17 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "City of Pharr",
-      "title": "Program Coordinator - HCRMA",
-      "location": "Pharr, Texas, United States",
-      "url": "https://pharrtx.applicantpro.com/jobs/4152982",
-      "direct_url": "https://pharrtx.applicantpro.com/jobs/4152982",
-      "date_posted": "2026-07-20T00:00:00.000Z",
-      "description": "Coordinate program activities, vendors, contracts and prepare desktop-published materials; must hold TxDOT Local Government Project Procedures certification and be bilingual English/Spanish.",
-      "salary": "$60k–$80k/yr",
+      "company": "Kennesaw State University",
+      "title": "Program Coordinator, CARPE",
+      "location": "Marietta or Kennesaw",
+      "url": "https://careers.hprod.onehcm.usg.edu/psc/careers/CAREERS/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&Action=U&FOCUS=Applicant&JobOpeningId=302290&PostingSeq=1&SiteId=1",
+      "direct_url": "https://careers.hprod.onehcm.usg.edu/psc/careers/CAREERS/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&Action=U&FOCUS=Applicant&JobOpeningId=302290&PostingSeq=1&SiteId=1",
+      "date_posted": "2026-08-14T12:00:00.000Z",
+      "description": "Bachelor's degree in a related field, one year of related experience, unrestricted driver's license, program coordination, data analysis, communication, project management, and presentation skills.",
+      "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "UnidosUS",
-      "title": "Program Coordinator, Health",
-      "location": "Washington, District of Columbia, United States",
-      "url": "https://unidosus.org/about/jobs/careers-job-listing/?gh_jid=4701020006",
-      "direct_url": "https://unidosus.org/about/jobs/careers-job-listing/?gh_jid=4701020006",
-      "date_posted": "2026-07-31T17:32:54.000Z",
-      "description": "Associate's degree or equivalent and 3+ years coordinating programs or providing administrative support; experience with event logistics, document management, grant administration, and community health preferred.",
-      "salary": "$63k–$66k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "Telecommute eligible",
       "ats": "HiringCafe"
     },
     {
@@ -1035,20 +1007,6 @@
       "description": "Bachelor’s degree and four years of related experience required. Requires communication, organization, multitasking, regulatory reporting, program coordination, and word processing, spreadsheet, and database application skills.",
       "salary": "",
       "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Brown University Health",
-      "title": "Temporary Flu Program Coordinator",
-      "location": "Providence, Rhode Island, United States",
-      "url": "https://jobs.brownhealth.org/search/jobdetails/temporary-flu-program-coordinator/1c2b206a-9a8d-4c7c-a9c9-a376c4283545",
-      "direct_url": "https://jobs.brownhealth.org/search/jobdetails/temporary-flu-program-coordinator/1c2b206a-9a8d-4c7c-a9c9-a376c4283545",
-      "date_posted": "2026-08-04T12:00:00.000Z",
-      "description": "Per diem coordinator role based at Providence HQ; driving required. Role aligns with administrative program coordination and variable hours.",
-      "salary": "$37k–$54k/yr",
-      "job_type": "Temporary",
       "is_remote": false,
       "work_arrangement": "On-site",
       "ats": "HiringCafe"
@@ -1208,14 +1166,14 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Parklandhospital",
+      "company": "Houston County Minnesota",
       "title": "Community Health Worker",
-      "location": "Dallas, Texas, United States",
-      "url": "https://parklandhospital.wd12.myworkdayjobs.com/parkland_careers/job/Moody-Outpatient-Center/Community-Health-Worker_988710",
-      "direct_url": "https://parklandhospital.wd12.myworkdayjobs.com/parkland_careers/job/Moody-Outpatient-Center/Community-Health-Worker_988710",
-      "date_posted": "2026-07-17T00:00:00.000Z",
-      "description": "High school diploma or GED required, 1 year community experience, Texas CHW certification within 12 months, Heart Saver CPR within 90 days, Spanish preferred, ability to perform basic health screenings and community outreach.",
-      "salary": "",
+      "location": "Caledonia, Minnesota, United States",
+      "url": "https://www.governmentjobs.com/careers/houstonmn/jobs/5441794",
+      "direct_url": "https://www.governmentjobs.com/careers/houstonmn/jobs/5441794",
+      "date_posted": "2026-08-10T22:01:08.387Z",
+      "description": "High school diploma or equivalent, one year of related community health experience, CHW certificate or ability to obtain within one year, Minnesota DHS Merit qualification, and background check.",
+      "salary": "$49k–$64k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
@@ -1292,5 +1250,20 @@
       "ats": "HiringCafe"
     }
   ],
-  "new_jobs": []
+  "new_jobs": [
+    {
+      "company": "Houston County Minnesota",
+      "title": "Community Health Worker",
+      "location": "Caledonia, Minnesota, United States",
+      "url": "https://www.governmentjobs.com/careers/houstonmn/jobs/5441794",
+      "direct_url": "https://www.governmentjobs.com/careers/houstonmn/jobs/5441794",
+      "date_posted": "2026-08-10T22:01:08.387Z",
+      "description": "High school diploma or equivalent, one year of related community health experience, CHW certificate or ability to obtain within one year, Minnesota DHS Merit qualification, and background check.",
+      "salary": "$49k–$64k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    }
+  ]
 }
