@@ -1,101 +1,169 @@
 # 🔥 LinkedIn — Social Worker Roles
-*Last updated: 2026-08-15 17:55 UTC*
+*Last updated: 2026-08-15 19:07 UTC*
 
-**21 new role(s)** since last run · 21 total in last 1h
+**39 new role(s)** since last run · 39 total in last 1h
 
-### [Peer Support Specialist](https://www.linkedin.com/jobs/view/4444600330/) — OneTogether Solutions, LLC
-- 📍 **Location:** Tacoma, WA
-- 💰 **Salary:** $30.40/hr - $30.40/hr
+### [Peer Support Specialist](https://www.linkedin.com/jobs/view/4445240136/) — Children's Hospital Colorado
+- 📍 **Location:** Aurora, CO
+- 💰 **Salary:** $19.37 to $29.05
 - 🕒 **Posted:** 2026-08-15
 
-### [Substance Abuse Case Manager-Days](https://www.linkedin.com/jobs/view/4453950022/) — Amatus Health
-- 📍 **Location:** Milford Mill, MD
+### [Customer Service & E-Commerce Supervisor - Full Time](https://www.linkedin.com/jobs/view/4455129794/) — Whole Foods Market
+- 📍 **Location:** Littleton, CO
+- 💰 **Salary:** $17.50/hr - $30.20/hr
 - 🕒 **Posted:** 2026-08-15
 
-### [Case Manager Clinician $5,000 New Hire Bonus](https://www.linkedin.com/jobs/view/4455119736/) — NATIONAL ASSOCIATION OF BLACK SOCIAL WORKERS
-- 📍 **Location:** Lapeer, MI
+### [Substance Abuse Counselor](https://www.linkedin.com/jobs/view/4454561802/) — Prospect House
+- 📍 **Location:** Cincinnati, OH
 - 🕒 **Posted:** 2026-08-15
 
-### [LTSS Service Care Coordinator](https://www.linkedin.com/jobs/view/4445289567/) — Meridian of Illinois
-- 📍 **Location:** Elgin, IL
-- 💰 **Salary:** $22.94 - $38.79 per hour
+### [Foster Care Case Manager](https://www.linkedin.com/jobs/view/4417375001/) — Bethany Christian Services
+- 📍 **Location:** Southfield, MI
 - 🕒 **Posted:** 2026-08-15
 
-### [Case Manager](https://www.linkedin.com/jobs/view/4453935033/) — SAG-AFTRA Foundation
-- 📍 **Location:** Los Angeles, CA
+### [Rural Health Program Coordinator - Mercy Washington](https://www.linkedin.com/jobs/view/2147625155/) — Mercy
+- 📍 **Location:** Washington, MO
 - 🕒 **Posted:** 2026-08-15
 
-### [WES Health Works Centene FT Case Manager](https://www.linkedin.com/jobs/view/4427642879/) — WES HEALTH SYSTEM
+### [Fertility Care Coordinator](https://www.linkedin.com/jobs/view/2147625086/) — Mercy
+- 📍 **Location:** St Louis, MO
+- 🕒 **Posted:** 2026-08-15
+
+### [Case Manager - Surgery](https://www.linkedin.com/jobs/view/4445226475/) — Medical College of Wisconsin
+- 📍 **Location:** Milwaukee, WI
+- 🕒 **Posted:** 2026-08-15
+
+### [Healthcare Coordinator](https://www.linkedin.com/jobs/view/4445200855/) — PDS Health
+- 📍 **Location:** Bellflower, CA
+- 💰 **Salary:** $18.00/hr - $25.50/hr
+- 🕒 **Posted:** 2026-08-15
+
+### [Care Staff Supervisor - Fountains](https://www.linkedin.com/jobs/view/4455124779/) — Hilltop Community Resources
+- 📍 **Location:** Grand Junction, CO
+- 💰 **Salary:** $20.35-$21.36 per hour
+- 🕒 **Posted:** 2026-08-15
+
+### [Social Worker](https://www.linkedin.com/jobs/view/4441852300/) — Houston Methodist
+- 📍 **Location:** Cypress, TX
+- 🕒 **Posted:** 2026-08-15
+
+### [Behavioral Health Intake Specialist](https://www.linkedin.com/jobs/view/4441841883/) — MultiCare Health System
+- 📍 **Location:** Spokane, WA
+- 💰 **Salary:** $31.32 - $45.09 USD
+- 🕒 **Posted:** 2026-08-15
+
+### [Social Worker MSW](https://www.linkedin.com/jobs/view/4418023469/) — HCA Florida Westside Hospital
+- 📍 **Location:** Plantation, FL
+- 🕒 **Posted:** 2026-08-15
+
+### [Social Worker: Home Health and Hospice- King Co.](https://www.linkedin.com/jobs/view/4433134427/) — MultiCare Health System
+- 📍 **Location:** Bellevue, WA
+- 💰 **Salary:** $82,888.00 - $119,288.00 USD
+- 🕒 **Posted:** 2026-08-15
+
+### [Community Health Worker](https://www.linkedin.com/jobs/view/4453936373/) — Mercy
+- 📍 **Location:** Oklahoma City, OK
+- 🕒 **Posted:** 2026-08-15
+
+### [Social Worker II - Psych Acute Adult Geriatric (FT) Ardmore, OK](https://www.linkedin.com/jobs/view/4453935148/) — Mercy
+- 📍 **Location:** Ardmore, OK
+- 🕒 **Posted:** 2026-08-15
+
+### [SR. TRAINING COORDINATOR I-MULTILINGUAL](https://www.linkedin.com/jobs/view/4444444779/) — NIIT
+- 📍 **Location:** Gurgaon, Haryana, India
+- 🕒 **Posted:** 2026-08-15
+
+### [Social Worker MSW PRN](https://www.linkedin.com/jobs/view/4328867436/) — HCA Florida Fort Walton-Destin Hospital
+- 📍 **Location:** Fort Walton Beach, FL
+- 🕒 **Posted:** 2026-08-15
+
+### [Program Manager (Bengali Speaking), Trust & Safety](https://www.linkedin.com/jobs/view/4453936438/) — TikTok
+- 📍 **Location:** Singapore, Singapore
+- 🕒 **Posted:** 2026-08-15
+
+### [Bilingual Case Manager - Laredo Ministry](https://www.linkedin.com/jobs/view/4453957084/) — Mercy
+- 📍 **Location:** Laredo, TX
+- 🕒 **Posted:** 2026-08-15
+
+### [MHJJ/FLYE Case Manager- Southeast](https://www.linkedin.com/jobs/view/4441851474/) — Metropolitan Family Services
 - 📍 **Location:** Chicago, IL
-- 💰 **Salary:** $35,000.00/yr - $37,740.00/yr
+- 💰 **Salary:** $45,000- $49,000
 - 🕒 **Posted:** 2026-08-15
 
-### [CASE MANAGEMENT TEAM LEADER](https://www.linkedin.com/jobs/view/4451745546/) — NYC Department of Social Services
-- 📍 **Location:** Manhattan, NY
-- 💰 **Salary:** $70,646.00 – $81,243.00
+### [Case Manager Certified](https://www.linkedin.com/jobs/view/4425336156/) — Houston Methodist
+- 📍 **Location:** Sugar Land, TX
 - 🕒 **Posted:** 2026-08-15
 
-### [CCBHC Clinical Supervisor](https://www.linkedin.com/jobs/view/4441842709/) — Metropolitan Family Services
-- 📍 **Location:** Merrionette Park, IL
-- 💰 **Salary:** $78,000-$90,000 annually
+### [Community Health Worker II/Full-time/Mercy Hospital STL](https://www.linkedin.com/jobs/view/4453944119/) — Mercy
+- 📍 **Location:** St Louis, MO
 - 🕒 **Posted:** 2026-08-15
 
-### [Account Supervisor](https://www.linkedin.com/jobs/view/4444610589/) — GENICOS, powered by Syneos Health
-- 📍 **Location:** Westerville, OH
-- 💰 **Salary:** $85,000 to $110,000
+### [Community Health Worker- Joplin](https://www.linkedin.com/jobs/view/4453944112/) — Mercy
+- 📍 **Location:** Joplin, MO
 - 🕒 **Posted:** 2026-08-15
 
-### [SCHOOL SOCIAL WORKER (Social Worker I, Criminal Justice) at Maryland State Jobs](https://www.linkedin.com/jobs/view/4455125773/) — Direct-Calls.com
-- 📍 **Location:** Gaithersburg, MD
-- 💰 **Salary:** $66,314.00 - $103,309.00/year
+### [Patient Care Coordinator](https://www.linkedin.com/jobs/view/4445217505/) — Drayer Physical Therapy Institute
+- 📍 **Location:** Cayce, SC
 - 🕒 **Posted:** 2026-08-15
 
-### [Case Manager](https://www.linkedin.com/jobs/view/4453936147/) — The Medical Center of Southeast Texas Beaumont Campus
-- 📍 **Location:** Port Arthur, TX
+### [Patient Care Coordinator/Intake Authorization Coordinator- Beacon Summit Woods-Sharonville](https://www.linkedin.com/jobs/view/4416318305/) — Upstream Rehabilitation
+- 📍 **Location:** Cincinnati, OH
 - 🕒 **Posted:** 2026-08-15
 
-### [LTSS Service Care Coordinator](https://www.linkedin.com/jobs/view/4445303097/) — Meridian of Illinois
-- 📍 **Location:** Chicago, IL
-- 💰 **Salary:** $22.94 - $38.79 per hour
+### [Extended School Day Program Coordinator](https://www.linkedin.com/jobs/view/4455130861/) — Connecticut Recreation and Parks Association
+- 📍 **Location:** Deep River, Ontario, Canada
 - 🕒 **Posted:** 2026-08-15
 
-### [Uganda Regional Innovations Supervisor (Fixed-Term)](https://www.linkedin.com/jobs/view/4455126752/) — ReliefWeb
-- 📍 **Location:** Uganda
+### [Patient Care Coordinator](https://www.linkedin.com/jobs/view/4445227234/) — BenchMark Physical Therapy
+- 📍 **Location:** Jacksonville, NC
 - 🕒 **Posted:** 2026-08-15
 
-### [Sr. Program Coordinator](https://www.linkedin.com/jobs/view/4445232365/) — Children's Hospital Los Angeles (CHLA)
-- 📍 **Location:** Los Angeles, CA
+### [Patient Care Coordinator/Intake Authorization Coordinator- Beacon Ortho- Harrison Ave clinic](https://www.linkedin.com/jobs/view/4445209944/) — Upstream Rehabilitation
+- 📍 **Location:** Cincinnati, OH
 - 🕒 **Posted:** 2026-08-15
 
-### [Supervisor, Environmental Services](https://www.linkedin.com/jobs/view/4445239045/) — Oregon Health & Science University
-- 📍 **Location:** Portland, Oregon Metropolitan Area
-- 💰 **Salary:** $56,035.00/yr - $84,074.00/yr
+### [Patient Care Coordinator](https://www.linkedin.com/jobs/view/4445287085/) — BenchMark Physical Therapy
+- 📍 **Location:** Gresham, OR
 - 🕒 **Posted:** 2026-08-15
 
-### [Memory Care Program Manager (Marlton, NJ)](https://www.linkedin.com/jobs/view/4445240464/) — Ennoble Care
-- 📍 **Location:** Marlton, NJ
-- 💰 **Salary:** $65,000–$75,000 per year
+### [Foster Care Case Manager](https://www.linkedin.com/jobs/view/4417367107/) — Bethany Christian Services
+- 📍 **Location:** Detroit, MI
 - 🕒 **Posted:** 2026-08-15
 
-### [Case Management Supervisor (CASE MGT HC SUPV 2)](https://www.linkedin.com/jobs/view/4445247891/) — UC Davis Health
-- 📍 **Location:** Sacramento, CA
-- 💰 **Salary:** $10,191.67 - $21,658.33
+### [Shift Supervisor - Residential Center for Healing and Resilience](https://www.linkedin.com/jobs/view/4455112988/) — Idaho Youth Ranch
+- 📍 **Location:** Caldwell, ID
 - 🕒 **Posted:** 2026-08-15
 
-### [Adults Social Worker – Mid Essex (Various Teams)](https://www.linkedin.com/jobs/view/4445217300/) — Essex County Council
-- 📍 **Location:** Chelmsford, England, United Kingdom
+### [Social Worker II - Pediatric Psychology & Developmental Medicine](https://www.linkedin.com/jobs/view/4418001356/) — Medical College of Wisconsin
+- 📍 **Location:** Milwaukee, WI
 - 🕒 **Posted:** 2026-08-15
 
-### [Case Manager - Temporary](https://www.linkedin.com/jobs/view/4435251524/) — Church World Service
-- 📍 **Location:** Wilmington, NC
+### [Clinical Social Worker - Substance Use Recovery (F/T Days Hybrid)](https://www.linkedin.com/jobs/view/4453955107/) — Mercy
+- 📍 **Location:** Chesterfield, MO
 - 🕒 **Posted:** 2026-08-15
 
-### [Licensed Master Social Worker (NY HELPS), Kingsboro Psychiatric Center, P27605](https://www.linkedin.com/jobs/view/4445228572/) — New York State Office of Mental Health
-- 📍 **Location:** Brooklyn, NY
-- 💰 **Salary:** $74,193.00/yr - $94,121.00/yr
+### [Social Worker MSW PACE Program CarePartners](https://www.linkedin.com/jobs/view/4445255151/) — HCA Healthcare
+- 📍 **Location:** Asheville, NC
 - 🕒 **Posted:** 2026-08-15
 
-### [Pediatric Clinical Social Worker - LICSW](https://www.linkedin.com/jobs/view/4418012163/) — Tufts Medicine
-- 📍 **Location:** Boston, MA
-- 💰 **Salary:** $77,333.26 - $98,603.60
+### [Clinical Pharmacy Program Coordinator](https://www.linkedin.com/jobs/view/4335017585/) — TriCities Hospital
+- 📍 **Location:** Hopewell, VA
+- 💰 **Salary:** $113692.80 - $170518.40
+- 🕒 **Posted:** 2026-08-15
+
+### [Community Health Worker - Ardmore](https://www.linkedin.com/jobs/view/4453954076/) — Mercy
+- 📍 **Location:** Ardmore, OK
+- 🕒 **Posted:** 2026-08-15
+
+### [Social Worker II](https://www.linkedin.com/jobs/view/4453954061/) — Mercy
+- 📍 **Location:** Washington, MO
+- 🕒 **Posted:** 2026-08-15
+
+### [Social Worker I](https://www.linkedin.com/jobs/view/4445296654/) — Fred Hutch
+- 📍 **Location:** Seattle, WA
+- 💰 **Salary:** $93,164.00 to $139,713.00
+- 🕒 **Posted:** 2026-08-15
+
+### [Social Worker MSW PRN](https://www.linkedin.com/jobs/view/4418014719/) — HCA Florida Woodmont Hospital
+- 📍 **Location:** Tamarac, FL
 - 🕒 **Posted:** 2026-08-15
