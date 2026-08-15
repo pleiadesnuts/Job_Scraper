@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-15 17:26 UTC",
+  "scraped_at": "2026-08-15 18:27 UTC",
   "total": 89,
-  "new_count": 1,
+  "new_count": 0,
   "jobs": [
     {
       "company": "Hertford Rehabilitation and Healthcare",
@@ -1250,20 +1250,5 @@
       "ats": "HiringCafe"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Houston County Minnesota",
-      "title": "Community Health Worker",
-      "location": "Caledonia, Minnesota, United States",
-      "url": "https://www.governmentjobs.com/careers/houstonmn/jobs/5441794",
-      "direct_url": "https://www.governmentjobs.com/careers/houstonmn/jobs/5441794",
-      "date_posted": "2026-08-10T22:01:08.387Z",
-      "description": "High school diploma or equivalent, one year of related community health experience, CHW certificate or ability to obtain within one year, Minnesota DHS Merit qualification, and background check.",
-      "salary": "$49k–$64k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    }
-  ]
+  "new_jobs": []
 }
