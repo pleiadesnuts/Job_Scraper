@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-15 03:46 UTC",
+  "scraped_at": "2026-08-15 04:34 UTC",
   "total": 92,
-  "new_count": 3,
+  "new_count": 0,
   "jobs": [
     {
       "company": "Hertford Rehabilitation and Healthcare",
@@ -1292,48 +1292,5 @@
       "ats": "HiringCafe"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Pointquestgroup",
-      "title": "Social Worker",
-      "location": "Golden, Colorado, United States",
-      "url": "https://pointquestgroup.wd108.myworkdayjobs.com/careerspointquestgroup/job/Golden-CO/Social-Worker_R-102337",
-      "direct_url": "https://pointquestgroup.wd108.myworkdayjobs.com/careerspointquestgroup/job/Golden-CO/Social-Worker_R-102337",
-      "date_posted": "2026-08-14T00:00:00.000Z",
-      "description": "Requires a valid Colorado Department of Education School Social Worker license or credential and a master's degree in social work or a related field. School-based experience is preferred.",
-      "salary": "$104k–$125k/yr",
-      "job_type": "Full Time, Part Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Naqvi Injury Law",
-      "title": "Case Manager",
-      "location": "Las Vegas, Nevada, United States",
-      "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4356712",
-      "direct_url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4356712",
-      "date_posted": "2026-07-22T23:15:55.000Z",
-      "description": "2+ years personal injury case management experience, excellent written and verbal communication, strong attention to detail, and exceptional customer service.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "The University of Texas at Austin",
-      "title": "Program Coordinator",
-      "location": "Austin, Texas, United States",
-      "url": "https://utaustin.wd1.myworkdayjobs.com/utstaff/job/AUSTIN-TX/Program-Coordinator_R_00048097",
-      "direct_url": "https://utaustin.wd1.myworkdayjobs.com/utstaff/job/AUSTIN-TX/Program-Coordinator_R_00048097",
-      "date_posted": "2026-08-14T00:00:00.000Z",
-      "description": "Bachelor’s degree and at least three years of program coordination, administration, business operations, or related experience; requires project, event, organizational, and stakeholder coordination skills.",
-      "salary": "$60k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    }
-  ]
+  "new_jobs": []
 }
