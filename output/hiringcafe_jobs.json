@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-15 22:12 UTC",
+  "scraped_at": "2026-08-15 23:28 UTC",
   "total": 88,
-  "new_count": 1,
+  "new_count": 0,
   "jobs": [
     {
       "company": "Hertford Rehabilitation and Healthcare",
@@ -1236,20 +1236,5 @@
       "ats": "HiringCafe"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Clement Manor",
-      "title": "Social Worker",
-      "location": "Greenfield, Wisconsin, United States",
-      "url": "https://clementmanor.employ.onshift.com/job_positions/view/192887/50797353",
-      "direct_url": "https://clementmanor.employ.onshift.com/job_positions/view/192887/50797353",
-      "date_posted": "2026-07-20T14:05:50.000Z",
-      "description": "Bachelor's in social work/psychology/sociology preferred, current Wisconsin social worker license required, discharge planning and MDS experience preferred, strong communication and documentation skills.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    }
-  ]
+  "new_jobs": []
 }
