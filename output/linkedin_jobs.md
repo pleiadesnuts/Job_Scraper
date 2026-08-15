@@ -1,188 +1,131 @@
 # 🔥 LinkedIn — Social Worker Roles
-*Last updated: 2026-08-15 02:07 UTC*
+*Last updated: 2026-08-15 03:24 UTC*
 
-**41 new role(s)** since last run · 41 total in last 1h
+**29 new role(s)** since last run · 29 total in last 1h
 
-### [Grant Writer at Goodstack](https://www.linkedin.com/jobs/view/4453771100/) — Jack & Jill
-- 📍 **Location:** United States
+### [Behavioral Health Specialist - Waterford, Primary Care](https://www.linkedin.com/jobs/view/4443087464/) — Trinity Health MI
+- 📍 **Location:** Ann Arbor, MI
 - 🕒 **Posted:** 2026-08-15
 
-### [SDN-Backbone Program Manager](https://www.linkedin.com/jobs/view/4451284465/) — Lockheed Martin
-- 📍 **Location:** Highlands Ranch, CO
-- 💰 **Salary:** $185400.00 - $344400.00
+### [Deflection Team Leader - Mobile Crisis Team](https://www.linkedin.com/jobs/view/4451267875/) — Seven Counties Services
+- 📍 **Location:** Louisville, KY
 - 🕒 **Posted:** 2026-08-15
 
-### [Supervisor (Starbuds)](https://www.linkedin.com/jobs/view/4454851486/) — Vireo
-- 📍 **Location:** Aurora, CO
+### [Program Coordinator - Regional Hub (THRIVE)](https://www.linkedin.com/jobs/view/4454836897/) — University of Kansas Medical Center
+- 📍 **Location:** Wichita, KS
+- 💰 **Salary:** $28.20 - $38.35
 - 🕒 **Posted:** 2026-08-15
 
-### [Behavioral Health Specialist](https://www.linkedin.com/jobs/view/4454835452/) — Newport Healthcare
-- 📍 **Location:** Merrifield, VA
-- 💰 **Salary:** $17.70-$21.70 per hour
+### [Program Coordinator](https://www.linkedin.com/jobs/view/4451270835/) — Depaul USA
+- 📍 **Location:** St Louis, MO
+- 💰 **Salary:** $55,000.00/yr - $60,000.00/yr
 - 🕒 **Posted:** 2026-08-15
 
-### [Behavioral Health Specialist - Inpatient](https://www.linkedin.com/jobs/view/4452619735/) — PrairieCare
-- 📍 **Location:** Brooklyn Park, MN
+### [Program Coordinator, Neuroscience and Behavioral Biology - Emory College of Arts and Sciences](https://www.linkedin.com/jobs/view/4450848208/) — Emory University
+- 📍 **Location:** Atlanta, GA
 - 🕒 **Posted:** 2026-08-15
 
-### [Inpatient Case Manager](https://www.linkedin.com/jobs/view/4454848459/) — Pembroke Hospital
-- 📍 **Location:** Pembroke, MA
+### [Program Coordinator, Political Science - Emory College of Arts and Sciences](https://www.linkedin.com/jobs/view/4450840946/) — Emory University
+- 📍 **Location:** Atlanta, GA
 - 🕒 **Posted:** 2026-08-15
 
-### [Pediatric Mental Health Social Worker](https://www.linkedin.com/jobs/view/4453797007/) — Ascension
-- 📍 **Location:** Austin, TX
+### [Primary Care Coordinator l or ll](https://www.linkedin.com/jobs/view/4451288668/) — SouthEast Alaska Regional Health Consortium (SEARHC)
+- 📍 **Location:** Sitka, AK
+- 💰 **Salary:** $26.06 - $36.08
 - 🕒 **Posted:** 2026-08-15
 
-### [Case Manager](https://www.linkedin.com/jobs/view/4454840433/) — Mental Health Systems
-- 📍 **Location:** Escondido, CA
-- 💰 **Salary:** $27.00/hr - $27.00/hr
+### [Care Coordinator Auth Scheduling Specialist](https://www.linkedin.com/jobs/view/4453903202/) — Atrium Health
+- 📍 **Location:** Winston-Salem, NC
+- 💰 **Salary:** $20.80 - $31.20
 - 🕒 **Posted:** 2026-08-15
 
-### [SOCIAL WORKER ADVANCED, HEALTH SERVICES ***REPOST*** REGIONAL COORDINATOR, ASSISTED OUTPATIENT TREATMENT PROGRAM](https://www.linkedin.com/jobs/view/4454829680/) — State of Maryland
-- 📍 **Location:** Maryland, United States
+### [Program Coordinator](https://www.linkedin.com/jobs/view/4453790267/) — Kelly
+- 📍 **Location:** Waterloo, Ontario, Canada
 - 🕒 **Posted:** 2026-08-15
 
-### [Case Manager](https://www.linkedin.com/jobs/view/4447422400/) — Southwest Network
-- 📍 **Location:** Phoenix, AZ
-- 💰 **Salary:** $20-$25/hour
+### [Training Coordinator](https://www.linkedin.com/jobs/view/4454836900/) — KEDPLASMA
+- 📍 **Location:** Sanford, FL
 - 🕒 **Posted:** 2026-08-15
 
-### [Program Manager](https://www.linkedin.com/jobs/view/4454836670/) — Pivotal
-- 📍 **Location:** San Jose, CA
-- 💰 **Salary:** $95,100 to $106,305,
+### [Case Manager](https://www.linkedin.com/jobs/view/4454842830/) — ADAPT Community Network
+- 📍 **Location:** Brooklyn, NY
+- 💰 **Salary:** $28.34 - $29.43/hour
 - 🕒 **Posted:** 2026-08-15
 
-### [SOCIAL WORKER II, III AND IV - (CHILD WELFARE SERVICES) - STATEWIDE (WIKIWIKI)](https://www.linkedin.com/jobs/view/4379231875/) — State of Hawaiʻi
-- 📍 **Location:** Hawaii, United States
-- 💰 **Salary:** $5,319 to $6,315 per month
+### [Social Worker (Looked After Children)](https://www.linkedin.com/jobs/view/4403452811/) — London Borough of Bexley
+- 📍 **Location:** Bexleyheath, England, United Kingdom
 - 🕒 **Posted:** 2026-08-15
 
-### [Case Manager](https://www.linkedin.com/jobs/view/4451284503/) — Southwest Behavioral & Health Services
-- 📍 **Location:** Prescott Valley, AZ
-- 💰 **Salary:** $17.50-$18.00 hourly
+### [Behavioral Health Specialist I](https://www.linkedin.com/jobs/view/4454837751/) — Brown University Health
+- 📍 **Location:** East Providence, RI
+- 💰 **Salary:** $18.13-$29.90
 - 🕒 **Posted:** 2026-08-15
 
-### [School Social Worker - Long-Term Substitute JOB ID# 14265](https://www.linkedin.com/jobs/view/4451289503/) — CAPITOL REGION EDUCATION COUNCIL
-- 📍 **Location:** East Hartford, CT
+### [Behavioral Health Specialist](https://www.linkedin.com/jobs/view/4454856002/) — Venture Community Services
+- 📍 **Location:** Sturbridge, MA
+- 💰 **Salary:** $23-$27/hour
 - 🕒 **Posted:** 2026-08-15
 
-### [Behavioral Health Specialist](https://www.linkedin.com/jobs/view/4454845689/) — Presbyterian Healthcare Services
-- 📍 **Location:** Albuquerque, NM
-- 💰 **Salary:** $22.79/hr - $34.80/hr
+### [Social Worker](https://www.linkedin.com/jobs/view/4440620969/) — Trinity Health Mid-Atlantic
+- 📍 **Location:** Wilmington, DE
 - 🕒 **Posted:** 2026-08-15
 
-### [SCSC Peer Support Specialist $2000 Sign-on Bonus!](https://www.linkedin.com/jobs/view/4451626167/) — Upstate Caring Partners
-- 📍 **Location:** Utica, NY
-- 💰 **Salary:** $40,000 - $45,000 annually
+### [Social Worker](https://www.linkedin.com/jobs/view/4454850809/) — Brant Community Healthcare System
+- 📍 **Location:** Brantford, Ontario, Canada
 - 🕒 **Posted:** 2026-08-15
 
-### [Case Manager](https://www.linkedin.com/jobs/view/4453750982/) — Lakeland Behavioral Health System
-- 📍 **Location:** Springfield, MO
+### [Behavioral Health Specialist - LMSW](https://www.linkedin.com/jobs/view/4437726145/) — Trinity Health MI
+- 📍 **Location:** Grand Rapids, MI
 - 🕒 **Posted:** 2026-08-15
 
-### [Community Health Worker](https://www.linkedin.com/jobs/view/4451287577/) — Dignity Health
-- 📍 **Location:** Merced, CA
-- 💰 **Salary:** $25.55 - $38.00 /hour
+### [Behavioral Health Specialist LMSW - Wege Medical Center](https://www.linkedin.com/jobs/view/4437706938/) — Trinity Health MI
+- 📍 **Location:** Grand Rapids, MI
 - 🕒 **Posted:** 2026-08-15
 
-### [Care Coordinator](https://www.linkedin.com/jobs/view/4453738988/) — Behavioral Health Network, Inc (BHN)
-- 📍 **Location:** Worcester, MA
-- 💰 **Salary:** $22.00-$25.40
+### [Hiring: Program Coordinator](https://www.linkedin.com/jobs/view/4453907180/) — Community Alliance for Accessible Treatment (CAAT)
+- 📍 **Location:** Hunterganj, Jharkhand, India
 - 🕒 **Posted:** 2026-08-15
 
-### [MOBILE BLOOD DRIVE SUPERVISOR (TULSA, OK)](https://www.linkedin.com/jobs/view/4453756872/) — Our Blood Institute
-- 📍 **Location:** Tulsa, OK
+### [Social Worker](https://www.linkedin.com/jobs/view/4454836932/) — Wellspring Lutheran Services
+- 📍 **Location:** Lansing, MI
 - 🕒 **Posted:** 2026-08-15
 
-### [Case Manager](https://www.linkedin.com/jobs/view/4398956719/) — Robert Half
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $25.00/hr - $25.00/hr
+### [Contact Center Supervisor](https://www.linkedin.com/jobs/view/4433550643/) — La Clinica del Pueblo
+- 📍 **Location:** Hyattsville, MD
+- 💰 **Salary:** $28.00/hr - $31.74/hr
 - 🕒 **Posted:** 2026-08-15
 
-### [Certified Peer Support Specialist](https://www.linkedin.com/jobs/view/4454843430/) — Mental Health Systems
-- 📍 **Location:** Escondido, CA
-- 💰 **Salary:** $25.00/hr - $25.00/hr
+### [Managed Care Coordinator](https://www.linkedin.com/jobs/view/4438887081/) — Elevance Health
+- 📍 **Location:** Virginia, United States
+- 💰 **Salary:** $25.00 - $31.25
 - 🕒 **Posted:** 2026-08-15
 
-### [Case Manager I/II](https://www.linkedin.com/jobs/view/4454843583/) — Oklahoma Department of Human Services
-- 📍 **Location:** Ponca City, OK
+### [Case Manager, Youth Residential](https://www.linkedin.com/jobs/view/4454839902/) — Community Solutions, Inc. (CSI)
+- 📍 **Location:** Meriden, CT
 - 🕒 **Posted:** 2026-08-15
 
-### [ES Case Manager/New Beginnings/New Haven](https://www.linkedin.com/jobs/view/4453738876/) — Columbus House, Inc
-- 📍 **Location:** New Haven, CT
-- 💰 **Salary:** $25.50 - $27.50
+### [Case Manager Social Worker](https://www.linkedin.com/jobs/view/4439280037/) — Trinity Health MI
+- 📍 **Location:** Livonia, MI
 - 🕒 **Posted:** 2026-08-15
 
-### [Patient Care Coordinator](https://www.linkedin.com/jobs/view/4454843579/) — Optimal Health Chiropractic & Physical Therapy
-- 📍 **Location:** Egg Harbor, NJ
+### [Supervisor ID Residential](https://www.linkedin.com/jobs/view/4454854070/) — Trinity Health
+- 📍 **Location:** Pittsburgh, PA
 - 🕒 **Posted:** 2026-08-15
 
-### [Nutrition Care Coordinator](https://www.linkedin.com/jobs/view/4453785126/) — Option Care Health
-- 📍 **Location:** Chicago, IL
-- 💰 **Salary:** $18.72-$31.20
+### [Sr. HRBP(Supervisor)](https://www.linkedin.com/jobs/view/4451281903/) — 安费诺（厦门）高速线缆有限公司
+- 📍 **Location:** Nantong, Jiangsu, China
 - 🕒 **Posted:** 2026-08-15
 
-### [Resident Care Coordinator](https://www.linkedin.com/jobs/view/4454835323/) — Pikes Peak Post Acute
-- 📍 **Location:** Kalispell, MT
+### [Sr LTD Case Manager](https://www.linkedin.com/jobs/view/4453511946/) — Aflac
+- 📍 **Location:** Windsor, CT
+- 💰 **Salary:** $65,000 - $85,000
 - 🕒 **Posted:** 2026-08-15
 
-### [Teen Youth Development Specialist](https://www.linkedin.com/jobs/view/4453735953/) — Boys & Girls Clubs of Central Florida
-- 📍 **Location:** Altamonte Springs, FL
+### [Program Manager - Regional Hub (THRIVE)](https://www.linkedin.com/jobs/view/4454836896/) — University of Kansas Medical Center
+- 📍 **Location:** Wichita, KS
+- 💰 **Salary:** $60,800.00 - $91,200.00
 - 🕒 **Posted:** 2026-08-15
 
-### [Aftercare Coordinator-CSS](https://www.linkedin.com/jobs/view/4453765007/) — Behavioral Health Network, Inc (BHN)
-- 📍 **Location:** Worcester, MA
-- 💰 **Salary:** $21-$24/hr
-- 🕒 **Posted:** 2026-08-15
-
-### [Case Manager](https://www.linkedin.com/jobs/view/4454832763/) — Harmony Health Group
-- 📍 **Location:** Haverhill, MA
-- 🕒 **Posted:** 2026-08-15
-
-### [Patient Care Coordinator](https://www.linkedin.com/jobs/view/4454833493/) — Results Physiotherapy
-- 📍 **Location:** San Antonio, TX
-- 🕒 **Posted:** 2026-08-15
-
-### [Hospital - Utilization Review Care Coordinator (RN)](https://www.linkedin.com/jobs/view/4449806564/) — UT Health San Antonio
-- 📍 **Location:** San Antonio, TX
-- 🕒 **Posted:** 2026-08-15
-
-### [Case Management Supervisor – Morrissey](https://www.linkedin.com/jobs/view/4454845710/) — Pine Street Inn
-- 📍 **Location:** Massachusetts, United States
-- 💰 **Salary:** $61,464.00 - $67,610.40
-- 🕒 **Posted:** 2026-08-15
-
-### [Inpatient Case Manager](https://www.linkedin.com/jobs/view/4454832686/) — Fuller Hospital
-- 📍 **Location:** Attleboro, MA
-- 🕒 **Posted:** 2026-08-15
-
-### [SSVF Case Manager-SSVF-NH](https://www.linkedin.com/jobs/view/4453756793/) — Columbus House, Inc
-- 📍 **Location:** New Haven, CT
-- 💰 **Salary:** $25.50 to $27.50 per hour
-- 🕒 **Posted:** 2026-08-15
-
-### [Case Manager](https://www.linkedin.com/jobs/view/4454835673/) — Pine Street Inn
-- 📍 **Location:** Boston, MA
-- 💰 **Salary:** $23.48 - $26.30
-- 🕒 **Posted:** 2026-08-15
-
-### [Social Worker I, Health Svcs CI](https://www.linkedin.com/jobs/view/4454840317/) — State of Maryland
-- 📍 **Location:** Maryland, United States
-- 🕒 **Posted:** 2026-08-15
-
-### [Supervising Social Worker](https://www.linkedin.com/jobs/view/4453762451/) — Compass Community
-- 📍 **Location:** South Yorkshire, England, United Kingdom
-- 🕒 **Posted:** 2026-08-15
-
-### [Medical Social Worker -Home Health, Full time](https://www.linkedin.com/jobs/view/4453785071/) — Dartmouth Health
-- 📍 **Location:** White River Junction, VT
-- 🕒 **Posted:** 2026-08-15
-
-### [Dialysis Social Worker](https://www.linkedin.com/jobs/view/4453740983/) — U.S. Renal Care
-- 📍 **Location:** Altus, OK
-- 🕒 **Posted:** 2026-08-15
-
-### [Case Management Supervisor - Mental Health Clinic](https://www.linkedin.com/jobs/view/4453790076/) — UNLV Health
-- 📍 **Location:** Las Vegas, NV
-- 💰 **Salary:** $65,710.00/yr - $78,123.00/yr
+### [Cover Supervisor](https://www.linkedin.com/jobs/view/4453798131/) — Nova Education Trust
+- 📍 **Location:** Nottinghamshire, England, United Kingdom
 - 🕒 **Posted:** 2026-08-15
