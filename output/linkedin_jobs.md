@@ -1,58 +1,56 @@
 # 🔥 LinkedIn — Social Worker Roles
-*Last updated: 2026-08-15 19:55 UTC*
+*Last updated: 2026-08-15 20:55 UTC*
 
-**13 new role(s)** since last run · 50 total in last 1h
+**12 new role(s)** since last run · 12 total in last 1h
 
-### [Therapy Supervisor](https://www.linkedin.com/jobs/view/4455141077/) — SOL Mental Health
-- 📍 **Location:** Boulder, CO
+### [Technical Program Manager](https://www.linkedin.com/jobs/view/4453935356/) — Cubit Capital
+- 📍 **Location:** Broomfield, CO
+- 💰 **Salary:** $167,450-$180,523
 - 🕒 **Posted:** 2026-08-15
 
-### [Clincal Therapy Supervisor](https://www.linkedin.com/jobs/view/4455142050/) — SOL Mental Health
-- 📍 **Location:** Westminster, CO
+### [Case Manager / Counselor - (Bachelor's) Hamilton & McMinn](https://www.linkedin.com/jobs/view/4453953301/) — Helen Ross McNabb Center
+- 📍 **Location:** Chattanooga, TN
 - 🕒 **Posted:** 2026-08-15
 
-### [BCBA - Hybrid Clinical & Operations Supervisor ( Remote)](https://www.linkedin.com/jobs/view/4455140039/) — Civitas Health Services, Inc.
-- 📍 **Location:** Sandston, VA
-- 💰 **Salary:** $96,000 - $118,000
+### [Social Worker](https://www.linkedin.com/jobs/view/4453951251/) — Legal Aid Chicago
+- 📍 **Location:** Chicago, IL
 - 🕒 **Posted:** 2026-08-15
 
-### [BCBA - Hybrid Clinical & Operations Supervisor ( Remote)](https://www.linkedin.com/jobs/view/4455150027/) — Civitas Health Services, Inc.
-- 📍 **Location:** Chesapeake, VA
-- 💰 **Salary:** $96,000 - $118,000
+### [Bilingual Care Coordinator, Regular Full-Time, Intake: Labelle, Cornwall, Pembroke](https://www.linkedin.com/jobs/view/4449050564/) — Ontario Health atHome
+- 📍 **Location:** Ottawa, Ontario, Canada
 - 🕒 **Posted:** 2026-08-15
 
-### [Social Worker - Full Time (Hospice)](https://www.linkedin.com/jobs/view/4453943349/) — Mercy
-- 📍 **Location:** Oklahoma City, OK
+### [Privacy Operations Program Manager](https://www.linkedin.com/jobs/view/4454556298/) — Stripe
+- 📍 **Location:** United States
+- 💰 **Salary:** $127,600 - $191,400
 - 🕒 **Posted:** 2026-08-15
 
-### [Recovery Focused Case Manager](https://www.linkedin.com/jobs/view/4455152007/) — The San Diego LGBT Community Center
-- 📍 **Location:** San Diego, CA
+### [HealthLink 915 Team Leader](https://www.linkedin.com/jobs/view/4453940284/) — Helen Ross McNabb Center
+- 📍 **Location:** Chattanooga, TN
 - 🕒 **Posted:** 2026-08-15
 
-### [Community Health Worker - Healdton](https://www.linkedin.com/jobs/view/4453935183/) — Mercy
-- 📍 **Location:** Healdton, OK
+### [Bilingual Janitorial Site Supervisor](https://www.linkedin.com/jobs/view/4453955270/) — KBS - Kellermeyer Bergensons Services, LLC
+- 📍 **Location:** Boca Raton, FL
+- 💰 **Salary:** $14.00/hr - $16.06/hr
 - 🕒 **Posted:** 2026-08-15
 
-### [Community Health Worker- Logan County](https://www.linkedin.com/jobs/view/4453951146/) — Mercy
-- 📍 **Location:** Guthrie, OK
+### [Technical Training Coordinator (Can Plant)](https://www.linkedin.com/jobs/view/4455132451/) — Envases US Aluminum Division
+- 📍 **Location:** Waco, TX
 - 🕒 **Posted:** 2026-08-15
 
-### [Supervisor-Integrated Health and Social Care](https://www.linkedin.com/jobs/view/4453939071/) — Mercy
-- 📍 **Location:** Rogers, AR
+### [Experience Planning Supervisor](https://www.linkedin.com/jobs/view/4455133218/) — Miraval Resorts & Spas
+- 📍 **Location:** Saudi Arabia
 - 🕒 **Posted:** 2026-08-15
 
-### [Supervisor-Integrated Health and Social Care](https://www.linkedin.com/jobs/view/4453951080/) — Mercy
-- 📍 **Location:** Oklahoma City, OK
+### [Team Leader - Operations](https://www.linkedin.com/jobs/view/4454533228/) — MetLife
+- 📍 **Location:** Noida, Uttar Pradesh, India
 - 🕒 **Posted:** 2026-08-15
 
-### [Community Health Worker - Tishomingo](https://www.linkedin.com/jobs/view/2147625142/) — Mercy
-- 📍 **Location:** Tishomingo, OK
+### [LPN Care Coordinator (BHI)](https://www.linkedin.com/jobs/view/4455138209/) — The MedElite Group
+- 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-08-15
 
-### [Guest Services & Shorex Supervisor - (Celebration Key - Bahamas)](https://www.linkedin.com/jobs/view/4445336796/) — Carnival Corporation
-- 📍 **Location:** East Grand Bahama, The Bahamas
-- 🕒 **Posted:** 2026-08-15
-
-### [Social Worker MSW -FT](https://www.linkedin.com/jobs/view/4436433072/) — HCA Florida Northwest Hospital
-- 📍 **Location:** Margate, FL
+### [Nursing Care Coordinator (RN / LPN)](https://www.linkedin.com/jobs/view/4455136244/) — The MedElite Group
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $30.00 – $35.00 per hour
 - 🕒 **Posted:** 2026-08-15
