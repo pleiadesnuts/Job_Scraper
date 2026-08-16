@@ -1,17 +1,30 @@
 # 🔥 LinkedIn — Social Worker Roles
-*Last updated: 2026-08-16 21:52 UTC*
+*Last updated: 2026-08-16 22:52 UTC*
 
-**3 new role(s)** since last run · 15 total in last 1h
+**6 new role(s)** since last run · 6 total in last 1h
 
-### [Case Manager - Member Services Representative](https://www.linkedin.com/jobs/view/4453990478/) — RemoteHunter
-- 📍 **Location:** United States
-- 💰 **Salary:** $16-$17 per hour
+### [Program Coordinator](https://www.linkedin.com/jobs/view/4455227284/) — Eating Recovery Center
+- 📍 **Location:** Baltimore, MD
+- 💰 **Salary:** $21.49 - $29 USD
 - 🕒 **Posted:** 2026-08-16
 
-### [Family Services Case Manager](https://www.linkedin.com/jobs/view/4452216232/) — OhioMeansJobs Highland County
-- 📍 **Location:** Oregon, United States
+### [Program Manager](https://www.linkedin.com/jobs/view/4454215057/) — Living and Wellness by Design
+- 📍 **Location:** Albuquerque, NM
 - 🕒 **Posted:** 2026-08-16
 
-### [Part-Time Neighborhood Resource Specialist/Case Manager](https://www.linkedin.com/jobs/view/4455228247/) — Bridge of Hope Centre County
-- 📍 **Location:** Indiana, United States
+### [Supervisor: Linen/Environmental Services (Hospital)](https://www.linkedin.com/jobs/view/4455212398/) — Holy Cross Hospital
+- 📍 **Location:** Fort Lauderdale, FL
+- 🕒 **Posted:** 2026-08-16
+
+### [Licensed Counselor or Social Worker](https://www.linkedin.com/jobs/view/4454211116/) — Integrated Services for Behavioral Health
+- 📍 **Location:** Ohio, United States
+- 💰 **Salary:** $47,609.67 to $71,675.95 per year
+- 🕒 **Posted:** 2026-08-16
+
+### [Imaging Porter Supervisor](https://www.linkedin.com/jobs/view/4455206305/) — West London NHS Trust
+- 📍 **Location:** Bristol, England, United Kingdom
+- 🕒 **Posted:** 2026-08-16
+
+### [Cover Supervisor](https://www.linkedin.com/jobs/view/4455230310/) — Prospere Learning Trust
+- 📍 **Location:** Manchester, England, United Kingdom
 - 🕒 **Posted:** 2026-08-16
