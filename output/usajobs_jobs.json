@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-14 16:37 UTC",
-  "total": 16,
-  "new_count": 8,
+  "scraped_at": "2026-08-16 16:05 UTC",
+  "total": 14,
+  "new_count": 1,
   "jobs": [
     {
       "company": "U.S. Coast Guard",
@@ -59,6 +59,15 @@
     },
     {
       "company": "Veterans Health Administration",
+      "title": "Social Worker (Mental Health Intensive Care Management)",
+      "location": "San Jose, California",
+      "url": "https://www.usajobs.gov/job/880772200",
+      "date_posted": "2026-08-14",
+      "salary": "Starting at $129,222 Per year (GS 12)",
+      "ats": "USAJOBS"
+    },
+    {
+      "company": "Veterans Health Administration",
       "title": "Social Worker (Home Based Primary Care)",
       "location": "Poplar Bluff, Missouri",
       "url": "https://www.usajobs.gov/job/880616400",
@@ -112,33 +121,6 @@
       "ats": "USAJOBS"
     },
     {
-      "company": "Veterans Health Administration",
-      "title": "Senior Social Worker",
-      "location": "Johnson City, Tennessee",
-      "url": "https://www.usajobs.gov/job/880272600",
-      "date_posted": "2026-08-12",
-      "salary": "Starting at $94,424 Per year (GS 12)",
-      "ats": "USAJOBS"
-    },
-    {
-      "company": "Bureau of Prisons/Federal Prison System",
-      "title": "Social Worker",
-      "location": "Tucson, Arizona",
-      "url": "https://www.usajobs.gov/job/880243700",
-      "date_posted": "2026-08-12",
-      "salary": "Starting at $76,095 Per year (GS 11)",
-      "ats": "USAJOBS"
-    },
-    {
-      "company": "Federal Highway Administration",
-      "title": "Program Manager (Program Development Director) (Open to both U.S. Citizens and Federal Employees)",
-      "location": "Austin, Texas",
-      "url": "https://www.usajobs.gov/job/880133600",
-      "date_posted": "2026-08-12",
-      "salary": "Starting at $129,311 Per year (GS 14)",
-      "ats": "USAJOBS"
-    },
-    {
       "company": "Air Force Materiel Command",
       "title": "PROGRAM MANAGER - DIRECT HIRE AUTHORITY",
       "location": "Kelly AFB, Texas",
@@ -151,74 +133,11 @@
   "new_jobs": [
     {
       "company": "Veterans Health Administration",
-      "title": "Social Worker- Community Living Center",
-      "location": "Fort Meade, South Dakota",
-      "url": "https://www.usajobs.gov/job/880565800",
-      "date_posted": "2026-08-13",
-      "salary": "Starting at $63,272 Per year (GS 9-11)",
-      "ats": "USAJOBS"
-    },
-    {
-      "company": "Veterans Health Administration",
-      "title": "Registered Nurse - Education Supervisor",
-      "location": "Omaha, Nebraska",
-      "url": "https://www.usajobs.gov/job/880564500",
-      "date_posted": "2026-08-13",
-      "salary": "Starting at $65,500 Per year (VN 00)",
-      "ats": "USAJOBS"
-    },
-    {
-      "company": "Veterans Health Administration",
-      "title": "Senior Social Worker - Outpatient Substance Use Disorders Program",
-      "location": "Cedar Rapids, Iowa",
-      "url": "https://www.usajobs.gov/job/880508500",
-      "date_posted": "2026-08-13",
-      "salary": "Starting at $97,100 Per year (GS 12)",
-      "ats": "USAJOBS"
-    },
-    {
-      "company": "Veterans Health Administration",
-      "title": "Social Worker - Intimate Partner Violence Assistance Program",
-      "location": "Coralville, Iowa",
-      "url": "https://www.usajobs.gov/job/880504600",
-      "date_posted": "2026-08-13",
-      "salary": "Starting at $66,958 Per year (GS 9-11)",
-      "ats": "USAJOBS"
-    },
-    {
-      "company": "Veterans Health Administration",
-      "title": "Social Worker (Home Based Primary Care)",
-      "location": "Poplar Bluff, Missouri",
-      "url": "https://www.usajobs.gov/job/880616400",
+      "title": "Social Worker (Mental Health Intensive Care Management)",
+      "location": "San Jose, California",
+      "url": "https://www.usajobs.gov/job/880772200",
       "date_posted": "2026-08-14",
-      "salary": "Starting at $82,040 Per year (GS 11)",
-      "ats": "USAJOBS"
-    },
-    {
-      "company": "Department of Education Headquarters",
-      "title": "IT Program Manager",
-      "location": "Washington, District of Columbia",
-      "url": "https://www.usajobs.gov/job/880605200",
-      "date_posted": "2026-08-14",
-      "salary": "Starting at $169,279 Per year (GS 15)",
-      "ats": "USAJOBS"
-    },
-    {
-      "company": "Veterans Health Administration",
-      "title": "Social Worker - Senior Social Worker Home Based Primary Care (HBPC)",
-      "location": "Las Vegas, Nevada",
-      "url": "https://www.usajobs.gov/job/880581400",
-      "date_posted": "2026-08-13",
-      "salary": "Starting at $108,577 Per year (GS 12)",
-      "ats": "USAJOBS"
-    },
-    {
-      "company": "Veterans Health Administration",
-      "title": "Social Worker (Program Coordinator) Caregiver Support - Education Debt Reduction Program Approved",
-      "location": "Corpus Christi, Texas",
-      "url": "https://www.usajobs.gov/job/880576700",
-      "date_posted": "2026-08-13",
-      "salary": "Starting at $89,508 Per year (GS 12)",
+      "salary": "Starting at $129,222 Per year (GS 12)",
       "ats": "USAJOBS"
     }
   ]
