@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-16 02:26 UTC",
-  "total": 88,
-  "new_count": 0,
+  "scraped_at": "2026-08-16 03:51 UTC",
+  "total": 87,
+  "new_count": 1,
   "jobs": [
     {
       "company": "Hertford Rehabilitation and Healthcare",
@@ -32,20 +32,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Hightower Trail Operations LLC",
-      "title": "Social Worker",
-      "location": "Des Moines, Iowa, United States",
-      "url": "https://hightowertrailop.applicantstack.com/x/detail-arborsprings/a2b92vkxojw9",
-      "direct_url": "https://hightowertrailop.applicantstack.com/x/detail-arborsprings/a2b92vkxojw9",
-      "date_posted": "2026-08-07T18:08:38.000Z",
-      "description": "Certified Social Worker in good standing or in training, secondary education at an approved school of social work, English proficiency, and prior experience or appropriate training.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "-",
       "title": "Social Worker",
       "location": "Wethersfield, Connecticut, United States",
@@ -53,6 +39,20 @@
       "direct_url": "https://careers-nathealthcare.icims.com/jobs/7331/social-worker/job?in_iframe=1",
       "date_posted": "2026-07-20T04:00:00.000Z",
       "description": "Master's in social work, state licensure as a social worker, experience in long-term care, strong assessment, counseling, crisis intervention, and teamwork skills.",
+      "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Hightower Trail Operations LLC",
+      "title": "Social Worker",
+      "location": "Des Moines, Iowa, United States",
+      "url": "https://hightowertrailop.applicantstack.com/x/detail-arborsprings/a2b92vkxojw9",
+      "direct_url": "https://hightowertrailop.applicantstack.com/x/detail-arborsprings/a2b92vkxojw9",
+      "date_posted": "2026-08-07T18:08:38.000Z",
+      "description": "Certified Social Worker in good standing or in training, secondary education at an approved school of social work, English proficiency, and prior experience or appropriate training.",
       "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
@@ -88,20 +88,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Allina",
-      "title": "Social Worker",
-      "location": "Minneapolis, Minnesota, United States",
-      "url": "https://allina.wd5.myworkdayjobs.com/external/job/Allina-Commons/Social-Worker_R-0073448",
-      "direct_url": "https://allina.wd5.myworkdayjobs.com/external/job/Allina-Commons/Social-Worker_R-0073448",
-      "date_posted": "2026-08-05T00:00:00.000Z",
-      "description": "Bachelor's degree in Social Work, Minnesota social worker license, and 2+ years of social work experience required; acute care experience and MSW preferred. Driver's license required for specified care positions.",
-      "salary": "$65k–$104k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Winner Regional Healthcare Center",
       "title": "Social Worker",
       "location": "Winner, South Dakota, United States",
@@ -110,6 +96,20 @@
       "date_posted": "2026-07-30T13:53:35.000Z",
       "description": "Licensed social worker in South Dakota with 1+ year supervised healthcare social work experience; bachelor\\u0002s degree in social work or related human services field; strong communication and documentation skills.",
       "salary": "$50k–$77k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Allina",
+      "title": "Social Worker",
+      "location": "Minneapolis, Minnesota, United States",
+      "url": "https://allina.wd5.myworkdayjobs.com/external/job/Allina-Commons/Social-Worker_R-0073448",
+      "direct_url": "https://allina.wd5.myworkdayjobs.com/external/job/Allina-Commons/Social-Worker_R-0073448",
+      "date_posted": "2026-08-05T00:00:00.000Z",
+      "description": "Bachelor's degree in Social Work, Minnesota social worker license, and 2+ years of social work experience required; acute care experience and MSW preferred. Driver's license required for specified care positions.",
+      "salary": "$65k–$104k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
@@ -130,13 +130,13 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Northern Maine Medical Center",
+      "company": "Clement Manor",
       "title": "Social Worker",
-      "location": "Fort Kent, Maine, United States",
-      "url": "https://secure6.saashr.com/ta/6033683.careers?ShowJob=705332483",
-      "direct_url": "https://secure6.saashr.com/ta/6033683.careers?ShowJob=705332483",
-      "date_posted": "2026-07-23T19:58:45.898Z",
-      "description": "Provide psychosocial assessments, discharge planning, case management, referrals, and interdisciplinary coordination; must hold a Maine social worker license and bachelor\\u0002s degree in social work.",
+      "location": "Greenfield, Wisconsin, United States",
+      "url": "https://clementmanor.employ.onshift.com/job_positions/view/192887/50797353",
+      "direct_url": "https://clementmanor.employ.onshift.com/job_positions/view/192887/50797353",
+      "date_posted": "2026-07-20T14:05:50.000Z",
+      "description": "Bachelor's in social work/psychology/sociology preferred, current Wisconsin social worker license required, discharge planning and MDS experience preferred, strong communication and documentation skills.",
       "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
@@ -153,20 +153,6 @@
       "description": "Master's degree in social work, social worker licensure or certification, driver’s license, reliable transportation, communication and documentation skills, and knowledge of family systems and early childhood development.",
       "salary": "$56k–$65k/yr",
       "job_type": "Full Time, Part Time, Temporary",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Clement Manor",
-      "title": "Social Worker",
-      "location": "Greenfield, Wisconsin, United States",
-      "url": "https://clementmanor.employ.onshift.com/job_positions/view/192887/50797353",
-      "direct_url": "https://clementmanor.employ.onshift.com/job_positions/view/192887/50797353",
-      "date_posted": "2026-07-20T14:05:50.000Z",
-      "description": "Bachelor's in social work/psychology/sociology preferred, current Wisconsin social worker license required, discharge planning and MDS experience preferred, strong communication and documentation skills.",
-      "salary": "",
-      "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
       "ats": "HiringCafe"
@@ -326,20 +312,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Ecumen",
-      "title": "Hospice Social Worker",
-      "location": "Saint Cloud, Minnesota, United States",
-      "url": "https://gusea1p01.rec.pro.ukg.net/ECU1001ECUME/JobBoard/207e3ae3-3dc1-41dd-955c-28a1f0a24775/OpportunityDetail?opportunityId=084cc734-9273-4262-9024-b00f943167d0",
-      "direct_url": "https://gusea1p01.rec.pro.ukg.net/ECU1001ECUME/JobBoard/207e3ae3-3dc1-41dd-955c-28a1f0a24775/OpportunityDetail?opportunityId=084cc734-9273-4262-9024-b00f943167d0",
-      "date_posted": "2026-08-03T01:23:35.486Z",
-      "description": "Bachelor's in social work, licensed social worker in Minnesota, valid driver’s license, 2 years healthcare social work experience, CPR/ability to communicate, and Microsoft Office proficiency.",
-      "salary": "$62k–$73k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Lifespacecommunities",
       "title": "Qualified Social Worker",
       "location": "Delray Beach, Florida, United States",
@@ -348,6 +320,20 @@
       "date_posted": "2026-07-23T00:00:00.000Z",
       "description": "Master's in social work with 1 year healthcare experience OR bachelor's in social work/related field with 3 years; licensed social worker required; proficiency in documentation and resident advocacy.",
       "salary": "$57k–$78k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Ecumen",
+      "title": "Hospice Social Worker",
+      "location": "Saint Cloud, Minnesota, United States",
+      "url": "https://gusea1p01.rec.pro.ukg.net/ECU1001ECUME/JobBoard/207e3ae3-3dc1-41dd-955c-28a1f0a24775/OpportunityDetail?opportunityId=084cc734-9273-4262-9024-b00f943167d0",
+      "direct_url": "https://gusea1p01.rec.pro.ukg.net/ECU1001ECUME/JobBoard/207e3ae3-3dc1-41dd-955c-28a1f0a24775/OpportunityDetail?opportunityId=084cc734-9273-4262-9024-b00f943167d0",
+      "date_posted": "2026-08-03T01:23:35.486Z",
+      "description": "Bachelor's in social work, licensed social worker in Minnesota, valid driver’s license, 2 years healthcare social work experience, CPR/ability to communicate, and Microsoft Office proficiency.",
+      "salary": "$62k–$73k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
@@ -676,20 +662,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Upenn",
-      "title": "Program Coordinator",
-      "location": "Philadelphia, Pennsylvania, United States",
-      "url": "https://upenn.wd1.myworkdayjobs.com/psom/job/Presbyterian-Med-Ctr-FL7/Program-Coordinator_JR00123112",
-      "direct_url": "https://upenn.wd1.myworkdayjobs.com/psom/job/Presbyterian-Med-Ctr-FL7/Program-Coordinator_JR00123112",
-      "date_posted": "2026-07-24T00:00:00.000Z",
-      "description": "Bachelor's degree and 2–3 years experience or equivalent; program/project coordination in academic healthcare, strong organization, scheduling, HRSA reporting familiarity, and excellent communication.",
-      "salary": "$50k–$62k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Nelnet",
       "title": "Program Coordinator",
       "location": "Lincoln, Nebraska, United States",
@@ -698,6 +670,20 @@
       "date_posted": "2026-08-11T00:00:00.000Z",
       "description": "Bachelor's degree or equivalent preferred; 1-3 years in program coordination, project support, operations, or administration. Requires organization, communication, documentation, and Microsoft Office proficiency.",
       "salary": "$50k–$52k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Upenn",
+      "title": "Program Coordinator",
+      "location": "Philadelphia, Pennsylvania, United States",
+      "url": "https://upenn.wd1.myworkdayjobs.com/psom/job/Presbyterian-Med-Ctr-FL7/Program-Coordinator_JR00123112",
+      "direct_url": "https://upenn.wd1.myworkdayjobs.com/psom/job/Presbyterian-Med-Ctr-FL7/Program-Coordinator_JR00123112",
+      "date_posted": "2026-07-24T00:00:00.000Z",
+      "description": "Bachelor's degree and 2–3 years experience or equivalent; program/project coordination in academic healthcare, strong organization, scheduling, HRSA reporting familiarity, and excellent communication.",
+      "salary": "$50k–$62k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
@@ -718,14 +704,14 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "New LHRC External Career Site",
+      "company": "Bollinger Shipyards",
       "title": "Program Coordinator",
-      "location": "Hillsville, Virginia, United States",
-      "url": "https://evqk.fa.us8.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/requisitions/job/6358",
-      "direct_url": "https://evqk.fa.us8.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/requisitions/job/6358",
-      "date_posted": "2026-08-12T14:58:42.000Z",
-      "description": "Bachelor's degree in human services or related field, or equivalent training and experience; extensive IVE compliance knowledge; program coordination, communication, data interpretation, and public speaking skills.",
-      "salary": "$41k–$78k/yr",
+      "location": "Houma, Louisiana, United States",
+      "url": "https://bollingershipyards.exacthire.com/job/205502",
+      "direct_url": "https://bollingershipyards.exacthire.com/job/205502",
+      "date_posted": "2026-08-06T18:34:14.000Z",
+      "description": "Requires 5–10 years of program coordination, project management, or related experience, an associate's degree or equivalent, strong organization, communication, analysis, leadership, and process optimization skills.",
+      "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
@@ -788,20 +774,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "The Aspen Institute",
-      "title": "Program Coordinator, Cybersecurity Program",
-      "location": "Washington or Colorado",
-      "url": "https://aspeninstitute.hrmdirect.com/employment/job-opening.php?req=3777140&req_loc=1417075",
-      "direct_url": "https://aspeninstitute.hrmdirect.com/employment/job-opening.php?req=3777140&req_loc=1417075",
-      "date_posted": "2026-08-03T03:00:00.000Z",
-      "description": "Requires 1–3 years in program coordination, executive support, or operations; strong organization, prioritization, communication, adaptability, and collaboration skills; occasional travel; interest in cybersecurity and technology policy.",
-      "salary": "$60k–$68k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "Telecommute eligible",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "City of El Monte, CA",
       "title": "Program Coordinator",
       "location": "El Monte, California, United States",
@@ -813,6 +785,20 @@
       "job_type": "Part Time",
       "is_remote": false,
       "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "The Aspen Institute",
+      "title": "Program Coordinator, Cybersecurity Program",
+      "location": "Washington or Colorado",
+      "url": "https://aspeninstitute.hrmdirect.com/employment/job-opening.php?req=3777140&req_loc=1417075",
+      "direct_url": "https://aspeninstitute.hrmdirect.com/employment/job-opening.php?req=3777140&req_loc=1417075",
+      "date_posted": "2026-08-03T03:00:00.000Z",
+      "description": "Requires 1–3 years in program coordination, executive support, or operations; strong organization, prioritization, communication, adaptability, and collaboration skills; occasional travel; interest in cybersecurity and technology policy.",
+      "salary": "$60k–$68k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "Telecommute eligible",
       "ats": "HiringCafe"
     },
     {
@@ -1236,5 +1222,20 @@
       "ats": "HiringCafe"
     }
   ],
-  "new_jobs": []
+  "new_jobs": [
+    {
+      "company": "Bollinger Shipyards",
+      "title": "Program Coordinator",
+      "location": "Houma, Louisiana, United States",
+      "url": "https://bollingershipyards.exacthire.com/job/205502",
+      "direct_url": "https://bollingershipyards.exacthire.com/job/205502",
+      "date_posted": "2026-08-06T18:34:14.000Z",
+      "description": "Requires 5–10 years of program coordination, project management, or related experience, an associate's degree or equivalent, strong organization, communication, analysis, leadership, and process optimization skills.",
+      "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    }
+  ]
 }
