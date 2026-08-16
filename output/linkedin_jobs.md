@@ -1,33 +1,56 @@
 # 🔥 LinkedIn — Social Worker Roles
-*Last updated: 2026-08-16 03:29 UTC*
+*Last updated: 2026-08-16 15:53 UTC*
 
-**7 new role(s)** since last run · 7 total in last 1h
+**12 new role(s)** since last run · 12 total in last 1h
 
-### [Case Manager - Crestview Mobile Response Team](https://www.linkedin.com/jobs/view/4455174033/) — Lakeview Center
-- 📍 **Location:** Crestview, FL
+### [[REMOTE] Intake Specialist - ENTRY LEVEL - START IMMEDIATELY](https://www.linkedin.com/jobs/view/4451779469/) — Bold Investors
+- 📍 **Location:** United States
 - 🕒 **Posted:** 2026-08-16
 
-### [Case Manager Social Worker](https://www.linkedin.com/jobs/view/4439280037/) — Trinity Health MI
-- 📍 **Location:** Livonia, MI
+### [[REMOTE] Intake Specialist - ENTRY LEVEL - START IMMEDIATELY](https://www.linkedin.com/jobs/view/4451777505/) — BOLD Women in Legal Tech
+- 📍 **Location:** United States
 - 🕒 **Posted:** 2026-08-16
 
-### [Contingent Workforce Program Coordinator](https://www.linkedin.com/jobs/view/4453977300/) — BayOne Solutions
-- 📍 **Location:** New York, NY
+### [Stocking Team Supervisor](https://www.linkedin.com/jobs/view/4436920987/) — Walmart
+- 📍 **Location:** Sheridan, WY
+- 💰 **Salary:** $22.00/hr - $35.00/hr
 - 🕒 **Posted:** 2026-08-16
 
-### [Research Program Manager](https://www.linkedin.com/jobs/view/4405669512/) — Mercor
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $120,000.00/yr - $200,000.00/yr
+### [Education Specialist](https://www.linkedin.com/jobs/view/4375884190/) — Urban Strategies, Inc
+- 📍 **Location:** Syracuse, NY
+- 💰 **Salary:** $58,656.00/yr - $58,656.00/yr
 - 🕒 **Posted:** 2026-08-16
 
-### [Student Supervisor](https://www.linkedin.com/jobs/view/4455170112/) — CADMUS® International School – Al Nakheel
-- 📍 **Location:** Baghdad, Baghdad Governorate, Iraq
+### [Outreach Case Manager](https://www.linkedin.com/jobs/view/4454206139/) — Oasis Center
+- 📍 **Location:** Nashville, TN
+- 💰 **Salary:** $39,000-42,000
 - 🕒 **Posted:** 2026-08-16
 
-### [Social Worker](https://www.linkedin.com/jobs/view/4455158139/) — Brant Community Healthcare System
+### [Center Care Team - Care Coordinator](https://www.linkedin.com/jobs/view/4305747537/) — ArchWell Health
+- 📍 **Location:** Largo, FL
+- 🕒 **Posted:** 2026-08-16
+
+### [Activities Supervisor](https://www.linkedin.com/jobs/view/4396332388/) — Equity LifeStyle Properties, Inc.
+- 📍 **Location:** Venice, FL
+- 🕒 **Posted:** 2026-08-16
+
+### [Child Safety- Family Guidance Supervisor](https://www.linkedin.com/jobs/view/4425313984/) — Carrier Sekani Family Services
+- 📍 **Location:** Prince George, British Columbia, Canada
+- 💰 **Salary:** $48.09/hr - CA$62.28/hr
+- 🕒 **Posted:** 2026-08-16
+
+### [Front Store Supervisor, Hourly Full Time Evening](https://www.linkedin.com/jobs/view/4455190596/) — Shoppers Drug Mart
+- 📍 **Location:** Bedford, Nova Scotia, Canada
+- 🕒 **Posted:** 2026-08-16
+
+### [Social Worker IV (Court Appointed Special Advocates) - Kapolei, Oahu](https://www.linkedin.com/jobs/view/4450954496/) — Hawai`i State Judiciary Careers
+- 📍 **Location:** Kapolei, HI
+- 🕒 **Posted:** 2026-08-16
+
+### [Case Manager & Case Management Associate - Expression of Interest](https://www.linkedin.com/jobs/view/4266228911/) — Toll Group
+- 📍 **Location:** Greater Melbourne Area
+- 🕒 **Posted:** 2026-08-16
+
+### [Social Worker](https://www.linkedin.com/jobs/view/4455190638/) — Brant Community Healthcare System
 - 📍 **Location:** Brantford, Ontario, Canada
-- 🕒 **Posted:** 2026-08-16
-
-### [Supervisor, Property Claims](https://www.linkedin.com/jobs/view/4454593675/) — AMA - Alberta Motor Association
-- 📍 **Location:** Greater Edmonton Metropolitan Area
 - 🕒 **Posted:** 2026-08-16
