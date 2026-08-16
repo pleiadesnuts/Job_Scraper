@@ -1,56 +1,42 @@
 # 🔥 LinkedIn — Social Worker Roles
-*Last updated: 2026-08-16 15:53 UTC*
+*Last updated: 2026-08-16 17:51 UTC*
 
-**12 new role(s)** since last run · 12 total in last 1h
+**9 new role(s)** since last run · 9 total in last 1h
 
-### [[REMOTE] Intake Specialist - ENTRY LEVEL - START IMMEDIATELY](https://www.linkedin.com/jobs/view/4451779469/) — Bold Investors
+### [[REMOTE] Intake Specialist - ENTRY LEVEL - START IMMEDIATELY](https://www.linkedin.com/jobs/view/4451797499/) — BOLD Women in Legal Tech
 - 📍 **Location:** United States
 - 🕒 **Posted:** 2026-08-16
 
-### [[REMOTE] Intake Specialist - ENTRY LEVEL - START IMMEDIATELY](https://www.linkedin.com/jobs/view/4451777505/) — BOLD Women in Legal Tech
-- 📍 **Location:** United States
+### [Clinical Supervisor - Behavioral Health](https://www.linkedin.com/jobs/view/4445343955/) — Behavioral Health Solutions
+- 📍 **Location:** Denver, CO
 - 🕒 **Posted:** 2026-08-16
 
-### [Stocking Team Supervisor](https://www.linkedin.com/jobs/view/4436920987/) — Walmart
-- 📍 **Location:** Sheridan, WY
-- 💰 **Salary:** $22.00/hr - $35.00/hr
+### [Peer Support Specialist](https://www.linkedin.com/jobs/view/4334972992/) — Behavioral Health Solutions
+- 📍 **Location:** Spokane, WA
+- 💰 **Salary:** $22 -$25/hr
 - 🕒 **Posted:** 2026-08-16
 
-### [Education Specialist](https://www.linkedin.com/jobs/view/4375884190/) — Urban Strategies, Inc
-- 📍 **Location:** Syracuse, NY
-- 💰 **Salary:** $58,656.00/yr - $58,656.00/yr
+### [Social Worker - Ambulatory Care Network - Days](https://www.linkedin.com/jobs/view/4455190756/) — NewYork-Presbyterian Hospital
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $43.86-$58.73/Hourly
 - 🕒 **Posted:** 2026-08-16
 
-### [Outreach Case Manager](https://www.linkedin.com/jobs/view/4454206139/) — Oasis Center
-- 📍 **Location:** Nashville, TN
-- 💰 **Salary:** $39,000-42,000
+### [Case Manager](https://www.linkedin.com/jobs/view/4453990313/) — The Medical Center of Southeast Texas Beaumont Campus
+- 📍 **Location:** Port Arthur, TX
 - 🕒 **Posted:** 2026-08-16
 
-### [Center Care Team - Care Coordinator](https://www.linkedin.com/jobs/view/4305747537/) — ArchWell Health
-- 📍 **Location:** Largo, FL
+### [Case Manager for Indigent Defendants - Cortland County Public Defender's Office](https://www.linkedin.com/jobs/view/4455184811/) — Town Of Freetown
+- 📍 **Location:** Indiana, United States
 - 🕒 **Posted:** 2026-08-16
 
-### [Activities Supervisor](https://www.linkedin.com/jobs/view/4396332388/) — Equity LifeStyle Properties, Inc.
-- 📍 **Location:** Venice, FL
+### [Bilingual Case Manager_JOR](https://www.linkedin.com/jobs/view/4451775626/) — NASW Virginia
+- 📍 **Location:** Fairfax, VA
 - 🕒 **Posted:** 2026-08-16
 
-### [Child Safety- Family Guidance Supervisor](https://www.linkedin.com/jobs/view/4425313984/) — Carrier Sekani Family Services
-- 📍 **Location:** Prince George, British Columbia, Canada
-- 💰 **Salary:** $48.09/hr - CA$62.28/hr
+### [Language & Culture Specialist II / Spanish Interpreter](https://www.linkedin.com/jobs/view/4399430465/) — Children's Hospital Los Angeles (CHLA)
+- 📍 **Location:** Los Angeles, CA
 - 🕒 **Posted:** 2026-08-16
 
-### [Front Store Supervisor, Hourly Full Time Evening](https://www.linkedin.com/jobs/view/4455190596/) — Shoppers Drug Mart
-- 📍 **Location:** Bedford, Nova Scotia, Canada
-- 🕒 **Posted:** 2026-08-16
-
-### [Social Worker IV (Court Appointed Special Advocates) - Kapolei, Oahu](https://www.linkedin.com/jobs/view/4450954496/) — Hawai`i State Judiciary Careers
-- 📍 **Location:** Kapolei, HI
-- 🕒 **Posted:** 2026-08-16
-
-### [Case Manager & Case Management Associate - Expression of Interest](https://www.linkedin.com/jobs/view/4266228911/) — Toll Group
-- 📍 **Location:** Greater Melbourne Area
-- 🕒 **Posted:** 2026-08-16
-
-### [Social Worker](https://www.linkedin.com/jobs/view/4455190638/) — Brant Community Healthcare System
-- 📍 **Location:** Brantford, Ontario, Canada
+### [Bed Management Supervisor - FT - Days - MRH](https://www.linkedin.com/jobs/view/4435737877/) — Memorial Healthcare System
+- 📍 **Location:** Hollywood, FL
 - 🕒 **Posted:** 2026-08-16
