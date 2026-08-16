@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-16 00:36 UTC",
+  "scraped_at": "2026-08-16 02:26 UTC",
   "total": 88,
-  "new_count": 2,
+  "new_count": 0,
   "jobs": [
     {
       "company": "Hertford Rehabilitation and Healthcare",
@@ -326,20 +326,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Lifespacecommunities",
-      "title": "Qualified Social Worker",
-      "location": "Delray Beach, Florida, United States",
-      "url": "https://lifespacecommunities.wd1.myworkdayjobs.com/careers/job/Delray-Beach-FL/Qualified-Social-Worker_JR2602451-1",
-      "direct_url": "https://lifespacecommunities.wd1.myworkdayjobs.com/careers/job/Delray-Beach-FL/Qualified-Social-Worker_JR2602451-1",
-      "date_posted": "2026-07-23T00:00:00.000Z",
-      "description": "Master's in social work with 1 year healthcare experience OR bachelor's in social work/related field with 3 years; licensed social worker required; proficiency in documentation and resident advocacy.",
-      "salary": "$57k–$78k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Ecumen",
       "title": "Hospice Social Worker",
       "location": "Saint Cloud, Minnesota, United States",
@@ -348,6 +334,20 @@
       "date_posted": "2026-08-03T01:23:35.486Z",
       "description": "Bachelor's in social work, licensed social worker in Minnesota, valid driver’s license, 2 years healthcare social work experience, CPR/ability to communicate, and Microsoft Office proficiency.",
       "salary": "$62k–$73k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Lifespacecommunities",
+      "title": "Qualified Social Worker",
+      "location": "Delray Beach, Florida, United States",
+      "url": "https://lifespacecommunities.wd1.myworkdayjobs.com/careers/job/Delray-Beach-FL/Qualified-Social-Worker_JR2602451-1",
+      "direct_url": "https://lifespacecommunities.wd1.myworkdayjobs.com/careers/job/Delray-Beach-FL/Qualified-Social-Worker_JR2602451-1",
+      "date_posted": "2026-07-23T00:00:00.000Z",
+      "description": "Master's in social work with 1 year healthcare experience OR bachelor's in social work/related field with 3 years; licensed social worker required; proficiency in documentation and resident advocacy.",
+      "salary": "$57k–$78k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
@@ -536,6 +536,20 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "Consilio",
+      "title": "Case Manager",
+      "location": "United States",
+      "url": "https://careers-consilio.icims.com/jobs/4145/case-manager/job?in_iframe=1",
+      "direct_url": "https://careers-consilio.icims.com/jobs/4145/case-manager/job?in_iframe=1",
+      "date_posted": "2026-08-12T04:00:00.000Z",
+      "description": "BA/BS degree or 5 years in litigation support/legal industry; 3+ years as a project manager; experience managing concurrent cross-functional projects, budgets, schedules, teams, and client relationships.",
+      "salary": "",
+      "job_type": "Full Time",
+      "is_remote": true,
+      "work_arrangement": "Remote in-state eligible",
+      "ats": "HiringCafe"
+    },
+    {
       "company": "Prime Healthcare",
       "title": "Case Manager",
       "location": "Joliet, Illinois, United States",
@@ -561,20 +575,6 @@
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Consilio",
-      "title": "Case Manager",
-      "location": "United States",
-      "url": "https://careers-consilio.icims.com/jobs/4145/case-manager/job?in_iframe=1",
-      "direct_url": "https://careers-consilio.icims.com/jobs/4145/case-manager/job?in_iframe=1",
-      "date_posted": "2026-08-12T04:00:00.000Z",
-      "description": "BA/BS degree or 5 years in litigation support/legal industry; 3+ years as a project manager; experience managing concurrent cross-functional projects, budgets, schedules, teams, and client relationships.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": true,
-      "work_arrangement": "Remote in-state eligible",
       "ats": "HiringCafe"
     },
     {
@@ -928,28 +928,14 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "UnidosUS",
-      "title": "Program Coordinator, Health",
-      "location": "Washington, District of Columbia, United States",
-      "url": "https://unidosus.org/about/jobs/careers-job-listing/?gh_jid=4701020006",
-      "direct_url": "https://unidosus.org/about/jobs/careers-job-listing/?gh_jid=4701020006",
-      "date_posted": "2026-07-31T17:32:54.000Z",
-      "description": "Associate's degree or equivalent and 3+ years coordinating programs or providing administrative support; experience with event logistics, document management, grant administration, and community health preferred.",
-      "salary": "$63k–$66k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "Telecommute eligible",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "City of Pharr",
-      "title": "Program Coordinator - HCRMA",
-      "location": "Pharr, Texas, United States",
-      "url": "https://pharrtx.applicantpro.com/jobs/4152982",
-      "direct_url": "https://pharrtx.applicantpro.com/jobs/4152982",
-      "date_posted": "2026-07-20T00:00:00.000Z",
-      "description": "Coordinate program activities, vendors, contracts and prepare desktop-published materials; must hold TxDOT Local Government Project Procedures certification and be bilingual English/Spanish.",
-      "salary": "$60k–$80k/yr",
+      "company": "Kennesaw State University",
+      "title": "Program Coordinator, CARPE",
+      "location": "Marietta or Kennesaw",
+      "url": "https://careers.hprod.onehcm.usg.edu/psc/careers/CAREERS/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&Action=U&FOCUS=Applicant&JobOpeningId=302290&PostingSeq=1&SiteId=1",
+      "direct_url": "https://careers.hprod.onehcm.usg.edu/psc/careers/CAREERS/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&Action=U&FOCUS=Applicant&JobOpeningId=302290&PostingSeq=1&SiteId=1",
+      "date_posted": "2026-08-14T12:00:00.000Z",
+      "description": "Bachelor's degree in a related field, one year of related experience, unrestricted driver's license, program coordination, data analysis, communication, project management, and presentation skills.",
+      "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
@@ -970,17 +956,31 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Kennesaw State University",
-      "title": "Program Coordinator, CARPE",
-      "location": "Marietta or Kennesaw",
-      "url": "https://careers.hprod.onehcm.usg.edu/psc/careers/CAREERS/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&Action=U&FOCUS=Applicant&JobOpeningId=302290&PostingSeq=1&SiteId=1",
-      "direct_url": "https://careers.hprod.onehcm.usg.edu/psc/careers/CAREERS/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&Action=U&FOCUS=Applicant&JobOpeningId=302290&PostingSeq=1&SiteId=1",
-      "date_posted": "2026-08-14T12:00:00.000Z",
-      "description": "Bachelor's degree in a related field, one year of related experience, unrestricted driver's license, program coordination, data analysis, communication, project management, and presentation skills.",
-      "salary": "",
+      "company": "City of Pharr",
+      "title": "Program Coordinator - HCRMA",
+      "location": "Pharr, Texas, United States",
+      "url": "https://pharrtx.applicantpro.com/jobs/4152982",
+      "direct_url": "https://pharrtx.applicantpro.com/jobs/4152982",
+      "date_posted": "2026-07-20T00:00:00.000Z",
+      "description": "Coordinate program activities, vendors, contracts and prepare desktop-published materials; must hold TxDOT Local Government Project Procedures certification and be bilingual English/Spanish.",
+      "salary": "$60k–$80k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "UnidosUS",
+      "title": "Program Coordinator, Health",
+      "location": "Washington, District of Columbia, United States",
+      "url": "https://unidosus.org/about/jobs/careers-job-listing/?gh_jid=4701020006",
+      "direct_url": "https://unidosus.org/about/jobs/careers-job-listing/?gh_jid=4701020006",
+      "date_posted": "2026-07-31T17:32:54.000Z",
+      "description": "Associate's degree or equivalent and 3+ years coordinating programs or providing administrative support; experience with event logistics, document management, grant administration, and community health preferred.",
+      "salary": "$63k–$66k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "Telecommute eligible",
       "ats": "HiringCafe"
     },
     {
@@ -1236,34 +1236,5 @@
       "ats": "HiringCafe"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Northern Maine Medical Center",
-      "title": "Social Worker",
-      "location": "Fort Kent, Maine, United States",
-      "url": "https://secure6.saashr.com/ta/6033683.careers?ShowJob=705332483",
-      "direct_url": "https://secure6.saashr.com/ta/6033683.careers?ShowJob=705332483",
-      "date_posted": "2026-07-23T19:58:45.898Z",
-      "description": "Provide psychosocial assessments, discharge planning, case management, referrals, and interdisciplinary coordination; must hold a Maine social worker license and bachelor\\u0002s degree in social work.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "The Fedcap Group",
-      "title": "Case Manager",
-      "location": "Washington, District of Columbia, United States",
-      "url": "https://eckb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/requisitions/job/103374",
-      "direct_url": "https://eckb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/requisitions/job/103374",
-      "date_posted": "2026-08-06T14:53:58.000Z",
-      "description": "Bachelor’s degree in social work, social services, counseling, business administration, or related field and 3 years’ vocational rehabilitation or case management experience; 5 years’ case management may substitute.",
-      "salary": "$52k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    }
-  ]
+  "new_jobs": []
 }
