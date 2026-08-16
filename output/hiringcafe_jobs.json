@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-16 22:15 UTC",
+  "scraped_at": "2026-08-16 23:24 UTC",
   "total": 88,
-  "new_count": 2,
+  "new_count": 1,
   "jobs": [
     {
       "company": "Hertford Rehabilitation and Healthcare",
@@ -312,20 +312,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Lifespacecommunities",
-      "title": "Qualified Social Worker",
-      "location": "Delray Beach, Florida, United States",
-      "url": "https://lifespacecommunities.wd1.myworkdayjobs.com/careers/job/Delray-Beach-FL/Qualified-Social-Worker_JR2602451-1",
-      "direct_url": "https://lifespacecommunities.wd1.myworkdayjobs.com/careers/job/Delray-Beach-FL/Qualified-Social-Worker_JR2602451-1",
-      "date_posted": "2026-07-23T00:00:00.000Z",
-      "description": "Master's in social work with 1 year healthcare experience OR bachelor's in social work/related field with 3 years; licensed social worker required; proficiency in documentation and resident advocacy.",
-      "salary": "$57k–$78k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Ecumen",
       "title": "Hospice Social Worker",
       "location": "Saint Cloud, Minnesota, United States",
@@ -334,6 +320,20 @@
       "date_posted": "2026-08-03T01:23:35.486Z",
       "description": "Bachelor's in social work, licensed social worker in Minnesota, valid driver’s license, 2 years healthcare social work experience, CPR/ability to communicate, and Microsoft Office proficiency.",
       "salary": "$62k–$73k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Lifespacecommunities",
+      "title": "Qualified Social Worker",
+      "location": "Delray Beach, Florida, United States",
+      "url": "https://lifespacecommunities.wd1.myworkdayjobs.com/careers/job/Delray-Beach-FL/Qualified-Social-Worker_JR2602451-1",
+      "direct_url": "https://lifespacecommunities.wd1.myworkdayjobs.com/careers/job/Delray-Beach-FL/Qualified-Social-Worker_JR2602451-1",
+      "date_posted": "2026-07-23T00:00:00.000Z",
+      "description": "Master's in social work with 1 year healthcare experience OR bachelor's in social work/related field with 3 years; licensed social worker required; proficiency in documentation and resident advocacy.",
+      "salary": "$57k–$78k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
@@ -662,20 +662,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Upenn",
-      "title": "Program Coordinator",
-      "location": "Philadelphia, Pennsylvania, United States",
-      "url": "https://upenn.wd1.myworkdayjobs.com/psom/job/Presbyterian-Med-Ctr-FL7/Program-Coordinator_JR00123112",
-      "direct_url": "https://upenn.wd1.myworkdayjobs.com/psom/job/Presbyterian-Med-Ctr-FL7/Program-Coordinator_JR00123112",
-      "date_posted": "2026-07-24T00:00:00.000Z",
-      "description": "Bachelor's degree and 2–3 years experience or equivalent; program/project coordination in academic healthcare, strong organization, scheduling, HRSA reporting familiarity, and excellent communication.",
-      "salary": "$50k–$62k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Nelnet",
       "title": "Program Coordinator",
       "location": "Lincoln, Nebraska, United States",
@@ -690,6 +676,20 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "Upenn",
+      "title": "Program Coordinator",
+      "location": "Philadelphia, Pennsylvania, United States",
+      "url": "https://upenn.wd1.myworkdayjobs.com/psom/job/Presbyterian-Med-Ctr-FL7/Program-Coordinator_JR00123112",
+      "direct_url": "https://upenn.wd1.myworkdayjobs.com/psom/job/Presbyterian-Med-Ctr-FL7/Program-Coordinator_JR00123112",
+      "date_posted": "2026-07-24T00:00:00.000Z",
+      "description": "Bachelor's degree and 2–3 years experience or equivalent; program/project coordination in academic healthcare, strong organization, scheduling, HRSA reporting familiarity, and excellent communication.",
+      "salary": "$50k–$62k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
       "company": "University of New Mexico",
       "title": "Program Coordinator",
       "location": "Albuquerque, New Mexico, United States",
@@ -698,6 +698,20 @@
       "date_posted": "2026-07-22T00:00:00.000Z",
       "description": "Coordinate fiscal, administrative, and operational activities for federally funded training programs; manage budgets, purchasing, data collection and reporting; strong organization and communication skills required.",
       "salary": "$41k–$56k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Bollinger Shipyards",
+      "title": "Program Coordinator",
+      "location": "Houma, Louisiana, United States",
+      "url": "https://bollingershipyards.exacthire.com/job/205502",
+      "direct_url": "https://bollingershipyards.exacthire.com/job/205502",
+      "date_posted": "2026-08-06T18:34:14.000Z",
+      "description": "Requires 5–10 years of program coordination, project management, or related experience, an associate's degree or equivalent, strong organization, communication, analysis, leadership, and process optimization skills.",
+      "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
@@ -1220,46 +1234,18 @@
       "is_remote": false,
       "work_arrangement": "On-site",
       "ats": "HiringCafe"
-    },
-    {
-      "company": "AdventHealth",
-      "title": "Community Health Worker",
-      "location": "Manchester, Kentucky, United States",
-      "url": "https://adventhealth.wd12.myworkdayjobs.com/ah_external_career_site/job/ADVENTHEALTH-MANCHESTER/Community-Health-Worker_R-0368467-1",
-      "direct_url": "https://adventhealth.wd12.myworkdayjobs.com/ah_external_career_site/job/ADVENTHEALTH-MANCHESTER/Community-Health-Worker_R-0368467-1",
-      "date_posted": "2026-08-10T00:00:00.000Z",
-      "description": "High school diploma or equivalent, community health worker training or certification, driver's license, and experience in clinical or community health settings and working with diverse populations.",
-      "salary": "$38k–$61k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
     }
   ],
   "new_jobs": [
     {
-      "company": "The Fedcap Group",
-      "title": "Case Manager",
-      "location": "Washington, District of Columbia, United States",
-      "url": "https://eckb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/requisitions/job/103375",
-      "direct_url": "https://eckb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/requisitions/job/103375",
-      "date_posted": "2026-08-06T14:55:35.000Z",
-      "description": "Bachelor's degree in social work, social services, counseling, business administration, or related field and 3 years' vocational rehabilitation or case management experience; 5 years' case management may substitute.",
-      "salary": "$52k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "AdventHealth",
-      "title": "Community Health Worker",
-      "location": "Manchester, Kentucky, United States",
-      "url": "https://adventhealth.wd12.myworkdayjobs.com/ah_external_career_site/job/ADVENTHEALTH-MANCHESTER/Community-Health-Worker_R-0368467-1",
-      "direct_url": "https://adventhealth.wd12.myworkdayjobs.com/ah_external_career_site/job/ADVENTHEALTH-MANCHESTER/Community-Health-Worker_R-0368467-1",
-      "date_posted": "2026-08-10T00:00:00.000Z",
-      "description": "High school diploma or equivalent, community health worker training or certification, driver's license, and experience in clinical or community health settings and working with diverse populations.",
-      "salary": "$38k–$61k/yr",
+      "company": "Bollinger Shipyards",
+      "title": "Program Coordinator",
+      "location": "Houma, Louisiana, United States",
+      "url": "https://bollingershipyards.exacthire.com/job/205502",
+      "direct_url": "https://bollingershipyards.exacthire.com/job/205502",
+      "date_posted": "2026-08-06T18:34:14.000Z",
+      "description": "Requires 5–10 years of program coordination, project management, or related experience, an associate's degree or equivalent, strong organization, communication, analysis, leadership, and process optimization skills.",
+      "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
