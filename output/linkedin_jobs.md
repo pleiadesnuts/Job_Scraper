@@ -1,58 +1,63 @@
 # 🔥 LinkedIn — Social Worker Roles
-*Last updated: 2026-08-16 19:51 UTC*
+*Last updated: 2026-08-16 20:54 UTC*
 
-**13 new role(s)** since last run · 16 total in last 1h
+**13 new role(s)** since last run · 13 total in last 1h
 
-### [Food and Beverage Supervisor](https://www.linkedin.com/jobs/view/4455225078/) — Westmont Hospitality
-- 📍 **Location:** Denver, CO
+### [Case Manager - Crestview Mobile Response Team](https://www.linkedin.com/jobs/view/4455210214/) — Lakeview Center
+- 📍 **Location:** Crestview, FL
 - 🕒 **Posted:** 2026-08-16
 
-### [Training Coordinator - Organizational Learning](https://www.linkedin.com/jobs/view/4428190736/) — Bombardier
-- 📍 **Location:** Dorval, Quebec, Canada
+### [Senior Aboriginal Health Practitioner - Remote Men’s Health Educator](https://www.linkedin.com/jobs/view/4452212163/) — NT Health
+- 📍 **Location:** Tennant Creek, Northern Territory, Australia
+- 💰 **Salary:** $139,956 - $144,597
 - 🕒 **Posted:** 2026-08-16
 
-### [Mobile Response Peer Support Specialist](https://www.linkedin.com/jobs/view/4455207107/) — Crestwood Behavioral Health, Inc.
-- 📍 **Location:** Lompoc, CA
-- 💰 **Salary:** $23 - $23.70 USD
+### [Intensive Outpatient Program Social Worker](https://www.linkedin.com/jobs/view/4455221124/) — Freedom Behavioral
+- 📍 **Location:** Magnolia, MS
 - 🕒 **Posted:** 2026-08-16
 
-### [Clinical Supervisor - Housing Programs (Youth)](https://www.linkedin.com/jobs/view/4455208112/) — Terry Reilly Health Services
-- 📍 **Location:** Boise, ID
+### [Program Coordinator, O'Malley School of Business](https://www.linkedin.com/jobs/view/4451254508/) — Manhattan University
+- 📍 **Location:** Bronx County, NY
 - 🕒 **Posted:** 2026-08-16
 
-### [LTSS Case Manager (Rural)](https://www.linkedin.com/jobs/view/4455211068/) — ACCESS to Healthcare Network
-- 📍 **Location:** Elko, NV
+### [Client Care Coordinator](https://www.linkedin.com/jobs/view/4454203412/) — Onebright
+- 📍 **Location:** York, England, United Kingdom
 - 🕒 **Posted:** 2026-08-16
 
-### [Discharge Supervisor (bachelors)](https://www.linkedin.com/jobs/view/4455219077/) — Community Bridges
-- 📍 **Location:** Casa Grande, AZ
+### [Program Manager,](https://www.linkedin.com/jobs/view/4441404583/) — Baxter International Inc.
+- 📍 **Location:** Round Lake, IL
+- 💰 **Salary:** $120,000-$165,000 annually
 - 🕒 **Posted:** 2026-08-16
 
-### [Operations Supervisor (Lead BHT)](https://www.linkedin.com/jobs/view/4455221078/) — Community Bridges
-- 📍 **Location:** Casa Grande, AZ
+### [Team Leader - Operations](https://www.linkedin.com/jobs/view/4454533228/) — MetLife
+- 📍 **Location:** Noida, Uttar Pradesh, India
 - 🕒 **Posted:** 2026-08-16
 
-### [Merchandiser cum Program Manager](https://www.linkedin.com/jobs/view/4454202284/) — Roots Foundation
-- 📍 **Location:** Gurugram, Haryana, India
+### [Legal Intake Specialist (Bilingual)](https://www.linkedin.com/jobs/view/4453984800/) — Brandon J. Broderick, Personal Injury Attorney at Law
+- 📍 **Location:** Hackensack, NJ
+- 💰 **Salary:** $55,000—$60,000 USD
 - 🕒 **Posted:** 2026-08-16
 
-### [Strategic Program Manager - Safety](https://www.linkedin.com/jobs/view/4425323609/) — McKinstry
-- 📍 **Location:** Spokane, WA
-- 💰 **Salary:** $99,270 -$152,910 per year
+### [Front Store Supervisor, Hourly Full Time Flexible Shifts](https://www.linkedin.com/jobs/view/4455206197/) — Shoppers Drug Mart
+- 📍 **Location:** Winnipeg, Manitoba, Canada
 - 🕒 **Posted:** 2026-08-16
 
-### [Patient Care Coordinator](https://www.linkedin.com/jobs/view/4455211040/) — Drayer Physical Therapy Institute
-- 📍 **Location:** Beavercreek, OH
+### [Entertainment Team Supervisor](https://www.linkedin.com/jobs/view/4455206140/) — Walmart
+- 📍 **Location:** Madison, WI
+- 💰 **Salary:** $21.00/hr - $34.00/hr
 - 🕒 **Posted:** 2026-08-16
 
-### [Patient Care Coordinator- East York, PA clinic](https://www.linkedin.com/jobs/view/4455219036/) — Drayer Physical Therapy Institute
-- 📍 **Location:** York, PA
+### [Community Support Supervisor](https://www.linkedin.com/jobs/view/4452208142/) — Greystar
+- 📍 **Location:** Dallas, TX
+- 💰 **Salary:** $22.00 - $26.00
 - 🕒 **Posted:** 2026-08-16
 
-### [Patient Care Coordinator](https://www.linkedin.com/jobs/view/4455218037/) — BenchMark Physical Therapy
-- 📍 **Location:** Johnson City, TN
+### [Maintenance Supervisor - Heritage Park](https://www.linkedin.com/jobs/view/4452219141/) — Avanath Capital Management, LLC
+- 📍 **Location:** Duarte, CA
+- 💰 **Salary:** $30—$33 USD
 - 🕒 **Posted:** 2026-08-16
 
-### [LPN-Health Care Coordinator](https://www.linkedin.com/jobs/view/4453994424/) — LakeHouse Senior Living
-- 📍 **Location:** Sheboygan, WI
+### [Special Education Case Manager Sola Academy](https://www.linkedin.com/jobs/view/4453359238/) — Fusion Academy
+- 📍 **Location:** Hoffman Estates, IL
+- 💰 **Salary:** USD $70,000.00 - USD $85,000.00 /Yr
 - 🕒 **Posted:** 2026-08-16
