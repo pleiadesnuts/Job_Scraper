@@ -1,17 +1,17 @@
 # ☕ HiringCafe — Social Worker Roles
-*Last updated: 2026-08-16 04:37 UTC*
+*Last updated: 2026-08-16 17:19 UTC*
 
-**2 new role(s)** since last run · 88 total in last 30d
+**2 new role(s)** since last run · 89 total in last 30d
 
-### [Social Worker](https://secure6.saashr.com/ta/6033683.careers?ShowJob=705332483) — Northern Maine Medical Center
-- 📍 **Location:** Fort Kent, Maine, United States
+### [Case Manager](https://eckb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/requisitions/job/103375) — The Fedcap Group
+- 📍 **Location:** Washington, District of Columbia, United States
+- 💰 **Salary:** $52k/yr
 - **Work mode:** On-site
 - **Job type:** Full Time
-- 🕒 **Posted:** 2026-07-23T19:58:45.898Z
+- 🕒 **Posted:** 2026-08-06T14:55:35.000Z
 
-### [Program Coordinator](https://evqk.fa.us8.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/requisitions/job/6358) — New LHRC External Career Site
-- 📍 **Location:** Hillsville, Virginia, United States
-- 💰 **Salary:** $41k–$78k/yr
+### [Case Manager](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4356712) — Naqvi Injury Law
+- 📍 **Location:** Las Vegas, Nevada, United States
 - **Work mode:** On-site
 - **Job type:** Full Time
-- 🕒 **Posted:** 2026-08-12T14:58:42.000Z
+- 🕒 **Posted:** 2026-07-22T23:15:55.000Z
