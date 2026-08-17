@@ -1,11 +1,11 @@
 # 🟦 Indeed — Social Worker Roles
-*Last updated: 2026-08-17 18:15 UTC*
+*Last updated: 2026-08-17 20:13 UTC*
 
-**1 new role(s)** since last run · 1 total in last 24h
+**1 new role(s)** since last run · 2 total in last 24h
 
-### [Correctional Treatment Specialist (Special Population Program Coordinator)](https://www.indeed.com/viewjob?jk=86a0167326226ab1) — Federal Bureau of Prisons
-- 📍 **Location:** Englewood, CO, US
-- 💰 **Salary:** $71k–$108k/yr
-- **Work mode:** Remote in-state eligible
-- **Job type:** fulltime
+### [Behavioral Health Specialist](https://www.indeed.com/viewjob?jk=230211908e9a9bae) — Bethel Care LCC
+- 📍 **Location:** Aurora, CO, US
+- 💰 **Salary:** $21–$25/hr
+- **Work mode:** On-site
+- **Job type:** parttime, fulltime, contract
 - 🕒 **Posted:** 2026-08-17
