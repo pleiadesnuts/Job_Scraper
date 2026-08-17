@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-17 22:33 UTC",
+  "scraped_at": "2026-08-17 23:22 UTC",
   "total": 90,
-  "new_count": 1,
+  "new_count": 0,
   "jobs": [
     {
       "company": "Hertford Rehabilitation and Healthcare",
@@ -1264,20 +1264,5 @@
       "ats": "HiringCafe"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Northwell Career Site",
-      "title": "Social Worker",
-      "location": "Plainview, New York, United States",
-      "url": "https://eppr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/requisitions/job/192379",
-      "direct_url": "https://eppr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/requisitions/job/192379",
-      "date_posted": "2026-08-07T20:44:04.000Z",
-      "description": "Master of Social Work, New York State MSW or clinical social worker license, specialized certifications as needed, and 1–3 years of relevant experience required; inpatient hospital experience preferred.",
-      "salary": "$70k–$117k/yr",
-      "job_type": "Part Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    }
-  ]
+  "new_jobs": []
 }
