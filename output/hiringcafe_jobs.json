@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-08-17 17:21 UTC",
-  "total": 88,
+  "scraped_at": "2026-08-17 18:28 UTC",
+  "total": 89,
   "new_count": 1,
   "jobs": [
     {
@@ -676,20 +676,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Nelnet",
-      "title": "Program Coordinator",
-      "location": "Lincoln, Nebraska, United States",
-      "url": "https://nelnet.wd1.myworkdayjobs.com/mynelnet/job/Lincoln-NE/Program-Coordinator_R22970",
-      "direct_url": "https://nelnet.wd1.myworkdayjobs.com/mynelnet/job/Lincoln-NE/Program-Coordinator_R22970",
-      "date_posted": "2026-08-11T00:00:00.000Z",
-      "description": "Bachelor's degree or equivalent preferred; 1-3 years in program coordination, project support, operations, or administration. Requires organization, communication, documentation, and Microsoft Office proficiency.",
-      "salary": "$50k–$52k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Upenn",
       "title": "Program Coordinator",
       "location": "Philadelphia, Pennsylvania, United States",
@@ -704,6 +690,20 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "Nelnet",
+      "title": "Program Coordinator",
+      "location": "Lincoln, Nebraska, United States",
+      "url": "https://nelnet.wd1.myworkdayjobs.com/mynelnet/job/Lincoln-NE/Program-Coordinator_R22970",
+      "direct_url": "https://nelnet.wd1.myworkdayjobs.com/mynelnet/job/Lincoln-NE/Program-Coordinator_R22970",
+      "date_posted": "2026-08-11T00:00:00.000Z",
+      "description": "Bachelor's degree or equivalent preferred; 1-3 years in program coordination, project support, operations, or administration. Requires organization, communication, documentation, and Microsoft Office proficiency.",
+      "salary": "$50k–$52k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
       "company": "University of New Mexico",
       "title": "Program Coordinator",
       "location": "Albuquerque, New Mexico, United States",
@@ -712,6 +712,20 @@
       "date_posted": "2026-07-22T00:00:00.000Z",
       "description": "Coordinate fiscal, administrative, and operational activities for federally funded training programs; manage budgets, purchasing, data collection and reporting; strong organization and communication skills required.",
       "salary": "$41k–$56k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "New LHRC External Career Site",
+      "title": "Program Coordinator",
+      "location": "Hillsville, Virginia, United States",
+      "url": "https://evqk.fa.us8.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/requisitions/job/6358",
+      "direct_url": "https://evqk.fa.us8.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/requisitions/job/6358",
+      "date_posted": "2026-08-12T14:58:42.000Z",
+      "description": "Bachelor's degree in human services or related field, or equivalent training and experience; extensive IVE compliance knowledge; program coordination, communication, data interpretation, and public speaking skills.",
+      "salary": "$41k–$78k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
@@ -1238,14 +1252,14 @@
   ],
   "new_jobs": [
     {
-      "company": "The Fedcap Group",
-      "title": "Case Manager",
-      "location": "Washington, District of Columbia, United States",
-      "url": "https://eckb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/requisitions/job/103374",
-      "direct_url": "https://eckb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/requisitions/job/103374",
-      "date_posted": "2026-08-06T14:53:58.000Z",
-      "description": "Bachelor’s degree in social work, social services, counseling, business administration, or related field and 3 years’ vocational rehabilitation or case management experience; 5 years’ case management may substitute.",
-      "salary": "$52k/yr",
+      "company": "New LHRC External Career Site",
+      "title": "Program Coordinator",
+      "location": "Hillsville, Virginia, United States",
+      "url": "https://evqk.fa.us8.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/requisitions/job/6358",
+      "direct_url": "https://evqk.fa.us8.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/requisitions/job/6358",
+      "date_posted": "2026-08-12T14:58:42.000Z",
+      "description": "Bachelor's degree in human services or related field, or equivalent training and experience; extensive IVE compliance knowledge; program coordination, communication, data interpretation, and public speaking skills.",
+      "salary": "$41k–$78k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
