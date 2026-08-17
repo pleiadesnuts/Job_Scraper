@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-17 21:22 UTC",
-  "total": 89,
-  "new_count": 0,
+  "scraped_at": "2026-08-17 22:33 UTC",
+  "total": 90,
+  "new_count": 1,
   "jobs": [
     {
       "company": "Hertford Rehabilitation and Healthcare",
@@ -32,20 +32,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Hightower Trail Operations LLC",
-      "title": "Social Worker",
-      "location": "Des Moines, Iowa, United States",
-      "url": "https://hightowertrailop.applicantstack.com/x/detail-arborsprings/a2b92vkxojw9",
-      "direct_url": "https://hightowertrailop.applicantstack.com/x/detail-arborsprings/a2b92vkxojw9",
-      "date_posted": "2026-08-07T18:08:38.000Z",
-      "description": "Certified Social Worker in good standing or in training, secondary education at an approved school of social work, English proficiency, and prior experience or appropriate training.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "-",
       "title": "Social Worker",
       "location": "Wethersfield, Connecticut, United States",
@@ -53,6 +39,20 @@
       "direct_url": "https://careers-nathealthcare.icims.com/jobs/7331/social-worker/job?in_iframe=1",
       "date_posted": "2026-07-20T04:00:00.000Z",
       "description": "Master's in social work, state licensure as a social worker, experience in long-term care, strong assessment, counseling, crisis intervention, and teamwork skills.",
+      "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Hightower Trail Operations LLC",
+      "title": "Social Worker",
+      "location": "Des Moines, Iowa, United States",
+      "url": "https://hightowertrailop.applicantstack.com/x/detail-arborsprings/a2b92vkxojw9",
+      "direct_url": "https://hightowertrailop.applicantstack.com/x/detail-arborsprings/a2b92vkxojw9",
+      "date_posted": "2026-08-07T18:08:38.000Z",
+      "description": "Certified Social Worker in good standing or in training, secondary education at an approved school of social work, English proficiency, and prior experience or appropriate training.",
       "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
@@ -88,20 +88,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Allina",
-      "title": "Social Worker",
-      "location": "Minneapolis, Minnesota, United States",
-      "url": "https://allina.wd5.myworkdayjobs.com/external/job/Allina-Commons/Social-Worker_R-0073448",
-      "direct_url": "https://allina.wd5.myworkdayjobs.com/external/job/Allina-Commons/Social-Worker_R-0073448",
-      "date_posted": "2026-08-05T00:00:00.000Z",
-      "description": "Bachelor's degree in Social Work, Minnesota social worker license, and 2+ years of social work experience required; acute care experience and MSW preferred. Driver's license required for specified care positions.",
-      "salary": "$65k–$104k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Winner Regional Healthcare Center",
       "title": "Social Worker",
       "location": "Winner, South Dakota, United States",
@@ -116,6 +102,20 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "Allina",
+      "title": "Social Worker",
+      "location": "Minneapolis, Minnesota, United States",
+      "url": "https://allina.wd5.myworkdayjobs.com/external/job/Allina-Commons/Social-Worker_R-0073448",
+      "direct_url": "https://allina.wd5.myworkdayjobs.com/external/job/Allina-Commons/Social-Worker_R-0073448",
+      "date_posted": "2026-08-05T00:00:00.000Z",
+      "description": "Bachelor's degree in Social Work, Minnesota social worker license, and 2+ years of social work experience required; acute care experience and MSW preferred. Driver's license required for specified care positions.",
+      "salary": "$65k–$104k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
       "company": "Grand Traverse County",
       "title": "Social Worker",
       "location": "United States",
@@ -124,6 +124,20 @@
       "date_posted": "2026-08-10T00:00:00.000Z",
       "description": "Bachelor's degree in social work or related field; master's social worker or fully licensed counselor credential; 1+ year social work experience, counseling and crisis intervention experience, and adolescent experience preferred.",
       "salary": "$62k–$78k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Clement Manor",
+      "title": "Social Worker",
+      "location": "Greenfield, Wisconsin, United States",
+      "url": "https://clementmanor.employ.onshift.com/job_positions/view/192887/50797353",
+      "direct_url": "https://clementmanor.employ.onshift.com/job_positions/view/192887/50797353",
+      "date_posted": "2026-07-20T14:05:50.000Z",
+      "description": "Bachelor's in social work/psychology/sociology preferred, current Wisconsin social worker license required, discharge planning and MDS experience preferred, strong communication and documentation skills.",
+      "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
@@ -158,20 +172,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Clement Manor",
-      "title": "Social Worker",
-      "location": "Greenfield, Wisconsin, United States",
-      "url": "https://clementmanor.employ.onshift.com/job_positions/view/192887/50797353",
-      "direct_url": "https://clementmanor.employ.onshift.com/job_positions/view/192887/50797353",
-      "date_posted": "2026-07-20T14:05:50.000Z",
-      "description": "Bachelor's in social work/psychology/sociology preferred, current Wisconsin social worker license required, discharge planning and MDS experience preferred, strong communication and documentation skills.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Epic Healthcare",
       "title": "Social Worker",
       "location": "Cranford, New Jersey, United States",
@@ -186,13 +186,27 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "RIVERVIEW HEALTH GROUP",
+      "company": "Riverview Health & Rehab Center - Jefferson",
       "title": "Social Worker",
       "location": "Detroit, Michigan, United States",
-      "url": "https://www.paycomonline.net/v4/ats/web.php/jobs/ViewJobDetails?job=174605&clientkey=674C5E6E9D5651D6FB1EC4FD60A322D9",
-      "direct_url": "https://www.paycomonline.net/v4/ats/web.php/jobs/ViewJobDetails?job=174605&clientkey=674C5E6E9D5651D6FB1EC4FD60A322D9",
+      "url": "https://www.paycomonline.net/v4/ats/web.php/jobs/ViewJobDetails?job=174605&clientkey=5E4FC8C819F2A5B62D672E294B1353BB",
+      "direct_url": "https://www.paycomonline.net/v4/ats/web.php/jobs/ViewJobDetails?job=174605&clientkey=5E4FC8C819F2A5B62D672E294B1353BB",
       "date_posted": "2026-07-23T00:00:00.000Z",
-      "description": "Licensed social worker in Michigan with bachelor\\u0002s in social work (master\\u0002s preferred), 1 year supervised social work experience in long-term/sub-acute care, knowledge of regulations, strong communication and assessment skills.",
+      "description": "Bachelor's in Social Work required (MSW preferred), 1 year supervised social work in long-term or sub-acute care, Michigan social worker license, knowledge of regulations, computer proficiency, strong communication and analytical skills.",
+      "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Pompton Lakes School District",
+      "title": "Social Worker",
+      "location": "Pompton Lakes, New Jersey, United States",
+      "url": "https://www.applitrack.com/plpsk12/onlineapp/jobpostings/view.asp?AppliTrackJobId=331",
+      "direct_url": "https://www.applitrack.com/plpsk12/onlineapp/jobpostings/view.asp?AppliTrackJobId=331",
+      "date_posted": "2026-08-12T12:00:00.000Z",
+      "description": "NJ social worker certification, bachelor's degree in an applicable education discipline, and master's degree in social work. Case management experience preferred; requires counseling, assessment, IEP, and communication skills.",
       "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
@@ -228,15 +242,15 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Pompton Lakes School District",
+      "company": "Northwell Career Site",
       "title": "Social Worker",
-      "location": "Pompton Lakes, New Jersey, United States",
-      "url": "https://www.applitrack.com/plpsk12/onlineapp/jobpostings/view.asp?AppliTrackJobId=331",
-      "direct_url": "https://www.applitrack.com/plpsk12/onlineapp/jobpostings/view.asp?AppliTrackJobId=331",
-      "date_posted": "2026-08-12T12:00:00.000Z",
-      "description": "NJ social worker certification, bachelor's degree in an applicable education discipline, and master's degree in social work. Case management experience preferred; requires counseling, assessment, IEP, and communication skills.",
-      "salary": "",
-      "job_type": "Full Time",
+      "location": "Plainview, New York, United States",
+      "url": "https://eppr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/requisitions/job/192379",
+      "direct_url": "https://eppr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/requisitions/job/192379",
+      "date_posted": "2026-08-07T20:44:04.000Z",
+      "description": "Master of Social Work, New York State MSW or clinical social worker license, specialized certifications as needed, and 1–3 years of relevant experience required; inpatient hospital experience preferred.",
+      "salary": "$70k–$117k/yr",
+      "job_type": "Part Time",
       "is_remote": false,
       "work_arrangement": "On-site",
       "ats": "HiringCafe"
@@ -676,20 +690,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Nelnet",
-      "title": "Program Coordinator",
-      "location": "Lincoln, Nebraska, United States",
-      "url": "https://nelnet.wd1.myworkdayjobs.com/mynelnet/job/Lincoln-NE/Program-Coordinator_R22970",
-      "direct_url": "https://nelnet.wd1.myworkdayjobs.com/mynelnet/job/Lincoln-NE/Program-Coordinator_R22970",
-      "date_posted": "2026-08-11T00:00:00.000Z",
-      "description": "Bachelor's degree or equivalent preferred; 1-3 years in program coordination, project support, operations, or administration. Requires organization, communication, documentation, and Microsoft Office proficiency.",
-      "salary": "$50k–$52k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Upenn",
       "title": "Program Coordinator",
       "location": "Philadelphia, Pennsylvania, United States",
@@ -698,6 +698,20 @@
       "date_posted": "2026-07-24T00:00:00.000Z",
       "description": "Bachelor's degree and 2–3 years experience or equivalent; program/project coordination in academic healthcare, strong organization, scheduling, HRSA reporting familiarity, and excellent communication.",
       "salary": "$50k–$62k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Nelnet",
+      "title": "Program Coordinator",
+      "location": "Lincoln, Nebraska, United States",
+      "url": "https://nelnet.wd1.myworkdayjobs.com/mynelnet/job/Lincoln-NE/Program-Coordinator_R22970",
+      "direct_url": "https://nelnet.wd1.myworkdayjobs.com/mynelnet/job/Lincoln-NE/Program-Coordinator_R22970",
+      "date_posted": "2026-08-11T00:00:00.000Z",
+      "description": "Bachelor's degree or equivalent preferred; 1-3 years in program coordination, project support, operations, or administration. Requires organization, communication, documentation, and Microsoft Office proficiency.",
+      "salary": "$50k–$52k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
@@ -718,20 +732,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Bollinger Shipyards",
-      "title": "Program Coordinator",
-      "location": "Houma, Louisiana, United States",
-      "url": "https://bollingershipyards.exacthire.com/job/205502",
-      "direct_url": "https://bollingershipyards.exacthire.com/job/205502",
-      "date_posted": "2026-08-06T18:34:14.000Z",
-      "description": "Requires 5–10 years of program coordination, project management, or related experience, an associate's degree or equivalent, strong organization, communication, analysis, leadership, and process optimization skills.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "New LHRC External Career Site",
       "title": "Program Coordinator",
       "location": "Hillsville, Virginia, United States",
@@ -740,6 +740,20 @@
       "date_posted": "2026-08-12T14:58:42.000Z",
       "description": "Bachelor's degree in human services or related field, or equivalent training and experience; extensive IVE compliance knowledge; program coordination, communication, data interpretation, and public speaking skills.",
       "salary": "$41k–$78k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Bollinger Shipyards",
+      "title": "Program Coordinator",
+      "location": "Houma, Louisiana, United States",
+      "url": "https://bollingershipyards.exacthire.com/job/205502",
+      "direct_url": "https://bollingershipyards.exacthire.com/job/205502",
+      "date_posted": "2026-08-06T18:34:14.000Z",
+      "description": "Requires 5–10 years of program coordination, project management, or related experience, an associate's degree or equivalent, strong organization, communication, analysis, leadership, and process optimization skills.",
+      "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
@@ -942,28 +956,14 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Texas A&M University System",
-      "title": "Program Coordinator II",
-      "location": "Prairie View, Texas, United States",
-      "url": "https://tamus.wd1.myworkdayjobs.com/system-wide_external/job/Prairie-View-TX/Program-Coordinator-II_R-096108-1",
-      "direct_url": "https://tamus.wd1.myworkdayjobs.com/system-wide_external/job/Prairie-View-TX/Program-Coordinator-II_R-096108-1",
-      "date_posted": "2026-08-13T00:00:00.000Z",
-      "description": "Bachelor's degree and four years of related experience required. Requires communication, organization, multitasking, regulatory reporting, and program coordination skills; public health experience preferred.",
+      "company": "Kennesaw State University",
+      "title": "Program Coordinator, CARPE",
+      "location": "Marietta or Kennesaw",
+      "url": "https://careers.hprod.onehcm.usg.edu/psc/careers/CAREERS/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&Action=U&FOCUS=Applicant&JobOpeningId=302290&PostingSeq=1&SiteId=1",
+      "direct_url": "https://careers.hprod.onehcm.usg.edu/psc/careers/CAREERS/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&Action=U&FOCUS=Applicant&JobOpeningId=302290&PostingSeq=1&SiteId=1",
+      "date_posted": "2026-08-14T12:00:00.000Z",
+      "description": "Bachelor's degree in a related field, one year of related experience, unrestricted driver's license, program coordination, data analysis, communication, project management, and presentation skills.",
       "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "City of Pharr",
-      "title": "Program Coordinator - HCRMA",
-      "location": "Pharr, Texas, United States",
-      "url": "https://pharrtx.applicantpro.com/jobs/4152982",
-      "direct_url": "https://pharrtx.applicantpro.com/jobs/4152982",
-      "date_posted": "2026-07-20T00:00:00.000Z",
-      "description": "Coordinate program activities, vendors, contracts and prepare desktop-published materials; must hold TxDOT Local Government Project Procedures certification and be bilingual English/Spanish.",
-      "salary": "$60k–$80k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
@@ -984,13 +984,27 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Kennesaw State University",
-      "title": "Program Coordinator, CARPE",
-      "location": "Marietta or Kennesaw",
-      "url": "https://careers.hprod.onehcm.usg.edu/psc/careers/CAREERS/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&Action=U&FOCUS=Applicant&JobOpeningId=302290&PostingSeq=1&SiteId=1",
-      "direct_url": "https://careers.hprod.onehcm.usg.edu/psc/careers/CAREERS/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&Action=U&FOCUS=Applicant&JobOpeningId=302290&PostingSeq=1&SiteId=1",
-      "date_posted": "2026-08-14T12:00:00.000Z",
-      "description": "Bachelor's degree in a related field, one year of related experience, unrestricted driver's license, program coordination, data analysis, communication, project management, and presentation skills.",
+      "company": "City of Pharr",
+      "title": "Program Coordinator - HCRMA",
+      "location": "Pharr, Texas, United States",
+      "url": "https://pharrtx.applicantpro.com/jobs/4152982",
+      "direct_url": "https://pharrtx.applicantpro.com/jobs/4152982",
+      "date_posted": "2026-07-20T00:00:00.000Z",
+      "description": "Coordinate program activities, vendors, contracts and prepare desktop-published materials; must hold TxDOT Local Government Project Procedures certification and be bilingual English/Spanish.",
+      "salary": "$60k–$80k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Texas A&M University System",
+      "title": "Program Coordinator II",
+      "location": "Prairie View, Texas, United States",
+      "url": "https://tamus.wd1.myworkdayjobs.com/system-wide_external/job/Prairie-View-TX/Program-Coordinator-II_R-096108-1",
+      "direct_url": "https://tamus.wd1.myworkdayjobs.com/system-wide_external/job/Prairie-View-TX/Program-Coordinator-II_R-096108-1",
+      "date_posted": "2026-08-13T00:00:00.000Z",
+      "description": "Bachelor's degree and four years of related experience required. Requires communication, organization, multitasking, regulatory reporting, and program coordination skills; public health experience preferred.",
       "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
@@ -1250,5 +1264,20 @@
       "ats": "HiringCafe"
     }
   ],
-  "new_jobs": []
+  "new_jobs": [
+    {
+      "company": "Northwell Career Site",
+      "title": "Social Worker",
+      "location": "Plainview, New York, United States",
+      "url": "https://eppr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/requisitions/job/192379",
+      "direct_url": "https://eppr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/requisitions/job/192379",
+      "date_posted": "2026-08-07T20:44:04.000Z",
+      "description": "Master of Social Work, New York State MSW or clinical social worker license, specialized certifications as needed, and 1–3 years of relevant experience required; inpatient hospital experience preferred.",
+      "salary": "$70k–$117k/yr",
+      "job_type": "Part Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    }
+  ]
 }
