@@ -1,10 +1,11 @@
 # 🟦 Indeed — Social Worker Roles
-*Last updated: 2026-08-18 20:17 UTC*
+*Last updated: 2026-08-18 21:15 UTC*
 
 **1 new role(s)** since last run · 17 total in last 24h
 
-### [Lead Social Worker / Transitional Care Registered Nurse](https://www.indeed.com/viewjob?jk=0d393397e64eb797) — Ivinson Memorial Hospital
-- 📍 **Location:** Laramie, WY, US
+### [Certified Peer Support Specialist II - Inpatient Adolescent Psychiatry Withdrawal Management Program](https://www.indeed.com/viewjob?jk=ab85220261de243d) — Denver Health
+- 📍 **Location:** Denver, CO, US
+- 💰 **Salary:** $21–$28/hr
 - **Work mode:** On-site
-- **Job type:** parttime
+- **Job type:** fulltime
 - 🕒 **Posted:** 2026-08-18
