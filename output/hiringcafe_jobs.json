@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-18 03:47 UTC",
-  "total": 91,
-  "new_count": 0,
+  "scraped_at": "2026-08-18 04:36 UTC",
+  "total": 92,
+  "new_count": 3,
   "jobs": [
     {
       "company": "Hertford Rehabilitation and Healthcare",
@@ -32,20 +32,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "-",
-      "title": "Social Worker",
-      "location": "Wethersfield, Connecticut, United States",
-      "url": "https://careers-nathealthcare.icims.com/jobs/7331/social-worker/job?in_iframe=1",
-      "direct_url": "https://careers-nathealthcare.icims.com/jobs/7331/social-worker/job?in_iframe=1",
-      "date_posted": "2026-07-20T04:00:00.000Z",
-      "description": "Master's in social work, state licensure as a social worker, experience in long-term care, strong assessment, counseling, crisis intervention, and teamwork skills.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Hightower Trail Operations LLC",
       "title": "Social Worker",
       "location": "Des Moines, Iowa, United States",
@@ -53,6 +39,20 @@
       "direct_url": "https://hightowertrailop.applicantstack.com/x/detail-arborsprings/a2b92vkxojw9",
       "date_posted": "2026-08-07T18:08:38.000Z",
       "description": "Certified Social Worker in good standing or in training, secondary education at an approved school of social work, English proficiency, and prior experience or appropriate training.",
+      "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "-",
+      "title": "Social Worker",
+      "location": "Wethersfield, Connecticut, United States",
+      "url": "https://careers-nathealthcare.icims.com/jobs/7331/social-worker/job?in_iframe=1",
+      "direct_url": "https://careers-nathealthcare.icims.com/jobs/7331/social-worker/job?in_iframe=1",
+      "date_posted": "2026-07-20T04:00:00.000Z",
+      "description": "Master's in social work, state licensure as a social worker, experience in long-term care, strong assessment, counseling, crisis intervention, and teamwork skills.",
       "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
@@ -88,20 +88,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Winner Regional Healthcare Center",
-      "title": "Social Worker",
-      "location": "Winner, South Dakota, United States",
-      "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4376532",
-      "direct_url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4376532",
-      "date_posted": "2026-07-30T13:53:35.000Z",
-      "description": "Licensed social worker in South Dakota with 1+ year supervised healthcare social work experience; bachelor\\u0002s degree in social work or related human services field; strong communication and documentation skills.",
-      "salary": "$50k–$77k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Allina",
       "title": "Social Worker",
       "location": "Minneapolis, Minnesota, United States",
@@ -110,6 +96,20 @@
       "date_posted": "2026-08-05T00:00:00.000Z",
       "description": "Bachelor's degree in Social Work, Minnesota social worker license, and 2+ years of social work experience required; acute care experience and MSW preferred. Driver's license required for specified care positions.",
       "salary": "$65k–$104k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Winner Regional Healthcare Center",
+      "title": "Social Worker",
+      "location": "Winner, South Dakota, United States",
+      "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4376532",
+      "direct_url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4376532",
+      "date_posted": "2026-07-30T13:53:35.000Z",
+      "description": "Licensed social worker in South Dakota with 1+ year supervised healthcare social work experience; bachelor\\u0002s degree in social work or related human services field; strong communication and documentation skills.",
+      "salary": "$50k–$77k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
@@ -326,20 +326,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Cxb",
-      "title": "Social Worker ",
-      "location": "New York, New York, United States",
-      "url": "https://jobs.dayforcehcm.com/en-US/cxb/candidateportal/jobs/21666",
-      "direct_url": "https://jobs.dayforcehcm.com/en-US/cxb/candidateportal/jobs/21666",
-      "date_posted": "2026-08-03T04:00:00.000Z",
-      "description": "NYS Licensed Masters Social Worker required; obtain 9.58 credential within 3 months; experience in crisis intervention, motivational interviewing, harm reduction, and documentation; strong communication and collaborative skills.",
-      "salary": "",
-      "job_type": "Part Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Phoenix Children's",
       "title": "Social Worker",
       "location": "Phoenix, Arizona, United States",
@@ -354,14 +340,28 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Ecumen",
-      "title": "Hospice Social Worker",
-      "location": "Saint Cloud, Minnesota, United States",
-      "url": "https://gusea1p01.rec.pro.ukg.net/ECU1001ECUME/JobBoard/207e3ae3-3dc1-41dd-955c-28a1f0a24775/OpportunityDetail?opportunityId=084cc734-9273-4262-9024-b00f943167d0",
-      "direct_url": "https://gusea1p01.rec.pro.ukg.net/ECU1001ECUME/JobBoard/207e3ae3-3dc1-41dd-955c-28a1f0a24775/OpportunityDetail?opportunityId=084cc734-9273-4262-9024-b00f943167d0",
-      "date_posted": "2026-08-03T01:23:35.486Z",
-      "description": "Bachelor's in social work, licensed social worker in Minnesota, valid driver’s license, 2 years healthcare social work experience, CPR/ability to communicate, and Microsoft Office proficiency.",
-      "salary": "$62k–$73k/yr",
+      "company": "Cxb",
+      "title": "Social Worker ",
+      "location": "New York, New York, United States",
+      "url": "https://jobs.dayforcehcm.com/en-US/cxb/candidateportal/jobs/21666",
+      "direct_url": "https://jobs.dayforcehcm.com/en-US/cxb/candidateportal/jobs/21666",
+      "date_posted": "2026-08-03T04:00:00.000Z",
+      "description": "NYS Licensed Masters Social Worker required; obtain 9.58 credential within 3 months; experience in crisis intervention, motivational interviewing, harm reduction, and documentation; strong communication and collaborative skills.",
+      "salary": "",
+      "job_type": "Part Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Lifespacecommunities",
+      "title": "Qualified Social Worker",
+      "location": "Delray Beach, Florida, United States",
+      "url": "https://lifespacecommunities.wd1.myworkdayjobs.com/careers/job/Delray-Beach-FL/Qualified-Social-Worker_JR2602451-1",
+      "direct_url": "https://lifespacecommunities.wd1.myworkdayjobs.com/careers/job/Delray-Beach-FL/Qualified-Social-Worker_JR2602451-1",
+      "date_posted": "2026-07-23T00:00:00.000Z",
+      "description": "Master's in social work with 1 year healthcare experience OR bachelor's in social work/related field with 3 years; licensed social worker required; proficiency in documentation and resident advocacy.",
+      "salary": "$57k–$78k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
@@ -483,10 +483,10 @@
       "company": "The Fedcap Group",
       "title": "Case Manager",
       "location": "Washington, District of Columbia, United States",
-      "url": "https://eckb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/requisitions/job/103374",
-      "direct_url": "https://eckb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/requisitions/job/103374",
-      "date_posted": "2026-08-06T14:53:58.000Z",
-      "description": "Bachelor’s degree in social work, social services, counseling, business administration, or related field and 3 years’ vocational rehabilitation or case management experience; 5 years’ case management may substitute.",
+      "url": "https://eckb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/requisitions/job/103375",
+      "direct_url": "https://eckb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/requisitions/job/103375",
+      "date_posted": "2026-08-06T14:55:35.000Z",
+      "description": "Bachelor's degree in social work, social services, counseling, business administration, or related field and 3 years' vocational rehabilitation or case management experience; 5 years' case management may substitute.",
       "salary": "$52k/yr",
       "job_type": "Full Time",
       "is_remote": false,
@@ -550,20 +550,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Consilio",
-      "title": "Case Manager",
-      "location": "United States",
-      "url": "https://careers-consilio.icims.com/jobs/4145/case-manager/job?in_iframe=1",
-      "direct_url": "https://careers-consilio.icims.com/jobs/4145/case-manager/job?in_iframe=1",
-      "date_posted": "2026-08-12T04:00:00.000Z",
-      "description": "BA/BS degree or 5 years in litigation support/legal industry; 3+ years as a project manager; experience managing concurrent cross-functional projects, budgets, schedules, teams, and client relationships.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": true,
-      "work_arrangement": "Remote in-state eligible",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Prime Healthcare",
       "title": "Case Manager",
       "location": "Joliet, Illinois, United States",
@@ -589,6 +575,20 @@
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Consilio",
+      "title": "Case Manager",
+      "location": "United States",
+      "url": "https://careers-consilio.icims.com/jobs/4145/case-manager/job?in_iframe=1",
+      "direct_url": "https://careers-consilio.icims.com/jobs/4145/case-manager/job?in_iframe=1",
+      "date_posted": "2026-08-12T04:00:00.000Z",
+      "description": "BA/BS degree or 5 years in litigation support/legal industry; 3+ years as a project manager; experience managing concurrent cross-functional projects, budgets, schedules, teams, and client relationships.",
+      "salary": "",
+      "job_type": "Full Time",
+      "is_remote": true,
+      "work_arrangement": "Remote in-state eligible",
       "ats": "HiringCafe"
     },
     {
@@ -984,20 +984,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "UnidosUS",
-      "title": "Program Coordinator, Health",
-      "location": "Washington, District of Columbia, United States",
-      "url": "https://unidosus.org/about/jobs/careers-job-listing/?gh_jid=4701020006",
-      "direct_url": "https://unidosus.org/about/jobs/careers-job-listing/?gh_jid=4701020006",
-      "date_posted": "2026-07-31T17:32:54.000Z",
-      "description": "Associate's degree or equivalent and 3+ years coordinating programs or providing administrative support; experience with event logistics, document management, grant administration, and community health preferred.",
-      "salary": "$63k–$66k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "Telecommute eligible",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Kennesaw State University",
       "title": "Program Coordinator, CARPE",
       "location": "Marietta or Kennesaw",
@@ -1009,6 +995,20 @@
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "UnidosUS",
+      "title": "Program Coordinator, Health",
+      "location": "Washington, District of Columbia, United States",
+      "url": "https://unidosus.org/about/jobs/careers-job-listing/?gh_jid=4701020006",
+      "direct_url": "https://unidosus.org/about/jobs/careers-job-listing/?gh_jid=4701020006",
+      "date_posted": "2026-07-31T17:32:54.000Z",
+      "description": "Associate's degree or equivalent and 3+ years coordinating programs or providing administrative support; experience with event logistics, document management, grant administration, and community health preferred.",
+      "salary": "$63k–$66k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "Telecommute eligible",
       "ats": "HiringCafe"
     },
     {
@@ -1194,6 +1194,20 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "Humana",
+      "title": "Community Health Worker",
+      "location": "Oklahoma, United States",
+      "url": "https://humana.wd5.myworkdayjobs.com/humana_external_career_site/job/Remote-Oklahoma/Community-Health-Worker_R-426807",
+      "direct_url": "https://humana.wd5.myworkdayjobs.com/humana_external_career_site/job/Remote-Oklahoma/Community-Health-Worker_R-426807",
+      "date_posted": "2026-08-17T00:00:00.000Z",
+      "description": "High school diploma or equivalent and 2+ years with community resources, health agencies, or social services. Must reside in Oklahoma, travel to members, use Microsoft Office, and advocate effectively.",
+      "salary": "$42k–$57k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "Telecommute eligible",
+      "ats": "HiringCafe"
+    },
+    {
       "company": "Houston County Minnesota",
       "title": "Community Health Worker",
       "location": "Caledonia, Minnesota, United States",
@@ -1278,5 +1292,48 @@
       "ats": "HiringCafe"
     }
   ],
-  "new_jobs": []
+  "new_jobs": [
+    {
+      "company": "Lifespacecommunities",
+      "title": "Qualified Social Worker",
+      "location": "Delray Beach, Florida, United States",
+      "url": "https://lifespacecommunities.wd1.myworkdayjobs.com/careers/job/Delray-Beach-FL/Qualified-Social-Worker_JR2602451-1",
+      "direct_url": "https://lifespacecommunities.wd1.myworkdayjobs.com/careers/job/Delray-Beach-FL/Qualified-Social-Worker_JR2602451-1",
+      "date_posted": "2026-07-23T00:00:00.000Z",
+      "description": "Master's in social work with 1 year healthcare experience OR bachelor's in social work/related field with 3 years; licensed social worker required; proficiency in documentation and resident advocacy.",
+      "salary": "$57k–$78k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "The Fedcap Group",
+      "title": "Case Manager",
+      "location": "Washington, District of Columbia, United States",
+      "url": "https://eckb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/requisitions/job/103375",
+      "direct_url": "https://eckb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/requisitions/job/103375",
+      "date_posted": "2026-08-06T14:55:35.000Z",
+      "description": "Bachelor's degree in social work, social services, counseling, business administration, or related field and 3 years' vocational rehabilitation or case management experience; 5 years' case management may substitute.",
+      "salary": "$52k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Humana",
+      "title": "Community Health Worker",
+      "location": "Oklahoma, United States",
+      "url": "https://humana.wd5.myworkdayjobs.com/humana_external_career_site/job/Remote-Oklahoma/Community-Health-Worker_R-426807",
+      "direct_url": "https://humana.wd5.myworkdayjobs.com/humana_external_career_site/job/Remote-Oklahoma/Community-Health-Worker_R-426807",
+      "date_posted": "2026-08-17T00:00:00.000Z",
+      "description": "High school diploma or equivalent and 2+ years with community resources, health agencies, or social services. Must reside in Oklahoma, travel to members, use Microsoft Office, and advocate effectively.",
+      "salary": "$42k–$57k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "Telecommute eligible",
+      "ats": "HiringCafe"
+    }
+  ]
 }
