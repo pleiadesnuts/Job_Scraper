@@ -1,6 +1,10 @@
 # 🟦 Indeed — Social Worker Roles
-*Last updated: 2026-08-19 20:12 UTC*
+*Last updated: 2026-08-19 21:17 UTC*
 
-**0 new role(s)** since last run · 7 total in last 24h
+**1 new role(s)** since last run · 8 total in last 24h
 
-No new roles since the last run.
+### [Intake Specialist](https://www.indeed.com/viewjob?jk=b59a87a361d20092) — Kind Behavioral Health
+- 📍 **Location:** Remote, US
+- **Work mode:** Remote in-state eligible
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-08-19
