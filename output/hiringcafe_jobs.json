@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-20 22:35 UTC",
-  "total": 88,
-  "new_count": 1,
+  "scraped_at": "2026-08-20 23:39 UTC",
+  "total": 89,
+  "new_count": 2,
   "jobs": [
     {
       "company": "Pittsburgh Public Schools",
@@ -83,6 +83,20 @@
       "description": "Certified Social Worker in good standing or in training, secondary education at an approved school of social work, English proficiency, and prior experience or appropriate training.",
       "salary": "",
       "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Shriners Children's",
+      "title": "Social Worker",
+      "location": "Lexington, Kentucky, United States",
+      "url": "https://shrinerschildrens.wd12.myworkdayjobs.com/shriners/job/Lexington-KY/Social-Worker_JR101441",
+      "direct_url": "https://shrinerschildrens.wd12.myworkdayjobs.com/shriners/job/Lexington-KY/Social-Worker_JR101441",
+      "date_posted": "2026-08-20T00:00:00.000Z",
+      "description": "Bachelor's degree in social work and current state social worker license required. Three years of social work experience, case management certification, and English-Spanish bilingual ability preferred.",
+      "salary": "",
+      "job_type": "Part Time",
       "is_remote": false,
       "work_arrangement": "On-site",
       "ats": "HiringCafe"
@@ -522,20 +536,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Consilio",
-      "title": "Case Manager",
-      "location": "United States",
-      "url": "https://careers-consilio.icims.com/jobs/4145/case-manager/job?in_iframe=1",
-      "direct_url": "https://careers-consilio.icims.com/jobs/4145/case-manager/job?in_iframe=1",
-      "date_posted": "2026-08-12T04:00:00.000Z",
-      "description": "BA/BS degree or 5 years in litigation support/legal industry; 3+ years as a project manager; experience managing concurrent cross-functional projects, budgets, schedules, teams, and client relationships.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": true,
-      "work_arrangement": "Remote in-state eligible",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Pascack Valley Medical Center",
       "title": "Case Manager / RN",
       "location": "Westwood, New Jersey, United States",
@@ -547,6 +547,20 @@
       "job_type": "Part Time",
       "is_remote": false,
       "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Consilio",
+      "title": "Case Manager",
+      "location": "United States",
+      "url": "https://careers-consilio.icims.com/jobs/4145/case-manager/job?in_iframe=1",
+      "direct_url": "https://careers-consilio.icims.com/jobs/4145/case-manager/job?in_iframe=1",
+      "date_posted": "2026-08-12T04:00:00.000Z",
+      "description": "BA/BS degree or 5 years in litigation support/legal industry; 3+ years as a project manager; experience managing concurrent cross-functional projects, budgets, schedules, teams, and client relationships.",
+      "salary": "",
+      "job_type": "Full Time",
+      "is_remote": true,
+      "work_arrangement": "Remote in-state eligible",
       "ats": "HiringCafe"
     },
     {
@@ -788,6 +802,20 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "TriState Light & Energy",
+      "title": "Program Coordinator",
+      "location": "New Brunswick, New Jersey, United States",
+      "url": "https://jobs.cleanenergyjobspartnership.com/job/New-Brunswick-Program-Coordinator-NJ-08899/1421438700/",
+      "direct_url": "https://jobs.cleanenergyjobspartnership.com/job/New-Brunswick-Program-Coordinator-NJ-08899/1421438700/",
+      "date_posted": "2026-08-20T00:00:00.000Z",
+      "description": "Bachelor's degree or equivalent experience; 2–4 years in program or project coordination, administration, or related work. Requires organization, communication, multitasking, problem-solving, and Microsoft Office and Google Workspace proficiency.",
+      "salary": "$50k–$60k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
       "company": "Educational First Steps",
       "title": "Program Coordinator",
       "location": "Dallas, Texas, United States",
@@ -970,20 +998,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "City of Fort Myers, FL",
-      "title": "PAL Program Coordinator",
-      "location": "Fort Myers, Florida, United States",
-      "url": "https://www.governmentjobs.com/careers/fortmyersfl/jobs/5057607",
-      "direct_url": "https://www.governmentjobs.com/careers/fortmyersfl/jobs/5057607",
-      "date_posted": "2026-07-30T18:38:01.649Z",
-      "description": "Coordinate and manage recreational programs, facilities, events and staff; supervise employees; pursue grants/sponsorships; possess relevant degree/experience and meet DCF Level II screening and drug testing requirements.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Shawnee Christian Healthcare",
       "title": "Community Health Worker (Community Health)",
       "location": "Louisville, Kentucky, United States",
@@ -1009,20 +1023,6 @@
       "job_type": "Full Time",
       "is_remote": true,
       "work_arrangement": "Remote in-state eligible",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Neighborhood Health Center",
-      "title": "Community Health Worker",
-      "location": "Blasdell, New York, United States",
-      "url": "https://recruiting.ultipro.com/nei1007nbhr/JobBoard/13d0e2c6-140c-45a9-9b75-3b2ef5191e20/OpportunityDetail?opportunityId=859a25ef-1259-4bb2-8828-fbb1ed2e3b82",
-      "direct_url": "https://recruiting.ultipro.com/nei1007nbhr/JobBoard/13d0e2c6-140c-45a9-9b75-3b2ef5191e20/OpportunityDetail?opportunityId=859a25ef-1259-4bb2-8828-fbb1ed2e3b82",
-      "date_posted": "2026-07-28T14:50:57.167Z",
-      "description": "High school diploma, experience in community health or patient resource coordination, EHR and Microsoft Office experience, strong communication and organizational skills.",
-      "salary": "$46k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
       "ats": "HiringCafe"
     },
     {
@@ -1090,6 +1090,20 @@
       "date_posted": "2026-08-19T00:00:00.000Z",
       "description": "High school diploma or GED, one year of public health or related supportive-services experience, valid motor vehicle operator's license, and community health worker certification or certification within six months.",
       "salary": "$30k–$37k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Neighborhood Health Center",
+      "title": "Community Health Worker",
+      "location": "Blasdell, New York, United States",
+      "url": "https://recruiting.ultipro.com/nei1007nbhr/JobBoard/13d0e2c6-140c-45a9-9b75-3b2ef5191e20/OpportunityDetail?opportunityId=07e17835-5b7c-4824-89ff-5bf4802b5628",
+      "direct_url": "https://recruiting.ultipro.com/nei1007nbhr/JobBoard/13d0e2c6-140c-45a9-9b75-3b2ef5191e20/OpportunityDetail?opportunityId=07e17835-5b7c-4824-89ff-5bf4802b5628",
+      "date_posted": "2026-07-28T14:49:30.244Z",
+      "description": "High school diploma, experience in community health or patient resource coordination, familiarity with EHRs and Microsoft Office, strong communication and organizational skills, ability to travel for outreach and work occasional evening hours.",
+      "salary": "$46k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
@@ -1238,14 +1252,28 @@
   ],
   "new_jobs": [
     {
-      "company": "Well Care Community Health, Inc",
-      "title": "Community Health Worker-Population Health",
-      "location": "Austin, Indiana, United States",
-      "url": "https://wellcarecommunityhealth.exacthire.com/job/206295",
-      "direct_url": "https://wellcarecommunityhealth.exacthire.com/job/206295",
-      "date_posted": "2026-08-20T18:49:41.000Z",
-      "description": "High school diploma or GED required. Community Health Worker certification required at hire or completion of an approved 40+ hour program. One year of related experience preferred.",
-      "salary": "$40k/yr",
+      "company": "Shriners Children's",
+      "title": "Social Worker",
+      "location": "Lexington, Kentucky, United States",
+      "url": "https://shrinerschildrens.wd12.myworkdayjobs.com/shriners/job/Lexington-KY/Social-Worker_JR101441",
+      "direct_url": "https://shrinerschildrens.wd12.myworkdayjobs.com/shriners/job/Lexington-KY/Social-Worker_JR101441",
+      "date_posted": "2026-08-20T00:00:00.000Z",
+      "description": "Bachelor's degree in social work and current state social worker license required. Three years of social work experience, case management certification, and English-Spanish bilingual ability preferred.",
+      "salary": "",
+      "job_type": "Part Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "TriState Light & Energy",
+      "title": "Program Coordinator",
+      "location": "New Brunswick, New Jersey, United States",
+      "url": "https://jobs.cleanenergyjobspartnership.com/job/New-Brunswick-Program-Coordinator-NJ-08899/1421438700/",
+      "direct_url": "https://jobs.cleanenergyjobspartnership.com/job/New-Brunswick-Program-Coordinator-NJ-08899/1421438700/",
+      "date_posted": "2026-08-20T00:00:00.000Z",
+      "description": "Bachelor's degree or equivalent experience; 2–4 years in program or project coordination, administration, or related work. Requires organization, communication, multitasking, problem-solving, and Microsoft Office and Google Workspace proficiency.",
+      "salary": "$50k–$60k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
