@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-08-20 20:33 UTC",
-  "total": 88,
+  "scraped_at": "2026-08-20 21:37 UTC",
+  "total": 87,
   "new_count": 1,
   "jobs": [
     {
@@ -214,6 +214,20 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "Davita",
+      "title": "Social Worker",
+      "location": "Orange City, Florida, United States",
+      "url": "https://davita.wd1.myworkdayjobs.com/dkc_external/job/03459---Orange-City-Dialysis/Social-Worker_R0474222",
+      "direct_url": "https://davita.wd1.myworkdayjobs.com/dkc_external/job/03459---Orange-City-Dialysis/Social-Worker_R0474222",
+      "date_posted": "2026-08-20T00:00:00.000Z",
+      "description": "Requires an MSW in clinical social work, state authorization for dialysis practice, clinical licensure such as LCSW or LICSW, experienced social worker proficiency, intermediate computer skills, and insurance program knowledge.",
+      "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
       "company": "Somerton Elementary School District 11",
       "title": "Social Worker",
       "location": "Somerton, Arizona, United States",
@@ -235,20 +249,6 @@
       "direct_url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4412102",
       "date_posted": "2026-08-11T21:55:24.000Z",
       "description": "Bachelor's degree in social work or human services, current social worker license, strong communication and organizational skills, and ability to respond appropriately to emergencies. Two years of related experience preferred.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Davita",
-      "title": "Social Worker",
-      "location": "Orange City, Florida, United States",
-      "url": "https://davita.wd1.myworkdayjobs.com/dkc_external/job/03459---Orange-City-Dialysis/Social-Worker_R0474222",
-      "direct_url": "https://davita.wd1.myworkdayjobs.com/dkc_external/job/03459---Orange-City-Dialysis/Social-Worker_R0474222",
-      "date_posted": "2026-08-20T00:00:00.000Z",
-      "description": "Requires an MSW in clinical social work, state authorization for dialysis practice, clinical licensure such as LCSW or LICSW, experienced social worker proficiency, intermediate computer skills, and insurance program knowledge.",
       "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
@@ -469,10 +469,10 @@
       "company": "The Fedcap Group",
       "title": "Case Manager",
       "location": "Washington, District of Columbia, United States",
-      "url": "https://eckb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/requisitions/job/103375",
-      "direct_url": "https://eckb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/requisitions/job/103375",
-      "date_posted": "2026-08-06T14:55:35.000Z",
-      "description": "Bachelor's degree in social work, social services, counseling, business administration, or related field and 3 years' vocational rehabilitation or case management experience; 5 years' case management may substitute.",
+      "url": "https://eckb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/requisitions/job/103374",
+      "direct_url": "https://eckb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/requisitions/job/103374",
+      "date_posted": "2026-08-06T14:53:58.000Z",
+      "description": "Bachelor’s degree in social work, social services, counseling, business administration, or related field and 3 years’ vocational rehabilitation or case management experience; 5 years’ case management may substitute.",
       "salary": "$52k/yr",
       "job_type": "Full Time",
       "is_remote": false,
@@ -494,14 +494,14 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Law Offices of Michael P McCready",
+      "company": "Consilio",
       "title": "Case Manager",
-      "location": "Illinois or Indiana or Missouri or Michigan or Wisconsin or Georgia or Texas or North Carolina or Florida or Colorado or Ohio",
-      "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/3987010",
-      "direct_url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/3987010",
-      "date_posted": "2026-07-21T20:31:08.000Z",
-      "description": "2+ years in personal injury law or medical case coordination, experience managing high-volume client files, strong documentation and case management software skills, excellent written/verbal communication, US residency required.",
-      "salary": "$50k/yr",
+      "location": "United States",
+      "url": "https://careers-consilio.icims.com/jobs/4145/case-manager/job?in_iframe=1",
+      "direct_url": "https://careers-consilio.icims.com/jobs/4145/case-manager/job?in_iframe=1",
+      "date_posted": "2026-08-12T04:00:00.000Z",
+      "description": "BA/BS degree or 5 years in litigation support/legal industry; 3+ years as a project manager; experience managing concurrent cross-functional projects, budgets, schedules, teams, and client relationships.",
+      "salary": "",
       "job_type": "Full Time",
       "is_remote": true,
       "work_arrangement": "Remote in-state eligible",
@@ -547,20 +547,6 @@
       "job_type": "Part Time",
       "is_remote": false,
       "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Consilio",
-      "title": "Case Manager",
-      "location": "United States",
-      "url": "https://careers-consilio.icims.com/jobs/4145/case-manager/job?in_iframe=1",
-      "direct_url": "https://careers-consilio.icims.com/jobs/4145/case-manager/job?in_iframe=1",
-      "date_posted": "2026-08-12T04:00:00.000Z",
-      "description": "BA/BS degree or 5 years in litigation support/legal industry; 3+ years as a project manager; experience managing concurrent cross-functional projects, budgets, schedules, teams, and client relationships.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": true,
-      "work_arrangement": "Remote in-state eligible",
       "ats": "HiringCafe"
     },
     {
@@ -732,20 +718,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "North Orange County Community College District",
-      "title": "Program Coordinator",
-      "location": "Anaheim or Cypress",
-      "url": "https://nocccd.peopleadmin.com/postings/9851",
-      "direct_url": "https://nocccd.peopleadmin.com/postings/9851",
-      "date_posted": "2026-08-19T16:47:11.000Z",
-      "description": "Bachelor’s degree, four years of related training or work experience, and three years of increasingly responsible professional experience in customer service and program coordination. Valid driver’s license required.",
-      "salary": "$83k–$100k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "Telecommute eligible",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "The City of Frederick, MD",
       "title": "Program Coordinator",
       "location": "Frederick, Maryland, United States",
@@ -757,6 +729,20 @@
       "job_type": "Part Time",
       "is_remote": false,
       "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "North Orange County Community College District",
+      "title": "Program Coordinator",
+      "location": "Anaheim or Cypress",
+      "url": "https://nocccd.peopleadmin.com/postings/9851",
+      "direct_url": "https://nocccd.peopleadmin.com/postings/9851",
+      "date_posted": "2026-08-19T16:47:11.000Z",
+      "description": "Bachelor’s degree, four years of related training or work experience, and three years of increasingly responsible professional experience in customer service and program coordination. Valid driver’s license required.",
+      "salary": "$83k–$100k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "Telecommute eligible",
       "ats": "HiringCafe"
     },
     {
@@ -1238,14 +1224,14 @@
   ],
   "new_jobs": [
     {
-      "company": "Goodwill Industries of Southwest Florida",
-      "title": "Program Coordinator - MicroEnterprise",
-      "location": "Fort Myers, Florida, United States",
-      "url": "https://goodwillswfl.applicantpro.com/jobs/4169156",
-      "direct_url": "https://goodwillswfl.applicantpro.com/jobs/4169156",
-      "date_posted": "2026-08-06T00:00:00.000Z",
-      "description": "High school diploma or GED and two years of experience in program coordination, workforce development, education, nonprofit management, or small business support. Requires Florida driver's license and strong communication skills.",
-      "salary": "$44k–$47k/yr",
+      "company": "The Fedcap Group",
+      "title": "Case Manager",
+      "location": "Washington, District of Columbia, United States",
+      "url": "https://eckb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/requisitions/job/103374",
+      "direct_url": "https://eckb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/requisitions/job/103374",
+      "date_posted": "2026-08-06T14:53:58.000Z",
+      "description": "Bachelor’s degree in social work, social services, counseling, business administration, or related field and 3 years’ vocational rehabilitation or case management experience; 5 years’ case management may substitute.",
+      "salary": "$52k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
