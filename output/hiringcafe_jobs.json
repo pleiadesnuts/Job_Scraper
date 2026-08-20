@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-20 04:47 UTC",
+  "scraped_at": "2026-08-20 17:38 UTC",
   "total": 87,
-  "new_count": 0,
+  "new_count": 3,
   "jobs": [
     {
       "company": "Pittsburgh Public Schools",
@@ -312,6 +312,20 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "Trinityhealth",
+      "title": "Social Worker",
+      "location": "Hartford, Connecticut, United States",
+      "url": "https://trinityhealth.wd1.myworkdayjobs.com/jobs/job/Saint-Francis-Hospital---Hartford-CT/Social-Worker_00688899",
+      "direct_url": "https://trinityhealth.wd1.myworkdayjobs.com/jobs/job/Saint-Francis-Hospital---Hartford-CT/Social-Worker_00688899",
+      "date_posted": "2026-08-19T00:00:00.000Z",
+      "description": "Master's degree, valid Connecticut social worker license with LCSW, and two years of related professional experience required. Strong oral and written communication and analytical skills needed.",
+      "salary": "",
+      "job_type": "Part Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
       "company": "Moments Hospice",
       "title": "Hospice Social Worker",
       "location": "Appleton, Wisconsin, United States",
@@ -347,20 +361,6 @@
       "direct_url": "https://jobs.dayforcehcm.com/en-US/cxb/candidateportal/jobs/21666",
       "date_posted": "2026-08-03T04:00:00.000Z",
       "description": "NYS Licensed Masters Social Worker required; obtain 9.58 credential within 3 months; experience in crisis intervention, motivational interviewing, harm reduction, and documentation; strong communication and collaborative skills.",
-      "salary": "",
-      "job_type": "Part Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Phoenix Children's",
-      "title": "Social Worker",
-      "location": "Phoenix, Arizona, United States",
-      "url": "https://careers.phoenixchildrens.com/Positions/Posting/1030710",
-      "direct_url": "https://careers.phoenixchildrens.com/Positions/Posting/1030710",
-      "date_posted": "2026-08-17T20:24:07.547Z",
-      "description": "Required: MSW, Arizona licensed master social worker, Arizona DPS Fingerprint Clearance Card, communication and clinical assessment skills, and computer proficiency. CPR/First Aid and CPI training preferred.",
       "salary": "",
       "job_type": "Part Time",
       "is_remote": false,
@@ -522,20 +522,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Pascack Valley Medical Center",
-      "title": "Case Manager / RN",
-      "location": "Westwood, New Jersey, United States",
-      "url": "https://jobs.ardenthealth.com/jobs/138395?lang=en-us",
-      "direct_url": "https://jobs.ardenthealth.com/jobs/138395?lang=en-us",
-      "date_posted": "2026-07-29T18:26:49.000Z",
-      "description": "RN with an associate degree or higher; case management experience in acute hospital settings preferred; certification in case management (ACM or CCM) preferred.",
-      "salary": "$82k–$106k/yr",
-      "job_type": "Part Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Consilio",
       "title": "Case Manager",
       "location": "United States",
@@ -547,6 +533,20 @@
       "job_type": "Full Time",
       "is_remote": true,
       "work_arrangement": "Remote in-state eligible",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Pascack Valley Medical Center",
+      "title": "Case Manager / RN",
+      "location": "Westwood, New Jersey, United States",
+      "url": "https://jobs.ardenthealth.com/jobs/138395?lang=en-us",
+      "direct_url": "https://jobs.ardenthealth.com/jobs/138395?lang=en-us",
+      "date_posted": "2026-07-29T18:26:49.000Z",
+      "description": "RN with an associate degree or higher; case management experience in acute hospital settings preferred; certification in case management (ACM or CCM) preferred.",
+      "salary": "$82k–$106k/yr",
+      "job_type": "Part Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
       "ats": "HiringCafe"
     },
     {
@@ -732,20 +732,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "North Orange County Community College District",
-      "title": "Program Coordinator",
-      "location": "Anaheim or Cypress",
-      "url": "https://nocccd.peopleadmin.com/postings/9851",
-      "direct_url": "https://nocccd.peopleadmin.com/postings/9851",
-      "date_posted": "2026-08-19T16:47:11.000Z",
-      "description": "Bachelor’s degree, four years of related training or work experience, and three years of increasingly responsible professional experience in customer service and program coordination. Valid driver’s license required.",
-      "salary": "$83k–$100k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "Telecommute eligible",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Uasys",
       "title": "Program Coordinator",
       "location": "Little Rock, Arkansas, United States",
@@ -757,6 +743,20 @@
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "North Orange County Community College District",
+      "title": "Program Coordinator",
+      "location": "Anaheim or Cypress",
+      "url": "https://nocccd.peopleadmin.com/postings/9851",
+      "direct_url": "https://nocccd.peopleadmin.com/postings/9851",
+      "date_posted": "2026-08-19T16:47:11.000Z",
+      "description": "Bachelor’s degree, four years of related training or work experience, and three years of increasingly responsible professional experience in customer service and program coordination. Valid driver’s license required.",
+      "salary": "$83k–$100k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "Telecommute eligible",
       "ats": "HiringCafe"
     },
     {
@@ -872,20 +872,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Florida International University",
-      "title": "Temporary Program Coordinator",
-      "location": "Miami, Florida, United States",
-      "url": "https://pslinks.fiu.edu/psc/jobs/CUSTOMER/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&Action=U&FOCUS=Applicant&JobOpeningId=537905&PostingSeq=1&SiteId=1000",
-      "direct_url": "https://pslinks.fiu.edu/psc/jobs/CUSTOMER/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&Action=U&FOCUS=Applicant&JobOpeningId=537905&PostingSeq=1&SiteId=1000",
-      "date_posted": "2026-07-21T12:00:00.000Z",
-      "description": "Bachelor's degree or 4 years office/related experience; experience coordinating education/outreach programs, managing interns, and reporting for grants.",
-      "salary": "$37k/yr",
-      "job_type": "Temporary",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Community Counseling Center",
       "title": "Program Coordinator",
       "location": "Bollinger County or Cape Girardeau or Cape Girardeau County or Perry County",
@@ -977,6 +963,20 @@
       "direct_url": "https://www.lassencounty.gov/Jobs.aspx?UniqueId=114&From=All&CommunityJobs=False&JobID=Public-Health-Program-Coordinator-42",
       "date_posted": "2026-08-05T08:00:00.000Z",
       "description": "Plan, coordinate, and monitor county public health nursing and community service programs.",
+      "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "City of Fort Myers, FL",
+      "title": "PAL Program Coordinator",
+      "location": "Fort Myers, Florida, United States",
+      "url": "https://www.governmentjobs.com/careers/fortmyersfl/jobs/5057607",
+      "direct_url": "https://www.governmentjobs.com/careers/fortmyersfl/jobs/5057607",
+      "date_posted": "2026-07-30T18:38:01.649Z",
+      "description": "Coordinate and manage recreational programs, facilities, events and staff; supervise employees; pursue grants/sponsorships; possess relevant degree/experience and meet DCF Level II screening and drug testing requirements.",
       "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
@@ -1138,6 +1138,20 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "Houston County Minnesota",
+      "title": "Community Health Worker",
+      "location": "Caledonia, Minnesota, United States",
+      "url": "https://www.governmentjobs.com/careers/houstonmn/jobs/5441794",
+      "direct_url": "https://www.governmentjobs.com/careers/houstonmn/jobs/5441794",
+      "date_posted": "2026-08-10T22:01:08.387Z",
+      "description": "High school diploma or equivalent, one year of related community health experience, CHW certificate or ability to obtain within one year, Minnesota DHS Merit qualification, and background check.",
+      "salary": "$49k–$64k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
       "company": "Nevada Behavioral Health / NovumHealth",
       "title": "Community Health Worker",
       "location": "Las Vegas, Nevada, United States",
@@ -1206,21 +1220,50 @@
       "is_remote": false,
       "work_arrangement": "On-site",
       "ats": "HiringCafe"
+    }
+  ],
+  "new_jobs": [
+    {
+      "company": "Trinityhealth",
+      "title": "Social Worker",
+      "location": "Hartford, Connecticut, United States",
+      "url": "https://trinityhealth.wd1.myworkdayjobs.com/jobs/job/Saint-Francis-Hospital---Hartford-CT/Social-Worker_00688899",
+      "direct_url": "https://trinityhealth.wd1.myworkdayjobs.com/jobs/job/Saint-Francis-Hospital---Hartford-CT/Social-Worker_00688899",
+      "date_posted": "2026-08-19T00:00:00.000Z",
+      "description": "Master's degree, valid Connecticut social worker license with LCSW, and two years of related professional experience required. Strong oral and written communication and analytical skills needed.",
+      "salary": "",
+      "job_type": "Part Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
     },
     {
-      "company": "AIDS Healthcare Foundation",
-      "title": "Community Health Worker",
-      "location": "Houston, Texas, United States",
-      "url": "https://myjobs.adp.com/ahfexternalcareers/cx/job-details?reqId=5001210196406",
-      "direct_url": "https://myjobs.adp.com/ahfexternalcareers/cx/job-details?reqId=5001210196406",
-      "date_posted": "2026-07-24T15:18:16.000Z",
-      "description": "High school diploma required; associate/bachelor's in public health or related preferred; ~3 years related experience or equivalent; outreach, patient engagement, and care navigation experience.",
+      "company": "City of Fort Myers, FL",
+      "title": "PAL Program Coordinator",
+      "location": "Fort Myers, Florida, United States",
+      "url": "https://www.governmentjobs.com/careers/fortmyersfl/jobs/5057607",
+      "direct_url": "https://www.governmentjobs.com/careers/fortmyersfl/jobs/5057607",
+      "date_posted": "2026-07-30T18:38:01.649Z",
+      "description": "Coordinate and manage recreational programs, facilities, events and staff; supervise employees; pursue grants/sponsorships; possess relevant degree/experience and meet DCF Level II screening and drug testing requirements.",
       "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
       "ats": "HiringCafe"
+    },
+    {
+      "company": "Houston County Minnesota",
+      "title": "Community Health Worker",
+      "location": "Caledonia, Minnesota, United States",
+      "url": "https://www.governmentjobs.com/careers/houstonmn/jobs/5441794",
+      "direct_url": "https://www.governmentjobs.com/careers/houstonmn/jobs/5441794",
+      "date_posted": "2026-08-10T22:01:08.387Z",
+      "description": "High school diploma or equivalent, one year of related community health experience, CHW certificate or ability to obtain within one year, Minnesota DHS Merit qualification, and background check.",
+      "salary": "$49k–$64k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
     }
-  ],
-  "new_jobs": []
+  ]
 }
