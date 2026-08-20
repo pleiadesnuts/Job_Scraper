@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-19 23:20 UTC",
+  "scraped_at": "2026-08-20 00:08 UTC",
   "total": 8,
-  "new_count": 1,
+  "new_count": 0,
   "jobs": [
     {
       "company": "Banner Health",
@@ -148,24 +148,5 @@
       "ats": "Indeed"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Koniag Government Services",
-      "title": "Program Coordinator (REMOTE)",
-      "location": "Remote, US",
-      "url": "https://www.indeed.com/viewjob?jk=78c8507d98771216",
-      "direct_url": "https://jobs.dayforcehcm.com/en-US/kgs/CANDIDATEPORTAL/jobs/10861",
-      "company_url": "https://www.indeed.com/cmp/Koniag-Government-Services-3",
-      "date_posted": "2026-08-19",
-      "description": "Koniag Service Inc, a Koniag Government Services company, is seeking a Program Coordinator to support KSI and our government customer. This position requires the candidate to be able to obtain a Public Trust. The position is remote.\n  \n  \n\nWe offer competitive compensation and an extraordinary benefits package including health, dental and vision insurance, 401K with company matching, flexible spending accounts, paid holidays, three weeks paid time off, and more.\n  \n  \n\nKoniag Services Inc., a Koniag Government Services company, is seeking an experienced Program Coordinator to support the leadership and oversight of IT Call Center operations in support of our government clients in the Nashville, Tennessee area and other Koniag Customers as required. The ideal candidate is a highly organized and collaborative leader with a strong background in IT service desk and call center operations within a federal government environment. They bring a hands\\-on management style, exceptional communication skills, and a commitment to delivering outstanding service to government end users.\n  \n  \n\nThe Program Coordinator will support Program Managers and will provide essential back\\-office support across multiple large program teams. This individual will play a key role in maintaining program structure, financial integrity, documentation quality, and subcontractor coordination.\n  \n  \n\nPrincipal responsibilities will include but are not limited to:\n  \n* Organizational Support: Provide a high level of organization and structure across multiple large program teams, ensuring workflows, schedules, and communications are consistently maintained and aligned with program objectives.\n* Invoice Verification: Review vendor and subcontractor invoices for accuracy, ensuring charges are consistent with contractual agreements, approved scopes of work, and applicable billing periods.\n* Timecard Reconciliation: Cross\\-reference logged hours against approved project work packages to identify discrepancies, ensure accurate labor reporting, and support compliance with contract requirements.\n* Burn Rate Modeling: Calculate and monitor monthly spending rates against program budgets to identify trends, flag potential funding shortfalls, and provide actionable financial insights to program leadership.\n* Staffing Training Matrix Maintenance: Track personnel training assignments, start dates, and completion dates to ensure all staff meet contractual and programmatic training requirements.\n* Monthly Status Reports: Prepare comprehensive financial and operational health decks for program directors, summarizing key metrics, budget status, risks, and program highlights in a clear and executive\\-ready format.\n* Quality Control: Support the development, review, and alignment of Standard Operating Procedures (SOPs) to ensure consistency, compliance, and operational efficiency across program teams in coordination with Program Managers.\n* Artifact Configuration Management: Maintain version control over key program documentation, contracts, change orders, and other controlled artifacts, ensuring accessibility and accuracy of all program records.\n* Review Cycle Gatekeeping: Coordinate peer reviews for major program deliverables, ensuring all materials meet internal quality standards prior to submission or distribution to stakeholders.\n* Back Office Coordination and Support: Provide general administrative and operational support to program leadership, including meeting coordination, action item tracking, and internal communications management.\n* Subcontractor Delivery Support: Assist in monitoring and coordinating subcontractor deliverables, ensuring timely submission and alignment with contractual obligations and program expectations.\n\n\n**Education and Experience:****Required:**  \n\n* Bachelor's degree in Business Administration, Information Technology, Project Management, or a related field from an accredited college or university.\n* 3–5 years of progressive experience in program coordination, project support, or operations management within a federal government contracting environment.\n* Demonstrated experience supporting program financial activities including invoice review, budget tracking, or burn rate analysis.\n* Experience maintaining program documentation and artifacts in a structured, version\\-controlled environment.\n* Familiarity with subcontractor management and contract deliverable tracking.\n\n\n**Preferred:**  \n\n* Prior experience supporting federal IT services contracts in a coordination or administrative leadership capacity.\n* Experience supporting multiple concurrent programs or large multi\\-team program environments.\n\n\n**Required Skills and Competencies:**  \n\n* Exceptional organizational skills with the ability to manage multiple priorities, deadlines, and workstreams simultaneously across large program teams.\n* Strong written and verbal communication skills in English, with the ability to prepare clear, professional reports and briefing materials for program directors and government stakeholders.\n* Proficiency in financial tracking and analysis, including invoice verification, timecard reconciliation, and burn rate modeling.\n* Experience developing and maintaining SOPs, configuration\\-managed documentation, and program artifacts.\n* Proficiency in Microsoft Office Suite (Word, Excel, PowerPoint, Outlook), with advanced Excel skills preferred for financial modeling and reporting.\n* Proficiency in collaboration and document management tools such as Microsoft Teams and SharePoint.\n* Strong attention to detail and quality control orientation, with demonstrated experience coordinating review cycles and enforcing documentation standards.\n* Ability to work independently in a fully remote environment while maintaining strong communication and collaboration with distributed teams.\n\n\n**Security Requirement:**  \n\n* Ability to obtain and maintain a government Public Trust clearance as required.\n\n\n**Desired Skills and Competencies:**  \n\n* Pr",
-      "salary": "",
-      "salary_source": "",
-      "salary_currency": "",
-      "job_type": "fulltime",
-      "is_remote": true,
-      "work_arrangement": "Remote in-state eligible",
-      "emails": "",
-      "ats": "Indeed"
-    }
-  ]
+  "new_jobs": []
 }
