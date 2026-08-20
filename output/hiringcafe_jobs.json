@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-20 17:38 UTC",
-  "total": 87,
-  "new_count": 3,
+  "scraped_at": "2026-08-20 18:35 UTC",
+  "total": 88,
+  "new_count": 1,
   "jobs": [
     {
       "company": "Pittsburgh Public Schools",
@@ -298,20 +298,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Elida Local School District",
-      "title": "Social Worker",
-      "location": "Elida, Ohio, United States",
-      "url": "https://www.schoolspring.com/jobdetail?jobId=5871675",
-      "direct_url": "https://www.schoolspring.com/jobdetail?jobId=5871675",
-      "date_posted": "2026-08-05T00:00:00.000Z",
-      "description": "Licensed social worker (LSW/LISW) with an Ohio Pupil Services license or ability to obtain one; at least 1 year of relevant experience preferred and a master's degree preferred.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Trinityhealth",
       "title": "Social Worker",
       "location": "Hartford, Connecticut, United States",
@@ -321,6 +307,20 @@
       "description": "Master's degree, valid Connecticut social worker license with LCSW, and two years of related professional experience required. Strong oral and written communication and analytical skills needed.",
       "salary": "",
       "job_type": "Part Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Elida Local School District",
+      "title": "Social Worker",
+      "location": "Elida, Ohio, United States",
+      "url": "https://www.schoolspring.com/jobdetail?jobId=5871675",
+      "direct_url": "https://www.schoolspring.com/jobdetail?jobId=5871675",
+      "date_posted": "2026-08-05T00:00:00.000Z",
+      "description": "Licensed social worker (LSW/LISW) with an Ohio Pupil Services license or ability to obtain one; at least 1 year of relevant experience preferred and a master's degree preferred.",
+      "salary": "",
+      "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
       "ats": "HiringCafe"
@@ -970,6 +970,20 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "Goodwill Industries of Southwest Florida",
+      "title": "Program Coordinator - MicroEnterprise",
+      "location": "Fort Myers, Florida, United States",
+      "url": "https://goodwillswfl.applicantpro.com/jobs/4169156",
+      "direct_url": "https://goodwillswfl.applicantpro.com/jobs/4169156",
+      "date_posted": "2026-08-06T00:00:00.000Z",
+      "description": "High school diploma or GED and two years of experience in program coordination, workforce development, education, nonprofit management, or small business support. Requires Florida driver's license and strong communication skills.",
+      "salary": "$44k–$47k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
       "company": "City of Fort Myers, FL",
       "title": "PAL Program Coordinator",
       "location": "Fort Myers, Florida, United States",
@@ -1224,42 +1238,14 @@
   ],
   "new_jobs": [
     {
-      "company": "Trinityhealth",
-      "title": "Social Worker",
-      "location": "Hartford, Connecticut, United States",
-      "url": "https://trinityhealth.wd1.myworkdayjobs.com/jobs/job/Saint-Francis-Hospital---Hartford-CT/Social-Worker_00688899",
-      "direct_url": "https://trinityhealth.wd1.myworkdayjobs.com/jobs/job/Saint-Francis-Hospital---Hartford-CT/Social-Worker_00688899",
-      "date_posted": "2026-08-19T00:00:00.000Z",
-      "description": "Master's degree, valid Connecticut social worker license with LCSW, and two years of related professional experience required. Strong oral and written communication and analytical skills needed.",
-      "salary": "",
-      "job_type": "Part Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "City of Fort Myers, FL",
-      "title": "PAL Program Coordinator",
+      "company": "Goodwill Industries of Southwest Florida",
+      "title": "Program Coordinator - MicroEnterprise",
       "location": "Fort Myers, Florida, United States",
-      "url": "https://www.governmentjobs.com/careers/fortmyersfl/jobs/5057607",
-      "direct_url": "https://www.governmentjobs.com/careers/fortmyersfl/jobs/5057607",
-      "date_posted": "2026-07-30T18:38:01.649Z",
-      "description": "Coordinate and manage recreational programs, facilities, events and staff; supervise employees; pursue grants/sponsorships; possess relevant degree/experience and meet DCF Level II screening and drug testing requirements.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Houston County Minnesota",
-      "title": "Community Health Worker",
-      "location": "Caledonia, Minnesota, United States",
-      "url": "https://www.governmentjobs.com/careers/houstonmn/jobs/5441794",
-      "direct_url": "https://www.governmentjobs.com/careers/houstonmn/jobs/5441794",
-      "date_posted": "2026-08-10T22:01:08.387Z",
-      "description": "High school diploma or equivalent, one year of related community health experience, CHW certificate or ability to obtain within one year, Minnesota DHS Merit qualification, and background check.",
-      "salary": "$49k–$64k/yr",
+      "url": "https://goodwillswfl.applicantpro.com/jobs/4169156",
+      "direct_url": "https://goodwillswfl.applicantpro.com/jobs/4169156",
+      "date_posted": "2026-08-06T00:00:00.000Z",
+      "description": "High school diploma or GED and two years of experience in program coordination, workforce development, education, nonprofit management, or small business support. Requires Florida driver's license and strong communication skills.",
+      "salary": "$44k–$47k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
