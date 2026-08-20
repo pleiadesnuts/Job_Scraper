@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-19 23:33 UTC",
-  "total": 90,
-  "new_count": 1,
+  "scraped_at": "2026-08-20 00:38 UTC",
+  "total": 87,
+  "new_count": 0,
   "jobs": [
     {
       "company": "Pittsburgh Public Schools",
@@ -438,20 +438,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Applied ABC",
-      "title": "Case Manager",
-      "location": "Hollywood, Florida, United States",
-      "url": "https://jobs.apploi.com/view/1904636?utm_campaign=integration&utm_medium=job-board-search&utm_source=None&ajs_event=LOAD_JOB_PAGE&ajs_aid=3f617530-4530-11e9-a2ca-7e775511d9e3&ajs_prop_search_fetch_id=7650383f14b94e85913dd2eeda7bbcd3&ajs_prop_keyword=&ajs_prop_page=1&ajs_prop_city_center=Unselected&ajs_prop_search_order=5&ajs_prop_job_id=1904636&ajs_prop_doc_type=job&ajs_prop_job_location_lat=26.0098511&ajs_prop_job_location_lon=-80.159142&ajs_prop_boosted=0&ajs_prop_utm_source=None&ajs_prop_utm_medium=job-board-search&ajs_prop_utm_campaign=integration",
-      "direct_url": "https://jobs.apploi.com/view/1904636?utm_campaign=integration&utm_medium=job-board-search&utm_source=None&ajs_event=LOAD_JOB_PAGE&ajs_aid=3f617530-4530-11e9-a2ca-7e775511d9e3&ajs_prop_search_fetch_id=7650383f14b94e85913dd2eeda7bbcd3&ajs_prop_keyword=&ajs_prop_page=1&ajs_prop_city_center=Unselected&ajs_prop_search_order=5&ajs_prop_job_id=1904636&ajs_prop_doc_type=job&ajs_prop_job_location_lat=26.0098511&ajs_prop_job_location_lon=-80.159142&ajs_prop_boosted=0&ajs_prop_utm_source=None&ajs_prop_utm_medium=job-board-search&ajs_prop_utm_campaign=integration",
-      "date_posted": "2026-07-21T00:00:00.000Z",
-      "description": "Spanish-speaking case manager with 2+ years office experience; case management or family support in ABA preferred; HIPAA compliance, Microsoft Suite proficiency, strong prioritization and communication skills.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Silence Aloud Inc",
       "title": "Case Manager",
       "location": "Moreno Valley, California, United States",
@@ -746,20 +732,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Uasys",
-      "title": "Program Coordinator",
-      "location": "Little Rock, Arkansas, United States",
-      "url": "https://uasys.wd5.myworkdayjobs.com/uams_all_careers/job/UAMS/Program-Coordinator_R0089194",
-      "direct_url": "https://uasys.wd5.myworkdayjobs.com/uams_all_careers/job/UAMS/Program-Coordinator_R0089194",
-      "date_posted": "2026-08-04T00:00:00.000Z",
-      "description": "Coordinate administration of psychiatry clerkship, electives, and forensic fellowship; curriculum support; program data management; ACGME accreditation support; strong communication, organizational and confidential record-keeping skills.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "North Orange County Community College District",
       "title": "Program Coordinator",
       "location": "Anaheim or Cypress",
@@ -771,6 +743,20 @@
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "Telecommute eligible",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Uasys",
+      "title": "Program Coordinator",
+      "location": "Little Rock, Arkansas, United States",
+      "url": "https://uasys.wd5.myworkdayjobs.com/uams_all_careers/job/UAMS/Program-Coordinator_R0089194",
+      "direct_url": "https://uasys.wd5.myworkdayjobs.com/uams_all_careers/job/UAMS/Program-Coordinator_R0089194",
+      "date_posted": "2026-08-04T00:00:00.000Z",
+      "description": "Coordinate administration of psychiatry clerkship, electives, and forensic fellowship; curriculum support; program data management; ACGME accreditation support; strong communication, organizational and confidential record-keeping skills.",
+      "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
       "ats": "HiringCafe"
     },
     {
@@ -1054,20 +1040,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Community Health Service Inc.",
-      "title": "Community Health Worker",
-      "location": "Grafton, North Dakota, United States",
-      "url": "https://chsiclinics.applicantpro.com/jobs/4153851",
-      "direct_url": "https://chsiclinics.applicantpro.com/jobs/4153851",
-      "date_posted": "2026-07-21T00:00:00.000Z",
-      "description": "Certified community/traditional health worker; knowledge of HIPAA; valid driver\\u0002s license and ability to travel; Microsoft Office skills; excellent communication and organizational skills.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "East Central District Health Department/Good Neighbor Community Health Center",
       "title": "Community Health Worker",
       "location": "Columbus, Nebraska, United States",
@@ -1166,20 +1138,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Houston County Minnesota",
-      "title": "Community Health Worker",
-      "location": "Caledonia, Minnesota, United States",
-      "url": "https://www.governmentjobs.com/careers/houstonmn/jobs/5441794",
-      "direct_url": "https://www.governmentjobs.com/careers/houstonmn/jobs/5441794",
-      "date_posted": "2026-08-10T22:01:08.387Z",
-      "description": "High school diploma or equivalent, one year of related community health experience, CHW certificate or ability to obtain within one year, Minnesota DHS Merit qualification, and background check.",
-      "salary": "$49k–$64k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Nevada Behavioral Health / NovumHealth",
       "title": "Community Health Worker",
       "location": "Las Vegas, Nevada, United States",
@@ -1264,20 +1222,5 @@
       "ats": "HiringCafe"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Koniag Government Services",
-      "title": "Program Coordinator (REMOTE)",
-      "location": "Nashville, Tennessee, United States",
-      "url": "https://jobs.dayforcehcm.com/en-US/kgs/candidateportal/jobs/10861",
-      "direct_url": "https://jobs.dayforcehcm.com/en-US/kgs/candidateportal/jobs/10861",
-      "date_posted": "2026-08-19T04:00:00.000Z",
-      "description": "Bachelor's degree and 3–5 years of program coordination, project support, or operations management in federal contracting; requires financial tracking, documentation, subcontractor coordination, and advanced Microsoft Office skills.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": true,
-      "work_arrangement": "Remote in-state eligible",
-      "ats": "HiringCafe"
-    }
-  ]
+  "new_jobs": []
 }
