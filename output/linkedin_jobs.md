@@ -1,187 +1,172 @@
 # 🔥 LinkedIn — Social Worker Roles
-*Last updated: 2026-08-21 03:41 UTC*
+*Last updated: 2026-08-21 16:11 UTC*
 
-**42 new role(s)** since last run · 42 total in last 1h
+**38 new role(s)** since last run · 40 total in last 1h
 
-### [Behavioral Health Case Manager](https://www.linkedin.com/jobs/view/4453676897/) — Elevance Health
-- 📍 **Location:** Atlanta, GA
+### [Case Manager, RN](https://www.linkedin.com/jobs/view/4457356408/) — Imagine360
+- 📍 **Location:** United States
 - 🕒 **Posted:** 2026-08-21
 
-### [Behavioral Health Case Manager I](https://www.linkedin.com/jobs/view/4441264363/) — Elevance Health
-- 📍 **Location:** Roanoke, VA
-- 💰 **Salary:** $61,028.00 to $96,360.00
+### [Bilingual Housing Case Manager](https://www.linkedin.com/jobs/view/4456256056/) — Volunteers of America Colorado
+- 📍 **Location:** Lakewood, CO
 - 🕒 **Posted:** 2026-08-21
 
-### [School Based Behavioral Health Specialist](https://www.linkedin.com/jobs/view/4457057584/) — Caron Treatment Centers
-- 📍 **Location:** Wernersville, PA
+### [Bilingual Housing Case Manager-Theodora Family Hotel](https://www.linkedin.com/jobs/view/4456274024/) — Volunteers of America Colorado
+- 📍 **Location:** Denver, CO
+- 💰 **Salary:** $22.00-$23.00/hr
 - 🕒 **Posted:** 2026-08-21
 
-### [High Needs Case Manager](https://www.linkedin.com/jobs/view/4454177266/) — Horizon Health and Wellness
-- 📍 **Location:** Chandler, AZ
+### [Medical Assistant Supervisor](https://www.linkedin.com/jobs/view/4456241363/) — OnPoint Medical Group
+- 📍 **Location:** Littleton, CO
+- 💰 **Salary:** $27.00 to $32.00 Hourly
 - 🕒 **Posted:** 2026-08-21
 
-### [Case Manager - Community Guardianship Program](https://www.linkedin.com/jobs/view/4457059392/) — Selfhelp Community Services
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $50,000 - $52,400 per year
+### [Patient Care Coordinator - South Denver OB-GYN](https://www.linkedin.com/jobs/view/4456234437/) — OnPoint Medical Group
+- 📍 **Location:** Littleton, CO
+- 💰 **Salary:** $20 - $24
 - 🕒 **Posted:** 2026-08-21
 
-### [SOCIAL WORKER (MA/MSW)](https://www.linkedin.com/jobs/view/4454179014/) — Peachford Hospital
-- 📍 **Location:** Atlanta, GA
+### [Program Manager-Veteran Housing Program (GPD)](https://www.linkedin.com/jobs/view/4456261032/) — Volunteers of America Colorado
+- 📍 **Location:** Denver, CO
+- 💰 **Salary:** $60,000-$65,000
 - 🕒 **Posted:** 2026-08-21
 
-### [Social Worker - BSW](https://www.linkedin.com/jobs/view/4457065491/) — National HealthCare Corporation (NHC)
-- 📍 **Location:** Maryland Heights, MO
+### [Front Office Supervisor - Harvard Park](https://www.linkedin.com/jobs/view/4456228509/) — OnPoint Medical Group
+- 📍 **Location:** Denver, CO
+- 💰 **Salary:** $26 - $30
 - 🕒 **Posted:** 2026-08-21
 
-### [Case Manager](https://www.linkedin.com/jobs/view/4457054653/) — Trinity Health
-- 📍 **Location:** Pontiac, MI
+### [Licensed Fee for Service Social Worker - Hybrid](https://www.linkedin.com/jobs/view/4457370077/) — Jewish Board of Family and Children's Services
+- 📍 **Location:** Staten Island, NY
 - 🕒 **Posted:** 2026-08-21
 
-### [Case Manager](https://www.linkedin.com/jobs/view/4454156494/) — Trinity Health MI
-- 📍 **Location:** Pontiac, MI
+### [Medical Social Worker - Liver Transplant - FT](https://www.linkedin.com/jobs/view/4456239350/) — Atrium Health
+- 📍 **Location:** Charlotte, NC
+- 💰 **Salary:** $30.70 - $46.05
 - 🕒 **Posted:** 2026-08-21
 
-### [Patient Care Coordinator](https://www.linkedin.com/jobs/view/4453492242/) — Cencora
-- 📍 **Location:** Texas, United States
+### [Extension Program Coordinator (4-H) - University of Illinois Extension](https://www.linkedin.com/jobs/view/4447234027/) — University of Illinois Urbana-Champaign
+- 📍 **Location:** Quincy, IL
 - 🕒 **Posted:** 2026-08-21
 
-### [Community Program Coordinator](https://www.linkedin.com/jobs/view/4456125157/) — Mount Royal University
-- 📍 **Location:** Calgary, Alberta, Canada
-- 💰 **Salary:** $61,170.20 - $77,404.60
+### [Trauma Program Coordinator](https://www.linkedin.com/jobs/view/4447231272/) — MultiCare Health System
+- 📍 **Location:** Tacoma, WA
+- 💰 **Salary:** $145,808.00 - $205,545.60 USD
 - 🕒 **Posted:** 2026-08-21
 
-### [Community Wellness Health Educator Specialist](https://www.linkedin.com/jobs/view/4454155487/) — SouthEast Alaska Regional Health Consortium (SEARHC)
-- 📍 **Location:** Juneau, AK
-- 💰 **Salary:** $26.06 - $36.08
+### [Administrative Program Coordinator/ Council on International Educational Exchange, (CIEE)](https://www.linkedin.com/jobs/view/4456250052/) — Tulane University
+- 📍 **Location:** New Orleans, LA
 - 🕒 **Posted:** 2026-08-21
 
-### [Peer Support Specialist (Foster Care-Catawba County)](https://www.linkedin.com/jobs/view/4440941666/) — Elevance Health
-- 📍 **Location:** Winston-Salem, NC
+### [Senior Shift Supervisor](https://www.linkedin.com/jobs/view/4454633838/) — St. Vincent de Paul of Baltimore
+- 📍 **Location:** Reisterstown, MD
+- 💰 **Salary:** $21.00/hr - $23.00/hr
 - 🕒 **Posted:** 2026-08-21
 
-### [Point of Care Coordinator - Clinical Lab](https://www.linkedin.com/jobs/view/4457065542/) — Trinity Health
-- 📍 **Location:** Maywood, IL
-- 💰 **Salary:** $31.06-$48.15
+### [Volunteer Grant Writer and Lead Fundraiser to Expand Innovative Food Security System in Haiti with RADIKAL](https://www.linkedin.com/jobs/view/4447290697/) — RADIKAL
+- 📍 **Location:** NAMER
 - 🕒 **Posted:** 2026-08-21
 
-### [Wound Program Coordinator](https://www.linkedin.com/jobs/view/4457067363/) — Encompass Health
-- 📍 **Location:** Las Vegas, NV
-- 💰 **Salary:** $40.00/hr - $55.00/hr
+### [Volunteer Grant Writer and Lead Fundraiser to Expand Innovative Food Security System in Haiti with RADIKAL](https://www.linkedin.com/jobs/view/4447285839/) — RADIKAL
+- 📍 **Location:** European Union
 - 🕒 **Posted:** 2026-08-21
 
-### [Wound Program Coordinator](https://www.linkedin.com/jobs/view/4457055486/) — Encompass Health
-- 📍 **Location:** San Angelo, TX
-- 💰 **Salary:** $43.00/hr - $56.00/hr
+### [Integrated Care & Community Health Program Manager](https://www.linkedin.com/jobs/view/4435698435/) — University of Minnesota
+- 📍 **Location:** Minneapolis, MN
+- 💰 **Salary:** $86,000 - $93,000/annually
 - 🕒 **Posted:** 2026-08-21
 
-### [Housing Specialist](https://www.linkedin.com/jobs/view/4456097027/) — Hackensack Meridian Health
-- 📍 **Location:** Iselin, NJ
+### [Licensed Master Social Worker  - Children's  Outpatient Behavioral Health](https://www.linkedin.com/jobs/view/4457376012/) — Trinity Health
+- 📍 **Location:** Syracuse, NY
+- 💰 **Salary:** $31.37 - $47.50
 - 🕒 **Posted:** 2026-08-21
 
-### [Social Worker](https://www.linkedin.com/jobs/view/4456077235/) — Farmington Municipal Schools
-- 📍 **Location:** Farmington, NM
+### [Social Worker](https://www.linkedin.com/jobs/view/4447077077/) — DC Department of Human Resources
+- 📍 **Location:** Washington, DC
+- 💰 **Salary:** $72,985 - $90,004
 - 🕒 **Posted:** 2026-08-21
 
-### [Social Worker](https://www.linkedin.com/jobs/view/4457054628/) — Brant Community Healthcare System
+### [Care Management Social Worker](https://www.linkedin.com/jobs/view/4457019332/) — AdventHealth
+- 📍 **Location:** Altamonte Springs, FL
+- 💰 **Salary:** $23.71 - $44.09
+- 🕒 **Posted:** 2026-08-21
+
+### [Social Worker Outpatient](https://www.linkedin.com/jobs/view/4447285529/) — HCA Healthcare
+- 📍 **Location:** Manchester, NH
+- 🕒 **Posted:** 2026-08-21
+
+### [Social Worker Case Management](https://www.linkedin.com/jobs/view/4446799984/) — Ascension
+- 📍 **Location:** Milwaukee, WI
+- 🕒 **Posted:** 2026-08-21
+
+### [Social Worker](https://www.linkedin.com/jobs/view/4457363085/) — Brant Community Healthcare System
 - 📍 **Location:** Brantford, Ontario, Canada
 - 🕒 **Posted:** 2026-08-21
 
-### [Social Worker](https://www.linkedin.com/jobs/view/4449883407/) — Elysium Healthcare
-- 📍 **Location:** Hertfordshire, England, United Kingdom
+### [LTSS Service Coordinator - Case Manager (Region H: Broward County)](https://www.linkedin.com/jobs/view/4436470380/) — Elevance Health
+- 📍 **Location:** Fort Lauderdale, FL
 - 🕒 **Posted:** 2026-08-21
 
-### [Long Term Sub for School Social Worker - Christa McAuliffe Elementary](https://www.linkedin.com/jobs/view/4457059598/) — Hastings Public Schools
-- 📍 **Location:** Hastings, MN
+### [Patient Care Coordinator](https://www.linkedin.com/jobs/view/4457342896/) — Gameday Men's Health - Louisville
+- 📍 **Location:** Louisville Metropolitan Area
 - 🕒 **Posted:** 2026-08-21
 
-### [Case Manager](https://www.linkedin.com/jobs/view/4454165333/) — Volunteers of America-Greater New York
-- 📍 **Location:** New York, NY
+### [Resident Program Coordinator - Assisted Living](https://www.linkedin.com/jobs/view/4457355423/) — Senior Lifestyle
+- 📍 **Location:** Auburn, ME
 - 🕒 **Posted:** 2026-08-21
 
-### [Floating Housing Case Manager - Orange County](https://www.linkedin.com/jobs/view/4454171196/) — Jamboree Housing Corporation
-- 📍 **Location:** Santa Ana, CA
-- 💰 **Salary:** $23–$27/hour
+### [Supervisor, Hearing Care Counselling](https://www.linkedin.com/jobs/view/4454638804/) — Canadian Hearing Services
+- 📍 **Location:** Toronto, Ontario, Canada
 - 🕒 **Posted:** 2026-08-21
 
-### [Case Manager Specialist](https://www.linkedin.com/jobs/view/4454154636/) — Volunteers of America Los Angeles
-- 📍 **Location:** Los Angeles, CA
-- 💰 **Salary:** $23.98 - $25.24 Per Hour
+### [Health Homes - Care Coordinator - Troy NY](https://www.linkedin.com/jobs/view/4447098247/) — IHA
+- 📍 **Location:** Troy, NY
+- 💰 **Salary:** $21.20 - $28.55
 - 🕒 **Posted:** 2026-08-21
 
-### [CLINICAL SOCIAL WORKER (HEALTH/CORRECTIONAL FACILITY) - SAFETY](https://www.linkedin.com/jobs/view/4456071999/) — California Department of State Hospitals
-- 📍 **Location:** San Luis Obispo County, CA
-- 💰 **Salary:** $8,265.00/mo - $10,066.00/mo
+### [Care Coordinator](https://www.linkedin.com/jobs/view/4456260021/) — Traditional Home Care
+- 📍 **Location:** Williamsport, PA
 - 🕒 **Posted:** 2026-08-21
 
-### [Community Health Worker II](https://www.linkedin.com/jobs/view/4457053641/) — Baylor Scott & White Health
-- 📍 **Location:** Temple, TX
+### [Patient Care Coordinator (Outpatient), Day Shift, Full-time](https://www.linkedin.com/jobs/view/4456261022/) — Adventist Health
+- 📍 **Location:** Angwin, CA
+- 💰 **Salary:** $25.00 to $30.45
 - 🕒 **Posted:** 2026-08-21
 
-### [Social Worker](https://www.linkedin.com/jobs/view/4457001897/) — Specialized Education Services, Inc.
-- 📍 **Location:** Sherman, TX
-- 💰 **Salary:** USD $60,000.00 - USD $65,000.00 /Yr
+### [RN-Case Manager](https://www.linkedin.com/jobs/view/4419860365/) — Baptist Memorial Health Care
+- 📍 **Location:** Huntingdon, TN
 - 🕒 **Posted:** 2026-08-21
 
-### [Case Manager](https://www.linkedin.com/jobs/view/4454157479/) — Volunteers of America-Greater New York
-- 📍 **Location:** Bronx, NY
+### [Registered Nurse (RN) - Case Manager](https://www.linkedin.com/jobs/view/4457362143/) — Tenet Healthcare
+- 📍 **Location:** El Paso, TX
 - 🕒 **Posted:** 2026-08-21
 
-### [Wound Program Coordinator](https://www.linkedin.com/jobs/view/4457053603/) — Encompass Health
-- 📍 **Location:** Boise, ID
+### [SSVF Stabilization Case Manager](https://www.linkedin.com/jobs/view/4456236538/) — New England Center and Home for Veterans
+- 📍 **Location:** Boston, MA
+- 💰 **Salary:** $50,000-$55,000
 - 🕒 **Posted:** 2026-08-21
 
-### [Employee Health Supervisor](https://www.linkedin.com/jobs/view/4450033701/) — Northside Hospital
-- 📍 **Location:** Atlanta, GA
+### [Youth Program Manager](https://www.linkedin.com/jobs/view/4457355044/) — The Little Gym International
+- 📍 **Location:** Flower Mound, TX
 - 🕒 **Posted:** 2026-08-21
 
-### [Community Health Educator Screening RN](https://www.linkedin.com/jobs/view/4456078256/) — Hackensack Meridian Health
-- 📍 **Location:** Holmdel, NJ
+### [CLINICAL SUPERVISOR](https://www.linkedin.com/jobs/view/4438850859/) — DC Department of Human Resources
+- 📍 **Location:** Washington, DC
 - 🕒 **Posted:** 2026-08-21
 
-### [Volunteer Coordinator](https://www.linkedin.com/jobs/view/4454135435/) — OhioHealth
-- 📍 **Location:** Columbus, OH
+### [Behavioral Health Specialist](https://www.linkedin.com/jobs/view/4457370031/) — Venture Community Services
+- 📍 **Location:** Sturbridge, MA
+- 💰 **Salary:** $23-$27/hour
 - 🕒 **Posted:** 2026-08-21
 
-### [Case Manager](https://www.linkedin.com/jobs/view/4457064397/) — Encompass Health
-- 📍 **Location:** Kissimmee, FL
-- 💰 **Salary:** $40.00/hr - $42.00/hr
+### [Social Worker (Licensed)](https://www.linkedin.com/jobs/view/4457359135/) — Jewish Board of Family and Children's Services
+- 📍 **Location:** Staten Island, NY
 - 🕒 **Posted:** 2026-08-21
 
-### [Case Manager II](https://www.linkedin.com/jobs/view/4457070379/) — Encompass Health
-- 📍 **Location:** Kingsport, TN
-- 💰 **Salary:** $27.00/hr - $40.00/hr
+### [Social Worker, Senior Medical /Oibrí Sóisialta Sinsearach Míochaine 84MUH2026](https://www.linkedin.com/jobs/view/4454637766/) — Health Service Executive
+- 📍 **Location:** County Mayo, Ireland
 - 🕒 **Posted:** 2026-08-21
 
-### [Case Manager](https://www.linkedin.com/jobs/view/4456072943/) — Aiken Regional Medical Centers
-- 📍 **Location:** Aiken, SC
-- 🕒 **Posted:** 2026-08-21
-
-### [Patient Care Coordinator](https://www.linkedin.com/jobs/view/4445557011/) — Cencora
-- 📍 **Location:** Kentucky, United States
-- 🕒 **Posted:** 2026-08-21
-
-### [Clinical Program Manager](https://www.linkedin.com/jobs/view/4456094009/) — Easterseals Southern California
-- 📍 **Location:** Tehachapi, CA
-- 🕒 **Posted:** 2026-08-21
-
-### [Social Worker - Fee for Service](https://www.linkedin.com/jobs/view/4457070533/) — Jewish Board of Family and Children's Services
-- 📍 **Location:** Brooklyn, NY
-- 🕒 **Posted:** 2026-08-21
-
-### [Case Manager](https://www.linkedin.com/jobs/view/4457053593/) — Encompass Health
-- 📍 **Location:** Huntington, WV
-- 💰 **Salary:** $25.00/hr - $45.00/hr
-- 🕒 **Posted:** 2026-08-21
-
-### [Social Worker](https://www.linkedin.com/jobs/view/4445547040/) — Elysium Healthcare
-- 📍 **Location:** Pontypool, Wales, United Kingdom
-- 🕒 **Posted:** 2026-08-21
-
-### [CLINICAL SOCIAL WORKER (HEALTH/CORRECTIONAL FACILITY) - SAFETY](https://www.linkedin.com/jobs/view/4456081120/) — California Department of State Hospitals
-- 📍 **Location:** San Luis Obispo County, CA
-- 💰 **Salary:** $8,265.00/mo - $10,066.00/mo
-- 🕒 **Posted:** 2026-08-21
-
-### [Senior Social Worker](https://www.linkedin.com/jobs/view/4449878481/) — Elysium Healthcare
-- 📍 **Location:** Thatcham, England, United Kingdom
+### [Case Manager](https://www.linkedin.com/jobs/view/4457367087/) — HOME/LIFE SERVICES INC.
+- 📍 **Location:** New York City Metropolitan Area
 - 🕒 **Posted:** 2026-08-21
