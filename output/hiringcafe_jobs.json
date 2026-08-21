@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-08-21 18:36 UTC",
-  "total": 94,
+  "scraped_at": "2026-08-21 19:35 UTC",
+  "total": 96,
   "new_count": 2,
   "jobs": [
     {
@@ -200,41 +200,13 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Riverview Health & Rehab Center - Jefferson",
+      "company": "RIVERVIEW HEALTH GROUP",
       "title": "Social Worker",
       "location": "Detroit, Michigan, United States",
-      "url": "https://www.paycomonline.net/v4/ats/web.php/jobs/ViewJobDetails?job=174605&clientkey=5E4FC8C819F2A5B62D672E294B1353BB",
-      "direct_url": "https://www.paycomonline.net/v4/ats/web.php/jobs/ViewJobDetails?job=174605&clientkey=5E4FC8C819F2A5B62D672E294B1353BB",
+      "url": "https://www.paycomonline.net/v4/ats/web.php/jobs/ViewJobDetails?job=174605&clientkey=674C5E6E9D5651D6FB1EC4FD60A322D9",
+      "direct_url": "https://www.paycomonline.net/v4/ats/web.php/jobs/ViewJobDetails?job=174605&clientkey=674C5E6E9D5651D6FB1EC4FD60A322D9",
       "date_posted": "2026-07-23T00:00:00.000Z",
-      "description": "Bachelor's in Social Work required (MSW preferred), 1 year supervised social work in long-term or sub-acute care, Michigan social worker license, knowledge of regulations, computer proficiency, strong communication and analytical skills.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Pompton Lakes School District",
-      "title": "Social Worker",
-      "location": "Pompton Lakes, New Jersey, United States",
-      "url": "https://www.applitrack.com/plpsk12/onlineapp/jobpostings/view.asp?AppliTrackJobId=331",
-      "direct_url": "https://www.applitrack.com/plpsk12/onlineapp/jobpostings/view.asp?AppliTrackJobId=331",
-      "date_posted": "2026-08-12T12:00:00.000Z",
-      "description": "NJ social worker certification, bachelor's degree in an applicable education discipline, and master's degree in social work. Case management experience preferred; requires counseling, assessment, IEP, and communication skills.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Somerton Elementary School District 11",
-      "title": "Social Worker",
-      "location": "Somerton, Arizona, United States",
-      "url": "https://somerton.tedk12.com/hire/ViewJob.aspx?JobID=761",
-      "direct_url": "https://somerton.tedk12.com/hire/ViewJob.aspx?JobID=761",
-      "date_posted": "2026-08-13T00:00:00.000Z",
-      "description": "Master's degree, job-related experience, Arizona social worker certification, criminal background check, MMR clearance, IVP fingerprint clearance, and knowledge of school social work and special education.",
+      "description": "Licensed social worker in Michigan with bachelor\\u0002s in social work (master\\u0002s preferred), 1 year supervised social work experience in long-term/sub-acute care, knowledge of regulations, strong communication and assessment skills.",
       "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
@@ -256,6 +228,20 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "Somerton Elementary School District 11",
+      "title": "Social Worker",
+      "location": "Somerton, Arizona, United States",
+      "url": "https://somerton.tedk12.com/hire/ViewJob.aspx?JobID=761",
+      "direct_url": "https://somerton.tedk12.com/hire/ViewJob.aspx?JobID=761",
+      "date_posted": "2026-08-13T00:00:00.000Z",
+      "description": "Master's degree, job-related experience, Arizona social worker certification, criminal background check, MMR clearance, IVP fingerprint clearance, and knowledge of school social work and special education.",
+      "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
       "company": "Caraday Healthcare",
       "title": "Social Worker",
       "location": "Round Rock, Texas, United States",
@@ -263,6 +249,20 @@
       "direct_url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4412102",
       "date_posted": "2026-08-11T21:55:24.000Z",
       "description": "Bachelor's degree in social work or human services, current social worker license, strong communication and organizational skills, and ability to respond appropriately to emergencies. Two years of related experience preferred.",
+      "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Pompton Lakes School District",
+      "title": "Social Worker",
+      "location": "Pompton Lakes, New Jersey, United States",
+      "url": "https://www.applitrack.com/plpsk12/onlineapp/jobpostings/view.asp?AppliTrackJobId=331",
+      "direct_url": "https://www.applitrack.com/plpsk12/onlineapp/jobpostings/view.asp?AppliTrackJobId=331",
+      "date_posted": "2026-08-12T12:00:00.000Z",
+      "description": "NJ social worker certification, bachelor's degree in an applicable education discipline, and master's degree in social work. Case management experience preferred; requires counseling, assessment, IEP, and communication skills.",
       "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
@@ -326,20 +326,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Elida Local School District",
-      "title": "Social Worker",
-      "location": "Elida, Ohio, United States",
-      "url": "https://www.schoolspring.com/jobdetail?jobId=5871675",
-      "direct_url": "https://www.schoolspring.com/jobdetail?jobId=5871675",
-      "date_posted": "2026-08-05T00:00:00.000Z",
-      "description": "Licensed social worker (LSW/LISW) with an Ohio Pupil Services license or ability to obtain one; at least 1 year of relevant experience preferred and a master's degree preferred.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Trinityhealth",
       "title": "Social Worker",
       "location": "Hartford, Connecticut, United States",
@@ -349,6 +335,20 @@
       "description": "Master's degree, valid Connecticut social worker license with LCSW, and two years of related professional experience required. Strong oral and written communication and analytical skills needed.",
       "salary": "",
       "job_type": "Part Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Elida Local School District",
+      "title": "Social Worker",
+      "location": "Elida, Ohio, United States",
+      "url": "https://www.schoolspring.com/jobdetail?jobId=5871675",
+      "direct_url": "https://www.schoolspring.com/jobdetail?jobId=5871675",
+      "date_posted": "2026-08-05T00:00:00.000Z",
+      "description": "Licensed social worker (LSW/LISW) with an Ohio Pupil Services license or ability to obtain one; at least 1 year of relevant experience preferred and a master's degree preferred.",
+      "salary": "",
+      "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
       "ats": "HiringCafe"
@@ -774,6 +774,20 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "North Orange County Community College District",
+      "title": "Program Coordinator",
+      "location": "Anaheim or Cypress",
+      "url": "https://nocccd.peopleadmin.com/postings/9851",
+      "direct_url": "https://nocccd.peopleadmin.com/postings/9851",
+      "date_posted": "2026-08-19T16:47:11.000Z",
+      "description": "Bachelor’s degree, four years of related training or work experience, and three years of increasingly responsible professional experience in customer service and program coordination. Valid driver’s license required.",
+      "salary": "$83k–$100k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "Telecommute eligible",
+      "ats": "HiringCafe"
+    },
+    {
       "company": "Oregon",
       "title": "Program Coordinator (Family Court Program Coordinator)",
       "location": "Eugene or Clayton County or Cobb County or DeKalb County or Douglas County or Fayette County or Fulton County or Gwinnett County or Henry County or Jackson County or Rockdale County",
@@ -928,6 +942,20 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "OCHIN",
+      "title": "PROGRAM COORDINATOR-RELEASE",
+      "location": "United States",
+      "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4419647",
+      "direct_url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4419647",
+      "date_posted": "2026-08-20T22:38:59.000Z",
+      "description": "Bachelor’s degree or equivalent relevant experience preferred; familiarity with program-related systems; strong communication, coordination, documentation, teamwork, and English language skills.",
+      "salary": "$56k–$90k/yr",
+      "job_type": "Full Time",
+      "is_remote": true,
+      "work_arrangement": "Remote in-state eligible",
+      "ats": "HiringCafe"
+    },
+    {
       "company": "City of Lodi, CA",
       "title": "P/T - Program Coordinator",
       "location": "Lodi, California, United States",
@@ -1012,20 +1040,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Goodwill Industries of Southwest Florida",
-      "title": "Program Coordinator - MicroEnterprise",
-      "location": "Fort Myers, Florida, United States",
-      "url": "https://goodwillswfl.applicantpro.com/jobs/4169156",
-      "direct_url": "https://goodwillswfl.applicantpro.com/jobs/4169156",
-      "date_posted": "2026-08-06T00:00:00.000Z",
-      "description": "High school diploma or GED and two years of experience in program coordination, workforce development, education, nonprofit management, or small business support. Requires Florida driver's license and strong communication skills.",
-      "salary": "$44k–$47k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "City of Fort Myers, FL",
       "title": "PAL Program Coordinator",
       "location": "Fort Myers, Florida, United States",
@@ -1034,6 +1048,20 @@
       "date_posted": "2026-07-30T18:38:01.649Z",
       "description": "Coordinate and manage recreational programs, facilities, events and staff; supervise employees; pursue grants/sponsorships; possess relevant degree/experience and meet DCF Level II screening and drug testing requirements.",
       "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Goodwill Industries of Southwest Florida",
+      "title": "Program Coordinator - MicroEnterprise",
+      "location": "Fort Myers, Florida, United States",
+      "url": "https://goodwillswfl.applicantpro.com/jobs/4169156",
+      "direct_url": "https://goodwillswfl.applicantpro.com/jobs/4169156",
+      "date_posted": "2026-08-06T00:00:00.000Z",
+      "description": "High school diploma or GED and two years of experience in program coordination, workforce development, education, nonprofit management, or small business support. Requires Florida driver's license and strong communication skills.",
+      "salary": "$44k–$47k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
@@ -1322,31 +1350,31 @@
   ],
   "new_jobs": [
     {
-      "company": "The Fedcap Group",
-      "title": "Case Manager",
-      "location": "Washington, District of Columbia, United States",
-      "url": "https://eckb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/requisitions/job/103374",
-      "direct_url": "https://eckb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/requisitions/job/103374",
-      "date_posted": "2026-08-06T14:53:58.000Z",
-      "description": "Bachelor’s degree in social work, social services, counseling, business administration, or related field and 3 years’ vocational rehabilitation or case management experience; 5 years’ case management may substitute.",
-      "salary": "$52k/yr",
+      "company": "North Orange County Community College District",
+      "title": "Program Coordinator",
+      "location": "Anaheim or Cypress",
+      "url": "https://nocccd.peopleadmin.com/postings/9851",
+      "direct_url": "https://nocccd.peopleadmin.com/postings/9851",
+      "date_posted": "2026-08-19T16:47:11.000Z",
+      "description": "Bachelor’s degree, four years of related training or work experience, and three years of increasingly responsible professional experience in customer service and program coordination. Valid driver’s license required.",
+      "salary": "$83k–$100k/yr",
       "job_type": "Full Time",
       "is_remote": false,
-      "work_arrangement": "On-site",
+      "work_arrangement": "Telecommute eligible",
       "ats": "HiringCafe"
     },
     {
-      "company": "The Center for Courageous Kids",
-      "title": "Program Coordinator",
-      "location": "Scottsville, Kentucky, United States",
-      "url": "https://courageouskids.isolvedhire.com/jobs/1828286",
-      "direct_url": "https://courageouskids.isolvedhire.com/jobs/1828286",
-      "date_posted": "2026-07-24T00:00:00.000Z",
-      "description": "Plan, coordinate, and deliver year-round camp programs and events; design safe, inclusive age-appropriate activities; assist camp operations to support campers, families, staff, and volunteers.",
-      "salary": "",
+      "company": "OCHIN",
+      "title": "PROGRAM COORDINATOR-RELEASE",
+      "location": "United States",
+      "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4419647",
+      "direct_url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4419647",
+      "date_posted": "2026-08-20T22:38:59.000Z",
+      "description": "Bachelor’s degree or equivalent relevant experience preferred; familiarity with program-related systems; strong communication, coordination, documentation, teamwork, and English language skills.",
+      "salary": "$56k–$90k/yr",
       "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
+      "is_remote": true,
+      "work_arrangement": "Remote in-state eligible",
       "ats": "HiringCafe"
     }
   ]
