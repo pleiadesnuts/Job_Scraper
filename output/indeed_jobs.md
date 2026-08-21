@@ -1,38 +1,30 @@
 # 🟦 Indeed — Social Worker Roles
-*Last updated: 2026-08-21 04:34 UTC*
+*Last updated: 2026-08-21 16:22 UTC*
 
-**5 new role(s)** since last run · 7 total in last 24h
+**4 new role(s)** since last run · 9 total in last 24h
 
-### [Residential Case Manager/Program Coordinator/Care Coordinator](https://www.indeed.com/viewjob?jk=8325a59b340184ee) — PARKER PERSONAL CARE HOMES
-- 📍 **Location:** Lakewood, CO, US
-- 💰 **Salary:** $22–$25/hr
+### [Case Manager - Bi-Lingual](https://www.indeed.com/viewjob?jk=6c6bf9d06cb74fc5) — Unknown
+- 📍 **Location:** Littleton, CO, US
+- 💰 **Salary:** $27–$35/hr
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-08-21
+
+### [Case Manager](https://www.indeed.com/viewjob?jk=f9cce18e481a8ba8) — Ernest Health
+- 📍 **Location:** Thornton, CO, US
+- 💰 **Salary:** $83k–$125k/yr
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-08-20
 
-### [RN Case Manager (Float)](https://www.indeed.com/viewjob?jk=c0a4fa27e0374173) — THE DENVER HOSPICE
-- 📍 **Location:** Denver, CO, US
-- 💰 **Salary:** $81k–$95k/yr
-- **Work mode:** On-site
-- **Job type:** fulltime
+### [Behavioral Health Specialist I](https://www.indeed.com/viewjob?jk=79185228b1bb927e) — UCHealth
+- 📍 **Location:** Aurora, CO, US
+- 💰 **Salary:** $20–$27/hr
+- **Work mode:** Remote in-state eligible
+- **Job type:** parttime
 - 🕒 **Posted:** 2026-08-20
 
-### [Social Worker I](https://www.indeed.com/viewjob?jk=287b7e28c23acace) — Denver Health
-- 📍 **Location:** Denver, CO, US
-- 💰 **Salary:** $65k–$98k/yr
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-08-20
-
-### [Grant Program Coordinator - ORR/ACF](https://www.indeed.com/viewjob?jk=0f4cefc6ef920e67) — JBS INTERNATIONAL, INC
+### [Client Education Specialist](https://www.indeed.com/viewjob?jk=8d98f0bc4e0f25e0) — Nexgen Asset Management
 - 📍 **Location:** Remote, US
 - **Work mode:** Remote in-state eligible
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-08-20
-
-### [Youth Peer Support Specialist](https://www.indeed.com/viewjob?jk=9869c955565b5a8a) — F.A.V.O.R Families
-- 📍 **Location:** Remote, US
-- 💰 **Salary:** $18–$22/hr
-- **Work mode:** Remote in-state eligible
-- **Job type:** contract
 - 🕒 **Posted:** 2026-08-20
