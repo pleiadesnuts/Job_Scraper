@@ -1,123 +1,181 @@
 # 🔥 LinkedIn — Social Worker Roles
-*Last updated: 2026-08-21 20:02 UTC*
+*Last updated: 2026-08-21 21:05 UTC*
 
-**27 new role(s)** since last run · 63 total in last 1h
+**40 new role(s)** since last run · 40 total in last 1h
 
-### [Marketing & Communications Program Manager](https://www.linkedin.com/jobs/view/4456269724/) — Included Health
-- 📍 **Location:** United States
-- 💰 **Salary:** $100,030 – $130,944 per year
-- 🕒 **Posted:** 2026-08-21
-
-### [Supervisor, Utilization Management Technician](https://www.linkedin.com/jobs/view/4456260849/) — Judi Health
-- 📍 **Location:** Denver, CO
-- 💰 **Salary:** $98,800 USD - $123,500 USD
-- 🕒 **Posted:** 2026-08-21
-
-### [Supervisor, Utilization Management Pharmacist](https://www.linkedin.com/jobs/view/4456262987/) — Judi Health
-- 📍 **Location:** Denver, CO
-- 💰 **Salary:** $128,000 USD - $160,000 USD
-- 🕒 **Posted:** 2026-08-21
-
-### [Subcontracts Program Manager II - Boulder CO](https://www.linkedin.com/jobs/view/4456268885/) — VetJobs
+### [Program Coordinator, Annual Giving](https://www.linkedin.com/jobs/view/4457394898/) — University of Colorado Boulder
 - 📍 **Location:** Boulder, CO
-- 💰 **Salary:** $134640 - $228888
+- 💰 **Salary:** $57,000 - $62,000 annually
 - 🕒 **Posted:** 2026-08-21
 
-### [Youth Care Coordinator - 0008A - Mon-Fri 9AM-5PM](https://www.linkedin.com/jobs/view/4456791270/) — WellLife Network
-- 📍 **Location:** Coram, NY
+### [Spanish Interpreter PRN](https://www.linkedin.com/jobs/view/4454671707/) — Craig Hospital
+- 📍 **Location:** Denver Metropolitan Area
+- 💰 **Salary:** $21.59–$31.09
 - 🕒 **Posted:** 2026-08-21
 
-### [Value Based Care Community Health Worker](https://www.linkedin.com/jobs/view/4456276201/) — OneWorld Community Health Centers
-- 📍 **Location:** Omaha, NE
+### [Mind and Body Wellness Coordinator - Lifestyle Wellness (Billings, MT)](https://www.linkedin.com/jobs/view/4457500830/) — AWARE Inc.
+- 📍 **Location:** Billings, MT
 - 🕒 **Posted:** 2026-08-21
 
-### [K-6 School Social Worker](https://www.linkedin.com/jobs/view/4457382734/) — Deep Roots Charter School
-- 📍 **Location:** Philadelphia, PA
+### [Attendance Case Manager-Fairfield County](https://www.linkedin.com/jobs/view/4454431360/) — OhioGuidestone
+- 📍 **Location:** Lancaster, OH
 - 🕒 **Posted:** 2026-08-21
 
-### [Human Services Specialist II - Case Manager (Take Out Recovery Coach)](https://www.linkedin.com/jobs/view/4457379673/) — City of Alexandria, Virginia
-- 📍 **Location:** Alexandria, VA
+### [Consultant Social Worker](https://www.linkedin.com/jobs/view/4456287358/) — Dorset Council UK
+- 📍 **Location:** Wareham, England, United Kingdom
 - 🕒 **Posted:** 2026-08-21
 
-### [Case Manager, Refugee Services](https://www.linkedin.com/jobs/view/4457385603/) — Catholic Charities of Northeast Kansas
-- 📍 **Location:** Kansas City, KS
+### [Licensed Master Social Worker  - Children's  Outpatient Behavioral Health](https://www.linkedin.com/jobs/view/4457500817/) — St. Joseph's Health
+- 📍 **Location:** Syracuse, NY
+- 💰 **Salary:** $31.37 - $47.50
 - 🕒 **Posted:** 2026-08-21
 
-### [Behavioral Health Specialist Adults](https://www.linkedin.com/jobs/view/4456256897/) — Banner Health
-- 📍 **Location:** Scottsdale, AZ
+### [Mental Health Case Manager - Hobby Unit](https://www.linkedin.com/jobs/view/4457346681/) — The University of Texas Medical Branch
+- 📍 **Location:** Waco Area
 - 🕒 **Posted:** 2026-08-21
 
-### [Housing Specialist](https://www.linkedin.com/jobs/view/4457397504/) — Old Colony YMCA
-- 📍 **Location:** Brockton, MA
+### [Regional Program Coordinator - Eastern](https://www.linkedin.com/jobs/view/4456292132/) — Maryland Food Bank
+- 📍 **Location:** Salisbury, MD
+- 💰 **Salary:** $26.00/hr - $28.00/hr
 - 🕒 **Posted:** 2026-08-21
 
-### [Behavioral Health Specialist](https://www.linkedin.com/jobs/view/4453043026/) — Newport Healthcare
-- 📍 **Location:** St Cloud, MN
+### [Residential Program Coordinator](https://www.linkedin.com/jobs/view/4456295245/) — North Community Counseling Centers
+- 📍 **Location:** Columbus, OH
 - 🕒 **Posted:** 2026-08-21
 
-### [Wellness Coordinator](https://www.linkedin.com/jobs/view/4453829953/) — Immanuel
-- 📍 **Location:** Lincoln, NE
+### [Hospice Volunteer Coordinator](https://www.linkedin.com/jobs/view/4457388921/) — Phoenix Home Care and Hospice
+- 📍 **Location:** Independence, MO
 - 🕒 **Posted:** 2026-08-21
 
-### [Wellness Coordinator](https://www.linkedin.com/jobs/view/4457388555/) — Sunset Woods Senior Living
-- 📍 **Location:** Wisconsin, United States
+### [Program Coordinator - Optimal Aging Program](https://www.linkedin.com/jobs/view/4457057105/) — University of Utah Health
+- 📍 **Location:** Salt Lake City Metropolitan Area
 - 🕒 **Posted:** 2026-08-21
 
-### [Spanish Speaking Patient Care Coordinator](https://www.linkedin.com/jobs/view/4457398701/) — Health Plus Management
-- 📍 **Location:** New York, NY
+### [Senior Student Program Coordinator, Cockrell School of Engineering](https://www.linkedin.com/jobs/view/4452451817/) — The University of Texas at Austin
+- 📍 **Location:** Austin, TX
 - 🕒 **Posted:** 2026-08-21
 
-### [Aztec Recreation Climbing Supervisor](https://www.linkedin.com/jobs/view/4457390622/) — Associated Students, San Diego State University
-- 📍 **Location:** San Diego, CA
-- 💰 **Salary:** $24.68 - $26.50 hourly
+### [Research Program Coordinator](https://www.linkedin.com/jobs/view/4456287261/) — Romix Biosciences
+- 📍 **Location:** Boston, MA
 - 🕒 **Posted:** 2026-08-21
 
-### [Registered Nurse (RN) Case Manager, Home Health](https://www.linkedin.com/jobs/view/4457396341/) — Phoenix Home Care and Hospice
-- 📍 **Location:** Branson, MO
-- 💰 **Salary:** $65,000.00/yr - $90,000.00/yr
+### [Grant Writer](https://www.linkedin.com/jobs/view/4456281333/) — Robert Half
+- 📍 **Location:** Miami, FL
+- 💰 **Salary:** $40.00/hr - $45.00/hr
 - 🕒 **Posted:** 2026-08-21
 
-### [Hospice Registered Case Manager](https://www.linkedin.com/jobs/view/4454659481/) — Compassus
-- 📍 **Location:** Bullhead City, AZ
+### [Case Manager (Flushing YMCA)](https://www.linkedin.com/jobs/view/4457509148/) — YMCA of Greater New York
+- 📍 **Location:** Queens, NY
 - 🕒 **Posted:** 2026-08-21
 
-### [Hospice Registered Nurse Case Manager](https://www.linkedin.com/jobs/view/4454664407/) — Compassus
-- 📍 **Location:** Portage, MI
+### [Social Worker](https://www.linkedin.com/jobs/view/4450372467/) — Center for Elders' Independence
+- 📍 **Location:** Oakland, CA
+- 💰 **Salary:** $37.97 to $56.95 per hour
 - 🕒 **Posted:** 2026-08-21
 
-### [Social Worker (SDoH)](https://www.linkedin.com/jobs/view/4414218850/) — Maryland Physicians Care
-- 📍 **Location:** Linthicum, MD
+### [Social Worker BSW - Galveston Social Work (M-F 8a - 5p)](https://www.linkedin.com/jobs/view/4457345721/) — The University of Texas Medical Branch
+- 📍 **Location:** Galveston, TX
 - 🕒 **Posted:** 2026-08-21
 
-### [Certified SUD Counselor/ Case Manager (Residential Treatment)](https://www.linkedin.com/jobs/view/4457394806/) — Sierra Meadows Behavioral Health
-- 📍 **Location:** Clovis, CA
-- 💰 **Salary:** $24 - $28/HR
+### [Social Worker WI](https://www.linkedin.com/jobs/view/4457500890/) — St. Croix Hospice
+- 📍 **Location:** Green Bay, WI
 - 🕒 **Posted:** 2026-08-21
 
-### [Fixed Term CARE Case Manager](https://www.linkedin.com/jobs/view/4456064470/) — Wake Forest University
-- 📍 **Location:** Winston-Salem, NC
+### [Community Health Worker/Promotor(a) de Salud - Seasonal Temporary](https://www.linkedin.com/jobs/view/4457512188/) — Zócalo Health
+- 📍 **Location:** Amador City, CA
+- 💰 **Salary:** $27.00 - $30.00 per hour
 - 🕒 **Posted:** 2026-08-21
 
-### [Social Worker-MSW](https://www.linkedin.com/jobs/view/4456269623/) — Catholic Health
-- 📍 **Location:** Freeport, NY
-- 💰 **Salary:** USD $39.92 - USD $55.25 /Hr
+### [Community Health Worker (Hybrid - Allegheny County)](https://www.linkedin.com/jobs/view/4454657835/) — UPMC
+- 📍 **Location:** Pittsburgh, PA
 - 🕒 **Posted:** 2026-08-21
 
-### [Social Worker - LMSW](https://www.linkedin.com/jobs/view/4456260614/) — Catholic Health
-- 📍 **Location:** Rockville Centre, NY
-- 💰 **Salary:** USD $39.92 - USD $55.25 /Hr
+### [Health Education Specialist - Nutrition](https://www.linkedin.com/jobs/view/4456282218/) — California State University-Sacramento
+- 📍 **Location:** Sacramento, CA
 - 🕒 **Posted:** 2026-08-21
 
-### [Resident Services Liaison (Social Worker)](https://www.linkedin.com/jobs/view/4457387715/) — Westminster-Canterbury on Chesapeake Bay & Senior Options, LLC
-- 📍 **Location:** Virginia Beach, VA
-- 💰 **Salary:** $58,897 - $62,275
+### [Care Coordinator - Chronic Management](https://www.linkedin.com/jobs/view/4457516164/) — Optima Medical
+- 📍 **Location:** Queen Creek, AZ
 - 🕒 **Posted:** 2026-08-21
 
-### [Social Worker MSW](https://www.linkedin.com/jobs/view/4454651703/) — CHI
-- 📍 **Location:** Hot Springs, AR
-- 💰 **Salary:** $27.97 - $41.60 /hour
+### [Health Educator (RN), Medicine](https://www.linkedin.com/jobs/view/4454137314/) — University at Buffalo
+- 📍 **Location:** Buffalo, NY
 - 🕒 **Posted:** 2026-08-21
 
-### [Care Manager or Social Worker](https://www.linkedin.com/jobs/view/4457389508/) — Vetted Solutions
-- 📍 **Location:** Mizpah, MN
+### [Program Manager](https://www.linkedin.com/jobs/view/4456295268/) — Mixteco/Indigena Community Organizing Project (MICOP)
+- 📍 **Location:** Santa Maria, CA
+- 💰 **Salary:** $26.00/yr - $30.00/yr
+- 🕒 **Posted:** 2026-08-21
+
+### [Volunteer Coordinator](https://www.linkedin.com/jobs/view/4456280213/) — Gentiva
+- 📍 **Location:** San Antonio, TX
+- 🕒 **Posted:** 2026-08-21
+
+### [Bilingual Care Coordinator, Regular Full Time, Central Ottawa General, Labelle](https://www.linkedin.com/jobs/view/4451553170/) — Ontario Health atHome
+- 📍 **Location:** Ottawa, Ontario, Canada
+- 🕒 **Posted:** 2026-08-21
+
+### [Developmental Services Care Coordinator-$1,000 Sign On Bonus*](https://www.linkedin.com/jobs/view/4426422688/) — Community Care Network / Rutland Mental Health Services
+- 📍 **Location:** Rutland, VT
+- 💰 **Salary:** $21.00-$23.58/hour
+- 🕒 **Posted:** 2026-08-21
+
+### [Care Coordinator / Chiropractic Assistant](https://www.linkedin.com/jobs/view/4456294240/) — Homestead Chiropractic
+- 📍 **Location:** Bettendorf, IA
+- 💰 **Salary:** $18–$20/hour
+- 🕒 **Posted:** 2026-08-21
+
+### [Integrated Care Coordinator](https://www.linkedin.com/jobs/view/4457069020/) — University of Utah Health
+- 📍 **Location:** Salt Lake City Metropolitan Area
+- 🕒 **Posted:** 2026-08-21
+
+### [Care Coordinator](https://www.linkedin.com/jobs/view/4457380791/) — Gastro Health
+- 📍 **Location:** Birmingham, AL
+- 🕒 **Posted:** 2026-08-21
+
+### [Managed Care Coordinator I](https://www.linkedin.com/jobs/view/4454649776/) — Horizon Blue Cross Blue Shield of New Jersey
+- 📍 **Location:** Hopewell, NJ
+- 💰 **Salary:** $44,600 - $59,745
+- 🕒 **Posted:** 2026-08-21
+
+### [Community Health Worker (Wellness on Wheels)](https://www.linkedin.com/jobs/view/4454151292/) — OhioHealth
+- 📍 **Location:** Columbus, OH
+- 🕒 **Posted:** 2026-08-21
+
+### [Care Coordinator- Williamsburg](https://www.linkedin.com/jobs/view/4457520277/) — Spear Physical Therapy
+- 📍 **Location:** Brooklyn, NY
+- 💰 **Salary:** $18.00/hr - $18.00/hr
+- 🕒 **Posted:** 2026-08-21
+
+### [Social Worker](https://www.linkedin.com/jobs/view/4456286290/) — Our Kids Center
+- 📍 **Location:** Nashville, TN
+- 🕒 **Posted:** 2026-08-21
+
+### [Social Worker MSW Hospice](https://www.linkedin.com/jobs/view/4456288162/) — Gentiva
+- 📍 **Location:** Ames, IA
+- 💰 **Salary:** $66,610 - 83,265
+- 🕒 **Posted:** 2026-08-21
+
+### [Medical Social Worker-MSW - Gulf Coast Medical Center](https://www.linkedin.com/jobs/view/4454657801/) — Lee Health
+- 📍 **Location:** Fort Myers, FL
+- 💰 **Salary:** $27.57 - $35.84
+- 🕒 **Posted:** 2026-08-21
+
+### [Social Worker](https://www.linkedin.com/jobs/view/4457506079/) — VITAS Healthcare
+- 📍 **Location:** Tallahassee, FL
+- 💰 **Salary:** $60 - $70
+- 🕒 **Posted:** 2026-08-21
+
+### [Social Worker (Master of Social Work)](https://www.linkedin.com/jobs/view/4456284177/) — Suncrest Hospice
+- 📍 **Location:** Novato, CA
+- 💰 **Salary:** $85,000-$95,000
+- 🕒 **Posted:** 2026-08-21
+
+### [Social Worker](https://www.linkedin.com/jobs/view/4457509221/) — Specialized Education Services, Inc.
+- 📍 **Location:** Arundel, DE
+- 💰 **Salary:** USD $60,000.00 - USD $65,000.00 /Yr
+- 🕒 **Posted:** 2026-08-21
+
+### [Cultural Broker Family Advocate Supervisor](https://www.linkedin.com/jobs/view/4457513220/) — Pathways
+- 📍 **Location:** Tempe, AZ
 - 🕒 **Posted:** 2026-08-21
