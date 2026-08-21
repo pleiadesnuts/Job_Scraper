@@ -1,17 +1,23 @@
 # ☕ HiringCafe — Social Worker Roles
-*Last updated: 2026-08-20 23:39 UTC*
+*Last updated: 2026-08-21 00:38 UTC*
 
-**2 new role(s)** since last run · 89 total in last 30d
+**3 new role(s)** since last run · 89 total in last 30d
 
-### [Social Worker](https://shrinerschildrens.wd12.myworkdayjobs.com/shriners/job/Lexington-KY/Social-Worker_JR101441) — Shriners Children's
-- 📍 **Location:** Lexington, Kentucky, United States
-- **Work mode:** On-site
-- **Job type:** Part Time
-- 🕒 **Posted:** 2026-08-20T00:00:00.000Z
-
-### [Program Coordinator](https://jobs.cleanenergyjobspartnership.com/job/New-Brunswick-Program-Coordinator-NJ-08899/1421438700/) — TriState Light & Energy
-- 📍 **Location:** New Brunswick, New Jersey, United States
-- 💰 **Salary:** $50k–$60k/yr
+### [Social Worker](https://clementmanor.employ.onshift.com/job_positions/view/192887/50800642) — Clement Manor
+- 📍 **Location:** Greenfield, Wisconsin, United States
 - **Work mode:** On-site
 - **Job type:** Full Time
-- 🕒 **Posted:** 2026-08-20T00:00:00.000Z
+- 🕒 **Posted:** 2026-08-20T08:00:03.000Z
+
+### [Case Manager](https://eckb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/requisitions/job/103375) — The Fedcap Group
+- 📍 **Location:** Washington, District of Columbia, United States
+- 💰 **Salary:** $52k/yr
+- **Work mode:** On-site
+- **Job type:** Full Time
+- 🕒 **Posted:** 2026-08-06T14:55:35.000Z
+
+### [PAL Program Coordinator](https://www.governmentjobs.com/careers/fortmyersfl/jobs/5057607) — City of Fort Myers, FL
+- 📍 **Location:** Fort Myers, Florida, United States
+- **Work mode:** On-site
+- **Job type:** Full Time
+- 🕒 **Posted:** 2026-07-30T18:38:01.649Z
