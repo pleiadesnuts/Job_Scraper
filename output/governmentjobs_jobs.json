@@ -1,17 +1,45 @@
 {
-  "scraped_at": "2026-08-05 18:02 UTC",
-  "total": 1,
-  "new_count": 0,
+  "scraped_at": "2026-08-21 17:10 UTC",
+  "total": 2,
+  "new_count": 2,
   "jobs": [
     {
-      "company": "West Basin Municipal Water District",
-      "title": "Water Quality & Environmental Compliance Supervisor",
-      "location": "Carson, CA",
-      "url": "https://www.governmentjobs.com/jobs/5422948-0/water-quality-environmental-compliance-supervisor",
+      "company": "City of Roseville (CA)",
+      "title": "Electric Risk and Compliance Supervisor",
+      "location": "311 Vernon Street, Roseville",
+      "url": "https://www.governmentjobs.com/jobs/5448320-0/electric-risk-and-compliance-supervisor",
       "date_posted": "",
-      "salary": "$138,534.00 - $190,484.00 Annually",
+      "salary": "$148,596.24 - $199,132.96 Annually",
+      "ats": "NEOGOV"
+    },
+    {
+      "company": "Benton County (OR)",
+      "title": "Risk Management & Quality Program Manager",
+      "location": "Corvallis, OR",
+      "url": "https://www.governmentjobs.com/jobs/5429844-0/risk-management-quality-program-manager",
+      "date_posted": "",
+      "salary": "$80,012.61 - $109,107.65 Annually",
       "ats": "NEOGOV"
     }
   ],
-  "new_jobs": []
+  "new_jobs": [
+    {
+      "company": "City of Roseville (CA)",
+      "title": "Electric Risk and Compliance Supervisor",
+      "location": "311 Vernon Street, Roseville",
+      "url": "https://www.governmentjobs.com/jobs/5448320-0/electric-risk-and-compliance-supervisor",
+      "date_posted": "",
+      "salary": "$148,596.24 - $199,132.96 Annually",
+      "ats": "NEOGOV"
+    },
+    {
+      "company": "Benton County (OR)",
+      "title": "Risk Management & Quality Program Manager",
+      "location": "Corvallis, OR",
+      "url": "https://www.governmentjobs.com/jobs/5429844-0/risk-management-quality-program-manager",
+      "date_posted": "",
+      "salary": "$80,012.61 - $109,107.65 Annually",
+      "ats": "NEOGOV"
+    }
+  ]
 }

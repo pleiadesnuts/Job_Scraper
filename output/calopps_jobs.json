@@ -1,8 +1,35 @@
 {
-  "scraped_at": "2026-08-05 18:07 UTC",
-  "total": 16,
-  "new_count": 1,
+  "scraped_at": "2026-08-21 17:25 UTC",
+  "total": 12,
+  "new_count": 3,
   "jobs": [
+    {
+      "company": "Tri City Mental Health Authority",
+      "title": "Registered Nurse Supervisor",
+      "location": "Los Angeles Area",
+      "url": "https://www.calopps.org/tri-city-mental-health-authority/job-20769746",
+      "date_posted": "",
+      "salary": "$123,611.63-$157,763.24 Annually",
+      "ats": "CalOpps"
+    },
+    {
+      "company": "Daly City",
+      "title": "Active Adult/Senior Services Supervisor",
+      "location": "San Francisco/Peninsula",
+      "url": "https://www.calopps.org/daly-city/job-20767492",
+      "date_posted": "",
+      "salary": "$7,020.00-$8,532.00 Monthly",
+      "ats": "CalOpps"
+    },
+    {
+      "company": "San Mateo",
+      "title": "Housing Specialist I-II",
+      "location": "San Francisco/Peninsula",
+      "url": "https://www.calopps.org/san-mateo/job-20766435",
+      "date_posted": "",
+      "salary": "$98,425.00-$134,472.00 Annually",
+      "ats": "CalOpps"
+    },
     {
       "company": "Glenn",
       "title": "HHSA Case Manager I/II",
@@ -40,15 +67,6 @@
       "ats": "CalOpps"
     },
     {
-      "company": "Glenn",
-      "title": "HHSA Program Manager- Social Services",
-      "location": "Northern California Inland",
-      "url": "https://www.calopps.org/glenn/job-20763304",
-      "date_posted": "",
-      "salary": "$44.20-$53.73 Hourly",
-      "ats": "CalOpps"
-    },
-    {
       "company": "Redwood City",
       "title": "Utilities Field Services Supervisor- Trees #26A-26",
       "location": "San Francisco/Peninsula",
@@ -64,60 +82,6 @@
       "url": "https://www.calopps.org/san-mateo-county-transit-district-samtrans/job-20761578",
       "date_posted": "",
       "salary": "$143,142.00-$200,398.00 Annually",
-      "ats": "CalOpps"
-    },
-    {
-      "company": "Tri City Mental Health Authority",
-      "title": "Behavioral Health Specialist I/II/III- Wellness Center- Bilingual",
-      "location": "Los Angeles Area",
-      "url": "https://www.calopps.org/tri-city-mental-health-authority/job-20761436",
-      "date_posted": "",
-      "salary": "$25.67-$39.91 Hourly",
-      "ats": "CalOpps"
-    },
-    {
-      "company": "Pioneer Community Energy",
-      "title": "Community Outreach Specialist",
-      "location": "Sacramento/Metro Area",
-      "url": "https://www.calopps.org/pioneer-community-energy/job-20759670",
-      "date_posted": "",
-      "salary": "$107,061.00-$160,056.00 Annually",
-      "ats": "CalOpps"
-    },
-    {
-      "company": "Daly City",
-      "title": "Maintenance Supervisor",
-      "location": "San Francisco/Peninsula",
-      "url": "https://www.calopps.org/daly-city/job-20758724",
-      "date_posted": "",
-      "salary": "$11,346.00-$13,790.00 Monthly",
-      "ats": "CalOpps"
-    },
-    {
-      "company": "Tri City Mental Health Authority",
-      "title": "Psychiatric-Mental Health Nurse Practitioner Supervisor",
-      "location": "Los Angeles Area",
-      "url": "https://www.calopps.org/tri-city-mental-health-authority/job-20758663",
-      "date_posted": "",
-      "salary": "$202,552.12-$258,513.57 Annually",
-      "ats": "CalOpps"
-    },
-    {
-      "company": "South San Francisco",
-      "title": "Library Program Manager II",
-      "location": "San Francisco/Peninsula",
-      "url": "https://www.calopps.org/south-san-francisco/job-20756141",
-      "date_posted": "",
-      "salary": "$131,539.00-$159,889.00 Annually",
-      "ats": "CalOpps"
-    },
-    {
-      "company": "Housing Authority Of The City Of Alameda",
-      "title": "Housing Specialist I",
-      "location": "East Bay",
-      "url": "https://www.calopps.org/housing-authority-of-the-city-of-alameda/job-20756132",
-      "date_posted": "",
-      "salary": "$42.34-$51.48 Hourly",
       "ats": "CalOpps"
     },
     {
@@ -150,12 +114,30 @@
   ],
   "new_jobs": [
     {
-      "company": "Glenn",
-      "title": "HHSA Case Manager I/II",
-      "location": "Northern California Inland",
-      "url": "https://www.calopps.org/glenn/job-20765661",
+      "company": "Tri City Mental Health Authority",
+      "title": "Registered Nurse Supervisor",
+      "location": "Los Angeles Area",
+      "url": "https://www.calopps.org/tri-city-mental-health-authority/job-20769746",
       "date_posted": "",
-      "salary": "$24.66-$33.12",
+      "salary": "$123,611.63-$157,763.24 Annually",
+      "ats": "CalOpps"
+    },
+    {
+      "company": "Daly City",
+      "title": "Active Adult/Senior Services Supervisor",
+      "location": "San Francisco/Peninsula",
+      "url": "https://www.calopps.org/daly-city/job-20767492",
+      "date_posted": "",
+      "salary": "$7,020.00-$8,532.00 Monthly",
+      "ats": "CalOpps"
+    },
+    {
+      "company": "San Mateo",
+      "title": "Housing Specialist I-II",
+      "location": "San Francisco/Peninsula",
+      "url": "https://www.calopps.org/san-mateo/job-20766435",
+      "date_posted": "",
+      "salary": "$98,425.00-$134,472.00 Annually",
       "ats": "CalOpps"
     }
   ]
