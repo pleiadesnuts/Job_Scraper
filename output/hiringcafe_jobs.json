@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-21 20:26 UTC",
+  "scraped_at": "2026-08-21 21:30 UTC",
   "total": 97,
-  "new_count": 1,
+  "new_count": 0,
   "jobs": [
     {
       "company": "Pittsburgh Public Schools",
@@ -1362,20 +1362,5 @@
       "ats": "HiringCafe"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Pascack Valley Medical Center",
-      "title": "Case Manager / RN",
-      "location": "Westwood, New Jersey, United States",
-      "url": "https://jobs.ardenthealth.com/jobs/138395?lang=en-us",
-      "direct_url": "https://jobs.ardenthealth.com/jobs/138395?lang=en-us",
-      "date_posted": "2026-07-29T18:26:49.000Z",
-      "description": "RN with an associate degree or higher; case management experience in acute hospital settings preferred; certification in case management (ACM or CCM) preferred.",
-      "salary": "$82k–$106k/yr",
-      "job_type": "Part Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    }
-  ]
+  "new_jobs": []
 }
