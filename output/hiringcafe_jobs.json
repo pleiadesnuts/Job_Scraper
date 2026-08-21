@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-21 22:30 UTC",
+  "scraped_at": "2026-08-21 23:26 UTC",
   "total": 96,
-  "new_count": 0,
+  "new_count": 2,
   "jobs": [
     {
       "company": "Pittsburgh Public Schools",
@@ -200,13 +200,13 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "RIVERVIEW HEALTH GROUP",
+      "company": "Riverview Health & Rehab Center - Jefferson",
       "title": "Social Worker",
       "location": "Detroit, Michigan, United States",
-      "url": "https://www.paycomonline.net/v4/ats/web.php/jobs/ViewJobDetails?job=174605&clientkey=674C5E6E9D5651D6FB1EC4FD60A322D9",
-      "direct_url": "https://www.paycomonline.net/v4/ats/web.php/jobs/ViewJobDetails?job=174605&clientkey=674C5E6E9D5651D6FB1EC4FD60A322D9",
+      "url": "https://www.paycomonline.net/v4/ats/web.php/jobs/ViewJobDetails?job=174605&clientkey=5E4FC8C819F2A5B62D672E294B1353BB",
+      "direct_url": "https://www.paycomonline.net/v4/ats/web.php/jobs/ViewJobDetails?job=174605&clientkey=5E4FC8C819F2A5B62D672E294B1353BB",
       "date_posted": "2026-07-23T00:00:00.000Z",
-      "description": "Licensed social worker in Michigan with bachelor\\u0002s in social work (master\\u0002s preferred), 1 year supervised social work experience in long-term/sub-acute care, knowledge of regulations, strong communication and assessment skills.",
+      "description": "Bachelor's in Social Work required (MSW preferred), 1 year supervised social work in long-term or sub-acute care, Michigan social worker license, knowledge of regulations, computer proficiency, strong communication and analytical skills.",
       "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
@@ -214,13 +214,13 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Davita",
+      "company": "Pompton Lakes School District",
       "title": "Social Worker",
-      "location": "Orange City, Florida, United States",
-      "url": "https://davita.wd1.myworkdayjobs.com/dkc_external/job/03459---Orange-City-Dialysis/Social-Worker_R0474222",
-      "direct_url": "https://davita.wd1.myworkdayjobs.com/dkc_external/job/03459---Orange-City-Dialysis/Social-Worker_R0474222",
-      "date_posted": "2026-08-20T00:00:00.000Z",
-      "description": "Requires an MSW in clinical social work, state authorization for dialysis practice, clinical licensure such as LCSW or LICSW, experienced social worker proficiency, intermediate computer skills, and insurance program knowledge.",
+      "location": "Pompton Lakes, New Jersey, United States",
+      "url": "https://www.applitrack.com/plpsk12/onlineapp/jobpostings/view.asp?AppliTrackJobId=331",
+      "direct_url": "https://www.applitrack.com/plpsk12/onlineapp/jobpostings/view.asp?AppliTrackJobId=331",
+      "date_posted": "2026-08-12T12:00:00.000Z",
+      "description": "NJ social worker certification, bachelor's degree in an applicable education discipline, and master's degree in social work. Case management experience preferred; requires counseling, assessment, IEP, and communication skills.",
       "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
@@ -242,13 +242,13 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Caraday Healthcare",
+      "company": "Davita",
       "title": "Social Worker",
-      "location": "Round Rock, Texas, United States",
-      "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4412102",
-      "direct_url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4412102",
-      "date_posted": "2026-08-11T21:55:24.000Z",
-      "description": "Bachelor's degree in social work or human services, current social worker license, strong communication and organizational skills, and ability to respond appropriately to emergencies. Two years of related experience preferred.",
+      "location": "Orange City, Florida, United States",
+      "url": "https://davita.wd1.myworkdayjobs.com/dkc_external/job/03459---Orange-City-Dialysis/Social-Worker_R0474222",
+      "direct_url": "https://davita.wd1.myworkdayjobs.com/dkc_external/job/03459---Orange-City-Dialysis/Social-Worker_R0474222",
+      "date_posted": "2026-08-20T00:00:00.000Z",
+      "description": "Requires an MSW in clinical social work, state authorization for dialysis practice, clinical licensure such as LCSW or LICSW, experienced social worker proficiency, intermediate computer skills, and insurance program knowledge.",
       "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
@@ -256,13 +256,13 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Pompton Lakes School District",
+      "company": "Caraday Healthcare",
       "title": "Social Worker",
-      "location": "Pompton Lakes, New Jersey, United States",
-      "url": "https://www.applitrack.com/plpsk12/onlineapp/jobpostings/view.asp?AppliTrackJobId=331",
-      "direct_url": "https://www.applitrack.com/plpsk12/onlineapp/jobpostings/view.asp?AppliTrackJobId=331",
-      "date_posted": "2026-08-12T12:00:00.000Z",
-      "description": "NJ social worker certification, bachelor's degree in an applicable education discipline, and master's degree in social work. Case management experience preferred; requires counseling, assessment, IEP, and communication skills.",
+      "location": "Round Rock, Texas, United States",
+      "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4412102",
+      "direct_url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4412102",
+      "date_posted": "2026-08-11T21:55:24.000Z",
+      "description": "Bachelor's degree in social work or human services, current social worker license, strong communication and organizational skills, and ability to respond appropriately to emergencies. Two years of related experience preferred.",
       "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
@@ -497,10 +497,10 @@
       "company": "The Fedcap Group",
       "title": "Case Manager",
       "location": "Washington, District of Columbia, United States",
-      "url": "https://eckb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/requisitions/job/103374",
-      "direct_url": "https://eckb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/requisitions/job/103374",
-      "date_posted": "2026-08-06T14:53:58.000Z",
-      "description": "Bachelor’s degree in social work, social services, counseling, business administration, or related field and 3 years’ vocational rehabilitation or case management experience; 5 years’ case management may substitute.",
+      "url": "https://eckb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/requisitions/job/103375",
+      "direct_url": "https://eckb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/requisitions/job/103375",
+      "date_posted": "2026-08-06T14:55:35.000Z",
+      "description": "Bachelor's degree in social work, social services, counseling, business administration, or related field and 3 years' vocational rehabilitation or case management experience; 5 years' case management may substitute.",
       "salary": "$52k/yr",
       "job_type": "Full Time",
       "is_remote": false,
@@ -589,20 +589,6 @@
       "job_type": "Full Time",
       "is_remote": true,
       "work_arrangement": "Remote in-state eligible",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Naqvi Injury Law",
-      "title": "Case Manager",
-      "location": "Las Vegas, Nevada, United States",
-      "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4356712",
-      "direct_url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4356712",
-      "date_posted": "2026-07-22T23:15:55.000Z",
-      "description": "2+ years personal injury case management experience, excellent written and verbal communication, strong attention to detail, and exceptional customer service.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
       "ats": "HiringCafe"
     },
     {
@@ -704,20 +690,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Upenn",
-      "title": "Program Coordinator",
-      "location": "Philadelphia, Pennsylvania, United States",
-      "url": "https://upenn.wd1.myworkdayjobs.com/psom/job/Presbyterian-Med-Ctr-FL7/Program-Coordinator_JR00123112",
-      "direct_url": "https://upenn.wd1.myworkdayjobs.com/psom/job/Presbyterian-Med-Ctr-FL7/Program-Coordinator_JR00123112",
-      "date_posted": "2026-07-24T00:00:00.000Z",
-      "description": "Bachelor's degree and 2–3 years experience or equivalent; program/project coordination in academic healthcare, strong organization, scheduling, HRSA reporting familiarity, and excellent communication.",
-      "salary": "$50k–$62k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Nelnet",
       "title": "Program Coordinator",
       "location": "Lincoln, Nebraska, United States",
@@ -726,6 +698,20 @@
       "date_posted": "2026-08-11T00:00:00.000Z",
       "description": "Bachelor's degree or equivalent preferred; 1-3 years in program coordination, project support, operations, or administration. Requires organization, communication, documentation, and Microsoft Office proficiency.",
       "salary": "$50k–$52k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Upenn",
+      "title": "Program Coordinator",
+      "location": "Philadelphia, Pennsylvania, United States",
+      "url": "https://upenn.wd1.myworkdayjobs.com/psom/job/Presbyterian-Med-Ctr-FL7/Program-Coordinator_JR00123112",
+      "direct_url": "https://upenn.wd1.myworkdayjobs.com/psom/job/Presbyterian-Med-Ctr-FL7/Program-Coordinator_JR00123112",
+      "date_posted": "2026-07-24T00:00:00.000Z",
+      "description": "Bachelor's degree and 2–3 years experience or equivalent; program/project coordination in academic healthcare, strong organization, scheduling, HRSA reporting familiarity, and excellent communication.",
+      "salary": "$50k–$62k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
@@ -746,17 +732,17 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "North Orange County Community College District",
+      "company": "The Center for Courageous Kids",
       "title": "Program Coordinator",
-      "location": "Anaheim or Cypress",
-      "url": "https://nocccd.peopleadmin.com/postings/9851",
-      "direct_url": "https://nocccd.peopleadmin.com/postings/9851",
-      "date_posted": "2026-08-19T16:47:11.000Z",
-      "description": "Bachelor’s degree, four years of related training or work experience, and three years of increasingly responsible professional experience in customer service and program coordination. Valid driver’s license required.",
-      "salary": "$83k–$100k/yr",
+      "location": "Scottsville, Kentucky, United States",
+      "url": "https://courageouskids.isolvedhire.com/jobs/1828286",
+      "direct_url": "https://courageouskids.isolvedhire.com/jobs/1828286",
+      "date_posted": "2026-07-24T00:00:00.000Z",
+      "description": "Plan, coordinate, and deliver year-round camp programs and events; design safe, inclusive age-appropriate activities; assist camp operations to support campers, families, staff, and volunteers.",
+      "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
-      "work_arrangement": "Telecommute eligible",
+      "work_arrangement": "On-site",
       "ats": "HiringCafe"
     },
     {
@@ -785,6 +771,20 @@
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "North Orange County Community College District",
+      "title": "Program Coordinator",
+      "location": "Anaheim or Cypress",
+      "url": "https://nocccd.peopleadmin.com/postings/9851",
+      "direct_url": "https://nocccd.peopleadmin.com/postings/9851",
+      "date_posted": "2026-08-19T16:47:11.000Z",
+      "description": "Bachelor’s degree, four years of related training or work experience, and three years of increasingly responsible professional experience in customer service and program coordination. Valid driver’s license required.",
+      "salary": "$83k–$100k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "Telecommute eligible",
       "ats": "HiringCafe"
     },
     {
@@ -1040,20 +1040,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Goodwill Industries of Southwest Florida",
-      "title": "Program Coordinator - MicroEnterprise",
-      "location": "Fort Myers, Florida, United States",
-      "url": "https://goodwillswfl.applicantpro.com/jobs/4169156",
-      "direct_url": "https://goodwillswfl.applicantpro.com/jobs/4169156",
-      "date_posted": "2026-08-06T00:00:00.000Z",
-      "description": "High school diploma or GED and two years of experience in program coordination, workforce development, education, nonprofit management, or small business support. Requires Florida driver's license and strong communication skills.",
-      "salary": "$44k–$47k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "City of Fort Myers, FL",
       "title": "PAL Program Coordinator",
       "location": "Fort Myers, Florida, United States",
@@ -1062,6 +1048,20 @@
       "date_posted": "2026-07-30T18:38:01.649Z",
       "description": "Coordinate and manage recreational programs, facilities, events and staff; supervise employees; pursue grants/sponsorships; possess relevant degree/experience and meet DCF Level II screening and drug testing requirements.",
       "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Goodwill Industries of Southwest Florida",
+      "title": "Program Coordinator - MicroEnterprise",
+      "location": "Fort Myers, Florida, United States",
+      "url": "https://goodwillswfl.applicantpro.com/jobs/4169156",
+      "direct_url": "https://goodwillswfl.applicantpro.com/jobs/4169156",
+      "date_posted": "2026-08-06T00:00:00.000Z",
+      "description": "High school diploma or GED and two years of experience in program coordination, workforce development, education, nonprofit management, or small business support. Requires Florida driver's license and strong communication skills.",
+      "salary": "$44k–$47k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
@@ -1348,5 +1348,34 @@
       "ats": "HiringCafe"
     }
   ],
-  "new_jobs": []
+  "new_jobs": [
+    {
+      "company": "The Fedcap Group",
+      "title": "Case Manager",
+      "location": "Washington, District of Columbia, United States",
+      "url": "https://eckb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/requisitions/job/103375",
+      "direct_url": "https://eckb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/requisitions/job/103375",
+      "date_posted": "2026-08-06T14:55:35.000Z",
+      "description": "Bachelor's degree in social work, social services, counseling, business administration, or related field and 3 years' vocational rehabilitation or case management experience; 5 years' case management may substitute.",
+      "salary": "$52k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "The Center for Courageous Kids",
+      "title": "Program Coordinator",
+      "location": "Scottsville, Kentucky, United States",
+      "url": "https://courageouskids.isolvedhire.com/jobs/1828286",
+      "direct_url": "https://courageouskids.isolvedhire.com/jobs/1828286",
+      "date_posted": "2026-07-24T00:00:00.000Z",
+      "description": "Plan, coordinate, and deliver year-round camp programs and events; design safe, inclusive age-appropriate activities; assist camp operations to support campers, families, staff, and volunteers.",
+      "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    }
+  ]
 }
