@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-22 02:30 UTC",
-  "total": 96,
-  "new_count": 4,
+  "scraped_at": "2026-08-22 03:46 UTC",
+  "total": 94,
+  "new_count": 1,
   "jobs": [
     {
       "company": "Pittsburgh Public Schools",
@@ -43,20 +43,6 @@
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "Telecommute eligible",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Hertford Rehabilitation and Healthcare",
-      "title": "Social Worker",
-      "location": "Hertford or Tarboro",
-      "url": "https://jobs.apploi.com/view/1917791?utm_campaign=integration&utm_medium=job-board-search&utm_source=None&ajs_event=LOAD_JOB_PAGE&ajs_aid=3f617530-4530-11e9-a2ca-7e775511d9e3&ajs_prop_search_fetch_id=9ae7af6a06ff499ba9d77ad4cc37a7b0&ajs_prop_keyword=&ajs_prop_page=1&ajs_prop_city_center=Unselected&ajs_prop_search_order=2&ajs_prop_job_id=1917791&ajs_prop_doc_type=job&ajs_prop_job_location_lat=35.8968236&ajs_prop_job_location_lon=-77.5358049&ajs_prop_boosted=0&ajs_prop_utm_source=None&ajs_prop_utm_medium=job-board-search&ajs_prop_utm_campaign=integration",
-      "direct_url": "https://jobs.apploi.com/view/1917791?utm_campaign=integration&utm_medium=job-board-search&utm_source=None&ajs_event=LOAD_JOB_PAGE&ajs_aid=3f617530-4530-11e9-a2ca-7e775511d9e3&ajs_prop_search_fetch_id=9ae7af6a06ff499ba9d77ad4cc37a7b0&ajs_prop_keyword=&ajs_prop_page=1&ajs_prop_city_center=Unselected&ajs_prop_search_order=2&ajs_prop_job_id=1917791&ajs_prop_doc_type=job&ajs_prop_job_location_lat=35.8968236&ajs_prop_job_location_lon=-77.5358049&ajs_prop_boosted=0&ajs_prop_utm_source=None&ajs_prop_utm_medium=job-board-search&ajs_prop_utm_campaign=integration",
-      "date_posted": "2026-08-06T00:00:00.000Z",
-      "description": "Bachelor's degree in social work or a similar field and two years of social worker experience, preferably in a healthcare setting.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
       "ats": "HiringCafe"
     },
     {
@@ -130,20 +116,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Pointquestgroup",
-      "title": "Social Worker",
-      "location": "Golden, Colorado, United States",
-      "url": "https://pointquestgroup.wd108.myworkdayjobs.com/careerspointquestgroup/job/Golden-CO/Social-Worker_R-102337",
-      "direct_url": "https://pointquestgroup.wd108.myworkdayjobs.com/careerspointquestgroup/job/Golden-CO/Social-Worker_R-102337",
-      "date_posted": "2026-08-14T00:00:00.000Z",
-      "description": "Requires a valid Colorado Department of Education School Social Worker license or credential and a master's degree in social work or a related field. School-based experience is preferred.",
-      "salary": "$104k–$125k/yr",
-      "job_type": "Full Time, Part Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Ellisville Rehabilitation and Nursing",
       "title": "Social Worker",
       "location": "Ballwin, Missouri, United States",
@@ -153,6 +125,20 @@
       "description": "Bachelor's or master's degree in social work or related field, valid Missouri social worker license, strong communication skills, teamwork, and compassionate patient-focused care.",
       "salary": "",
       "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Pointquestgroup",
+      "title": "Social Worker",
+      "location": "Golden, Colorado, United States",
+      "url": "https://pointquestgroup.wd108.myworkdayjobs.com/careerspointquestgroup/job/Golden-CO/Social-Worker_R-102337",
+      "direct_url": "https://pointquestgroup.wd108.myworkdayjobs.com/careerspointquestgroup/job/Golden-CO/Social-Worker_R-102337",
+      "date_posted": "2026-08-14T00:00:00.000Z",
+      "description": "Requires a valid Colorado Department of Education School Social Worker license or credential and a master's degree in social work or a related field. School-based experience is preferred.",
+      "salary": "$104k–$125k/yr",
+      "job_type": "Full Time, Part Time",
       "is_remote": false,
       "work_arrangement": "On-site",
       "ats": "HiringCafe"
@@ -354,20 +340,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Trinityhealth",
-      "title": "Social Worker",
-      "location": "Hartford, Connecticut, United States",
-      "url": "https://trinityhealth.wd1.myworkdayjobs.com/jobs/job/Saint-Francis-Hospital---Hartford-CT/Social-Worker_00688899",
-      "direct_url": "https://trinityhealth.wd1.myworkdayjobs.com/jobs/job/Saint-Francis-Hospital---Hartford-CT/Social-Worker_00688899",
-      "date_posted": "2026-08-19T00:00:00.000Z",
-      "description": "Master's degree, valid Connecticut social worker license with LCSW, and two years of related professional experience required. Strong oral and written communication and analytical skills needed.",
-      "salary": "",
-      "job_type": "Part Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Elida Local School District",
       "title": "Social Worker",
       "location": "Elida, Ohio, United States",
@@ -377,6 +349,20 @@
       "description": "Licensed social worker (LSW/LISW) with an Ohio Pupil Services license or ability to obtain one; at least 1 year of relevant experience preferred and a master's degree preferred.",
       "salary": "",
       "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Trinityhealth",
+      "title": "Social Worker",
+      "location": "Hartford, Connecticut, United States",
+      "url": "https://trinityhealth.wd1.myworkdayjobs.com/jobs/job/Saint-Francis-Hospital---Hartford-CT/Social-Worker_00688899",
+      "direct_url": "https://trinityhealth.wd1.myworkdayjobs.com/jobs/job/Saint-Francis-Hospital---Hartford-CT/Social-Worker_00688899",
+      "date_posted": "2026-08-19T00:00:00.000Z",
+      "description": "Master's degree, valid Connecticut social worker license with LCSW, and two years of related professional experience required. Strong oral and written communication and analytical skills needed.",
+      "salary": "",
+      "job_type": "Part Time",
       "is_remote": false,
       "work_arrangement": "On-site",
       "ats": "HiringCafe"
@@ -774,20 +760,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "North Orange County Community College District",
-      "title": "Program Coordinator",
-      "location": "Anaheim or Cypress",
-      "url": "https://nocccd.peopleadmin.com/postings/9851",
-      "direct_url": "https://nocccd.peopleadmin.com/postings/9851",
-      "date_posted": "2026-08-19T16:47:11.000Z",
-      "description": "Bachelor’s degree, four years of related training or work experience, and three years of increasingly responsible professional experience in customer service and program coordination. Valid driver’s license required.",
-      "salary": "$83k–$100k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "Telecommute eligible",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Oregon",
       "title": "Program Coordinator (Family Court Program Coordinator)",
       "location": "Eugene or Clayton County or Cobb County or DeKalb County or Douglas County or Fayette County or Fulton County or Gwinnett County or Henry County or Jackson County or Rockdale County",
@@ -1054,14 +1026,14 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "IREX",
+      "company": "Specialized Education Services",
       "title": "Program Coordinator",
-      "location": "Washington, District of Columbia, United States",
-      "url": "https://recruiting.ultipro.com/int1065inre/JobBoard/86f30819-0126-446a-84bb-cf37a5e878c1/OpportunityDetail?opportunityId=3bf1ce75-8d14-4997-82f1-9aed8b5bf6ac",
-      "direct_url": "https://recruiting.ultipro.com/int1065inre/JobBoard/86f30819-0126-446a-84bb-cf37a5e878c1/OpportunityDetail?opportunityId=3bf1ce75-8d14-4997-82f1-9aed8b5bf6ac",
-      "date_posted": "2026-08-10T13:59:30.945Z",
-      "description": "Bachelor's degree, 2+ years of relevant professional experience, strong organization and coordination skills, excellent communication, attention to detail, cross-cultural collaboration, and Microsoft Office proficiency.",
-      "salary": "$52k–$67k/yr",
+      "location": "Hoffman Estates, Illinois, United States",
+      "url": "https://careers.fullbloom.org/jobs/37894?lang=en-us",
+      "direct_url": "https://careers.fullbloom.org/jobs/37894?lang=en-us",
+      "date_posted": "2026-08-12T16:18:10.000Z",
+      "description": "Bachelor's degree or higher in education, social work, special education, or related field required. Three years' experience with children or adolescents preferred, plus coordination and communication skills.",
+      "salary": "$63k–$65k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
@@ -1350,56 +1322,14 @@
   ],
   "new_jobs": [
     {
-      "company": "State of Utah",
-      "title": "Social Worker",
-      "location": "Salt Lake City, Utah, United States",
-      "url": "https://utdgohcm.csod.com/ux/ats/careersite/4/home/requisition/2035?c=utdgohcm",
-      "direct_url": "https://utdgohcm.csod.com/ux/ats/careersite/4/home/requisition/2035?c=utdgohcm",
-      "date_posted": "2026-08-18T00:00:00.000Z",
-      "description": "Utah licensure as a certified social worker, licensed clinical social worker, marriage and family therapist, or mental health counselor; 2+ years supporting people with intellectual disabilities and court-system experience.",
-      "salary": "$69k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "Telecommute eligible",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Ellisville Rehabilitation and Nursing",
-      "title": "Social Worker",
-      "location": "Ballwin, Missouri, United States",
-      "url": "https://jobs.apploi.com/view/1726703?utm_campaign=integration&utm_medium=job-board-search&utm_source=None&ajs_event=LOAD_JOB_PAGE&ajs_aid=3f617530-4530-11e9-a2ca-7e775511d9e3&ajs_prop_search_fetch_id=e68fdb4ad7f84af59829f8017bcb6deb&ajs_prop_keyword=&ajs_prop_page=1&ajs_prop_city_center=Unselected&ajs_prop_search_order=2&ajs_prop_job_id=1726703&ajs_prop_doc_type=job&ajs_prop_job_location_lat=38.5820007&ajs_prop_job_location_lon=-90.5940231&ajs_prop_boosted=0&ajs_prop_utm_source=None&ajs_prop_utm_medium=job-board-search&ajs_prop_utm_campaign=integration",
-      "direct_url": "https://jobs.apploi.com/view/1726703?utm_campaign=integration&utm_medium=job-board-search&utm_source=None&ajs_event=LOAD_JOB_PAGE&ajs_aid=3f617530-4530-11e9-a2ca-7e775511d9e3&ajs_prop_search_fetch_id=e68fdb4ad7f84af59829f8017bcb6deb&ajs_prop_keyword=&ajs_prop_page=1&ajs_prop_city_center=Unselected&ajs_prop_search_order=2&ajs_prop_job_id=1726703&ajs_prop_doc_type=job&ajs_prop_job_location_lat=38.5820007&ajs_prop_job_location_lon=-90.5940231&ajs_prop_boosted=0&ajs_prop_utm_source=None&ajs_prop_utm_medium=job-board-search&ajs_prop_utm_campaign=integration",
-      "date_posted": "2026-08-21T00:00:00.000Z",
-      "description": "Bachelor's or master's degree in social work or related field, valid Missouri social worker license, strong communication skills, teamwork, and compassionate patient-focused care.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "The Fedcap Group",
-      "title": "Case Manager",
-      "location": "Washington, District of Columbia, United States",
-      "url": "https://eckb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/requisitions/job/103375",
-      "direct_url": "https://eckb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/requisitions/job/103375",
-      "date_posted": "2026-08-06T14:55:35.000Z",
-      "description": "Bachelor's degree in social work, social services, counseling, business administration, or related field and 3 years' vocational rehabilitation or case management experience; 5 years' case management may substitute.",
-      "salary": "$52k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "AIDS Healthcare Foundation",
-      "title": "Community Health Worker",
-      "location": "Houston, Texas, United States",
-      "url": "https://myjobs.adp.com/ahfexternalcareers/cx/job-details?reqId=5001210196406",
-      "direct_url": "https://myjobs.adp.com/ahfexternalcareers/cx/job-details?reqId=5001210196406",
-      "date_posted": "2026-07-24T15:18:16.000Z",
-      "description": "High school diploma required; associate/bachelor's in public health or related preferred; ~3 years related experience or equivalent; outreach, patient engagement, and care navigation experience.",
-      "salary": "",
+      "company": "Specialized Education Services",
+      "title": "Program Coordinator",
+      "location": "Hoffman Estates, Illinois, United States",
+      "url": "https://careers.fullbloom.org/jobs/37894?lang=en-us",
+      "direct_url": "https://careers.fullbloom.org/jobs/37894?lang=en-us",
+      "date_posted": "2026-08-12T16:18:10.000Z",
+      "description": "Bachelor's degree or higher in education, social work, special education, or related field required. Three years' experience with children or adolescents preferred, plus coordination and communication skills.",
+      "salary": "$63k–$65k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
