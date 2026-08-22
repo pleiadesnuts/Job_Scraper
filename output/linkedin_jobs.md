@@ -1,44 +1,27 @@
 # 🔥 LinkedIn — Social Worker Roles
-*Last updated: 2026-08-22 20:55 UTC*
+*Last updated: 2026-08-22 21:56 UTC*
 
-**9 new role(s)** since last run · 10 total in last 1h
+**5 new role(s)** since last run · 12 total in last 1h
 
-### [Behavioral Health Specialist (Assessment), Social Work/Counselor III - Youth Services Center.](https://www.linkedin.com/jobs/view/4457847417/) — State of Colorado
-- 📍 **Location:** Golden, CO
-- 🕒 **Posted:** 2026-08-22
-
-### [Front End Service Team Supervisor](https://www.linkedin.com/jobs/view/4457849305/) — Walmart
-- 📍 **Location:** Littleton, CO
-- 💰 **Salary:** $23.00/hr - $36.00/hr
-- 🕒 **Posted:** 2026-08-22
-
-### [Patient Care Coordinator](https://www.linkedin.com/jobs/view/4456679384/) — RemoteHunter
+### [Program Coordinator (Health Policy and Management)](https://www.linkedin.com/jobs/view/4456685048/) — RemoteHunter
 - 📍 **Location:** United States
-- 💰 **Salary:** $25.00 to $28.00 per hour
+- 💰 **Salary:** $21.80–$37.80
 - 🕒 **Posted:** 2026-08-22
 
-### [Patient Care Coordinator](https://www.linkedin.com/jobs/view/4456800011/) — RemoteHunter
-- 📍 **Location:** United States
+### [Project Supervisor](https://www.linkedin.com/jobs/view/4456679239/) — KBS - Kellermeyer Bergensons Services, LLC
+- 📍 **Location:** Las Cruces, NM
+- 💰 **Salary:** $20.00/hr - $20.06/hr
 - 🕒 **Posted:** 2026-08-22
 
-### [Health and Wellness Coordinator](https://www.linkedin.com/jobs/view/4456684014/) — RemoteHunter
-- 📍 **Location:** United States
+### [FS&T Assistant Supervisor](https://www.linkedin.com/jobs/view/4457849391/) — Amentum
+- 📍 **Location:** McMurdo Station, Antarctica
 - 🕒 **Posted:** 2026-08-22
 
-### [Remote Customer Care Coordinator](https://www.linkedin.com/jobs/view/4455046342/) — Talentoma
-- 📍 **Location:** Georgia, United States
-- 💰 **Salary:** $5,100.00/mo - $5,600.00/mo
+### [Registered Nurse Case Manager](https://www.linkedin.com/jobs/view/4454371086/) — Merakey
+- 📍 **Location:** Warminster, PA
 - 🕒 **Posted:** 2026-08-22
 
-### [HCV Supervisor](https://www.linkedin.com/jobs/view/4455048285/) — Housing Authority of County of Jackson, Illinois
-- 📍 **Location:** Murphysboro, IL
-- 🕒 **Posted:** 2026-08-22
-
-### [Supervisor](https://www.linkedin.com/jobs/view/4457846334/) — MAGMAS
-- 📍 **Location:** Dungannon, Northern Ireland, United Kingdom
-- 🕒 **Posted:** 2026-08-22
-
-### [Social Work Case Manager, Case Management, $10,000 Bonus, FT, 08A-4:30P](https://www.linkedin.com/jobs/view/4457863391/) — Baptist Health Boca Raton Regional Hospital
-- 📍 **Location:** Boca Raton, FL
-- 💰 **Salary:** $60249.48 - $78324.32
+### [Extended School Program Coordinator](https://www.linkedin.com/jobs/view/4456680073/) — Fountain Valley School District
+- 📍 **Location:** Fountain Valley, CA
+- 💰 **Salary:** $4,918 - $5,981
 - 🕒 **Posted:** 2026-08-22
