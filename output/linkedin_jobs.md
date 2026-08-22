@@ -1,86 +1,96 @@
 # 🔥 LinkedIn — Social Worker Roles
-*Last updated: 2026-08-22 19:10 UTC*
+*Last updated: 2026-08-22 20:01 UTC*
 
-**18 new role(s)** since last run · 18 total in last 1h
+**22 new role(s)** since last run · 38 total in last 1h
 
-### [Mobile FAP Case Manager](https://www.linkedin.com/jobs/view/4378556678/) — Zeiders Enterprises, Inc.
+### [Psychiatric Social Worker](https://www.linkedin.com/jobs/view/4456669454/) — Kaiser Permanente
+- 📍 **Location:** Los Angeles, CA
+- 💰 **Salary:** $59.45/hr - $75.90/hr
+- 🕒 **Posted:** 2026-08-22
+
+### [Grants & Contracts Office Program Supervisor - Office of Research](https://www.linkedin.com/jobs/view/4430907648/) — Medical College of Wisconsin
+- 📍 **Location:** Milwaukee, WI
+- 🕒 **Posted:** 2026-08-22
+
+### [Grant Writer at Goodstack](https://www.linkedin.com/jobs/view/4456654636/) — Jack & Jill
 - 📍 **Location:** United States
 - 🕒 **Posted:** 2026-08-22
 
-### [Senior Technical Program Manager](https://www.linkedin.com/jobs/view/4455061120/) — Loft Orbital
-- 📍 **Location:** Golden, CO
-- 💰 **Salary:** $150,000.00/yr - $190,000.00/yr
-- 🕒 **Posted:** 2026-08-22
-
-### [IPV & SA Case Manager](https://www.linkedin.com/jobs/view/4457861071/) — Hilltop Community Resources
-- 📍 **Location:** Grand Junction, CO
-- 💰 **Salary:** $26.35 - $27.66 per hour
-- 🕒 **Posted:** 2026-08-22
-
-### [Social Services Case Manager - Psychiatry Adult Inpatient - Per Diem - Days - MRH](https://www.linkedin.com/jobs/view/4438333348/) — Memorial Healthcare System
-- 📍 **Location:** Hollywood, FL
-- 🕒 **Posted:** 2026-08-22
-
-### [Program Coordinator, Data Philanthropy](https://www.linkedin.com/jobs/view/4430901254/) — Fred Hutch
-- 📍 **Location:** Seattle, WA
-- 💰 **Salary:** $31.26 to $44.51
-- 🕒 **Posted:** 2026-08-22
-
-### [Healthcare Coordinator](https://www.linkedin.com/jobs/view/4447715251/) — PDS Health
-- 📍 **Location:** San Diego, CA
-- 💰 **Salary:** $18.00/hr - $25.50/hr
-- 🕒 **Posted:** 2026-08-22
-
-### [Patient Care Coordinator](https://www.linkedin.com/jobs/view/4438697899/) — BenchMark Physical Therapy
-- 📍 **Location:** Medford, OR
-- 🕒 **Posted:** 2026-08-22
-
-### [Patient Care Coordinator](https://www.linkedin.com/jobs/view/4061619247/) — Castellon Plastic Surgery Center
-- 📍 **Location:** Melbourne, FL
-- 💰 **Salary:** $54,000.00/yr - $58,000.00/yr
-- 🕒 **Posted:** 2026-08-22
-
-### [Program Manager - Homeless Services](https://www.linkedin.com/jobs/view/4446767656/) — People Encouraging People
+### [Community Education Specialist](https://www.linkedin.com/jobs/view/4457846225/) — Maryland Nonprofits
 - 📍 **Location:** Baltimore, MD
-- 💰 **Salary:** $70,000.00/yr - $80,000.00/yr
 - 🕒 **Posted:** 2026-08-22
 
-### [On-Call Youth Counselor](https://www.linkedin.com/jobs/view/4457855076/) — Stars Behavioral Health Group
-- 📍 **Location:** Bakersfield, CA
+### [Transition Specialist](https://www.linkedin.com/jobs/view/4457853186/) — Paraquad
+- 📍 **Location:** St Louis, MO
 - 🕒 **Posted:** 2026-08-22
 
-### [Social Services Case Manager - Psychiatry Adult Inpatient - FT - Days - MRH](https://www.linkedin.com/jobs/view/4438319988/) — Memorial Healthcare System
-- 📍 **Location:** Hollywood, FL
+### [Program Manager - Housing Services - Boise 23rd](https://www.linkedin.com/jobs/view/4457865218/) — Terry Reilly Health Services
+- 📍 **Location:** Boise, ID
 - 🕒 **Posted:** 2026-08-22
 
-### [Family Support Worker](https://www.linkedin.com/jobs/view/4445559274/) — Metropolitan Family Services
-- 📍 **Location:** Chicago, IL
+### [Social Worker - Tompkins](https://www.linkedin.com/jobs/view/4457856238/) — The Children's Home
+- 📍 **Location:** Ithaca, NY
+- 💰 **Salary:** $67,000-$73,000
 - 🕒 **Posted:** 2026-08-22
 
-### [Mobile Veterinary Supervisor-VIP Petcare](https://www.linkedin.com/jobs/view/4439524596/) — VIP Petcare
-- 📍 **Location:** Cleveland, OH
+### [Program Coordinator - Group Supported Employment](https://www.linkedin.com/jobs/view/4457848234/) — Echo Communications
+- 📍 **Location:** Leesburg, VA
 - 🕒 **Posted:** 2026-08-22
 
-### [Patient Care Coordinator - Women's Clinic](https://www.linkedin.com/jobs/view/4447539744/) — Fred Hutch
-- 📍 **Location:** Seattle, WA
-- 💰 **Salary:** $27.01 to $38.45
+### [Reach Up Case Manager](https://www.linkedin.com/jobs/view/4455065267/) — State of Vermont
+- 📍 **Location:** Brattleboro, VT
 - 🕒 **Posted:** 2026-08-22
 
-### [Technical Program Manager, NPI](https://www.linkedin.com/jobs/view/4456655536/) — Fluidstack
-- 📍 **Location:** Seattle, WA
-- 💰 **Salary:** $205,000.00/yr - $240,000.00/yr
+### [Substance Abuse Counselor - Rio Arriba County](https://www.linkedin.com/jobs/view/4457857208/) — Roadrunner Health Services
+- 📍 **Location:** Tierra Amarilla, NM
 - 🕒 **Posted:** 2026-08-22
 
-### [Technical Program Manager, NPI](https://www.linkedin.com/jobs/view/4456667476/) — Fluidstack
-- 📍 **Location:** Austin, TX
-- 💰 **Salary:** $205,000.00/yr - $240,000.00/yr
+### [Graduate Program Coordinator](https://www.linkedin.com/jobs/view/4457848192/) — The University of British Columbia
+- 📍 **Location:** Vancouver, British Columbia, Canada
+- 💰 **Salary:** $4,739.00 - $5,102.00
 - 🕒 **Posted:** 2026-08-22
 
-### [Technical Program Manager, NPI](https://www.linkedin.com/jobs/view/4456659490/) — Fluidstack
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $205,000.00/yr - $240,000.00/yr
+### [Social Worker - Cortland](https://www.linkedin.com/jobs/view/4457855220/) — The Children's Home
+- 📍 **Location:** Cortland, NY
+- 💰 **Salary:** $67,000-$73,000
 - 🕒 **Posted:** 2026-08-22
 
-### [Qualified Children's Social Worker](https://www.linkedin.com/jobs/view/4453569421/) — Cafcass (Children and Family Court Advisory and Support Service)
-- 📍 **Location:** Suffolk, England, United Kingdom
+### [Child & Adolescent Mental Health Case Manager](https://www.linkedin.com/jobs/view/4457846174/) — Rockbridge Area Community Services
+- 📍 **Location:** Lexington, VA
+- 🕒 **Posted:** 2026-08-22
+
+### [Care Coordinator - Full-time](https://www.linkedin.com/jobs/view/4457861182/) — Care Advantage, Inc.
+- 📍 **Location:** Staunton, VA
+- 🕒 **Posted:** 2026-08-22
+
+### [Medical Case Manager - Workers' Compensation](https://www.linkedin.com/jobs/view/4457856192/) — ForzaCare
+- 📍 **Location:** Homestead, PA
+- 🕒 **Posted:** 2026-08-22
+
+### [Case Manager - Rio Fresco Shelter](https://www.linkedin.com/jobs/view/4456676060/) — Community Bridges
+- 📍 **Location:** Phoenix, AZ
+- 🕒 **Posted:** 2026-08-22
+
+### [Area Supervisor (Human Services)](https://www.linkedin.com/jobs/view/4457854207/) — Life's New Beginning
+- 📍 **Location:** York, PA
+- 🕒 **Posted:** 2026-08-22
+
+### [Program Coordinator III for Northern Utah Home Visiting](https://www.linkedin.com/jobs/view/4457868226/) — Utah State University
+- 📍 **Location:** Logan, UT
+- 🕒 **Posted:** 2026-08-22
+
+### [Dialysis Social Worker](https://www.linkedin.com/jobs/view/4457853230/) — aQua Dialysis
+- 📍 **Location:** Stafford, TX
+- 🕒 **Posted:** 2026-08-22
+
+### [Team Leader](https://www.linkedin.com/jobs/view/4457849111/) — Greene King
+- 📍 **Location:** Worden, England, United Kingdom
+- 🕒 **Posted:** 2026-08-22
+
+### [Qualified Children's Social Worker](https://www.linkedin.com/jobs/view/4453565447/) — Cafcass (Children and Family Court Advisory and Support Service)
+- 📍 **Location:** Essex, England, United Kingdom
+- 🕒 **Posted:** 2026-08-22
+
+### [Team Leader](https://www.linkedin.com/jobs/view/4457856126/) — Greene King
+- 📍 **Location:** Menai Bridge, Wales, United Kingdom
 - 🕒 **Posted:** 2026-08-22
