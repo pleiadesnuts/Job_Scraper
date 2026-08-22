@@ -1,23 +1,11 @@
 # ☕ HiringCafe — Social Worker Roles
-*Last updated: 2026-08-22 19:37 UTC*
+*Last updated: 2026-08-22 20:26 UTC*
 
-**3 new role(s)** since last run · 94 total in last 30d
+**1 new role(s)** since last run · 92 total in last 30d
 
-### [Social Worker](https://jobs.ascension.org/jobs/458089?lang=en-us) — Ascension
-- 📍 **Location:** Tulsa, Oklahoma, United States
+### [Program Coordinator](https://recruiting.ultipro.com/int1065inre/JobBoard/86f30819-0126-446a-84bb-cf37a5e878c1/OpportunityDetail?opportunityId=3bf1ce75-8d14-4997-82f1-9aed8b5bf6ac) — IREX
+- 📍 **Location:** Washington, District of Columbia, United States
+- 💰 **Salary:** $52k–$67k/yr
 - **Work mode:** On-site
 - **Job type:** Full Time
-- 🕒 **Posted:** 2026-07-27T13:49:57.000Z
-
-### [Social Worker ](https://jobs.dayforcehcm.com/en-US/cxb/candidateportal/jobs/21666) — Cxb
-- 📍 **Location:** New York, New York, United States
-- **Work mode:** On-site
-- **Job type:** Part Time
-- 🕒 **Posted:** 2026-08-03T04:00:00.000Z
-
-### [Program Coordinator](https://umd.wd1.myworkdayjobs.com/umcp/job/University-of-Maryland-College-Park/Program-Coordinator_JR104565) — University of Maryland, College Park
-- 📍 **Location:** College Park, Maryland, United States
-- 💰 **Salary:** $65k–$69k/yr
-- **Work mode:** On-site
-- **Job type:** Full Time
-- 🕒 **Posted:** 2026-07-31T00:00:00.000Z
+- 🕒 **Posted:** 2026-08-10T13:59:30.945Z
