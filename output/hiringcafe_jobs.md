@@ -1,11 +1,17 @@
 # ☕ HiringCafe — Social Worker Roles
-*Last updated: 2026-08-22 03:46 UTC*
+*Last updated: 2026-08-22 04:45 UTC*
 
-**1 new role(s)** since last run · 94 total in last 30d
+**2 new role(s)** since last run · 95 total in last 30d
 
-### [Program Coordinator](https://careers.fullbloom.org/jobs/37894?lang=en-us) — Specialized Education Services
-- 📍 **Location:** Hoffman Estates, Illinois, United States
-- 💰 **Salary:** $63k–$65k/yr
-- **Work mode:** On-site
+### [Program Coordinator](https://nocccd.peopleadmin.com/postings/9851) — North Orange County Community College District
+- 📍 **Location:** Anaheim or Cypress
+- 💰 **Salary:** $83k–$100k/yr
+- **Work mode:** Telecommute eligible
 - **Job type:** Full Time
-- 🕒 **Posted:** 2026-08-12T16:18:10.000Z
+- 🕒 **Posted:** 2026-08-19T16:47:11.000Z
+
+### [Program Coordinator](https://opportunities.internationalsos.com/careers/job/563980770568748) — International SOS
+- 📍 **Location:** Houston, Texas, United States
+- **Work mode:** Telecommute eligible
+- **Job type:** Full Time
+- 🕒 **Posted:** 2026-08-22T00:46:18.000Z

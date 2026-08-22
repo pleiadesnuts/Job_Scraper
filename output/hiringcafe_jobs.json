@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-22 03:46 UTC",
-  "total": 94,
-  "new_count": 1,
+  "scraped_at": "2026-08-22 04:45 UTC",
+  "total": 95,
+  "new_count": 2,
   "jobs": [
     {
       "company": "Pittsburgh Public Schools",
@@ -746,6 +746,20 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "North Orange County Community College District",
+      "title": "Program Coordinator",
+      "location": "Anaheim or Cypress",
+      "url": "https://nocccd.peopleadmin.com/postings/9851",
+      "direct_url": "https://nocccd.peopleadmin.com/postings/9851",
+      "date_posted": "2026-08-19T16:47:11.000Z",
+      "description": "Bachelor’s degree, four years of related training or work experience, and three years of increasingly responsible professional experience in customer service and program coordination. Valid driver’s license required.",
+      "salary": "$83k–$100k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "Telecommute eligible",
+      "ats": "HiringCafe"
+    },
+    {
       "company": "Uasys",
       "title": "Program Coordinator",
       "location": "Little Rock, Arkansas, United States",
@@ -788,20 +802,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Obvio AI",
-      "title": "Program Coordinator ",
-      "location": "College Park or North America",
-      "url": "https://jobs.ashbyhq.com/obvio/8393133e-ffed-4add-9e4a-e4e30bed62f1",
-      "direct_url": "https://jobs.ashbyhq.com/obvio/8393133e-ffed-4add-9e4a-e4e30bed62f1",
-      "date_posted": "2026-08-18T15:56:34.335Z",
-      "description": "Requires 2+ years in customer success, program coordination, operations, or related client-facing work; strong communication and organization; digital record-keeping proficiency; valid driver's license and reliable transportation.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "TriState Light & Energy",
       "title": "Program Coordinator",
       "location": "New Brunswick, New Jersey, United States",
@@ -810,6 +810,20 @@
       "date_posted": "2026-08-20T00:00:00.000Z",
       "description": "Bachelor's degree or equivalent experience; 2–4 years in program or project coordination, administration, or related work. Requires organization, communication, multitasking, problem-solving, and Microsoft Office and Google Workspace proficiency.",
       "salary": "$50k–$60k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Obvio AI",
+      "title": "Program Coordinator ",
+      "location": "College Park or North America",
+      "url": "https://jobs.ashbyhq.com/obvio/8393133e-ffed-4add-9e4a-e4e30bed62f1",
+      "direct_url": "https://jobs.ashbyhq.com/obvio/8393133e-ffed-4add-9e4a-e4e30bed62f1",
+      "date_posted": "2026-08-18T15:56:34.335Z",
+      "description": "Requires 2+ years in customer success, program coordination, operations, or related client-facing work; strong communication and organization; digital record-keeping proficiency; valid driver's license and reliable transportation.",
+      "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
@@ -998,17 +1012,17 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Goodwill Industries of Southwest Florida",
-      "title": "Program Coordinator - MicroEnterprise",
-      "location": "Fort Myers, Florida, United States",
-      "url": "https://goodwillswfl.applicantpro.com/jobs/4169156",
-      "direct_url": "https://goodwillswfl.applicantpro.com/jobs/4169156",
-      "date_posted": "2026-08-06T00:00:00.000Z",
-      "description": "High school diploma or GED and two years of experience in program coordination, workforce development, education, nonprofit management, or small business support. Requires Florida driver's license and strong communication skills.",
-      "salary": "$44k–$47k/yr",
+      "company": "International SOS",
+      "title": "Program Coordinator",
+      "location": "Houston, Texas, United States",
+      "url": "https://opportunities.internationalsos.com/careers/job/563980770568748",
+      "direct_url": "https://opportunities.internationalsos.com/careers/job/563980770568748",
+      "date_posted": "2026-08-22T00:46:18.000Z",
+      "description": "Bachelor's degree or equivalent experience, 5+ years of professional experience, project coordination experience, strong organization and communication skills, risk management familiarity, and Salesforce knowledge.",
+      "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
-      "work_arrangement": "On-site",
+      "work_arrangement": "Telecommute eligible",
       "ats": "HiringCafe"
     },
     {
@@ -1026,14 +1040,14 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Specialized Education Services",
-      "title": "Program Coordinator",
-      "location": "Hoffman Estates, Illinois, United States",
-      "url": "https://careers.fullbloom.org/jobs/37894?lang=en-us",
-      "direct_url": "https://careers.fullbloom.org/jobs/37894?lang=en-us",
-      "date_posted": "2026-08-12T16:18:10.000Z",
-      "description": "Bachelor's degree or higher in education, social work, special education, or related field required. Three years' experience with children or adolescents preferred, plus coordination and communication skills.",
-      "salary": "$63k–$65k/yr",
+      "company": "Goodwill Industries of Southwest Florida",
+      "title": "Program Coordinator - MicroEnterprise",
+      "location": "Fort Myers, Florida, United States",
+      "url": "https://goodwillswfl.applicantpro.com/jobs/4169156",
+      "direct_url": "https://goodwillswfl.applicantpro.com/jobs/4169156",
+      "date_posted": "2026-08-06T00:00:00.000Z",
+      "description": "High school diploma or GED and two years of experience in program coordination, workforce development, education, nonprofit management, or small business support. Requires Florida driver's license and strong communication skills.",
+      "salary": "$44k–$47k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
@@ -1322,17 +1336,31 @@
   ],
   "new_jobs": [
     {
-      "company": "Specialized Education Services",
+      "company": "North Orange County Community College District",
       "title": "Program Coordinator",
-      "location": "Hoffman Estates, Illinois, United States",
-      "url": "https://careers.fullbloom.org/jobs/37894?lang=en-us",
-      "direct_url": "https://careers.fullbloom.org/jobs/37894?lang=en-us",
-      "date_posted": "2026-08-12T16:18:10.000Z",
-      "description": "Bachelor's degree or higher in education, social work, special education, or related field required. Three years' experience with children or adolescents preferred, plus coordination and communication skills.",
-      "salary": "$63k–$65k/yr",
+      "location": "Anaheim or Cypress",
+      "url": "https://nocccd.peopleadmin.com/postings/9851",
+      "direct_url": "https://nocccd.peopleadmin.com/postings/9851",
+      "date_posted": "2026-08-19T16:47:11.000Z",
+      "description": "Bachelor’s degree, four years of related training or work experience, and three years of increasingly responsible professional experience in customer service and program coordination. Valid driver’s license required.",
+      "salary": "$83k–$100k/yr",
       "job_type": "Full Time",
       "is_remote": false,
-      "work_arrangement": "On-site",
+      "work_arrangement": "Telecommute eligible",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "International SOS",
+      "title": "Program Coordinator",
+      "location": "Houston, Texas, United States",
+      "url": "https://opportunities.internationalsos.com/careers/job/563980770568748",
+      "direct_url": "https://opportunities.internationalsos.com/careers/job/563980770568748",
+      "date_posted": "2026-08-22T00:46:18.000Z",
+      "description": "Bachelor's degree or equivalent experience, 5+ years of professional experience, project coordination experience, strong organization and communication skills, risk management familiarity, and Salesforce knowledge.",
+      "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "Telecommute eligible",
       "ats": "HiringCafe"
     }
   ]
