@@ -1,127 +1,119 @@
 # 🔥 LinkedIn — Social Worker Roles
-*Last updated: 2026-08-22 15:59 UTC*
+*Last updated: 2026-08-22 17:59 UTC*
 
-**27 new role(s)** since last run · 27 total in last 1h
+**26 new role(s)** since last run · 26 total in last 1h
 
-### [Retail Supervisor-OUTLETS AT CASTLE ROCK](https://www.linkedin.com/jobs/view/4447540341/) — Bath & Body Works
-- 📍 **Location:** Castle Rock, CO
-- 💰 **Salary:** $20.16/hr - $20.16/hr
+### [Behavioral Health Specialist (Assessment), Social Work/Counselor III - Youth Services Center](https://www.linkedin.com/jobs/view/4457832279/) — State of Colorado
+- 📍 **Location:** Golden, CO
 - 🕒 **Posted:** 2026-08-22
 
-### [Social Worker Case Management](https://www.linkedin.com/jobs/view/4447418888/) — Ascension
-- 📍 **Location:** Milwaukee, WI
+### [Behavioral Health Specialist](https://www.linkedin.com/jobs/view/4420225531/) — Children's Hospital Colorado
+- 📍 **Location:** Aurora, CO
+- 💰 **Salary:** $22.20 to $33.30
 - 🕒 **Posted:** 2026-08-22
 
-### [Social Worker](https://www.linkedin.com/jobs/view/4457836069/) — Brant Community Healthcare System
-- 📍 **Location:** Brantford, Ontario, Canada
+### [Social Worker](https://www.linkedin.com/jobs/view/4447748066/) — IHA
+- 📍 **Location:** Des Moines, IA
 - 🕒 **Posted:** 2026-08-22
 
-### [Hospice Volunteer Coordinator FT](https://www.linkedin.com/jobs/view/4457833055/) — Enhabit Home Health & Hospice
-- 📍 **Location:** Anniston, AL
+### [Gestionnaire de cas - Case Manager](https://www.linkedin.com/jobs/view/4436639352/) — Bayshore HealthCare
+- 📍 **Location:** Mississauga, Ontario, Canada
 - 🕒 **Posted:** 2026-08-22
 
-### [Patient Access Supervisor](https://www.linkedin.com/jobs/view/4456659191/) — Metro Community Health Center
-- 📍 **Location:** Pittsburgh, PA
+### [Care Transition Manager, Social Worker - PRN](https://www.linkedin.com/jobs/view/4447562397/) — Texas Health Resources
+- 📍 **Location:** Dallas, TX
 - 🕒 **Posted:** 2026-08-22
 
-### [Integrations Program Manager](https://www.linkedin.com/jobs/view/4429603444/) — Twitch
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $82,700—$129,800 USD
+### [PRN Social Worker MSW](https://www.linkedin.com/jobs/view/4411441879/) — Methodist Healthcare System
+- 📍 **Location:** San Antonio, TX
 - 🕒 **Posted:** 2026-08-22
 
-### [Youth & Family Programs Supervisor](https://www.linkedin.com/jobs/view/4438848631/) — Atlantic Fields Club
-- 📍 **Location:** Hobe Sound, FL
+### [Social Worker MSW PRN](https://www.linkedin.com/jobs/view/4447591661/) — Medical City Healthcare
+- 📍 **Location:** Lewisville, TX
 - 🕒 **Posted:** 2026-08-22
 
-### [Case Manager](https://www.linkedin.com/jobs/view/4447413692/) — Canadian Mental Health Association (CMHA) - Toronto
-- 📍 **Location:** Scarborough, Ontario, Canada
-- 💰 **Salary:** $54,943.00/yr - CA$60,203.00/yr
-- 🕒 **Posted:** 2026-08-22
-
-### [Social Worker Case Management](https://www.linkedin.com/jobs/view/4447414957/) — Ascension
-- 📍 **Location:** Milwaukee, WI
-- 🕒 **Posted:** 2026-08-22
-
-### [Licensed Master Social Worker - Temporary](https://www.linkedin.com/jobs/view/4447587071/) — IHA
-- 📍 **Location:** Syracuse, NY
-- 💰 **Salary:** $32.97 - $47.50
-- 🕒 **Posted:** 2026-08-22
-
-### [Community Health Worker](https://www.linkedin.com/jobs/view/4447702972/) — AltaMed Health Services
-- 📍 **Location:** Anaheim, CA
-- 💰 **Salary:** $26.91 - $33.53 hourly
-- 🕒 **Posted:** 2026-08-22
-
-### [Social Worker II](https://www.linkedin.com/jobs/view/4457825216/) — Saint Vincent Hospital
-- 📍 **Location:** Worcester, MA
-- 💰 **Salary:** $23.47 - $35.21 hourly
-- 🕒 **Posted:** 2026-08-22
-
-### [Clinical Social Worker, LICSW, Outpatient Endocrinology](https://www.linkedin.com/jobs/view/4402071244/) — Boston Children's Hospital
+### [Diabetes Technology & Care Coordinator - Joslin Diabetes Center](https://www.linkedin.com/jobs/view/4447708428/) — Beth Israel Lahey Health
 - 📍 **Location:** Boston, MA
-- 💰 **Salary:** $69,888.00/yr - $111,831.20/yr
+- 💰 **Salary:** $22.05 - $29.68
 - 🕒 **Posted:** 2026-08-22
 
-### [Master Social Worker - MSW](https://www.linkedin.com/jobs/view/4419998883/) — Fresenius Medical Care
-- 📍 **Location:** Yarmouth, MA
-- 💰 **Salary:** $64,000.00 - $107,000.00
+### [Supervisor – Homeless Prevention](https://www.linkedin.com/jobs/view/4456660434/) — HOM, Inc.
+- 📍 **Location:** Burbank, CA
 - 🕒 **Posted:** 2026-08-22
 
-### [Addictions Services Team Leader (Prevention)](https://www.linkedin.com/jobs/view/4447719104/) — Greater Cincinnati Behavioral Health Services
-- 📍 **Location:** Batavia, OH
+### [Patient Care Coordinator _BIDMC](https://www.linkedin.com/jobs/view/4419981823/) — Beth Israel Lahey Health
+- 📍 **Location:** Boston, MA
+- 💰 **Salary:** $21.00 - $28.26
 - 🕒 **Posted:** 2026-08-22
 
-### [Lead Outreach Case Manager](https://www.linkedin.com/jobs/view/4456674084/) — Special Service for Groups
-- 📍 **Location:** Los Angeles, CA
-- 💰 **Salary:** $27.81 - $29.00 per hour
+### [Contingent Workforce Program Coordinator -VNDLY-$75/hr](https://www.linkedin.com/jobs/view/4454221178/) — Trilyon, Inc.
+- 📍 **Location:** San Francisco Bay Area
 - 🕒 **Posted:** 2026-08-22
 
-### [Client Services Supervisor](https://www.linkedin.com/jobs/view/4456653274/) — Quadel
-- 📍 **Location:** Miami, FL
+### [MILITARY PROGRAM COORDINATOR](https://www.linkedin.com/jobs/view/4438372093/) — State of Arkansas
+- 📍 **Location:** Fort Smith, AR
+- 💰 **Salary:** $52,137 – $77,163
 - 🕒 **Posted:** 2026-08-22
 
-### [Service Agent, Patient Care Coordinator](https://www.linkedin.com/jobs/view/4435932090/) — Talkiatry
-- 📍 **Location:** United States
-- 💰 **Salary:** $19.00/hr - $19.00/hr
+### [Licensed Master Social Worker (NY HELPS), Buffalo Psychiatric Center, Mobile Integration Team, Zoar Valley Clinic, P27024](https://www.linkedin.com/jobs/view/4410953398/) — New York State Office of Mental Health
+- 📍 **Location:** Gowanda, NY
+- 💰 **Salary:** $74,193.00/yr - $94,121.00/yr
 - 🕒 **Posted:** 2026-08-22
 
-### [Patient Care Coordinator](https://www.linkedin.com/jobs/view/4438802118/) — Smile Brands Inc.
-- 📍 **Location:** Santa Fe, NM
-- 💰 **Salary:** $21-$25/hr
+### [PACE Social Worker II](https://www.linkedin.com/jobs/view/4447459659/) — Bluegrass Care Navigators
+- 📍 **Location:** Lexington, KY
 - 🕒 **Posted:** 2026-08-22
 
-### [Clinical Case Manager - Clinical Case Management Service](https://www.linkedin.com/jobs/view/4456653305/) — Everyturn Mental Health
-- 📍 **Location:** Newcastle Upon Tyne, England, United Kingdom
+### [Social Worker](https://www.linkedin.com/jobs/view/4456664436/) — Golden Hill Nursing and Rehabilitation Center
+- 📍 **Location:** Kingston, NY
+- 💰 **Salary:** $60,000.00/yr - $67,000.00/yr
 - 🕒 **Posted:** 2026-08-22
 
-### [Medical Case Manager- CA](https://www.linkedin.com/jobs/view/4438842221/) — Crawford & Company
-- 📍 **Location:** Sacramento, CA
+### [Bilingual Family Strengthening Case Manager (English/Spanish)](https://www.linkedin.com/jobs/view/4411678672/) — Bethany Christian Services
+- 📍 **Location:** Lisle, IL
 - 🕒 **Posted:** 2026-08-22
 
-### [Supervisor of Clinical Support Services](https://www.linkedin.com/jobs/view/4410772954/) — The US Oncology Network
-- 📍 **Location:** Eugene, OR
-- 💰 **Salary:** $95,000.00 - $125,00.00
+### [Social Worker](https://www.linkedin.com/jobs/view/4439363237/) — Lifespace Communities, Inc.
+- 📍 **Location:** Saint Clair, PA
+- 💰 **Salary:** $56,700.00/yr - $77,900.00/yr
 - 🕒 **Posted:** 2026-08-22
 
-### [ICMS Case Manager](https://www.linkedin.com/jobs/view/4432160719/) — Coalition for Responsible Community Development
-- 📍 **Location:** Los Angeles, CA
-- 💰 **Salary:** $50,000.00 - $55,000.00 annually
+### [Bilingual Community Outreach Specialist (English/Spanish) (Santa Cruz)](https://www.linkedin.com/jobs/view/4442407312/) — Maximus
+- 📍 **Location:** Santa Cruz, CA
+- 💰 **Salary:** $20.00 - $20.00
 - 🕒 **Posted:** 2026-08-22
 
-### [Registered Nurse (RN) - Acute Care- Care Coordinator Sr-](https://www.linkedin.com/jobs/view/4439506073/) — Wellstar Health System
-- 📍 **Location:** Austell, GA
+### [In-Custody Case Manager I/II](https://www.linkedin.com/jobs/view/4456100109/) — County of San Mateo
+- 📍 **Location:** San Mateo County, CA
+- 💰 **Salary:** $6,676.80/mo - $9,351.33/mo
 - 🕒 **Posted:** 2026-08-22
 
-### [Area Supervisor](https://www.linkedin.com/jobs/view/4456660207/) — YMCA of Hamilton|Burlington|Brantford
-- 📍 **Location:** Brantford, Ontario, Canada
+### [Case Manager - Float](https://www.linkedin.com/jobs/view/4457852062/) — Akron Children's
+- 📍 **Location:** Akron, OH
 - 🕒 **Posted:** 2026-08-22
 
-### [Early Intervention Social Worker MSW](https://www.linkedin.com/jobs/view/4438913226/) — RWJBarnabas Health
-- 📍 **Location:** Mountainside, NJ
-- 💰 **Salary:** $69.32 - $69.32 per hour
+### [Care Coordinator- Cobble Hill](https://www.linkedin.com/jobs/view/4447585200/) — Spear Physical Therapy
+- 📍 **Location:** Brooklyn, NY
+- 💰 **Salary:** $18.00/hr - $18.00/hr
 - 🕒 **Posted:** 2026-08-22
 
-### [Master Social Worker - MSW](https://www.linkedin.com/jobs/view/4447708610/) — Fresenius Medical Care
-- 📍 **Location:** Danvers, MA
-- 💰 **Salary:** $57,000.00 - $107,000.00
+### [Patient Care Coordinator](https://www.linkedin.com/jobs/view/4435198250/) — BenchMark Physical Therapy
+- 📍 **Location:** Cartersville, GA
+- 🕒 **Posted:** 2026-08-22
+
+### [Social Worker MSW](https://www.linkedin.com/jobs/view/4439026522/) — Rapides Regional Medical Center
+- 📍 **Location:** Alexandria, LA
+- 🕒 **Posted:** 2026-08-22
+
+### [Clinical Care Coordinator (RN)](https://www.linkedin.com/jobs/view/4447740135/) — IHA
+- 📍 **Location:** Clinton, IA
+- 🕒 **Posted:** 2026-08-22
+
+### [Social Worker](https://www.linkedin.com/jobs/view/4456673407/) — Centers Health Care
+- 📍 **Location:** White Plains, NY
+- 💰 **Salary:** $60,000.00/yr - $60,000.00/yr
+- 🕒 **Posted:** 2026-08-22
+
+### [Social Worker (MSW)](https://www.linkedin.com/jobs/view/4447148894/) — ACG Hospice
+- 📍 **Location:** Ponca City, OK
 - 🕒 **Posted:** 2026-08-22
