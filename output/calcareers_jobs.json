@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-21 16:55 UTC",
+  "scraped_at": "2026-08-22 16:48 UTC",
   "total": 2,
   "new_count": 0,
   "jobs": [
@@ -16,16 +16,16 @@
       "work_arrangement": "Telecommute eligible"
     },
     {
-      "company": "California Correctional Health Care Services",
-      "title": "HEALTH PROGRAM MANAGER I",
-      "location": "Sacramento County",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=525855",
-      "date_posted": "2026-08-11",
-      "salary": "$7172.00 - $8910.00",
+      "company": "Department of State Hospitals",
+      "title": "Food Service Supervisor II",
+      "location": "San Bernardino County",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=529476",
+      "date_posted": "2026-08-21",
+      "salary": "$4495.00 - $5628.00",
       "ats": "CalCareers",
-      "telework": "Hybrid",
-      "job_type": "12 Month Limited Term - Full Time",
-      "work_arrangement": "Telecommute eligible"
+      "telework": "In Office",
+      "job_type": "Permanent, Full Time",
+      "work_arrangement": "On-site"
     }
   ],
   "new_jobs": []
