@@ -1,26 +1,17 @@
 # 🔥 LinkedIn — Social Worker Roles
-*Last updated: 2026-08-23 22:58 UTC*
+*Last updated: 2026-08-23 23:56 UTC*
 
-**5 new role(s)** since last run · 5 total in last 1h
+**3 new role(s)** since last run · 5 total in last 1h
 
-### [Coordinator, Patient Access (Care Coordinator)](https://www.linkedin.com/jobs/view/4456826743/) — RemoteHunter
-- 📍 **Location:** United States
-- 💰 **Salary:** $17.90 to $25.80
+### [Home Care Coordinator PACE-PACE North Little Rock](https://www.linkedin.com/jobs/view/4458151062/) — Baptist Health
+- 📍 **Location:** Pace, East Java, Indonesia
 - 🕒 **Posted:** 2026-08-23
 
-### [Case Manager-Supportive Housing](https://www.linkedin.com/jobs/view/4456400519/) — Women In Need, Inc. (Win)
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $45,000-$48,000
+### [Victim Services Case Manager](https://www.linkedin.com/jobs/view/4458136140/) — Chesterfield County
+- 📍 **Location:** Chesterfield, VA
+- 💰 **Salary:** $62,154.00 - $73,030.00 Annually
 - 🕒 **Posted:** 2026-08-23
 
-### [School Social Worker Substitute](https://www.linkedin.com/jobs/view/4458132007/) — Escondido Union High School District
-- 📍 **Location:** Escondido, CA
-- 🕒 **Posted:** 2026-08-23
-
-### [Shift Supervisor](https://www.linkedin.com/jobs/view/4455831069/) — Better Buzz Coffee
-- 📍 **Location:** Surprise, AZ
-- 🕒 **Posted:** 2026-08-23
-
-### [Cover Supervisor](https://www.linkedin.com/jobs/view/4458146142/) — Prospere Learning Trust
-- 📍 **Location:** Manchester, England, United Kingdom
+### [Children's Social Workers - Family Help Service](https://www.linkedin.com/jobs/view/4449559423/) — Richmond and Wandsworth Councils
+- 📍 **Location:** Wandsworth, England, United Kingdom
 - 🕒 **Posted:** 2026-08-23
