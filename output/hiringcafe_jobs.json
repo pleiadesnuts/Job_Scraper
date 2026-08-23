@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-23 04:06 UTC",
+  "scraped_at": "2026-08-23 04:45 UTC",
   "total": 87,
   "new_count": 1,
   "jobs": [
@@ -111,20 +111,6 @@
       "description": "Bachelor's in Social Work required. CCMC or ACM and Certified Social Worker preferred. 3 years' experience preferred; case management/discharge planning experience preferred.",
       "salary": "",
       "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Pointquestgroup",
-      "title": "Social Worker",
-      "location": "Golden, Colorado, United States",
-      "url": "https://pointquestgroup.wd108.myworkdayjobs.com/careerspointquestgroup/job/Golden-CO/Social-Worker_R-102337",
-      "direct_url": "https://pointquestgroup.wd108.myworkdayjobs.com/careerspointquestgroup/job/Golden-CO/Social-Worker_R-102337",
-      "date_posted": "2026-08-14T00:00:00.000Z",
-      "description": "Requires a valid Colorado Department of Education School Social Worker license or credential and a master's degree in social work or a related field. School-based experience is preferred.",
-      "salary": "$104k–$125k/yr",
-      "job_type": "Full Time, Part Time",
       "is_remote": false,
       "work_arrangement": "On-site",
       "ats": "HiringCafe"
@@ -326,20 +312,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Trinityhealth",
-      "title": "Social Worker",
-      "location": "Hartford, Connecticut, United States",
-      "url": "https://trinityhealth.wd1.myworkdayjobs.com/jobs/job/Saint-Francis-Hospital---Hartford-CT/Social-Worker_00688899",
-      "direct_url": "https://trinityhealth.wd1.myworkdayjobs.com/jobs/job/Saint-Francis-Hospital---Hartford-CT/Social-Worker_00688899",
-      "date_posted": "2026-08-19T00:00:00.000Z",
-      "description": "Master's degree, valid Connecticut social worker license with LCSW, and two years of related professional experience required. Strong oral and written communication and analytical skills needed.",
-      "salary": "",
-      "job_type": "Part Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Elida Local School District",
       "title": "Social Worker",
       "location": "Elida, Ohio, United States",
@@ -349,6 +321,20 @@
       "description": "Licensed social worker (LSW/LISW) with an Ohio Pupil Services license or ability to obtain one; at least 1 year of relevant experience preferred and a master's degree preferred.",
       "salary": "",
       "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Trinityhealth",
+      "title": "Social Worker",
+      "location": "Hartford, Connecticut, United States",
+      "url": "https://trinityhealth.wd1.myworkdayjobs.com/jobs/job/Saint-Francis-Hospital---Hartford-CT/Social-Worker_00688899",
+      "direct_url": "https://trinityhealth.wd1.myworkdayjobs.com/jobs/job/Saint-Francis-Hospital---Hartford-CT/Social-Worker_00688899",
+      "date_posted": "2026-08-19T00:00:00.000Z",
+      "description": "Master's degree, valid Connecticut social worker license with LCSW, and two years of related professional experience required. Strong oral and written communication and analytical skills needed.",
+      "salary": "",
+      "job_type": "Part Time",
       "is_remote": false,
       "work_arrangement": "On-site",
       "ats": "HiringCafe"
@@ -561,6 +547,20 @@
       "job_type": "Full Time",
       "is_remote": true,
       "work_arrangement": "Remote in-state eligible",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Neuro-Rehab Management",
+      "title": "Case Manager",
+      "location": "Woburn or United States",
+      "url": "https://www.neurorehabmgt.com/job-openings",
+      "direct_url": "https://www.neurorehabmgt.com/job-openings",
+      "date_posted": "2026-08-13T21:41:51.517Z",
+      "description": "Bachelor's degree in a related field and 2+ years of case management experience with individuals with disabilities. Requires communication, problem-solving, teamwork, and flexibility.",
+      "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "Telecommute eligible",
       "ats": "HiringCafe"
     },
     {
@@ -914,20 +914,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "City of Fort Myers, FL",
-      "title": "PAL Program Coordinator",
-      "location": "Fort Myers, Florida, United States",
-      "url": "https://www.governmentjobs.com/careers/fortmyersfl/jobs/5057607",
-      "direct_url": "https://www.governmentjobs.com/careers/fortmyersfl/jobs/5057607",
-      "date_posted": "2026-07-30T18:38:01.649Z",
-      "description": "Coordinate and manage recreational programs, facilities, events and staff; supervise employees; pursue grants/sponsorships; possess relevant degree/experience and meet DCF Level II screening and drug testing requirements.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Goodwill Industries of Southwest Florida",
       "title": "Program Coordinator - MicroEnterprise",
       "location": "Fort Myers, Florida, United States",
@@ -936,6 +922,20 @@
       "date_posted": "2026-08-06T00:00:00.000Z",
       "description": "High school diploma or GED and two years of experience in program coordination, workforce development, education, nonprofit management, or small business support. Requires Florida driver's license and strong communication skills.",
       "salary": "$44k–$47k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "City of Fort Myers, FL",
+      "title": "PAL Program Coordinator",
+      "location": "Fort Myers, Florida, United States",
+      "url": "https://www.governmentjobs.com/careers/fortmyersfl/jobs/5057607",
+      "direct_url": "https://www.governmentjobs.com/careers/fortmyersfl/jobs/5057607",
+      "date_posted": "2026-07-30T18:38:01.649Z",
+      "description": "Coordinate and manage recreational programs, facilities, events and staff; supervise employees; pursue grants/sponsorships; possess relevant degree/experience and meet DCF Level II screening and drug testing requirements.",
+      "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
@@ -1224,17 +1224,17 @@
   ],
   "new_jobs": [
     {
-      "company": "Pointquestgroup",
-      "title": "Social Worker",
-      "location": "Golden, Colorado, United States",
-      "url": "https://pointquestgroup.wd108.myworkdayjobs.com/careerspointquestgroup/job/Golden-CO/Social-Worker_R-102337",
-      "direct_url": "https://pointquestgroup.wd108.myworkdayjobs.com/careerspointquestgroup/job/Golden-CO/Social-Worker_R-102337",
-      "date_posted": "2026-08-14T00:00:00.000Z",
-      "description": "Requires a valid Colorado Department of Education School Social Worker license or credential and a master's degree in social work or a related field. School-based experience is preferred.",
-      "salary": "$104k–$125k/yr",
-      "job_type": "Full Time, Part Time",
+      "company": "Neuro-Rehab Management",
+      "title": "Case Manager",
+      "location": "Woburn or United States",
+      "url": "https://www.neurorehabmgt.com/job-openings",
+      "direct_url": "https://www.neurorehabmgt.com/job-openings",
+      "date_posted": "2026-08-13T21:41:51.517Z",
+      "description": "Bachelor's degree in a related field and 2+ years of case management experience with individuals with disabilities. Requires communication, problem-solving, teamwork, and flexibility.",
+      "salary": "",
+      "job_type": "Full Time",
       "is_remote": false,
-      "work_arrangement": "On-site",
+      "work_arrangement": "Telecommute eligible",
       "ats": "HiringCafe"
     }
   ]
