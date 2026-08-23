@@ -1,35 +1,33 @@
 # 🔥 LinkedIn — Social Worker Roles
-*Last updated: 2026-08-23 19:05 UTC*
+*Last updated: 2026-08-23 19:55 UTC*
 
-**7 new role(s)** since last run · 7 total in last 1h
+**7 new role(s)** since last run · 13 total in last 1h
 
-### [Clinical Supervisor](https://www.linkedin.com/jobs/view/4456803686/) — Lutheran Community Services Northwest
-- 📍 **Location:** Beaverton, OR
+### [Case Manager](https://www.linkedin.com/jobs/view/4456816629/) — Centre Helps
+- 📍 **Location:** State College, PA
 - 🕒 **Posted:** 2026-08-23
 
-### [Bilingual Safety Case Manager (English/Spanish)](https://www.linkedin.com/jobs/view/4421200858/) — Bethany Christian Services
-- 📍 **Location:** Aurora, IL
-- 🕒 **Posted:** 2026-08-23
-
-### [Social Worker](https://www.linkedin.com/jobs/view/4397213988/) — Hertfordshire County Council
-- 📍 **Location:** Hertfordshire, England, United Kingdom
-- 🕒 **Posted:** 2026-08-23
-
-### [Case Manager - Bilingual English/Spanish- Remote in Missouri](https://www.linkedin.com/jobs/view/4403514582/) — Bethany Christian Services
-- 📍 **Location:** Missouri, United States
-- 🕒 **Posted:** 2026-08-23
-
-### [Clinical Practice Supervisor](https://www.linkedin.com/jobs/view/4458116733/) — Howard University
-- 📍 **Location:** Washington, DC
-- 💰 **Salary:** $63,636.00/yr - $70,000.00/yr
-- 🕒 **Posted:** 2026-08-23
-
-### [Patient Care Coordinator](https://www.linkedin.com/jobs/view/4431133332/) — NW Sports PT
-- 📍 **Location:** Lakewood, WA
-- 💰 **Salary:** $18—$20 USD
-- 🕒 **Posted:** 2026-08-23
-
-### [Special Education Lead Case Manager](https://www.linkedin.com/jobs/view/4398909789/) — Mastery Schools
+### [Community Social Worker](https://www.linkedin.com/jobs/view/4458103892/) — WES HEALTH SYSTEM
 - 📍 **Location:** Philadelphia, PA
-- 💰 **Salary:** $94,250 to $116,000,
+- 🕒 **Posted:** 2026-08-23
+
+### [Supported Employment and Education Specialist](https://www.linkedin.com/jobs/view/4458102839/) — Research Foundation for Mental Hygiene, Inc.
+- 📍 **Location:** Brooklyn, NY
+- 💰 **Salary:** $67,552 - $81,257
+- 🕒 **Posted:** 2026-08-23
+
+### [Care Coordinator - Full-time](https://www.linkedin.com/jobs/view/4458107830/) — Care Advantage, Inc.
+- 📍 **Location:** South Boston, VA
+- 🕒 **Posted:** 2026-08-23
+
+### [Clinic Care Coordinator- Bluebonnet Family Clinic](https://www.linkedin.com/jobs/view/4455809541/) — Baton Rouge General Medical Center
+- 📍 **Location:** Baton Rouge, LA
+- 🕒 **Posted:** 2026-08-23
+
+### [Veteran Housing Program Manager - ARCHES](https://www.linkedin.com/jobs/view/4458106781/) — Mid-Willamette Valley Community Action Agency
+- 📍 **Location:** Salem, OR
+- 🕒 **Posted:** 2026-08-23
+
+### [Supervisor](https://www.linkedin.com/jobs/view/4458112790/) — Popeyes Louisiana Chicken UK&I
+- 📍 **Location:** Greater London, England, United Kingdom
 - 🕒 **Posted:** 2026-08-23
