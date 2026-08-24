@@ -1,73 +1,43 @@
 # 🔥 LinkedIn — Social Worker Roles
-*Last updated: 2026-08-24 02:12 UTC*
+*Last updated: 2026-08-24 03:34 UTC*
 
-**16 new role(s)** since last run · 16 total in last 1h
+**9 new role(s)** since last run · 9 total in last 1h
 
-### [Medical Social Worker -Home Health, Full time](https://www.linkedin.com/jobs/view/4456860089/) — Dartmouth Health
-- 📍 **Location:** White River Junction, VT
+### [Case Manager - Per Diem](https://www.linkedin.com/jobs/view/4456844141/) — UnitedHealth Group
+- 📍 **Location:** Boulder, CO
+- 💰 **Salary:** $29.00 to $52.00 per hour
 - 🕒 **Posted:** 2026-08-24
 
-### [Resource Specialist - Social Worker](https://www.linkedin.com/jobs/view/4456861073/) — Dartmouth Health
-- 📍 **Location:** Claremont, NH
+### [Social Worker-PRN- At Home Healthcare (Denver)](https://www.linkedin.com/jobs/view/4456839151/) — UnitedHealth Group
+- 📍 **Location:** Denver, CO
+- 💰 **Salary:** $35.10 to $52.65 per hour
 - 🕒 **Posted:** 2026-08-24
 
-### [Supervisor Education Programs,](https://www.linkedin.com/jobs/view/4455832318/) — UT Southwestern Medical Center
-- 📍 **Location:** Dallas, TX
+### [Care Extender / Peer Support Specialist - Foster Care](https://www.linkedin.com/jobs/view/4458149754/) — Elevance Health
+- 📍 **Location:** Winston-Salem, NC
 - 🕒 **Posted:** 2026-08-24
 
-### [Program Manager – Public Health Program & Project Management](https://www.linkedin.com/jobs/view/4456864092/) — ASRT, Inc.
-- 📍 **Location:** Atlanta, GA
+### [Supervisor, Clinical Therapists - Full Time - Behavioral Health](https://www.linkedin.com/jobs/view/4456847204/) — Hackensack Meridian Health
+- 📍 **Location:** Belle Mead, NJ
 - 🕒 **Posted:** 2026-08-24
 
-### [Grant Writer at Goodstack](https://www.linkedin.com/jobs/view/4456840076/) — Jack & Jill
-- 📍 **Location:** United States
+### [Assistant Program Supervisor](https://www.linkedin.com/jobs/view/4458150812/) — THE CARILLON AT BELLEVIEW STATION
+- 📍 **Location:** Livermore, CA
 - 🕒 **Posted:** 2026-08-24
 
-### [Social Worker - Hamilton North](https://www.linkedin.com/jobs/view/4456065941/) — Oranga Tamariki—Ministry for Children
-- 📍 **Location:** Hamilton, Waikato, New Zealand
+### [Social Worker](https://www.linkedin.com/jobs/view/4458137861/) — Brant Community Healthcare System
+- 📍 **Location:** Brantford, Ontario, Canada
 - 🕒 **Posted:** 2026-08-24
 
-### [Social Worker - Youth Justice (ICM Team) - Rotorua](https://www.linkedin.com/jobs/view/4456840102/) — Oranga Tamariki—Ministry for Children
-- 📍 **Location:** Rotorua, Bay of Plenty, New Zealand
-- 💰 **Salary:** $81,206- $97,557
+### [OSHC Team Leader](https://www.linkedin.com/jobs/view/4455556986/) — Penrith City Council
+- 📍 **Location:** Penrith, New South Wales, Australia
+- 💰 **Salary:** $86,675 to $100,330 per annum
 - 🕒 **Posted:** 2026-08-24
 
-### [Social Worker Youth Justice - Otahuhu](https://www.linkedin.com/jobs/view/4456847092/) — Oranga Tamariki—Ministry for Children
-- 📍 **Location:** South Head, Auckland, New Zealand
-- 💰 **Salary:** $81,206- $97,557
+### [Midday Supervisor - Beaucroft Foundation School](https://www.linkedin.com/jobs/view/4456861174/) — Dorset Council UK
+- 📍 **Location:** Wimborne Minster, England, United Kingdom
 - 🕒 **Posted:** 2026-08-24
 
-### [Social Worker - Westgate](https://www.linkedin.com/jobs/view/4456857099/) — Oranga Tamariki—Ministry for Children
-- 📍 **Location:** Mahurangi West, Auckland, New Zealand
-- 💰 **Salary:** $81,206 to $97,557,
-- 🕒 **Posted:** 2026-08-24
-
-### [Clinical Supervisor-PACT](https://www.linkedin.com/jobs/view/4456846048/) — Behavioral Health Network, Inc (BHN)
-- 📍 **Location:** Worcester, MA
-- 🕒 **Posted:** 2026-08-24
-
-### [Social Worker - Pukekohe](https://www.linkedin.com/jobs/view/4456856096/) — Oranga Tamariki—Ministry for Children
-- 📍 **Location:** South Head, Auckland, New Zealand
-- 💰 **Salary:** $81,206 to $97,557,
-- 🕒 **Posted:** 2026-08-24
-
-### [Supervisor, Safety, Health & Environment (For Cambodians)](https://www.linkedin.com/jobs/view/4456854092/) — Chip Mong Insee Cement Corporation
-- 📍 **Location:** Kampot, Cambodia
-- 🕒 **Posted:** 2026-08-24
-
-### [Learning & People Development Supervisor](https://www.linkedin.com/jobs/view/4452332745/) — Brighty Official
-- 📍 **Location:** Bekasi, West Java, Indonesia
-- 🕒 **Posted:** 2026-08-24
-
-### [Care Coordinator II-ACCS](https://www.linkedin.com/jobs/view/4456853048/) — Behavioral Health Network, Inc (BHN)
-- 📍 **Location:** Worcester, MA
-- 🕒 **Posted:** 2026-08-24
-
-### [Clinical Supervisor (Masters Required)](https://www.linkedin.com/jobs/view/4456854053/) — ACES (Comprehensive Educational Services)
-- 📍 **Location:** Santa Cruz, CA
-- 💰 **Salary:** $32.00-$38.00
-- 🕒 **Posted:** 2026-08-24
-
-### [Social Worker | Full Time | Permanent | Older People & Physical Disabilities | Fylde and Wyre](https://www.linkedin.com/jobs/view/4456855102/) — Lancashire County Council
-- 📍 **Location:** Fylde, England, United Kingdom
+### [Transfer Operations Supervisor](https://www.linkedin.com/jobs/view/4456861264/) — University of Utah
+- 📍 **Location:** Salt Lake City, UT
 - 🕒 **Posted:** 2026-08-24
