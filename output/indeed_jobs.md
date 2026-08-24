@@ -1,11 +1,11 @@
 # 🟦 Indeed — Social Worker Roles
-*Last updated: 2026-08-24 18:24 UTC*
+*Last updated: 2026-08-24 20:21 UTC*
 
-**1 new role(s)** since last run · 2 total in last 24h
+**1 new role(s)** since last run · 3 total in last 24h
 
-### [Case Manager](https://www.indeed.com/viewjob?jk=3527f35ca44496ac) — Momentum 360
+### [Behavioral Health Clinical Program Manager/Reentry Team](https://www.indeed.com/viewjob?jk=e5ee7a09bb9647e0) — Mile High Behavioral Healthcare
 - 📍 **Location:** Denver, CO, US
-- 💰 **Salary:** $20–$25/hr
-- **Work mode:** Remote in-state eligible
-- **Job type:** fulltime, contract
+- 💰 **Salary:** $70k–$85k/yr
+- **Work mode:** On-site
+- **Job type:** fulltime
 - 🕒 **Posted:** 2026-08-24
