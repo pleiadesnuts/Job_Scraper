@@ -1,6 +1,11 @@
 # 🟦 Indeed — Social Worker Roles
-*Last updated: 2026-08-24 16:31 UTC*
+*Last updated: 2026-08-24 18:24 UTC*
 
-**0 new role(s)** since last run · 1 total in last 24h
+**1 new role(s)** since last run · 2 total in last 24h
 
-No new roles since the last run.
+### [Case Manager](https://www.indeed.com/viewjob?jk=3527f35ca44496ac) — Momentum 360
+- 📍 **Location:** Denver, CO, US
+- 💰 **Salary:** $20–$25/hr
+- **Work mode:** Remote in-state eligible
+- **Job type:** fulltime, contract
+- 🕒 **Posted:** 2026-08-24

@@ -1,8 +1,26 @@
 {
-  "scraped_at": "2026-08-24 16:31 UTC",
-  "total": 1,
-  "new_count": 0,
+  "scraped_at": "2026-08-24 18:24 UTC",
+  "total": 2,
+  "new_count": 1,
   "jobs": [
+    {
+      "company": "Momentum 360",
+      "title": "Case Manager",
+      "location": "Denver, CO, US",
+      "url": "https://www.indeed.com/viewjob?jk=3527f35ca44496ac",
+      "direct_url": "http://www.indeed.com/job/case-manager-3527f35ca44496ac",
+      "company_url": "https://www.indeed.com/cmp/Momentum-360",
+      "date_posted": "2026-08-24",
+      "description": "**About Momentum360**\n\nMomentum360 is a rapidly growing nonprofit serving individuals experiencing homelessness, housing instability, and recovery needs across the Denver Metro area.\n\nWe believe support should be accessible, practical, and built on real relationships. Every week our team provides outreach, case management, transportation assistance, phones, vital document support, and resource navigation that help people move toward long\\-term stability.\n\n**Position Summary**\n\nMomentum360 is seeking a compassionate, organized, and highly motivated **Case Manager** to provide individualized support for community members experiencing homelessness or housing instability.\n\nThis position combines field outreach with structured case management. You'll build relationships, complete assessments, coordinate services, document progress, and help clients overcome barriers to housing, healthcare, employment, and recovery.\n\nThe ideal candidate is equally comfortable meeting someone at an outreach event as they are documenting services, tracking outcomes, and managing multiple client cases.\n\n**Responsibilities**  \nClient Case Management\n\n* Conduct client intakes and comprehensive needs assessments\n* Develop individualized service plans\n* Connect clients with housing, healthcare, behavioral health, employment, transportation, identification documents, and public benefits\n* Maintain regular client follow\\-up and monitor progress\n* Coordinate referrals with community partners\n\nOutreach \\& Engagement\n\n* Participate in street outreach and community events\n* Build trusting relationships with vulnerable populations\n* Meet clients where they are while maintaining healthy professional boundaries\n* Support crisis intervention when appropriate\n\nDocumentation \\& Data\n\n* Maintain accurate case notes and service documentation\n* Track client outcomes and program metrics\n* Utilize Google Workspace to organize client information\n* Create and maintain spreadsheets for reporting and data tracking\n* Ensure documentation meets HIPAA standards\n\nCollaboration\n\n* Work closely with healthcare providers, shelters, housing agencies, treatment providers, and community organizations\n* Attend team meetings and case consultations\n* Represent Momentum360 professionally in the community\n\nQualificationsRequired\n\n* Bachelor's Degree in Social Work, Human Services, Psychology, Sociology, Public Health, or related field\n* 1\\+ years of case management or human services experience\n* Experience working with individuals experiencing homelessness, recovery, behavioral health, or housing instability\n* Proficiency with **Google Sheets**, Google Docs, Google Drive, and Google Workspace\n* Strong organizational and documentation skills\n* Excellent verbal and written communication\n* Valid driver's license and reliable transportation\n\nPreferred\n\n* Knowledge of Medicaid, Medicare, and Colorado public benefits\n* Experience with electronic health records or case management software\n* Familiarity with Denver\\-area community resources\n\nPay: $20\\.50 \\- $25\\.00 per hour\n\nBenefits:\n\n* Flexible schedule\n\nEducation:\n\n* High school or equivalent (Preferred)\n\nWork Location: Hybrid remote in Denver, CO 80205",
+      "salary": "$20–$25/hr",
+      "salary_source": "direct_data",
+      "salary_currency": "USD",
+      "job_type": "fulltime, contract",
+      "is_remote": true,
+      "work_arrangement": "Remote in-state eligible",
+      "emails": "",
+      "ats": "Indeed"
+    },
     {
       "company": "Sagebrush Recovery Services",
       "title": "Peer Support Specialist",
@@ -22,5 +40,24 @@
       "ats": "Indeed"
     }
   ],
-  "new_jobs": []
+  "new_jobs": [
+    {
+      "company": "Momentum 360",
+      "title": "Case Manager",
+      "location": "Denver, CO, US",
+      "url": "https://www.indeed.com/viewjob?jk=3527f35ca44496ac",
+      "direct_url": "http://www.indeed.com/job/case-manager-3527f35ca44496ac",
+      "company_url": "https://www.indeed.com/cmp/Momentum-360",
+      "date_posted": "2026-08-24",
+      "description": "**About Momentum360**\n\nMomentum360 is a rapidly growing nonprofit serving individuals experiencing homelessness, housing instability, and recovery needs across the Denver Metro area.\n\nWe believe support should be accessible, practical, and built on real relationships. Every week our team provides outreach, case management, transportation assistance, phones, vital document support, and resource navigation that help people move toward long\\-term stability.\n\n**Position Summary**\n\nMomentum360 is seeking a compassionate, organized, and highly motivated **Case Manager** to provide individualized support for community members experiencing homelessness or housing instability.\n\nThis position combines field outreach with structured case management. You'll build relationships, complete assessments, coordinate services, document progress, and help clients overcome barriers to housing, healthcare, employment, and recovery.\n\nThe ideal candidate is equally comfortable meeting someone at an outreach event as they are documenting services, tracking outcomes, and managing multiple client cases.\n\n**Responsibilities**  \nClient Case Management\n\n* Conduct client intakes and comprehensive needs assessments\n* Develop individualized service plans\n* Connect clients with housing, healthcare, behavioral health, employment, transportation, identification documents, and public benefits\n* Maintain regular client follow\\-up and monitor progress\n* Coordinate referrals with community partners\n\nOutreach \\& Engagement\n\n* Participate in street outreach and community events\n* Build trusting relationships with vulnerable populations\n* Meet clients where they are while maintaining healthy professional boundaries\n* Support crisis intervention when appropriate\n\nDocumentation \\& Data\n\n* Maintain accurate case notes and service documentation\n* Track client outcomes and program metrics\n* Utilize Google Workspace to organize client information\n* Create and maintain spreadsheets for reporting and data tracking\n* Ensure documentation meets HIPAA standards\n\nCollaboration\n\n* Work closely with healthcare providers, shelters, housing agencies, treatment providers, and community organizations\n* Attend team meetings and case consultations\n* Represent Momentum360 professionally in the community\n\nQualificationsRequired\n\n* Bachelor's Degree in Social Work, Human Services, Psychology, Sociology, Public Health, or related field\n* 1\\+ years of case management or human services experience\n* Experience working with individuals experiencing homelessness, recovery, behavioral health, or housing instability\n* Proficiency with **Google Sheets**, Google Docs, Google Drive, and Google Workspace\n* Strong organizational and documentation skills\n* Excellent verbal and written communication\n* Valid driver's license and reliable transportation\n\nPreferred\n\n* Knowledge of Medicaid, Medicare, and Colorado public benefits\n* Experience with electronic health records or case management software\n* Familiarity with Denver\\-area community resources\n\nPay: $20\\.50 \\- $25\\.00 per hour\n\nBenefits:\n\n* Flexible schedule\n\nEducation:\n\n* High school or equivalent (Preferred)\n\nWork Location: Hybrid remote in Denver, CO 80205",
+      "salary": "$20–$25/hr",
+      "salary_source": "direct_data",
+      "salary_currency": "USD",
+      "job_type": "fulltime, contract",
+      "is_remote": true,
+      "work_arrangement": "Remote in-state eligible",
+      "emails": "",
+      "ats": "Indeed"
+    }
+  ]
 }
