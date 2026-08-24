@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-21 17:25 UTC",
-  "total": 12,
-  "new_count": 3,
+  "scraped_at": "2026-08-24 17:22 UTC",
+  "total": 10,
+  "new_count": 0,
   "jobs": [
     {
       "company": "Tri City Mental Health Authority",
@@ -49,15 +49,6 @@
       "ats": "CalOpps"
     },
     {
-      "company": "Redwood City",
-      "title": "Recreation and Community Services Program Coordinator – Special Events #26A-35",
-      "location": "San Francisco/Peninsula",
-      "url": "https://www.calopps.org/redwood-city/job-20764067",
-      "date_posted": "",
-      "salary": "$8,228.33-$10,003.22 Monthly",
-      "ats": "CalOpps"
-    },
-    {
       "company": "Purissima Hills Water District",
       "title": "Operations Supervisor",
       "location": "San Francisco/Peninsula",
@@ -73,15 +64,6 @@
       "url": "https://www.calopps.org/redwood-city/job-20762168",
       "date_posted": "",
       "salary": "$12,027.00-$14,430.00 Monthly",
-      "ats": "CalOpps"
-    },
-    {
-      "company": "San Mateo County Transit District Samtrans",
-      "title": "IT Program Manager- 5 Year Limited Term",
-      "location": "San Francisco/Peninsula",
-      "url": "https://www.calopps.org/san-mateo-county-transit-district-samtrans/job-20761578",
-      "date_posted": "",
-      "salary": "$143,142.00-$200,398.00 Annually",
       "ats": "CalOpps"
     },
     {
@@ -112,33 +94,5 @@
       "ats": "CalOpps"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Tri City Mental Health Authority",
-      "title": "Registered Nurse Supervisor",
-      "location": "Los Angeles Area",
-      "url": "https://www.calopps.org/tri-city-mental-health-authority/job-20769746",
-      "date_posted": "",
-      "salary": "$123,611.63-$157,763.24 Annually",
-      "ats": "CalOpps"
-    },
-    {
-      "company": "Daly City",
-      "title": "Active Adult/Senior Services Supervisor",
-      "location": "San Francisco/Peninsula",
-      "url": "https://www.calopps.org/daly-city/job-20767492",
-      "date_posted": "",
-      "salary": "$7,020.00-$8,532.00 Monthly",
-      "ats": "CalOpps"
-    },
-    {
-      "company": "San Mateo",
-      "title": "Housing Specialist I-II",
-      "location": "San Francisco/Peninsula",
-      "url": "https://www.calopps.org/san-mateo/job-20766435",
-      "date_posted": "",
-      "salary": "$98,425.00-$134,472.00 Annually",
-      "ats": "CalOpps"
-    }
-  ]
+  "new_jobs": []
 }

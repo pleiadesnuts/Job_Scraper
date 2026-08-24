@@ -1,15 +1,15 @@
 {
-  "scraped_at": "2026-08-21 17:10 UTC",
+  "scraped_at": "2026-08-24 17:11 UTC",
   "total": 2,
-  "new_count": 2,
+  "new_count": 1,
   "jobs": [
     {
-      "company": "City of Roseville (CA)",
-      "title": "Electric Risk and Compliance Supervisor",
-      "location": "311 Vernon Street, Roseville",
-      "url": "https://www.governmentjobs.com/jobs/5448320-0/electric-risk-and-compliance-supervisor",
+      "company": "County of Los Angeles",
+      "title": "DATA SCIENTIST SUPERVISOR",
+      "location": "Los Angeles County, CA",
+      "url": "https://www.governmentjobs.com/jobs/5405906-0/data-scientist-supervisor",
       "date_posted": "",
-      "salary": "$148,596.24 - $199,132.96 Annually",
+      "salary": "$126,066.72 - $169,892.88 Annually",
       "ats": "NEOGOV"
     },
     {
@@ -24,21 +24,12 @@
   ],
   "new_jobs": [
     {
-      "company": "City of Roseville (CA)",
-      "title": "Electric Risk and Compliance Supervisor",
-      "location": "311 Vernon Street, Roseville",
-      "url": "https://www.governmentjobs.com/jobs/5448320-0/electric-risk-and-compliance-supervisor",
+      "company": "County of Los Angeles",
+      "title": "DATA SCIENTIST SUPERVISOR",
+      "location": "Los Angeles County, CA",
+      "url": "https://www.governmentjobs.com/jobs/5405906-0/data-scientist-supervisor",
       "date_posted": "",
-      "salary": "$148,596.24 - $199,132.96 Annually",
-      "ats": "NEOGOV"
-    },
-    {
-      "company": "Benton County (OR)",
-      "title": "Risk Management & Quality Program Manager",
-      "location": "Corvallis, OR",
-      "url": "https://www.governmentjobs.com/jobs/5429844-0/risk-management-quality-program-manager",
-      "date_posted": "",
-      "salary": "$80,012.61 - $109,107.65 Annually",
+      "salary": "$126,066.72 - $169,892.88 Annually",
       "ats": "NEOGOV"
     }
   ]
