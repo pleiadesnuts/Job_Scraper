@@ -1,17 +1,31 @@
 # 🟦 Indeed — Social Worker Roles
-*Last updated: 2026-08-24 21:29 UTC*
+*Last updated: 2026-08-25 00:13 UTC*
 
-**2 new role(s)** since last run · 4 total in last 24h
+**4 new role(s)** since last run · 8 total in last 24h
 
-### [Program Manager, Licensed - Re-entry Services](https://www.indeed.com/viewjob?jk=6178ccf92c757f9a) — Unknown
+### [Intensive Case Manager (Roads to Recovery) - Department of Public Health and Environment](https://www.indeed.com/viewjob?jk=0b071ae2ba3f772f) — City and County of Denver
 - 📍 **Location:** Denver, CO, US
-- 💰 **Salary:** $75k–$82k/yr
+- 💰 **Salary:** $64k–$105k/yr
 - **Work mode:** On-site
 - **Job type:** fulltime
-- 🕒 **Posted:** 2026-08-21
+- 🕒 **Posted:** 2026-08-24
 
-### [Military/Veteran Peer Support Specialist III (Multiple Vacancies)](https://www.indeed.com/viewjob?jk=b777fa716760c51c) — Rutgers University
-- 📍 **Location:** Remote, US
+### [Remote Care Coordinator (Mountain Time)](https://www.indeed.com/viewjob?jk=f1acc977b607e761) — Evergreen Nephrology
+- 📍 **Location:** Denver, CO, US
+- 💰 **Salary:** $19–$23/hr
 - **Work mode:** Remote in-state eligible
-- **Job type:** perdiem
+- 🕒 **Posted:** 2026-08-24
+
+### [Maintenance Supervisor](https://www.indeed.com/viewjob?jk=6606abcd4815e9a7) — Four Star Realty and Property Management
+- 📍 **Location:** Boulder, CO, US
+- 💰 **Salary:** $36–$38/hr
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-08-24
+
+### [Complex Care Case Manager (Roads to Recovery) - Department of Public Health and Environment](https://www.indeed.com/viewjob?jk=a730d2926daa9795) — City and County of Denver
+- 📍 **Location:** Denver, CO, US
+- 💰 **Salary:** $64k–$105k/yr
+- **Work mode:** Remote in-state eligible
+- **Job type:** fulltime
 - 🕒 **Posted:** 2026-08-24
