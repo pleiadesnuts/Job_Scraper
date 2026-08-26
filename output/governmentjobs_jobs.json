@@ -1,17 +1,8 @@
 {
-  "scraped_at": "2026-08-24 17:11 UTC",
-  "total": 2,
-  "new_count": 1,
+  "scraped_at": "2026-08-26 18:23 UTC",
+  "total": 1,
+  "new_count": 0,
   "jobs": [
-    {
-      "company": "County of Los Angeles",
-      "title": "DATA SCIENTIST SUPERVISOR",
-      "location": "Los Angeles County, CA",
-      "url": "https://www.governmentjobs.com/jobs/5405906-0/data-scientist-supervisor",
-      "date_posted": "",
-      "salary": "$126,066.72 - $169,892.88 Annually",
-      "ats": "NEOGOV"
-    },
     {
       "company": "Benton County (OR)",
       "title": "Risk Management & Quality Program Manager",
@@ -22,15 +13,5 @@
       "ats": "NEOGOV"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "County of Los Angeles",
-      "title": "DATA SCIENTIST SUPERVISOR",
-      "location": "Los Angeles County, CA",
-      "url": "https://www.governmentjobs.com/jobs/5405906-0/data-scientist-supervisor",
-      "date_posted": "",
-      "salary": "$126,066.72 - $169,892.88 Annually",
-      "ats": "NEOGOV"
-    }
-  ]
+  "new_jobs": []
 }
