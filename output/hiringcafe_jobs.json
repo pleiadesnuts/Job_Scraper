@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-26 04:54 UTC",
-  "total": 85,
-  "new_count": 0,
+  "scraped_at": "2026-08-26 18:53 UTC",
+  "total": 84,
+  "new_count": 4,
   "jobs": [
     {
       "company": "Pittsburgh Public Schools",
@@ -116,20 +116,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Ascension",
-      "title": "Social Worker",
-      "location": "Tulsa, Oklahoma, United States",
-      "url": "https://jobs.ascension.org/jobs/458089?lang=en-us",
-      "direct_url": "https://jobs.ascension.org/jobs/458089?lang=en-us",
-      "date_posted": "2026-07-27T13:49:57.000Z",
-      "description": "Bachelor's in Social Work required. CCMC or ACM and Certified Social Worker preferred. 3 years' experience preferred; case management/discharge planning experience preferred.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Ellisville Rehabilitation and Nursing",
       "title": "Social Worker",
       "location": "Ballwin, Missouri, United States",
@@ -200,34 +186,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Catapult Learning",
-      "title": "Social Worker",
-      "location": "Prince George's County, Maryland, United States",
-      "url": "https://careers.fullbloom.org/jobs/38432?lang=en-us",
-      "direct_url": "https://careers.fullbloom.org/jobs/38432?lang=en-us",
-      "date_posted": "2026-08-24T18:18:17.000Z",
-      "description": "Master's degree in counseling or related field, active social worker license, and student experience preferred. Supports behavioral, emotional, social, and developmental needs across Prince George's County schools.",
-      "salary": "$79k–$83k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Pompton Lakes School District",
-      "title": "Social Worker",
-      "location": "Pompton Lakes, New Jersey, United States",
-      "url": "https://www.applitrack.com/plpsk12/onlineapp/jobpostings/view.asp?AppliTrackJobId=331",
-      "direct_url": "https://www.applitrack.com/plpsk12/onlineapp/jobpostings/view.asp?AppliTrackJobId=331",
-      "date_posted": "2026-08-12T12:00:00.000Z",
-      "description": "NJ social worker certification, bachelor's degree in an applicable education discipline, and master's degree in social work. Case management experience preferred; requires counseling, assessment, IEP, and communication skills.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Somerton Elementary School District 11",
       "title": "Social Worker",
       "location": "Somerton, Arizona, United States",
@@ -250,6 +208,48 @@
       "date_posted": "2026-08-11T21:55:24.000Z",
       "description": "Bachelor's degree in social work or human services, current social worker license, strong communication and organizational skills, and ability to respond appropriately to emergencies. Two years of related experience preferred.",
       "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Pompton Lakes School District",
+      "title": "Social Worker",
+      "location": "Pompton Lakes, New Jersey, United States",
+      "url": "https://www.applitrack.com/plpsk12/onlineapp/jobpostings/view.asp?AppliTrackJobId=331",
+      "direct_url": "https://www.applitrack.com/plpsk12/onlineapp/jobpostings/view.asp?AppliTrackJobId=331",
+      "date_posted": "2026-08-12T12:00:00.000Z",
+      "description": "NJ social worker certification, bachelor's degree in an applicable education discipline, and master's degree in social work. Case management experience preferred; requires counseling, assessment, IEP, and communication skills.",
+      "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "IOM",
+      "title": "Social Worker",
+      "location": "Athens or Clayton County or Cobb County or DeKalb County or Douglas County or Fayette County or Fulton County or Gwinnett County or Henry County or Jackson County or Rockdale County",
+      "url": "https://fa-evlj-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/requisitions/job/20885",
+      "direct_url": "https://fa-evlj-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/requisitions/job/20885",
+      "date_posted": "2026-08-26T10:52:57.000Z",
+      "description": "University degree in Social Work, licensed social worker status, Greek fluency, and working knowledge of English or French. One year of relevant experience desirable; child-services experience an asset.",
+      "salary": "",
+      "job_type": "Temporary",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Catapult Learning",
+      "title": "Social Worker",
+      "location": "Prince George's County, Maryland, United States",
+      "url": "https://careers.fullbloom.org/jobs/38432?lang=en-us",
+      "direct_url": "https://careers.fullbloom.org/jobs/38432?lang=en-us",
+      "date_posted": "2026-08-24T18:18:17.000Z",
+      "description": "Master's degree in counseling or related field, active social worker license, and student experience preferred. Supports behavioral, emotional, social, and developmental needs across Prince George's County schools.",
+      "salary": "$79k–$83k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
@@ -368,20 +368,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Cxb",
-      "title": "Social Worker ",
-      "location": "New York, New York, United States",
-      "url": "https://jobs.dayforcehcm.com/en-US/cxb/candidateportal/jobs/21666",
-      "direct_url": "https://jobs.dayforcehcm.com/en-US/cxb/candidateportal/jobs/21666",
-      "date_posted": "2026-08-03T04:00:00.000Z",
-      "description": "NYS Licensed Masters Social Worker required; obtain 9.58 credential within 3 months; experience in crisis intervention, motivational interviewing, harm reduction, and documentation; strong communication and collaborative skills.",
-      "salary": "",
-      "job_type": "Part Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Bright Harbor Healthcare",
       "title": "Case Manager",
       "location": "Bayville or Toms River or Berkeley Township",
@@ -455,10 +441,10 @@
       "company": "The Fedcap Group",
       "title": "Case Manager",
       "location": "Washington, District of Columbia, United States",
-      "url": "https://eckb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/requisitions/job/103375",
-      "direct_url": "https://eckb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/requisitions/job/103375",
-      "date_posted": "2026-08-06T14:55:35.000Z",
-      "description": "Bachelor's degree in social work, social services, counseling, business administration, or related field and 3 years' vocational rehabilitation or case management experience; 5 years' case management may substitute.",
+      "url": "https://eckb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/requisitions/job/103374",
+      "direct_url": "https://eckb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/requisitions/job/103374",
+      "date_posted": "2026-08-06T14:53:58.000Z",
+      "description": "Bachelor’s degree in social work, social services, counseling, business administration, or related field and 3 years’ vocational rehabilitation or case management experience; 5 years’ case management may substitute.",
       "salary": "$52k/yr",
       "job_type": "Full Time",
       "is_remote": false,
@@ -592,20 +578,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Stefanini Group",
-      "title": "Program Coordinator",
-      "location": "Dearborn, Michigan, United States",
-      "url": "https://jobs2.smartsearchonline.com/Stefanini/jobs/jobdetails.asp?jo_num=64483&apply=yes",
-      "direct_url": "https://jobs2.smartsearchonline.com/Stefanini/jobs/jobdetails.asp?jo_num=64483&apply=yes",
-      "date_posted": "2026-07-30T12:00:00.000Z",
-      "description": "Bachelor's degree, 2+ years of IT experience, and program or project coordination experience. Requires event planning, cross-functional coordination, communication, organization, and Microsoft 365 proficiency.",
-      "salary": "$83k–$94k/yr",
-      "job_type": "Contract",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "RIX Industries",
       "title": "Program Coordinator",
       "location": "Benicia, California, United States",
@@ -704,20 +676,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Uasys",
-      "title": "Program Coordinator",
-      "location": "Little Rock, Arkansas, United States",
-      "url": "https://uasys.wd5.myworkdayjobs.com/uams_all_careers/job/UAMS/Program-Coordinator_R0089194",
-      "direct_url": "https://uasys.wd5.myworkdayjobs.com/uams_all_careers/job/UAMS/Program-Coordinator_R0089194",
-      "date_posted": "2026-08-04T00:00:00.000Z",
-      "description": "Coordinate administration of psychiatry clerkship, electives, and forensic fellowship; curriculum support; program data management; ACGME accreditation support; strong communication, organizational and confidential record-keeping skills.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "North Orange County Community College District",
       "title": "Program Coordinator",
       "location": "Anaheim or Cypress",
@@ -729,6 +687,20 @@
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "Telecommute eligible",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Uasys",
+      "title": "Program Coordinator",
+      "location": "Little Rock, Arkansas, United States",
+      "url": "https://uasys.wd5.myworkdayjobs.com/uams_all_careers/job/UAMS/Program-Coordinator_R0089194",
+      "direct_url": "https://uasys.wd5.myworkdayjobs.com/uams_all_careers/job/UAMS/Program-Coordinator_R0089194",
+      "date_posted": "2026-08-04T00:00:00.000Z",
+      "description": "Coordinate administration of psychiatry clerkship, electives, and forensic fellowship; curriculum support; program data management; ACGME accreditation support; strong communication, organizational and confidential record-keeping skills.",
+      "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
       "ats": "HiringCafe"
     },
     {
@@ -746,14 +718,14 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Bay Area Community Resources",
+      "company": "TriState Light & Energy",
       "title": "Program Coordinator",
-      "location": "Fairfield, California, United States",
-      "url": "https://bacr.wd501.myworkdayjobs.com/bacr/job/Fairfield-CA/Program-Coordinator_R-100687",
-      "direct_url": "https://bacr.wd501.myworkdayjobs.com/bacr/job/Fairfield-CA/Program-Coordinator_R-100687",
+      "location": "New Brunswick, New Jersey, United States",
+      "url": "https://jobs.cleanenergyjobspartnership.com/job/New-Brunswick-Program-Coordinator-NJ-08899/1421438700/",
+      "direct_url": "https://jobs.cleanenergyjobspartnership.com/job/New-Brunswick-Program-Coordinator-NJ-08899/1421438700/",
       "date_posted": "2026-08-20T00:00:00.000Z",
-      "description": "Bachelor's degree in a related field and 3+ years of progressively responsible experience in community programs, youth services, family support, partnerships, or systems coordination; leadership and data-informed planning experience required.",
-      "salary": "$77k–$82k/yr",
+      "description": "Bachelor's degree or equivalent experience; 2–4 years in program or project coordination, administration, or related work. Requires organization, communication, multitasking, problem-solving, and Microsoft Office and Google Workspace proficiency.",
+      "salary": "$50k–$60k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
@@ -774,14 +746,14 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "TriState Light & Energy",
+      "company": "Bay Area Community Resources",
       "title": "Program Coordinator",
-      "location": "New Brunswick, New Jersey, United States",
-      "url": "https://jobs.cleanenergyjobspartnership.com/job/New-Brunswick-Program-Coordinator-NJ-08899/1421438700/",
-      "direct_url": "https://jobs.cleanenergyjobspartnership.com/job/New-Brunswick-Program-Coordinator-NJ-08899/1421438700/",
+      "location": "Fairfield, California, United States",
+      "url": "https://bacr.wd501.myworkdayjobs.com/bacr/job/Fairfield-CA/Program-Coordinator_R-100687",
+      "direct_url": "https://bacr.wd501.myworkdayjobs.com/bacr/job/Fairfield-CA/Program-Coordinator_R-100687",
       "date_posted": "2026-08-20T00:00:00.000Z",
-      "description": "Bachelor's degree or equivalent experience; 2–4 years in program or project coordination, administration, or related work. Requires organization, communication, multitasking, problem-solving, and Microsoft Office and Google Workspace proficiency.",
-      "salary": "$50k–$60k/yr",
+      "description": "Bachelor's degree in a related field and 3+ years of progressively responsible experience in community programs, youth services, family support, partnerships, or systems coordination; leadership and data-informed planning experience required.",
+      "salary": "$77k–$82k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
@@ -838,6 +810,20 @@
       "date_posted": "2026-08-19T04:00:00.000Z",
       "description": "Bachelor's degree and 3–5 years of program coordination, project support, or operations management in federal contracting; requires financial tracking, documentation, subcontractor coordination, and advanced Microsoft Office skills.",
       "salary": "",
+      "job_type": "Full Time",
+      "is_remote": true,
+      "work_arrangement": "Remote in-state eligible",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "OCHIN",
+      "title": "PROGRAM COORDINATOR-RELEASE",
+      "location": "United States",
+      "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4419647",
+      "direct_url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4419647",
+      "date_posted": "2026-08-20T22:38:59.000Z",
+      "description": "Bachelor’s degree or equivalent relevant experience preferred; familiarity with program-related systems; strong communication, coordination, documentation, teamwork, and English language skills.",
+      "salary": "$56k–$90k/yr",
       "job_type": "Full Time",
       "is_remote": true,
       "work_arrangement": "Remote in-state eligible",
@@ -970,20 +956,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Shawnee Christian Healthcare",
-      "title": "Community Health Worker (Community Health)",
-      "location": "Louisville, Kentucky, United States",
-      "url": "https://www.joblinkapply.com/Joblink/6346/Job/Index/864686",
-      "direct_url": "https://www.joblinkapply.com/Joblink/6346/Job/Index/864686",
-      "date_posted": "2026-08-14T12:50:48.087Z",
-      "description": "Requires high school diploma, 2 years of health or social services experience and/or education, reliable transportation, computer skills, communication, organization, and cultural competence.",
-      "salary": "$2080–$4160/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Community Health Alliance",
       "title": "Community Health Worker",
       "location": "Reno or Sparks",
@@ -1006,6 +978,20 @@
       "date_posted": "2026-08-12T00:00:00.000Z",
       "description": "High school diploma or equivalent; obtain community health worker certificate within one year. Requires Microsoft Office proficiency, advocacy, organization, communication, and ability to serve diverse communities.",
       "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "AIDS Healthcare Foundation",
+      "title": "Community Health Worker",
+      "location": "Chicago or Chicago",
+      "url": "https://myjobs.adp.com/ahfexternalcareers/cx/job-details?reqId=5001213665606",
+      "direct_url": "https://myjobs.adp.com/ahfexternalcareers/cx/job-details?reqId=5001213665606",
+      "date_posted": "2026-08-24T15:13:42.000Z",
+      "description": "Provides culturally responsive prevention, testing, treatment education, client support, and connections to essential services for communities facing systemic health barriers.",
+      "salary": "$49k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
@@ -1194,5 +1180,62 @@
       "ats": "HiringCafe"
     }
   ],
-  "new_jobs": []
+  "new_jobs": [
+    {
+      "company": "IOM",
+      "title": "Social Worker",
+      "location": "Athens or Clayton County or Cobb County or DeKalb County or Douglas County or Fayette County or Fulton County or Gwinnett County or Henry County or Jackson County or Rockdale County",
+      "url": "https://fa-evlj-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/requisitions/job/20885",
+      "direct_url": "https://fa-evlj-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/requisitions/job/20885",
+      "date_posted": "2026-08-26T10:52:57.000Z",
+      "description": "University degree in Social Work, licensed social worker status, Greek fluency, and working knowledge of English or French. One year of relevant experience desirable; child-services experience an asset.",
+      "salary": "",
+      "job_type": "Temporary",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "The Fedcap Group",
+      "title": "Case Manager",
+      "location": "Washington, District of Columbia, United States",
+      "url": "https://eckb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/requisitions/job/103374",
+      "direct_url": "https://eckb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/requisitions/job/103374",
+      "date_posted": "2026-08-06T14:53:58.000Z",
+      "description": "Bachelor’s degree in social work, social services, counseling, business administration, or related field and 3 years’ vocational rehabilitation or case management experience; 5 years’ case management may substitute.",
+      "salary": "$52k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "OCHIN",
+      "title": "PROGRAM COORDINATOR-RELEASE",
+      "location": "United States",
+      "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4419647",
+      "direct_url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4419647",
+      "date_posted": "2026-08-20T22:38:59.000Z",
+      "description": "Bachelor’s degree or equivalent relevant experience preferred; familiarity with program-related systems; strong communication, coordination, documentation, teamwork, and English language skills.",
+      "salary": "$56k–$90k/yr",
+      "job_type": "Full Time",
+      "is_remote": true,
+      "work_arrangement": "Remote in-state eligible",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "AIDS Healthcare Foundation",
+      "title": "Community Health Worker",
+      "location": "Chicago or Chicago",
+      "url": "https://myjobs.adp.com/ahfexternalcareers/cx/job-details?reqId=5001213665606",
+      "direct_url": "https://myjobs.adp.com/ahfexternalcareers/cx/job-details?reqId=5001213665606",
+      "date_posted": "2026-08-24T15:13:42.000Z",
+      "description": "Provides culturally responsive prevention, testing, treatment education, client support, and connections to essential services for communities facing systemic health barriers.",
+      "salary": "$49k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    }
+  ]
 }
