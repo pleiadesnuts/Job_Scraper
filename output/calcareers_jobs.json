@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-08-25 17:05 UTC",
-  "total": 2,
+  "scraped_at": "2026-08-26 17:15 UTC",
+  "total": 3,
   "new_count": 0,
   "jobs": [
     {
@@ -26,6 +26,18 @@
       "telework": "In Office",
       "job_type": "Permanent, Full Time",
       "work_arrangement": "On-site"
+    },
+    {
+      "company": "California Governor's Office of Emergency Services",
+      "title": "Supervisor I",
+      "location": "Sacramento County",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=529940",
+      "date_posted": "2026-08-25",
+      "salary": "$7172.00 - $8910.00",
+      "ats": "CalCareers",
+      "telework": "Hybrid",
+      "job_type": "Permanent, Full Time",
+      "work_arrangement": "Telecommute eligible"
     }
   ],
   "new_jobs": []
