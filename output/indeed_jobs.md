@@ -1,29 +1,32 @@
 # 🟦 Indeed — Social Worker Roles
-*Last updated: 2026-08-26 04:40 UTC*
+*Last updated: 2026-08-26 19:59 UTC*
 
-**4 new role(s)** since last run · 12 total in last 24h
+**4 new role(s)** since last run · 9 total in last 24h
 
-### [Court Services Case Manager](https://www.indeed.com/viewjob?jk=687a72485b7b722d) — Jefferson County Colorado
-- 📍 **Location:** Golden, CO, US
+### [Supervisor, Sterile Processing (Nights)](https://www.indeed.com/viewjob?jk=3c7b85610350748e) — Denver Health
+- 📍 **Location:** Denver, CO, US
+- 💰 **Salary:** $26–$38/hr
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-08-26
+
+### [Licensed School Social Worker](https://www.indeed.com/viewjob?jk=95fa2e56d99542c4) — KindSpire Education
+- 📍 **Location:** Thornton, CO, US
+- 💰 **Salary:** $50–$70/hr
+- **Work mode:** On-site
+- **Job type:** fulltime, contract
+- 🕒 **Posted:** 2026-08-26
+
+### [Social Worker MSW](https://www.indeed.com/viewjob?jk=d59d893d765280e1) — HCA HealthONE Aurora
+- 📍 **Location:** Aurora, CO, US
+- 💰 **Salary:** $26–$41/hr
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-08-25
 
-### [Case Manager](https://www.indeed.com/viewjob?jk=3df6da3cb7f599a9) — Ernest Health
-- 📍 **Location:** Johnstown, CO, US
-- 💰 **Salary:** $67k–$80k/yr
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-08-25
-
-### [Clinical Social Worker - Fee For Service](https://www.indeed.com/viewjob?jk=e6739be628956667) — Thriveworks
-- 📍 **Location:** Littleton, CO, US
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-08-25
-
-### [Clinical Social Worker - Fee For Service](https://www.indeed.com/viewjob?jk=d5dc36315bb891c2) — Thriveworks
-- 📍 **Location:** Centennial, CO, US
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-08-25
+### [Member Intake Specialist (Part-Time)](https://www.indeed.com/viewjob?jk=350bfc3fa236fb56) — Eleanor Health
+- 📍 **Location:** Remote, US
+- 💰 **Salary:** $22–$23/hr
+- **Work mode:** Remote in-state eligible
+- **Job type:** parttime
+- 🕒 **Posted:** 2026-08-26
