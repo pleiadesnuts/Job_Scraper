@@ -1,32 +1,73 @@
 # 🟦 Indeed — Social Worker Roles
-*Last updated: 2026-08-26 19:59 UTC*
+*Last updated: 2026-08-26 23:08 UTC*
 
-**4 new role(s)** since last run · 9 total in last 24h
+**10 new role(s)** since last run · 16 total in last 24h
 
-### [Supervisor, Sterile Processing (Nights)](https://www.indeed.com/viewjob?jk=3c7b85610350748e) — Denver Health
+### [Young Adult Program Manager](https://www.indeed.com/viewjob?jk=68375b69f97f7e17) — URBAN PEAK
 - 📍 **Location:** Denver, CO, US
-- 💰 **Salary:** $26–$38/hr
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-08-26
 
-### [Licensed School Social Worker](https://www.indeed.com/viewjob?jk=95fa2e56d99542c4) — KindSpire Education
-- 📍 **Location:** Thornton, CO, US
-- 💰 **Salary:** $50–$70/hr
-- **Work mode:** On-site
-- **Job type:** fulltime, contract
-- 🕒 **Posted:** 2026-08-26
-
-### [Social Worker MSW](https://www.indeed.com/viewjob?jk=d59d893d765280e1) — HCA HealthONE Aurora
-- 📍 **Location:** Aurora, CO, US
-- 💰 **Salary:** $26–$41/hr
+### [Life Enrichment and Volunteer Coordinator](https://www.indeed.com/viewjob?jk=349b42fb708c71bd) — Boulder Housing Partners
+- 📍 **Location:** Boulder, CO, US
+- 💰 **Salary:** $25–$29/yr
 - **Work mode:** On-site
 - **Job type:** fulltime
-- 🕒 **Posted:** 2026-08-25
+- 🕒 **Posted:** 2026-08-26
 
-### [Member Intake Specialist (Part-Time)](https://www.indeed.com/viewjob?jk=350bfc3fa236fb56) — Eleanor Health
-- 📍 **Location:** Remote, US
-- 💰 **Salary:** $22–$23/hr
-- **Work mode:** Remote in-state eligible
+### [Behavioral Health Specialist - RBT (Greeley,CO)](https://www.indeed.com/viewjob?jk=5ea2845eb8a48b97) — Heartland ABA
+- 📍 **Location:** Greeley, CO, US
+- 💰 **Salary:** $19–$27/hr
+- **Work mode:** On-site
 - **Job type:** parttime
+- 🕒 **Posted:** 2026-08-26
+
+### [Behavioral Health Specialist - RBT (Greeley,CO)](https://www.indeed.com/viewjob?jk=78e61cbf65c64aec) — Heartland ABA
+- 📍 **Location:** Greeley, CO, US
+- 💰 **Salary:** $19–$27/hr
+- **Work mode:** On-site
+- **Job type:** parttime
+- 🕒 **Posted:** 2026-08-26
+
+### [Behavioral Health Specialist - RBT (Greeley,CO)](https://www.indeed.com/viewjob?jk=1c5749a32640953a) — Heartland ABA
+- 📍 **Location:** Greeley, CO, US
+- 💰 **Salary:** $19–$27/hr
+- **Work mode:** On-site
+- **Job type:** parttime
+- 🕒 **Posted:** 2026-08-26
+
+### [Behavioral Health Specialist - RBT (Greeley,CO)](https://www.indeed.com/viewjob?jk=7d340e6513719128) — Heartland ABA
+- 📍 **Location:** Greeley, CO, US
+- 💰 **Salary:** $19–$27/hr
+- **Work mode:** On-site
+- **Job type:** parttime
+- 🕒 **Posted:** 2026-08-26
+
+### [Behavioral Health Specialist - RBT (Greeley,CO)](https://www.indeed.com/viewjob?jk=5e6e7162c86d646c) — Heartland ABA
+- 📍 **Location:** Greeley, CO, US
+- 💰 **Salary:** $19–$27/hr
+- **Work mode:** On-site
+- **Job type:** parttime
+- 🕒 **Posted:** 2026-08-26
+
+### [Behavioral Health Specialist - RBT (Greeley,CO)](https://www.indeed.com/viewjob?jk=d7621cb7e4e3978f) — Heartland ABA
+- 📍 **Location:** Greeley, CO, US
+- 💰 **Salary:** $19–$27/hr
+- **Work mode:** On-site
+- **Job type:** parttime
+- 🕒 **Posted:** 2026-08-26
+
+### [Patient Care Coordinator/ onboarding specialist for telehealth rpm and ccm clinics](https://www.indeed.com/viewjob?jk=17860c6aa3ba6902) — Telemd Health
+- 📍 **Location:** Remote, US
+- 💰 **Salary:** $16–$23/hr
+- **Work mode:** Remote in-state eligible
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-08-26
+
+### [Chronic Care Management and RPM Telehealth Clinics Manager/supervisor](https://www.indeed.com/viewjob?jk=a0251cae2141824e) — Telemd Health
+- 📍 **Location:** Remote, US
+- 💰 **Salary:** $30–$35/hr
+- **Work mode:** Remote in-state eligible
+- **Job type:** fulltime
 - 🕒 **Posted:** 2026-08-26
