@@ -1,24 +1,37 @@
 # ☕ HiringCafe — Social Worker Roles
-*Last updated: 2026-08-28 01:41 UTC*
+*Last updated: 2026-08-28 13:47 UTC*
 
-**3 new role(s)** since last run · 85 total in last 30d
+**5 new role(s)** since last run · 87 total in last 30d
 
-### [Case Manager](https://eckb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/requisitions/job/103375) — The Fedcap Group
-- 📍 **Location:** Washington, District of Columbia, United States
-- 💰 **Salary:** $52k/yr
-- **Work mode:** On-site
+### [Case Manager](https://www.neurorehabmgt.com/job-openings) — Neuro-Rehab Management
+- 📍 **Location:** Woburn or United States
+- **Work mode:** Telecommute eligible
 - **Job type:** Full Time
-- 🕒 **Posted:** 2026-08-06T14:55:35.000Z
+- 🕒 **Posted:** 2026-08-13T21:41:51.517Z
 
-### [Program Sports 304021 - Program Coordinator](https://jobs.dayforcehcm.com/en-US/cleveymca/candidateportal/jobs/5895) — YMCA of Greater Cleveland
-- 📍 **Location:** Chardon, Ohio, United States
-- 💰 **Salary:** $29k–$33k/yr
+### [Program Coordinator](https://shepherds-clinic-inc.careerplug.com/jobs/2398994) — Shepherds Clinic Inc
+- 📍 **Location:** Baltimore, Maryland, United States
 - **Work mode:** On-site
 - **Job type:** Part Time
-- 🕒 **Posted:** 2026-08-27T04:00:00.000Z
+- 🕒 **Posted:** 2026-08-28T06:18:21.466Z
 
-### [Program Coordinator (ACP)](https://careers.dc.gov/psc/erecruit/APPLICANT/CAREERS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&Action=U&FOCUS=Applicant&JobOpeningId=33295&PostingSeq=1&SiteId=1) — Government of the District of Columbia
-- 📍 **Location:** Washington, District of Columbia, United States
-- **Work mode:** On-site
+### [Program Coordinator 2 (WIC Program Coordinator PCN 061547)](https://www.governmentjobs.com/careers/alaska/jobs/5460590) — State of Alaska
+- 📍 **Location:** Anchorage or Juneau
+- 💰 **Salary:** $81k–$85k/yr
+- **Work mode:** Telecommute eligible
 - **Job type:** Full Time
-- 🕒 **Posted:** 2026-08-27T12:00:00.000Z
+- 🕒 **Posted:** 2026-08-27T21:48:12.000Z
+
+### [Program Coordinator III](https://seattlechildrens.wd5.myworkdayjobs.com/external/job/Seattle-WA/Program-Coordinator-III_R262552) — Seattle Children's Hospital
+- 📍 **Location:** Seattle, Washington, United States
+- 💰 **Salary:** $67k–$100k/yr
+- **Work mode:** Telecommute eligible
+- **Job type:** Full Time
+- 🕒 **Posted:** 2026-08-27T00:00:00.000Z
+
+### [Community Health Worker](https://secure6.saashr.com/ta/6187395.careers?ShowJob=738603522) — Scenic Rivers Health Services
+- 📍 **Location:** Cook, Minnesota, United States
+- 💰 **Salary:** $44k–$50k/yr
+- **Work mode:** On-site
+- **Job type:** Full Time, Part Time
+- 🕒 **Posted:** 2026-08-20T23:26:43.576Z
