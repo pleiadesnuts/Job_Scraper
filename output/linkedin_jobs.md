@@ -1,106 +1,89 @@
 # 🔥 LinkedIn — Social Worker Roles
-*Last updated: 2026-08-29 07:29 UTC*
+*Last updated: 2026-08-29 18:48 UTC*
 
-**23 new role(s)** since last run · 23 total in last 1h
+**19 new role(s)** since last run · 19 total in last 1h
 
-### [Behavioral Health Specialist I - Emergency Services & Crisis Care](https://www.linkedin.com/jobs/view/4459458905/) — Fairfax County Government
-- 📍 **Location:** Fairfax, VA
+### [Occupational Medicine Care Coordinator](https://www.linkedin.com/jobs/view/4450049422/) — HCA Healthcare
+- 📍 **Location:** Greenwood Village, CO
+- 💰 **Salary:** $17.44 - $25.30
 - 🕒 **Posted:** 2026-08-29
 
-### [Social Worker - Consult Liaison Program](https://www.linkedin.com/jobs/view/4434509846/) — Trinity Health MI
-- 📍 **Location:** Ann Arbor, MI
+### [RN Case Manager](https://www.linkedin.com/jobs/view/4442417578/) — HCA HealthONE
+- 📍 **Location:** Denver, CO
+- 💰 **Salary:** $40.35 - $58.87
 - 🕒 **Posted:** 2026-08-29
 
-### [Crisis Case Manager](https://www.linkedin.com/jobs/view/4460580830/) — BJC HealthCare
-- 📍 **Location:** Farmington, MO
-- 💰 **Salary:** $52,083.20/hr - $84,822.40/hr
+### [Assistant Site Supervisor](https://www.linkedin.com/jobs/view/4438752789/) — Metropolitan Family Services
+- 📍 **Location:** Chicago, IL
 - 🕒 **Posted:** 2026-08-29
 
-### [Behavioral Health Supervisor- Behavioral Health Outpatient Services](https://www.linkedin.com/jobs/view/4459462838/) — Fairfax County Government
-- 📍 **Location:** Alexandria, VA
+### [Grant Writer](https://www.linkedin.com/jobs/view/4460839353/) — TEKsystems
+- 📍 **Location:** Los Angeles, CA
+- 💰 **Salary:** $35.00 - $38.00/hr
 - 🕒 **Posted:** 2026-08-29
 
-### [Social Worker](https://www.linkedin.com/jobs/view/4460581926/) — MercyOne
-- 📍 **Location:** Des Moines, IA
-- 🕒 **Posted:** 2026-08-29
-
-### [Social Worker](https://www.linkedin.com/jobs/view/4448365751/) — Trinity Health
-- 📍 **Location:** Des Moines, IA
-- 🕒 **Posted:** 2026-08-29
-
-### [Community Program Coordinator](https://www.linkedin.com/jobs/view/4460589621/) — AppleOne Employment Services
-- 📍 **Location:** Redwood City, CA
-- 💰 **Salary:** $55,000 to $60,000 per year
-- 🕒 **Posted:** 2026-08-29
-
-### [Program Coordinator- School of Medicine, OBGYN](https://www.linkedin.com/jobs/view/4458417506/) — Emory University
-- 📍 **Location:** Atlanta, GA
-- 🕒 **Posted:** 2026-08-29
-
-### [Lung Cancer Screening Program Coordinator](https://www.linkedin.com/jobs/view/4460589742/) — Trinity Health
-- 📍 **Location:** Hartford, CT
-- 🕒 **Posted:** 2026-08-29
-
-### [Lung Cancer Screening Program Coordinator](https://www.linkedin.com/jobs/view/4460580945/) — Trinity Health Of New England
-- 📍 **Location:** Hartford, CT
-- 🕒 **Posted:** 2026-08-29
-
-### [Program Coordinator (ACP)](https://www.linkedin.com/jobs/view/4460592117/) — DC Department of Human Resources
-- 📍 **Location:** Washington, DC
-- 🕒 **Posted:** 2026-08-29
-
-### [Health Homes - Care Coordinator - Troy NY](https://www.linkedin.com/jobs/view/4460590734/) — St. Peter's Health Partners
-- 📍 **Location:** Troy, NY
-- 💰 **Salary:** $21.20 - $28.55
-- 🕒 **Posted:** 2026-08-29
-
-### [Patient Care Coordinator - Heart and Vascular](https://www.linkedin.com/jobs/view/4459480714/) — Providence Swedish
+### [Supplier Diversity Program Manager](https://www.linkedin.com/jobs/view/4449231605/) — McKinstry
 - 📍 **Location:** Seattle, WA
-- 💰 **Salary:** $25.73/hr - $39.36/hr
+- 💰 **Salary:** $68,310 - $114,500 per year
 - 🕒 **Posted:** 2026-08-29
 
-### [Hospice Social Worker- Lincoln](https://www.linkedin.com/jobs/view/4460584819/) — Hillcrest Health & Living
-- 📍 **Location:** Lincoln, NE
+### [Clinical Social Worker, Emergency Psych Services Fri/Sat overnights](https://www.linkedin.com/jobs/view/4450393188/) — Boston Children's Hospital
+- 📍 **Location:** Boston, MA
+- 💰 **Salary:** $29.91/hr - $47.85/hr
 - 🕒 **Posted:** 2026-08-29
 
-### [Social Worker MSW - PACE](https://www.linkedin.com/jobs/view/4459464836/) — Providence
-- 📍 **Location:** Kent, WA
-- 💰 **Salary:** $38.56/hr - $59.88/hr
+### [Social Worker MSW](https://www.linkedin.com/jobs/view/4423059239/) — Alaska Regional Hospital
+- 📍 **Location:** Anchorage, AK
 - 🕒 **Posted:** 2026-08-29
 
-### [Social Worker II](https://www.linkedin.com/jobs/view/4459463885/) — Alberta Health Services
-- 📍 **Location:** Greater Edmonton Metropolitan Area
-- 💰 **Salary:** $42.14 - $56.02
+### [Hospital Social Worker ED](https://www.linkedin.com/jobs/view/4439246924/) — MultiCare Health System
+- 📍 **Location:** Puyallup, WA
+- 💰 **Salary:** $43.47 - $66.15 USD
 - 🕒 **Posted:** 2026-08-29
 
-### [Medical Social Worker - East Bay, CA](https://www.linkedin.com/jobs/view/4457980461/) — Crossroads Home Health and Hospice
-- 📍 **Location:** Oakland, CA
+### [Bilingual Case Manager - (English/Spanish)](https://www.linkedin.com/jobs/view/4423016537/) — Bethany Christian Services
+- 📍 **Location:** Indianapolis, IN
 - 🕒 **Posted:** 2026-08-29
 
-### [Clinical Supervisor, Mental Health](https://www.linkedin.com/jobs/view/4460587637/) — AppleOne Employment Services
-- 📍 **Location:** Oakland, CA
-- 💰 **Salary:** $100,000 to $130,000 per year
+### [Patient Care Coordinator - Beacon Ortho clinic Red Bank RD](https://www.linkedin.com/jobs/view/4450742969/) — Upstream Rehabilitation
+- 📍 **Location:** Cincinnati, OH
 - 🕒 **Posted:** 2026-08-29
 
-### [Health Homes - Care Coordinator - Troy NY](https://www.linkedin.com/jobs/view/4460580974/) — Trinity Health
-- 📍 **Location:** Troy, NY
-- 💰 **Salary:** $21.20 - $28.55
+### [Program Manager (Part-Time)](https://www.linkedin.com/jobs/view/4459493697/) — Hapchi
+- 📍 **Location:** Bengaluru, Karnataka, India
 - 🕒 **Posted:** 2026-08-29
 
-### [Nurse Case Manager for Substance Use Disorder (SUD)](https://www.linkedin.com/jobs/view/4460594116/) — Chapa-De Indian Health
-- 📍 **Location:** Grass Valley, CA
-- 💰 **Salary:** $52.65-$60.00
+### [Patient Care Coordinator](https://www.linkedin.com/jobs/view/4450754592/) — SERC Physical Therapy
+- 📍 **Location:** Fayetteville, AR
 - 🕒 **Posted:** 2026-08-29
 
-### [Onboarding & Training Coordinator](https://www.linkedin.com/jobs/view/4459465879/) — 24Karatz We Buy Gold
-- 📍 **Location:** Gurugram, Haryana, India
+### [Supervisor, Guest Experience](https://www.linkedin.com/jobs/view/4458809015/) — Vancouver Airport Authority
+- 📍 **Location:** Vancouver, British Columbia, Canada
+- 💰 **Salary:** $71,560 to $93,525 per annum
 - 🕒 **Posted:** 2026-08-29
 
-### [RN Case Manager](https://www.linkedin.com/jobs/view/4460564515/) — Arkansas Blue Cross and Blue Shield
-- 📍 **Location:** Little Rock, AR
+### [Foster Care Case Manager](https://www.linkedin.com/jobs/view/4414234957/) — Bethany Christian Services
+- 📍 **Location:** Flint, MI
 - 🕒 **Posted:** 2026-08-29
 
-### [RN Case Manager](https://www.linkedin.com/jobs/view/4460591626/) — Continuum Hospice & Palliative Care Massachusetts
-- 📍 **Location:** Braintree, MA
-- 💰 **Salary:** $90,000 - $105,000 per year
+### [Clinic Supervisor (RN): Orthopedics Care- Spine Service Line](https://www.linkedin.com/jobs/view/4450517872/) — IHA
+- 📍 **Location:** Bettendorf, IA
+- 🕒 **Posted:** 2026-08-29
+
+### [Facilites & Link Supervisor](https://www.linkedin.com/jobs/view/4459702684/) — VINEYARD COMPASSION
+- 📍 **Location:** Suffolk, England, United Kingdom
+- 🕒 **Posted:** 2026-08-29
+
+### [Litigation Case Manager](https://www.linkedin.com/jobs/view/4414650154/) — Newrez
+- 📍 **Location:** Greenville, SC
+- 🕒 **Posted:** 2026-08-29
+
+### [Part Time Pediatric RN Case Manager - Capital Caring Health](https://www.linkedin.com/jobs/view/4450505710/) — Chapters Health System
+- 📍 **Location:** Fairfax County, VA
+- 💰 **Salary:** $76,612.89 - $114,030.63
+- 🕒 **Posted:** 2026-08-29
+
+### [RN, Case Manager - Float Team (HPH Hospice)](https://www.linkedin.com/jobs/view/4450504770/) — Chapters Health System
+- 📍 **Location:** Brooksville, FL
+- 💰 **Salary:** $61,860.66 - $96,657.28
 - 🕒 **Posted:** 2026-08-29
