@@ -1,224 +1,260 @@
 {
-  "scraped_at": "2026-08-16 16:05 UTC",
+  "scraped_at": "2026-08-29 19:05 UTC",
   "total": 14,
-  "new_count": 1,
+  "new_count": 14,
   "jobs": [
     {
-      "company": "Air Force Materiel Command",
-      "title": "Risk Assessor/Toxicologist Interdisciplinary (Environmental) - DIRECT HIRE AUTHORITY",
-      "location": "Kelly AFB, Texas",
-      "url": "https://www.usajobs.gov/job/881345300",
-      "date_posted": "2026-08-19",
-      "salary": "Starting at $76,463 Per year (NH 3)",
-      "ats": "USAJOBS"
-    },
-    {
-      "company": "U.S. Coast Guard",
-      "title": "Environmental Protection Specialist",
-      "location": "New London County, Connecticut",
-      "url": "https://www.usajobs.gov/job/881616800",
-      "date_posted": "2026-08-21",
-      "salary": "Starting at $69,642 Per year (GS 9)",
-      "ats": "USAJOBS"
-    },
-    {
-      "company": "U.S. Marine Corps",
-      "title": "ENVIRONMENTAL PROTECTION SPECIALIST",
-      "location": "Twentynine Palms, California",
-      "url": "https://www.usajobs.gov/job/881433100",
-      "date_posted": "2026-08-21",
-      "salary": "Starting at $71,957 Per year (GS 9-11)",
-      "ats": "USAJOBS"
-    },
-    {
-      "company": "U.S. Marine Corps",
-      "title": "ENVIRONMENTAL PROTECTION SPECIALIST",
-      "location": "Twentynine Palms, California",
-      "url": "https://www.usajobs.gov/job/881455200",
-      "date_posted": "2026-08-21",
-      "salary": "Starting at $71,957 Per year (GS 9-11)",
-      "ats": "USAJOBS"
-    },
-    {
-      "company": "John C. Stennis Space Center",
-      "title": "Public Notice - Environmental Protection (Direct Hire)",
-      "location": "Stennis Space Center, Mississippi",
-      "url": "https://www.usajobs.gov/job/881127000",
-      "date_posted": "2026-08-20",
-      "salary": "Starting at $74,678 Per year (GS 11-14)",
-      "ats": "USAJOBS"
-    },
-    {
-      "company": "U.S. Coast Guard",
-      "title": "Environmental Protection Specialist",
-      "location": "Boston, Massachusetts",
-      "url": "https://www.usajobs.gov/job/880971300",
-      "date_posted": "2026-08-18",
-      "salary": "Starting at $69,905 Per year (GS 9)",
-      "ats": "USAJOBS"
-    },
-    {
-      "company": "Bureau of Engraving and Printing",
-      "title": "Environmental Protection Specialist",
-      "location": "Fort Worth, Texas",
-      "url": "https://www.usajobs.gov/job/880524700",
-      "date_posted": "2026-08-14",
-      "salary": "Starting at $115,711 Per year (GS 13)",
-      "ats": "USAJOBS"
-    },
-    {
-      "company": "Department of Energy Headquarters",
-      "title": "Environmental Protection Specialist",
-      "location": "Washington, District of Columbia",
-      "url": "https://www.usajobs.gov/job/880077600",
-      "date_posted": "2026-08-12",
-      "salary": "Starting at $143,913 Per year (GS 14)",
-      "ats": "USAJOBS"
-    },
-    {
-      "company": "U.S. Coast Guard",
-      "title": "Environmental Protection Specialist",
-      "location": "New London County, Connecticut",
-      "url": "https://www.usajobs.gov/job/879914700",
-      "date_posted": "2026-08-10",
-      "salary": "Starting at $69,642 Per year (GS 9)",
-      "ats": "USAJOBS"
-    },
-    {
-      "company": "U.S. Coast Guard",
-      "title": "Lead Environmental Program Manager",
-      "location": "Warrenton, Oregon",
-      "url": "https://www.usajobs.gov/job/879733700",
-      "date_posted": "2026-08-07",
-      "salary": "Starting at $89,508 Per year (GS 12)",
+      "company": "Veterans Health Administration",
+      "title": "Pharmacy Supervisor",
+      "location": "Iowa City, Iowa",
+      "url": "https://www.usajobs.gov/job/882734600",
+      "date_posted": "2026-08-28",
+      "salary": "Starting at $127,068 Per year (GS 13)",
       "ats": "USAJOBS"
     },
     {
       "company": "Veterans Health Administration",
-      "title": "Social Worker- Community Living Center",
-      "location": "Fort Meade, South Dakota",
-      "url": "https://www.usajobs.gov/job/880565800",
-      "date_posted": "2026-08-13",
-      "salary": "Starting at $63,272 Per year (GS 9-11)",
+      "title": "Facility Program Manager - Medication Safety Officer",
+      "location": "Iowa City, Iowa",
+      "url": "https://www.usajobs.gov/job/882692300",
+      "date_posted": "2026-08-28",
+      "salary": "Starting at $127,068 Per year (GS 13)",
       "ats": "USAJOBS"
     },
     {
       "company": "Veterans Health Administration",
-      "title": "Registered Nurse - Education Supervisor",
-      "location": "Omaha, Nebraska",
-      "url": "https://www.usajobs.gov/job/880564500",
-      "date_posted": "2026-08-13",
-      "salary": "Starting at $65,500 Per year (VN 00)",
+      "title": "Social Worker (BHIP)",
+      "location": "Reno, Nevada",
+      "url": "https://www.usajobs.gov/job/882707700",
+      "date_posted": "2026-08-28",
+      "salary": "Starting at $97,545 Per year (GS 9-11)",
       "ats": "USAJOBS"
     },
     {
       "company": "Veterans Health Administration",
-      "title": "Senior Social Worker - Outpatient Substance Use Disorders Program",
+      "title": "Registered Nurse-Officer of the Day (Nursing Supervisor)",
+      "location": "Johnson City, Tennessee",
+      "url": "https://www.usajobs.gov/job/882666900",
+      "date_posted": "2026-08-28",
+      "salary": "Starting at $78,499 Per year (VN 00)",
+      "ats": "USAJOBS"
+    },
+    {
+      "company": "Veterans Health Administration",
+      "title": "Facility Program Manager - Pharmacy Informatics Solutions and Ticket Manager",
+      "location": "Des Moines, Iowa",
+      "url": "https://www.usajobs.gov/job/882561300",
+      "date_posted": "2026-08-28",
+      "salary": "Starting at $143,425 Per year (GS 13)",
+      "ats": "USAJOBS"
+    },
+    {
+      "company": "Veterans Health Administration",
+      "title": "Housekeeping Aid Supervisor - Environmental Services Technician Supervisor",
+      "location": "Waco, Texas",
+      "url": "https://www.usajobs.gov/job/882522000",
+      "date_posted": "2026-08-27",
+      "salary": "Starting at $26.79 Per hour (WS 2)",
+      "ats": "USAJOBS"
+    },
+    {
+      "company": "Veterans Health Administration",
+      "title": "Supervisory Social Worker - Homeless Program",
       "location": "Cedar Rapids, Iowa",
-      "url": "https://www.usajobs.gov/job/880508500",
-      "date_posted": "2026-08-13",
+      "url": "https://www.usajobs.gov/job/882494400",
+      "date_posted": "2026-08-27",
       "salary": "Starting at $97,100 Per year (GS 12)",
       "ats": "USAJOBS"
     },
     {
       "company": "Veterans Health Administration",
-      "title": "Social Worker - Intimate Partner Violence Assistance Program",
-      "location": "Coralville, Iowa",
-      "url": "https://www.usajobs.gov/job/880504600",
-      "date_posted": "2026-08-13",
-      "salary": "Starting at $66,958 Per year (GS 9-11)",
-      "ats": "USAJOBS"
-    },
-    {
-      "company": "Veterans Health Administration",
-      "title": "Social Worker-PACT",
-      "location": "Vincennes, Indiana",
-      "url": "https://www.usajobs.gov/job/880476900",
-      "date_posted": "2026-08-13",
-      "salary": "Starting at $68,018 Per year (GS 9-11)",
-      "ats": "USAJOBS"
-    },
-    {
-      "company": "Veterans Health Administration",
-      "title": "Social Worker (Mental Health Intensive Care Management)",
-      "location": "San Jose, California",
-      "url": "https://www.usajobs.gov/job/880772200",
-      "date_posted": "2026-08-14",
-      "salary": "Starting at $129,222 Per year (GS 12)",
-      "ats": "USAJOBS"
-    },
-    {
-      "company": "Veterans Health Administration",
-      "title": "Social Worker (Home Based Primary Care)",
-      "location": "Poplar Bluff, Missouri",
-      "url": "https://www.usajobs.gov/job/880616400",
-      "date_posted": "2026-08-14",
-      "salary": "Starting at $82,040 Per year (GS 11)",
-      "ats": "USAJOBS"
-    },
-    {
-      "company": "Department of Education Headquarters",
-      "title": "IT Program Manager",
+      "title": "Social Worker - Inpatient Medicine- Psychiatry",
       "location": "Washington, District of Columbia",
-      "url": "https://www.usajobs.gov/job/880605200",
-      "date_posted": "2026-08-14",
-      "salary": "Starting at $169,279 Per year (GS 15)",
+      "url": "https://www.usajobs.gov/job/882714900",
+      "date_posted": "2026-08-28",
+      "salary": "Starting at $77,688 Per year (GS 9-11)",
+      "ats": "USAJOBS"
+    },
+    {
+      "company": "Commander, Navy Installations Command",
+      "title": "Family Advocacy Program (FAP) Clinical Case Manager",
+      "location": "Naval Air Station Pensacola, Florida",
+      "url": "https://www.usajobs.gov/job/882635700",
+      "date_posted": "2026-08-28",
+      "salary": "Starting at $89,508 Per year (NF 4)",
       "ats": "USAJOBS"
     },
     {
       "company": "Veterans Health Administration",
-      "title": "Social Worker - Senior Social Worker Home Based Primary Care (HBPC)",
-      "location": "Las Vegas, Nevada",
-      "url": "https://www.usajobs.gov/job/880581400",
-      "date_posted": "2026-08-13",
-      "salary": "Starting at $108,577 Per year (GS 12)",
+      "title": "Senior Social Worker (PRRC)",
+      "location": "Phoenix, Arizona",
+      "url": "https://www.usajobs.gov/job/882313300",
+      "date_posted": "2026-08-28",
+      "salary": "Starting at $107,048 Per year (GS 12)",
       "ats": "USAJOBS"
     },
     {
       "company": "Veterans Health Administration",
-      "title": "Senior Social Worker - Home Based Primary Care",
-      "location": "Lebanon, Pennsylvania",
-      "url": "https://www.usajobs.gov/job/880436200",
-      "date_posted": "2026-08-13",
-      "salary": "Starting at $99,157 Per year (GS 12)",
+      "title": "Senior Social Worker - HPACT",
+      "location": "Prescott, Arizona",
+      "url": "https://www.usajobs.gov/job/882126300",
+      "date_posted": "2026-08-28",
+      "salary": "Starting at $99,402 Per year (GS 12)",
       "ats": "USAJOBS"
     },
     {
       "company": "Veterans Health Administration",
-      "title": "Social Worker (Program Coordinator) Caregiver Support - Education Debt Reduction Program Approved",
-      "location": "Corpus Christi, Texas",
-      "url": "https://www.usajobs.gov/job/880576700",
-      "date_posted": "2026-08-13",
+      "title": "Social Worker (Program Coordinator) - HUDVASH",
+      "location": "Prescott, Arizona",
+      "url": "https://www.usajobs.gov/job/882254300",
+      "date_posted": "2026-08-28",
+      "salary": "Starting at $118,203 Per year (GS 13)",
+      "ats": "USAJOBS"
+    },
+    {
+      "company": "Veterans Health Administration",
+      "title": "Senior Social Worker",
+      "location": "Twin Falls, Idaho",
+      "url": "https://www.usajobs.gov/job/882546300",
+      "date_posted": "2026-08-27",
       "salary": "Starting at $89,508 Per year (GS 12)",
       "ats": "USAJOBS"
     },
     {
       "company": "Veterans Health Administration",
-      "title": "Licensed Professional Mental Health Counselor (BHIP/Outpatient) - Care Coordinator",
-      "location": "Chesapeake, Virginia",
-      "url": "https://www.usajobs.gov/job/880288800",
-      "date_posted": "2026-08-12",
-      "salary": "Starting at $62,640 Per year (GS 9-11)",
-      "ats": "USAJOBS"
-    },
-    {
-      "company": "Air Force Materiel Command",
-      "title": "PROGRAM MANAGER - DIRECT HIRE AUTHORITY",
-      "location": "Kelly AFB, Texas",
-      "url": "https://www.usajobs.gov/job/866969400",
-      "date_posted": "2026-04-28",
-      "salary": "Starting at $90,823 Per year (NH 3)",
+      "title": "Senior Social Worker - EDRP Authorized",
+      "location": "Temple, Texas",
+      "url": "https://www.usajobs.gov/job/882501200",
+      "date_posted": "2026-08-27",
+      "salary": "Starting at $101,994 Per year (GS 12)",
       "ats": "USAJOBS"
     }
   ],
   "new_jobs": [
     {
       "company": "Veterans Health Administration",
-      "title": "Social Worker (Mental Health Intensive Care Management)",
-      "location": "San Jose, California",
-      "url": "https://www.usajobs.gov/job/880772200",
-      "date_posted": "2026-08-14",
-      "salary": "Starting at $129,222 Per year (GS 12)",
+      "title": "Pharmacy Supervisor",
+      "location": "Iowa City, Iowa",
+      "url": "https://www.usajobs.gov/job/882734600",
+      "date_posted": "2026-08-28",
+      "salary": "Starting at $127,068 Per year (GS 13)",
+      "ats": "USAJOBS"
+    },
+    {
+      "company": "Veterans Health Administration",
+      "title": "Facility Program Manager - Medication Safety Officer",
+      "location": "Iowa City, Iowa",
+      "url": "https://www.usajobs.gov/job/882692300",
+      "date_posted": "2026-08-28",
+      "salary": "Starting at $127,068 Per year (GS 13)",
+      "ats": "USAJOBS"
+    },
+    {
+      "company": "Veterans Health Administration",
+      "title": "Social Worker (BHIP)",
+      "location": "Reno, Nevada",
+      "url": "https://www.usajobs.gov/job/882707700",
+      "date_posted": "2026-08-28",
+      "salary": "Starting at $97,545 Per year (GS 9-11)",
+      "ats": "USAJOBS"
+    },
+    {
+      "company": "Veterans Health Administration",
+      "title": "Registered Nurse-Officer of the Day (Nursing Supervisor)",
+      "location": "Johnson City, Tennessee",
+      "url": "https://www.usajobs.gov/job/882666900",
+      "date_posted": "2026-08-28",
+      "salary": "Starting at $78,499 Per year (VN 00)",
+      "ats": "USAJOBS"
+    },
+    {
+      "company": "Veterans Health Administration",
+      "title": "Facility Program Manager - Pharmacy Informatics Solutions and Ticket Manager",
+      "location": "Des Moines, Iowa",
+      "url": "https://www.usajobs.gov/job/882561300",
+      "date_posted": "2026-08-28",
+      "salary": "Starting at $143,425 Per year (GS 13)",
+      "ats": "USAJOBS"
+    },
+    {
+      "company": "Veterans Health Administration",
+      "title": "Housekeeping Aid Supervisor - Environmental Services Technician Supervisor",
+      "location": "Waco, Texas",
+      "url": "https://www.usajobs.gov/job/882522000",
+      "date_posted": "2026-08-27",
+      "salary": "Starting at $26.79 Per hour (WS 2)",
+      "ats": "USAJOBS"
+    },
+    {
+      "company": "Veterans Health Administration",
+      "title": "Supervisory Social Worker - Homeless Program",
+      "location": "Cedar Rapids, Iowa",
+      "url": "https://www.usajobs.gov/job/882494400",
+      "date_posted": "2026-08-27",
+      "salary": "Starting at $97,100 Per year (GS 12)",
+      "ats": "USAJOBS"
+    },
+    {
+      "company": "Veterans Health Administration",
+      "title": "Social Worker - Inpatient Medicine- Psychiatry",
+      "location": "Washington, District of Columbia",
+      "url": "https://www.usajobs.gov/job/882714900",
+      "date_posted": "2026-08-28",
+      "salary": "Starting at $77,688 Per year (GS 9-11)",
+      "ats": "USAJOBS"
+    },
+    {
+      "company": "Commander, Navy Installations Command",
+      "title": "Family Advocacy Program (FAP) Clinical Case Manager",
+      "location": "Naval Air Station Pensacola, Florida",
+      "url": "https://www.usajobs.gov/job/882635700",
+      "date_posted": "2026-08-28",
+      "salary": "Starting at $89,508 Per year (NF 4)",
+      "ats": "USAJOBS"
+    },
+    {
+      "company": "Veterans Health Administration",
+      "title": "Senior Social Worker (PRRC)",
+      "location": "Phoenix, Arizona",
+      "url": "https://www.usajobs.gov/job/882313300",
+      "date_posted": "2026-08-28",
+      "salary": "Starting at $107,048 Per year (GS 12)",
+      "ats": "USAJOBS"
+    },
+    {
+      "company": "Veterans Health Administration",
+      "title": "Senior Social Worker - HPACT",
+      "location": "Prescott, Arizona",
+      "url": "https://www.usajobs.gov/job/882126300",
+      "date_posted": "2026-08-28",
+      "salary": "Starting at $99,402 Per year (GS 12)",
+      "ats": "USAJOBS"
+    },
+    {
+      "company": "Veterans Health Administration",
+      "title": "Social Worker (Program Coordinator) - HUDVASH",
+      "location": "Prescott, Arizona",
+      "url": "https://www.usajobs.gov/job/882254300",
+      "date_posted": "2026-08-28",
+      "salary": "Starting at $118,203 Per year (GS 13)",
+      "ats": "USAJOBS"
+    },
+    {
+      "company": "Veterans Health Administration",
+      "title": "Senior Social Worker",
+      "location": "Twin Falls, Idaho",
+      "url": "https://www.usajobs.gov/job/882546300",
+      "date_posted": "2026-08-27",
+      "salary": "Starting at $89,508 Per year (GS 12)",
+      "ats": "USAJOBS"
+    },
+    {
+      "company": "Veterans Health Administration",
+      "title": "Senior Social Worker - EDRP Authorized",
+      "location": "Temple, Texas",
+      "url": "https://www.usajobs.gov/job/882501200",
+      "date_posted": "2026-08-27",
+      "salary": "Starting at $101,994 Per year (GS 12)",
       "ats": "USAJOBS"
     }
   ]
