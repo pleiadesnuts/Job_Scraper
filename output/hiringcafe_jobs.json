@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-28 13:47 UTC",
+  "scraped_at": "2026-08-29 01:02 UTC",
   "total": 87,
-  "new_count": 5,
+  "new_count": 0,
   "jobs": [
     {
       "company": "Pittsburgh Public Schools",
@@ -1222,76 +1222,5 @@
       "ats": "HiringCafe"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Neuro-Rehab Management",
-      "title": "Case Manager",
-      "location": "Woburn or United States",
-      "url": "https://www.neurorehabmgt.com/job-openings",
-      "direct_url": "https://www.neurorehabmgt.com/job-openings",
-      "date_posted": "2026-08-13T21:41:51.517Z",
-      "description": "Bachelor's degree in a related field and 2+ years of case management experience with individuals with disabilities. Requires communication, problem-solving, teamwork, and flexibility.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "Telecommute eligible",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Shepherds Clinic Inc",
-      "title": "Program Coordinator",
-      "location": "Baltimore, Maryland, United States",
-      "url": "https://shepherds-clinic-inc.careerplug.com/jobs/2398994",
-      "direct_url": "https://shepherds-clinic-inc.careerplug.com/jobs/2398994",
-      "date_posted": "2026-08-28T06:18:21.466Z",
-      "description": "Bachelor's degree in public health, healthcare administration, or related field; healthcare or nonprofit program coordination experience; project management, communication, collaboration, and data analysis skills.",
-      "salary": "",
-      "job_type": "Part Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "State of Alaska",
-      "title": "Program Coordinator 2 (WIC Program Coordinator PCN 061547)",
-      "location": "Anchorage or Juneau",
-      "url": "https://www.governmentjobs.com/careers/alaska/jobs/5460590",
-      "direct_url": "https://www.governmentjobs.com/careers/alaska/jobs/5460590",
-      "date_posted": "2026-08-27T21:48:12.000Z",
-      "description": "Education or progressively responsible professional experience coordinating and implementing programs, with competencies in public health, compliance, decision-making, planning, evaluation, and customer service.",
-      "salary": "$81k–$85k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "Telecommute eligible",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Seattle Children's Hospital",
-      "title": "Program Coordinator III",
-      "location": "Seattle, Washington, United States",
-      "url": "https://seattlechildrens.wd5.myworkdayjobs.com/external/job/Seattle-WA/Program-Coordinator-III_R262552",
-      "direct_url": "https://seattlechildrens.wd5.myworkdayjobs.com/external/job/Seattle-WA/Program-Coordinator-III_R262552",
-      "date_posted": "2026-08-27T00:00:00.000Z",
-      "description": "Bachelor’s degree or equivalent experience, five years of program coordination support, two years organizing multiple projects, cross-functional process improvement experience, and stakeholder facilitation skills.",
-      "salary": "$67k–$100k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "Telecommute eligible",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Scenic Rivers Health Services",
-      "title": "Community Health Worker",
-      "location": "Cook, Minnesota, United States",
-      "url": "https://secure6.saashr.com/ta/6187395.careers?ShowJob=738603522",
-      "direct_url": "https://secure6.saashr.com/ta/6187395.careers?ShowJob=738603522",
-      "date_posted": "2026-08-20T23:26:43.576Z",
-      "description": "High school diploma required; community health worker certificate preferred. Requires strong communication, social determinants of health knowledge, computer skills, and EMR and telehealth software proficiency.",
-      "salary": "$44k–$50k/yr",
-      "job_type": "Full Time, Part Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    }
-  ]
+  "new_jobs": []
 }
