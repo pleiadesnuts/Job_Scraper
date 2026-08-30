@@ -1,36 +1,59 @@
 # 🔥 LinkedIn — Social Worker Roles
-*Last updated: 2026-08-30 07:01 UTC*
+*Last updated: 2026-08-30 19:01 UTC*
 
-**7 new role(s)** since last run · 7 total in last 1h
+**13 new role(s)** since last run · 13 total in last 1h
 
-### [Youth Services Supervisor (YGL)](https://www.linkedin.com/jobs/view/4460881459/) — State of Missouri
-- 📍 **Location:** Poplar Bluff, MO
+### [Behavioral Health Specialist](https://www.linkedin.com/jobs/view/4373898235/) — Children's Hospital Colorado
+- 📍 **Location:** Aurora, CO
+- 💰 **Salary:** $22.20 to $33.30
 - 🕒 **Posted:** 2026-08-30
 
-### [Health Services Supervisor (EXTENDED)](https://www.linkedin.com/jobs/view/4460887574/) — Grossmont-Cuyamaca Community College District
-- 📍 **Location:** El Cajon, CA
-- 💰 **Salary:** $90,251.20/yr - $105,560.00/yr
+### [Site Supervisor](https://www.linkedin.com/jobs/view/4414717206/) — SBM Management Services, LP
+- 📍 **Location:** Denver, CO
 - 🕒 **Posted:** 2026-08-30
 
-### [Middle School - Social Worker/Guidance Counselor - 2026/2027 - LONG TERM SUBSTITUTE](https://www.linkedin.com/jobs/view/4458847315/) — Deerfield Public Schools District 109
-- 📍 **Location:** Deerfield, IL
+### [Social Services Case Manager - Outpatient Behavioral Health - FT - Days - MRH](https://www.linkedin.com/jobs/view/4414490851/) — Memorial Healthcare System
+- 📍 **Location:** Hollywood, FL
 - 🕒 **Posted:** 2026-08-30
 
-### [Health Program Manager](https://www.linkedin.com/jobs/view/4459711869/) — Vistas Global
-- 📍 **Location:** Doha, Qatar
+### [Supervisor Child Life - Fort Lauderdale (Full Time, Days)](https://www.linkedin.com/jobs/view/4345690936/) — Nicklaus Children's Health System
+- 📍 **Location:** Fort Lauderdale, FL
 - 🕒 **Posted:** 2026-08-30
 
-### [Program Manager, Cable Makerspace](https://www.linkedin.com/jobs/view/4460883584/) — Dartmouth College
-- 📍 **Location:** Hanover, NH
-- 💰 **Salary:** $29.06/hr - $36.37/hr
+### [Education Program Coordinator II - Hematology Oncology](https://www.linkedin.com/jobs/view/4423545794/) — Medical College of Wisconsin
+- 📍 **Location:** Milwaukee, WI
 - 🕒 **Posted:** 2026-08-30
 
-### [Case Manager RN Cottonwood,](https://www.linkedin.com/jobs/view/4458838348/) — UnitedHealth Group
-- 📍 **Location:** Cottonwood, AZ
-- 💰 **Salary:** $85,196 to $127,794 annually
+### [Case Manager](https://www.linkedin.com/jobs/view/4459736683/) — Lutheran Community Services Northwest
+- 📍 **Location:** Portland, OR
 - 🕒 **Posted:** 2026-08-30
 
-### [Registered Nurse, Care Coordinator, 40 Hour Days](https://www.linkedin.com/jobs/view/4459446796/) — UMass Memorial Health
-- 📍 **Location:** Worcester, MA
-- 💰 **Salary:** $37.51 - $81.95
+### [Regional Education Specialist](https://www.linkedin.com/jobs/view/4459736678/) — Prime Healthcare
+- 📍 **Location:** Chicago, IL
+- 💰 **Salary:** $76,440.00/yr - $102,897.60/yr
+- 🕒 **Posted:** 2026-08-30
+
+### [Outreach Program Coordinator](https://www.linkedin.com/jobs/view/4459754466/) — Lyric Theatre Company
+- 📍 **Location:** South Burlington, VT
+- 🕒 **Posted:** 2026-08-30
+
+### [CURRICULUM SUPERVISOR, WORLD LANGUAGE](https://www.linkedin.com/jobs/view/4458855245/) — Broward County Public Schools
+- 📍 **Location:** Fort Lauderdale, FL
+- 💰 **Salary:** $76,639.00 -$137,899.00
+- 🕒 **Posted:** 2026-08-30
+
+### [Supervisor - Spa - Jumeirah Muscat Bay](https://www.linkedin.com/jobs/view/4451354023/) — Jumeirah
+- 📍 **Location:** Muscat, Masqaţ, Oman
+- 🕒 **Posted:** 2026-08-30
+
+### [RN Case Manager - FT - Days - $10K Sign on Bonus - MRH](https://www.linkedin.com/jobs/view/4433287784/) — Memorial Healthcare System
+- 📍 **Location:** Hollywood, FL
+- 🕒 **Posted:** 2026-08-30
+
+### [Associate Social Worker](https://www.linkedin.com/jobs/view/4461028044/) — Nova Care Consultants
+- 📍 **Location:** Leeds, England, United Kingdom
+- 🕒 **Posted:** 2026-08-30
+
+### [food service supervisor](https://www.linkedin.com/jobs/view/4461024121/) — Wendy's
+- 📍 **Location:** Kamloops, British Columbia, Canada
 - 🕒 **Posted:** 2026-08-30
