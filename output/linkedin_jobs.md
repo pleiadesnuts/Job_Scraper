@@ -1,115 +1,110 @@
 # 🔥 LinkedIn — Social Worker Roles
-*Last updated: 2026-08-31 01:01 UTC*
+*Last updated: 2026-08-31 07:26 UTC*
 
-**25 new role(s)** since last run · 25 total in last 1h
+**23 new role(s)** since last run · 23 total in last 1h
 
-### [Case Supervisor (Practicum Student)](https://www.linkedin.com/jobs/view/4461027596/) — Soar Autism Center
-- 📍 **Location:** Denver, CO
-- 💰 **Salary:** $22.50 - $27.00/hour
+### [Case Manager/Court Assessment and Prosecutions Officer - Mildura](https://www.linkedin.com/jobs/view/4461056626/) — Department of Justice and Community Safety, Victoria
+- 📍 **Location:** Loddon, Victoria, Australia
 - 🕒 **Posted:** 2026-08-31
 
-### [Case Supervisor (Practicum Student)](https://www.linkedin.com/jobs/view/4461037545/) — Soar Autism Center
-- 📍 **Location:** Denver, CO
-- 💰 **Salary:** $22.50 - $27.00/hour
+### [PACE Social Worker II](https://www.linkedin.com/jobs/view/4459756779/) — Bluegrass Care Navigators
+- 📍 **Location:** Lexington, KY
 - 🕒 **Posted:** 2026-08-31
 
-### [Case Supervisor (Practicum Student)](https://www.linkedin.com/jobs/view/4461037547/) — Soar Autism Center
-- 📍 **Location:** Parker, CO
-- 💰 **Salary:** $22.50 - $27.00/hour
+### [Youth Counselor, Alpha - $100,000/year USD](https://www.linkedin.com/jobs/view/4457636684/) — Crossover
+- 📍 **Location:** Brownsville, TX
+- 💰 **Salary:** $100,000.00/yr - $100,000.00/yr
 - 🕒 **Posted:** 2026-08-31
 
-### [Case Supervisor (Practicum Student)](https://www.linkedin.com/jobs/view/4461023616/) — Soar Autism Center
-- 📍 **Location:** Westminster, CO
-- 💰 **Salary:** $22.50 - $27.00/hour
+### [Youth Development Specialist, Alpha - $150,000/year USD](https://www.linkedin.com/jobs/view/4457631762/) — Crossover
+- 📍 **Location:** Dallas, TX
+- 💰 **Salary:** $150,000.00/yr - $150,000.00/yr
 - 🕒 **Posted:** 2026-08-31
 
-### [Care Management Social Worker I](https://www.linkedin.com/jobs/view/4459753838/) — MaineHealth
+### [Program Manager, Career Services at UC Clermont College](https://www.linkedin.com/jobs/view/4461059627/) — University of Cincinnati
+- 📍 **Location:** Cincinnati, OH
+- 🕒 **Posted:** 2026-08-31
+
+### [Preschool Program Coordinator, Alpha - $150,000/year USD](https://www.linkedin.com/jobs/view/4457624801/) — Crossover
+- 📍 **Location:** Round Rock, TX
+- 💰 **Salary:** $150,000.00/yr - $150,000.00/yr
+- 🕒 **Posted:** 2026-08-31
+
+### [Program Manager - Workplace Violence Prevention](https://www.linkedin.com/jobs/view/4459779499/) — MaineHealth
 - 📍 **Location:** Portland, ME
-- 💰 **Salary:** $66,123.20to $89,481.60per year
+- 💰 **Salary:** $89,980.80to $121,721.60per year
 - 🕒 **Posted:** 2026-08-31
 
-### [Case Manager](https://www.linkedin.com/jobs/view/4461019753/) — DC Department of Human Resources
-- 📍 **Location:** Washington, DC
+### [Healthcare Coordinator](https://www.linkedin.com/jobs/view/4461038841/) — PDS Health
+- 📍 **Location:** Santa Fe, NM
+- 💰 **Salary:** $17.25/hr - $24.25/hr
 - 🕒 **Posted:** 2026-08-31
 
-### [MR Clinical Education Specialist (Northeast or Central Zone)](https://www.linkedin.com/jobs/view/4459761015/) — Siemens Healthineers
-- 📍 **Location:** Boston, MA
-- 💰 **Salary:** $89,220 - $122,672
+### [Associate Supervisor, Animal Care Operations](https://www.linkedin.com/jobs/view/4461059504/) — University of Ottawa
+- 📍 **Location:** Ottawa, Ontario, Canada
+- 💰 **Salary:** $85,040.00 - $107,421.00
 - 🕒 **Posted:** 2026-08-31
 
-### [Program Supervisor](https://www.linkedin.com/jobs/view/4459735973/) — Dungarvin
-- 📍 **Location:** New Castle, IN
+### [Program Manager (Demand Management)](https://www.linkedin.com/jobs/view/4461059554/) — AMS International UAE
+- 📍 **Location:** Dubai, United Arab Emirates
 - 🕒 **Posted:** 2026-08-31
 
-### [Program Supervisor](https://www.linkedin.com/jobs/view/4459762026/) — Dungarvin
-- 📍 **Location:** Bedford, IN
+### [Case Manager – Community Treatment Order, East](https://www.linkedin.com/jobs/view/4459763750/) — Canadian Mental Health Association (CMHA) - Toronto
+- 📍 **Location:** Scarborough, Ontario, Canada
+- 💰 **Salary:** $54,943.00/yr - CA$60,203.00/yr
 - 🕒 **Posted:** 2026-08-31
 
-### [Small Grants Program Manager](https://www.linkedin.com/jobs/view/4459765000/) — Micronesia Conservation Trust
-- 📍 **Location:** Chuuk, Federated States of Micronesia
+### [Home Site Supervisor (SIL) - Disability](https://www.linkedin.com/jobs/view/4459671013/) — Endeavour Foundation
+- 📍 **Location:** Sunshine Coast, Queensland, Australia
 - 🕒 **Posted:** 2026-08-31
 
-### [Works Supervisor, Upper Hutt](https://www.linkedin.com/jobs/view/4461022683/) — Greater Wellington
-- 📍 **Location:** Wellington, Wellington, New Zealand
-- 💰 **Salary:** $73,378 to $110,068
+### [Youth Development Specialist, Alpha - $100,000/year USD](https://www.linkedin.com/jobs/view/4457636686/) — Crossover
+- 📍 **Location:** Oklahoma City, OK
+- 💰 **Salary:** $100,000.00/yr - $100,000.00/yr
 - 🕒 **Posted:** 2026-08-31
 
-### [Community Health Worker](https://www.linkedin.com/jobs/view/4459753835/) — MaineHealth
-- 📍 **Location:** Portland, ME
-- 💰 **Salary:** $20.68to $25.10 per hour
+### [Youth Development Specialist, Alpha - $100,000/year USD](https://www.linkedin.com/jobs/view/4457628759/) — Crossover
+- 📍 **Location:** Austin, TX
+- 💰 **Salary:** $100,000.00/yr - $100,000.00/yr
 - 🕒 **Posted:** 2026-08-31
 
-### [Supervisor - Peer Recovery - MaineHealth Behavioral Health](https://www.linkedin.com/jobs/view/4459752863/) — MaineHealth
-- 📍 **Location:** Portland, ME
-- 💰 **Salary:** $52,499.20to $71,052.80per year
+### [Youth Development Specialist, Alpha - $100,000/year USD](https://www.linkedin.com/jobs/view/4457640564/) — Crossover
+- 📍 **Location:** Fort Worth, TX
+- 💰 **Salary:** $100,000.00/yr - $100,000.00/yr
 - 🕒 **Posted:** 2026-08-31
 
-### [Clinical Team Leader - Crisis Services](https://www.linkedin.com/jobs/view/4461033800/) — Winnipeg Regional Health Authority (WRHA)
-- 📍 **Location:** Winnipeg, Manitoba, Canada
+### [Youth Development Specialist, Alpha - $100,000/year USD](https://www.linkedin.com/jobs/view/4457630748/) — Crossover
+- 📍 **Location:** Plano, TX
+- 💰 **Salary:** $100,000.00/yr - $100,000.00/yr
 - 🕒 **Posted:** 2026-08-31
 
-### [Bilingual Warehouse Janitorial Site Supervisor](https://www.linkedin.com/jobs/view/4458871383/) — Varsity Facility Services - a KBS Company
-- 📍 **Location:** Grand Rapids, MN
+### [Youth Development Specialist, Alpha - $100,000/year USD](https://www.linkedin.com/jobs/view/4457620871/) — Crossover
+- 📍 **Location:** Grand Prairie, TX
+- 💰 **Salary:** $100,000.00/yr - $100,000.00/yr
 - 🕒 **Posted:** 2026-08-31
 
-### [Home Site Supervisor](https://www.linkedin.com/jobs/view/4461036560/) — Endeavour Foundation
-- 📍 **Location:** Greater Brisbane Area
+### [Recreational Duty Supervisor - Casual](https://www.linkedin.com/jobs/view/4457224068/) — Bayside Council (NSW)
+- 📍 **Location:** Sydney, New South Wales, Australia
 - 🕒 **Posted:** 2026-08-31
 
-### [Sanitarian Supervisor - Spectrum Center](https://www.linkedin.com/jobs/view/4461035736/) — Levy Restaurants
-- 📍 **Location:** Charlotte, NC
+### [Clinic Area Supervisor](https://www.linkedin.com/jobs/view/4459768732/) — WM Center
+- 📍 **Location:** Setiabudi, Jakarta, Indonesia
 - 🕒 **Posted:** 2026-08-31
 
-### [Program Manager - Alabama Forestry Accelerator](https://www.linkedin.com/jobs/view/4459747865/) — Venture Capital Careers
-- 📍 **Location:** Dothan, AL
-- 💰 **Salary:** $60,000 - $70,000
+### [Patient Care Coordinator](https://www.linkedin.com/jobs/view/4461048755/) — NW Sports PT
+- 📍 **Location:** Port Orchard, WA
 - 🕒 **Posted:** 2026-08-31
 
-### [Social Worker - Mental Health Hospital Discharge Team](https://www.linkedin.com/jobs/view/4461020849/) — East Sussex County Council
-- 📍 **Location:** Hastings, England, United Kingdom
+### [RN Case Manager](https://www.linkedin.com/jobs/view/4459759677/) — Lighthouse Hospice NJ
+- 📍 **Location:** Mount Laurel, NJ
+- 💰 **Salary:** $94,000 - $99,000 per year
 - 🕒 **Posted:** 2026-08-31
 
-### [Program Coordinator (HIPPY Program)](https://www.linkedin.com/jobs/view/4458874294/) — Novita
-- 📍 **Location:** Adelaide, South Australia, Australia
-- 🕒 **Posted:** 2026-08-30
+### [Supervisor Community Health](https://www.linkedin.com/jobs/view/4461039785/) — Montefiore Health System
+- 📍 **Location:** Bronx, NY
+- 🕒 **Posted:** 2026-08-31
 
-### [Business Careers Program Manager](https://www.linkedin.com/jobs/view/4461037530/) — University of Chicago
-- 📍 **Location:** Chicago, IL
-- 🕒 **Posted:** 2026-08-30
-
-### [PRN Social Worker](https://www.linkedin.com/jobs/view/4457497820/) — Agape Hospice Care Atlanta
-- 📍 **Location:** Cumming, GA
-- 🕒 **Posted:** 2026-08-30
-
-### [Bilingual Production Supervisor](https://www.linkedin.com/jobs/view/4438100179/) — Talently
-- 📍 **Location:** Mesquite, TX
-- 💰 **Salary:** $45,000.00/yr - $55,000.00/yr
-- 🕒 **Posted:** 2026-08-30
-
-### [Program Supervisor](https://www.linkedin.com/jobs/view/4459740977/) — Dungarvin
-- 📍 **Location:** Anderson, IN
-- 🕒 **Posted:** 2026-08-30
-
-### [PRN Social Worker](https://www.linkedin.com/jobs/view/4457496791/) — Agape Hospice Care Atlanta
-- 📍 **Location:** Dawsonville, GA
-- 🕒 **Posted:** 2026-08-30
+### [Youth Development Specialist, Alpha - $100,000/year USD](https://www.linkedin.com/jobs/view/4457625785/) — Crossover
+- 📍 **Location:** Sugar Land, TX
+- 💰 **Salary:** $100,000.00/yr - $100,000.00/yr
+- 🕒 **Posted:** 2026-08-31
