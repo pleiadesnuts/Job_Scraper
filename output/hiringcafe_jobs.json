@@ -881,8 +881,8 @@
       "description": "At least one year of specialized experience equivalent to the next lower grade level, with knowledge of program planning, research, data analysis, evaluation, training, and stakeholder coordination.",
       "salary": "",
       "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
+      "is_remote": true,
+      "work_arrangement": "Remote in-state eligible",
       "ats": "HiringCafe"
     },
     {
