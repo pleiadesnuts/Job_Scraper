@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-31 21:44 UTC",
+  "scraped_at": "2026-09-01 19:35 UTC",
   "total": 5,
   "new_count": 0,
   "jobs": [
@@ -14,6 +14,18 @@
       "telework": "In Office",
       "job_type": "Permanent, Full Time",
       "work_arrangement": "On-site"
+    },
+    {
+      "company": "State Water Resources Control Board",
+      "title": "Cannabis Regulatory Unit Supervisor",
+      "location": "Sacramento County",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=525215",
+      "date_posted": "2026-08-20",
+      "salary": "$11437.00 - $14315.00",
+      "ats": "CalCareers",
+      "telework": "Hybrid",
+      "job_type": "Permanent, Full Time",
+      "work_arrangement": "Telecommute eligible"
     },
     {
       "company": "California Governor's Office of Emergency Services",
@@ -38,18 +50,6 @@
       "telework": "In Office",
       "job_type": "Permanent, Full Time",
       "work_arrangement": "On-site"
-    },
-    {
-      "company": "California Governor's Office of Emergency Services",
-      "title": "Supervisor I",
-      "location": "Sacramento County",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=529940",
-      "date_posted": "2026-08-25",
-      "salary": "$7172.00 - $8910.00",
-      "ats": "CalCareers",
-      "telework": "Hybrid",
-      "job_type": "Permanent, Full Time",
-      "work_arrangement": "Telecommute eligible"
     },
     {
       "company": "California Energy Commission",
