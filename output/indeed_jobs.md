@@ -1,65 +1,82 @@
 # 🟦 Indeed — Social Worker Roles
-*Last updated: 2026-09-01 19:12 UTC*
+*Last updated: 2026-09-02 19:20 UTC*
 
-**9 new role(s)** since last run · 15 total in last 24h
+**12 new role(s)** since last run · 12 total in last 24h
 
-### [Case Manager Assistant](https://www.indeed.com/viewjob?jk=de3337405624eeb2) — Ernest Health
-- 📍 **Location:** Johnstown, CO, US
+### [Case Manager - Housing](https://www.indeed.com/viewjob?jk=0f6019a4a718edd9) — Urban Peak Denver
+- 📍 **Location:** Denver, CO, US
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-09-02
+
+### [Clinical Case Manager](https://www.indeed.com/viewjob?jk=7f3b437c2feb9b05) — Urban Peak Denver
+- 📍 **Location:** Denver, CO, US
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-09-02
+
+### [Registered Nurse Case Manager (1099) – Denver, CO](https://www.indeed.com/viewjob?jk=9accc35238810954) — The IMA Group
+- 📍 **Location:** Denver, CO, US
+- 💰 **Salary:** $50–$65/hr
+- **Work mode:** Remote in-state eligible
+- 🕒 **Posted:** 2026-09-01
+
+### [Program Manager - Competency Diversion Team 815/817](https://www.indeed.com/viewjob?jk=624bd354b016e11c) — WellPower
+- 📍 **Location:** Denver, CO, US
+- 💰 **Salary:** $85k–$110k/yr
+- **Work mode:** Remote in-state eligible
+- 🕒 **Posted:** 2026-09-01
+
+### [Program Manager - Competency Diversion Team 300/882](https://www.indeed.com/viewjob?jk=e803fa416b45ce66) — WellPower
+- 📍 **Location:** Denver, CO, US
+- 💰 **Salary:** $85k–$110k/yr
+- **Work mode:** Remote in-state eligible
+- 🕒 **Posted:** 2026-09-01
+
+### [Kitchen Supervisor | Part-Time | Blue Arena](https://www.indeed.com/viewjob?jk=d20bb10fbd32c657) — Oak View Group
+- 📍 **Location:** Loveland, CO, US
 - 💰 **Salary:** $21–$25/hr
 - **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-08-31
+- **Job type:** parttime
+- 🕒 **Posted:** 2026-09-01
 
-### [Case Manager Per Diem](https://www.indeed.com/viewjob?jk=25d2b0f68ea2c632) — Ernest Health
-- 📍 **Location:** Englewood, CO, US
+### [Kitchen Supervisor | Part-Time | Blue Arena](https://www.indeed.com/viewjob?jk=662bc180e8f3f230) — Oak View Group
+- 📍 **Location:** Loveland, CO, US
+- 💰 **Salary:** $21–$25/hr
 - **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-08-31
+- **Job type:** parttime
+- 🕒 **Posted:** 2026-09-01
 
-### [Case Manager](https://www.indeed.com/viewjob?jk=991b05db005a0bce) — Ernest Health
+### [Social Worker](https://www.indeed.com/viewjob?jk=926ebdfc27d28e7b) — Ampersand Therapy
 - 📍 **Location:** Thornton, CO, US
-- 💰 **Salary:** $83k–$125k/yr
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-08-31
-
-### [Care Coordination Program Manager](https://www.indeed.com/viewjob?jk=b9fb1e8bfc315d8d) — Unknown
-- 📍 **Location:** Denver, CO, US
-- 💰 **Salary:** $68k–$77k/yr
-- **Work mode:** Remote in-state eligible
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-08-31
-
-### [Data Analyst and Aftercare Coordinator](https://www.indeed.com/viewjob?jk=a1e02530ccb5e4ba) — Unknown
-- 📍 **Location:** Denver, CO, US
-- 💰 **Salary:** $30–$31/hr
+- 💰 **Salary:** $50–$60/hr
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-09-01
 
-### [Transitions of Care RN Case Manager](https://www.indeed.com/viewjob?jk=583ae133729f4fb6) — Devoted Health
-- 📍 **Location:** Remote, US
-- 💰 **Salary:** $85k–$100k/yr
-- **Work mode:** Remote in-state eligible
+### [Client Care Coordinator](https://www.indeed.com/viewjob?jk=1e6f0058a7cb7f7f) — Tender Care Pediatric Services
+- 📍 **Location:** Loveland, CO, US
+- 💰 **Salary:** $23–$28/hr
+- **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-09-01
 
-### [Associate Grant Writer and Consultant (Full-Time)](https://www.indeed.com/viewjob?jk=79163f7c4ec2a724) — Think and Ink Grant Consulting
+### [Behavioral Health Program Coordinator (Clinical Team Leader) - Division of Youth Services](https://www.indeed.com/viewjob?jk=ff1c0ba319982c54) — State of Colorado
+- 📍 **Location:** Denver, CO, US
+- 💰 **Salary:** $107k–$149k/yr
+- **Work mode:** Remote in-state eligible
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-09-02
+
+### [Transitions of Care Behavioral Health Care Coordinator](https://www.indeed.com/viewjob?jk=211bd2a39e6027ff) — Devoted Health
 - 📍 **Location:** Remote, US
-- 💰 **Salary:** $36k–$50k/yr
+- 💰 **Salary:** $22–$27/hr
+- **Work mode:** Remote in-state eligible
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-09-02
+
+### [Care Coordinator](https://www.indeed.com/viewjob?jk=f3b469efa3945225) — VALERIS
+- 📍 **Location:** Remote, US
 - **Work mode:** Remote in-state eligible
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-09-01
-
-### [Associate Professional Counselor | Associate Clinical Social Worker | Counselor in Training](https://www.indeed.com/viewjob?jk=8e0157c33afa4c7c) — Unknown
-- 📍 **Location:** Remote, US
-- **Work mode:** Remote in-state eligible
-- **Job type:** contract, internship
-- 🕒 **Posted:** 2026-08-31
-
-### [Sr. Training Coordinator, RCM - Remote](https://www.indeed.com/viewjob?jk=d40cf84f60b9f074) — US Anesthesia Partners
-- 📍 **Location:** Remote, US
-- 💰 **Salary:** $67k–$114k/yr
-- **Work mode:** Remote in-state eligible
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-08-31
