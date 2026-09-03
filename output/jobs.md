@@ -1,5 +1,5 @@
 # 🏛 Priority Employers — Social Worker Roles
-*Last updated: 2026-09-02 08:13 UTC*
+*Last updated: 2026-09-03 08:29 UTC*
 
 **0 new role(s)** since last run · 0 total in last 24h
 
