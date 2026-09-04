@@ -1,129 +1,60 @@
 # 🔥 LinkedIn — Social Worker Roles
-*Last updated: 2026-09-04 21:23 UTC*
+*Last updated: 2026-09-04 21:50 UTC*
 
-**27 new role(s)** since last run · 27 total in last 1h
+**12 new role(s)** since last run · 30 total in last 1h
 
-### [vIOP Clinical Quality Supervisor](https://www.linkedin.com/jobs/view/4462312953/) — Lyra Health
+### [Care Coordinator( 8am-5pm EST)](https://www.linkedin.com/jobs/view/4461403588/) — TailorCare
 - 📍 **Location:** United States
-- 💰 **Salary:** $126,000.00/yr - $140,000.00/yr
 - 🕒 **Posted:** 2026-09-04
 
-### [Program Manager II: In-Home-Services, Manufacturing, and Distribution](https://www.linkedin.com/jobs/view/4462328097/) — EchoStar Corporation
-- 📍 **Location:** Englewood, CO
+### [Front Desk Supervisor (Hotel Terra)](https://www.linkedin.com/jobs/view/4462320896/) — Noble House Hotels & Resorts
+- 📍 **Location:** Jackson, WY
 - 🕒 **Posted:** 2026-09-04
 
-### [Social Worker 2 - Forensic Brief Assessment Unit](https://www.linkedin.com/jobs/view/4461326750/) — CAMH
-- 📍 **Location:** Toronto, Ontario, Canada
-- 💰 **Salary:** $40.25 – $54.24 per hour
+### [Social Work Case Manager, Care Coordination, Bethesda East, $10,000 Bonus, FT, 08:30A-5P](https://www.linkedin.com/jobs/view/4463640708/) — Baptist Health Bethesda Hospital
+- 📍 **Location:** Boynton Beach, FL
+- 💰 **Salary:** $61454.47 - $79890.81
 - 🕒 **Posted:** 2026-09-04
 
-### [Program Coordinator - Community Services](https://www.linkedin.com/jobs/view/4462320763/) — Emmaus Community of Pittsburgh
-- 📍 **Location:** Greater Pittsburgh Region
-- 💰 **Salary:** $39,520 - $45,760
+### [Case Manager](https://www.linkedin.com/jobs/view/4456007083/) — Youth Opportunity Investments, LLC
+- 📍 **Location:** Nashville, TN
+- 💰 **Salary:** $45,000.00/yr - $52,000.00/yr
 - 🕒 **Posted:** 2026-09-04
 
-### [Quality Outcome Program Coordinator](https://www.linkedin.com/jobs/view/4462324178/) — CommonSpirit Health
-- 📍 **Location:** Liberal, KS
-- 💰 **Salary:** $32.38 - $48.17 /hour
+### [Development Program Manager, Central Programs (Prospect Development and Stewardship & Donor Experience)](https://www.linkedin.com/jobs/view/4461193653/) — University of Cincinnati Foundation
+- 📍 **Location:** Cincinnati, OH
+- 💰 **Salary:** $24.00 to $27.50
 - 🕒 **Posted:** 2026-09-04
 
-### [Registered Nurse-Magnet Program Coordinator](https://www.linkedin.com/jobs/view/4444507525/) — Trinity Health MI
-- 📍 **Location:** Pontiac, MI
+### [Social Worker - Care Management - Good Samaritan Hospital](https://www.linkedin.com/jobs/view/4462308949/) — TriHealth
+- 📍 **Location:** Cincinnati, OH
 - 🕒 **Posted:** 2026-09-04
 
-### [Housing Case Manager](https://www.linkedin.com/jobs/view/4463106774/) — The Salvation Army USA Eastern Territory
-- 📍 **Location:** Beaver Falls, PA
-- 💰 **Salary:** $18.00/yr - $22.50/yr
+### [Group Home Program Supervisor](https://www.linkedin.com/jobs/view/4463650132/) — Sevita
+- 📍 **Location:** St Paul, MN
 - 🕒 **Posted:** 2026-09-04
 
-### [Arts supervisor - UAE Nationals Only](https://www.linkedin.com/jobs/view/4463189631/) — Ajman University
-- 📍 **Location:** United Arab Emirates
+### [Residential Shift Supervisor](https://www.linkedin.com/jobs/view/4391948069/) — Youth Opportunity Investments, LLC
+- 📍 **Location:** Elizabethton, TN
+- 💰 **Salary:** $22.00/hr - $22.00/hr
 - 🕒 **Posted:** 2026-09-04
 
-### [Center Operations Supervisor](https://www.linkedin.com/jobs/view/4462312820/) — BlueSprig
-- 📍 **Location:** Melbourne, FL
-- 💰 **Salary:** $50,000 - $55,000
+### [Infectious Disease Care Coordinator RN](https://www.linkedin.com/jobs/view/4462332107/) — CommonSpirit Health
+- 📍 **Location:** Seattle, WA
+- 💰 **Salary:** $52.54 - $99.25
 - 🕒 **Posted:** 2026-09-04
 
-### [Community Educator, Immigration Legal Services](https://www.linkedin.com/jobs/view/4461411179/) — Jewish Family Service of San Diego
-- 📍 **Location:** San Diego, CA
-- 💰 **Salary:** $24 to $30/hour
+### [Patient Care Coordinator](https://www.linkedin.com/jobs/view/4463636696/) — Beacon Oral Specialists
+- 📍 **Location:** Los Gatos, CA
+- 💰 **Salary:** $23.00/hr - $28.00/hr
 - 🕒 **Posted:** 2026-09-04
 
-### [Case Manager - Developmental Disabilities](https://www.linkedin.com/jobs/view/4458093729/) — Seven Counties Services
-- 📍 **Location:** Louisville, KY
+### [Social Worker Care Management](https://www.linkedin.com/jobs/view/4461199588/) — AdventHealth
+- 📍 **Location:** La Grange, IL
+- 💰 **Salary:** $25.90 - $52.52
 - 🕒 **Posted:** 2026-09-04
 
-### [Clinical Case Manager](https://www.linkedin.com/jobs/view/4443535427/) — Advance Services, Inc.
-- 📍 **Location:** Omaha, NE
-- 💰 **Salary:** $27.00/hr - $29.00/hr
-- 🕒 **Posted:** 2026-09-04
-
-### [Case Manager](https://www.linkedin.com/jobs/view/4460068428/) — Youth Opportunity Investments, LLC
-- 📍 **Location:** Crestview, FL
-- 💰 **Salary:** $45,000.00/yr - $48,000.00/yr
-- 🕒 **Posted:** 2026-09-04
-
-### [Care Coordinator](https://www.linkedin.com/jobs/view/4461191588/) — University of Missouri-Columbia
-- 📍 **Location:** Columbia, MO
-- 💰 **Salary:** $19.25 - $30.00 per hour
-- 🕒 **Posted:** 2026-09-04
-
-### [Care Coordinator I](https://www.linkedin.com/jobs/view/4461998982/) — HonorHealth
-- 📍 **Location:** Scottsdale, AZ
-- 🕒 **Posted:** 2026-09-04
-
-### [Program Manager II](https://www.linkedin.com/jobs/view/4461902428/) — The Providence Center
-- 📍 **Location:** Providence, RI
-- 🕒 **Posted:** 2026-09-04
-
-### [Care Coordinator (LPN/FMG)](https://www.linkedin.com/jobs/view/4462305913/) — Leon Health, Inc.
-- 📍 **Location:** Miami, FL
-- 🕒 **Posted:** 2026-09-04
-
-### [Clinical Program Manager](https://www.linkedin.com/jobs/view/4462327128/) — Klamath Basin Behavioral Health (KBBH)
-- 📍 **Location:** Klamath Falls, OR
-- 💰 **Salary:** $69,519 - $86,898
-- 🕒 **Posted:** 2026-09-04
-
-### [Wellness Coordinator - LVN +$2,500 Hiring Bonus](https://www.linkedin.com/jobs/view/4461409372/) — Gallaher Signature Living
-- 📍 **Location:** Covina, CA
-- 💰 **Salary:** $34.00 - $38.00 per hour
-- 🕒 **Posted:** 2026-09-04
-
-### [Case Manager](https://www.linkedin.com/jobs/view/4462322210/) — Youth Opportunity Investments, LLC
-- 📍 **Location:** Crestview, FL
-- 💰 **Salary:** $45,000.00/yr - $53,000.00/yr
-- 🕒 **Posted:** 2026-09-04
-
-### [Case Manager](https://www.linkedin.com/jobs/view/4458314127/) — Youth Opportunity Investments, LLC
-- 📍 **Location:** Evart, MI
-- 💰 **Salary:** $45,000.00/yr - $49,920.00/yr
-- 🕒 **Posted:** 2026-09-04
-
-### [Care Coordinator RN](https://www.linkedin.com/jobs/view/4462320973/) — CommonSpirit Health
-- 📍 **Location:** Sacramento, CA
-- 💰 **Salary:** $74.56 - $90.51 /hour
-- 🕒 **Posted:** 2026-09-04
-
-### [CLINICAL CARE COORDINATOR (Ambulatory Care Services, Neurosurgery Adult Clinics)](https://www.linkedin.com/jobs/view/4461120833/) — Michigan Medicine
-- 📍 **Location:** Ann Arbor, MI
-- 💰 **Salary:** $43.10-$67.03
-- 🕒 **Posted:** 2026-09-04
-
-### [Case Manager](https://www.linkedin.com/jobs/view/4461407255/) — SR Staffing
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-09-04
-
-### [CD Case Manager - Detox Unit](https://www.linkedin.com/jobs/view/4462320809/) — Fairview Health Services
-- 📍 **Location:** Minneapolis, MN
-- 🕒 **Posted:** 2026-09-04
-
-### [Case Manager](https://www.linkedin.com/jobs/view/4453707092/) — Youth Opportunity Investments, LLC
-- 📍 **Location:** Ocala, FL
-- 💰 **Salary:** $43,000.00/yr - $48,000.00/yr
-- 🕒 **Posted:** 2026-09-04
-
-### [Acute Social Worker - MSW](https://www.linkedin.com/jobs/view/4462306904/) — Fairview Health Services
-- 📍 **Location:** Minneapolis, MN
+### [Supervisor Licensed Social Work Case Manager, Case Management, $10,000 Bonus, FT, 08A-4:30P](https://www.linkedin.com/jobs/view/4463635793/) — Baptist Health Boca Raton Regional Hospital
+- 📍 **Location:** Boca Raton, FL
+- 💰 **Salary:** $75582.20 - $98256.86
 - 🕒 **Posted:** 2026-09-04
