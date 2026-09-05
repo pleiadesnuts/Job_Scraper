@@ -1,102 +1,79 @@
 # 🔥 LinkedIn — Social Worker Roles
-*Last updated: 2026-09-05 04:50 UTC*
+*Last updated: 2026-09-05 06:33 UTC*
 
-**23 new role(s)** since last run · 23 total in last 1h
+**17 new role(s)** since last run · 17 total in last 1h
 
-### [vIOP Clinical Quality Supervisor](https://www.linkedin.com/jobs/view/4462312953/) — Lyra Health
-- 📍 **Location:** United States
-- 💰 **Salary:** $126,000.00/yr - $140,000.00/yr
-- 🕒 **Posted:** 2026-09-05
-
-### [Health Educator](https://www.linkedin.com/jobs/view/4462369353/) — Texas Child Psychiatry Access Network (CPAN)
-- 📍 **Location:** Bryan, TX
-- 🕒 **Posted:** 2026-09-05
-
-### [Rural Outreach Specialist (Case Manager)](https://www.linkedin.com/jobs/view/4461456142/) — New Horizons Behavioral Health
-- 📍 **Location:** Cataula, GA
-- 🕒 **Posted:** 2026-09-05
-
-### [Social Worker - Children in Care](https://www.linkedin.com/jobs/view/4463712346/) — Bath & North East Somerset Council
-- 📍 **Location:** Keynsham, England, United Kingdom
-- 🕒 **Posted:** 2026-09-05
-
-### [Family Support Worker](https://www.linkedin.com/jobs/view/4463698489/) — Nottinghamshire County Council
-- 📍 **Location:** Nottinghamshire, England, United Kingdom
-- 🕒 **Posted:** 2026-09-05
-
-### [Residency Program Coordinator (Full-time regular, Day Shift)](https://www.linkedin.com/jobs/view/4462357396/) — Adventist Health
-- 📍 **Location:** Tulare, CA
-- 💰 **Salary:** $30.01 to $41.16
-- 🕒 **Posted:** 2026-09-05
-
-### [Virtual Care Program Manager](https://www.linkedin.com/jobs/view/4461452228/) — Houston Methodist
+### [Care Coordinator](https://www.linkedin.com/jobs/view/4461448437/) — Discovery Behavioral Health
 - 📍 **Location:** Houston, TX
+- 💰 **Salary:** $22.50/yr - $30.00/yr
 - 🕒 **Posted:** 2026-09-05
 
-### [Virtual Care Program Manager](https://www.linkedin.com/jobs/view/4461440396/) — Houston Methodist
-- 📍 **Location:** Nashville, TN
+### [Peer Support Specialist - Mental Health 342](https://www.linkedin.com/jobs/view/4463712537/) — Telecare Corporation
+- 📍 **Location:** Riverside, CA
 - 🕒 **Posted:** 2026-09-05
 
-### [Case Manager](https://www.linkedin.com/jobs/view/4463712221/) — CoreCivic
-- 📍 **Location:** Olney Springs, CO
+### [Medical Social Worker](https://www.linkedin.com/jobs/view/4461460070/) — SUNACT Cancer Institute
+- 📍 **Location:** Mumbai, Maharashtra, India
 - 🕒 **Posted:** 2026-09-05
 
-### [Case Manager - Pomona Women's Center](https://www.linkedin.com/jobs/view/4461454159/) — HealthRIGHT 360
-- 📍 **Location:** Pomona, CA
+### [Academic Program Coordinator (Academic Affairs)](https://www.linkedin.com/jobs/view/4462702265/) — The Johns Hopkins University
+- 📍 **Location:** Baltimore, MD
+- 💰 **Salary:** $18.65 - $34.75
 - 🕒 **Posted:** 2026-09-05
 
-### [Practice Supervisor Primary Care Corvallis](https://www.linkedin.com/jobs/view/4463708345/) — Optum
-- 📍 **Location:** Corvallis, OR
-- 💰 **Salary:** $60,200 - $107,400 annually
+### [Registered Nurse-Magnet Program Coordinator](https://www.linkedin.com/jobs/view/4444507525/) — Trinity Health MI
+- 📍 **Location:** Pontiac, MI
 - 🕒 **Posted:** 2026-09-05
 
-### [Youth Counselor III](https://www.linkedin.com/jobs/view/4462358437/) — Aspiranet
-- 📍 **Location:** Turlock, CA
-- 💰 **Salary:** $25.50 - $27.00
+### [Program Coordinator](https://www.linkedin.com/jobs/view/4462347860/) — Vermont Law and Graduate School
+- 📍 **Location:** South Royalton, VT
 - 🕒 **Posted:** 2026-09-05
 
-### [Psych Social Worker II, Pediatric Center](https://www.linkedin.com/jobs/view/4463709364/) — ChristianaCare
-- 📍 **Location:** Wilmington, DE
-- 💰 **Salary:** $27.86/hr - $41.78/hr
+### [Program Coordinator](https://www.linkedin.com/jobs/view/4461448366/) — Cvali
+- 📍 **Location:** Noida, Uttar Pradesh, India
 - 🕒 **Posted:** 2026-09-05
 
-### [Medical Assistant Care Coordinator](https://www.linkedin.com/jobs/view/4463705327/) — HCA Healthcare
-- 📍 **Location:** Salt Lake City, UT
+### [Case Manager](https://www.linkedin.com/jobs/view/4461450382/) — Kennedy Care Center
+- 📍 **Location:** Los Angeles, CA
 - 🕒 **Posted:** 2026-09-05
 
-### [Shared Market Clinical - Licensed Master Social Worker](https://www.linkedin.com/jobs/view/4463710178/) — ArchWell Health
-- 📍 **Location:** St Louis, MO
+### [Community Recreation Supervisor-EN](https://www.linkedin.com/jobs/view/4460048517/) — Canadian Forces Morale and Welfare Services
+- 📍 **Location:** Edmonton, Alberta, Canada
+- 💰 **Salary:** $28.86/hr - CA$31.19/hr
 - 🕒 **Posted:** 2026-09-05
 
-### [Care Coordinator or Case Manager](https://www.linkedin.com/jobs/view/4462365324/) — Ridgeview Behavioral Health Services
-- 📍 **Location:** Oak Ridge, TN
+### [Medical Social Worker - PRN](https://www.linkedin.com/jobs/view/4463708647/) — AMEDISYS HOME HEALTH
+- 📍 **Location:** Seattle, WA
+- 💰 **Salary:** $52.00 to $67.00 hourly
 - 🕒 **Posted:** 2026-09-05
 
-### [Supervisor SSOMA](https://www.linkedin.com/jobs/view/4460647026/) — Universia Perú
-- 📍 **Location:** Santa María de Huachipa, Peru
+### [Medical Social Worker - PRN](https://www.linkedin.com/jobs/view/4463710593/) — AMEDISYS HOME HEALTH
+- 📍 **Location:** Federal Way, WA
+- 💰 **Salary:** $52.00 to $67.00 hourly
 - 🕒 **Posted:** 2026-09-05
 
-### [Program Manager (SHARP)](https://www.linkedin.com/jobs/view/4463713271/) — Connective
-- 📍 **Location:** Whitehorse, Yukon Territory, Canada
+### [CERTIFIED SPANISH INTERPRETER](https://www.linkedin.com/jobs/view/4461437827/) — Lawrence Public Schools
+- 📍 **Location:** Lawrence, MA
 - 🕒 **Posted:** 2026-09-05
 
-### [Dental Health Educator - Designed to Smile](https://www.linkedin.com/jobs/view/4463717197/) — Betsi Cadwaladr University Health Board
-- 📍 **Location:** Rhyl, Wales, United Kingdom
+### [Residential Supervisor](https://www.linkedin.com/jobs/view/4463703756/) — Embark Behavioral Health
+- 📍 **Location:** San Martin, CA
+- 💰 **Salary:** $27.00 - $28.00 per hour
 - 🕒 **Posted:** 2026-09-05
 
-### [Behavioral Health and Wellness Supervisor- Head Start Program](https://www.linkedin.com/jobs/view/4463709177/) — Children's Institute
-- 📍 **Location:** Los Angeles Metropolitan Area
-- 💰 **Salary:** $73,601.00 USD - $85,469.00 USD
+### [ILP Supervisor](https://www.linkedin.com/jobs/view/4461444537/) — MCHS Family of Services
+- 📍 **Location:** Redford, MI
 - 🕒 **Posted:** 2026-09-05
 
-### [Social Worker North Warwickshire Family Help](https://www.linkedin.com/jobs/view/4462348530/) — WMJobs
-- 📍 **Location:** Atherstone, England, United Kingdom
+### [Patient Care Coordinator](https://www.linkedin.com/jobs/view/4463706673/) — AEG Vision
+- 📍 **Location:** Canby, OR
 - 🕒 **Posted:** 2026-09-05
 
-### [Social Worker](https://www.linkedin.com/jobs/view/4463702352/) — Nottinghamshire County Council
-- 📍 **Location:** Nottinghamshire, England, United Kingdom
+### [Case Manager Registered Nurse PRN- Discharge Planner](https://www.linkedin.com/jobs/view/4452868055/) — Johns Hopkins Care at Home
+- 📍 **Location:** Annapolis, MD
 - 🕒 **Posted:** 2026-09-05
 
-### [Senior Social Workers - Child Protection & Court (Locality)_](https://www.linkedin.com/jobs/view/4462359408/) — WMJobs
-- 📍 **Location:** Oldbury, England, United Kingdom
+### [RN Case Manager](https://www.linkedin.com/jobs/view/4463717450/) — AMEDISYS HOME HEALTH
+- 📍 **Location:** Federal Way, WA
+- 💰 **Salary:** $106,080 to $128,960
 - 🕒 **Posted:** 2026-09-05
