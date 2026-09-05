@@ -1,17 +1,7 @@
 {
-  "scraped_at": "2026-08-26 18:23 UTC",
-  "total": 1,
+  "scraped_at": "2026-09-05 18:41 UTC",
+  "total": 0,
   "new_count": 0,
-  "jobs": [
-    {
-      "company": "Benton County (OR)",
-      "title": "Risk Management & Quality Program Manager",
-      "location": "Corvallis, OR",
-      "url": "https://www.governmentjobs.com/jobs/5429844-0/risk-management-quality-program-manager",
-      "date_posted": "",
-      "salary": "$80,012.61 - $109,107.65 Annually",
-      "ats": "NEOGOV"
-    }
-  ],
+  "jobs": [],
   "new_jobs": []
 }

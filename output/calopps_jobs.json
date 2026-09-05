@@ -1,8 +1,26 @@
 {
-  "scraped_at": "2026-08-26 18:38 UTC",
-  "total": 8,
-  "new_count": 0,
+  "scraped_at": "2026-09-05 18:57 UTC",
+  "total": 9,
+  "new_count": 2,
   "jobs": [
+    {
+      "company": "Golden Gate Bridge Highway And Transportation District",
+      "title": "Program Manager, Electronic Revenue Operations",
+      "location": "San Francisco/Peninsula",
+      "url": "https://www.calopps.org/golden-gate-bridge-highway-and-transportation-district/job-20773767",
+      "date_posted": "",
+      "salary": "$168,292.80-$203,257.60",
+      "ats": "CalOpps"
+    },
+    {
+      "company": "Midpeninsula Regional Open Space District",
+      "title": "Conservation Grazing Program Manager",
+      "location": "South Bay",
+      "url": "https://www.calopps.org/midpeninsula-regional-open-space-district/job-20772033",
+      "date_posted": "",
+      "salary": "$133,233.00-$166,419.00 Annually",
+      "ats": "CalOpps"
+    },
     {
       "company": "Tri City Mental Health Authority",
       "title": "Registered Nurse Supervisor",
@@ -28,15 +46,6 @@
       "url": "https://www.calopps.org/san-mateo/job-20766435",
       "date_posted": "",
       "salary": "$98,425.00-$134,472.00 Annually",
-      "ats": "CalOpps"
-    },
-    {
-      "company": "Union City",
-      "title": "Preschool Site Supervisor I/II",
-      "location": "East Bay",
-      "url": "https://www.calopps.org/union-city/job-20764153",
-      "date_posted": "",
-      "salary": "$4,965.00-$6,035.00 Monthly",
       "ats": "CalOpps"
     },
     {
@@ -76,5 +85,24 @@
       "ats": "CalOpps"
     }
   ],
-  "new_jobs": []
+  "new_jobs": [
+    {
+      "company": "Golden Gate Bridge Highway And Transportation District",
+      "title": "Program Manager, Electronic Revenue Operations",
+      "location": "San Francisco/Peninsula",
+      "url": "https://www.calopps.org/golden-gate-bridge-highway-and-transportation-district/job-20773767",
+      "date_posted": "",
+      "salary": "$168,292.80-$203,257.60",
+      "ats": "CalOpps"
+    },
+    {
+      "company": "Midpeninsula Regional Open Space District",
+      "title": "Conservation Grazing Program Manager",
+      "location": "South Bay",
+      "url": "https://www.calopps.org/midpeninsula-regional-open-space-district/job-20772033",
+      "date_posted": "",
+      "salary": "$133,233.00-$166,419.00 Annually",
+      "ats": "CalOpps"
+    }
+  ]
 }
