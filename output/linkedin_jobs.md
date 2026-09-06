@@ -1,106 +1,95 @@
 # 🔥 LinkedIn — Social Worker Roles
-*Last updated: 2026-09-06 18:02 UTC*
+*Last updated: 2026-09-06 20:49 UTC*
 
-**24 new role(s)** since last run · 24 total in last 1h
+**21 new role(s)** since last run · 21 total in last 1h
 
-### [Sr. Social Worker - Child/Adolescent Behavioral Health Home-Based Crisis Intervention Program Interventionist - Columbia - Grant Funded](https://www.linkedin.com/jobs/view/4455792385/) — NewYork-Presbyterian Hospital
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $54.62/hr - $59.08/hr
+### [Care Coordinator](https://www.linkedin.com/jobs/view/4458694276/) — STRIDE Community Health Center
+- 📍 **Location:** Wheat Ridge, CO
+- 💰 **Salary:** $20.67 - $24.03
 - 🕒 **Posted:** 2026-09-06
 
-### [CLINICAL SOCIAL WORKER (HEALTH FACILITY)](https://www.linkedin.com/jobs/view/4441849830/) — California Department of Developmental Services
-- 📍 **Location:** Tulare County, CA
-- 💰 **Salary:** $8,265.00/mo - $10,066.00/mo
+### [Training and Education Program Manager, Robotic Surgical Technologies - HUGO](https://www.linkedin.com/jobs/view/4457560280/) — Medtronic
+- 📍 **Location:** Lafayette, CO
+- 💰 **Salary:** $110,400.00 - $165,600.00
 - 🕒 **Posted:** 2026-09-06
 
-### [Social Worker MSW PACE Program CarePartners](https://www.linkedin.com/jobs/view/4445255151/) — HCA Healthcare
-- 📍 **Location:** Asheville, NC
-- 🕒 **Posted:** 2026-09-06
-
-### [Training Coordinator](https://www.linkedin.com/jobs/view/4462691705/) — SICIP-B EIOA Program
-- 📍 **Location:** Dhaka, Dhaka, Bangladesh
-- 🕒 **Posted:** 2026-09-06
-
-### [SR. TRAINING COORDINATOR I-MULTILINGUAL](https://www.linkedin.com/jobs/view/4444444779/) — NIIT
-- 📍 **Location:** Gurgaon, Haryana, India
-- 🕒 **Posted:** 2026-09-06
-
-### [Supervisor, Chadwick Center - Trauma PEI Initiatives](https://www.linkedin.com/jobs/view/4462671718/) — Rady Children's Hospital-San Diego
-- 📍 **Location:** San Diego, CA
-- 💰 **Salary:** $48.03 to $66.06
-- 🕒 **Posted:** 2026-09-06
-
-### [Supervisor, Environmental Services](https://www.linkedin.com/jobs/view/4445239045/) — Oregon Health & Science University
+### [Care Coordinator 2](https://www.linkedin.com/jobs/view/4444714721/) — Oregon Health & Science University
 - 📍 **Location:** Portland, Oregon Metropolitan Area
-- 💰 **Salary:** $56,035.00/yr - $84,074.00/yr
+- 💰 **Salary:** $30.34/hr - $41.02/hr
 - 🕒 **Posted:** 2026-09-06
 
-### [Community Health Worker II/Full-time/Mercy Hospital STL](https://www.linkedin.com/jobs/view/4453944119/) — Mercy
-- 📍 **Location:** St Louis, MO
+### [Medical Social Worker -Home Health, Full time](https://www.linkedin.com/jobs/view/4462688787/) — Dartmouth Health
+- 📍 **Location:** White River Junction, VT
 - 🕒 **Posted:** 2026-09-06
 
-### [Social Worker - Full Time (Hospice)](https://www.linkedin.com/jobs/view/4453943349/) — Mercy
-- 📍 **Location:** Oklahoma City, OK
+### [Case Manager Social Worker](https://www.linkedin.com/jobs/view/4439280037/) — Trinity Health MI
+- 📍 **Location:** Livonia, MI
 - 🕒 **Posted:** 2026-09-06
 
-### [Social Worker](https://www.linkedin.com/jobs/view/4461839470/) — City of Melbourne
-- 📍 **Location:** Gbar Mission Comm., Margibi County, Liberia
+### [Community Research Liaison, Sr / Pathways Program Coordinator](https://www.linkedin.com/jobs/view/4442258691/) — Oregon Health & Science University
+- 📍 **Location:** Portland, Oregon Metropolitan Area
 - 🕒 **Posted:** 2026-09-06
 
-### [Language & Culture Specialist II / Spanish Interpreter](https://www.linkedin.com/jobs/view/4399430465/) — Children's Hospital Los Angeles (CHLA)
-- 📍 **Location:** Los Angeles, CA
+### [National Operations Program Coordinator](https://www.linkedin.com/jobs/view/4464054377/) — Bureau of Meteorology
+- 📍 **Location:** Sydney, New South Wales, Australia
 - 🕒 **Posted:** 2026-09-06
 
-### [Healthcare Coordinator](https://www.linkedin.com/jobs/view/4445200855/) — PDS Health
-- 📍 **Location:** Bellflower, CA
-- 💰 **Salary:** $18.00/hr - $25.50/hr
+### [National Operations Program Coordinator](https://www.linkedin.com/jobs/view/4464046427/) — Bureau of Meteorology
+- 📍 **Location:** Brisbane, Queensland, Australia
 - 🕒 **Posted:** 2026-09-06
 
-### [Nurse Case Manager](https://www.linkedin.com/jobs/view/4433719481/) — Bayshore HealthCare
-- 📍 **Location:** Mississauga, Ontario, Canada
+### [Supervisor, Registries Contact Centre and Processing](https://www.linkedin.com/jobs/view/4461021372/) — AMA - Alberta Motor Association
+- 📍 **Location:** Edmonton, Alberta, Canada
 - 🕒 **Posted:** 2026-09-06
 
-### [Patient Care Coordinator](https://www.linkedin.com/jobs/view/4445217505/) — Drayer Physical Therapy Institute
-- 📍 **Location:** Cayce, SC
+### [Supervisor](https://www.linkedin.com/jobs/view/4464062331/) — Jobbol
+- 📍 **Location:** Catu, Bahia, Brazil
 - 🕒 **Posted:** 2026-09-06
 
-### [Registered Nurse Case Manager](https://www.linkedin.com/jobs/view/4445254195/) — HCA Florida University Hospital
-- 📍 **Location:** Davie, FL
+### [Social Worker](https://www.linkedin.com/jobs/view/4440620969/) — Trinity Health Mid-Atlantic
+- 📍 **Location:** Wilmington, DE
 - 🕒 **Posted:** 2026-09-06
 
-### [Registered Nurse Case Manager](https://www.linkedin.com/jobs/view/4418020569/) — HCA Florida Westside Hospital
-- 📍 **Location:** Plantation, FL
+### [Shift Supervisor: Supported Living Services](https://www.linkedin.com/jobs/view/4462000004/) — Lifeworks: Autism Services
+- 📍 **Location:** Shaker Heights, OH
 - 🕒 **Posted:** 2026-09-06
 
-### [RN Case Manager - Case Management](https://www.linkedin.com/jobs/view/4459491611/) — Rady Children's Hospital-San Diego
-- 📍 **Location:** San Diego, CA
-- 💰 **Salary:** $61.22 to $94.34
+### [Social Worker - Young Croydon (Adolescent Support Team)](https://www.linkedin.com/jobs/view/4452822509/) — Croydon Council
+- 📍 **Location:** London, England, United Kingdom
 - 🕒 **Posted:** 2026-09-06
 
-### [RN Case Manager](https://www.linkedin.com/jobs/view/4433574436/) — Medical City Healthcare
-- 📍 **Location:** Dallas, TX
+### [Social Workers - Adult Services](https://www.linkedin.com/jobs/view/4459882143/) — City of York Council
+- 📍 **Location:** York, England, United Kingdom
 - 🕒 **Posted:** 2026-09-06
 
-### [EVS Supervisor](https://www.linkedin.com/jobs/view/4244066109/) — CarolinaEast Health System
-- 📍 **Location:** New Bern-Morehead City Area
+### [Medical Social Worker, Pediatric Psychiatry](https://www.linkedin.com/jobs/view/4447080750/) — Oregon Health & Science University
+- 📍 **Location:** Portland, Oregon Metropolitan Area
+- 💰 **Salary:** $92,741.48/yr - $140,435.10/yr
 - 🕒 **Posted:** 2026-09-06
 
-### [Aux Social Worker](https://www.linkedin.com/jobs/view/4461848435/) — Iris House Children's Hospice
-- 📍 **Location:** Bellville, Western Cape, South Africa
+### [Social Worker LMSW I](https://www.linkedin.com/jobs/view/4463149739/) — Community Healthcare Network
+- 📍 **Location:** Bronx, NY
+- 💰 **Salary:** $67,672.93/yr - $75,729.09/yr
 - 🕒 **Posted:** 2026-09-06
 
-### [Social Worker MSW](https://www.linkedin.com/jobs/view/4436433072/) — HCA Florida Northwest Hospital
-- 📍 **Location:** Margate, FL
+### [RN Case Manager](https://www.linkedin.com/jobs/view/4460399603/) — St. Croix Hospice
+- 📍 **Location:** Eau Claire, WI
 - 🕒 **Posted:** 2026-09-06
 
-### [Senior Clinical Social Worker (UAEN)](https://www.linkedin.com/jobs/view/4462688709/) — Talents Tide
-- 📍 **Location:** Dubai, United Arab Emirates
+### [Social Worker - Inpatient, Contingent](https://www.linkedin.com/jobs/view/4439625504/) — Trinity Health MI
+- 📍 **Location:** Ann Arbor, MI
 - 🕒 **Posted:** 2026-09-06
 
-### [Social Worker MSW Behavioral Health PRN](https://www.linkedin.com/jobs/view/4334967689/) — Frisbie Memorial Hospital
-- 📍 **Location:** Rochester, NH
+### [Case Manager & Respite Provider](https://www.linkedin.com/jobs/view/4458296841/) — Applewood Centers Inc
+- 📍 **Location:** Cleveland, OH
+- 💰 **Salary:** $18-$21.00 per hour
 - 🕒 **Posted:** 2026-09-06
 
-### [PRN Home Health Social Worker](https://www.linkedin.com/jobs/view/4427633757/) — HCA Healthcare
-- 📍 **Location:** Melbourne, FL
+### [Clinical Supervisor – Mental Health & Substance Use Disorder (SUD)](https://www.linkedin.com/jobs/view/4455532377/) — W3Global
+- 📍 **Location:** Atlantic, IA
+- 💰 **Salary:** $68,000.00/yr - $85,000.00/yr
+- 🕒 **Posted:** 2026-09-06
+
+### [Independent Contractor – Registered Social Worker (MSW, RSW);  Registered Psychotherapist (RP)](https://www.linkedin.com/jobs/view/4462675893/) — Striving for Synergy Therapy & Counselling
+- 📍 **Location:** Toronto, Ontario, Canada
 - 🕒 **Posted:** 2026-09-06
