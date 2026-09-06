@@ -1,95 +1,41 @@
 # 🔥 LinkedIn — Social Worker Roles
-*Last updated: 2026-09-06 20:49 UTC*
+*Last updated: 2026-09-06 23:16 UTC*
 
-**21 new role(s)** since last run · 21 total in last 1h
+**8 new role(s)** since last run · 8 total in last 1h
 
-### [Care Coordinator](https://www.linkedin.com/jobs/view/4458694276/) — STRIDE Community Health Center
-- 📍 **Location:** Wheat Ridge, CO
-- 💰 **Salary:** $20.67 - $24.03
+### [Senior Social Worker - Home Based Primary Care](https://www.linkedin.com/jobs/view/4443736371/) — U.S. Department of Veterans Affairs
+- 📍 **Location:** Cody, WY
+- 💰 **Salary:** $89,508.00/yr - $116,362.00/yr
 - 🕒 **Posted:** 2026-09-06
 
-### [Training and Education Program Manager, Robotic Surgical Technologies - HUGO](https://www.linkedin.com/jobs/view/4457560280/) — Medtronic
-- 📍 **Location:** Lafayette, CO
-- 💰 **Salary:** $110,400.00 - $165,600.00
+### [Substance Abuse Counselor](https://www.linkedin.com/jobs/view/4438749729/) — Contra Costa County
+- 📍 **Location:** Contra Costa County, CA
 - 🕒 **Posted:** 2026-09-06
 
-### [Care Coordinator 2](https://www.linkedin.com/jobs/view/4444714721/) — Oregon Health & Science University
-- 📍 **Location:** Portland, Oregon Metropolitan Area
-- 💰 **Salary:** $30.34/hr - $41.02/hr
+### [Senior Social Worker-Ambulatory Care](https://www.linkedin.com/jobs/view/4443750061/) — U.S. Department of Veterans Affairs
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $126,164.00/yr - $164,017.00/yr
 - 🕒 **Posted:** 2026-09-06
 
-### [Medical Social Worker -Home Health, Full time](https://www.linkedin.com/jobs/view/4462688787/) — Dartmouth Health
-- 📍 **Location:** White River Junction, VT
+### [Program Manager](https://www.linkedin.com/jobs/view/4462682958/) — BBG Ventures
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $66,300-$75,000/yr
 - 🕒 **Posted:** 2026-09-06
 
-### [Case Manager Social Worker](https://www.linkedin.com/jobs/view/4439280037/) — Trinity Health MI
-- 📍 **Location:** Livonia, MI
+### [Practice Operations Supervisor - Hematology & Oncology](https://www.linkedin.com/jobs/view/4461169724/) — Columbia University Irving Medical Center
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $75,000 - $85,000
 - 🕒 **Posted:** 2026-09-06
 
-### [Community Research Liaison, Sr / Pathways Program Coordinator](https://www.linkedin.com/jobs/view/4442258691/) — Oregon Health & Science University
-- 📍 **Location:** Portland, Oregon Metropolitan Area
+### [RN Case Manager](https://www.linkedin.com/jobs/view/4464086140/) — Amedisys
+- 📍 **Location:** Williamsville, NY
+- 💰 **Salary:** $35.58 - $46.16/hour
 - 🕒 **Posted:** 2026-09-06
 
-### [National Operations Program Coordinator](https://www.linkedin.com/jobs/view/4464054377/) — Bureau of Meteorology
-- 📍 **Location:** Sydney, New South Wales, Australia
+### [Team Leader Homelessness Support Services](https://www.linkedin.com/jobs/view/4463341329/) — Uniting Vic.Tas
+- 📍 **Location:** Sale, Victoria, Australia
 - 🕒 **Posted:** 2026-09-06
 
-### [National Operations Program Coordinator](https://www.linkedin.com/jobs/view/4464046427/) — Bureau of Meteorology
-- 📍 **Location:** Brisbane, Queensland, Australia
-- 🕒 **Posted:** 2026-09-06
-
-### [Supervisor, Registries Contact Centre and Processing](https://www.linkedin.com/jobs/view/4461021372/) — AMA - Alberta Motor Association
-- 📍 **Location:** Edmonton, Alberta, Canada
-- 🕒 **Posted:** 2026-09-06
-
-### [Supervisor](https://www.linkedin.com/jobs/view/4464062331/) — Jobbol
-- 📍 **Location:** Catu, Bahia, Brazil
-- 🕒 **Posted:** 2026-09-06
-
-### [Social Worker](https://www.linkedin.com/jobs/view/4440620969/) — Trinity Health Mid-Atlantic
-- 📍 **Location:** Wilmington, DE
-- 🕒 **Posted:** 2026-09-06
-
-### [Shift Supervisor: Supported Living Services](https://www.linkedin.com/jobs/view/4462000004/) — Lifeworks: Autism Services
-- 📍 **Location:** Shaker Heights, OH
-- 🕒 **Posted:** 2026-09-06
-
-### [Social Worker - Young Croydon (Adolescent Support Team)](https://www.linkedin.com/jobs/view/4452822509/) — Croydon Council
-- 📍 **Location:** London, England, United Kingdom
-- 🕒 **Posted:** 2026-09-06
-
-### [Social Workers - Adult Services](https://www.linkedin.com/jobs/view/4459882143/) — City of York Council
-- 📍 **Location:** York, England, United Kingdom
-- 🕒 **Posted:** 2026-09-06
-
-### [Medical Social Worker, Pediatric Psychiatry](https://www.linkedin.com/jobs/view/4447080750/) — Oregon Health & Science University
-- 📍 **Location:** Portland, Oregon Metropolitan Area
-- 💰 **Salary:** $92,741.48/yr - $140,435.10/yr
-- 🕒 **Posted:** 2026-09-06
-
-### [Social Worker LMSW I](https://www.linkedin.com/jobs/view/4463149739/) — Community Healthcare Network
-- 📍 **Location:** Bronx, NY
-- 💰 **Salary:** $67,672.93/yr - $75,729.09/yr
-- 🕒 **Posted:** 2026-09-06
-
-### [RN Case Manager](https://www.linkedin.com/jobs/view/4460399603/) — St. Croix Hospice
-- 📍 **Location:** Eau Claire, WI
-- 🕒 **Posted:** 2026-09-06
-
-### [Social Worker - Inpatient, Contingent](https://www.linkedin.com/jobs/view/4439625504/) — Trinity Health MI
-- 📍 **Location:** Ann Arbor, MI
-- 🕒 **Posted:** 2026-09-06
-
-### [Case Manager & Respite Provider](https://www.linkedin.com/jobs/view/4458296841/) — Applewood Centers Inc
-- 📍 **Location:** Cleveland, OH
-- 💰 **Salary:** $18-$21.00 per hour
-- 🕒 **Posted:** 2026-09-06
-
-### [Clinical Supervisor – Mental Health & Substance Use Disorder (SUD)](https://www.linkedin.com/jobs/view/4455532377/) — W3Global
-- 📍 **Location:** Atlantic, IA
-- 💰 **Salary:** $68,000.00/yr - $85,000.00/yr
-- 🕒 **Posted:** 2026-09-06
-
-### [Independent Contractor – Registered Social Worker (MSW, RSW);  Registered Psychotherapist (RP)](https://www.linkedin.com/jobs/view/4462675893/) — Striving for Synergy Therapy & Counselling
-- 📍 **Location:** Toronto, Ontario, Canada
+### [HFA Program Manager-AR Home Program El Dorado](https://www.linkedin.com/jobs/view/4464069157/) — Baptist Health
+- 📍 **Location:** El Dorado, KS
 - 🕒 **Posted:** 2026-09-06
