@@ -1,105 +1,84 @@
 # 🔥 LinkedIn — Social Worker Roles
-*Last updated: 2026-09-07 19:27 UTC*
+*Last updated: 2026-09-07 22:24 UTC*
 
-**23 new role(s)** since last run · 23 total in last 1h
+**19 new role(s)** since last run · 19 total in last 1h
 
-### [Case Manager - Per Diem](https://www.linkedin.com/jobs/view/4462971998/) — UnitedHealth Group
-- 📍 **Location:** Boulder, CO
-- 💰 **Salary:** $29.00 to $52.00 per hour
+### [Program Coordinator](https://www.linkedin.com/jobs/view/4462845874/) — Heartshare
+- 📍 **Location:** Staten Island, NY
 - 🕒 **Posted:** 2026-09-07
 
-### [Production Supervisor](https://www.linkedin.com/jobs/view/4437180449/) — Airgas
-- 📍 **Location:** Cheyenne, WY
+### [HYBRID Social Worker](https://www.linkedin.com/jobs/view/4451891933/) — Green Key Resources
+- 📍 **Location:** New York City Metropolitan Area
+- 💰 **Salary:** $75,000.00/yr - $85,000.00/yr
 - 🕒 **Posted:** 2026-09-07
 
-### [SOCIAL WORKER/SENIOR SOCIAL WORKER - SAFEGUARDING TEAM](https://www.linkedin.com/jobs/view/4462982163/) — Pro Social Partners
-- 📍 **Location:** Bracknell Forest, England, United Kingdom
+### [Field Case Manager](https://www.linkedin.com/jobs/view/4456955679/) — Sedgwick
+- 📍 **Location:** Detroit, MI
 - 🕒 **Posted:** 2026-09-07
 
-### [Hospital Social Worker](https://www.linkedin.com/jobs/view/4462228397/) — MultiCare Health System
-- 📍 **Location:** Spokane, WA
-- 💰 **Salary:** $74,609.60 - $107,348.80 USD
+### [Case Manager I](https://www.linkedin.com/jobs/view/4409084393/) — SAFY of America
+- 📍 **Location:** Columbus, OH
+- 💰 **Salary:** $44,000.00/yr - $53,000.00/yr
 - 🕒 **Posted:** 2026-09-07
 
-### [Licensed Independent Clinical Social Worker](https://www.linkedin.com/jobs/view/4462967983/) — BetterHelp
-- 📍 **Location:** Washington, DC
-- 💰 **Salary:** $55.00/hr - $70.00/hr
+### [Social Worker](https://www.linkedin.com/jobs/view/4464393302/) — Nottinghamshire County Council
+- 📍 **Location:** Nottinghamshire, England, United Kingdom
 - 🕒 **Posted:** 2026-09-07
 
-### [Patient Care Coordinator](https://www.linkedin.com/jobs/view/4462976165/) — BeauxMD Medical Aesthetics
-- 📍 **Location:** McKinney, TX
+### [Extra Help - Program Coordinator - Administration](https://www.linkedin.com/jobs/view/4464383842/) — University of Illinois Chicago
+- 📍 **Location:** Chicago, IL
 - 🕒 **Posted:** 2026-09-07
 
-### [Social Worker - MHMG](https://www.linkedin.com/jobs/view/4462909170/) — MaineHealth
-- 📍 **Location:** Rockport, ME
-- 💰 **Salary:** $61,256.00to $82,867.20per year
+### [Community Engagement Program Manager](https://www.linkedin.com/jobs/view/4464390340/) — brighter NC (bNC)
+- 📍 **Location:** Wilmington, NC
 - 🕒 **Posted:** 2026-09-07
 
-### [Social Worker - MHMG](https://www.linkedin.com/jobs/view/4462985077/) — MaineHealth
-- 📍 **Location:** Farmington, ME
-- 💰 **Salary:** $61,256.00to $82,867.20per year
+### [Team Leader](https://www.linkedin.com/jobs/view/4464405208/) — Citizens Advice
+- 📍 **Location:** Coventry, England, United Kingdom
 - 🕒 **Posted:** 2026-09-07
 
-### [Residential Supervisor](https://www.linkedin.com/jobs/view/4464370882/) — Trinity Services Inc.
-- 📍 **Location:** Peoria, IL
+### [Social Worker](https://www.linkedin.com/jobs/view/4464399280/) — Children's Social Work Matters
+- 📍 **Location:** East Riding Of Yorkshire, England, United Kingdom
 - 🕒 **Posted:** 2026-09-07
 
-### [Senior Social Worker](https://www.linkedin.com/jobs/view/4464364796/) — Gloucestershire County Council
-- 📍 **Location:** Gloucestershire, England, United Kingdom
+### [Medical Social Worker - Casual](https://www.linkedin.com/jobs/view/4427870201/) — Trinity Health MI
+- 📍 **Location:** Grand Haven, MI
 - 🕒 **Posted:** 2026-09-07
 
-### [SOCIAL WORKER - CHILDREN WITH DISABILITIES TEAM](https://www.linkedin.com/jobs/view/4462997016/) — Pro Social Partners
-- 📍 **Location:** Chatham, Ontario, Canada
+### [Family Support Worker](https://www.linkedin.com/jobs/view/4464399246/) — Nottinghamshire County Council
+- 📍 **Location:** Nottinghamshire, England, United Kingdom
 - 🕒 **Posted:** 2026-09-07
 
-### [Qualified Children's Social Worker](https://www.linkedin.com/jobs/view/4458950759/) — Cafcass (Children and Family Court Advisory and Support Service)
-- 📍 **Location:** West Sussex, England, United Kingdom
+### [Registration Specialist Supervisor](https://www.linkedin.com/jobs/view/4463384577/) — AdventHealth
+- 📍 **Location:** Bolingbrook, IL
+- 💰 **Salary:** $44,907.20 - $83,512.00
 - 🕒 **Posted:** 2026-09-07
 
-### [Immigration Case Manager](https://www.linkedin.com/jobs/view/4462994090/) — SEP Immigration
-- 📍 **Location:** Toronto, Ontario, Canada
+### [RN Float Case Manager, 20 Hours (Days / 2x10 Hour Shifts / Every Weekend)](https://www.linkedin.com/jobs/view/4462423190/) — Boston Medical Center (BMC)
+- 📍 **Location:** Boston, MA
+- 💰 **Salary:** $38.05- $75.33
 - 🕒 **Posted:** 2026-09-07
 
-### [Qualified Children's Social Worker - Child focused courts](https://www.linkedin.com/jobs/view/4461972004/) — Cafcass (Children and Family Court Advisory and Support Service)
-- 📍 **Location:** Wolverhampton, England, United Kingdom
+### [Care Supervisor](https://www.linkedin.com/jobs/view/4462994358/) — McCarthy & Stone
+- 📍 **Location:** Exmouth, England, United Kingdom
 - 🕒 **Posted:** 2026-09-07
 
-### [Hospital Social Worker](https://www.linkedin.com/jobs/view/4462236256/) — MultiCare Health System
-- 📍 **Location:** Spokane Valley, WA
-- 💰 **Salary:** $74,609.60 - $107,348.80 USD
+### [Patient Care Coordinator-Bilingual Preferred](https://www.linkedin.com/jobs/view/4457716460/) — Sedgwick
+- 📍 **Location:** Florida, United States
 - 🕒 **Posted:** 2026-09-07
 
-### [Hospital Social Worker ED](https://www.linkedin.com/jobs/view/4462239198/) — MultiCare Health System
-- 📍 **Location:** Spokane, WA
-- 💰 **Salary:** $74,609.60 - $107,348.80 USD
+### [Care Supervisor](https://www.linkedin.com/jobs/view/4462988383/) — McCarthy & Stone
+- 📍 **Location:** Brackley, England, United Kingdom
 - 🕒 **Posted:** 2026-09-07
 
-### [Neighbourhood & Communities Team Leader](https://www.linkedin.com/jobs/view/4456409584/) — The Regenda Group
-- 📍 **Location:** Liverpool, England, United Kingdom
+### [Program Manager - ERP Transformation](https://www.linkedin.com/jobs/view/4464402214/) — BIRN Germany
+- 📍 **Location:** Atmakur, Telangana, India
 - 🕒 **Posted:** 2026-09-07
 
-### [Spanish interpreters in Michigan (MI)](https://www.linkedin.com/jobs/view/4464362592/) — LanguagePath Solutions
-- 📍 **Location:** Michigan, United States
+### [Field Case Manager](https://www.linkedin.com/jobs/view/4459240720/) — Sedgwick
+- 📍 **Location:** Tampa, FL
 - 🕒 **Posted:** 2026-09-07
 
-### [Behavior Services Program Manager](https://www.linkedin.com/jobs/view/4464367774/) — KIPP SoCal Public Schools
-- 📍 **Location:** Los Angeles, CA
-- 💰 **Salary:** $79,200 to $118,800 per year
-- 🕒 **Posted:** 2026-09-07
-
-### [Care Coordinator](https://www.linkedin.com/jobs/view/4464383288/) — Optimo Care Group
-- 📍 **Location:** Bury, England, United Kingdom
-- 🕒 **Posted:** 2026-09-07
-
-### [Education Specialist/Special Education Teacher (2022-23)](https://www.linkedin.com/jobs/view/4464374726/) — KIPP North Carolina Public Schools
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-09-07
-
-### [Medical Case Manager - Workers' Compensation](https://www.linkedin.com/jobs/view/4464372843/) — ForzaCare
-- 📍 **Location:** Memphis, TN
-- 🕒 **Posted:** 2026-09-07
-
-### [Hospital Social Worker ED](https://www.linkedin.com/jobs/view/4462228396/) — MultiCare Health System
-- 📍 **Location:** Spokane, WA
-- 💰 **Salary:** $74,609.60 - $107,348.80 USD
+### [Social Worker](https://www.linkedin.com/jobs/view/4464394275/) — Nottinghamshire County Council
+- 📍 **Location:** Nottinghamshire, England, United Kingdom
 - 🕒 **Posted:** 2026-09-07
