@@ -1,84 +1,53 @@
 # 🔥 LinkedIn — Social Worker Roles
-*Last updated: 2026-09-07 22:24 UTC*
+*Last updated: 2026-09-08 00:47 UTC*
 
-**19 new role(s)** since last run · 19 total in last 1h
+**11 new role(s)** since last run · 14 total in last 1h
 
-### [Program Coordinator](https://www.linkedin.com/jobs/view/4462845874/) — Heartshare
-- 📍 **Location:** Staten Island, NY
+### [Intake Specialist - Outbound](https://www.linkedin.com/jobs/view/4464393781/) — Hanger, Inc.
+- 📍 **Location:** United States
+- 💰 **Salary:** $17.75 to $23.00 per hour
+- 🕒 **Posted:** 2026-09-08
+
+### [Aboriginal Targeted Allied Health Care Coordinator](https://www.linkedin.com/jobs/view/4464393862/) — Sydney Children's Hospitals Network
+- 📍 **Location:** Randwick, New South Wales, Australia
+- 🕒 **Posted:** 2026-09-08
+
+### [Patient Care Coordinator - Front Office](https://www.linkedin.com/jobs/view/4462267053/) — Doctors of Physical Therapy
+- 📍 **Location:** Chetek, WI
+- 🕒 **Posted:** 2026-09-08
+
+### [Infectious Disease Care Coordinator RN](https://www.linkedin.com/jobs/view/4461421271/) — Virginia Mason Franciscan Health
+- 📍 **Location:** Seattle, WA
+- 💰 **Salary:** $52.54 - $99.25
+- 🕒 **Posted:** 2026-09-08
+
+### [Supervisor](https://www.linkedin.com/jobs/view/4441699066/) — Lucky Strike Entertainment
+- 📍 **Location:** Salem, OR
+- 💰 **Salary:** $25 to $30 hourly
+- 🕒 **Posted:** 2026-09-08
+
+### [SUPERVISOR and GAMES FLOOR](https://www.linkedin.com/jobs/view/4464408343/) — Caesars Entertainment
+- 📍 **Location:** Black Hawk, CO
+- 💰 **Salary:** $ 32.00 - $ 34.00
 - 🕒 **Posted:** 2026-09-07
 
-### [HYBRID Social Worker](https://www.linkedin.com/jobs/view/4451891933/) — Green Key Resources
-- 📍 **Location:** New York City Metropolitan Area
-- 💰 **Salary:** $75,000.00/yr - $85,000.00/yr
-- 🕒 **Posted:** 2026-09-07
-
-### [Field Case Manager](https://www.linkedin.com/jobs/view/4456955679/) — Sedgwick
-- 📍 **Location:** Detroit, MI
-- 🕒 **Posted:** 2026-09-07
-
-### [Case Manager I](https://www.linkedin.com/jobs/view/4409084393/) — SAFY of America
-- 📍 **Location:** Columbus, OH
-- 💰 **Salary:** $44,000.00/yr - $53,000.00/yr
-- 🕒 **Posted:** 2026-09-07
-
-### [Social Worker](https://www.linkedin.com/jobs/view/4464393302/) — Nottinghamshire County Council
-- 📍 **Location:** Nottinghamshire, England, United Kingdom
-- 🕒 **Posted:** 2026-09-07
-
-### [Extra Help - Program Coordinator - Administration](https://www.linkedin.com/jobs/view/4464383842/) — University of Illinois Chicago
+### [School Based Social Worker](https://www.linkedin.com/jobs/view/4420741985/) — PSI Solutions
 - 📍 **Location:** Chicago, IL
 - 🕒 **Posted:** 2026-09-07
 
-### [Community Engagement Program Manager](https://www.linkedin.com/jobs/view/4464390340/) — brighter NC (bNC)
-- 📍 **Location:** Wilmington, NC
+### [Community Health Worker II (Full Time)](https://www.linkedin.com/jobs/view/4462262055/) — Southeast Hospital
+- 📍 **Location:** Springfield, MO
 - 🕒 **Posted:** 2026-09-07
 
-### [Team Leader](https://www.linkedin.com/jobs/view/4464405208/) — Citizens Advice
-- 📍 **Location:** Coventry, England, United Kingdom
+### [Administrative Assistant / Project Coordinator / Program Coordinator](https://www.linkedin.com/jobs/view/4458207837/) — TekWissen ®
+- 📍 **Location:** Cary, NC
+- 💰 **Salary:** $16.20/hr - $23.10/hr
 - 🕒 **Posted:** 2026-09-07
 
-### [Social Worker](https://www.linkedin.com/jobs/view/4464399280/) — Children's Social Work Matters
-- 📍 **Location:** East Riding Of Yorkshire, England, United Kingdom
+### [Policy Program Manager](https://www.linkedin.com/jobs/view/4461523626/) — ICANN
+- 📍 **Location:** Washington, DC
 - 🕒 **Posted:** 2026-09-07
 
-### [Medical Social Worker - Casual](https://www.linkedin.com/jobs/view/4427870201/) — Trinity Health MI
-- 📍 **Location:** Grand Haven, MI
-- 🕒 **Posted:** 2026-09-07
-
-### [Family Support Worker](https://www.linkedin.com/jobs/view/4464399246/) — Nottinghamshire County Council
-- 📍 **Location:** Nottinghamshire, England, United Kingdom
-- 🕒 **Posted:** 2026-09-07
-
-### [Registration Specialist Supervisor](https://www.linkedin.com/jobs/view/4463384577/) — AdventHealth
-- 📍 **Location:** Bolingbrook, IL
-- 💰 **Salary:** $44,907.20 - $83,512.00
-- 🕒 **Posted:** 2026-09-07
-
-### [RN Float Case Manager, 20 Hours (Days / 2x10 Hour Shifts / Every Weekend)](https://www.linkedin.com/jobs/view/4462423190/) — Boston Medical Center (BMC)
-- 📍 **Location:** Boston, MA
-- 💰 **Salary:** $38.05- $75.33
-- 🕒 **Posted:** 2026-09-07
-
-### [Care Supervisor](https://www.linkedin.com/jobs/view/4462994358/) — McCarthy & Stone
-- 📍 **Location:** Exmouth, England, United Kingdom
-- 🕒 **Posted:** 2026-09-07
-
-### [Patient Care Coordinator-Bilingual Preferred](https://www.linkedin.com/jobs/view/4457716460/) — Sedgwick
-- 📍 **Location:** Florida, United States
-- 🕒 **Posted:** 2026-09-07
-
-### [Care Supervisor](https://www.linkedin.com/jobs/view/4462988383/) — McCarthy & Stone
-- 📍 **Location:** Brackley, England, United Kingdom
-- 🕒 **Posted:** 2026-09-07
-
-### [Program Manager - ERP Transformation](https://www.linkedin.com/jobs/view/4464402214/) — BIRN Germany
-- 📍 **Location:** Atmakur, Telangana, India
-- 🕒 **Posted:** 2026-09-07
-
-### [Field Case Manager](https://www.linkedin.com/jobs/view/4459240720/) — Sedgwick
-- 📍 **Location:** Tampa, FL
-- 🕒 **Posted:** 2026-09-07
-
-### [Social Worker](https://www.linkedin.com/jobs/view/4464394275/) — Nottinghamshire County Council
-- 📍 **Location:** Nottinghamshire, England, United Kingdom
+### [Team Leader Business Support & Compliance](https://www.linkedin.com/jobs/view/4464092061/) — Uniting Vic.Tas
+- 📍 **Location:** Blackburn, Victoria, Australia
 - 🕒 **Posted:** 2026-09-07
