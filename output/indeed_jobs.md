@@ -1,24 +1,39 @@
 # 🟦 Indeed — Social Worker Roles
-*Last updated: 2026-09-09 05:21 UTC*
+*Last updated: 2026-09-09 19:15 UTC*
 
-**3 new role(s)** since last run · 14 total in last 24h
+**5 new role(s)** since last run · 10 total in last 24h
 
-### [Social Worker](https://www.indeed.com/viewjob?jk=96f5d97fe257223d) — Ampersand Therapy
-- 📍 **Location:** Aurora, CO, US
-- 💰 **Salary:** $50–$60/hr
+### [Case Manager I](https://www.indeed.com/viewjob?jk=059eaa0d73df0226) — COLORADO COALITION FOR THE HOMELESS
+- 📍 **Location:** Denver, CO, US
+- 💰 **Salary:** $20–$25/hr
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-09-08
 
-### [Peer Support Specialist - Ascent (First Episode Psychosis)](https://www.indeed.com/viewjob?jk=4d405f3467b569f6) — North Range Behavioral Health
-- 📍 **Location:** Greeley, CO, US
-- 💰 **Salary:** $17–$24/hr
+### [Hospice Medical Social Worker](https://www.indeed.com/viewjob?jk=d93cf032eb93f4c4) — Optum
+- 📍 **Location:** Denver, CO, US
+- 💰 **Salary:** $73k–$110k/yr
 - **Work mode:** On-site
 - **Job type:** fulltime
+- 🕒 **Posted:** 2026-09-09
+
+### [Social Worker MSW PRN](https://www.indeed.com/viewjob?jk=abb9976e51164d3d) — HCA HealthONE Swedish
+- 📍 **Location:** Englewood, CO, US
+- 💰 **Salary:** $30–$46/hr
+- **Work mode:** On-site
+- **Job type:** perdiem
 - 🕒 **Posted:** 2026-09-08
 
-### [Clinical Intake Specialist/Administrative Assistant](https://www.indeed.com/viewjob?jk=c017ed31413d409b) — Violanti Mental Health Counseling, PLLC
+### [Social Worker MSW PRN](https://www.indeed.com/viewjob?jk=371c139761fff08e) — HCA HealthONE Swedish
+- 📍 **Location:** Englewood, CO, US
+- 💰 **Salary:** $30–$46/hr
+- **Work mode:** On-site
+- **Job type:** perdiem
+- 🕒 **Posted:** 2026-09-08
+
+### [Member Care Coordinator](https://www.indeed.com/viewjob?jk=0d45bbcf91bcd771) — Calibrate
 - 📍 **Location:** Remote, US
+- 💰 **Salary:** $20–$22/hr
 - **Work mode:** Remote in-state eligible
-- **Job type:** contract
+- **Job type:** fulltime
 - 🕒 **Posted:** 2026-09-09
