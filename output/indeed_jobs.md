@@ -1,22 +1,23 @@
 # 🟦 Indeed — Social Worker Roles
-*Last updated: 2026-09-11 19:12 UTC*
+*Last updated: 2026-09-11 21:36 UTC*
 
 **3 new role(s)** since last run · 6 total in last 24h
 
-### [Program Coordinator](https://www.indeed.com/viewjob?jk=8a8314db81f9bda0) — Unknown
-- 📍 **Location:** Remote, US
-- **Work mode:** Remote in-state eligible
+### [RN Case Manager - Hospice](https://www.indeed.com/viewjob?jk=3d8221fb2586a56f) — Unknown
+- 📍 **Location:** Wheat Ridge, CO, US
+- 💰 **Salary:** $43–$48/hr
+- **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-09-11
 
-### [Vendor Risk Program Coordinator](https://www.indeed.com/viewjob?jk=f62db9309729f90c) — Tailored Brands
-- 📍 **Location:** Houston, TX, US
-- 💰 **Salary:** $55k–$80k/yr
+### [Program Supervisor | First Episode of Psychosis](https://www.indeed.com/viewjob?jk=6c579c6fe3631e2c) — Clinica Family Health & Wellness
+- 📍 **Location:** Longmont, CO, US
+- 💰 **Salary:** $64k–$102k/yr
+- **Work mode:** On-site
+- 🕒 **Posted:** 2026-09-11
+
+### [Hospice Registered Nurse RN - Case Manager](https://www.indeed.com/viewjob?jk=a7eee8bffe0f213c) — Otterbein SeniorLife
+- 📍 **Location:** Lebanon, OH, US
 - **Work mode:** Remote in-state eligible
 - **Job type:** fulltime
-- 🕒 **Posted:** 2026-09-10
-
-### [Behavioral Health Specialist](https://www.indeed.com/viewjob?jk=9be6d3080f737374) — Akima
-- 📍 **Location:** Austin, TX, US
-- **Work mode:** Remote in-state eligible
-- 🕒 **Posted:** 2026-09-10
+- 🕒 **Posted:** 2026-09-11
