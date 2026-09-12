@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-09-09 19:32 UTC",
+  "scraped_at": "2026-09-12 18:36 UTC",
   "total": 4,
   "new_count": 0,
   "jobs": [
@@ -14,18 +14,6 @@
       "telework": "In Office",
       "job_type": "Permanent, Full Time",
       "work_arrangement": "On-site"
-    },
-    {
-      "company": "Natural Resources Agency",
-      "title": "BIODIVERSITY PROGRAM MANAGER",
-      "location": "Sacramento County",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=530935",
-      "date_posted": "2026-09-03",
-      "salary": "$4418.00 - $9321.00",
-      "ats": "CalCareers",
-      "telework": "Hybrid",
-      "job_type": "Permanent, Full Time",
-      "work_arrangement": "Telecommute eligible"
     },
     {
       "company": "Department of State Hospitals",
@@ -49,6 +37,18 @@
       "ats": "CalCareers",
       "telework": "Hybrid",
       "job_type": "Permanent, Full Time",
+      "work_arrangement": "Telecommute eligible"
+    },
+    {
+      "company": "State Air Resources Board",
+      "title": "Accounting Administrator I (Supervisor)",
+      "location": "Sacramento County",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=529157",
+      "date_posted": "2026-08-19",
+      "salary": "$7172.00 - $8910.00",
+      "ats": "CalCareers",
+      "telework": "Hybrid",
+      "job_type": "12 Month Limited Term - Full Time",
       "work_arrangement": "Telecommute eligible"
     }
   ],
