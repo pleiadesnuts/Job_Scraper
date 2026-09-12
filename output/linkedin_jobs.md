@@ -1,144 +1,102 @@
 # 🔥 LinkedIn — Social Worker Roles
-*Last updated: 2026-09-12 06:11 UTC*
+*Last updated: 2026-09-12 18:03 UTC*
 
-**31 new role(s)** since last run · 31 total in last 1h
+**22 new role(s)** since last run · 22 total in last 1h
 
-### [Apprenticeships & Training Coordinator](https://www.linkedin.com/jobs/view/4465402132/) — DPR Construction
-- 📍 **Location:** Greenwood Village, CO
-- 💰 **Salary:** $52,800.00- $105,300.00
+### [School Social Worker](https://www.linkedin.com/jobs/view/4465415951/) — Aurora Public Schools
+- 📍 **Location:** Aurora, CO
 - 🕒 **Posted:** 2026-09-12
 
-### [Care Coordinator / Arizona West Coast](https://www.linkedin.com/jobs/view/4466447629/) — UCB
-- 📍 **Location:** Phoenix, AZ
-- 💰 **Salary:** $88,000.00 -$115,500.00 annually
+### [Substance Abuse Counselor (Master's Degree Required)](https://www.linkedin.com/jobs/view/4465420940/) — New Season
+- 📍 **Location:** Montgomery, AL
 - 🕒 **Posted:** 2026-09-12
 
-### [Licensed Case Manager (CM II) Full Time)](https://www.linkedin.com/jobs/view/4466449712/) — Connections Health Solutions
-- 📍 **Location:** Leesburg, VA
-- 💰 **Salary:** $1,000 to $2,000
+### [Social Worker LICSW - Pediatric Primary Care](https://www.linkedin.com/jobs/view/4438504434/) — Tufts Medicine
+- 📍 **Location:** Boston, MA
+- 💰 **Salary:** $60,908.12 - $76,140.43
 - 🕒 **Posted:** 2026-09-12
 
-### [Hospice Social Worker](https://www.linkedin.com/jobs/view/4465199157/) — Compassus
-- 📍 **Location:** Lancaster, PA
+### [Social Worker PRN](https://www.linkedin.com/jobs/view/4418548605/) — Memorial Health
+- 📍 **Location:** Savannah, GA
 - 🕒 **Posted:** 2026-09-12
 
-### [Care Coordinator / LA West Coast](https://www.linkedin.com/jobs/view/4466445639/) — UCB
-- 📍 **Location:** Los Angeles, CA
-- 💰 **Salary:** $88,000.00 -$115,500.00 annually
+### [Social Worker](https://www.linkedin.com/jobs/view/4447738125/) — IHA
+- 📍 **Location:** Gaithersburg, MD
+- 💰 **Salary:** $30.42-$38.02/hr
 - 🕒 **Posted:** 2026-09-12
 
-### [SUN SITE MANAGER (PROGRAM COORDINATOR) - MEADOWS ELEMENTARY SCHOOL](https://www.linkedin.com/jobs/view/4465404118/) — MFS CASH Oregon
-- 📍 **Location:** Portland, OR
+### [Community Case Manager](https://www.linkedin.com/jobs/view/4465413927/) — Chrysalis Health
+- 📍 **Location:** Houston, TX
+- 💰 **Salary:** $42,000.00 - $44,000
 - 🕒 **Posted:** 2026-09-12
 
-### [Care Coordinator, Pathways](https://www.linkedin.com/jobs/view/4440400398/) — Lutheran Social Services of Illinois
-- 📍 **Location:** Chicago, IL
+### [Program Manager - Rapid Rehousing](https://www.linkedin.com/jobs/view/4439376106/) — Public Health Management Corporation
+- 📍 **Location:** Philadelphia, PA
 - 🕒 **Posted:** 2026-09-12
 
-### [Palestine - Program Coordinator (M/F) - Jerusalem](https://www.linkedin.com/jobs/view/4466436850/) — ReliefWeb
-- 📍 **Location:** Palestinian Authority
+### [OnCore Operations Intake Specialist](https://www.linkedin.com/jobs/view/4454675791/) — UPMC
+- 📍 **Location:** Pittsburgh, PA
 - 🕒 **Posted:** 2026-09-12
 
-### [Supervisor, Patient Navigation Center](https://www.linkedin.com/jobs/view/4466437293/) — Trinity Health
-- 📍 **Location:** Fort Lauderdale, FL
+### [Spanish & English Speaking CAT (Community Action Team) Case Manager](https://www.linkedin.com/jobs/view/4465410966/) — Chrysalis Health
+- 📍 **Location:** Lake Worth, FL
+- 💰 **Salary:** $45,000.00/yr - $47,000.00/yr
 - 🕒 **Posted:** 2026-09-12
 
-### [Program Supervisor](https://www.linkedin.com/jobs/view/4464242489/) — Sevita
-- 📍 **Location:** Mankato, MN
+### [Care Transition Manager, Social Worker - PRN](https://www.linkedin.com/jobs/view/4447562397/) — Texas Health Resources
+- 📍 **Location:** Dallas, TX
 - 🕒 **Posted:** 2026-09-12
 
-### [Health and Human Resources Program Manager 2](https://www.linkedin.com/jobs/view/4466479175/) — WV Department of Human Services
-- 📍 **Location:** Kanawha County, WV
+### [PUBLIC HOUSING SUPERVISOR V - KAPAA, KAUAI](https://www.linkedin.com/jobs/view/4445967338/) — State of Hawaiʻi
+- 📍 **Location:** Kauai County, HI
+- 💰 **Salary:** $6,221 to $7,568 per month
 - 🕒 **Posted:** 2026-09-12
 
-### [Case Manager Social Worker](https://www.linkedin.com/jobs/view/4447200166/) — IHA
-- 📍 **Location:** Livonia, MI
+### [Case Manager](https://www.linkedin.com/jobs/view/4465428044/) — The W Group
+- 📍 **Location:** Queens, NY
+- 💰 **Salary:** $22.00/hr - $25.00/hr
 - 🕒 **Posted:** 2026-09-12
 
-### [Medical Social Worker-$5k sign on](https://www.linkedin.com/jobs/view/4466435789/) — IHA
-- 📍 **Location:** Columbus, OH
+### [Behavioral Health Specialist](https://www.linkedin.com/jobs/view/4420225531/) — Children's Hospital Colorado
+- 📍 **Location:** Aurora, CO
+- 💰 **Salary:** $22.20 to $33.30
 - 🕒 **Posted:** 2026-09-12
 
-### [Administrative Coordinator I (Master’s Program Coordinator) - Arts & Sciences](https://www.linkedin.com/jobs/view/4465400098/) — Washington University in St. Louis
-- 📍 **Location:** St Louis, MO
-- 💰 **Salary:** $19.29 - $29.91
+### [Supervisor - PACE Day Center Operations](https://www.linkedin.com/jobs/view/4457510687/) — HCA Healthcare
+- 📍 **Location:** Asheville, NC
 - 🕒 **Posted:** 2026-09-12
 
-### [Social Worker](https://www.linkedin.com/jobs/view/4465175410/) — StoneCrest Center
-- 📍 **Location:** Detroit, MI
+### [Patient Care Coordinator](https://www.linkedin.com/jobs/view/4457394443/) — Results Physiotherapy
+- 📍 **Location:** Clarksville, TN
 - 🕒 **Posted:** 2026-09-12
 
-### [Licensed Master Social Worker -  Per Diem - Weekends](https://www.linkedin.com/jobs/view/4466450220/) — Trinity Health
-- 📍 **Location:** Syracuse, NY
-- 💰 **Salary:** $32.97 - $47.50
+### [Care Coordinator- Williamsburg](https://www.linkedin.com/jobs/view/4457520277/) — Spear Physical Therapy
+- 📍 **Location:** Brooklyn, NY
+- 💰 **Salary:** $18.00/hr - $18.00/hr
 - 🕒 **Posted:** 2026-09-12
 
-### [Licensed Master Social Worker -  Per Diem - Weekends](https://www.linkedin.com/jobs/view/4465194531/) — St. Joseph's Health
-- 📍 **Location:** Syracuse, NY
-- 💰 **Salary:** $32.97 - $47.50
+### [Registered Nurse Case Manager](https://www.linkedin.com/jobs/view/4447745680/) — HCA Florida Kendall Hospital
+- 📍 **Location:** Miami, FL
 - 🕒 **Posted:** 2026-09-12
 
-### [Social Worker](https://www.linkedin.com/jobs/view/4466404891/) — DaVita Kidney Care
-- 📍 **Location:** Kankakee, IL
-- 💰 **Salary:** $60,000.00/yr - $95,000.00/yr
-- 🕒 **Posted:** 2026-09-12
-
-### [Case Manager](https://www.linkedin.com/jobs/view/4464239529/) — Sevita
-- 📍 **Location:** Wichita, KS
-- 🕒 **Posted:** 2026-09-12
-
-### [Social Worker Opportunities](https://www.linkedin.com/jobs/view/4466458540/) — Complete Care - New Jersey & PA
-- 📍 **Location:** Toms River, NJ
-- 🕒 **Posted:** 2026-09-12
-
-### [Care Coordinator / Nevada West Coast](https://www.linkedin.com/jobs/view/4466452567/) — UCB
-- 📍 **Location:** Las Vegas, NV
-- 💰 **Salary:** $88,000.00 -$115,500.00 annually
-- 🕒 **Posted:** 2026-09-12
-
-### [Case Manager](https://www.linkedin.com/jobs/view/4465410084/) — Child & Family Support Services, Inc
-- 📍 **Location:** Prescott Valley, AZ
-- 💰 **Salary:** $21.00/hr - $23.00/hr
-- 🕒 **Posted:** 2026-09-12
-
-### [Health Educator](https://www.linkedin.com/jobs/view/4464580741/) — California State University - East Bay
-- 📍 **Location:** Hayward, CA
-- 🕒 **Posted:** 2026-09-12
-
-### [Care Coordinator - Davita IKC - Fayetteville, AR](https://www.linkedin.com/jobs/view/4465886777/) — DaVita Kidney Care
-- 📍 **Location:** Fayetteville, AR
-- 💰 **Salary:** $18.00/hr - $22.50/hr
-- 🕒 **Posted:** 2026-09-12
-
-### [RN Case Manager Hospice](https://www.linkedin.com/jobs/view/4466482085/) — AMEDISYS HOME HEALTH
-- 📍 **Location:** York, PA
-- 💰 **Salary:** $88,000.00-$91,000.00
-- 🕒 **Posted:** 2026-09-12
-
-### [RN Case Manager Baylor](https://www.linkedin.com/jobs/view/4466461342/) — AMEDISYS HOME HEALTH
-- 📍 **Location:** Aiken, SC
-- 💰 **Salary:** $70,200 - $85,800 Annually
-- 🕒 **Posted:** 2026-09-12
-
-### [Case Manager and Employment Specialist- Virginia](https://www.linkedin.com/jobs/view/4465198216/) — Digilancer
+### [Care Coordinator Juniper Spanish/English Bilingual](https://www.linkedin.com/jobs/view/4465418940/) — Inova Health
 - 📍 **Location:** Fairfax, VA
 - 🕒 **Posted:** 2026-09-12
 
-### [Social Worker Opportunities](https://www.linkedin.com/jobs/view/4466451615/) — Complete Care - New Jersey & PA
-- 📍 **Location:** Neptune, NJ
+### [Case Manager RN](https://www.linkedin.com/jobs/view/4455388404/) — HCA Florida South Shore Hospital
+- 📍 **Location:** Sun City Center, FL
 - 🕒 **Posted:** 2026-09-12
 
-### [Care Coordinator for LTSS Waiver Members/Medicaid - Remote in NOVA (Fairfax, Springfield and Alexandria, VA)](https://www.linkedin.com/jobs/view/4464831522/) — Sentara Health
-- 📍 **Location:** Fairfax, VA
-- 💰 **Salary:** $24.91 - $40.07 hourly
+### [Home Health Registered Nurse, RN, Case Manager](https://www.linkedin.com/jobs/view/4419513181/) — Tufts Medicine
+- 📍 **Location:** Bedford, NH
+- 💰 **Salary:** $84,300.22 - $107,481.20
 - 🕒 **Posted:** 2026-09-12
 
-### [Hospice Social Worker MSW](https://www.linkedin.com/jobs/view/4465412063/) — Providence at Home with Compassus
-- 📍 **Location:** Olympia, WA
-- 💰 **Salary:** $30.98 - $48.22
+### [Specialist, Program Manager](https://www.linkedin.com/jobs/view/4447183828/) — Publicis Re:Sources
+- 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-09-12
 
-### [Social Worker](https://www.linkedin.com/jobs/view/4465892648/) — DaVita Kidney Care
-- 📍 **Location:** Yakima, WA
-- 💰 **Salary:** $80,600.00/yr - $114,000.00/yr
+### [Full Time Social Worker, LMSW - Hospice, Saratoga/Schenectady/Montgomery County Regions](https://www.linkedin.com/jobs/view/4447202163/) — IHA
+- 📍 **Location:** Saratoga Springs, NY
+- 💰 **Salary:** $30.00 - $43.08
 - 🕒 **Posted:** 2026-09-12
