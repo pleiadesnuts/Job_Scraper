@@ -1,102 +1,82 @@
 # 🔥 LinkedIn — Social Worker Roles
-*Last updated: 2026-09-12 18:03 UTC*
+*Last updated: 2026-09-12 20:56 UTC*
 
-**22 new role(s)** since last run · 22 total in last 1h
+**18 new role(s)** since last run · 18 total in last 1h
 
-### [School Social Worker](https://www.linkedin.com/jobs/view/4465415951/) — Aurora Public Schools
-- 📍 **Location:** Aurora, CO
+### [Clinical Case Manager - Health Professional III - Southern Region.](https://www.linkedin.com/jobs/view/4466729207/) — State of Colorado
+- 📍 **Location:** United States
 - 🕒 **Posted:** 2026-09-12
 
-### [Substance Abuse Counselor (Master's Degree Required)](https://www.linkedin.com/jobs/view/4465420940/) — New Season
-- 📍 **Location:** Montgomery, AL
+### [Undergraduate Program Coordinator and Advisor](https://www.linkedin.com/jobs/view/4466729200/) — University of Michigan
+- 📍 **Location:** Ann Arbor, MI
+- 💰 **Salary:** $48,400.00/yr - $60,500.00/yr
 - 🕒 **Posted:** 2026-09-12
 
-### [Social Worker LICSW - Pediatric Primary Care](https://www.linkedin.com/jobs/view/4438504434/) — Tufts Medicine
-- 📍 **Location:** Boston, MA
-- 💰 **Salary:** $60,908.12 - $76,140.43
+### [National Operations Program Coordinator](https://www.linkedin.com/jobs/view/4466712384/) — Bureau of Meteorology
+- 📍 **Location:** Sydney, New South Wales, Australia
 - 🕒 **Posted:** 2026-09-12
 
-### [Social Worker PRN](https://www.linkedin.com/jobs/view/4418548605/) — Memorial Health
-- 📍 **Location:** Savannah, GA
+### [National Operations Program Coordinator](https://www.linkedin.com/jobs/view/4466714379/) — Bureau of Meteorology
+- 📍 **Location:** Brisbane, Queensland, Australia
 - 🕒 **Posted:** 2026-09-12
 
-### [Social Worker](https://www.linkedin.com/jobs/view/4447738125/) — IHA
-- 📍 **Location:** Gaithersburg, MD
-- 💰 **Salary:** $30.42-$38.02/hr
+### [Program Manager, Commercial Learning & Development](https://www.linkedin.com/jobs/view/4464287871/) — Net2Source (N2S)
+- 📍 **Location:** Foster City, CA
+- 💰 **Salary:** $64.75/hr - $68.35/hr
 - 🕒 **Posted:** 2026-09-12
 
-### [Community Case Manager](https://www.linkedin.com/jobs/view/4465413927/) — Chrysalis Health
-- 📍 **Location:** Houston, TX
-- 💰 **Salary:** $42,000.00 - $44,000
+### [Supervisor Administrativo](https://www.linkedin.com/jobs/view/4466725279/) — EMPREGARE.com
+- 📍 **Location:** Recife, Pernambuco, Brazil
 - 🕒 **Posted:** 2026-09-12
 
-### [Program Manager - Rapid Rehousing](https://www.linkedin.com/jobs/view/4439376106/) — Public Health Management Corporation
-- 📍 **Location:** Philadelphia, PA
+### [Housing Case Manager](https://www.linkedin.com/jobs/view/4464291932/) — Kintegra Health
+- 📍 **Location:** Gastonia, NC
 - 🕒 **Posted:** 2026-09-12
 
-### [OnCore Operations Intake Specialist](https://www.linkedin.com/jobs/view/4454675791/) — UPMC
-- 📍 **Location:** Pittsburgh, PA
+### [Social Services Director / Social Worker](https://www.linkedin.com/jobs/view/4466722081/) — Signature HealthCARE
+- 📍 **Location:** Danville, KY
 - 🕒 **Posted:** 2026-09-12
 
-### [Spanish & English Speaking CAT (Community Action Team) Case Manager](https://www.linkedin.com/jobs/view/4465410966/) — Chrysalis Health
-- 📍 **Location:** Lake Worth, FL
-- 💰 **Salary:** $45,000.00/yr - $47,000.00/yr
+### [Social Worker Hospice Inpatient Full Time Days](https://www.linkedin.com/jobs/view/4465444101/) — Northwestern Memorial Hospital
+- 📍 **Location:** Chicago, IL
+- 💰 **Salary:** $33.50 - $43.55
 - 🕒 **Posted:** 2026-09-12
 
-### [Care Transition Manager, Social Worker - PRN](https://www.linkedin.com/jobs/view/4447562397/) — Texas Health Resources
-- 📍 **Location:** Dallas, TX
-- 🕒 **Posted:** 2026-09-12
-
-### [PUBLIC HOUSING SUPERVISOR V - KAPAA, KAUAI](https://www.linkedin.com/jobs/view/4445967338/) — State of Hawaiʻi
-- 📍 **Location:** Kauai County, HI
-- 💰 **Salary:** $6,221 to $7,568 per month
-- 🕒 **Posted:** 2026-09-12
-
-### [Case Manager](https://www.linkedin.com/jobs/view/4465428044/) — The W Group
-- 📍 **Location:** Queens, NY
-- 💰 **Salary:** $22.00/hr - $25.00/hr
-- 🕒 **Posted:** 2026-09-12
-
-### [Behavioral Health Specialist](https://www.linkedin.com/jobs/view/4420225531/) — Children's Hospital Colorado
-- 📍 **Location:** Aurora, CO
-- 💰 **Salary:** $22.20 to $33.30
-- 🕒 **Posted:** 2026-09-12
-
-### [Supervisor - PACE Day Center Operations](https://www.linkedin.com/jobs/view/4457510687/) — HCA Healthcare
-- 📍 **Location:** Asheville, NC
-- 🕒 **Posted:** 2026-09-12
-
-### [Patient Care Coordinator](https://www.linkedin.com/jobs/view/4457394443/) — Results Physiotherapy
-- 📍 **Location:** Clarksville, TN
-- 🕒 **Posted:** 2026-09-12
-
-### [Care Coordinator- Williamsburg](https://www.linkedin.com/jobs/view/4457520277/) — Spear Physical Therapy
-- 📍 **Location:** Brooklyn, NY
-- 💰 **Salary:** $18.00/hr - $18.00/hr
-- 🕒 **Posted:** 2026-09-12
-
-### [Registered Nurse Case Manager](https://www.linkedin.com/jobs/view/4447745680/) — HCA Florida Kendall Hospital
+### [Targeted case manager](https://www.linkedin.com/jobs/view/4466723191/) — Homestead Behavior Clinic
 - 📍 **Location:** Miami, FL
 - 🕒 **Posted:** 2026-09-12
 
-### [Care Coordinator Juniper Spanish/English Bilingual](https://www.linkedin.com/jobs/view/4465418940/) — Inova Health
-- 📍 **Location:** Fairfax, VA
+### [Social Worker Hospice Inpatient Part Time Days](https://www.linkedin.com/jobs/view/4465423327/) — Northwestern Memorial Hospital
+- 📍 **Location:** Chicago, IL
+- 💰 **Salary:** $33.50 - $43.55
 - 🕒 **Posted:** 2026-09-12
 
-### [Case Manager RN](https://www.linkedin.com/jobs/view/4455388404/) — HCA Florida South Shore Hospital
-- 📍 **Location:** Sun City Center, FL
+### [Supervisor/a de Aseo Hospitalario](https://www.linkedin.com/jobs/view/4466713433/) — LIMCHILE
+- 📍 **Location:** Santiago, Santiago Metropolitan Region, Chile
 - 🕒 **Posted:** 2026-09-12
 
-### [Home Health Registered Nurse, RN, Case Manager](https://www.linkedin.com/jobs/view/4419513181/) — Tufts Medicine
-- 📍 **Location:** Bedford, NH
-- 💰 **Salary:** $84,300.22 - $107,481.20
+### [Supervisor/a Aseo Hospitalario - Estación Central](https://www.linkedin.com/jobs/view/4466713421/) — LIMCHILE
+- 📍 **Location:** Santiago, Santiago Metropolitan Region, Chile
 - 🕒 **Posted:** 2026-09-12
 
-### [Specialist, Program Manager](https://www.linkedin.com/jobs/view/4447183828/) — Publicis Re:Sources
-- 📍 **Location:** New York, NY
+### [National Operations Program Coordinator](https://www.linkedin.com/jobs/view/4466708490/) — Bureau of Meteorology
+- 📍 **Location:** Cairns, Queensland, Australia
 - 🕒 **Posted:** 2026-09-12
 
-### [Full Time Social Worker, LMSW - Hospice, Saratoga/Schenectady/Montgomery County Regions](https://www.linkedin.com/jobs/view/4447202163/) — IHA
-- 📍 **Location:** Saratoga Springs, NY
-- 💰 **Salary:** $30.00 - $43.08
+### [MEP Supervisor](https://www.linkedin.com/jobs/view/4465428187/) — STS Group
+- 📍 **Location:** Dhaka, Bangladesh
+- 🕒 **Posted:** 2026-09-12
+
+### [Temporary Social Worker](https://www.linkedin.com/jobs/view/4465431124/) — HPEDSB - Hastings and Prince Edward District School Board
+- 📍 **Location:** Belleville, Ontario, Canada
+- 💰 **Salary:** $88,014 - $93,592
+- 🕒 **Posted:** 2026-09-12
+
+### [SUPERVISOR CLINICO, jornada 10 HS., CDC LAS ARAUCANIA](https://www.linkedin.com/jobs/view/4466716355/) — Fundación Ciudad del Niño
+- 📍 **Location:** Angol, Araucanía Region, Chile
+- 🕒 **Posted:** 2026-09-12
+
+### [Intake Social Worker Behavioral Health Casual Days](https://www.linkedin.com/jobs/view/4465427197/) — Northwestern Medicine
+- 📍 **Location:** Palos Heights, IL
+- 💰 **Salary:** $32.51 - $45.51
 - 🕒 **Posted:** 2026-09-12
