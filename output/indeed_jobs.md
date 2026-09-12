@@ -1,30 +1,37 @@
 # 🟦 Indeed — Social Worker Roles
-*Last updated: 2026-09-12 06:45 UTC*
+*Last updated: 2026-09-12 18:19 UTC*
 
-**4 new role(s)** since last run · 11 total in last 24h
+**5 new role(s)** since last run · 11 total in last 24h
 
-### [Full-Time Assisted Living Care Coordinator](https://www.indeed.com/viewjob?jk=34220a49c471001d) — Kavod Senior Life
-- 📍 **Location:** Denver, CO, US
-- 💰 **Salary:** $25–$30/hr
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-09-11
-
-### [Peer Support Specialist - Part Time](https://www.indeed.com/viewjob?jk=4977f339786f69af) — Behavioral Treatment Services
-- 📍 **Location:** Lakewood, CO, US
-- **Work mode:** On-site
+### [Behavioral Health Specialist I](https://www.indeed.com/viewjob?jk=c34f25f6903c22c6) — UCHealth
+- 📍 **Location:** Aurora, CO, US
+- 💰 **Salary:** $20–$27/hr
+- **Work mode:** Remote in-state eligible
 - **Job type:** parttime
 - 🕒 **Posted:** 2026-09-11
 
-### [Social Worker](https://www.indeed.com/viewjob?jk=55809926324c9d7b) — US Department of Veterans Affairs
-- 📍 **Location:** Santa Maria, CA, US
-- 💰 **Salary:** $79k–$124k/yr
+### [Hospice Registered Nurse RN - Case Manager](https://www.indeed.com/viewjob?jk=3eabe35cf483ba19) — Otterbein SeniorLife
+- 📍 **Location:** Maineville, OH, US
 - **Work mode:** Remote in-state eligible
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-09-11
 
-### [Hospice Registered Nurse RN - Case Manager](https://www.indeed.com/viewjob?jk=9ff475e76ea549a2) — Otterbein SeniorLife
-- 📍 **Location:** Springboro, OH, US
+### [Remote Registered Nurse (RN) Care Coordinator – CCM/RPM (Compact Multistate License Required)](https://www.indeed.com/viewjob?jk=fd4dba7c03801183) — ColigoMed
+- 📍 **Location:** Remote, US
+- 💰 **Salary:** $32–$35/hr
 - **Work mode:** Remote in-state eligible
-- **Job type:** fulltime
+- **Job type:** contract
+- 🕒 **Posted:** 2026-09-12
+
+### [Training Coordinator](https://www.indeed.com/viewjob?jk=5b0da6835a84bd80) — AmeriSave Mortgage
+- 📍 **Location:** Remote, US
+- 💰 **Salary:** $65k–$70k/yr
+- **Work mode:** Remote in-state eligible
+- 🕒 **Posted:** 2026-09-11
+
+### [Clinical Supervisor](https://www.indeed.com/viewjob?jk=6c01819496773948) — Unknown
+- 📍 **Location:** Remote, US
+- 💰 **Salary:** $22–$55/hr
+- **Work mode:** Remote in-state eligible
+- **Job type:** parttime, contract
 - 🕒 **Posted:** 2026-09-11
