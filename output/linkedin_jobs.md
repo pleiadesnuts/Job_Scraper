@@ -1,63 +1,64 @@
 # 🔥 LinkedIn — Social Worker Roles
-*Last updated: 2026-09-14 01:22 UTC*
+*Last updated: 2026-09-14 06:33 UTC*
 
 **14 new role(s)** since last run · 14 total in last 1h
 
-### [Social Worker](https://www.linkedin.com/jobs/view/4466794958/) — East Sussex County Council
-- 📍 **Location:** Lewes, England, United Kingdom
+### [Case Manager RN - Per Diem](https://www.linkedin.com/jobs/view/4465722084/) — UnitedHealth Group
+- 📍 **Location:** Boulder, CO
+- 💰 **Salary:** $29.00 to $52.00 per hour
 - 🕒 **Posted:** 2026-09-14
 
-### [Social Worker - Through Care Team](https://www.linkedin.com/jobs/view/4467000902/) — East Sussex County Council
-- 📍 **Location:** Eastbourne, England, United Kingdom
+### [CAMHS Senior Social Worker](https://www.linkedin.com/jobs/view/4465716196/) — Hunter New England Local Health District
+- 📍 **Location:** Charlestown, New South Wales, Australia
+- 💰 **Salary:** $66.36 - $67.97 Per Hour
 - 🕒 **Posted:** 2026-09-14
 
-### [Social Worker Children's Disability Service](https://www.linkedin.com/jobs/view/4467001795/) — East Sussex County Council
-- 📍 **Location:** Eastbourne, England, United Kingdom
+### [Outdoor Recreation and Interpretation Program Coordinator (Natural Resource Program Specialist 2)](https://www.linkedin.com/jobs/view/4467037620/) — Commonwealth of Pennsylvania
+- 📍 **Location:** Dauphin County, PA
 - 🕒 **Posted:** 2026-09-14
 
-### [Program Manager, Surgery & OBGYN, PM&R](https://www.linkedin.com/jobs/view/4465496427/) — Charles R. Drew University of Medicine and Science
-- 📍 **Location:** Los Angeles, CA
-- 💰 **Salary:** $70,600.00 - $85,000.00 Annually
+### [PALM (Pacific Australia Labour Mobility) Program Coordinator](https://www.linkedin.com/jobs/view/4467027626/) — Flavorite Group
+- 📍 **Location:** Victoria, Australia
 - 🕒 **Posted:** 2026-09-14
 
-### [Product Innovation Program Manager](https://www.linkedin.com/jobs/view/4464650967/) — FuseGlobal
-- 📍 **Location:** St Louis, MO
+### [Program Manager](https://www.linkedin.com/jobs/view/4465725144/) — Virohan
+- 📍 **Location:** Gurugram, Haryana, India
 - 🕒 **Posted:** 2026-09-14
 
-### [Case Manager](https://www.linkedin.com/jobs/view/4465489444/) — MVM Consulting Inc.
-- 📍 **Location:** Sterling Heights, MI
+### [Administration Team Leader - Bookings](https://www.linkedin.com/jobs/view/4465734135/) — Nexus Hospitals
+- 📍 **Location:** Southport, Queensland, Australia
 - 🕒 **Posted:** 2026-09-14
 
-### [Senior Case Manager - Nugel](https://www.linkedin.com/jobs/view/4466046226/) — VACCA - Victorian Aboriginal Child and Community Agency
-- 📍 **Location:** Melton, Victoria, Australia
-- 💰 **Salary:** $105,581 to $119,073
+### [Social Worker – Inpatient & CPEP– Per Diem](https://www.linkedin.com/jobs/view/4467047356/) — NewYork-Presbyterian Hospital
+- 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-09-14
 
-### [Court Case Manager](https://www.linkedin.com/jobs/view/4464741852/) — CITY OF MISSOULA
-- 📍 **Location:** Missoula, MT
-- 💰 **Salary:** $28.14 - $30.92 Hourly
+### [Program Coordinator - Experiential Learning](https://www.linkedin.com/jobs/view/4465734139/) — GoSharpener
+- 📍 **Location:** Delhi, India
 - 🕒 **Posted:** 2026-09-14
 
-### [Social Worker](https://www.linkedin.com/jobs/view/4461687720/) — Derbyshire County Council
-- 📍 **Location:** Derby, England, United Kingdom
+### [Case Manager RN](https://www.linkedin.com/jobs/view/4465726139/) — UnitedHealth Group
+- 📍 **Location:** Waukesha, WI
+- 💰 **Salary:** $60,200 to $107,400 annually
 - 🕒 **Posted:** 2026-09-14
 
-### [Remote Bilingual Patient Care Coordinator (EN/ES)](https://www.linkedin.com/jobs/view/4464766006/) — BruntWork
-- 📍 **Location:** Latin America
+### [Case Manager, Registered Nurse](https://www.linkedin.com/jobs/view/4467041716/) — CVS Health
+- 📍 **Location:** Miami-Fort Lauderdale Area
+- 💰 **Salary:** $60,522.00 - $129,615.00
 - 🕒 **Posted:** 2026-09-14
 
-### [Supervisor-Occupational Safety & Health](https://www.linkedin.com/jobs/view/4467002873/) — The HSE Leader™
-- 📍 **Location:** Medina, Al Madinah, Saudi Arabia
+### [Case Manager Level 2](https://www.linkedin.com/jobs/view/4467046557/) — Allianz Australia
+- 📍 **Location:** Whitebridge, New South Wales, Australia
 - 🕒 **Posted:** 2026-09-14
 
-### [Spa Supervisor](https://www.linkedin.com/jobs/view/4433036270/) — Minor Hotels
-- 📍 **Location:** Linh Xá, Thanh Hoa, Vietnam
+### [Clinic Office Supervisor - Boise Heart Institute Full-Time](https://www.linkedin.com/jobs/view/4467041672/) — Saint Alphonsus
+- 📍 **Location:** Boise, ID
 - 🕒 **Posted:** 2026-09-14
 
-### [Youth Assistant House Supervisor](https://www.linkedin.com/jobs/view/4464762061/) — MacKillop Family Services
-- 📍 **Location:** South Geelong, Victoria, Australia
+### [Program Manager- Homelessness, Mental Health & AOD](https://www.linkedin.com/jobs/view/4467043518/) — CatholicCare Diocese Of Broken Bay
+- 📍 **Location:** Hornsby, New South Wales, Australia
 - 🕒 **Posted:** 2026-09-14
 
-### [Supervising Social Worker Fostering](https://www.linkedin.com/jobs/view/4466793900/) — East Sussex County Council
-- 📍 **Location:** Eastbourne, England, United Kingdom
+### [Social Worker 1 - Torrance State Hospital](https://www.linkedin.com/jobs/view/4466356304/) — Commonwealth of Pennsylvania
+- 📍 **Location:** Westmoreland County, PA
 - 🕒 **Posted:** 2026-09-14
