@@ -1,52 +1,64 @@
 # 🟦 Indeed — Social Worker Roles
-*Last updated: 2026-09-15 08:17 UTC*
+*Last updated: 2026-09-15 19:41 UTC*
 
-**7 new role(s)** since last run · 7 total in last 24h
+**9 new role(s)** since last run · 15 total in last 24h
 
-### [Case Manager, Registered Nurse (Oncology experience required)](https://www.indeed.com/viewjob?jk=3ae5beb073f175bd) — CVS Health
+### [Operating Room Supervisor](https://www.indeed.com/viewjob?jk=7afd23b395d70007) — Cheyenne Regional Medical Center
 - 📍 **Location:** Cheyenne, WY, US
-- 💰 **Salary:** $54k–$156k/yr
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-09-15
+
+### [RN Case Manager](https://www.indeed.com/viewjob?jk=a498b06af001edb0) — Cheyenne Regional Medical Center
+- 📍 **Location:** Cheyenne, WY, US
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-09-15
+
+### [Case Manager](https://www.indeed.com/viewjob?jk=f4092f27f616a96d) — Ernest Health
+- 📍 **Location:** Thornton, CO, US
+- 💰 **Salary:** $83k–$125k/yr
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-09-14
+
+### [Hospice Social Worker](https://www.indeed.com/viewjob?jk=bcec3746fa47e8bf) — Mountain Ridge Hospice
+- 📍 **Location:** Centennial, CO, US
+- 💰 **Salary:** $30–$31/hr
+- **Work mode:** On-site
+- **Job type:** parttime
+- 🕒 **Posted:** 2026-09-15
+
+### [Recruitment and Training Coordinator (City)](https://www.indeed.com/viewjob?jk=23fd33f65a4f22af) — CITY OF GREENWOOD VILLAGE
+- 📍 **Location:** Greenwood Village, CO, US
+- 💰 **Salary:** $36–$50/hr
 - **Work mode:** Remote in-state eligible
 - **Job type:** fulltime
-- 🕒 **Posted:** 2026-09-14
+- 🕒 **Posted:** 2026-09-15
 
-### [Peer Support Specialist](https://www.indeed.com/viewjob?jk=3b5203f23529b065) — Volunteers of America
+### [Board-Certified Behavior Analyst (BCBA) - Clinical Supervisor](https://www.indeed.com/viewjob?jk=436e0bebae2ac0e5) — Evoke Behavioral Health
+- 📍 **Location:** Arvada, CO, US
+- 💰 **Salary:** $75k–$87k/yr
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-09-15
+
+### [988 Colorado Crisis Line (CCL) - Program Manager](https://www.indeed.com/viewjob?jk=b34af3dbbb14295a) — State of Colorado
 - 📍 **Location:** Denver, CO, US
-- 💰 **Salary:** $22–$23/hr
-- **Work mode:** On-site
+- 💰 **Salary:** $91k–$146k/yr
+- **Work mode:** Remote in-state eligible
 - **Job type:** fulltime
-- 🕒 **Posted:** 2026-09-14
+- 🕒 **Posted:** 2026-09-10
 
-### [Clinic RN Case Manager](https://www.indeed.com/viewjob?jk=9ac8332999dbe020) — TRU Community Care
-- 📍 **Location:** Lafayette, CO, US
-- 💰 **Salary:** $88k–$106k/yr
-- **Work mode:** On-site
+### [Remote Mental Health Case Manager](https://www.indeed.com/viewjob?jk=31f6447939bc5a81) — 2C-Health Solutions
+- 📍 **Location:** Remote, US
+- 💰 **Salary:** $23–$30/hr
+- **Work mode:** Remote in-state eligible
 - **Job type:** fulltime
-- 🕒 **Posted:** 2026-09-14
+- 🕒 **Posted:** 2026-09-15
 
-### [Memory Care Program Coordinator](https://www.indeed.com/viewjob?jk=8cf0231049719f6c) — Brookdale Senior Living
-- 📍 **Location:** Highlands Ranch, CO, US
-- 💰 **Salary:** $20–$25/hr
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-09-14
-
-### [PACE Social Worker](https://www.indeed.com/viewjob?jk=6b4ce7d0a7acd2f3) — TRU Community Care
-- 📍 **Location:** Lafayette, CO, US
-- 💰 **Salary:** $69k–$92k/yr
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-09-14
-
-### [SOCIAL WORKER, HOURLY (Central Pool 2026 - 2027 School Year)](https://www.indeed.com/viewjob?jk=89ed305838139269) — Denver Public Schools
-- 📍 **Location:** Denver, CO, US
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-09-14
-
-### [Case Manager, Registered Nurse (Oncology experience required)](https://www.indeed.com/viewjob?jk=9fe303cd42789f49) — CVS Health
-- 📍 **Location:** Denver, CO, US
-- 💰 **Salary:** $54k–$156k/yr
+### [Senior Public Health Educator](https://www.indeed.com/viewjob?jk=cb033f98b7d34a1b) — Culmen International, LLC
+- 📍 **Location:** Remote, US
 - **Work mode:** Remote in-state eligible
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-09-14
