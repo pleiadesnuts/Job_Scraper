@@ -1,56 +1,73 @@
 # 🟦 Indeed — Social Worker Roles
-*Last updated: 2026-09-16 06:45 UTC*
+*Last updated: 2026-09-16 19:37 UTC*
 
-**8 new role(s)** since last run · 16 total in last 24h
+**11 new role(s)** since last run · 18 total in last 24h
 
-### [Program Manager](https://www.indeed.com/viewjob?jk=a9dedeb349e42bfb) — Gates Corporation
-- 📍 **Location:** Denver, CO, US
-- 💰 **Salary:** $140k–$170k/yr
+### [Behavioral Health Specialist, Social Work/Counselor II - Platte Valley Youth Services Center](https://www.indeed.com/viewjob?jk=b97e92ac363ccfd9) — State of Colorado
+- 📍 **Location:** Greeley, CO, US
+- **Work mode:** Remote in-state eligible
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-09-11
+
+### [Behavioral Health Specialist, Social Work/Counselor II - Campus at Mount View YSC](https://www.indeed.com/viewjob?jk=bc6495d786fb30aa) — State of Colorado
+- 📍 **Location:** Lakewood, CO, US
+- **Work mode:** Remote in-state eligible
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-09-09
+
+### [Behavioral Health Specialist, Social Work/Counselor III - Marvin Foote](https://www.indeed.com/viewjob?jk=aa5d957dfa61f743) — State of Colorado
+- 📍 **Location:** Centennial, CO, US
+- **Work mode:** Remote in-state eligible
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-09-03
+
+### [Social Worker- Community Nursing Home](https://www.indeed.com/viewjob?jk=773f0e5392ce91c5) — US Department of Veterans Affairs
+- 📍 **Location:** Aurora, CO, US
+- **Work mode:** Remote in-state eligible
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-09-16
+
+### [School Social Worker](https://www.indeed.com/viewjob?jk=bba1b7b100491f1c) — Pediatric Developmental Services
+- 📍 **Location:** Aurora, CO, US
+- 💰 **Salary:** $45–$55/hr
 - **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-09-15
-
-### [Shallow Subsidy Case Manager I](https://www.indeed.com/viewjob?jk=2e37ffa391d18b5a) — Volunteers of America
-- 📍 **Location:** Denver, CO, US
-- 💰 **Salary:** $22–$24/hr
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-09-14
-
-### [Case Manager](https://www.indeed.com/viewjob?jk=f4092f27f616a96d) — Ernest Health
-- 📍 **Location:** Thornton, CO, US
-- 💰 **Salary:** $83k–$125k/yr
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-09-14
-
-### [Community Health Worker - Marshall, DeKalb, and Blount Counties](https://www.indeed.com/viewjob?jk=31352e5029738e80) — Aletheia House
-- 📍 **Location:** Remote, US
-- **Work mode:** Remote in-state eligible
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-09-15
-
-### [Community Health Worker - Lauderdale, Colbert, and Franklin Counties](https://www.indeed.com/viewjob?jk=0da2c4d0b41803fe) — Aletheia House
-- 📍 **Location:** Remote, US
-- **Work mode:** Remote in-state eligible
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-09-15
-
-### [Community Health Worker - Walker, Winston and Cullman Counties](https://www.indeed.com/viewjob?jk=532f7613855c5ba4) — Aletheia House
-- 📍 **Location:** Remote, US
-- **Work mode:** Remote in-state eligible
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-09-15
-
-### [Clinical Program Manager, Interpersonal Violence Reduction Program](https://www.indeed.com/viewjob?jk=795f9e46281cbc22) — Mindoula Health
-- 📍 **Location:** Remote, US
-- **Work mode:** Remote in-state eligible
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-09-01
-
-### [Program Manager & Team Coordinator](https://www.indeed.com/viewjob?jk=0508ab9f254b4494) — Maleda Tech
-- 📍 **Location:** Remote, US
-- 💰 **Salary:** $35–$41/hr
-- **Work mode:** Remote in-state eligible
 - **Job type:** contract
-- 🕒 **Posted:** 2026-09-01
+- 🕒 **Posted:** 2026-09-16
+
+### [Community Health Worker](https://www.indeed.com/viewjob?jk=17dc679811037b8d) — Oak Street Health, part of CVS Health
+- 📍 **Location:** Commerce City, CO, US
+- 💰 **Salary:** $18–$38/hr
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-09-16
+
+### [Social Worker, MSW](https://www.indeed.com/viewjob?jk=e9a5651a411789e3) — InnovAge
+- 📍 **Location:** Denver, CO, US
+- 💰 **Salary:** $64k–$81k/yr
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-09-15
+
+### [Admissions Care Coordinator- Evernorth- Remote](https://www.indeed.com/viewjob?jk=ee3b4d57862c08a1) — The Cigna Group
+- 📍 **Location:** Remote, US
+- 💰 **Salary:** $20–$30/hr
+- **Work mode:** Remote in-state eligible
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-09-16
+
+### [Marketing Program Coordinator](https://www.indeed.com/viewjob?jk=4b6e570a8bc9f668) — Empowerly
+- 📍 **Location:** Remote, US
+- **Work mode:** Remote in-state eligible
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-09-16
+
+### [Training Coordinator](https://www.indeed.com/viewjob?jk=3c3a61f90e9d04c1) — MetaPhase Consulting
+- 📍 **Location:** Remote, US
+- **Work mode:** Remote in-state eligible
+- 🕒 **Posted:** 2026-09-16
+
+### [Program Manager, Product Development (Remote - US)](https://www.indeed.com/viewjob?jk=ac2ea410f56c22b0) — Nextech Systems
+- 📍 **Location:** Remote, US
+- **Work mode:** Remote in-state eligible
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-09-16
