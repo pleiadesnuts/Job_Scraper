@@ -1,69 +1,68 @@
 # 🟦 Indeed — Social Worker Roles
-*Last updated: 2026-09-17 01:08 UTC*
+*Last updated: 2026-09-17 06:49 UTC*
 
-**10 new role(s)** since last run · 23 total in last 24h
+**10 new role(s)** since last run · 25 total in last 24h
 
-### [RN Case Manager (Float)](https://www.indeed.com/viewjob?jk=786c9755ce95d50f) — THE DENVER HOSPICE
+### [Case Manager I](https://www.indeed.com/viewjob?jk=46b3cc30588043ca) — COLORADO COALITION FOR THE HOMELESS
 - 📍 **Location:** Denver, CO, US
-- 💰 **Salary:** $87k–$98k/yr
+- 💰 **Salary:** $20–$25/hr
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-09-16
 
-### [Patient Ambassador - Infusion Care Coordinator](https://www.indeed.com/viewjob?jk=a2d58fef15c2385b) — Soleo Health
-- 📍 **Location:** Centennial, CO, US
-- 💰 **Salary:** $24–$28/hr
-- **Work mode:** Remote in-state eligible
+### [Case Manager I](https://www.indeed.com/viewjob?jk=91ace230aa609e45) — COLORADO COALITION FOR THE HOMELESS
+- 📍 **Location:** Denver, CO, US
+- 💰 **Salary:** $20–$25/hr
+- **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-09-16
 
-### [Behavioral Health Specialist](https://www.indeed.com/viewjob?jk=04e9dacae9fc9ff9) — Children's Hospital Colorado
+### [Warehouse Supervisor](https://www.indeed.com/viewjob?jk=14dce648496cf423) — Keurig Dr Pepper
+- 📍 **Location:** Denver, CO, US
+- 💰 **Salary:** $75k–$82k/yr
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-09-16
+
+### [Care Coordinator - Gynecology](https://www.indeed.com/viewjob?jk=7f8ee838bae2ec7f) — UCHealth
 - 📍 **Location:** Aurora, CO, US
-- 💰 **Salary:** $22–$33/hr
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-09-16
-
-### [Jail-Based Peer Support Specialist | Justice Services](https://www.indeed.com/viewjob?jk=2b00dde65426f734) — Clinica Family Health & Wellness
-- 📍 **Location:** Boulder, CO, US
-- **Work mode:** On-site
-- 🕒 **Posted:** 2026-08-27
-
-### [Military/Veteran Peer Support Specialist III](https://www.indeed.com/viewjob?jk=85ed33fecd207b13) — Rutgers University
-- 📍 **Location:** Remote, US
+- 💰 **Salary:** $21–$27/hr
 - **Work mode:** Remote in-state eligible
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-09-16
 
-### [Military/Veteran Peer Support Specialist III](https://www.indeed.com/viewjob?jk=34cb914540adecb1) — Rutgers University
+### [Behavioral Health Specialist I](https://www.indeed.com/viewjob?jk=5e98118d6ea487cd) — UCHealth
+- 📍 **Location:** Aurora, CO, US
+- 💰 **Salary:** $20–$27/hr
+- **Work mode:** Remote in-state eligible
+- **Job type:** parttime
+- 🕒 **Posted:** 2026-09-16
+
+### [Behavioral Health Specialist I](https://www.indeed.com/viewjob?jk=0f7c832a2c9a3cac) — UCHealth
+- 📍 **Location:** Aurora, CO, US
+- 💰 **Salary:** $20–$27/hr
+- **Work mode:** Remote in-state eligible
+- 🕒 **Posted:** 2026-09-16
+
+### [Community Health Worker Certified](https://www.indeed.com/viewjob?jk=44b81847eac3440b) — Geisinger
 - 📍 **Location:** Remote, US
 - **Work mode:** Remote in-state eligible
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-09-16
 
-### [Remote Care Coordinator Nurse](https://www.indeed.com/viewjob?jk=0ba5f7766a2297f9) — ADAPTURE
+### [Senior Technical Program Manager](https://www.indeed.com/viewjob?jk=621c6c9bbd713427) — INFINITE ELECTRONICS
 - 📍 **Location:** Remote, US
-- 💰 **Salary:** $50k–$70k/yr
 - **Work mode:** Remote in-state eligible
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-09-16
 
-### [Bilingual Spanish Interpreter](https://www.indeed.com/viewjob?jk=879446b80de14d6a) — Unknown
+### [Training Coordinator and LMS Administrative Support Specialist](https://www.indeed.com/viewjob?jk=9d2b68e77140b038) — A P Ventures LLC
 - 📍 **Location:** Remote, US
-- 💰 **Salary:** $24–$29/hr
 - **Work mode:** Remote in-state eligible
-- **Job type:** parttime, fulltime, contract
 - 🕒 **Posted:** 2026-09-16
 
-### [Admissions Care Coordinator- Evernorth- Remote](https://www.indeed.com/viewjob?jk=1746c009ae3540b5) — The Cigna Group
+### [Training Coordinator](https://www.indeed.com/viewjob?jk=b4ef64586cdf38fa) — Unknown
 - 📍 **Location:** Remote, US
-- 💰 **Salary:** $20–$30/hr
 - **Work mode:** Remote in-state eligible
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-09-16
-
-### [Wellsite Supervisor](https://www.indeed.com/viewjob?jk=81ddda84108a6066) — VIVA
-- 📍 **Location:** Remote, US
-- 💰 **Salary:** $65–$70/hr
-- **Work mode:** Remote in-state eligible
+- **Job type:** parttime
 - 🕒 **Posted:** 2026-09-16
