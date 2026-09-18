@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-09-17 19:56 UTC",
-  "total": 4,
+  "scraped_at": "2026-09-18 19:14 UTC",
+  "total": 3,
   "new_count": 0,
   "jobs": [
     {
@@ -38,18 +38,6 @@
       "telework": "In Office",
       "job_type": "Permanent, Full Time",
       "work_arrangement": "On-site"
-    },
-    {
-      "company": "California Energy Commission",
-      "title": "CEQA Project Management Unit Supervisor",
-      "location": "Sacramento County",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=530167",
-      "date_posted": "2026-08-27",
-      "salary": "$12562.00 - $15724.00",
-      "ats": "CalCareers",
-      "telework": "Hybrid",
-      "job_type": "Permanent, Full Time",
-      "work_arrangement": "Telecommute eligible"
     }
   ],
   "new_jobs": []
