@@ -1,153 +1,216 @@
 # 🔥 LinkedIn — Social Worker Roles
-*Last updated: 2026-09-18 06:19 UTC*
+*Last updated: 2026-09-18 18:47 UTC*
 
-**35 new role(s)** since last run · 35 total in last 1h
+**50 new role(s)** since last run · 50 total in last 1h
 
-### [Behavioral Health Specialist - Waterford, Primary Care](https://www.linkedin.com/jobs/view/4469116299/) — Trinity Health
-- 📍 **Location:** Ann Arbor, MI
+### [Clinical RN Education Specialist Ambulatory](https://www.linkedin.com/jobs/view/4460110039/) — Children's Hospital Colorado
+- 📍 **Location:** Aurora, CO
+- 💰 **Salary:** $108,198.40 to $162,297.60
 - 🕒 **Posted:** 2026-09-18
 
-### [Substance Abuse Counselor (Master's Degree Required)](https://www.linkedin.com/jobs/view/4466665240/) — New Season
-- 📍 **Location:** Leesburg, FL
+### [Patient Care Coordinator - OB-GYN](https://www.linkedin.com/jobs/view/4468005356/) — Seacrest Behavioral Health
+- 📍 **Location:** Littleton, CO
+- 💰 **Salary:** $20-$24 per hour
 - 🕒 **Posted:** 2026-09-18
 
-### [Program Coordinator](https://www.linkedin.com/jobs/view/4466652608/) — Premont Independent School Dst
-- 📍 **Location:** Premont, TX
+### [Patient Care Coordinator](https://www.linkedin.com/jobs/view/4468011255/) — MEP Health
+- 📍 **Location:** Littleton, CO
+- 💰 **Salary:** $20-$24 per hour
 - 🕒 **Posted:** 2026-09-18
 
-### [Program Coordinator - Ortho MedSurg Unit](https://www.linkedin.com/jobs/view/4469109339/) — Saint Alphonsus
-- 📍 **Location:** Baker City, OR
+### [Respiratory Therapy Supervisor](https://www.linkedin.com/jobs/view/4467894637/) — Mental Health Association of Rochester
+- 📍 **Location:** Aurora, CO
 - 🕒 **Posted:** 2026-09-18
 
-### [Program Coordinator - Ortho MedSurg Unit](https://www.linkedin.com/jobs/view/4469116339/) — Trinity Health
-- 📍 **Location:** Baker City, OR
+### [Hospice RN Case Manager,](https://www.linkedin.com/jobs/view/4466921265/) — UnitedHealth Group
+- 📍 **Location:** Denver, CO
+- 💰 **Salary:** $87,560 to $131,340 annually
 - 🕒 **Posted:** 2026-09-18
 
-### [Equity of Access, Program Coordinator](https://www.linkedin.com/jobs/view/4469111120/) — Australian Financial Complaints Authority
-- 📍 **Location:** Sydney, New South Wales, Australia
+### [Behavioral Health Specialist](https://www.linkedin.com/jobs/view/4426534026/) — Children's Hospital Colorado
+- 📍 **Location:** Colorado Springs, CO
+- 💰 **Salary:** $21.35 to $32.03
 - 🕒 **Posted:** 2026-09-18
 
-### [Equity of Access, Program Coordinator](https://www.linkedin.com/jobs/view/4468898347/) — Australian Financial Complaints Authority
-- 📍 **Location:** Melbourne, Victoria, Australia
+### [Youth Work Team Leader – Hospital Project](https://www.linkedin.com/jobs/view/4459010626/) — Essex County Council
+- 📍 **Location:** Basildon, England, United Kingdom
 - 🕒 **Posted:** 2026-09-18
 
-### [Registered Nurse-Magnet Program Coordinator](https://www.linkedin.com/jobs/view/4447093240/) — IHA
-- 📍 **Location:** Pontiac, MI
+### [Education Program Coordinator II - Family Medicine](https://www.linkedin.com/jobs/view/4450622497/) — Medical College of Wisconsin
+- 📍 **Location:** Milwaukee, WI
 - 🕒 **Posted:** 2026-09-18
 
-### [Training Coordinator](https://www.linkedin.com/jobs/view/4468899628/) — NIIT
-- 📍 **Location:** Toulouse, Occitanie, France
+### [Interpretive Program Coordinator](https://www.linkedin.com/jobs/view/4468001121/) — The Toledo Zoo & Aquarium
+- 📍 **Location:** Toledo, Ohio Metropolitan Area
 - 🕒 **Posted:** 2026-09-18
 
-### [Clinical Care Coordinator & Nurse Mentor](https://www.linkedin.com/jobs/view/4467185418/) — Infinite Aged Care
-- 📍 **Location:** Westbrook, Queensland, Australia
+### [Program Coordinator, Awards](https://www.linkedin.com/jobs/view/4468001486/) — American Heart Association
+- 📍 **Location:** Dallas, TX
 - 🕒 **Posted:** 2026-09-18
 
-### [Program Coordinator | Kadina](https://www.linkedin.com/jobs/view/4460664101/) — Novita
-- 📍 **Location:** Kadina, South Australia, Australia
+### [Community Care Coordinator](https://www.linkedin.com/jobs/view/4469202865/) — Children's Hospital of The King's Daughters
+- 📍 **Location:** Norfolk, VA
 - 🕒 **Posted:** 2026-09-18
 
-### [Associate Clinical Social Worker (ASW)](https://www.linkedin.com/jobs/view/4469111219/) — LifeLong Medical Care
-- 📍 **Location:** Oakland, CA
-- 💰 **Salary:** $70,304.00/yr - $70,304.00/yr
+### [Program Coordinator](https://www.linkedin.com/jobs/view/4469212664/) — University of Massachusetts Amherst
+- 📍 **Location:** Amherst, MA
 - 🕒 **Posted:** 2026-09-18
 
-### [Medical Social Worker (LMSW)](https://www.linkedin.com/jobs/view/4469102350/) — Trinity Health At Home
-- 📍 **Location:** Livonia, MI
+### [Program Supervisor](https://www.linkedin.com/jobs/view/4468007205/) — Health Wealth Safe
+- 📍 **Location:** Maryville, TN
 - 🕒 **Posted:** 2026-09-18
 
-### [Youth Service Program Supervisor](https://www.linkedin.com/jobs/view/4465596270/) — Commonwealth of Kentucky
-- 📍 **Location:** Morehead, KY
-- 💰 **Salary:** $62,570.64 - $92,015.04 Annually
+### [Care Coordinator](https://www.linkedin.com/jobs/view/4467890753/) — Home Care Association of America
+- 📍 **Location:** Oklahoma City Metropolitan Area
 - 🕒 **Posted:** 2026-09-18
 
-### [Peer Support Specialist](https://www.linkedin.com/jobs/view/4469108378/) — Trinity Health Senior Communities
-- 📍 **Location:** Atlanta, GA
+### [Career Preparation Counseling Supervisor](https://www.linkedin.com/jobs/view/4422152649/) — Chugach Government Solutions, LLC
+- 📍 **Location:** Gadsden, AL
 - 🕒 **Posted:** 2026-09-18
 
-### [Social Worker](https://www.linkedin.com/jobs/view/4469114162/) — DaVita Kidney Care
-- 📍 **Location:** Winfield, KS
+### [***Cabarrus Hiring Event*** - Youth Counselor - Wednesday, October 7, 2026 from 9:00am - 3:30pm.](https://www.linkedin.com/jobs/view/4466918283/) — North Carolina Department of Public Safety
+- 📍 **Location:** Cabarrus County, NC
 - 🕒 **Posted:** 2026-09-18
 
-### [ASSISTANT CASE MANAGER-CASE AIDE](https://www.linkedin.com/jobs/view/4467836461/) — Arizona Department of Child Safety
-- 📍 **Location:** Tucson, AZ
+### [Licensed Independent Social Worker - Adult Behavioral Health Unit](https://www.linkedin.com/jobs/view/4427567426/) — Mercy Health
+- 📍 **Location:** Defiance, OH
 - 🕒 **Posted:** 2026-09-18
 
-### [ASSISTANT CASE MANAGER-CASE AIDE](https://www.linkedin.com/jobs/view/4467828668/) — Arizona Department of Child Safety
-- 📍 **Location:** Peoria Metropolitan Area
+### [Social Worker (MSW) - 40/hrs, Day Shifts - Temple Health Chestnut Hill Hospital](https://www.linkedin.com/jobs/view/4469205773/) — Temple Health – Temple University Health System
+- 📍 **Location:** Philadelphia, PA
 - 🕒 **Posted:** 2026-09-18
 
-### [Case Manager Substance Use Specialist - Community Outreach 269](https://www.linkedin.com/jobs/view/4469105386/) — Telecare Corporation
-- 📍 **Location:** Tukwila, WA
-- 💰 **Salary:** $21.65 - $26.25
+### [Bilingual Spanish Sr. Community Health Worker (Riverside)](https://www.linkedin.com/jobs/view/4419635916/) — SCAN
+- 📍 **Location:** Riverside, CA
+- 💰 **Salary:** $25.38 to $35.01 per hour
 - 🕒 **Posted:** 2026-09-18
 
-### [Clinic Supervisor (Bilingual)](https://www.linkedin.com/jobs/view/4469105571/) — Centro Med Clinic
-- 📍 **Location:** Guerra, TX
+### [Community Health Worker](https://www.linkedin.com/jobs/view/4466928092/) — MultiCare Health System
+- 📍 **Location:** Tacoma, WA
+- 💰 **Salary:** $24.83 - $35.71 USD
 - 🕒 **Posted:** 2026-09-18
 
-### [Peer Support Specialist](https://www.linkedin.com/jobs/view/4468894805/) — Trinity Health
-- 📍 **Location:** Atlanta, GA
+### [Family Strengthening Case Manager](https://www.linkedin.com/jobs/view/4459896344/) — Bethany Christian Services
+- 📍 **Location:** Lisle, IL
 - 🕒 **Posted:** 2026-09-18
 
-### [Childcare Coordinator (Club Med Phuket, Thailand) Club Med Phuket](https://www.linkedin.com/jobs/view/4468893767/) — Club Med
-- 📍 **Location:** Pattaya, Chon Buri, Thailand
+### [Care Coordinator – Refugee Employment](https://www.linkedin.com/jobs/view/4468009187/) — AccessHealth
+- 📍 **Location:** North Lake, WI
 - 🕒 **Posted:** 2026-09-18
 
-### [Childcare Coordinator (Club Med Phuket, Thailand) Club Med Phuket](https://www.linkedin.com/jobs/view/4468899544/) — Club Med
-- 📍 **Location:** Hat Yai, Songkhla, Thailand
+### [Community Health Worker Certified](https://www.linkedin.com/jobs/view/4466920246/) — Geisinger
+- 📍 **Location:** Danville, PA
 - 🕒 **Posted:** 2026-09-18
 
-### [Patient Care Coordinator - Dawson Dental East York](https://www.linkedin.com/jobs/view/4467829682/) — Dentalcorp
-- 📍 **Location:** Toronto, Ontario, Canada
-- 💰 **Salary:** $25-$30 /hour
+### [Family Support Worker](https://www.linkedin.com/jobs/view/4467898520/) — Derbyshire County Council
+- 📍 **Location:** Derby, England, United Kingdom
 - 🕒 **Posted:** 2026-09-18
 
-### [Registered Nurse (RN) Inpatient Care Coordinator](https://www.linkedin.com/jobs/view/4469106449/) — Trinity Health Of New England
-- 📍 **Location:** Springfield, MA
-- 💰 **Salary:** $83,304.00 to $133,328.00
+### [Central Intake Specialist for Care Management Services](https://www.linkedin.com/jobs/view/4468007440/) — CHSGa
+- 📍 **Location:** Gray, GA
 - 🕒 **Posted:** 2026-09-18
 
-### [Registered Nurse (RN) Inpatient Care Coordinator](https://www.linkedin.com/jobs/view/4469101580/) — Trinity Health
-- 📍 **Location:** Springfield, MA
-- 💰 **Salary:** $83,304.00 to $133,328.00
+### [CCBHC Peer Support Specialist-OP IL](https://www.linkedin.com/jobs/view/4466922282/) — Rosecrance Behavioral Health
+- 📍 **Location:** Champaign, IL
 - 🕒 **Posted:** 2026-09-18
 
-### [Patient Care Coordinator](https://www.linkedin.com/jobs/view/4466653508/) — AEG Vision
-- 📍 **Location:** Glendale, AZ
+### [Certified Peer Support Specialist](https://www.linkedin.com/jobs/view/4468001333/) — Alpha Home Health and Hospice
+- 📍 **Location:** Greendale, WI
 - 🕒 **Posted:** 2026-09-18
 
-### [Patient Care Coordinator](https://www.linkedin.com/jobs/view/4445621093/) — AEG Vision
-- 📍 **Location:** Columbia, MO
+### [Peer Support Specialist Youth - SMART](https://www.linkedin.com/jobs/view/4469204798/) — The Harris Center for Mental Health and IDD
+- 📍 **Location:** Houston, TX
 - 🕒 **Posted:** 2026-09-18
 
-### [RN Case Manager](https://www.linkedin.com/jobs/view/4469104516/) — AMEDISYS HOME HEALTH
-- 📍 **Location:** Roanoke, VA
-- 💰 **Salary:** $74,000 to $92,000
+### [Intake Specialist - Part Time - Mercy STL- Nights/Evenings](https://www.linkedin.com/jobs/view/4458698480/) — Mercy
+- 📍 **Location:** St Louis, MO
 - 🕒 **Posted:** 2026-09-18
 
-### [Hospice RN Case Manager](https://www.linkedin.com/jobs/view/4447091263/) — IHA
-- 📍 **Location:** Newtown, PA
+### [Clinical Care Coordinator, Ortho, Full Time, First Shift](https://www.linkedin.com/jobs/view/4469202749/) — UC Health
+- 📍 **Location:** Cincinnati, OH
 - 🕒 **Posted:** 2026-09-18
 
-### [Case Manager](https://www.linkedin.com/jobs/view/4466654632/) — Resolution Life
-- 📍 **Location:** Wellington, Wellington, New Zealand
+### [Patient Care Coordinator](https://www.linkedin.com/jobs/view/4449676944/) — Integrity Rehab Group
+- 📍 **Location:** Fayetteville, NC
 - 🕒 **Posted:** 2026-09-18
 
-### [Transformation Partner - People Transition Specialist](https://www.linkedin.com/jobs/view/4469109156/) — bp
-- 📍 **Location:** Sunbury-On-Thames, England, United Kingdom
+### [Tobacco Program Manager](https://www.linkedin.com/jobs/view/4466928085/) — Navajo County
+- 📍 **Location:** Holbrook, AZ
 - 🕒 **Posted:** 2026-09-18
 
-### [Education Specialist (Teacher)](https://www.linkedin.com/jobs/view/4469108468/) — State of Missouri
-- 📍 **Location:** Troy, MO
-- 💰 **Salary:** $2,023.00 - $2,495.51
+### [Patient Care Coordinator](https://www.linkedin.com/jobs/view/4467895505/) — Black Women's Mental Health Institute
+- 📍 **Location:** Anchorage, AK
 - 🕒 **Posted:** 2026-09-18
 
-### [Reading Program Coordinator, Alpha - $100,000/year USD](https://www.linkedin.com/jobs/view/4466831035/) — Crossover
-- 📍 **Location:** The Woodlands, TX
-- 💰 **Salary:** $100,000.00/yr - $100,000.00/yr
+### [Volunteer Coordinator](https://www.linkedin.com/jobs/view/4467896141/) — Compassus
+- 📍 **Location:** Albuquerque, NM
 - 🕒 **Posted:** 2026-09-18
 
-### [Behavioral Health Specialist - Waterford, Primary Care](https://www.linkedin.com/jobs/view/4469102583/) — Trinity Health
-- 📍 **Location:** Ann Arbor, MI
+### [Case Manager - Avellino](https://www.linkedin.com/jobs/view/4464469784/) — The Adecco Group
+- 📍 **Location:** Avellino, Campania, Italy
+- 🕒 **Posted:** 2026-09-18
+
+### [Care Coordinator](https://www.linkedin.com/jobs/view/4466570277/) — The Harris Center for Mental Health and IDD
+- 📍 **Location:** Houston, TX
+- 🕒 **Posted:** 2026-09-18
+
+### [Hospice Care Coordinator](https://www.linkedin.com/jobs/view/4468000277/) — Apex Home Health, Hospice & Home Care
+- 📍 **Location:** Mineola, NY
+- 🕒 **Posted:** 2026-09-18
+
+### [Case Manager - LMSW](https://www.linkedin.com/jobs/view/4467895314/) — Health Here
+- 📍 **Location:** McLean, VA
+- 🕒 **Posted:** 2026-09-18
+
+### [Case Manager Registered Nurse (LTSS) - Field MI (Wayne and Macomb County)](https://www.linkedin.com/jobs/view/4469201796/) — CVS Health
+- 📍 **Location:** Wayne County, MI
+- 💰 **Salary:** $60,522.00 - $129,615.00
+- 🕒 **Posted:** 2026-09-18
+
+### [CCBHC Case Manager-(Assertive Community Treatment)](https://www.linkedin.com/jobs/view/4466931144/) — Rosecrance Behavioral Health
+- 📍 **Location:** Champaign, IL
+- 🕒 **Posted:** 2026-09-18
+
+### [Registered Nurse Case Management Supervisor](https://www.linkedin.com/jobs/view/4372950848/) — St. David's HealthCare
+- 📍 **Location:** Austin, TX
+- 🕒 **Posted:** 2026-09-18
+
+### [Human Resources Team Leader](https://www.linkedin.com/jobs/view/4466931077/) — Creative Support
+- 📍 **Location:** Stockport, England, United Kingdom
+- 🕒 **Posted:** 2026-09-18
+
+### [Sports Supervisor](https://www.linkedin.com/jobs/view/4434850783/) — YMCA of Greater Seattle
+- 📍 **Location:** Sammamish, WA
+- 💰 **Salary:** $24.00 - $26.40/hour
+- 🕒 **Posted:** 2026-09-18
+
+### [Experienced Social Worker - Children Assessment and Intervention](https://www.linkedin.com/jobs/view/4468010392/) — London Borough of Merton
+- 📍 **Location:** Morden, England, United Kingdom
+- 🕒 **Posted:** 2026-09-18
+
+### [EAP Care Advocate (Licensed Counselor/Social Worker)](https://www.linkedin.com/jobs/view/4469216238/) — CuraLinc Healthcare
+- 📍 **Location:** United States
+- 🕒 **Posted:** 2026-09-18
+
+### [Social Worker II, Social Services, Baptist Metro](https://www.linkedin.com/jobs/view/4469207827/) — Baptist Health
+- 📍 **Location:** Jacksonville, FL
+- 🕒 **Posted:** 2026-09-18
+
+### [Care Coordinator - Behavioral Health](https://www.linkedin.com/jobs/view/4468010391/) — MaineHealth
+- 📍 **Location:** Springvale, ME
+- 💰 **Salary:** $52,499.20to $71,052.80per year
+- 🕒 **Posted:** 2026-09-18
+
+### [Social Worker](https://www.linkedin.com/jobs/view/4469202534/) — Southbridge Care Homes
+- 📍 **Location:** Thunder Bay, Ontario, Canada
+- 💰 **Salary:** $64,000.00 - 74,000.00
+- 🕒 **Posted:** 2026-09-18
+
+### [EAP Care Advocate (Licensed Counselor/Social Worker)](https://www.linkedin.com/jobs/view/4469218169/) — CuraLinc Healthcare
+- 📍 **Location:** United States
+- 🕒 **Posted:** 2026-09-18
+
+### [Social Worker, MSW](https://www.linkedin.com/jobs/view/4469207462/) — Silverado
+- 📍 **Location:** Berkeley, CA
+- 💰 **Salary:** $90,000 USD - $100,000 USD
 - 🕒 **Posted:** 2026-09-18
