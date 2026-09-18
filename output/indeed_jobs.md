@@ -1,39 +1,31 @@
 # 🟦 Indeed — Social Worker Roles
-*Last updated: 2026-09-17 19:37 UTC*
+*Last updated: 2026-09-18 00:55 UTC*
 
-**5 new role(s)** since last run · 21 total in last 24h
+**4 new role(s)** since last run · 17 total in last 24h
 
-### [STAFF SUPERVISOR (PATIENT TRANSPORT) (FULL TIME)](https://www.indeed.com/viewjob?jk=b4f921409daea31c) — Crothall Healthcare
-- 📍 **Location:** Aurora, CO, US
-- 💰 **Salary:** $24–$25/hr
-- **Work mode:** Remote in-state eligible
+### [Care Coordinator - Davita IKC - Denver, CO](https://www.indeed.com/viewjob?jk=9fa537a814b1abe1) — DaVita
+- 📍 **Location:** Denver, CO, US
+- 💰 **Salary:** $18–$22/hr
+- **Work mode:** On-site
 - **Job type:** fulltime
-- 🕒 **Posted:** 2026-09-16
-
-### [Program Coordinator II - Youth Advisory Panel (YAP)](https://www.indeed.com/viewjob?jk=3e596e9005e4686a) — City of Westminster, CO
-- 📍 **Location:** Westminster, CO, US
-- 💰 **Salary:** $42k–$54k/yr
-- **Work mode:** Remote in-state eligible
-- **Job type:** parttime
-- 🕒 **Posted:** 2026-09-07
-
-### [Licensed Master Social Worker (Remote)](https://www.indeed.com/viewjob?jk=7558a7cac3f4f3d9) — Mount Behavioral Health
-- 📍 **Location:** Remote, US
-- 💰 **Salary:** $40–$50/hr
-- **Work mode:** Remote in-state eligible
-- **Job type:** parttime
 - 🕒 **Posted:** 2026-09-17
 
-### [Care Coordinator - LPN/CMA/RMA](https://www.indeed.com/viewjob?jk=ec0a5518b42d10a7) — Enable Healthcare Inc.
-- 📍 **Location:** Remote, US
-- 💰 **Salary:** $37k–$45k/yr
+### [Children's Case Manager (IDD & Non-IDD)](https://www.indeed.com/viewjob?jk=d4848070a8d573ef) — Jefferson County Colorado
+- 📍 **Location:** Golden, CO, US
+- 💰 **Salary:** $57k–$61k/yr
 - **Work mode:** Remote in-state eligible
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-09-17
 
-### [Grant Writer & Federal Funding Specialist (SAM.gov/Grants.gov)](https://www.indeed.com/viewjob?jk=15de352837115780) — NEW LEAF PEER SUPPORT LLC
-- 📍 **Location:** Remote, US
-- 💰 **Salary:** $20–$30/hr
+### [Student Recruitment Program Manager](https://www.indeed.com/viewjob?jk=805eed8e2df45d67) — University of Colorado
+- 📍 **Location:** Denver, CO, US
+- 💰 **Salary:** $70k–$72k/yr
 - **Work mode:** Remote in-state eligible
-- **Job type:** contract
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-09-17
+
+### [Patient Care Coordinator](https://www.indeed.com/viewjob?jk=829b5ffb28f03630) — Form Health
+- 📍 **Location:** Remote, US
+- 💰 **Salary:** $42k–$55k/yr
+- **Work mode:** Remote in-state eligible
 - 🕒 **Posted:** 2026-09-17
