@@ -1,118 +1,76 @@
 # 🔥 LinkedIn — Social Worker Roles
-*Last updated: 2026-09-19 18:18 UTC*
+*Last updated: 2026-09-19 21:00 UTC*
 
-**26 new role(s)** since last run · 26 total in last 1h
+**17 new role(s)** since last run · 17 total in last 1h
 
-### [Clinical Social Work Supervisor](https://www.linkedin.com/jobs/view/4450708350/) — Children's Hospital Colorado
-- 📍 **Location:** Aurora, CO
-- 💰 **Salary:** $93,627.60 to $140,441.40
+### [Case Manager](https://www.linkedin.com/jobs/view/4469548857/) — Akua Mind Body
+- 📍 **Location:** Newport Beach, CA
+- 💰 **Salary:** $28-$32 per hour
 - 🕒 **Posted:** 2026-09-19
 
-### [RN Case Manager](https://www.linkedin.com/jobs/view/4460529114/) — HCA HealthONE
-- 📍 **Location:** Lone Tree, CO
-- 💰 **Salary:** $40.35 - $58.87
+### [National Operations Program Coordinator](https://www.linkedin.com/jobs/view/4469544831/) — Bureau of Meteorology
+- 📍 **Location:** Sydney, New South Wales, Australia
 - 🕒 **Posted:** 2026-09-19
 
-### [Mobile Veterinary Supervisor-VIP Petcare](https://www.linkedin.com/jobs/view/4441606916/) — VIP Petcare
-- 📍 **Location:** Denver, CO
+### [National Operations Program Coordinator](https://www.linkedin.com/jobs/view/4469556724/) — Bureau of Meteorology
+- 📍 **Location:** Brisbane, Queensland, Australia
 - 🕒 **Posted:** 2026-09-19
 
-### [Substance Abuse Counselor](https://www.linkedin.com/jobs/view/4468402410/) — New Season
-- 📍 **Location:** San Antonio, TX
+### [Operations Manager/Shift Supervisor](https://www.linkedin.com/jobs/view/4467305107/) — Volunteers of America-Greater New York
+- 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-09-19
 
-### [Program Coordinator](https://www.linkedin.com/jobs/view/4451056803/) — WES HEALTH SYSTEM
-- 📍 **Location:** Pemberton, NJ
-- 💰 **Salary:** $25.00/yr - $30.00/yr
+### [National Operations Program Coordinator](https://www.linkedin.com/jobs/view/4469556725/) — Bureau of Meteorology
+- 📍 **Location:** Darwin, Northern Territory, Australia
 - 🕒 **Posted:** 2026-09-19
 
-### [IMG Integration and Experience Program Coordinator](https://www.linkedin.com/jobs/view/4466742766/) — Akron Children's
-- 📍 **Location:** Akron, OH
+### [National Operations Program Coordinator](https://www.linkedin.com/jobs/view/4469551769/) — Bureau of Meteorology
+- 📍 **Location:** Melbourne, Victoria, Australia
 - 🕒 **Posted:** 2026-09-19
 
-### [Training Program Coordinator](https://www.linkedin.com/jobs/view/4469543679/) — TEKsystems
-- 📍 **Location:** Westerville, OH
-- 💰 **Salary:** $30.00 - $40.00/hr
+### [National Operations Program Coordinator](https://www.linkedin.com/jobs/view/4469557493/) — Bureau of Meteorology
+- 📍 **Location:** Perth, Western Australia, Australia
 - 🕒 **Posted:** 2026-09-19
 
-### [PACE Center Supervisor in Los Angeles County](https://www.linkedin.com/jobs/view/4460522869/) — AltaMed Health Services
+### [National Operations Program Coordinator](https://www.linkedin.com/jobs/view/4469564088/) — Bureau of Meteorology
+- 📍 **Location:** Cairns, Queensland, Australia
+- 🕒 **Posted:** 2026-09-19
+
+### [National Operations Program Coordinator](https://www.linkedin.com/jobs/view/4469566040/) — Bureau of Meteorology
+- 📍 **Location:** Adelaide, South Australia, Australia
+- 🕒 **Posted:** 2026-09-19
+
+### [National Operations Program Coordinator](https://www.linkedin.com/jobs/view/4469547842/) — Bureau of Meteorology
+- 📍 **Location:** Hobart, Tasmania, Australia
+- 🕒 **Posted:** 2026-09-19
+
+### [Social Worker: Social Work Services (Posts available at various locations), Ref No. DSD 88/2026](https://www.linkedin.com/jobs/view/4469563178/) — Western Cape Government
+- 📍 **Location:** Mitchells Plain, Western Cape, South Africa
+- 🕒 **Posted:** 2026-09-19
+
+### [Case Manager](https://www.linkedin.com/jobs/view/4469547862/) — Illumination Health + Home
+- 📍 **Location:** California, United States
+- 💰 **Salary:** $23.00 - $27.00 per hour
+- 🕒 **Posted:** 2026-09-19
+
+### [Diabetes Care & Education Specialist](https://www.linkedin.com/jobs/view/4467306109/) — Rocky Mountain Diabetes and Osteoporosis Center PA
+- 📍 **Location:** Idaho Falls, ID
+- 🕒 **Posted:** 2026-09-19
+
+### [Field Care Supervisor](https://www.linkedin.com/jobs/view/4469568002/) — Bluebird Care St Albans & Hertsmere
+- 📍 **Location:** St Albans, England, United Kingdom
+- 🕒 **Posted:** 2026-09-19
+
+### [Medi-Cal Conlan Supervisor - Hybrid - West Sacramento, CA](https://www.linkedin.com/jobs/view/4466995296/) — Gainwell Technologies
+- 📍 **Location:** West Sacramento, CA
+- 💰 **Salary:** $51,800 - $74,000 per year
+- 🕒 **Posted:** 2026-09-19
+
+### [Affordable Housing Regional Property Supervisor](https://www.linkedin.com/jobs/view/4469553776/) — Trinil Oy
 - 📍 **Location:** Long Beach, CA
-- 💰 **Salary:** $68,640.00 - $84,936.18 annually
+- 💰 **Salary:** $85,000 to $100,000 per year
 - 🕒 **Posted:** 2026-09-19
 
-### [Reentry Center Program Coordinator](https://www.linkedin.com/jobs/view/4466997131/) — Navajo County
-- 📍 **Location:** Holbrook, AZ
-- 🕒 **Posted:** 2026-09-19
-
-### [Social Worker II - Emergency Department](https://www.linkedin.com/jobs/view/4469549528/) — Akron Children's
-- 📍 **Location:** Boardman, OH
-- 🕒 **Posted:** 2026-09-19
-
-### [Social Worker II](https://www.linkedin.com/jobs/view/4449227639/) — Trinity Health MI
-- 📍 **Location:** Pontiac, MI
-- 🕒 **Posted:** 2026-09-19
-
-### [Senior Social Worker](https://www.linkedin.com/jobs/view/4466989293/) — HAIR RAP BY YOYO
-- 📍 **Location:** Ahmedabad, Gujarat, India
-- 🕒 **Posted:** 2026-09-19
-
-### [Clinical Supervisor - Associate or Independent License (MRSS)](https://www.linkedin.com/jobs/view/4448684511/) — YMCA of Greater Seattle
-- 📍 **Location:** Seattle, WA
-- 💰 **Salary:** $84,000 - $87,000 annually
-- 🕒 **Posted:** 2026-09-19
-
-### [Registered Nurse Case Manager PACE Home Care](https://www.linkedin.com/jobs/view/4266073741/) — HCA Healthcare
-- 📍 **Location:** Asheville, NC
-- 🕒 **Posted:** 2026-09-19
-
-### [Supervisor of EVS](https://www.linkedin.com/jobs/view/4442182260/) — Methodist Healthcare System
-- 📍 **Location:** Live Oak, TX
-- 🕒 **Posted:** 2026-09-19
-
-### [Environmental Health & Safety Manager / Supervisor](https://www.linkedin.com/jobs/view/4459410976/) — Randstad USA
-- 📍 **Location:** Dixon, IL
-- 💰 **Salary:** $95,000 - 110,000 per year
-- 🕒 **Posted:** 2026-09-19
-
-### [RN Case Manager](https://www.linkedin.com/jobs/view/4460564515/) — Arkansas Blue Cross and Blue Shield
-- 📍 **Location:** Little Rock, AR
-- 🕒 **Posted:** 2026-09-19
-
-### [Care Coordinator- Dumbo](https://www.linkedin.com/jobs/view/4460540226/) — Spear Physical Therapy
-- 📍 **Location:** Brooklyn, NY
-- 💰 **Salary:** $18.00/hr - $18.00/hr
-- 🕒 **Posted:** 2026-09-19
-
-### [Career Transition Specialist](https://www.linkedin.com/jobs/view/4460570990/) — Chugach Government Solutions, LLC
-- 📍 **Location:** Matanuska-Susitna Borough County, AK
-- 🕒 **Posted:** 2026-09-19
-
-### [Patient Care Coordinator](https://www.linkedin.com/jobs/view/4460549871/) — Results Physiotherapy
-- 📍 **Location:** San Antonio, TX
-- 🕒 **Posted:** 2026-09-19
-
-### [Patient Care Coordinator-Full time or Part time mornings](https://www.linkedin.com/jobs/view/4450524348/) — Drayer Physical Therapy Institute
-- 📍 **Location:** Hershey, PA
-- 🕒 **Posted:** 2026-09-19
-
-### [Patient Care Coordinator](https://www.linkedin.com/jobs/view/4469544585/) — TEKsystems
-- 📍 **Location:** Saginaw, MI
-- 💰 **Salary:** $17.00 - $18.75/hr
-- 🕒 **Posted:** 2026-09-19
-
-### [Registered Nurse (RN) Case Manager](https://www.linkedin.com/jobs/view/4433979249/) — MultiCare Health System
-- 📍 **Location:** Yakima, WA
-- 💰 **Salary:** $20.46 - $27.63 USD
-- 🕒 **Posted:** 2026-09-19
-
-### [Social Worker II](https://www.linkedin.com/jobs/view/4458412138/) — Houston Methodist
-- 📍 **Location:** Houston, TX
-- 🕒 **Posted:** 2026-09-19
-
-### [Social Worker – Children in Care, West Essex](https://www.linkedin.com/jobs/view/4440558077/) — Essex County Council
-- 📍 **Location:** Harlow, England, United Kingdom
-- 🕒 **Posted:** 2026-09-19
-
-### [Program Supervisor](https://www.linkedin.com/jobs/view/4468402413/) — Rady JCC
-- 📍 **Location:** Winnipeg, Manitoba, Canada
+### [Principal Program Manager](https://www.linkedin.com/jobs/view/4469565124/) — MAGMAS
+- 📍 **Location:** Marlow, England, United Kingdom
 - 🕒 **Posted:** 2026-09-19
