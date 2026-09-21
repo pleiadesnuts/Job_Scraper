@@ -1,72 +1,56 @@
 # 🔥 LinkedIn — Social Worker Roles
-*Last updated: 2026-09-21 01:28 UTC*
+*Last updated: 2026-09-21 06:40 UTC*
 
-**16 new role(s)** since last run · 16 total in last 1h
+**12 new role(s)** since last run · 12 total in last 1h
 
-### [Hospice RN Case Manager,](https://www.linkedin.com/jobs/view/4467345495/) — UnitedHealth Group
-- 📍 **Location:** Denver, CO
-- 💰 **Salary:** $87,560 to $131,340 annually
+### [Qualified Social Worker - Adults Community Hub](https://www.linkedin.com/jobs/view/4467370015/) — The Guildhall Northampton
+- 📍 **Location:** Northampton, England, United Kingdom
 - 🕒 **Posted:** 2026-09-21
 
-### [Home Care Coordinator (RN) | Leadership Opportunity | $90K–$102K](https://www.linkedin.com/jobs/view/4468482764/) — Christian Living Communities
-- 📍 **Location:** Englewood, CO
-- 💰 **Salary:** $90K–$102K
+### [Training Coordinator (Administrative Officer 2)](https://www.linkedin.com/jobs/view/4467172762/) — Commonwealth of Pennsylvania
+- 📍 **Location:** Dauphin County, PA
 - 🕒 **Posted:** 2026-09-21
 
-### [Social Worker, Mental Health Working Age West Team](https://www.linkedin.com/jobs/view/4469818862/) — East Sussex County Council
-- 📍 **Location:** Eastbourne, England, United Kingdom
+### [Team Leader, ReSET Programme](https://www.linkedin.com/jobs/view/4469836748/) — ReliefWeb
+- 📍 **Location:** El Salvador
 - 🕒 **Posted:** 2026-09-21
 
-### [Social Worker (Adult Care Assessment and Triage Team)](https://www.linkedin.com/jobs/view/4466849801/) — Derbyshire County Council
-- 📍 **Location:** Derby, England, United Kingdom
+### [Program Manager, Social Impact, Government Affairs & ESG](https://www.linkedin.com/jobs/view/4469842442/) — The Best Job Board
+- 📍 **Location:** Eagan, MN
+- 💰 **Salary:** $74,200 USD - $137,800 USD
 - 🕒 **Posted:** 2026-09-21
 
-### [Social Worker - Child Exploitation Team](https://www.linkedin.com/jobs/view/4469831241/) — East Sussex County Council
-- 📍 **Location:** Eastbourne, England, United Kingdom
+### [Program Manager - Special Education (Autism)](https://www.linkedin.com/jobs/view/4467366071/) — Modesto City Schools
+- 📍 **Location:** Modesto, CA
 - 🕒 **Posted:** 2026-09-21
 
-### [Patient Care Coordinator](https://www.linkedin.com/jobs/view/4469835117/) — Expert Hearing Clinic, LLC
-- 📍 **Location:** Springboro, OH
+### [Global Case Manager](https://www.linkedin.com/jobs/view/4454375104/) — Bupa Global
+- 📍 **Location:** Kowloon, Hong Kong SAR
 - 🕒 **Posted:** 2026-09-21
 
-### [Social Worker](https://www.linkedin.com/jobs/view/4466891363/) — Derbyshire County Council
-- 📍 **Location:** Derby, England, United Kingdom
+### [CERTIFIED SPANISH INTERPRETER](https://www.linkedin.com/jobs/view/4467370061/) — Lawrence Public Schools
+- 📍 **Location:** Lawrence, MA
 - 🕒 **Posted:** 2026-09-21
 
-### [Senior Social Worker](https://www.linkedin.com/jobs/view/4467730662/) — Gloucestershire County Council
-- 📍 **Location:** Stroud, England, United Kingdom
+### [Qualified Social Worker - Safeguarding Team](https://www.linkedin.com/jobs/view/4467366095/) — The Guildhall Northampton
+- 📍 **Location:** Northampton, England, United Kingdom
 - 🕒 **Posted:** 2026-09-21
 
-### [Social Worker (2 Posts)](https://www.linkedin.com/jobs/view/4465766254/) — Derbyshire County Council
-- 📍 **Location:** Derby, England, United Kingdom
+### [Care Coordinator](https://www.linkedin.com/jobs/view/4468343524/) — Bupa Global
+- 📍 **Location:** Hong Kong, Hong Kong SAR
 - 🕒 **Posted:** 2026-09-21
 
-### [Case Manager in Training](https://www.linkedin.com/jobs/view/4468480749/) — EML Group
-- 📍 **Location:** Melbourne, Victoria, Australia
+### [Client Care Coordinator](https://www.linkedin.com/jobs/view/4468711283/) — The Total Canine, LLC
+- 📍 **Location:** Marysville, WA
+- 💰 **Salary:** $21-$23 per hour
 - 🕒 **Posted:** 2026-09-21
 
-### [Social Worker](https://www.linkedin.com/jobs/view/4469825736/) — East Sussex County Council
-- 📍 **Location:** Newhaven, England, United Kingdom
+### [RN Case Manager](https://www.linkedin.com/jobs/view/4469847419/) — Holisticare Hospice
+- 📍 **Location:** Red Bank, NJ
+- 💰 **Salary:** $94,000 - $99,000 per year
 - 🕒 **Posted:** 2026-09-21
 
-### [Hospice RN Case Manager - Wilson, NC - Full Time,](https://www.linkedin.com/jobs/view/4467352375/) — UnitedHealth Group
-- 📍 **Location:** Wilson, NC
-- 💰 **Salary:** $75,620 - $86,000
-- 🕒 **Posted:** 2026-09-21
-
-### [Hospice RN Case Manager,](https://www.linkedin.com/jobs/view/4467339599/) — UnitedHealth Group
-- 📍 **Location:** Brookhaven, MS
-- 🕒 **Posted:** 2026-09-21
-
-### [Child and Youth Program Coordinator(6-17).](https://www.linkedin.com/jobs/view/4469837089/) — Volunteer Success
-- 📍 **Location:** Pickering, Ontario, Canada
-- 🕒 **Posted:** 2026-09-21
-
-### [Patient Care Coordinator](https://www.linkedin.com/jobs/view/4469821817/) — Hear Wright, Inc
-- 📍 **Location:** Corte Madera, CA
-- 🕒 **Posted:** 2026-09-21
-
-### [Team Leader, Rostering](https://www.linkedin.com/jobs/view/4469829507/) — Department of Justice and Community Safety, Victoria
-- 📍 **Location:** Geelong, Victoria, Australia
-- 💰 **Salary:** $81,496 - $98,955 per year
+### [Case Manager RN - Compact License](https://www.linkedin.com/jobs/view/4469845495/) — CVS Health
+- 📍 **Location:** Trenton, NJ
+- 💰 **Salary:** $54,095.00 - $142,576.00
 - 🕒 **Posted:** 2026-09-21
