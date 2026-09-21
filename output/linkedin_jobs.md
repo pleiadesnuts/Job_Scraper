@@ -1,41 +1,72 @@
 # 🔥 LinkedIn — Social Worker Roles
-*Last updated: 2026-09-20 23:35 UTC*
+*Last updated: 2026-09-21 01:28 UTC*
 
-**9 new role(s)** since last run · 9 total in last 1h
+**16 new role(s)** since last run · 16 total in last 1h
 
-### [Substance Abuse Counselor (LADC)](https://www.linkedin.com/jobs/view/4468467837/) — New Season
-- 📍 **Location:** Burnsville, MN
-- 🕒 **Posted:** 2026-09-20
+### [Hospice RN Case Manager,](https://www.linkedin.com/jobs/view/4467345495/) — UnitedHealth Group
+- 📍 **Location:** Denver, CO
+- 💰 **Salary:** $87,560 to $131,340 annually
+- 🕒 **Posted:** 2026-09-21
 
-### [Substance Abuse Counselor](https://www.linkedin.com/jobs/view/4468486440/) — New Season
-- 📍 **Location:** Grand Junction, CO
-- 🕒 **Posted:** 2026-09-20
+### [Home Care Coordinator (RN) | Leadership Opportunity | $90K–$102K](https://www.linkedin.com/jobs/view/4468482764/) — Christian Living Communities
+- 📍 **Location:** Englewood, CO
+- 💰 **Salary:** $90K–$102K
+- 🕒 **Posted:** 2026-09-21
 
-### [Medical Social Worker II | Fort Smith](https://www.linkedin.com/jobs/view/4469807981/) — Baptist Health
-- 📍 **Location:** Fort Smith, AR
-- 🕒 **Posted:** 2026-09-20
+### [Social Worker, Mental Health Working Age West Team](https://www.linkedin.com/jobs/view/4469818862/) — East Sussex County Council
+- 📍 **Location:** Eastbourne, England, United Kingdom
+- 🕒 **Posted:** 2026-09-21
 
-### [LPN Care Coordinator-BHFC-White Hall](https://www.linkedin.com/jobs/view/4469826472/) — Baptist Health
-- 📍 **Location:** Health, AR
-- 🕒 **Posted:** 2026-09-20
+### [Social Worker (Adult Care Assessment and Triage Team)](https://www.linkedin.com/jobs/view/4466849801/) — Derbyshire County Council
+- 📍 **Location:** Derby, England, United Kingdom
+- 🕒 **Posted:** 2026-09-21
 
-### [Coordinated Entry - Diversion Specialist Case Manager (20 hours) (69008)](https://www.linkedin.com/jobs/view/4469813895/) — Volunteers of America Chesapeake & Carolinas
-- 📍 **Location:** Durham, NC
-- 🕒 **Posted:** 2026-09-20
+### [Social Worker - Child Exploitation Team](https://www.linkedin.com/jobs/view/4469831241/) — East Sussex County Council
+- 📍 **Location:** Eastbourne, England, United Kingdom
+- 🕒 **Posted:** 2026-09-21
 
-### [Substance Abuse Counselor  - CADC](https://www.linkedin.com/jobs/view/4468482556/) — New Season
-- 📍 **Location:** Bangor, ME
-- 🕒 **Posted:** 2026-09-20
+### [Patient Care Coordinator](https://www.linkedin.com/jobs/view/4469835117/) — Expert Hearing Clinic, LLC
+- 📍 **Location:** Springboro, OH
+- 🕒 **Posted:** 2026-09-21
 
-### [Social Worker PACE-PACE North Little Rock](https://www.linkedin.com/jobs/view/4469817660/) — Baptist Health
-- 📍 **Location:** Pace, East Java, Indonesia
-- 🕒 **Posted:** 2026-09-20
+### [Social Worker](https://www.linkedin.com/jobs/view/4466891363/) — Derbyshire County Council
+- 📍 **Location:** Derby, England, United Kingdom
+- 🕒 **Posted:** 2026-09-21
 
-### [Community Health Worker/Educator](https://www.linkedin.com/jobs/view/4463810062/) — Grameen America, Inc.
-- 📍 **Location:** Los Angeles Metropolitan Area
-- 🕒 **Posted:** 2026-09-20
+### [Senior Social Worker](https://www.linkedin.com/jobs/view/4467730662/) — Gloucestershire County Council
+- 📍 **Location:** Stroud, England, United Kingdom
+- 🕒 **Posted:** 2026-09-21
 
-### [Peer Support Specialist](https://www.linkedin.com/jobs/view/4469826502/) — Pathways Inc. - Kentucky
-- 📍 **Location:** Louisa, KY
-- 💰 **Salary:** $32,500 – $36,652.50 annually
-- 🕒 **Posted:** 2026-09-20
+### [Social Worker (2 Posts)](https://www.linkedin.com/jobs/view/4465766254/) — Derbyshire County Council
+- 📍 **Location:** Derby, England, United Kingdom
+- 🕒 **Posted:** 2026-09-21
+
+### [Case Manager in Training](https://www.linkedin.com/jobs/view/4468480749/) — EML Group
+- 📍 **Location:** Melbourne, Victoria, Australia
+- 🕒 **Posted:** 2026-09-21
+
+### [Social Worker](https://www.linkedin.com/jobs/view/4469825736/) — East Sussex County Council
+- 📍 **Location:** Newhaven, England, United Kingdom
+- 🕒 **Posted:** 2026-09-21
+
+### [Hospice RN Case Manager - Wilson, NC - Full Time,](https://www.linkedin.com/jobs/view/4467352375/) — UnitedHealth Group
+- 📍 **Location:** Wilson, NC
+- 💰 **Salary:** $75,620 - $86,000
+- 🕒 **Posted:** 2026-09-21
+
+### [Hospice RN Case Manager,](https://www.linkedin.com/jobs/view/4467339599/) — UnitedHealth Group
+- 📍 **Location:** Brookhaven, MS
+- 🕒 **Posted:** 2026-09-21
+
+### [Child and Youth Program Coordinator(6-17).](https://www.linkedin.com/jobs/view/4469837089/) — Volunteer Success
+- 📍 **Location:** Pickering, Ontario, Canada
+- 🕒 **Posted:** 2026-09-21
+
+### [Patient Care Coordinator](https://www.linkedin.com/jobs/view/4469821817/) — Hear Wright, Inc
+- 📍 **Location:** Corte Madera, CA
+- 🕒 **Posted:** 2026-09-21
+
+### [Team Leader, Rostering](https://www.linkedin.com/jobs/view/4469829507/) — Department of Justice and Community Safety, Victoria
+- 📍 **Location:** Geelong, Victoria, Australia
+- 💰 **Salary:** $81,496 - $98,955 per year
+- 🕒 **Posted:** 2026-09-21
