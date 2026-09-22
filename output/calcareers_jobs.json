@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-09-20 19:00 UTC",
-  "total": 2,
+  "scraped_at": "2026-09-22 19:55 UTC",
+  "total": 3,
   "new_count": 0,
   "jobs": [
     {
@@ -26,6 +26,18 @@
       "telework": "In Office",
       "job_type": "Permanent, Full Time",
       "work_arrangement": "On-site"
+    },
+    {
+      "company": "Department of Justice",
+      "title": "Environmental Justice and Protection Section, Deputy Attorney General Supervisor",
+      "location": "United States",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=532096",
+      "date_posted": "2026-09-15",
+      "salary": "$13203.00 - $17727.00",
+      "ats": "CalCareers",
+      "telework": "Hybrid",
+      "job_type": "Permanent, Full Time",
+      "work_arrangement": "Telecommute eligible"
     }
   ],
   "new_jobs": []
