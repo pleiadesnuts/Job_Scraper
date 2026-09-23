@@ -1,23 +1,18 @@
 # 🟦 Indeed — Social Worker Roles
-*Last updated: 2026-09-22 22:40 UTC*
+*Last updated: 2026-09-23 01:09 UTC*
 
-**3 new role(s)** since last run · 11 total in last 24h
+**2 new role(s)** since last run · 10 total in last 24h
 
-### [RN Care Coordinator](https://www.indeed.com/viewjob?jk=a894b318365894ec) — CommonSpirit Health
-- 📍 **Location:** Lakewood, CO, US
-- 💰 **Salary:** $38–$58/hr
-- **Work mode:** On-site
-- 🕒 **Posted:** 2026-09-21
-
-### [Behavioral Health Specialist, Social Work/Counselor III - Gilliam](https://www.indeed.com/viewjob?jk=8efc336b17385e47) — Pueblo Community College
+### [Case Manager I](https://www.indeed.com/viewjob?jk=850f51f72e7b8d33) — COLORADO COALITION FOR THE HOMELESS
 - 📍 **Location:** Denver, CO, US
-- **Work mode:** Remote in-state eligible
+- 💰 **Salary:** $20–$25/hr
+- **Work mode:** On-site
 - **Job type:** fulltime
-- 🕒 **Posted:** 2026-09-16
+- 🕒 **Posted:** 2026-09-22
 
-### [Social Worker (contract)](https://www.indeed.com/viewjob?jk=c325642e14e1f19a) — Elevance Health
-- 📍 **Location:** Remote, US
-- 💰 **Salary:** $26–$49/hr
-- **Work mode:** Remote in-state eligible
-- **Job type:** contract
+### [Board-Certified Behavior Analyst - Clinical Supervisor](https://www.indeed.com/viewjob?jk=f77e3a591d692ce8) — Evoke Behavioral Health
+- 📍 **Location:** Arvada, CO, US
+- 💰 **Salary:** $75k–$87k/yr
+- **Work mode:** On-site
+- **Job type:** fulltime
 - 🕒 **Posted:** 2026-09-22
