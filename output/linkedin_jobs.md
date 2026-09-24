@@ -1,132 +1,105 @@
 # 🔥 LinkedIn — Social Worker Roles
-*Last updated: 2026-09-24 00:49 UTC*
+*Last updated: 2026-09-24 06:26 UTC*
 
-**30 new role(s)** since last run · 30 total in last 1h
+**23 new role(s)** since last run · 23 total in last 1h
 
-### [Clinical Social Worker](https://www.linkedin.com/jobs/view/4469617644/) — HarmonyCares
-- 📍 **Location:** Richmond, VA
+### [Sr. Clinical Supervisor](https://www.linkedin.com/jobs/view/4469387366/) — Children's Institute
+- 📍 **Location:** Los Angeles, CA
 - 🕒 **Posted:** 2026-09-24
 
-### [Care Coordinator](https://www.linkedin.com/jobs/view/4471151985/) — Person Centered Services Care Coordination Organization, LLC
-- 📍 **Location:** West Seneca, NY
+### [Growth and Program Manager](https://www.linkedin.com/jobs/view/4471406356/) — NeoStats
+- 📍 **Location:** Riyadh, Saudi Arabia
 - 🕒 **Posted:** 2026-09-24
 
-### [Behavioral Health Specialist (Internal title: Clinical Care Coordinator)](https://www.linkedin.com/jobs/view/4471147831/) — Catholic Community Services of Western Washington
-- 📍 **Location:** Tacoma, WA
-- 💰 **Salary:** $34.39 - $38.25 per hour
+### [Environmental Education Specialist - Laurel Caverns State Park](https://www.linkedin.com/jobs/view/4471412472/) — Commonwealth of Pennsylvania
+- 📍 **Location:** Fayette County, PA
 - 🕒 **Posted:** 2026-09-24
 
-### [Social Worker LMSW](https://www.linkedin.com/jobs/view/4471161452/) — Baptist Memorial Health Care
-- 📍 **Location:** Memphis, TN
+### [District Program Manager](https://www.linkedin.com/jobs/view/4469386703/) — IPE Global Limited
+- 📍 **Location:** Samastipur, Bihar, India
 - 🕒 **Posted:** 2026-09-24
 
-### [ASAPP Program Coordinator](https://www.linkedin.com/jobs/view/4471139982/) — Cornerstones
-- 📍 **Location:** Reston, VA
+### [Center Supervisor](https://www.linkedin.com/jobs/view/4469376947/) — CSL
+- 📍 **Location:** Hillsboro, OR
 - 🕒 **Posted:** 2026-09-24
 
-### [MHAT Program Coordinator - Brazoria County](https://www.linkedin.com/jobs/view/4469613200/) — Bay Area Council On Drugs & Alcohol, Inc. (BACODA)
-- 📍 **Location:** Pearland, TX
+### [Youth Services Supervisor (Youth Group Leader)](https://www.linkedin.com/jobs/view/4471423120/) — State of Missouri
+- 📍 **Location:** St Joseph, MO
 - 🕒 **Posted:** 2026-09-24
 
-### [Education Program Coordinator](https://www.linkedin.com/jobs/view/4470477927/) — University of Oklahoma
-- 📍 **Location:** Oklahoma City, OK
+### [Clinical Social Worker](https://www.linkedin.com/jobs/view/4469393185/) — BMC | Burjeel Medical City
+- 📍 **Location:** Abu Dhabi, Abu Dhabi Emirate, United Arab Emirates
 - 🕒 **Posted:** 2026-09-24
 
-### [Volunteer: Grant Writer - Investigative Healthcare Docuseries](https://www.linkedin.com/jobs/view/4469367358/) — Polaris
-- 📍 **Location:** Denver, CO
+### [Clinical Social Worker](https://www.linkedin.com/jobs/view/4469387602/) — Cleveland Clinic Abu Dhabi
+- 📍 **Location:** Abu Dhabi Emirate, United Arab Emirates
 - 🕒 **Posted:** 2026-09-24
 
-### [Behavioral Health Specialist II - Multiple Locations](https://www.linkedin.com/jobs/view/4469633050/) — County of Riverside
-- 📍 **Location:** Riverside County, CA
+### [Social Worker MSW -Care Management](https://www.linkedin.com/jobs/view/4471194760/) — Emerson Health
+- 📍 **Location:** Concord, MA
+- 💰 **Salary:** $31.25 - $45.00
 - 🕒 **Posted:** 2026-09-24
 
-### [Care Coordinator](https://www.linkedin.com/jobs/view/4470476962/) — The Harris Center for Mental Health and IDD
+### [Spiritual Care Coordinator - Bateau Bay | Reynolds Court](https://www.linkedin.com/jobs/view/4471411017/) — Southern Cross Care (NSW & ACT)
+- 📍 **Location:** Bateau Bay, New South Wales, Australia
+- 🕒 **Posted:** 2026-09-24
+
+### [Field HSE Supervisor](https://www.linkedin.com/jobs/view/4469956804/) — DHL Supply Chain
+- 📍 **Location:** Fort Worth, TX
+- 💰 **Salary:** $55,000 - $90,000
+- 🕒 **Posted:** 2026-09-24
+
+### [Client Experience Team Leader In Home Senior Care](https://www.linkedin.com/jobs/view/4471196720/) — Right at Home of Southern Arizona & Southern Nevada
+- 📍 **Location:** Tucson, AZ
+- 💰 **Salary:** $55,000.00/yr - $75,000.00/yr
+- 🕒 **Posted:** 2026-09-24
+
+### [Client Care Coordinator](https://www.linkedin.com/jobs/view/4469392292/) — Home Care Association of America
+- 📍 **Location:** Oklahoma City Metropolitan Area
+- 🕒 **Posted:** 2026-09-24
+
+### [RN Case Manager](https://www.linkedin.com/jobs/view/4471401571/) — AMEDISYS HOME HEALTH
+- 📍 **Location:** Melbourne, FL
+- 💰 **Salary:** $75,582.00-94,473.60/Annually
+- 🕒 **Posted:** 2026-09-24
+
+### [CASE MANAGER ASSISTANT-SPED](https://www.linkedin.com/jobs/view/4469381786/) — Harmony Public Schools
 - 📍 **Location:** Houston, TX
 - 🕒 **Posted:** 2026-09-24
 
-### [Case Manager](https://www.linkedin.com/jobs/view/4469635057/) — Marsell Wellness Center
-- 📍 **Location:** Riverside, CA
-- 💰 **Salary:** $25.48/hr - $26.44/hr
+### [Registered Nurse (RN), Team Leader](https://www.linkedin.com/jobs/view/4469391170/) — HealthNet
+- 📍 **Location:** Center, IN
 - 🕒 **Posted:** 2026-09-24
 
-### [Rehabilitation Case Manager](https://www.linkedin.com/jobs/view/4469626233/) — County of Santa Clara
-- 📍 **Location:** Santa Clara County, CA
+### [Financial Mobility Case Manager (Resource Center)](https://www.linkedin.com/jobs/view/4469376785/) — Goddard Riverside
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $50,251.98/yr - $55,000.00/yr
 - 🕒 **Posted:** 2026-09-24
 
-### [Program Manager](https://www.linkedin.com/jobs/view/4469636077/) — Brian Grant Foundation
-- 📍 **Location:** Portland, Oregon Metropolitan Area
-- 💰 **Salary:** $65,000 to $72,000
+### [Adult Education Case Manager](https://www.linkedin.com/jobs/view/4471411226/) — ReliefWeb
+- 📍 **Location:** Myanmar
 - 🕒 **Posted:** 2026-09-24
 
-### [Program Manager](https://www.linkedin.com/jobs/view/4469621532/) — Community Options, Inc.
-- 📍 **Location:** Greensburg, PA
+### [Care Coordinator](https://www.linkedin.com/jobs/view/4469392377/) — Genea
+- 📍 **Location:** East Melbourne, Victoria, Australia
 - 🕒 **Posted:** 2026-09-24
 
-### [Assistant Case Manager I - Pain Management--Ambulatory](https://www.linkedin.com/jobs/view/4471147655/) — Alaska Native Tribal Health Consortium (ANTHC)
-- 📍 **Location:** Anchorage, AK
-- 🕒 **Posted:** 2026-09-24
-
-### [Assistant Case Manager II - Int Med Outpatient-](https://www.linkedin.com/jobs/view/4471145692/) — Alaska Native Tribal Health Consortium (ANTHC)
-- 📍 **Location:** Anchorage, AK
-- 🕒 **Posted:** 2026-09-24
-
-### [Healthcare Coordinator](https://www.linkedin.com/jobs/view/4471148619/) — PDS Health
-- 📍 **Location:** Huntington Beach, CA
-- 💰 **Salary:** $18.00/hr - $25.50/hr
-- 🕒 **Posted:** 2026-09-24
-
-### [RN-Case Manager](https://www.linkedin.com/jobs/view/4471162422/) — Baptist Memorial Health Care
-- 📍 **Location:** Southaven, MS
-- 🕒 **Posted:** 2026-09-24
-
-### [Case Manager SE](https://www.linkedin.com/jobs/view/4469369389/) — Atrium Health
-- 📍 **Location:** Winston-Salem, NC
-- 💰 **Salary:** $41.10/hr - $61.65/hr
-- 🕒 **Posted:** 2026-09-24
-
-### [Res. Program Supervisor](https://www.linkedin.com/jobs/view/4471167245/) — InVision Human Services
-- 📍 **Location:** Wexford, PA
-- 🕒 **Posted:** 2026-09-24
-
-### [Onsite EAP Clinician (Licensed Counselor/Social Worker) -- Lemont](https://www.linkedin.com/jobs/view/4471163429/) — CuraLinc Healthcare
-- 📍 **Location:** Boston, MA
-- 🕒 **Posted:** 2026-09-24
-
-### [Residential Program Supervisor](https://www.linkedin.com/jobs/view/4449788064/) — Seneca Family of Agencies
-- 📍 **Location:** Sacramento, CA
-- 💰 **Salary:** $83,319 - $97,319 per year
-- 🕒 **Posted:** 2026-09-24
-
-### [Homework Club Supervisor](https://www.linkedin.com/jobs/view/4469616954/) — Independent Schools Association (ISA)
-- 📍 **Location:** Warwickshire, England, United Kingdom
-- 🕒 **Posted:** 2026-09-24
-
-### [Masters Social Worker](https://www.linkedin.com/jobs/view/4471149934/) — Fresenius Medical Care
-- 📍 **Location:** Tulsa, OK
-- 🕒 **Posted:** 2026-09-24
-
-### [Master Social Worker](https://www.linkedin.com/jobs/view/4471150831/) — Fresenius Medical Care
-- 📍 **Location:** Schenectady, NY
-- 💰 **Salary:** $24.00 - $41.00
-- 🕒 **Posted:** 2026-09-24
-
-### [Travel Social Work - Social Worker - $2,027 per week](https://www.linkedin.com/jobs/view/4471162089/) — TalentBurst, an Inc 5000 company
-- 📍 **Location:** Lawrenceville, GA
-- 🕒 **Posted:** 2026-09-24
-
-### [CASE MANAGER-SPECIAL PROGRAMS](https://www.linkedin.com/jobs/view/4467412300/) — Harmony Public Schools
-- 📍 **Location:** Laredo, TX
-- 🕒 **Posted:** 2026-09-23
-
-### [Veteran Program Case Manager](https://www.linkedin.com/jobs/view/4470644410/) — Archdiocese of St. Louis
+### [Education Specialist (Teacher)](https://www.linkedin.com/jobs/view/4471401950/) — State of Missouri
 - 📍 **Location:** St Louis, MO
-- 🕒 **Posted:** 2026-09-23
+- 💰 **Salary:** $2,023.00 - $2,495.51
+- 🕒 **Posted:** 2026-09-24
 
-### [CASE MANAGER-SPECIAL PROGRAMS](https://www.linkedin.com/jobs/view/4465595406/) — Harmony Public Schools
-- 📍 **Location:** Houston, TX
-- 🕒 **Posted:** 2026-09-23
+### [Social Worker MSW - Psych Adult](https://www.linkedin.com/jobs/view/4469704193/) — Providence
+- 📍 **Location:** Portland, OR
+- 💰 **Salary:** $36.99/hr - $57.44/hr
+- 🕒 **Posted:** 2026-09-24
 
-### [Business Program Manager – Integration Management Office (Plymouth, MN)](https://www.linkedin.com/jobs/view/4469627140/) — Philips
-- 📍 **Location:** Plymouth, MN
-- 💰 **Salary:** $126,000 to $202,000
-- 🕒 **Posted:** 2026-09-23
+### [Social Worker MSW -Care Management](https://www.linkedin.com/jobs/view/4471405395/) — Emerson Health
+- 📍 **Location:** Concord, MA
+- 💰 **Salary:** $31.25 - $45.00
+- 🕒 **Posted:** 2026-09-24
+
+### [Education Specialist (Teacher)](https://www.linkedin.com/jobs/view/4471422263/) — State of Missouri
+- 📍 **Location:** Fulton, MO
+- 💰 **Salary:** $2,023.00 - $2,495.51
+- 🕒 **Posted:** 2026-09-24
