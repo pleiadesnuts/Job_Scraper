@@ -1,18 +1,36 @@
 # 🟦 Indeed — Social Worker Roles
-*Last updated: 2026-09-24 06:45 UTC*
+*Last updated: 2026-09-24 19:38 UTC*
 
-**2 new role(s)** since last run · 9 total in last 24h
+**5 new role(s)** since last run · 8 total in last 24h
 
-### [Licensed Clinical Supervisor - (Remote)](https://www.indeed.com/viewjob?jk=e757e928f239693b) — Maximus
-- 📍 **Location:** Remote, US
-- 💰 **Salary:** $59k–$85k/yr
-- **Work mode:** Remote in-state eligible
+### [Medical Field Case Manager](https://www.indeed.com/viewjob?jk=ad0ab250eab51ab3) — Enlyte
+- 📍 **Location:** Denver, CO, US
+- 💰 **Salary:** $71k–$85k/yr
+- **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-09-23
 
-### [Customer Service Supervisor – Enrollment & Customer Experience Leadership](https://www.indeed.com/viewjob?jk=38030238b1bbf5fb) — British Swim School
-- 📍 **Location:** Remote, US
-- 💰 **Salary:** $21–$23/hr
+### [Behavioral Health Specialist (Social Work/Counselor IV) - Division of Youth Services, Denver](https://www.indeed.com/viewjob?jk=f51d38491d2b3718) — State of Colorado
+- 📍 **Location:** Denver, CO, US
 - **Work mode:** Remote in-state eligible
 - **Job type:** fulltime
+- 🕒 **Posted:** 2026-09-24
+
+### [Social Worker Position – Eastern Panhandle](https://www.indeed.com/viewjob?jk=1a67b79cd332cd6e) — Unknown
+- 📍 **Location:** Remote, US
+- **Work mode:** Remote in-state eligible
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-09-24
+
+### [Social Worker – Population Health, Northern Panhandle](https://www.indeed.com/viewjob?jk=0dc64b8070591e58) — Unknown
+- 📍 **Location:** Remote, US
+- **Work mode:** Remote in-state eligible
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-09-24
+
+### [Continuing Education Program Coordinator](https://www.indeed.com/viewjob?jk=b1c2cdf27c2dafbf) — Ewing Psychological Center
+- 📍 **Location:** Remote, US
+- 💰 **Salary:** $45k–$65k/yr
+- **Work mode:** Remote in-state eligible
+- **Job type:** parttime, fulltime
 - 🕒 **Posted:** 2026-09-24
