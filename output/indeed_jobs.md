@@ -1,25 +1,30 @@
 # 🟦 Indeed — Social Worker Roles
-*Last updated: 2026-09-23 19:40 UTC*
+*Last updated: 2026-09-24 01:01 UTC*
 
-**3 new role(s)** since last run · 8 total in last 24h
+**4 new role(s)** since last run · 9 total in last 24h
 
-### [Elementary Social Worker [XT10]](https://www.indeed.com/viewjob?jk=671e868316e2e93a) — Laramie County School District #1
-- 📍 **Location:** Cheyenne, WY, US
-- 💰 **Salary:** $62k–$94k/yr
+### [Research Services Clinical Sciences Regulatory Program Manager](https://www.indeed.com/viewjob?jk=39849d32b471f6ac) — University of Colorado
+- 📍 **Location:** Aurora, CO, US
+- 💰 **Salary:** $75k–$100k/yr
 - **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-09-22
-
-### [Concierge Patient Care Coordinator](https://www.indeed.com/viewjob?jk=564e7713f655d5d8) — Cenegenics
-- 📍 **Location:** Greenwood Village, CO, US
-- 💰 **Salary:** $29–$32/hr
-- **Work mode:** Remote in-state eligible
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-09-23
 
-### [Case Manager - Utilization Management II-1](https://www.indeed.com/viewjob?jk=dce2dc616a466e3f) — Healthfirst
+### [Nurse Case Manager (Part-Time) - Richmond, VA](https://www.indeed.com/viewjob?jk=5fe66633e8b382d6) — Triune Health Group
 - 📍 **Location:** Remote, US
-- 💰 **Salary:** $83k–$120k/yr
+- **Work mode:** Remote in-state eligible
+- **Job type:** parttime
+- 🕒 **Posted:** 2026-09-23
+
+### [Wellsite HSE Supervisor](https://www.indeed.com/viewjob?jk=8f971c04709414e1) — VIVA
+- 📍 **Location:** Remote, US
+- 💰 **Salary:** $80–$85/hr
+- **Work mode:** Remote in-state eligible
+- 🕒 **Posted:** 2026-09-23
+
+### [Peer Support Specialist](https://www.indeed.com/viewjob?jk=bf36eb0382f1ff36) — Trillium Health Resources
+- 📍 **Location:** Remote, US
+- 💰 **Salary:** $43k–$54k/yr
 - **Work mode:** Remote in-state eligible
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-09-23
