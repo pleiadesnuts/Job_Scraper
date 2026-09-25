@@ -1,7 +1,7 @@
 # 🟦 Indeed — Social Worker Roles
 *Last updated: 2026-09-25 22:54 UTC*
 
-**3 new role(s)** since last run · 11 total in last 24h
+**3 new role(s)** since last run · 9 total in last 24h
 
 ### [Clinical Case Manager I/II - Tuesday -Friday, 7 am-5 pm](https://www.indeed.com/viewjob?jk=0d7ae034eb20c842) — Unknown
 - 📍 **Location:** Denver, CO, US
