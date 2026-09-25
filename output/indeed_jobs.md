@@ -1,18 +1,11 @@
 # 🟦 Indeed — Social Worker Roles
-*Last updated: 2026-09-25 01:03 UTC*
+*Last updated: 2026-09-25 02:02 UTC*
 
-**2 new role(s)** since last run · 13 total in last 24h
+**1 new role(s)** since last run · 14 total in last 24h
 
-### [School Social Worker](https://www.indeed.com/viewjob?jk=209034de539aa46e) — Ampersand Therapy
-- 📍 **Location:** Aurora, CO, US
-- 💰 **Salary:** $50–$60/hr
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-09-24
-
-### [School Social Worker](https://www.indeed.com/viewjob?jk=50b796e69ba51661) — Ampersand Therapy
-- 📍 **Location:** Brighton, CO, US
-- 💰 **Salary:** $50–$60/hr
+### [Warehouse Supervisor](https://www.indeed.com/viewjob?jk=28db7d4fbc7fa62d) — OrePac Building Products
+- 📍 **Location:** Denver, CO, US
+- 💰 **Salary:** $28–$32/hr
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-09-24
