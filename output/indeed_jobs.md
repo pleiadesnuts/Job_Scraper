@@ -1,24 +1,23 @@
 # 🟦 Indeed — Social Worker Roles
-*Last updated: 2026-09-25 19:46 UTC*
+*Last updated: 2026-09-25 22:54 UTC*
 
 **3 new role(s)** since last run · 11 total in last 24h
 
-### [Peer Support Specialist Apprentice – Department of Public Health & Environment](https://www.indeed.com/viewjob?jk=79b0aa7c33b3dcfa) — City and County of Denver
+### [Clinical Case Manager I/II - Tuesday -Friday, 7 am-5 pm](https://www.indeed.com/viewjob?jk=0d7ae034eb20c842) — Unknown
 - 📍 **Location:** Denver, CO, US
-- 💰 **Salary:** $23–$35/hr
+- 💰 **Salary:** $26–$31/hr
 - **Work mode:** On-site
-- **Job type:** fulltime
 - 🕒 **Posted:** 2026-09-25
 
-### [Peer Support Specialist I (Focus Area Engagement Team) – Department of Public Health and Environment](https://www.indeed.com/viewjob?jk=9c7dfce628b1d440) — City and County of Denver
+### [Clinical Case Manager I/II - Tuesday -Friday, 7 am-5 pm](https://www.indeed.com/viewjob?jk=f8a6cadaa0d3770f) — WellPower
 - 📍 **Location:** Denver, CO, US
-- 💰 **Salary:** $23–$35/hr
+- 💰 **Salary:** $26–$31/hr
 - **Work mode:** On-site
-- **Job type:** fulltime
 - 🕒 **Posted:** 2026-09-25
 
-### [Certified Diabetes Care and Education Specialist](https://www.indeed.com/viewjob?jk=5e5ef4d49267e1f8) — Monte Nido
+### [US Revenue Enablement Program Coordinator](https://www.indeed.com/viewjob?jk=fc89a8d8fe445a2c) — Corpay
 - 📍 **Location:** Remote, US
+- 💰 **Salary:** $60k–$70k/yr
 - **Work mode:** Remote in-state eligible
-- **Job type:** contract
-- 🕒 **Posted:** 2026-09-24
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-09-25
