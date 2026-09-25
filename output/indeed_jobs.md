@@ -1,25 +1,24 @@
 # 🟦 Indeed — Social Worker Roles
-*Last updated: 2026-09-25 06:49 UTC*
+*Last updated: 2026-09-25 19:46 UTC*
 
-**3 new role(s)** since last run · 15 total in last 24h
+**3 new role(s)** since last run · 11 total in last 24h
 
-### [Environmental Inspection Supervisor](https://www.indeed.com/viewjob?jk=95a8f3d297c44ba1) — City of Aurora, CO
-- 📍 **Location:** Aurora, CO, US
-- 💰 **Salary:** $88k–$110k/yr
+### [Peer Support Specialist Apprentice – Department of Public Health & Environment](https://www.indeed.com/viewjob?jk=79b0aa7c33b3dcfa) — City and County of Denver
+- 📍 **Location:** Denver, CO, US
+- 💰 **Salary:** $23–$35/hr
 - **Work mode:** On-site
 - **Job type:** fulltime
-- 🕒 **Posted:** 2026-09-24
+- 🕒 **Posted:** 2026-09-25
 
-### [School Social Worker](https://www.indeed.com/viewjob?jk=06afe5319087f95a) — Ampersand Therapy
-- 📍 **Location:** Arvada, CO, US
-- 💰 **Salary:** $50–$60/hr
+### [Peer Support Specialist I (Focus Area Engagement Team) – Department of Public Health and Environment](https://www.indeed.com/viewjob?jk=9c7dfce628b1d440) — City and County of Denver
+- 📍 **Location:** Denver, CO, US
+- 💰 **Salary:** $23–$35/hr
 - **Work mode:** On-site
 - **Job type:** fulltime
-- 🕒 **Posted:** 2026-09-24
+- 🕒 **Posted:** 2026-09-25
 
-### [Continuing Education Program Coordinator](https://www.indeed.com/viewjob?jk=b1c2cdf27c2dafbf) — Ewing Psychological Center
+### [Certified Diabetes Care and Education Specialist](https://www.indeed.com/viewjob?jk=5e5ef4d49267e1f8) — Monte Nido
 - 📍 **Location:** Remote, US
-- 💰 **Salary:** $45k–$65k/yr
 - **Work mode:** Remote in-state eligible
-- **Job type:** parttime, fulltime
+- **Job type:** contract
 - 🕒 **Posted:** 2026-09-24
