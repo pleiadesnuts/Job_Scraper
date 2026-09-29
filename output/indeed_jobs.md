@@ -1,23 +1,17 @@
 # 🟦 Indeed — Social Worker Roles
-*Last updated: 2026-09-28 21:48 UTC*
+*Last updated: 2026-09-29 01:33 UTC*
 
-**3 new role(s)** since last run · 3 total in last 24h
+**2 new role(s)** since last run · 5 total in last 24h
 
-### [Social Worker Oncology](https://www.indeed.com/viewjob?jk=191fd90700fdb2ac) — Intermountain Health
+### [RN Case Manager - Denver, CO (Hybrid)](https://www.indeed.com/viewjob?jk=38f18e59f1edbe0f) — DaVita
 - 📍 **Location:** Denver, CO, US
-- 💰 **Salary:** $39–$60/hr
 - **Work mode:** Remote in-state eligible
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-09-28
 
-### [Social Worker - 100% Remote](https://www.indeed.com/viewjob?jk=9cc260676b06de77) — Healthmap Solutions
+### [Palliative Care Social Work Case Manager](https://www.indeed.com/viewjob?jk=4f4087a52bb13b13) — Devoted Health
 - 📍 **Location:** Remote, US
-- **Work mode:** Remote in-state eligible
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-09-28
-
-### [Executive Care Coordinator](https://www.indeed.com/viewjob?jk=eb92a70a16cc69e4) — VALERIS
-- 📍 **Location:** Remote, US
+- 💰 **Salary:** $70k–$80k/yr
 - **Work mode:** Remote in-state eligible
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-09-28
