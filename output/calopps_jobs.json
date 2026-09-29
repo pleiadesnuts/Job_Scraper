@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-09-28 22:29 UTC",
+  "scraped_at": "2026-09-29 21:18 UTC",
   "total": 12,
-  "new_count": 6,
+  "new_count": 0,
   "jobs": [
     {
       "company": "Westlake Village",
@@ -112,60 +112,5 @@
       "ats": "CalOpps"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Westlake Village",
-      "title": "Community Services Specialist",
-      "location": "Los Angeles Area",
-      "url": "https://www.calopps.org/westlake-village/job-20779427",
-      "date_posted": "",
-      "salary": "$68,052.00-$95,280.00 Annually",
-      "ats": "CalOpps"
-    },
-    {
-      "company": "Conejo Recreation And Park District",
-      "title": "Recreation Supervisor",
-      "location": "Ventura County",
-      "url": "https://www.calopps.org/conejo-recreation-and-park-district/job-20778259",
-      "date_posted": "",
-      "salary": "$8,632.00-$10,492.00 Monthly",
-      "ats": "CalOpps"
-    },
-    {
-      "company": "Tri City Mental Health Authority",
-      "title": "Program Supervisor (Peer Support) – ICM Adult, ICM Child/TAY & BHSA Programs",
-      "location": "Los Angeles Area",
-      "url": "https://www.calopps.org/tri-city-mental-health-authority/job-20776714",
-      "date_posted": "",
-      "salary": "$96,565.26-$123,244.38 Annually",
-      "ats": "CalOpps"
-    },
-    {
-      "company": "Tri City Mental Health Authority",
-      "title": "Program Supervisor (Peer Support) – Mobile Crisis Care & Adult Outpatient",
-      "location": "Los Angeles Area",
-      "url": "https://www.calopps.org/tri-city-mental-health-authority/job-20776205",
-      "date_posted": "",
-      "salary": "$96,565.26-$123,244.38 Annually",
-      "ats": "CalOpps"
-    },
-    {
-      "company": "South San Francisco",
-      "title": "Maintenance Services Supervisor (Park Maintenance)",
-      "location": "San Francisco/Peninsula",
-      "url": "https://www.calopps.org/south-san-francisco/job-20775593",
-      "date_posted": "",
-      "salary": "$121,721.00-$147,971.00 Annually",
-      "ats": "CalOpps"
-    },
-    {
-      "company": "San Rafael",
-      "title": "Program Coordinator",
-      "location": "Northern Bay Area",
-      "url": "https://www.calopps.org/san-rafael/job-20774771",
-      "date_posted": "",
-      "salary": "$6,381.00-$7,756.00 Monthly",
-      "ats": "CalOpps"
-    }
-  ]
+  "new_jobs": []
 }
