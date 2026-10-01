@@ -1,17 +1,11 @@
 # 🟦 Indeed — Social Worker Roles
-*Last updated: 2026-09-30 20:32 UTC*
+*Last updated: 2026-10-01 00:39 UTC*
 
-**2 new role(s)** since last run · 16 total in last 24h
+**1 new role(s)** since last run · 15 total in last 24h
 
-### [MSW Social Worker](https://www.indeed.com/viewjob?jk=626d696be834f1b9) — Bristol Hospice
-- 📍 **Location:** Greenwood Village, CO, US
-- 💰 **Salary:** $28–$33/hr
+### [Behavioral Health Specialist](https://www.indeed.com/viewjob?jk=57a25ed6afab937f) — Children's Hospital Colorado
+- 📍 **Location:** Broomfield, CO, US
+- 💰 **Salary:** $22–$33/hr
 - **Work mode:** On-site
 - **Job type:** fulltime
-- 🕒 **Posted:** 2026-09-29
-
-### [Education Program Coordinator, Data and Instruction (State Teacher II) - Division of Youth Services](https://www.indeed.com/viewjob?jk=11ab26be7d3dac0b) — State of Colorado
-- 📍 **Location:** Denver, CO, US
-- **Work mode:** Remote in-state eligible
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-09-29
+- 🕒 **Posted:** 2026-09-30
