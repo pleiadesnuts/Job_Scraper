@@ -1,59 +1,36 @@
 # 🟦 Indeed — Social Worker Roles
-*Last updated: 2026-10-01 20:52 UTC*
+*Last updated: 2026-10-02 00:32 UTC*
 
-**9 new role(s)** since last run · 9 total in last 24h
+**5 new role(s)** since last run · 13 total in last 24h
 
-### [Correctional Support Trades Supervisor I - Campus at Lookout Mountain](https://www.indeed.com/viewjob?jk=ab4407701a9f44c8) — Pueblo Community College
-- 📍 **Location:** Golden, CO, US
-- **Work mode:** Remote in-state eligible
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-10-01
-
-### [Case Manager Per Diem](https://www.indeed.com/viewjob?jk=3dba6e34100042c8) — Ernest Health
-- 📍 **Location:** Englewood, CO, US
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-09-30
-
-### [PRN Case Manager](https://www.indeed.com/viewjob?jk=ee0248ec73ca308f) — Ernest Health
-- 📍 **Location:** Johnstown, CO, US
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-09-30
-
-### [School Social Worker](https://www.indeed.com/viewjob?jk=594e67f26a51ef1c) — Ampersand Therapy
-- 📍 **Location:** Thornton, CO, US
-- 💰 **Salary:** $50–$60/hr
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-10-01
-
-### [Correctional Support Trade Supervisor I at Platte Valley Youth Services Center](https://www.indeed.com/viewjob?jk=88a27d1edbc60024) — Pueblo Community College
-- 📍 **Location:** Greeley, CO, US
-- **Work mode:** Remote in-state eligible
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-09-30
-
-### [Correctional Support Trade Supervisor I at Platte Valley Youth Services Center](https://www.indeed.com/viewjob?jk=b1c3867b13ade67b) — State of Colorado
-- 📍 **Location:** Greeley, CO, US
-- **Work mode:** Remote in-state eligible
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-09-30
-
-### [Community Education Specialist](https://www.indeed.com/viewjob?jk=53f4bb58e73f4c9d) — YOUNG PEOPLE IN RECOVERY - TOTALSOURCE
+### [Case Manager: Bannock Youth and Family Center](https://www.indeed.com/viewjob?jk=82966b4b67379ece) — Volunteers of America
 - 📍 **Location:** Denver, CO, US
-- **Work mode:** Remote in-state eligible
+- 💰 **Salary:** $21–$23/hr
+- **Work mode:** On-site
 - **Job type:** fulltime
-- 🕒 **Posted:** 2026-09-30
+- 🕒 **Posted:** 2026-10-01
 
-### [Virtual School Social Worker - Georgia](https://www.indeed.com/viewjob?jk=3177451af4369207) — Parallel
+### [Resident Care Coordinator](https://www.indeed.com/viewjob?jk=26d803a18dec65ef) — Ivy Living
+- 📍 **Location:** Centennial, CO, US
+- 💰 **Salary:** $25–$26/hr
+- **Work mode:** On-site
+- 🕒 **Posted:** 2026-10-01
+
+### [Behavioral Health Specialist](https://www.indeed.com/viewjob?jk=6b30e9bdf48bcc6a) — Children's Hospital Colorado
+- 📍 **Location:** Highlands Ranch, CO, US
+- 💰 **Salary:** $22–$33/hr
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-10-01
+
+### [Executive Care Coordinator, Bilingual](https://www.indeed.com/viewjob?jk=f805b33a10caec9b) — VALERIS
 - 📍 **Location:** Remote, US
 - **Work mode:** Remote in-state eligible
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-10-01
 
-### [Senior Program Coordinator](https://www.indeed.com/viewjob?jk=8c088e47a4af9ea0) — BluPrint Oncology Concepts, LLC
+### [Referral, Patient Care Coordinator](https://www.indeed.com/viewjob?jk=5505b44a8a6dbff1) — Talkiatry
 - 📍 **Location:** Remote, US
-- 💰 **Salary:** $80k–$90k/yr
 - **Work mode:** Remote in-state eligible
-- 🕒 **Posted:** 2026-09-30
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-10-01
