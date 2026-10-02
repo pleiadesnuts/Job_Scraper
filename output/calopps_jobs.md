@@ -1,6 +1,12 @@
 # 🏛 CalOpps — California Local-Agency Social Worker Roles
-*Last updated: 2026-09-29 21:18 UTC*
+*Last updated: 2026-10-02 21:11 UTC*
 
-**0 new role(s)** since last run · 12 total in recent CalOpps postings
+**2 new role(s)** since last run · 13 total in recent CalOpps postings
 
-No new CalOpps roles since the last run.
+### [Clinical Program Manager](https://www.calopps.org/tri-city-mental-health-authority/job-20781410) — Tri City Mental Health Authority
+- 📍 **Location:** Los Angeles Area
+- 💰 **Salary:** $126,701.95-$161,707.29 Annually
+
+### [Program Manager – Quality Improvement](https://www.calopps.org/tri-city-mental-health-authority/job-20780938) — Tri City Mental Health Authority
+- 📍 **Location:** Los Angeles Area
+- 💰 **Salary:** $126,701.95-$161,707.29 Annually
