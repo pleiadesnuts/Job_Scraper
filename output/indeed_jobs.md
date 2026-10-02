@@ -1,51 +1,52 @@
 # 🟦 Indeed — Social Worker Roles
-*Last updated: 2026-10-02 06:30 UTC*
+*Last updated: 2026-10-02 20:27 UTC*
 
-**7 new role(s)** since last run · 16 total in last 24h
+**7 new role(s)** since last run · 18 total in last 24h
 
-### [MSW Social Worker](https://www.indeed.com/viewjob?jk=d4d7f0c718fc4b78) — Bristol Hospice
-- 📍 **Location:** Greenwood Village, CO, US
+### [Youth Services Supervisor III- Gilliam Youth Service Center](https://www.indeed.com/viewjob?jk=3c3eb7e32d1b8085) — Pueblo Community College
+- 📍 **Location:** Denver, CO, US
+- 💰 **Salary:** $5170.16–$7240.62/mo
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-10-01
+
+### [CDOC Correctional Support Trades Supervisor I - Food Service - Denver](https://www.indeed.com/viewjob?jk=64c9609b67206c33) — Pueblo Community College
+- 📍 **Location:** Denver, CO, US
+- 💰 **Salary:** $5081–$7113/mo
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-10-01
+
+### [Youth Services Supervisor III- Gilliam Youth Service Center](https://www.indeed.com/viewjob?jk=13ac8dfc047adcec) — State of Colorado
+- 📍 **Location:** Denver, CO, US
+- 💰 **Salary:** $5170.16–$7240.62/mo
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-10-01
+
+### [Slalom Flex (Project Based) – Senior Program Manager](https://www.indeed.com/viewjob?jk=760a9d20b07ac0ee) — Slalom Consulting
+- 📍 **Location:** Denver, CO, US
+- 💰 **Salary:** $70–$89/hr
+- **Work mode:** On-site
+- 🕒 **Posted:** 2026-09-15
+
+### [Behavioral Health Education Specialist II](https://www.indeed.com/viewjob?jk=f1b0eea6f117de15) — Intermountain Health
+- 📍 **Location:** Denver, CO, US
+- 💰 **Salary:** $25.39–$40/hr
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-10-02
 
-### [Warehouse Supervisor](https://www.indeed.com/viewjob?jk=e890c501e841d82f) — Copper State Bolt & Nut Co.
-- 📍 **Location:** Commerce City, CO, US
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-10-01
-
-### [Peer Support Specialist](https://www.indeed.com/viewjob?jk=7307c96bf697cbf7) — Volunteers of America
+### [Behavioral Health Education Specialist I](https://www.indeed.com/viewjob?jk=cb1ae942d5007f3d) — Intermountain Health
 - 📍 **Location:** Denver, CO, US
-- 💰 **Salary:** $21–$23/hr
+- 💰 **Salary:** $22.98–$35/hr
 - **Work mode:** On-site
 - **Job type:** fulltime
-- 🕒 **Posted:** 2026-10-01
+- 🕒 **Posted:** 2026-10-02
 
-### [Special Education Specialist](https://www.indeed.com/viewjob?jk=654213e4d988d10e) — Denver Public Schools
-- 📍 **Location:** Denver, CO, US
-- 💰 **Salary:** $76k–$91k/yr
+### [Board-Certified Behavior Analyst - Clinical Supervisor](https://www.indeed.com/viewjob?jk=987050efb648b151) — Evoke Behavioral Health
+- 📍 **Location:** Arvada, CO, US
+- 💰 **Salary:** $75k–$87k/yr
 - **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-10-01
-
-### [Community Outreach & Engagement Supervisor](https://www.indeed.com/viewjob?jk=8fd1d65cc55299ee) — Tepeyac Community Health Center
-- 📍 **Location:** Denver, CO, US
-- 💰 **Salary:** $27.81–$30.77/hr
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-10-01
-
-### [Medical Assistant Patient Care Coordinator](https://www.indeed.com/viewjob?jk=7b82374cca80b08a) — Cosan Group
-- 📍 **Location:** Remote, US
-- 💰 **Salary:** $16.33–$24/hr
-- **Work mode:** Remote in-state eligible
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-10-01
-
-### [Dairy Program Coordinator](https://www.indeed.com/viewjob?jk=16a631dea535a35b) — The Nature Conservancy
-- 📍 **Location:** Remote, US
-- 💰 **Salary:** $60k–$85k/yr
-- **Work mode:** Remote in-state eligible
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-10-01
