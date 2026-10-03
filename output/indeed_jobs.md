@@ -1,31 +1,25 @@
 # 🟦 Indeed — Social Worker Roles
-*Last updated: 2026-10-03 05:46 UTC*
+*Last updated: 2026-10-03 19:11 UTC*
 
-**4 new role(s)** since last run · 13 total in last 24h
+**3 new role(s)** since last run · 10 total in last 24h
 
-### [Case Manager](https://www.indeed.com/viewjob?jk=7eb16fe40b536310) — Denver Regional Council of Governments
+### [CDOC Correctional Support Trades Supervisor I - Food Service - Denver](https://www.indeed.com/viewjob?jk=ed7d1a1d8014bc24) — State of Colorado
 - 📍 **Location:** Denver, CO, US
-- 💰 **Salary:** $5458.34–$6552.34/mo
+- 💰 **Salary:** $5081–$7113/mo
 - **Work mode:** On-site
 - **Job type:** fulltime
-- 🕒 **Posted:** 2026-10-02
+- 🕒 **Posted:** 2026-10-01
 
-### [Social Worker MSW](https://www.indeed.com/viewjob?jk=074c25dc6a9720aa) — HCA HealthONE Aurora
+### [Behavioral Health Specialist I](https://www.indeed.com/viewjob?jk=27a5dca08a4358f3) — UCHealth
 - 📍 **Location:** Aurora, CO, US
-- 💰 **Salary:** $26.65–$41.10/hr
+- 💰 **Salary:** $20.87–$27.13/hr
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-10-02
 
-### [Community Health Worker](https://www.indeed.com/viewjob?jk=6bb66311e55ea27a) — Oak Street Health, part of CVS Health
-- 📍 **Location:** Denver, CO, US
-- 💰 **Salary:** $18.50–$38.82/hr
+### [Behavioral Health Specialist I](https://www.indeed.com/viewjob?jk=702b0b24d3bcac21) — UCHealth
+- 📍 **Location:** Aurora, CO, US
+- 💰 **Salary:** $20.87–$27.13/hr
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-10-02
-
-### [Healthcare Coordinator](https://www.indeed.com/viewjob?jk=e7b26565fcf895a0) — Unknown
-- 📍 **Location:** Remote, US
-- **Work mode:** Remote in-state eligible
-- **Job type:** contract
-- 🕒 **Posted:** 2026-10-03
