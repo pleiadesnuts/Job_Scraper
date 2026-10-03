@@ -1,130 +1,108 @@
 # 🔥 LinkedIn — Social Worker Roles
-*Last updated: 2026-10-03 05:31 UTC*
+*Last updated: 2026-10-03 19:00 UTC*
 
-**29 new role(s)** since last run · 29 total in last 1h
+**24 new role(s)** since last run · 24 total in last 1h
 
-### [Remote Limited Master's Social Worker - Fee For Service](https://www.linkedin.com/jobs/view/4473848187/) — Thriveworks
-- 📍 **Location:** Dearborn Heights, MI
+### [Business Office Supervisor](https://www.linkedin.com/jobs/view/4466409132/) — HCA Healthcare
+- 📍 **Location:** Englewood, CO
+- 💰 **Salary:** $54891.20 - $82388.80
 - 🕒 **Posted:** 2026-10-03
 
-### [Case Manager](https://www.linkedin.com/jobs/view/4473838638/) — American Addiction Centers
-- 📍 **Location:** Worcester, MA
-- 💰 **Salary:** $26.00-$30.00 per hour
+### [Social Worker- Shadyside Family Health Center](https://www.linkedin.com/jobs/view/4464249829/) — UPMC
+- 📍 **Location:** Pittsburgh, PA
 - 🕒 **Posted:** 2026-10-03
 
-### [Remote Licensed Master's Social Worker - Fee For Service](https://www.linkedin.com/jobs/view/4473835689/) — Thriveworks
-- 📍 **Location:** McRae, GA
+### [Patient Pathway Co-ordinator - Team Leader](https://www.linkedin.com/jobs/view/4475328959/) — Frimley Health NHS Foundation Trust
+- 📍 **Location:** Ascot, England, United Kingdom
 - 🕒 **Posted:** 2026-10-03
 
-### [Program Coordinator, CSTEP](https://www.linkedin.com/jobs/view/4473833804/) — NYU Langone Health
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $61,288.35 - $67,567.50 Annually
-- 🕒 **Posted:** 2026-10-03
-
-### [Research Program Coordinator-Community Integrated Research](https://www.linkedin.com/jobs/view/4475302026/) — Mayo Clinic
-- 📍 **Location:** Scottsdale, AZ
-- 💰 **Salary:** $69,451.20 - $104,270.40
-- 🕒 **Posted:** 2026-10-03
-
-### [Philanthropy Program Coordinator - Gifts & Grants](https://www.linkedin.com/jobs/view/4475090510/) — Fred Hutch
-- 📍 **Location:** Seattle, WA
-- 💰 **Salary:** $31.26 to $44.51
-- 🕒 **Posted:** 2026-10-03
-
-### [Program Coordinator - LVN or RN license required](https://www.linkedin.com/jobs/view/4475095247/) — Unitek Learning
-- 📍 **Location:** Concord, CA
-- 🕒 **Posted:** 2026-10-03
-
-### [Senior Program Coordinator - Alz. Research](https://www.linkedin.com/jobs/view/4475090522/) — Mayo Clinic
-- 📍 **Location:** Rochester, MN
-- 💰 **Salary:** $73,736 - 110,552 annually
-- 🕒 **Posted:** 2026-10-03
-
-### [Field Supervisor](https://www.linkedin.com/jobs/view/4473368275/) — Jansahas foundation
-- 📍 **Location:** Aurangabad, Maharashtra, India
-- 🕒 **Posted:** 2026-10-03
-
-### [Program Manager - Trauma Center](https://www.linkedin.com/jobs/view/4473829900/) — NYU Langone Health
-- 📍 **Location:** Mineola, NY
-- 💰 **Salary:** $143,260.00 - $185,640.00 Annually
-- 🕒 **Posted:** 2026-10-03
-
-### [Behavioral Health Case Manager](https://www.linkedin.com/jobs/view/4473423101/) — Metropolitan Family Services
-- 📍 **Location:** Chicago, IL
-- 💰 **Salary:** $45,000 to $49,000 annually
-- 🕒 **Posted:** 2026-10-03
-
-### [Youth Counselor III](https://www.linkedin.com/jobs/view/4473848095/) — Aspiranet
-- 📍 **Location:** Turlock, CA
-- 💰 **Salary:** $25.50 - $27.00
-- 🕒 **Posted:** 2026-10-03
-
-### [Social Worker](https://www.linkedin.com/jobs/view/4475081930/) — Phoenix Children's
-- 📍 **Location:** Phoenix, AZ
-- 🕒 **Posted:** 2026-10-03
-
-### [Senior / Medical Social Worker](https://www.linkedin.com/jobs/view/4473841407/) — Cadmus Resources
-- 📍 **Location:** Singapore, Singapore
-- 🕒 **Posted:** 2026-10-03
-
-### [Social Worker-Clinical](https://www.linkedin.com/jobs/view/4475089652/) — Mayo Clinic
-- 📍 **Location:** Jacksonville, FL
-- 💰 **Salary:** $71,510.40 - $107,390.40
-- 🕒 **Posted:** 2026-10-03
-
-### [Case Manager II, LVN (Bilingual Spanish, Vietnamese, Korean or Chinese)](https://www.linkedin.com/jobs/view/4475094274/) — Clever Care Health Plan
-- 📍 **Location:** Huntington Beach, CA
-- 🕒 **Posted:** 2026-10-03
-
-### [Program Coordinator](https://www.linkedin.com/jobs/view/4473403923/) — Sevita
-- 📍 **Location:** Temple, TX
-- 🕒 **Posted:** 2026-10-03
-
-### [Area Supervisor](https://www.linkedin.com/jobs/view/4473409686/) — Sevita
-- 📍 **Location:** Brownwood, TX
-- 🕒 **Posted:** 2026-10-03
-
-### [Day Program Supervisor](https://www.linkedin.com/jobs/view/4473420262/) — Sevita
-- 📍 **Location:** Albertville, MN
-- 🕒 **Posted:** 2026-10-03
-
-### [Technical Program Manager-Health & Wellness](https://www.linkedin.com/jobs/view/4473850061/) — Manulife
+### [Supervisor, Central Transport](https://www.linkedin.com/jobs/view/4457060287/) — Tufts Medicine
 - 📍 **Location:** Boston, MA
-- 💰 **Salary:** $92,475.00 USD - $160,290.00 USD
+- 💰 **Salary:** $51,281.05 - $64,096.04
 - 🕒 **Posted:** 2026-10-03
 
-### [Supervisor(a) de Esgotamento Sanitário](https://www.linkedin.com/jobs/view/4473416374/) — Aegea Saneamento
-- 📍 **Location:** Governador Valadares, Minas Gerais, Brazil
+### [Program Manager](https://www.linkedin.com/jobs/view/4473884041/) — Sasha Bruce Youthwork
+- 📍 **Location:** Washington, DC
+- 💰 **Salary:** $85,000.00/yr - $95,000.00/yr
 - 🕒 **Posted:** 2026-10-03
 
-### [Registered Nurse (RN) Supervisor](https://www.linkedin.com/jobs/view/4473410699/) — Life Care Centers of America
-- 📍 **Location:** Kailua-Kona, HI
+### [Social Worker II](https://www.linkedin.com/jobs/view/4473864861/) — Alberta Health Services
+- 📍 **Location:** Calgary, Alberta, Canada
+- 💰 **Salary:** $42.14 - $56.02
 - 🕒 **Posted:** 2026-10-03
 
-### [Home Care Team Leader](https://www.linkedin.com/jobs/view/4475096233/) — The HICA Group
-- 📍 **Location:** Kingston Upon Hull, England, United Kingdom
+### [Social Worker (MSW)](https://www.linkedin.com/jobs/view/4465116709/) — ACG Hospice
+- 📍 **Location:** Ponca City, OK
 - 🕒 **Posted:** 2026-10-03
 
-### [Social Work Supervisor](https://www.linkedin.com/jobs/view/4473383019/) — jansahas
-- 📍 **Location:** Nandurbar, Maharashtra, India
+### [Social Worker (MSW) | Oncology](https://www.linkedin.com/jobs/view/4454631677/) — UPMC
+- 📍 **Location:** Williamsport, PA
 - 🕒 **Posted:** 2026-10-03
 
-### [Limited Master's Social Worker - Fee For Service](https://www.linkedin.com/jobs/view/4473844275/) — Thriveworks
-- 📍 **Location:** West Bloomfield Township, MI
+### [Medical Social Worker MSW](https://www.linkedin.com/jobs/view/4466447343/) — Sunrise Hospital
+- 📍 **Location:** Las Vegas, NV
+- 💰 **Salary:** $35.86 - $53.84
 - 🕒 **Posted:** 2026-10-03
 
-### [Limited Master's Social Worker - Fee For Service](https://www.linkedin.com/jobs/view/4473849135/) — Thriveworks
-- 📍 **Location:** Troy, MI
+### [Social Worker Master of Social Work](https://www.linkedin.com/jobs/view/4451859194/) — McLaren Health Care
+- 📍 **Location:** Mount Clemens, MI
 - 🕒 **Posted:** 2026-10-03
 
-### [Limited Master's Social Worker - Fee For Service](https://www.linkedin.com/jobs/view/4473829953/) — Thriveworks
-- 📍 **Location:** Royal Oak, MI
+### [Health Solutions, Program Manager, Health Solution Team](https://www.linkedin.com/jobs/view/4466496123/) — Amazon
+- 📍 **Location:** Bellevue, WA
 - 🕒 **Posted:** 2026-10-03
 
-### [Limited Master's Social Worker - Fee For Service](https://www.linkedin.com/jobs/view/4473835691/) — Thriveworks
-- 📍 **Location:** Novi, MI
+### [EHS Supervisor](https://www.linkedin.com/jobs/view/4473882092/) — Vantive
+- 📍 **Location:** Jiutepec, Morelos, Mexico
 - 🕒 **Posted:** 2026-10-03
 
-### [Licensed Master's Social Worker - Fee For Service](https://www.linkedin.com/jobs/view/4473850118/) — Thriveworks
-- 📍 **Location:** Smyrna, GA
+### [Professional Care Manager, Supervisor (RN) - Community Medicine Incorporated](https://www.linkedin.com/jobs/view/4464238078/) — UPMC
+- 📍 **Location:** Pittsburgh, PA
+- 🕒 **Posted:** 2026-10-03
+
+### [Case Manager RN PRN](https://www.linkedin.com/jobs/view/4410787372/) — HCA Florida Citrus Hospital
+- 📍 **Location:** Inverness, FL
+- 🕒 **Posted:** 2026-10-03
+
+### [RN Case Manager PRN](https://www.linkedin.com/jobs/view/4419517766/) — Research Medical Center
+- 📍 **Location:** Kansas City, MO
+- 🕒 **Posted:** 2026-10-03
+
+### [Registered Nurse Admin House Supervisor PRN](https://www.linkedin.com/jobs/view/4430135326/) — St. David's HealthCare
+- 📍 **Location:** Georgetown, TX
+- 🕒 **Posted:** 2026-10-03
+
+### [Care Coordinator- Crown Heights](https://www.linkedin.com/jobs/view/4466369982/) — Spear Physical Therapy
+- 📍 **Location:** Brooklyn, NY
+- 💰 **Salary:** $18.00/hr - $18.00/hr
+- 🕒 **Posted:** 2026-10-03
+
+### [Case Manager RN](https://www.linkedin.com/jobs/view/4466332080/) — HCA Florida Largo Hospital
+- 📍 **Location:** Largo, FL
+- 🕒 **Posted:** 2026-10-03
+
+### [Healthcare Coordinator](https://www.linkedin.com/jobs/view/4457371937/) — PDS Health
+- 📍 **Location:** San Diego, CA
+- 💰 **Salary:** $18.00/hr - $25.50/hr
+- 🕒 **Posted:** 2026-10-03
+
+### [Permanent Full-Time Housing Case Manager](https://www.linkedin.com/jobs/view/4475330917/) — Dryden Regional Health Centre
+- 📍 **Location:** Dryden, Ontario, Canada
+- 🕒 **Posted:** 2026-10-03
+
+### [Healthcare Coordinator](https://www.linkedin.com/jobs/view/4466352404/) — PDS Health
+- 📍 **Location:** Redding, CA
+- 💰 **Salary:** $20.75/hr - $29.00/hr
+- 🕒 **Posted:** 2026-10-03
+
+### [Social Worker BSW PRN](https://www.linkedin.com/jobs/view/4447701549/) — Medical City Healthcare
+- 📍 **Location:** Lewisville, TX
+- 🕒 **Posted:** 2026-10-03
+
+### [RN Case Manager Inpatient Rehab PRN](https://www.linkedin.com/jobs/view/4466402240/) — HCA Florida Gulf Coast Hospital
+- 📍 **Location:** Panama City, FL
+- 🕒 **Posted:** 2026-10-03
+
+### [Spiritual Care Coordinator / Hospice Chaplain](https://www.linkedin.com/jobs/view/4465120685/) — ACG Hospice
+- 📍 **Location:** Vicksburg, MS
 - 🕒 **Posted:** 2026-10-03
