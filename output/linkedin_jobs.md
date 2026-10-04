@@ -1,61 +1,73 @@
 # 🔥 LinkedIn — Social Worker Roles
-*Last updated: 2026-10-04 07:05 UTC*
+*Last updated: 2026-10-04 18:56 UTC*
 
-**13 new role(s)** since last run · 13 total in last 1h
+**16 new role(s)** since last run · 16 total in last 1h
 
-### [Behavioral Health Specialist III - Multiple Locations](https://www.linkedin.com/jobs/view/4465124048/) — County of Riverside
-- 📍 **Location:** Riverside County, CA
+### [Wellness Coordinator](https://www.linkedin.com/jobs/view/4473490616/) — TalentHop
+- 📍 **Location:** United States
+- 💰 **Salary:** $18.00 to $32.00
 - 🕒 **Posted:** 2026-10-04
 
-### [Licensed Master Social Worker  - Children's  Outpatient Behavioral Health](https://www.linkedin.com/jobs/view/4475370410/) — St. Joseph's Health
-- 📍 **Location:** Syracuse, NY
-- 💰 **Salary:** $31.37 - $47.50
+### [Behavioral Health Specialist](https://www.linkedin.com/jobs/view/4420225531/) — Children's Hospital Colorado
+- 📍 **Location:** Aurora, CO
+- 💰 **Salary:** $22.20 to $33.30
 - 🕒 **Posted:** 2026-10-04
 
-### [Assistant Senior / Senior Social Worker](https://www.linkedin.com/jobs/view/4475362840/) — Rainbow Centre
-- 📍 **Location:** Sembawang, North Region, Singapore
+### [Social Worker/Psychotherapist](https://www.linkedin.com/jobs/view/4474219396/) — Grace North Psychotherapy
+- 📍 **Location:** Barrie, Ontario, Canada
 - 🕒 **Posted:** 2026-10-04
 
-### [Licensed Master Social Worker - Outpatient](https://www.linkedin.com/jobs/view/4475382026/) — St. Peter's Health Partners
-- 📍 **Location:** Troy, NY
-- 💰 **Salary:** $30.00 - $43.08
+### [Clinic Training Coordinator- Clinical/Hybrid](https://www.linkedin.com/jobs/view/4473481959/) — Mercy Hospital St. Louis Critical Care Medicine Fellowship
+- 📍 **Location:** Chesterfield, MO
 - 🕒 **Posted:** 2026-10-04
 
-### [Patient Pathway Co-ordinator - Team Leader](https://www.linkedin.com/jobs/view/4475371306/) — Frimley Health NHS Foundation Trust
-- 📍 **Location:** Ascot, England, United Kingdom
+### [Senior Officer - School Review Program Coordinator](https://www.linkedin.com/jobs/view/4468532037/) — Brisbane Catholic Education
+- 📍 **Location:** Brisbane City, Queensland, Australia
+- 💰 **Salary:** $106,703 - $118,555
 - 🕒 **Posted:** 2026-10-04
 
-### [Care Coordinator Social Worker](https://www.linkedin.com/jobs/view/4475365655/) — Wellstar Health System
-- 📍 **Location:** Marietta, GA
+### [Grants & Contracts Office Program Supervisor - Office of Research](https://www.linkedin.com/jobs/view/4430907648/) — Medical College of Wisconsin
+- 📍 **Location:** Milwaukee, WI
 - 🕒 **Posted:** 2026-10-04
 
-### [Field Service Supervisor - $5000 Sign On Bonus](https://www.linkedin.com/jobs/view/4475381035/) — Clean Harbors
-- 📍 **Location:** Cloquet, MN
-- 💰 **Salary:** $18.00/hr - $53.00/hr
+### [Operations Supervisor, Hub Delivery](https://www.linkedin.com/jobs/view/4475509352/) — Amazon
+- 📍 **Location:** Cairo, Cairo, Egypt
 - 🕒 **Posted:** 2026-10-04
 
-### [Facilities Maintenance Supervisor](https://www.linkedin.com/jobs/view/4475370411/) — St. Peter's Health Partners
-- 📍 **Location:** Troy, NY
+### [Well-being Program Manager](https://www.linkedin.com/jobs/view/4409993908/) — NVIDIA
+- 📍 **Location:** Taipei, Taipei City, Taiwan
 - 🕒 **Posted:** 2026-10-04
 
-### [Education Specialist (Teacher)](https://www.linkedin.com/jobs/view/4475365607/) — State of Missouri
-- 📍 **Location:** Waverly, MO
-- 💰 **Salary:** $2,023.00 - $2,495.51
+### [Intake Specialist - Part Time - Springfield (Nights)](https://www.linkedin.com/jobs/view/4473479976/) — Mercy Hospital St. Louis Critical Care Medicine Fellowship
+- 📍 **Location:** Springfield, MO
 - 🕒 **Posted:** 2026-10-04
 
-### [Education Specialist Hawthorn Children's Psychiatric Hospital](https://www.linkedin.com/jobs/view/4475360865/) — State of Missouri
-- 📍 **Location:** St. Louis County, MO
+### [Firefighting Supervisor](https://www.linkedin.com/jobs/view/4473497276/) — Zakat, Tax and Customs Authority
+- 📍 **Location:** Riyadh, Riyadh, Saudi Arabia
 - 🕒 **Posted:** 2026-10-04
 
-### [Supervisor Environmental Services - Full Time -  Evenings -](https://www.linkedin.com/jobs/view/4475371320/) — Wellstar Health System
-- 📍 **Location:** Marietta, GA
+### [Care Coordinator- Mount Sinai at Home - Full Time Days](https://www.linkedin.com/jobs/view/4473496403/) — TalentHop
+- 📍 **Location:** United States
+- 💰 **Salary:** $25.32 to $37.97 hourly
 - 🕒 **Posted:** 2026-10-04
 
-### [Senior Case Manager | Personal Injury](https://www.linkedin.com/jobs/view/4473469451/) — The Ward Law Group, PL
-- 📍 **Location:** Argentina
+### [Social Services Case Manager - Psychiatry Adult Inpatient - Per Diem - Days - MRH](https://www.linkedin.com/jobs/view/4438333348/) — Memorial Healthcare System
+- 📍 **Location:** Hollywood, FL
 - 🕒 **Posted:** 2026-10-04
 
-### [: Full time Social Worker - Hospice Columbia and Greene Counties](https://www.linkedin.com/jobs/view/4475369409/) — St. Peter's Health Partners
-- 📍 **Location:** Catskill, NY
-- 💰 **Salary:** $30.00 - $43.08
+### [EHS Supervisor](https://www.linkedin.com/jobs/view/4474221269/) — Vantive
+- 📍 **Location:** Jiutepec, Morelos, Mexico
+- 🕒 **Posted:** 2026-10-04
+
+### [Supervisor](https://www.linkedin.com/jobs/view/4475391979/) — Frasers Group
+- 📍 **Location:** Enniskillen, Northern Ireland, United Kingdom
+- 🕒 **Posted:** 2026-10-04
+
+### [Registered Nurse Case Manager](https://www.linkedin.com/jobs/view/4475399661/) — Hospice Of The West
+- 📍 **Location:** Phoenix, AZ
+- 💰 **Salary:** $83,000.00 - $94,000.00 per hour
+- 🕒 **Posted:** 2026-10-04
+
+### [Medical Social Worker](https://www.linkedin.com/jobs/view/4421235991/) — University Medical Center of Southern Nevada (UMC)
+- 📍 **Location:** Las Vegas, NV
 - 🕒 **Posted:** 2026-10-04
