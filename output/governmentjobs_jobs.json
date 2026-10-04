@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-10-02 21:00 UTC",
+  "scraped_at": "2026-10-04 19:49 UTC",
   "total": 1,
-  "new_count": 1,
+  "new_count": 0,
   "jobs": [
     {
       "company": "County of San Mateo",
@@ -13,15 +13,5 @@
       "ats": "NEOGOV"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "County of San Mateo",
-      "title": "Environmental Health Program Supervisor (Open & Promotional)",
-      "location": "County of San Mateo, CA",
-      "url": "https://www.governmentjobs.com/jobs/5500148-0/environmental-health-program-supervisor-open-promotional",
-      "date_posted": "",
-      "salary": "$11,989.47 - $14,984.67 Monthly",
-      "ats": "NEOGOV"
-    }
-  ]
+  "new_jobs": []
 }

@@ -1,8 +1,17 @@
 {
-  "scraped_at": "2026-10-02 21:11 UTC",
-  "total": 13,
-  "new_count": 2,
+  "scraped_at": "2026-10-04 19:56 UTC",
+  "total": 12,
+  "new_count": 1,
   "jobs": [
+    {
+      "company": "Newark",
+      "title": "Maintenance Supervisor",
+      "location": "East Bay",
+      "url": "https://www.calopps.org/newark/job-20782135",
+      "date_posted": "",
+      "salary": "$68.86-$83.69 Hourly",
+      "ats": "CalOpps"
+    },
     {
       "company": "Tri City Mental Health Authority",
       "title": "Clinical Program Manager",
@@ -37,24 +46,6 @@
       "url": "https://www.calopps.org/conejo-recreation-and-park-district/job-20778259",
       "date_posted": "",
       "salary": "$8,632.00-$10,492.00 Monthly",
-      "ats": "CalOpps"
-    },
-    {
-      "company": "Tri City Mental Health Authority",
-      "title": "Program Supervisor (Peer Support) – ICM Adult, ICM Child/TAY & BHSA Programs",
-      "location": "Los Angeles Area",
-      "url": "https://www.calopps.org/tri-city-mental-health-authority/job-20776714",
-      "date_posted": "",
-      "salary": "$96,565.26-$123,244.38 Annually",
-      "ats": "CalOpps"
-    },
-    {
-      "company": "Tri City Mental Health Authority",
-      "title": "Program Supervisor (Peer Support) – Mobile Crisis Care & Adult Outpatient",
-      "location": "Los Angeles Area",
-      "url": "https://www.calopps.org/tri-city-mental-health-authority/job-20776205",
-      "date_posted": "",
-      "salary": "$96,565.26-$123,244.38 Annually",
       "ats": "CalOpps"
     },
     {
@@ -123,21 +114,12 @@
   ],
   "new_jobs": [
     {
-      "company": "Tri City Mental Health Authority",
-      "title": "Clinical Program Manager",
-      "location": "Los Angeles Area",
-      "url": "https://www.calopps.org/tri-city-mental-health-authority/job-20781410",
+      "company": "Newark",
+      "title": "Maintenance Supervisor",
+      "location": "East Bay",
+      "url": "https://www.calopps.org/newark/job-20782135",
       "date_posted": "",
-      "salary": "$126,701.95-$161,707.29 Annually",
-      "ats": "CalOpps"
-    },
-    {
-      "company": "Tri City Mental Health Authority",
-      "title": "Program Manager – Quality Improvement",
-      "location": "Los Angeles Area",
-      "url": "https://www.calopps.org/tri-city-mental-health-authority/job-20780938",
-      "date_posted": "",
-      "salary": "$126,701.95-$161,707.29 Annually",
+      "salary": "$68.86-$83.69 Hourly",
       "ats": "CalOpps"
     }
   ]
