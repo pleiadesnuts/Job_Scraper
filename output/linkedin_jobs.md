@@ -1,38 +1,56 @@
 # 🔥 LinkedIn — Social Worker Roles
-*Last updated: 2026-10-04 22:34 UTC*
+*Last updated: 2026-10-05 01:25 UTC*
 
-**8 new role(s)** since last run · 8 total in last 1h
+**12 new role(s)** since last run · 12 total in last 1h
 
-### [Youth Recreational and Leisure Activities Program Coordinator](https://www.linkedin.com/jobs/view/4474222372/) — DEAF.art
-- 📍 **Location:** Edmonton, Alberta, Canada
-- 🕒 **Posted:** 2026-10-04
+### [RN Case Manager $100-$108,250 Annually $5000 Retention Bonus](https://www.linkedin.com/jobs/view/4474234211/) — Christian Living Communities
+- 📍 **Location:** Denver, CO
+- 💰 **Salary:** $100-$108,250 Annually
+- 🕒 **Posted:** 2026-10-05
 
-### [Snow Scholarship Program Coordinator](https://www.linkedin.com/jobs/view/4474233051/) — University of Canberra
-- 📍 **Location:** Belconnen, Australian Capital Territory, Australia
-- 🕒 **Posted:** 2026-10-04
+### [Social Worker](https://www.linkedin.com/jobs/view/4468763659/) — Derbyshire County Council
+- 📍 **Location:** Derby, England, United Kingdom
+- 🕒 **Posted:** 2026-10-05
 
-### [Client Care Coordinator](https://www.linkedin.com/jobs/view/4475521137/) — Senior Helpers of Baltimore and Central Maryland
-- 📍 **Location:** Towson, MD
-- 💰 **Salary:** $50,000–$62,000 annually
-- 🕒 **Posted:** 2026-10-04
+### [Social Worker](https://www.linkedin.com/jobs/view/4468757759/) — Derbyshire County Council
+- 📍 **Location:** Derby, England, United Kingdom
+- 🕒 **Posted:** 2026-10-05
 
-### [Administration Team Leader](https://www.linkedin.com/jobs/view/4473484973/) — University Hospital Southampton NHS FT
-- 📍 **Location:** Southampton, England, United Kingdom
-- 🕒 **Posted:** 2026-10-04
+### [Clinical Care Coordinator](https://www.linkedin.com/jobs/view/4474218645/) — Providence
+- 📍 **Location:** Eureka, CA
+- 💰 **Salary:** $25.37/hr - $29.81/hr
+- 🕒 **Posted:** 2026-10-05
 
-### [Family Support Worker](https://www.linkedin.com/jobs/view/4475512654/) — Rimo Jobs
-- 📍 **Location:** Birmingham, England, United Kingdom
-- 🕒 **Posted:** 2026-10-04
+### [Youth Justice Case Manager - South East Metro](https://www.linkedin.com/jobs/view/4475532061/) — Department of Justice and Community Safety, Victoria
+- 📍 **Location:** Greater Melbourne Area
+- 💰 **Salary:** $77,150 - $94,730 per year
+- 🕒 **Posted:** 2026-10-05
 
-### [Dental Health Educator - Designed to Smile](https://www.linkedin.com/jobs/view/4475524098/) — Betsi Cadwaladr University Health Board
-- 📍 **Location:** Blaenau Ffestiniog, Wales, United Kingdom
-- 🕒 **Posted:** 2026-10-04
+### [Youth Justice Case Manager - North West Metro](https://www.linkedin.com/jobs/view/4475529148/) — Department of Justice and Community Safety, Victoria
+- 📍 **Location:** Melbourne, Victoria, Australia
+- 💰 **Salary:** $77,150 - $94,730 per year
+- 🕒 **Posted:** 2026-10-05
 
-### [Associate Patient Care Coordinator](https://www.linkedin.com/jobs/view/4475512602/) — Optum
-- 📍 **Location:** Kent, OH
-- 💰 **Salary:** $16.00 to $29.00 per hour
-- 🕒 **Posted:** 2026-10-04
+### [Social Worker (2 Posts)](https://www.linkedin.com/jobs/view/4465766254/) — Derbyshire County Council
+- 📍 **Location:** Derby, England, United Kingdom
+- 🕒 **Posted:** 2026-10-05
 
-### [After Hours Care Coordinator (Remote | Part-Time)](https://www.linkedin.com/jobs/view/4474217521/) — Premiere Care Solutions
-- 📍 **Location:** Houston, TX
-- 🕒 **Posted:** 2026-10-04
+### [King's Trust Assistant Team Leader](https://www.linkedin.com/jobs/view/4474237075/) — Capital City College
+- 📍 **Location:** London, England, United Kingdom
+- 🕒 **Posted:** 2026-10-05
+
+### [Program Manager, WHS CPT](https://www.linkedin.com/jobs/view/4475509921/) — Amazon
+- 📍 **Location:** Bengaluru, Karnataka, India
+- 🕒 **Posted:** 2026-10-05
+
+### [Sr. Program Manager, Workplace Health & Safety (WHS) Operational Excellence (OpEx)](https://www.linkedin.com/jobs/view/4475530044/) — Amazon
+- 📍 **Location:** Nashville, TN
+- 🕒 **Posted:** 2026-10-05
+
+### [Case Manager](https://www.linkedin.com/jobs/view/4474225597/) — BSW The Heart Hospital Dallas
+- 📍 **Location:** Dallas, TX
+- 🕒 **Posted:** 2026-10-05
+
+### [Social Worker - Fostering](https://www.linkedin.com/jobs/view/4471521655/) — Derbyshire County Council
+- 📍 **Location:** Derby, England, United Kingdom
+- 🕒 **Posted:** 2026-10-05
