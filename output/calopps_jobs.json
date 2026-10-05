@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-10-04 19:56 UTC",
+  "scraped_at": "2026-10-05 23:00 UTC",
   "total": 12,
-  "new_count": 1,
+  "new_count": 0,
   "jobs": [
     {
       "company": "Newark",
@@ -112,15 +112,5 @@
       "ats": "CalOpps"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Newark",
-      "title": "Maintenance Supervisor",
-      "location": "East Bay",
-      "url": "https://www.calopps.org/newark/job-20782135",
-      "date_posted": "",
-      "salary": "$68.86-$83.69 Hourly",
-      "ats": "CalOpps"
-    }
-  ]
+  "new_jobs": []
 }
